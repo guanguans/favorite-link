@@ -1,10 +1,6 @@
-# today-i-liked
+# favorite link
 
-收集每天看到的优秀的文章
-
-## License
-
-[GNU General Public License v3.0](LICENSE)
+收集喜欢的网址
 
 ### August 29, 2018 
 
@@ -12,3 +8,7 @@
 - [A collection of awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) 
 - [composer 范例包](https://github.com/thephpleague/skeleton) 
 - [PHP 开发者该知道的 5 个 Composer 小技巧](https://www.phpcomposer.com/5-features-to-know-about-composer-php/) 
+
+## License
+
+[GNU General Public License v3.0](LICENSE)
