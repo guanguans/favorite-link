@@ -12,3 +12,4 @@
 ## License
 
 [GNU General Public License v3.0](LICENSE)
+- [github star 整理](https://app.astralapp.com/dashboard) 
