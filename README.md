@@ -6,6 +6,7 @@
 
 [GNU General Public License v3.0](LICENSE)
 
+- [pt-query-digest: 从日志，进程列表和 tcpdump 分析 MySQL 查询](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html) 
 ### August 29, 2018 
 
 - [浅谈常见的NoSQL技术方案和选型](https://juejin.im/post/5b85114be51d4559a81eda73?utm_source=gold_browser_extension) 
