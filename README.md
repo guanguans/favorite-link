@@ -8,6 +8,7 @@
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools/) 
 - [clockwork-chrome - Clockwork是一个浏览器扩展，提供调试和分析PHP应用程序的工具，包括请求数据，应用程序日志，数据库查询，路由，应用程序运行时的可视化等。](https://github.com/itsgoingd/clockwork-chrome) 
 - [remotedebug-gateway - 允许您一次将客户端连接到多个浏览器](https://github.com/RemoteDebug/remotedebug-gateway) 
+- [AwesomeList top](https://github-serendipity.github.io/repo/sindresorhus___awesome-nodejs) 
 ### August 29, 2018 
 - [浅谈常见的NoSQL技术方案和选型](https://juejin.im/post/5b85114be51d4559a81eda73?utm_source=gold_browser_extension) 
 - [A collection of awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) 
