@@ -11,5 +11,6 @@
 - [pt-query-digest: 从日志，进程列表和 tcpdump 分析 MySQL 查询](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html) 
 - [MySQL 生成千万级的测试数据](https://www.phpnote.cc/mysql-make-large-data) 
 
+- [clockwork-chrome - Clockwork是一个浏览器扩展，提供调试和分析PHP应用程序的工具，包括请求数据，应用程序日志，数据库查询，路由，应用程序运行时的可视化等。](https://github.com/itsgoingd/clockwork-chrome) 
 ### August 30, 2018 
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools/) 
