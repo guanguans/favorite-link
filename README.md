@@ -8,6 +8,7 @@
 ### September 2, 2018 
 - [一个收集在 GitHub 上作弊用户的黑名单项目](https://github.com/cheathub/cheats) 
 - [中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。](https://github.com/pwxcoo/chinese-xinhua) 
+- [大型系统设计的基础知识](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md#2-%E7%9A%84%E6%AC%A1%E6%96%B9%E8%A1%A8) 
 ### August 30, 2018 
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools/) 
 - [clockwork-chrome - Clockwork是一个浏览器扩展，提供调试和分析PHP应用程序的工具，包括请求数据，应用程序日志，数据库查询，路由，应用程序运行时的可视化等。](https://github.com/itsgoingd/clockwork-chrome) 
