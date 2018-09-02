@@ -4,6 +4,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### September 2, 2018 
+- [一个收集在 GitHub 上作弊用户的黑名单项目](https://github.com/cheathub/cheats) 
 ### August 30, 2018 
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools/) 
 - [clockwork-chrome - Clockwork是一个浏览器扩展，提供调试和分析PHP应用程序的工具，包括请求数据，应用程序日志，数据库查询，路由，应用程序运行时的可视化等。](https://github.com/itsgoingd/clockwork-chrome) 
