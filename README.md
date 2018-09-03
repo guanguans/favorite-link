@@ -5,6 +5,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### September 3, 2018 
+- [收集&推荐优秀的 Apps/硬件/技巧/周边等。](https://github.com/hzlzh/Best-App) 
 ### September 2, 2018 
 - [一个收集在 GitHub 上作弊用户的黑名单项目](https://github.com/cheathub/cheats) 
 - [中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典API。](https://github.com/pwxcoo/chinese-xinhua) 
