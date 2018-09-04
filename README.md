@@ -6,6 +6,9 @@
 
 
 
+
+### September 4, 2018 
+- [《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book) 
 ### September 3, 2018 
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等。](https://github.com/hzlzh/Best-App) 
 ### September 2, 2018 
