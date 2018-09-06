@@ -10,6 +10,7 @@
 
 ### September 6, 2018 
 - [php7.x 新特性。](https://blog.csdn.net/yoloyy/article/details/80757910) 
+- [Go语言高级编程 (Advanced Go Programming)。](https://github.com/chai2010/advanced-go-programming-book) 
 ### September 4, 2018 
 - [《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book) 
 - [PHP 面试知识点汇总。](https://github.com/wudi/PHP-Interview-Best-Practices-in-China) 
