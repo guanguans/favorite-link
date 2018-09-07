@@ -8,6 +8,9 @@
 
 
 
+
+### September 7, 2018 
+- [中华人民共和国居民身份证号码验证工具。](https://github.com/jxlwqq/id-validator) 
 ### September 6, 2018 
 - [php7.x 新特性。](https://blog.csdn.net/yoloyy/article/details/80757910) 
 - [Go语言高级编程 (Advanced Go Programming)。](https://github.com/chai2010/advanced-go-programming-book) 
