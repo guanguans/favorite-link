@@ -9,6 +9,9 @@
 
 
 
+
+### September 8, 2018 
+- [📚 免费的计算机编程类中文书籍。](https://github.com/justjavac/free-programming-books-zh_CN) 
 ### September 7, 2018 
 - [中华人民共和国居民身份证号码验证工具。](https://github.com/jxlwqq/id-validator) 
 ### September 6, 2018 
