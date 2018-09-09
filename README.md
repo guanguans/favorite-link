@@ -13,6 +13,7 @@
 
 ### September 9, 2018 
 - [eoLinker是国内最大的在线API接口管理平台，提供自动生成API文档、API自动化测试、Mock测试、团队协作等功能。](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP) 
+- [V2EX 撕逼大战。](https://github.com/greatghoul/sibi) 
 ### September 8, 2018 
 - [📚 免费的计算机编程类中文书籍。](https://github.com/justjavac/free-programming-books-zh_CN) 
 - [可能是让你受益匪浅的英语进阶指南。](https://github.com/byoungd/English-level-up-tips-for-Chinese) 
