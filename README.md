@@ -12,6 +12,9 @@
 
 
 
+
+### September 11, 2018 
+- [2018前端常见题汇总，不定时更新。](https://github.com/qianbin01/frontend_train) 
 ### September 10, 2018 
 - [Node.js API 中文文档。](https://github.com/nodejscn/node-api-cn) 
 ### September 9, 2018 
