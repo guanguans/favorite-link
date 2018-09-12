@@ -16,6 +16,7 @@
 
 ### September 12, 2018 
 - [搜索互动地图以了解任何内容 https://learn-anything.xyz。](https://github.com/learn-anything/learn-anything) 
+- [一堆初中生写的类库、框架。](https://www.v2ex.com/t/461811) 
 ### September 11, 2018 
 - [2018前端常见题汇总，不定时更新。](https://github.com/qianbin01/frontend_train) 
 ### September 10, 2018 
