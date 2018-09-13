@@ -17,6 +17,7 @@
 
 ### September 13, 2018 
 - [一个网站部署包。](https://github.com/deployphp/recipes) 
+- [RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。](https://github.com/DIYgod/RSSHub) 
 ### September 12, 2018 
 - [搜索互动地图以了解任何内容 https://learn-anything.xyz。](https://github.com/learn-anything/learn-anything) 
 - [一堆初中生写的类库、框架。](https://www.v2ex.com/t/461811) 
