@@ -19,6 +19,7 @@
 ### September 14, 2018 
 - [又一个Linux VPS测评脚本。](https://github.com/FunctionClub/ZBench) 
 - [高性能, 并发抢占锁, 并发队列锁。](https://github.com/zhaocong6/lock) 
+- [支持多家云存储的云盘系统。](https://github.com/HFO4/Cloudreve?utm_source=gold_browser_extension) 
 ### September 13, 2018 
 - [一个网站部署包。](https://github.com/deployphp/recipes) 
 - [RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。](https://github.com/DIYgod/RSSHub) 
