@@ -19,6 +19,7 @@
 
 ### September 15, 2018 
 - [基于 Swoole 开发的协程 PHP 开发框架，常驻内存、协程异步。](https://github.com/Yurunsoft/IMI) 
+- [Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) 
 ### September 14, 2018 
 - [又一个Linux VPS测评脚本。](https://github.com/FunctionClub/ZBench) 
 - [高性能, 并发抢占锁, 并发队列锁。](https://github.com/zhaocong6/lock) 
