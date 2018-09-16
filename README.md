@@ -17,6 +17,9 @@
 
 
 
+
+### September 16, 2018 
+- [深度有趣 - 人工智能实战项目合集。](https://github.com/Honlan/DeepInterests) 
 ### September 15, 2018 
 - [基于 Swoole 开发的协程 PHP 开发框架，常驻内存、协程异步。](https://github.com/Yurunsoft/IMI) 
 - [Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) 
