@@ -18,6 +18,9 @@
 
 
 
+
+### September 17, 2018 
+- [PHP代码职业生涯中的一些小技巧🐘http://easy-tips.tigerb.cn。](https://github.com/TIGERB/easy-tips) 
 ### September 16, 2018 
 - [深度有趣 - 人工智能实战项目合集。](https://github.com/Honlan/DeepInterests) 
 - [为互联网IT人打造的中文版awesome-go。](https://github.com/hackstoic/golang-open-source-projects#%E7%9B%AE%E5%BD%95) 
