@@ -7,6 +7,7 @@
 ### September 18, 2018 
 - [Laravel 5 系列入门教程。](https://github.com/johnlui/Learn-Laravel-5) 
 - [网页微信PHP登录的实现。](https://github.com/lbbniu/WebWechat) 
+- [PHP底层内核源码分析和扩展开发。](https://github.com/huqinlou0123/php-internals-extended-development-course) 
 ### September 17, 2018 
 - [PHP代码职业生涯中的一些小技巧🐘http://easy-tips.tigerb.cn。](https://github.com/TIGERB/easy-tips) 
 ### September 16, 2018 
