@@ -22,6 +22,7 @@
 
 ### September 18, 2018 
 - [Laravel 5 系列入门教程。](https://github.com/johnlui/Learn-Laravel-5) 
+- [PHP 面试知识点汇总。](https://github.com/wudi/PHP-Interview-Best-Practices-in-China) 
 ### September 17, 2018 
 - [PHP代码职业生涯中的一些小技巧🐘http://easy-tips.tigerb.cn。](https://github.com/TIGERB/easy-tips) 
 ### September 16, 2018 
