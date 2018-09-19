@@ -7,6 +7,7 @@
 
 ### September 19, 2018 
 - [Laravel 5.7 blog application with Vue.js, Docker, Redis, Horizon and Pusher。](https://github.com/guillaumebriday/laravel-blog) 
+- [独立开发/自由职业/远程工作资源列表。](https://github.com/apachecn/awesome-indie-zh) 
 ### September 18, 2018 
 - [Laravel 5 系列入门教程。](https://github.com/johnlui/Learn-Laravel-5) 
 - [网页微信PHP登录的实现。](https://github.com/lbbniu/WebWechat) 
