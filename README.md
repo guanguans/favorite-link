@@ -4,6 +4,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### September 19, 2018 
+- [Laravel 5.7 blog application with Vue.js, Docker, Redis, Horizon and Pusher。](https://github.com/guillaumebriday/laravel-blog) 
 ### September 18, 2018 
 - [Laravel 5 系列入门教程。](https://github.com/johnlui/Learn-Laravel-5) 
 - [网页微信PHP登录的实现。](https://github.com/lbbniu/WebWechat) 
