@@ -5,6 +5,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### September 20, 2018 
+- [Serialize closures (anonymous functions) https://opis.io/closure。](https://github.com/opis/closure) 
 ### September 19, 2018 
 - [Laravel 5.7 blog application with Vue.js, Docker, Redis, Horizon and Pusher。](https://github.com/guillaumebriday/laravel-blog) 
 - [独立开发/自由职业/远程工作资源列表。](https://github.com/apachecn/awesome-indie-zh) 
