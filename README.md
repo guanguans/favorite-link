@@ -11,6 +11,7 @@
 - [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现。](https://github.com/apachecn/awesome-leetcode) 
 - [SimPic是一个开源的PHP图床。](https://github.com/xinyewl/Simpic) 
 - [谈谈一些有趣的 CSS 话题。](https://github.com/chokcoco/iCSS) 
+- [PHP比特币开发详解：本课程面向初学者，内容即涵盖比特币的核心概念。](https://github.com/jimilai/bitcoin) 
 ### September 20, 2018 
 - [Serialize closures (anonymous functions) https://opis.io/closure。](https://github.com/opis/closure) 
 ### September 19, 2018 
