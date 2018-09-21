@@ -9,6 +9,7 @@
 
 ### September 21, 2018 
 - [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现。](https://github.com/apachecn/awesome-leetcode) 
+- [SimPic是一个开源的PHP图床。](https://github.com/xinyewl/Simpic) 
 ### September 20, 2018 
 - [Serialize closures (anonymous functions) https://opis.io/closure。](https://github.com/opis/closure) 
 ### September 19, 2018 
