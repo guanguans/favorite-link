@@ -13,6 +13,7 @@
 - [谈谈一些有趣的 CSS 话题。](https://github.com/chokcoco/iCSS) 
 - [PHP比特币开发详解：本课程面向初学者，内容即涵盖比特币的核心概念。](https://github.com/jimilai/bitcoin) 
 - [Laravel 的中大型專案架構 | 點燈坊。](https://oomusou.io/laravel/architecture/) 
+- [Gitlab 安装和配置。](https://github.com/judasn/Linux-Tutorial/blob/master/markdown-file/Gitlab-Install-And-Settings.md) 
 ### September 20, 2018 
 - [Serialize closures (anonymous functions) https://opis.io/closure。](https://github.com/opis/closure) 
 ### September 19, 2018 
