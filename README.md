@@ -14,6 +14,7 @@
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。](https://github.com/YMFE/yapi) 
 - [swoole内核分析，基于swoole2.0.13。](https://github.com/aizsfgk/swoole-core-analysis) 
 - [基于 Chrome 和 Vue.js 开发的第三方即刻通知插件。](https://github.com/coder-ysj/jike-meow) 
+- [github徽章服务。](https://github.com/badges/shields) 
 ### September 21, 2018 
 - [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现。](https://github.com/apachecn/awesome-leetcode) 
 - [SimPic是一个开源的PHP图床。](https://github.com/xinyewl/Simpic) 
