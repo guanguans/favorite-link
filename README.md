@@ -12,6 +12,7 @@
 - [PHP Server Monitor是一个脚本，用于检查您的网站和服务器是否已启动并正在运行。它带有一个基于Web的用户界面，您可以在其中管理您的服务和网站，还可以使用手机号码和电子邮件地址管理每个服务器的用户。](https://github.com/phpservermon/phpservermon) 
 - [php-interview-2018: 面试总结。](https://github.com/sushengbuhuo/php-interview-2018) 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台。](https://github.com/YMFE/yapi) 
+- [swoole内核分析，基于swoole2.0.13。](https://github.com/aizsfgk/swoole-core-analysis) 
 ### September 21, 2018 
 - [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现。](https://github.com/apachecn/awesome-leetcode) 
 - [SimPic是一个开源的PHP图床。](https://github.com/xinyewl/Simpic) 
