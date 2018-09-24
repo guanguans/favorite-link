@@ -12,6 +12,7 @@
 
 ### September 24, 2018 
 - [基于PHP的反病毒反木马反恶意软件解决方案。](https://github.com/phpMussel/phpMussel) 
+- [一个简单的图书 SDK，你可以使用它用于获取指定书籍的基本信息。](https://github.com/Littlesqx/douban-book) 
 ### September 23, 2018 
 - [重新定义微信小程序的开发。](https://github.com/qiu8310/minapp) 
 - [一个安全的私有聊天软件。](https://github.com/duckchat/gaga) 
