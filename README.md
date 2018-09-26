@@ -17,6 +17,7 @@
 - [QR码生成器。](https://github.com/alexeyten/qr-image) 
 - [VPN Chrome是基于Google Chromium的浏览器，具有内置的VPN功能，可让用户以安全和私密的方式上网。](https://github.com/free-vpn/chrome) 
 - [此存储库包含使用大多数纯PHP的比特币实现。](https://github.com/Bit-Wasp/bitcoin-php) 
+- [Minera是一个管理和监控比特币采矿硬件的完整系统。](https://github.com/getminera/minera) 
 ### September 25, 2018 
 - [前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 替代的方法，暂时只支持 IE10 以上浏览器](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md) 
 - [ClickHouse是一个面向开源列的数据库管理系统，可以实时生成分析数据报告。](https://github.com/yandex/ClickHouse) 
