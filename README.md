@@ -12,6 +12,9 @@
 
 
 
+
+### September 27, 2018 
+- [前端笔试面试题题库。](https://github.com/jirengu/frontend-interview) 
 ### September 26, 2018 
 - [使用开源Laravel Envoy工具提供基本的“零停机”部署。](https://github.com/papertank/envoy-deploy) 
 - [QR码生成器。](https://github.com/alexeyten/qr-image) 
