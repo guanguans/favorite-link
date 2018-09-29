@@ -18,6 +18,7 @@
 ### September 29, 2018 
 - [蓝灯最新版本下载。](https://github.com/getlantern/lantern) 
 - [来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。](https://github.com/nonfu/awesome-laravel) 
+- [用于备份Laravel应用程序的软件包。](https://github.com/spatie/laravel-backup) 
 ### September 28, 2018 
 - [PHP开发知识结构。](https://github.com/han8gui/PHPer) 
 ### September 27, 2018 
