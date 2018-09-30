@@ -21,6 +21,7 @@
 - [我的macOS配置：Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon。](https://github.com/nikitavoloboev/dotfiles) 
 - [Fira代码：具有编程连字的等宽字体。](https://github.com/tonsky/FiraCode) 
 - [具有编程连字的等宽字体。](https://github.com/tonsky/FiraCode) 
+- [基于Laravel开发的在线点播系统。](https://github.com/Qsnh/meedu) 
 ### September 29, 2018 
 - [蓝灯最新版本下载。](https://github.com/getlantern/lantern) 
 - [来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。](https://github.com/nonfu/awesome-laravel) 
