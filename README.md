@@ -19,6 +19,7 @@
 ### September 30, 2018 
 - [在Blade视图中使用自定义html组件。](https://github.com/) 
 - [我的macOS配置：Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon。](https://github.com/nikitavoloboev/dotfiles) 
+- [Fira代码：具有编程连字的等宽字体。](https://github.com/tonsky/FiraCode) 
 ### September 29, 2018 
 - [蓝灯最新版本下载。](https://github.com/getlantern/lantern) 
 - [来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。](https://github.com/nonfu/awesome-laravel) 
