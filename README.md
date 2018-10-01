@@ -16,6 +16,9 @@
 
 
 
+
+### October 1, 2018 
+- [hitokoto本地源。](https://github.com/) 
 ### September 30, 2018 
 - [在Blade视图中使用自定义html组件。](https://github.com/) 
 - [我的macOS配置：Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon。](https://github.com/nikitavoloboev/dotfiles) 
