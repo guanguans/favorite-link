@@ -17,6 +17,9 @@
 
 
 
+
+### October 2, 2018 
+- [GitHub 虚假 Star 净网行动。](https://github.com/yulingtianxia/FuckFakeGitHubStars) 
 ### October 1, 2018 
 - [hitokoto本地源。](https://github.com/) 
 ### September 30, 2018 
