@@ -20,6 +20,7 @@
 
 ### October 2, 2018 
 - [GitHub 虚假 Star 净网行动。](https://github.com/yulingtianxia/FuckFakeGitHubStars) 
+- [Go实战开发。](https://github.com/astaxie/go-best-practice) 
 ### October 1, 2018 
 - [hitokoto本地源。](https://github.com/) 
 ### September 30, 2018 
