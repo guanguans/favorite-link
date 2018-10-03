@@ -18,6 +18,9 @@
 
 
 
+
+### October 3, 2018 
+- [Laravel 深入浅出指南 —— Laravel 5.7 源代码解析，新手进阶指南。](https://github.com/xiaohuilam/laravel) 
 ### October 2, 2018 
 - [GitHub 虚假 Star 净网行动。](https://github.com/yulingtianxia/FuckFakeGitHubStars) 
 - [Go实战开发。](https://github.com/astaxie/go-best-practice) 
