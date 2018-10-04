@@ -19,6 +19,9 @@
 
 
 
+
+### October 4, 2018 
+- [《Redis 设计与实现》（网络版）的书稿源码。](https://github.com/huangz1990/redisbook) 
 ### October 3, 2018 
 - [Laravel 深入浅出指南 —— Laravel 5.7 源代码解析，新手进阶指南。](https://github.com/xiaohuilam/laravel) 
 ### October 2, 2018 
