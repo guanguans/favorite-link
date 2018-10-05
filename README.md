@@ -20,6 +20,9 @@
 
 
 
+
+### October 5, 2018 
+- [收集那些优秀的软件（Windows & Mac）。](https://github.com/JustVita/Excellent-software/blob/master/Mac/README.md?utm_source=wechat_session&utm_medium=social&utm_oi=725110054159659008&from=singlemessage&isappinstalled=0) 
 ### October 4, 2018 
 - [《Redis 设计与实现》（网络版）的书稿源码。](https://github.com/huangz1990/redisbook) 
 - [Aria2GUI for macOS。](https://github.com/yangshun1029/aria2gui) 
