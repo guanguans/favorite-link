@@ -21,6 +21,9 @@
 
 
 
+
+### October 6, 2018 
+- [Vue.js的国际化插件。](https://github.com/kazupon/vue-i18n) 
 ### October 5, 2018 
 - [收集那些优秀的软件（Windows & Mac）。](https://github.com/JustVita/Excellent-software/blob/master/Mac/README.md?utm_source=wechat_session&utm_medium=social&utm_oi=725110054159659008&from=singlemessage&isappinstalled=0) 
 ### October 4, 2018 
