@@ -22,6 +22,9 @@
 
 
 
+
+### October 7, 2018 
+- [终端主题配色。](https://github.com/mbadolato/iTerm2-Color-Schemes) 
 ### October 6, 2018 
 - [Vue.js的国际化插件。](https://github.com/kazupon/vue-i18n) 
 ### October 5, 2018 
