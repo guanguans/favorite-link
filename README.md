@@ -23,6 +23,9 @@
 
 
 
+
+### October 8, 2018 
+- [提供用于规范化composer.json的composer插件。](https://github.com/localheinz/composer-normalize) 
 ### October 7, 2018 
 - [终端主题配色。](https://github.com/mbadolato/iTerm2-Color-Schemes) 
 - [spf13-vim。](https://github.com/spf13/spf13-vim) 
