@@ -29,6 +29,7 @@
 - [Laravel为Sentry整合。](https://github.com/getsentry/sentry-laravel) 
 - [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。](https://github.com/wainshine/Chinese-Names-Corpus) 
 - [Wooyun知识库，乌云知识库。](https://github.com/SuperKieran/WooyunDrops) 
+- [一个能够 Hook 绝大多数函数/类、部分 opcode 的 PHP7 扩展。](https://github.com/fate0/xmark) 
 ### October 8, 2018 
 - [提供用于规范化composer.json的composer插件。](https://github.com/localheinz/composer-normalize) 
 ### October 7, 2018 
