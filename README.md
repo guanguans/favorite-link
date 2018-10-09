@@ -24,6 +24,9 @@
 
 
 
+
+### October 9, 2018 
+- [Laravel为Sentry整合。](https://github.com/getsentry/sentry-laravel) 
 ### October 8, 2018 
 - [提供用于规范化composer.json的composer插件。](https://github.com/localheinz/composer-normalize) 
 ### October 7, 2018 
