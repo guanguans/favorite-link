@@ -33,6 +33,7 @@
 - [中文版 《微服务：从设计到部署》。](https://github.com/DocsHome/microservices) 
 - [基于laravel免费的开源IT资产/许可证管理系统。](https://github.com/snipe/snipe-it) 
 - [腾讯云COS对象存储 V5。](https://github.com/freyo/flysystem-qcloud-cos-v5) 
+- [运用swoole在浏览器更友好的实现vmstat。](https://github.com/toxmc/swoole-vmstat) 
 ### October 9, 2018 
 - [Laravel为Sentry整合。](https://github.com/getsentry/sentry-laravel) 
 - [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。](https://github.com/wainshine/Chinese-Names-Corpus) 
