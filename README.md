@@ -29,6 +29,7 @@
 ### October 10, 2018 
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi) 
+- [我个人曾经做过的技术分享... http://xiaorui.cc](https://github.com/rfyiamcool/share_ppt) 
 ### October 9, 2018 
 - [Laravel为Sentry整合。](https://github.com/getsentry/sentry-laravel) 
 - [中文人名语料库。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。](https://github.com/wainshine/Chinese-Names-Corpus) 
