@@ -36,6 +36,7 @@
 - [Luosimao 创新开发的人机验证，免去了复杂的输入过程，具有更加优秀的操作体验，更加美观的设计，可更好地融入到您的网站中。](https://gitee.com/dungang/yii2-luosimao-captcha) 
 - [一个基于PHP的jQuery中文点击验证码插件 （php, jquery, captcha）。](https://gitee.com/hooray/clicaptcha) 
 - [ckplayer (超酷网页视频播放器),支持http协议下的flv,f4v,mp4,支持rtmp视频流和rtmp视频回放,支持m3u8格式,是你做视频直播,视频点播的理想播放器 http://www.ckplayer.com](https://gitee.com/niandeng/ckplayer) 
+- [🌻 HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权、优化浏览器兼容性，HLS+扩展 http://github.tinywan.com/html5-dash-…](https://github.com/Tinywan/html5-dash-hls-rtmp) 
 ### October 10, 2018 
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi) 
