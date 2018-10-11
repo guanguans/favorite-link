@@ -32,6 +32,7 @@
 - [搬瓦工一键搭建酸酸 Shad0ws0cks 图文教程。](https://www.banwagongzw.com/7.html) 
 - [一个可体验 Windows 95 的app。](https://github.com/felixrieseberg/windows95) 
 - [从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓（数据库，服务器文章）。](https://gitee.com/52itstyle/spring-boot-seckill) 
+- [找到一个好用的验证码程序(5种验证码)。](https://gitee.com/reevy/ImageVerifyCode) 
 ### October 10, 2018 
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi) 
