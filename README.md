@@ -26,6 +26,9 @@
 
 
 
+
+### October 11, 2018 
+- [IPsec VPN 服务器一键安装脚本。](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md) 
 ### October 10, 2018 
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi) 
