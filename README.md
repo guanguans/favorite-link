@@ -38,6 +38,7 @@
 - [ckplayer (超酷网页视频播放器),支持http协议下的flv,f4v,mp4,支持rtmp视频流和rtmp视频回放,支持m3u8格式,是你做视频直播,视频点播的理想播放器 http://www.ckplayer.com](https://gitee.com/niandeng/ckplayer) 
 - [🌻 HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权、优化浏览器兼容性，HLS+扩展 http://github.tinywan.com/html5-dash-…](https://github.com/Tinywan/html5-dash-hls-rtmp) 
 - [一个支持自定义UI布局,流式API, 加密,直播 ,亮度,音量,快进等手势 ,广告视频预览,多种加载模式 ,多种分辨率切换 ,多种封面图, 自定义数据源,列表播放,倍数播放,边播变缓存不是使用AndroidVideoCache,离线播放,神奇的播放器。](https://github.com/yangchaojiang/yjPlay) 
+- [SGPlayer 是一款基于 AVPlayer、FFmpeg 的媒体资源播放器框架。支持360°全景视频，VR视频，RTMP、RTSP 等直播流；同时支持 iOS、macOS、tvOS 三个平台。](https://github.com/libobjc/SGPlayer/blob/master/documents/README-chs.md) 
 ### October 10, 2018 
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi) 
