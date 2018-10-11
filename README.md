@@ -34,6 +34,7 @@
 - [从0到1构建分布式秒杀系统，脱离案例讲架构都是耍流氓（数据库，服务器文章）。](https://gitee.com/52itstyle/spring-boot-seckill) 
 - [找到一个好用的验证码程序(5种验证码)。](https://gitee.com/reevy/ImageVerifyCode) 
 - [Luosimao 创新开发的人机验证，免去了复杂的输入过程，具有更加优秀的操作体验，更加美观的设计，可更好地融入到您的网站中。](https://gitee.com/dungang/yii2-luosimao-captcha) 
+- [一个基于PHP的jQuery中文点击验证码插件 （php, jquery, captcha）。](https://gitee.com/hooray/clicaptcha) 
 ### October 10, 2018 
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi) 
