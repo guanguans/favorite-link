@@ -30,6 +30,7 @@
 
 ### October 12, 2018 
 - [后端架构师技术图谱。](https://github.com/xingshaocheng/architect-awesome) 
+- [🔴蓝灯最新版本下载。](https://github.com/getlantern/download) 
 ### October 11, 2018 
 - [IPsec VPN 服务器一键安装脚本。](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md) 
 - [搬瓦工一键搭建酸酸 Shad0ws0cks 图文教程。](https://www.banwagongzw.com/7.html) 
