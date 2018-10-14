@@ -34,6 +34,7 @@
 - [OpenCV-Python-Tutorial。](https://github.com/makelove/OpenCV-Python-Tutorial) 
 - [跨域本地存储，具有权限。](https://github.com/zendesk/cross-storage) 
 - [通过缓存整个响应来加速Laravel应用程序。](https://github.com/spatie/laravel-responsecache) 
+- [redis web 客户端。](https://github.com/prettyyjnic/redisSky) 
 ### October 12, 2018 
 - [后端架构师技术图谱。](https://github.com/xingshaocheng/architect-awesome) 
 - [🔴蓝灯最新版本下载。](https://github.com/getlantern/download) 
