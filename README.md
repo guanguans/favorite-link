@@ -31,6 +31,7 @@
 
 ### October 14, 2018 
 - [一个结构清晰的，易于维护的，现代的PHP Markdown解析器。](https://github.com/SegmentFault/HyperDown) 
+- [OpenCV-Python-Tutorial。](https://github.com/makelove/OpenCV-Python-Tutorial) 
 ### October 12, 2018 
 - [后端架构师技术图谱。](https://github.com/xingshaocheng/architect-awesome) 
 - [🔴蓝灯最新版本下载。](https://github.com/getlantern/download) 
