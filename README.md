@@ -33,6 +33,7 @@
 ### October 15, 2018 
 - [Yaf MVC框架集成了一些常用类库。](https://github.com/elarity/yaf) 
 - [Valitron是一个简单，优雅，独立的验证库，没有依赖关系。](https://github.com/vlucas/valitron) 
+- [复制GitHub Markdown样式的最小CSS量。](https://github.com/sindresorhus/github-markdown-css) 
 ### October 14, 2018 
 - [一个结构清晰的，易于维护的，现代的PHP Markdown解析器。](https://github.com/SegmentFault/HyperDown) 
 - [OpenCV-Python-Tutorial。](https://github.com/makelove/OpenCV-Python-Tutorial) 
