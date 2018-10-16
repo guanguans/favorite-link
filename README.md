@@ -33,6 +33,7 @@
 
 ### October 16, 2018 
 - [平常学习中收集的教程整理。](https://github.com/shaipe/course) 
+- [Twitter 的 Snowflake 的PHP版。](https://github.com/zhouyuan24/IDWork) 
 ### October 15, 2018 
 - [Yaf MVC框架集成了一些常用类库。](https://github.com/elarity/yaf) 
 - [Valitron是一个简单，优雅，独立的验证库，没有依赖关系。](https://github.com/vlucas/valitron) 
