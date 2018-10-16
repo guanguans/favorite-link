@@ -35,6 +35,7 @@
 - [平常学习中收集的教程整理。](https://github.com/shaipe/course) 
 - [Twitter 的 Snowflake 的PHP版。](https://github.com/zhouyuan24/IDWork) 
 - [基于有赞云和有赞微小店实现个人收款解决方案。](https://github.com/slince/youzan-pay) 
+- [PHPForker是一个PHP多进程编程骨架，借鉴了Workerman诸多优良编程思想，剥离了其中的网络事件库抽象部分，集中围绕多进程编程，为了便于直观的调试以及保持最轻的多进程骨架，所以简单的内嵌了一个基于select多路复用技术的 TCP & UDP Server。](https://github.com/blogdaren/PHPForker) 
 ### October 15, 2018 
 - [Yaf MVC框架集成了一些常用类库。](https://github.com/elarity/yaf) 
 - [Valitron是一个简单，优雅，独立的验证库，没有依赖关系。](https://github.com/vlucas/valitron) 
