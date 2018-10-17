@@ -34,6 +34,7 @@
 
 ### October 17, 2018 
 - [Git 常见问题、用法。](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
+- [国家标准的软件开发文档。](https://github.com/GZzzhsmart/development-document) 
 ### October 16, 2018 
 - [平常学习中收集的教程整理。](https://github.com/shaipe/course) 
 - [Twitter 的 Snowflake 的PHP版。](https://github.com/zhouyuan24/IDWork) 
