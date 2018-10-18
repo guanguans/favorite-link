@@ -38,6 +38,7 @@
 - [阿里巴巴mysql数据库binlog的增量订阅&消费组件 。](https://github.com/alibaba/canal) 
 - [和我一步步部署 kubernetes 集群。](https://github.com/opsnull/follow-me-install-kubernetes-cluster) 
 - [PHPConChina 相关资源。](https://github.com/ThinkDevelopers/PHPConChina) 
+- [Redis、Lua、Nginx、OpenResty笔记。](https://github.com/Tinywan/lua-nginx-redis) 
 ### October 17, 2018 
 - [Git 常见问题、用法。](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
 - [国家标准的软件开发文档。](https://github.com/GZzzhsmart/development-document) 
