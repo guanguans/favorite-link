@@ -32,6 +32,9 @@
 
 
 
+
+### October 18, 2018 
+- [算法学习 Golang 版。](https://github.com/skybebe/Algorithms-Learning-With-Go) 
 ### October 17, 2018 
 - [Git 常见问题、用法。](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
 - [国家标准的软件开发文档。](https://github.com/GZzzhsmart/development-document) 
