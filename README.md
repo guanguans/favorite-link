@@ -39,6 +39,7 @@
 - [和我一步步部署 kubernetes 集群。](https://github.com/opsnull/follow-me-install-kubernetes-cluster) 
 - [PHPConChina 相关资源。](https://github.com/ThinkDevelopers/PHPConChina) 
 - [Redis、Lua、Nginx、OpenResty笔记。](https://github.com/Tinywan/lua-nginx-redis) 
+- [MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。](https://github.com/lixuancn/MeepoPS) 
 ### October 17, 2018 
 - [Git 常见问题、用法。](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) 
 - [国家标准的软件开发文档。](https://github.com/GZzzhsmart/development-document) 
