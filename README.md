@@ -40,6 +40,7 @@
 - [中国最大的API接口管理平台。](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP) 
 - [A PHP terminal NES emulator。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator?utm_source=gold_browser_extension) 
 - [护网杯2018 easy_laravel Docker环境。](https://github.com/sco4x0/huwangbei2018_easy_laravel?utm_source=gold_browser_extension) 
+- [萌音影视 - 在线影视应用 http://www.moeins.cn。](https://github.com/178146582/moeins) 
 ### October 18, 2018 
 - [算法学习 Golang 版。](https://github.com/skybebe/Algorithms-Learning-With-Go) 
 - [阿里巴巴mysql数据库binlog的增量订阅&消费组件 。](https://github.com/alibaba/canal) 
