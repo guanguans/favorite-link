@@ -41,6 +41,7 @@
 - [A PHP terminal NES emulator。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator?utm_source=gold_browser_extension) 
 - [护网杯2018 easy_laravel Docker环境。](https://github.com/sco4x0/huwangbei2018_easy_laravel?utm_source=gold_browser_extension) 
 - [萌音影视 - 在线影视应用 http://www.moeins.cn。](https://github.com/178146582/moeins) 
+- [一个简单的图书 SDK，你可以使用它用于获取指定书籍的基本信息。](https://github.com/Littlesqx/douban-book?utm_source=gold_browser_extension) 
 ### October 18, 2018 
 - [算法学习 Golang 版。](https://github.com/skybebe/Algorithms-Learning-With-Go) 
 - [阿里巴巴mysql数据库binlog的增量订阅&消费组件 。](https://github.com/alibaba/canal) 
