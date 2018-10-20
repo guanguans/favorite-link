@@ -41,6 +41,7 @@
 - [Metabase是一个开源的BI工具，最大的特点是具有可视化操作界面的数据分析和查询功能，让不懂SQL得用户可能够快速掌握业务数据，支持团队共享业务数据，并且支持MySQL、Postgresql等多种数据源，部署方便，为企业提供了一个很不错的BI解决方案。](https://github.com/metabase/metabase) 
 - [在 Windows 上用 WSL 优雅开发。](https://github.com/spencerwoo98/Dev-on-Windows-with-WSL) 
 - [适用于开发人员的有用Quick Look插件列表。](https://github.com/sindresorhus/quick-look-plugins) 
+- [Mysql web端sql审核平台。](https://github.com/cookieY/Yearning) 
 ### October 19, 2018 
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows) 
 - [Nginx安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial) 
