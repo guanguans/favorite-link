@@ -37,6 +37,7 @@
 
 ### October 20, 2018 
 - [在macOS上安装开发环境。](https://github.com/sb2nov/mac-setup) 
+- [加盐密码哈希：如何正确使用。](http://blog.jobbole.com/61872/) 
 ### October 19, 2018 
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows) 
 - [Nginx安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial) 
