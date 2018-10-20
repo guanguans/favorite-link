@@ -42,6 +42,7 @@
 - [在 Windows 上用 WSL 优雅开发。](https://github.com/spencerwoo98/Dev-on-Windows-with-WSL) 
 - [适用于开发人员的有用Quick Look插件列表。](https://github.com/sindresorhus/quick-look-plugins) 
 - [Mysql web端sql审核平台。](https://github.com/cookieY/Yearning) 
+- [WordPress 主题 Puma。](https://github.com/bigfa/Puma/blob/master/README_CN.md) 
 ### October 19, 2018 
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows) 
 - [Nginx安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial) 
