@@ -43,6 +43,7 @@
 - [适用于开发人员的有用Quick Look插件列表。](https://github.com/sindresorhus/quick-look-plugins) 
 - [Mysql web端sql审核平台。](https://github.com/cookieY/Yearning) 
 - [WordPress 主题 Puma。](https://github.com/bigfa/Puma/blob/master/README_CN.md) 
+- [这是书籍《深度学习框架PyTorch：入门与实践》的对应代码，但是也可以作为一个独立的PyTorch入门指南和教程。](https://github.com/chenyuntc/pytorch-book) 
 ### October 19, 2018 
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows) 
 - [Nginx安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial) 
