@@ -38,6 +38,7 @@
 ### October 20, 2018 
 - [在macOS上安装开发环境。](https://github.com/sb2nov/mac-setup) 
 - [加盐密码哈希：如何正确使用。](http://blog.jobbole.com/61872/) 
+- [Metabase是一个开源的BI工具，最大的特点是具有可视化操作界面的数据分析和查询功能，让不懂SQL得用户可能够快速掌握业务数据，支持团队共享业务数据，并且支持MySQL、Postgresql等多种数据源，部署方便，为企业提供了一个很不错的BI解决方案。](https://github.com/metabase/metabase) 
 ### October 19, 2018 
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows) 
 - [Nginx安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial) 
