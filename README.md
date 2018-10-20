@@ -34,6 +34,9 @@
 
 
 
+
+### October 20, 2018 
+- [在macOS上安装开发环境。](https://github.com/sb2nov/mac-setup) 
 ### October 19, 2018 
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows) 
 - [Nginx安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial) 
