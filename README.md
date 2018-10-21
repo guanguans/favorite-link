@@ -39,6 +39,7 @@
 ### October 21, 2018 
 - [一些经典且高质量的电子书分享。](https://github.com/threerocks/studyFiles) 
 - [中国程序员容易发音错误的单词。](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
+- [中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。](https://github.com/modood/Administrative-divisions-of-China) 
 ### October 20, 2018 
 - [在macOS上安装开发环境。](https://github.com/sb2nov/mac-setup) 
 - [加盐密码哈希：如何正确使用。](http://blog.jobbole.com/61872/) 
