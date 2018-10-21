@@ -38,6 +38,7 @@
 
 ### October 21, 2018 
 - [一些经典且高质量的电子书分享。](https://github.com/threerocks/studyFiles) 
+- [中国程序员容易发音错误的单词。](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
 ### October 20, 2018 
 - [在macOS上安装开发环境。](https://github.com/sb2nov/mac-setup) 
 - [加盐密码哈希：如何正确使用。](http://blog.jobbole.com/61872/) 
