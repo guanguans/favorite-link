@@ -41,6 +41,7 @@
 - [中国程序员容易发音错误的单词。](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
 - [中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。](https://github.com/modood/Administrative-divisions-of-China) 
 - [🌈 An elegant dashboard https://d2-projects.github.io/d2-admin/。](https://github.com/d2-projects/d2-admin) 
+- [.vimrc简单配置，没有插件。](https://github.com/wklken/vim-for-server) 
 ### October 20, 2018 
 - [在macOS上安装开发环境。](https://github.com/sb2nov/mac-setup) 
 - [加盐密码哈希：如何正确使用。](http://blog.jobbole.com/61872/) 
