@@ -39,6 +39,7 @@
 
 ### October 22, 2018 
 - [区块链3.0 -> 超级账本hyperledger fabirc教程 v1.1。](https://github.com/itheima1/hyperledger) 
+- [Google Hosts。](https://github.com/googlehosts/hosts-ipv6) 
 ### October 21, 2018 
 - [一些经典且高质量的电子书分享。](https://github.com/threerocks/studyFiles) 
 - [中国程序员容易发音错误的单词。](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 
