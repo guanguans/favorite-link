@@ -41,6 +41,7 @@
 ### October 23, 2018 
 - [Nginx开发从入门到精通。](https://github.com/taobao/nginx-book) 
 - [opcache状态页面。](https://github.com/rlerdorf/opcache-status) 
+- [dcloudio 支付相关。](https://github.com/dcloudio/H5P.Server) 
 ### October 22, 2018 
 - [区块链3.0 -> 超级账本hyperledger fabirc教程 v1.1。](https://github.com/itheima1/hyperledger) 
 - [Google Hosts。](https://github.com/googlehosts/hosts-ipv6) 
