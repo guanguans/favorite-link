@@ -45,6 +45,7 @@
 - [DCloud开源项目集锦 http://www.dcloud.io。](https://github.com/dcloudio/casecode) 
 - [每个 JavaScript 工程师都应懂的33个概念。](https://github.com/stephentian/33-js-concepts#17-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF) 
 - [swoft 框架文件。](https://github.com/swoft-cloud/swoft-doc) 
+- [macOS的MySQL / MariaDB数据库管理。](https://github.com/sequelpro/sequelpro) 
 ### October 22, 2018 
 - [区块链3.0 -> 超级账本hyperledger fabirc教程 v1.1。](https://github.com/itheima1/hyperledger) 
 - [Google Hosts。](https://github.com/googlehosts/hosts-ipv6) 
