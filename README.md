@@ -38,6 +38,9 @@
 
 
 
+
+### October 24, 2018 
+- [Vagrant Manager for Windows。](https://github.com/lanayotech/vagrant-manager-windows) 
 ### October 23, 2018 
 - [Nginx开发从入门到精通。](https://github.com/taobao/nginx-book) 
 - [opcache状态页面。](https://github.com/rlerdorf/opcache-status) 
