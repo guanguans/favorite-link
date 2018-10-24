@@ -45,6 +45,7 @@
 - [将实时段落，单词和字符计数添加到HTML元素。](https://github.com/RadLikeWhoa/Countable) 
 - [让自己轻松选择阿里巴巴风味名称（又名，花名）。](https://github.com/BoogeeDoo/hua) 
 - [所有算法都在Python中实现。](https://github.com/TheAlgorithms/Python) 
+- [个人网站即时到账收款解决方案。](https://github.com/xu42/pay) 
 ### October 23, 2018 
 - [Nginx开发从入门到精通。](https://github.com/taobao/nginx-book) 
 - [opcache状态页面。](https://github.com/rlerdorf/opcache-status) 
