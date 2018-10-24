@@ -41,6 +41,7 @@
 
 ### October 24, 2018 
 - [Vagrant Manager for Windows。](https://github.com/lanayotech/vagrant-manager-windows) 
+- [SQL优化器和重写器。](https://github.com/XiaoMi/soar) 
 ### October 23, 2018 
 - [Nginx开发从入门到精通。](https://github.com/taobao/nginx-book) 
 - [opcache状态页面。](https://github.com/rlerdorf/opcache-status) 
