@@ -48,6 +48,7 @@
 - [个人网站即时到账收款解决方案。](https://github.com/xu42/pay) 
 - [适用于PayPal RESTful API的PHP SDK。](https://github.com/paypal/PayPal-PHP-SDK) 
 - [百度网盘不限速下载 支持Windows和Mac。](https://github.com/high-speed-downloader/high-speed-downloader) 
+- [Laravel框架的优雅调试助手。 Telescope可深入了解进入应用程序的请求，异常，日志条目，数据库查询，排队作业，邮件，通知，缓存操作，计划任务，变量转储等。](https://github.com/laravel/telescope) 
 ### October 23, 2018 
 - [Nginx开发从入门到精通。](https://github.com/taobao/nginx-book) 
 - [opcache状态页面。](https://github.com/rlerdorf/opcache-status) 
