@@ -47,6 +47,7 @@
 - [基于yaf开发的全新、免费、开源、高效好用的知识付费平台（自用型）。](https://github.com/zlkbdotnet/zspay) 
 - [基于Swoole的PHP中的高性能Web框架和应用程序服务器。](https://github.com/bixuehujin/blink) 
 - [适用于Web客户端的gRPC。](https://github.com/grpc/grpc-web) 
+- [类似与PHP Simple HTML DOM Parser，但是比它快好几倍。](https://github.com/bupt1987/html-parser) 
 ### October 24, 2018 
 - [Vagrant Manager for Windows。](https://github.com/lanayotech/vagrant-manager-windows) 
 - [SQL优化器和重写器。](https://github.com/XiaoMi/soar) 
