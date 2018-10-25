@@ -44,6 +44,7 @@
 - [吾爱破解论坛 爱盘 down.52pojie.cn 页面的源代码。](https://github.com/ganlvtech/down_52pojie_cn) 
 - [微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。](https://github.com/littlecodersh/ItChat) 
 - [基于yaf开发的免费、安全、稳定、高效的发卡系统，值得拥有! ](https://github.com/zlkbdotnet/zfaka) 
+- [基于yaf开发的全新、免费、开源、高效好用的知识付费平台（自用型）。](https://github.com/zlkbdotnet/zspay) 
 ### October 24, 2018 
 - [Vagrant Manager for Windows。](https://github.com/lanayotech/vagrant-manager-windows) 
 - [SQL优化器和重写器。](https://github.com/XiaoMi/soar) 
