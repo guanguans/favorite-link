@@ -43,6 +43,7 @@
 
 ### October 26, 2018 
 - [vuejs Database Manager数据管理系统——前端。](https://github.com/calebman/vue-DBM) 
+- [vuejs Database Manager数据管理系统——后端。](https://github.com/calebman/database-manager) 
 ### October 25, 2018 
 - [吾爱破解论坛 爱盘 down.52pojie.cn 页面的源代码。](https://github.com/ganlvtech/down_52pojie_cn) 
 - [微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。](https://github.com/littlecodersh/ItChat) 
