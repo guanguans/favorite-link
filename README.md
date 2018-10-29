@@ -46,6 +46,7 @@
 - [一个简单的Jekyll主题。](https://github.com/mmistakes/so-simple-theme) 
 - [SparkPHP框架。](https://github.com/spark-php/framework) 
 - [PHP中函数式编程。](https://github.com/lstrojny/functional-php) 
+- [百度网盘命令行工具。](https://github.com/GangZhuo/BaiduPCS) 
 ### October 26, 2018 
 - [vuejs Database Manager数据管理系统——前端。](https://github.com/calebman/vue-DBM) 
 - [vuejs Database Manager数据管理系统——后端。](https://github.com/calebman/database-manager) 
