@@ -50,6 +50,7 @@
 - [PHP的有效，快速，稳定的日志扩展。](https://github.com/SeasX/SeasLog) 
 - [📖 原则 · 中文版。](https://github.com/it-ebooks/principles-zh) 
 - [用于将PHP变量记录到Google Chrome控制台。](https://github.com/ccampbell/chromephp) 
+- [在Google Chrome中远程执行PHP代码，处理PHP错误，转储变量。](https://github.com/barbushin/php-console) 
 ### October 26, 2018 
 - [vuejs Database Manager数据管理系统——前端。](https://github.com/calebman/vue-DBM) 
 - [vuejs Database Manager数据管理系统——后端。](https://github.com/calebman/database-manager) 
