@@ -54,6 +54,7 @@
 - [确保你的项目没有依赖一些已知易受攻击的依赖。](https://github.com/Roave/SecurityAdvisories) 
 - [用于在PHP应用程序中查找错误的静态分析工具。](https://github.com/vimeo/psalm) 
 - [易于使用的PDO包装器，适用于PHP项目。](https://github.com/paragonie/easydb) 
+- [密码哈希Argon2，PHC的获胜者。](https://github.com/p-h-c/phc-winner-argon2) 
 ### October 29, 2018 
 - [一个简单的Jekyll主题。](https://github.com/mmistakes/so-simple-theme) 
 - [SparkPHP框架。](https://github.com/spark-php/framework) 
