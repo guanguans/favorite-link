@@ -46,6 +46,7 @@
 ### October 30, 2018 
 - [ 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。](https://github.com/laravel-china/php-the-right-way) 
 - [🔗一些有用的程序员网站。](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
+- [用 vue 写小程序，基于 mpvue 框架重写 weui。](https://github.com/KuangPF/mpvue-weui) 
 ### October 29, 2018 
 - [一个简单的Jekyll主题。](https://github.com/mmistakes/so-simple-theme) 
 - [SparkPHP框架。](https://github.com/spark-php/framework) 
