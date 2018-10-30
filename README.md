@@ -42,6 +42,9 @@
 
 
 
+
+### October 30, 2018 
+- [ 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。](https://github.com/laravel-china/php-the-right-way) 
 ### October 29, 2018 
 - [一个简单的Jekyll主题。](https://github.com/mmistakes/so-simple-theme) 
 - [SparkPHP框架。](https://github.com/spark-php/framework) 
