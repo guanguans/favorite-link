@@ -56,6 +56,7 @@
 - [易于使用的PDO包装器，适用于PHP项目。](https://github.com/paragonie/easydb) 
 - [密码哈希Argon2，PHC的获胜者。](https://github.com/p-h-c/phc-winner-argon2) 
 - [兼容PHP 5.5附带的password_ *函数。](https://github.com/ircmaxell/password_compat) 
+- [PHP项目的自动cacert.pem管理。](https://github.com/paragonie/certainty) 
 ### October 29, 2018 
 - [一个简单的Jekyll主题。](https://github.com/mmistakes/so-simple-theme) 
 - [SparkPHP框架。](https://github.com/spark-php/framework) 
