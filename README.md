@@ -51,6 +51,7 @@
 - [立即将JSON转换为浏览器中的Go类型（原始）。](https://github.com/mholt/json-to-go) 
 - [学习如何设计大型系统。](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md) 
 - [一种自动修复PHP编码标准问题的工具。](https://github.com/FriendsOfPhp/PHP-CS-Fixer) 
+- [确保你的项目没有依赖一些已知易受攻击的依赖。](https://github.com/Roave/SecurityAdvisories) 
 ### October 29, 2018 
 - [一个简单的Jekyll主题。](https://github.com/mmistakes/so-simple-theme) 
 - [SparkPHP框架。](https://github.com/spark-php/framework) 
