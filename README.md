@@ -50,6 +50,7 @@
 - [【新】微信开（微信服务号+微信小程序+微信支付）。](https://github.com/zoujingli/WeChatDeveloper) 
 - [MIT-18.06-线性代数-完整笔记。](https://github.com/apachecn/math) 
 - [《Redis Command Reference》全文的中文翻译版。](https://github.com/huangz1990/redis) 
+- [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
 ### October 30, 2018 
 - [ 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。](https://github.com/laravel-china/php-the-right-way) 
 - [🔗一些有用的程序员网站。](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
