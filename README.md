@@ -46,6 +46,7 @@
 
 ### November 1, 2018 
 - [程序员应该访问的最佳网站中文版。](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
+- [使用Golang实现PHP的常见内置函数。](https://github.com/syyongx/php2go) 
 ### October 30, 2018 
 - [ 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。](https://github.com/laravel-china/php-the-right-way) 
 - [🔗一些有用的程序员网站。](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
