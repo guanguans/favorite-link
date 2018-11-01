@@ -54,6 +54,7 @@
 - [Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay)、Surfboard 的配置规则文件 。](https://github.com/ConnersHua/Profiles) 
 - [Swagger整合到Laravel 5。](https://github.com/DarkaOnLine/L5-Swagger) 
 - [API接口辅助库包，生成和校验api签名。](https://github.com/youwen21/apidog) 
+- [以开发人员为中心的HTTP客户端，针对大多数常见用例进行了优化。](https://github.com/kitetail/zttp) 
 ### October 30, 2018 
 - [ 收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。](https://github.com/laravel-china/php-the-right-way) 
 - [🔗一些有用的程序员网站。](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
