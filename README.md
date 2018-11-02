@@ -55,6 +55,7 @@
 - [输入SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor) 
 - [适用于macOS的现代视频播放器。](https://github.com/lhc70000/iina) 
 - [使我的macOS体验更加惊人的应用程序和工具列表。](https://github.com/nikitavoloboev/my-mac-os) 
+- [使我的iOS体验更加惊人的应用程序和工具列表。](https://github.com/nikitavoloboev/my-ios) 
 ### November 1, 2018 
 - [程序员应该访问的最佳网站中文版。](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
 - [使用Golang实现PHP的常见内置函数。](https://github.com/syyongx/php2go) 
