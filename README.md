@@ -49,6 +49,7 @@
 - [PHP 7中的正确舍入，任意精度的十进制浮点运算。](https://github.com/php-decimal/extension) 
 - [PHP终端NES模拟器。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator) 
 - [Sentry是跨平台应用程序监控，专注于错误报告。](https://github.com/getsentry/sentry) 
+- [浏览器中的Markdown编辑器。](https://github.com/benweet/stackedit) 
 ### November 1, 2018 
 - [程序员应该访问的最佳网站中文版。](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
 - [使用Golang实现PHP的常见内置函数。](https://github.com/syyongx/php2go) 
