@@ -51,6 +51,7 @@
 - [Sentry是跨平台应用程序监控，专注于错误报告。](https://github.com/getsentry/sentry) 
 - [浏览器中的Markdown编辑器。](https://github.com/benweet/stackedit) 
 - [Biny是一个用于Web应用程序的小型高性能PHP框架。](https://github.com/Tencent/Biny) 
+- [将MySQL binlog解析为您想要的SQL。](https://github.com/danfengcao/binlog2sql) 
 ### November 1, 2018 
 - [程序员应该访问的最佳网站中文版。](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
 - [使用Golang实现PHP的常见内置函数。](https://github.com/syyongx/php2go) 
