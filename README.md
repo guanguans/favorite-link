@@ -53,6 +53,7 @@
 - [Biny是一个用于Web应用程序的小型高性能PHP框架。](https://github.com/Tencent/Biny) 
 - [将MySQL binlog解析为您想要的SQL。](https://github.com/danfengcao/binlog2sql) 
 - [输入SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor) 
+- [适用于macOS的现代视频播放器。](https://github.com/lhc70000/iina) 
 ### November 1, 2018 
 - [程序员应该访问的最佳网站中文版。](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
 - [使用Golang实现PHP的常见内置函数。](https://github.com/syyongx/php2go) 
