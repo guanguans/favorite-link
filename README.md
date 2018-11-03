@@ -53,6 +53,7 @@
 - [使用JavaScript，HTML和CSS构建跨平台桌面应用程序。](https://github.com/electron/electron) 
 - [最快的shell插件管理器。](https://github.com/getantibody/antibody) 
 - [一种使用Web技术构建的开源屏幕录像机。](https://github.com/wulkano/kap) 
+- [在终端中获取Linux桌面截图的系统/主题信息。](https://github.com/KittyKatt/screenFetch) 
 ### November 2, 2018 
 - [PHP 7中的正确舍入，任意精度的十进制浮点运算。](https://github.com/php-decimal/extension) 
 - [PHP终端NES模拟器。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator) 
