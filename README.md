@@ -48,6 +48,7 @@
 
 ### November 3, 2018 
 - [深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。](https://github.com/scutan90/DeepLearning-500-questions) 
+- [覃健祥的学习笔记，各种几十分钟入门的文档。](https://github.com/qinjx/30min_guides) 
 ### November 2, 2018 
 - [PHP 7中的正确舍入，任意精度的十进制浮点运算。](https://github.com/php-decimal/extension) 
 - [PHP终端NES模拟器。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator) 
