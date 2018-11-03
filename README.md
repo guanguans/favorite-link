@@ -51,6 +51,7 @@
 - [覃健祥的学习笔记，各种几十分钟入门的文档。](https://github.com/qinjx/30min_guides) 
 - [中国运营商IP地址库-每日更新。](https://github.com/gaoyifan/china-operator-ip) 
 - [使用JavaScript，HTML和CSS构建跨平台桌面应用程序。](https://github.com/electron/electron) 
+- [最快的shell插件管理器。](https://github.com/getantibody/antibody) 
 ### November 2, 2018 
 - [PHP 7中的正确舍入，任意精度的十进制浮点运算。](https://github.com/php-decimal/extension) 
 - [PHP终端NES模拟器。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator) 
