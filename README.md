@@ -55,6 +55,7 @@
 - [使用tensorflow.js在浏览器中进行面部检测和面部识别的JavaScript API。](https://github.com/) 
 - [🤘Alfred3工作流程的集合，将震撼您的世界。](https://github.com/zenorocha/alfred-workflows) 
 - [Alfred工作流程的公共集合。http://www.alfredworkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) 
+- [shortcuts workflow 集合。](https://github.com/insidegui/Sharecuts) 
 ### November 3, 2018 
 - [深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。](https://github.com/scutan90/DeepLearning-500-questions) 
 - [覃健祥的学习笔记，各种几十分钟入门的文档。](https://github.com/qinjx/30min_guides) 
