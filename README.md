@@ -50,6 +50,7 @@
 
 ### November 6, 2018 
 - [JSS是CSS的创作工具，它使用JavaScript作为宿主语言。](https://github.com/cssinjs/jss) 
+- [PHP Curl Class可以轻松发送HTTP请求并与Web API集成。](https://github.com/php-curl-class/php-curl-class) 
 ### November 5, 2018 
 - [HTTP API 设计指南。](https://github.com/cocoajin/http-api-design-ZH_CN) 
 - [基于Vue.js 2.0构建的高质量UI工具包。](https://github.com/iview/iview) 
