@@ -48,6 +48,9 @@
 
 
 
+
+### November 7, 2018 
+- [飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100% 。](https://github.com/alibaba/ice) 
 ### November 6, 2018 
 - [JSS是CSS的创作工具，它使用JavaScript作为宿主语言。](https://github.com/cssinjs/jss) 
 - [PHP Curl Class可以轻松发送HTTP请求并与Web API集成。](https://github.com/php-curl-class/php-curl-class) 
