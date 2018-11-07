@@ -59,6 +59,7 @@
 - [一个简单的HTML5，YouTube和Vimeo播放器。](https://github.com/sampotts/plyr) 
 - [宁皓网课程的学习路径。](https://github.com/ninghao/path) 
 - [PHP API 文档。](https://github.com/NTASTE/php_api_doc) 
+- [用于本地开发的现代Docker LAMP堆栈和MEAN堆栈。](https://github.com/cytopia/devilbox?utm_source=gold_browser_extension) 
 ### November 6, 2018 
 - [JSS是CSS的创作工具，它使用JavaScript作为宿主语言。](https://github.com/cssinjs/jss) 
 - [PHP Curl Class可以轻松发送HTTP请求并与Web API集成。](https://github.com/php-curl-class/php-curl-class) 
