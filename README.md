@@ -65,6 +65,7 @@
 - [🚥 从MongoDB到Elasticsearch的数据集迁移工具，反之亦然。](https://github.com/ozlerhakan/mongolastic) 
 - [为MongoDB生成随机数据。](https://github.com/feliixx/mgodatagen) 
 - [《一起学 Node.js》](https://github.com/nswbmw/N-blog) 
+- [百度网盘客户端 - Go语言编写。](https://github.com/iikira/BaiduPCS-Go) 
 ### November 6, 2018 
 - [JSS是CSS的创作工具，它使用JavaScript作为宿主语言。](https://github.com/cssinjs/jss) 
 - [PHP Curl Class可以轻松发送HTTP请求并与Web API集成。](https://github.com/php-curl-class/php-curl-class) 
