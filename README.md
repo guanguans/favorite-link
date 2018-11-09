@@ -56,6 +56,7 @@
 - [macOS  KeePass 客户端。](https://github.com/MacPass/MacPass) 
 - [KeePass插件通过HTTP安全地公开密码条目。](https://github.com/pfn/keepasshttp) 
 - [archiver。](https://github.com/mholt/archiver) 
+- [命令行JSON处理工具🔥](https://github.com/antonmedv/fx) 
 ### November 8, 2018 
 - [一刻社区后端 API 源码。](https://github.com/overtrue/api.yike.io) 
 - [一刻社区前端源码。](https://github.com/overtrue/yike.io) 
