@@ -57,6 +57,7 @@
 - [KeePass插件通过HTTP安全地公开密码条目。](https://github.com/pfn/keepasshttp) 
 - [archiver。](https://github.com/mholt/archiver) 
 - [命令行JSON处理工具🔥](https://github.com/antonmedv/fx) 
+- [for PHP的感知图像散列https://jenssegers.com](https://github.com/jenssegers/imagehash) 
 ### November 8, 2018 
 - [一刻社区后端 API 源码。](https://github.com/overtrue/api.yike.io) 
 - [一刻社区前端源码。](https://github.com/overtrue/yike.io) 
