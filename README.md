@@ -50,6 +50,9 @@
 
 
 
+
+### November 9, 2018 
+- [与KeePass兼容的免费跨平台密码管理器。](https://github.com/keeweb/keeweb) 
 ### November 8, 2018 
 - [一刻社区后端 API 源码。](https://github.com/overtrue/api.yike.io) 
 - [一刻社区前端源码。](https://github.com/overtrue/yike.io) 
