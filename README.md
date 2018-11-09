@@ -54,6 +54,7 @@
 ### November 9, 2018 
 - [与KeePass兼容的免费跨平台密码管理器。](https://github.com/keeweb/keeweb) 
 - [macOS  KeePass 客户端。](https://github.com/MacPass/MacPass) 
+- [KeePass插件通过HTTP安全地公开密码条目。](https://github.com/pfn/keepasshttp) 
 ### November 8, 2018 
 - [一刻社区后端 API 源码。](https://github.com/overtrue/api.yike.io) 
 - [一刻社区前端源码。](https://github.com/overtrue/yike.io) 
