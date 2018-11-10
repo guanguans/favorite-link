@@ -61,6 +61,7 @@
 - [在Laravel应用程序中记录活动。](https://github.com/spatie/laravel-activitylog) 
 - [Photopea是在线图像编辑器。](https://github.com/photopea/photopea) 
 - [一个面向全平台的代理客户端。](https://github.com/Dreamacro/clash) 
+- [一个Clash的Windows用户图形界面。](https://github.com/Fndroid/clash_for_windows_pkg) 
 ### November 9, 2018 
 - [与KeePass兼容的免费跨平台密码管理器。](https://github.com/keeweb/keeweb) 
 - [macOS  KeePass 客户端。](https://github.com/MacPass/MacPass) 
