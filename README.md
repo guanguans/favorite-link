@@ -55,6 +55,7 @@
 ### November 10, 2018 
 - [iHosts非常适合在Mac OS X上编辑/etc/hosts。](https://github.com/toolinbox/iHosts) 
 - [host管理chrome插件。](https://github.com/keelii/awesome-host-manager) 
+- [📝开发工具，用于记录laravel应用程序的所有查询。](https://github.com/overtrue/laravel-query-logger) 
 ### November 9, 2018 
 - [与KeePass兼容的免费跨平台密码管理器。](https://github.com/keeweb/keeweb) 
 - [macOS  KeePass 客户端。](https://github.com/MacPass/MacPass) 
