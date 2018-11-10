@@ -59,6 +59,7 @@
 - [《精通比特币2》中文版。](https://github.com/BtcGroupCn/MasterBitcoin2ndCn) 
 - [Docker的简单管理UI。](https://github.com/portainer/portainer) 
 - [在Laravel应用程序中记录活动。](https://github.com/spatie/laravel-activitylog) 
+- [Photopea是在线图像编辑器。](https://github.com/photopea/photopea) 
 ### November 9, 2018 
 - [与KeePass兼容的免费跨平台密码管理器。](https://github.com/keeweb/keeweb) 
 - [macOS  KeePass 客户端。](https://github.com/MacPass/MacPass) 
