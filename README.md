@@ -52,6 +52,9 @@
 
 
 
+
+### November 11, 2018 
+- [go的依赖工具。](https://github.com/tools/godep) 
 ### November 10, 2018 
 - [iHosts非常适合在Mac OS X上编辑/etc/hosts。](https://github.com/toolinbox/iHosts) 
 - [host管理chrome插件。](https://github.com/keelii/awesome-host-manager) 
