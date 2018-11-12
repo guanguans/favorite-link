@@ -56,6 +56,7 @@
 
 ### November 12, 2018 
 - [Vue.js的移动UI元素。](https://github.com/ElemeFE/mint-ui) 
+- [PHP的一个面向对象的多进程管理器。](https://github.com/TIGERB/naruto) 
 ### November 11, 2018 
 - [go的依赖工具。](https://github.com/tools/godep) 
 - [闲耘的 rime 输入法配置。](https://github.com/hotoo/rime) 
