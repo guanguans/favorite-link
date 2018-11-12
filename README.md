@@ -57,6 +57,7 @@
 ### November 12, 2018 
 - [Vue.js的移动UI元素。](https://github.com/ElemeFE/mint-ui) 
 - [PHP的一个面向对象的多进程管理器。](https://github.com/TIGERB/naruto) 
+- [PHP中基于Web的文件管理器，使用Tiny File Manager高效，轻松地管理文件。](https://github.com/prasathmani/tinyfilemanager) 
 ### November 11, 2018 
 - [go的依赖工具。](https://github.com/tools/godep) 
 - [闲耘的 rime 输入法配置。](https://github.com/hotoo/rime) 
