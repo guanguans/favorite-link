@@ -60,6 +60,7 @@
 - [用 go 实现 laravel。](https://github.com/laragol/laragol) 
 - [zsh的下一代插件管理器。](https://github.com/zplug/zplug) 
 - [awesome-zsh-plugins。](https://github.com/unixorn/awesome-zsh-plugins) 
+- [google 的 ggrc-core。](https://github.com/google/ggrc-core) 
 ### November 12, 2018 
 - [Vue.js的移动UI元素。](https://github.com/ElemeFE/mint-ui) 
 - [PHP的一个面向对象的多进程管理器。](https://github.com/TIGERB/naruto) 
