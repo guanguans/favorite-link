@@ -67,6 +67,7 @@
 - [Zephir是一种编译的高级语言，旨在为PHP创建C扩展。](https://github.com/phalcon/zephir) 
 - [Go的快速HTTP包。调整为高性能。热路径中的零内存分配。比net / http快10倍。](https://github.com/valyala/fasthttp) 
 - [Redis在PHP中分布锁。](https://github.com/ronnylt/redlock-php) 
+- [基于Node.js的中文分词模块。](https://github.com/leizongmin/node-segment) 
 ### November 13, 2018 
 - [跨平台Go日志库。](https://github.com/google/logger) 
 - [用 go 实现 laravel。](https://github.com/laragol/laragol) 
