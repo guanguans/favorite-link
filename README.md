@@ -62,6 +62,7 @@
 - [PHP图像处理。](https://github.com/Intervention/image) 
 - [Laravel的实时信使。](https://github.com/launcher-host/mercurius) 
 - [快速而强大的Web服务器和应用程序服务器。](https://github.com/webcpp/hi-nginx) 
+- [强大的音乐API框架。](https://github.com/metowolf/Meting) 
 ### November 13, 2018 
 - [跨平台Go日志库。](https://github.com/google/logger) 
 - [用 go 实现 laravel。](https://github.com/laragol/laragol) 
