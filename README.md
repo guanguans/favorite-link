@@ -59,6 +59,7 @@
 ### November 14, 2018 
 - [MySQL JSON Explain Analyzer。](https://github.com/Preetam/explain-analyzer) 
 - [将Lua的强大功能嵌入到NGINX HTTP服务器中。](https://github.com/openresty/lua-nginx-module) 
+- [PHP图像处理。](https://github.com/Intervention/image) 
 ### November 13, 2018 
 - [跨平台Go日志库。](https://github.com/google/logger) 
 - [用 go 实现 laravel。](https://github.com/laragol/laragol) 
