@@ -61,6 +61,7 @@
 - [Docker UI管理器。](https://github.com/shipyard/shipyard) 
 - [用于构建代理以绕过网络限制的平台。](https://github.com/v2ray/v2ray-core) 
 - [最好用的 V2Ray 一键安装脚本 & 管理脚本。](https://github.com/233boy/v2ray) 
+- [机器人/机器人/爬虫/刮刀/蜘蛛使用的HTTP用户代理的语法模式。](https://github.com/monperrus/crawler-user-agents) 
 ### November 14, 2018 
 - [MySQL JSON Explain Analyzer。](https://github.com/Preetam/explain-analyzer) 
 - [将Lua的强大功能嵌入到NGINX HTTP服务器中。](https://github.com/openresty/lua-nginx-module) 
