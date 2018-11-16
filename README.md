@@ -60,6 +60,7 @@
 
 ### November 16, 2018 
 - [Golang实现JSON网络令牌（JWT）。](https://github.com/dgrijalva/jwt-go) 
+- [轻松的文档。](https://github.com/leptosia/docute) 
 ### November 15, 2018 
 - [Docker UI管理器。](https://github.com/shipyard/shipyard) 
 - [用于构建代理以绕过网络限制的平台。](https://github.com/v2ray/v2ray-core) 
