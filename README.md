@@ -64,6 +64,7 @@
 - [小米笔记本PRO安装macOS Mojave & High Sierra 使用说明。](https://github.com/daliansky/XiaoMi-Pro/blob/master/README-CN.md) 
 - [Go的微型和可插拔Web框架。](https://github.com/lunny/tango) 
 - [PHP静态分析工具 - 发现代码中的错误而不运行它！](https://github.com/phpstan/phpstan) 
+- [可组合Docker管理。](https://github.com/shipyard/shipyard) 
 ### November 16, 2018 
 - [Golang实现JSON网络令牌（JWT）。](https://github.com/dgrijalva/jwt-go) 
 - [轻松的文档。](https://github.com/leptosia/docute) 
