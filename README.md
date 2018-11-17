@@ -58,6 +58,9 @@
 
 
 
+
+### November 17, 2018 
+- [Cloudflare CNAME接入。](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) 
 ### November 16, 2018 
 - [Golang实现JSON网络令牌（JWT）。](https://github.com/dgrijalva/jwt-go) 
 - [轻松的文档。](https://github.com/leptosia/docute) 
