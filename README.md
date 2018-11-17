@@ -62,6 +62,7 @@
 ### November 17, 2018 
 - [Cloudflare CNAME接入。](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) 
 - [小米笔记本PRO安装macOS Mojave & High Sierra 使用说明。](https://github.com/daliansky/XiaoMi-Pro/blob/master/README-CN.md) 
+- [Go的微型和可插拔Web框架。](https://github.com/lunny/tango) 
 ### November 16, 2018 
 - [Golang实现JSON网络令牌（JWT）。](https://github.com/dgrijalva/jwt-go) 
 - [轻松的文档。](https://github.com/leptosia/docute) 
