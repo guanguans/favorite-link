@@ -59,6 +59,9 @@
 
 
 
+
+### November 18, 2018 
+- [使用Go + HTML5构建跨平台的现代桌面应用程序。](https://github.com/zserge/lorca) 
 ### November 17, 2018 
 - [Cloudflare CNAME接入。](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) 
 - [小米笔记本PRO安装macOS Mojave & High Sierra 使用说明。](https://github.com/daliansky/XiaoMi-Pro/blob/master/README-CN.md) 
