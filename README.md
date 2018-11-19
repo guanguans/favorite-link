@@ -60,6 +60,9 @@
 
 
 
+
+### November 19, 2018 
+- [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 ### November 18, 2018 
 - [使用Go + HTML5构建跨平台的现代桌面应用程序。](https://github.com/zserge/lorca) 
 - [iOS 12 捷径创建者。](https://github.com/joshfarrant/shortcuts-js) 
