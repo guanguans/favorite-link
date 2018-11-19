@@ -65,6 +65,7 @@
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
 - [静态网页生成器大合集汇总网站。](https://www.staticgen.com/) 
+- [一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 。](https://github.com/Caldis/Mos) 
 ### November 18, 2018 
 - [使用Go + HTML5构建跨平台的现代桌面应用程序。](https://github.com/zserge/lorca) 
 - [iOS 12 捷径创建者。](https://github.com/joshfarrant/shortcuts-js) 
