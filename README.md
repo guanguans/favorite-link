@@ -67,6 +67,7 @@
 - [静态网页生成器大合集汇总网站。](https://www.staticgen.com/) 
 - [一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 。](https://github.com/Caldis/Mos) 
 - [使用vue构建electron应用程序。](https://github.com/SimulatedGREG/electron-vue) 
+- [Postman中文使用说明。](https://github.com/S0im/PostmanIssues) 
 ### November 18, 2018 
 - [使用Go + HTML5构建跨平台的现代桌面应用程序。](https://github.com/zserge/lorca) 
 - [iOS 12 捷径创建者。](https://github.com/joshfarrant/shortcuts-js) 
