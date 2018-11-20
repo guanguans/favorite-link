@@ -77,6 +77,7 @@
 - [基于Swift的iTu​​nes插件，用于在桌面上显示歌词。](https://github.com/MichaelRow/Lyrics) 
 - [适用于Mac的TinyPNG客户端.](https://github.com/kyleduo/TinyPNG4Mac) 
 - [作曲家并行安装插件-加速包安装。](https://github.com/hirak/prestissimo) 
+- [Caddy是一款可立即投入生产的开源Web服务器，它快速，易用，并且可以提高您的工作效率。](https://github.com/mholt/caddy) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
