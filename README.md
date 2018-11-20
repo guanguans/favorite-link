@@ -84,6 +84,7 @@
 - [这里唯一一个gfwlist。](https://github.com/gfwlist/gfwlist) 
 - [微小版本的gfwlist，仅关注常见网站。](https://github.com/gfwlist/tinylist) 
 - [实时网络的开源数据库。](https://github.com/rethinkdb/rethinkdb) 
+- [thumbor是一个开源的照片缩略图服务。](https://github.com/thumbor/thumbor) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
