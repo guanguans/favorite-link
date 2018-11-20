@@ -67,6 +67,7 @@
 - [Swagger 2.0实现go。](https://github.com/go-swagger/go-swagger) 
 - [一个开源的自托管持续集成和部署系统。](https://github.com/) 
 - [后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。](https://github.com/frank-lam/2019_campus_apply) 
+- ["结巴"中文分词的Node.js版本。](https://github.com/yanyiwu/nodejieba) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
