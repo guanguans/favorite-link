@@ -69,6 +69,7 @@
 - [后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。](https://github.com/frank-lam/2019_campus_apply) 
 - ["结巴"中文分词的Node.js版本。](https://github.com/yanyiwu/nodejieba) 
 - [微信ipad、微信mac协议，可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等。](https://github.com/changtuiqie/Mac.WeChat) 
+- [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
