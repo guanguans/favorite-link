@@ -82,6 +82,7 @@
 - [Laravel Echo的Socket.io服务器。](https://github.com/tlaverdure/laravel-echo-server) 
 - [总结关于科学上网的概念方法及工具。](https://github.com/crifan/scientific_network_summary) 
 - [这里唯一一个gfwlist。](https://github.com/gfwlist/gfwlist) 
+- [微小版本的gfwlist，仅关注常见网站。](https://github.com/gfwlist/tinylist) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
