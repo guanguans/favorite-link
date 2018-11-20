@@ -74,6 +74,7 @@
 - [支付宝（蚂蚁金服）开放平台第三方 PHP SDK，基于官方 3.3.0 版本，助力支付宝小程序后端开发。](https://github.com/wi1dcard/alipay-sdk-php) 
 - [PHP中的简单加密。](https://github.com/defuse/php-encryption) 
 - [Spring Boot 教程、技术栈示例代码，快速简单上手教程。](https://github.com/ityouknow/spring-boot-examples) 
+- [基于Swift的iTu​​nes插件，用于在桌面上显示歌词。](https://github.com/MichaelRow/Lyrics) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
