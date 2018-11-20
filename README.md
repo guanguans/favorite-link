@@ -72,6 +72,7 @@
 - [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings) 
 - [在浏览器中运行SQL。](https://github.com/rickbergfalk/sqlpad) 
 - [支付宝（蚂蚁金服）开放平台第三方 PHP SDK，基于官方 3.3.0 版本，助力支付宝小程序后端开发。](https://github.com/wi1dcard/alipay-sdk-php) 
+- [PHP中的简单加密。](https://github.com/defuse/php-encryption) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
