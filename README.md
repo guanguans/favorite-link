@@ -64,6 +64,7 @@
 
 ### November 20, 2018 
 - [公共维护的Pholcus爬虫规则库。](https://github.com/henrylee2cn/pholcus_lib) 
+- [Swagger 2.0实现go。](https://github.com/go-swagger/go-swagger) 
 ### November 19, 2018 
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation) 
 - [HTTP 相关的 RFC 中文翻译（中英文对照）。](https://github.com/duoani/HTTP-RFCs.zh-cn) 
