@@ -70,6 +70,7 @@
 - [golang的算法和数据结构。](https://github.com/0xAX/go-algorithms) 
 - [使JSON / JSONP易于阅读。](https://github.com/callumlocke/json-formatter) 
 - [一个JavaScript / Python / PHP加密货币交易库，支持超过100个比特币/ altcoin交换。](https://github.com/ccxt/ccxt) 
+- [📚 W3School 教程整理 http://www.w3cschool.cc](https://github.com/it-ebooks/w3school) 
 ### November 20, 2018 
 - [公共维护的Pholcus爬虫规则库。](https://github.com/henrylee2cn/pholcus_lib) 
 - [Swagger 2.0实现go。](https://github.com/go-swagger/go-swagger) 
