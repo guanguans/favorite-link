@@ -66,6 +66,7 @@
 ### November 21, 2018 
 - [直接在CSV或TSV文件上运行SQL。](https://github.com/harelba/q) 
 - [多集群 Kubernetes 的Web UI。](https://github.com/Qihoo360/wayne) 
+- [WeUI的轻量级JavaScript库。](https://github.com/Tencent/weui.js) 
 ### November 20, 2018 
 - [公共维护的Pholcus爬虫规则库。](https://github.com/henrylee2cn/pholcus_lib) 
 - [Swagger 2.0实现go。](https://github.com/go-swagger/go-swagger) 
