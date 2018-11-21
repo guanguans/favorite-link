@@ -73,6 +73,7 @@
 - [📚 W3School 教程整理 http://www.w3cschool.cc](https://github.com/it-ebooks/w3school) 
 - [中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌&零件词库、时间抽取、连续英文切割、中文词向量大全、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据。](https://github.com/fighting41love/funNLP) 
 - [灵活而强大的通用路由解决方案。](https://github.com/router5/router5) 
+- [开源看板（用Meteor建造）。](https://github.com/wekan/wekan) 
 ### November 20, 2018 
 - [公共维护的Pholcus爬虫规则库。](https://github.com/henrylee2cn/pholcus_lib) 
 - [Swagger 2.0实现go。](https://github.com/go-swagger/go-swagger) 
