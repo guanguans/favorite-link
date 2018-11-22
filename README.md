@@ -66,6 +66,7 @@
 
 ### November 22, 2018 
 - [标准图书馆。](https://github.com/zloirock/core-js) 
+- [kafka php客户端。](https://github.com/weiboad/kafka-php) 
 ### November 21, 2018 
 - [直接在CSV或TSV文件上运行SQL。](https://github.com/harelba/q) 
 - [多集群 Kubernetes 的Web UI。](https://github.com/Qihoo360/wayne) 
