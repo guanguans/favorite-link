@@ -74,6 +74,7 @@
 - [ Go 语言高性能分词。](https://github.com/go-ego/gse) 
 - [CLI用于将各种网站的流提取到您选择的视频播放器。](https://github.com/streamlink/streamlink) 
 - [Go Web服务器的实时重新加载实用程序。](https://github.com/codegangsta/gin) 
+- [GraphQL是一种与任何后端服务相关联的查询语言和执行引擎。](https://github.com/facebook/graphql) 
 ### November 21, 2018 
 - [直接在CSV或TSV文件上运行SQL。](https://github.com/harelba/q) 
 - [多集群 Kubernetes 的Web UI。](https://github.com/Qihoo360/wayne) 
