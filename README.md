@@ -68,6 +68,7 @@
 ### November 23, 2018 
 - [Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。](https://github.com/sdfsky/tipask) 
 - [NGiИX配置生成器。](https://github.com/valentinxxx/nginxconfig.io) 
+- [京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展。](https://github.com/sunoj/jjb) 
 ### November 22, 2018 
 - [标准图书馆。](https://github.com/zloirock/core-js) 
 - [kafka php客户端。](https://github.com/weiboad/kafka-php) 
