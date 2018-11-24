@@ -71,6 +71,7 @@
 - [延迟队列。](https://github.com/ouqiang/delay-queue) 
 - [我的油猴脚本。](https://github.com/jerone/UserScripts#readme) 
 - [查看 Github 其他用户的时间表。](https://github.com/barisesen/github-timeline) 
+- [如何成为一名程序员 中文版。](https://github.com/braydie/HowToBeAProgrammer/tree/master/zh) 
 ### November 23, 2018 
 - [Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。](https://github.com/sdfsky/tipask) 
 - [NGiИX配置生成器。](https://github.com/valentinxxx/nginxconfig.io) 
