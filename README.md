@@ -65,6 +65,9 @@
 
 
 
+
+### November 24, 2018 
+- [一套用于Laravel的高级Eloquent。](https://github.com/reinink/advanced-eloquent) 
 ### November 23, 2018 
 - [Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。](https://github.com/sdfsky/tipask) 
 - [NGiИX配置生成器。](https://github.com/valentinxxx/nginxconfig.io) 
