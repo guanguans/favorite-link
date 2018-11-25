@@ -66,6 +66,9 @@
 
 
 
+
+### November 25, 2018 
+- [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings) 
 ### November 24, 2018 
 - [一套用于Laravel的高级Eloquent。](https://github.com/reinink/advanced-eloquent) 
 - [延迟队列。](https://github.com/ouqiang/delay-queue) 
