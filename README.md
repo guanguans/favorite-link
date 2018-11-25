@@ -70,6 +70,7 @@
 ### November 25, 2018 
 - [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings) 
 - [“不要编写你的UI代码，画它！”](https://github.com/karanchahal/DoodleMaster) 
+- [一个到处运行的科幻桌面。](https://github.com/GitSquared/edex-ui) 
 ### November 24, 2018 
 - [一套用于Laravel的高级Eloquent。](https://github.com/reinink/advanced-eloquent) 
 - [延迟队列。](https://github.com/ouqiang/delay-queue) 
