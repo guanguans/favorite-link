@@ -73,6 +73,7 @@
 - [Flash OS映像到SD卡和USB驱动器，安全，轻松。](https://github.com/balena-io/etcher) 
 - [Chinese Identity Card package （中国大陆）公民身份证类。](https://github.com/douyasi/identity-card) 
 - [Linux 内核揭密。](https://github.com/MintCN/linux-insides-zh) 
+- [带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。](https://github.com/huangz1990/redis-3.0-annotated) 
 ### November 25, 2018 
 - [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings) 
 - [“不要编写你的UI代码，画它！”](https://github.com/karanchahal/DoodleMaster) 
