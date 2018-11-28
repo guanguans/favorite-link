@@ -69,6 +69,9 @@
 
 
 
+
+### November 28, 2018 
+- [Chrome 扩展：麻麻再也不用担心 Google API 抽风了。](https://github.com/xmcp/GoFW) 
 ### November 27, 2018 
 - [91云服务器一键测试包。](https://github.com/91yun/91yuntest) 
 - [用Go（golang）编写的完整比特币解决方案。](https://github.com/piotrnar/gocoin) 
