@@ -80,6 +80,7 @@
 - [由微信开发的高效，小型移动键值存储框架。适用于iOS，macOS和Android。](https://github.com/Tencent/MMKV) 
 - [跨平台异步I / O http://libuv.org/。](https://github.com/libuv/libuv) 
 - [用 electron 生成的 Shadowsocksr客户端。](https://github.com/erguotou520/electron-ssr) 
+- [MongoDB对象文档映射器（ODM）](https://github.com/doctrine/mongodb-odm) 
 ### November 27, 2018 
 - [91云服务器一键测试包。](https://github.com/91yun/91yuntest) 
 - [用Go（golang）编写的完整比特币解决方案。](https://github.com/piotrnar/gocoin) 
