@@ -73,6 +73,7 @@
 
 ### November 29, 2018 
 - [🛁适用于JavaScript的Clean Code概念。](https://github.com/ryanmcdermott/clean-code-javascript) 
+- [为PhpStorm和IntelliJ添加PHP注释支持。](https://github.com/Haehnchen/idea-php-annotation-plugin) 
 ### November 28, 2018 
 - [Chrome 扩展：麻麻再也不用担心 Google API 抽风了。](https://github.com/xmcp/GoFW) 
 - [这是PHP的一个实现，用纯Go编写（尽可能，现在pcre在pure go中不存在并且需要使用libpcre）。](https://github.com/MagicalTux/goro) 
