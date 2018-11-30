@@ -76,6 +76,7 @@
 - [Go Web的Go-Mega教程。](https://github.com/bonfy/go-mega) 
 - [免费的Kindle电子书资源。](https://github.com/crazyandcoder/kindle_free_books) 
 - [精选的博客列表。](https://github.com/kilimchoi/engineering-blogs) 
+- [Laravel Nova资源的精选列表。](https://github.com/its-awesome/awesome-laravel-nova) 
 ### November 29, 2018 
 - [🛁适用于JavaScript的Clean Code概念。](https://github.com/ryanmcdermott/clean-code-javascript) 
 - [为PhpStorm和IntelliJ添加PHP注释支持。](https://github.com/Haehnchen/idea-php-annotation-plugin) 
