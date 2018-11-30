@@ -78,6 +78,7 @@
 - [精选的博客列表。](https://github.com/kilimchoi/engineering-blogs) 
 - [Laravel Nova资源的精选列表。](https://github.com/its-awesome/awesome-laravel-nova) 
 - [开源php加密运行扩展，基于screw二次开发。](https://github.com/del-xiong/screw-plus) 
+- [golang 学习笔记。](https://github.com/xmge/gonote) 
 ### November 29, 2018 
 - [🛁适用于JavaScript的Clean Code概念。](https://github.com/ryanmcdermott/clean-code-javascript) 
 - [为PhpStorm和IntelliJ添加PHP注释支持。](https://github.com/Haehnchen/idea-php-annotation-plugin) 
