@@ -81,6 +81,7 @@
 - [golang 学习笔记。](https://github.com/xmge/gonote) 
 - [Go语言学习笔记。](https://github.com/xionglun/goBook) 
 - [《Go Web 编程》 ](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) 
+- [《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN) 
 ### November 29, 2018 
 - [🛁适用于JavaScript的Clean Code概念。](https://github.com/ryanmcdermott/clean-code-javascript) 
 - [为PhpStorm和IntelliJ添加PHP注释支持。](https://github.com/Haehnchen/idea-php-annotation-plugin) 
