@@ -77,6 +77,7 @@
 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
+- [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
 ### December 2, 2018 
 - [👄小程序And公众号商城，外加后台，功能齐全！](https://github.com/geekape/applet-h5-shop?utm_source=gold_browser_extension) 
 - [🎬豆瓣电影传送门。](https://github.com/Neulana/douban-movie-extension) 
