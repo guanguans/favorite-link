@@ -85,6 +85,7 @@
 - [将MySQL binlog解析为您想要的SQL。](https://github.com/danfengcao/binlog2sql) 
 - [一个和Laravel的dd一样方便调试的包。](https://github.com/nineyang/dd) 
 - [Golang 高效编码引擎。](https://github.com/henrylee2cn/aster/blob/master/README_ZH.md) 
+- [《The Way to Go》中文译本，中文正式名《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN) 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
 - [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
