@@ -79,6 +79,7 @@
 ### December 4, 2018 
 - [基于Web技术构建的终端。](https://github.com/zeit/hyper) 
 - [基于UWP和Web技术的终端。](https://github.com/felixse/FluentTerminal) 
+- [谷歌蜻蜓计划。](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on#%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B0%B7%E6%AD%8C%E7%9A%84%E8%9C%BB%E8%9C%93%E9%A1%B9%E7%9B%AE%E5%BF%85%E9%A1%BB%E7%BB%A7%E7%BB%AD) 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
 - [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
