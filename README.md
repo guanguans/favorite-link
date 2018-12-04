@@ -88,6 +88,7 @@
 - [《The Way to Go》中文译本，中文正式名《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN) 
 - [Training for Golang。](https://github.com/GoesToEleven/GolangTraining) 
 - [如何使用golang构建Web应用。](https://github.com/astaxie/build-web-application-with-golang) 
+- [中文版 awesome-go。](https://github.com/hackstoic/golang-open-source-projects) 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
 - [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
