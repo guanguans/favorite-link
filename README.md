@@ -83,6 +83,7 @@
 - [CLI爱好者的终端框架，插件和资源的精选列表。](https://github.com/k4m4/terminals-are-sexy) 
 - [使用Hexo构建您自己的网站。](https://github.com/EasyHexo/Easy-Hexo) 
 - [将MySQL binlog解析为您想要的SQL。](https://github.com/danfengcao/binlog2sql) 
+- [一个和Laravel的dd一样方便调试的包。](https://github.com/nineyang/dd) 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
 - [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
