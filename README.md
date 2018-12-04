@@ -89,6 +89,7 @@
 - [Training for Golang。](https://github.com/GoesToEleven/GolangTraining) 
 - [如何使用golang构建Web应用。](https://github.com/astaxie/build-web-application-with-golang) 
 - [中文版 awesome-go。](https://github.com/hackstoic/golang-open-source-projects) 
+- [Golang标准库。](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
 - [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
