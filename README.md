@@ -82,6 +82,7 @@
 - [谷歌蜻蜓计划。](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on#%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B0%B7%E6%AD%8C%E7%9A%84%E8%9C%BB%E8%9C%93%E9%A1%B9%E7%9B%AE%E5%BF%85%E9%A1%BB%E7%BB%A7%E7%BB%AD) 
 - [CLI爱好者的终端框架，插件和资源的精选列表。](https://github.com/k4m4/terminals-are-sexy) 
 - [使用Hexo构建您自己的网站。](https://github.com/EasyHexo/Easy-Hexo) 
+- [将MySQL binlog解析为您想要的SQL。](https://github.com/danfengcao/binlog2sql) 
 ### December 3, 2018 
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket) 
 - [了解如何将动画引入您的Web项目。](https://github.com/cssanimation/css-animation-101) 
