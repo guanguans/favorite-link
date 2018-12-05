@@ -95,6 +95,7 @@
 - [暗网网址大全TOR。](https://github.com/mr-likar/DeepWeb) 
 - [Tor Browser。](https://github.com/TheTorProject/gettorbrowser) 
 - [中文暗网爬虫。](https://github.com/C4o/ChineseDarkWebCrawler) 
+- [一个简单的交互式Go解释器。](https://github.com/sbinet/igo) 
 ### December 4, 2018 
 - [基于Web技术构建的终端。](https://github.com/zeit/hyper) 
 - [基于UWP和Web技术的终端。](https://github.com/felixse/FluentTerminal) 
