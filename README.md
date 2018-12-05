@@ -88,6 +88,7 @@
 - [将JSON数据转换为PHP类对象。](https://github.com/karriereat/json-decoder) 
 - [开源书籍：《Shell 编程范例》，面向操作对象学 Shell！](https://github.com/tinyclub/open-shell-book) 
 - [廖雪峰 learn java。](https://github.com/michaelliao/learn-java) 
+- [极客时间：nginx核心知识100讲配置文件与代码分享。](https://github.com/russelltao/geektime-nginx) 
 ### December 4, 2018 
 - [基于Web技术构建的终端。](https://github.com/zeit/hyper) 
 - [基于UWP和Web技术的终端。](https://github.com/felixse/FluentTerminal) 
