@@ -83,6 +83,7 @@
 - [Rules / 规则：Surge / Shadowrocket / Quantumult。](https://github.com/lhie1/Rules) 
 - [You-Dont-Know-JS中文版。](https://github.com/kujian/You-Dont-Know-JS) 
 - [计算机操作系统慕课笔记。](https://github.com/apachecn/Computer-operating-system-notes) 
+- [Laravel专用OSS扩展包。](https://github.com/NauxLiu/Laravel-Oss) 
 ### December 4, 2018 
 - [基于Web技术构建的终端。](https://github.com/zeit/hyper) 
 - [基于UWP和Web技术的终端。](https://github.com/felixse/FluentTerminal) 
