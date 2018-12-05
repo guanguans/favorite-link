@@ -86,6 +86,7 @@
 - [Laravel专用OSS扩展包。](https://github.com/NauxLiu/Laravel-Oss) 
 - [基于C的gRPC（C ++，Python，Ruby，Objective-C，PHP，C＃）。](https://github.com/grpc/grpc) 
 - [将JSON数据转换为PHP类对象。](https://github.com/karriereat/json-decoder) 
+- [开源书籍：《Shell 编程范例》，面向操作对象学 Shell！](https://github.com/tinyclub/open-shell-book) 
 ### December 4, 2018 
 - [基于Web技术构建的终端。](https://github.com/zeit/hyper) 
 - [基于UWP和Web技术的终端。](https://github.com/felixse/FluentTerminal) 
