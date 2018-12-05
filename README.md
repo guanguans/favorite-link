@@ -79,6 +79,7 @@
 
 ### December 5, 2018 
 - [golang库用于读写Microsoft Excel。](https://github.com/360EntSecGroup-Skylar/excelize) 
+- [Dan Abramov 的个人博客。](https://github.com/gaearon/overreacted.io) 
 ### December 4, 2018 
 - [基于Web技术构建的终端。](https://github.com/zeit/hyper) 
 - [基于UWP和Web技术的终端。](https://github.com/felixse/FluentTerminal) 
