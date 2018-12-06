@@ -81,6 +81,7 @@
 ### December 6, 2018 
 - [用于处理Tumblr博客的工具，Tumblr备份。](https://github.com/bbolli/tumblr-utils) 
 - [JSBox 扩展 demo。](https://github.com/cyanzhong/xTeko/blob/master/README_CN.md) 
+- [jsbox、pin 使用技巧。 ](https://github.com/cyanzhong/app-tutorials) 
 ### December 5, 2018 
 - [golang库用于读写Microsoft Excel。](https://github.com/360EntSecGroup-Skylar/excelize) 
 - [Dan Abramov 的个人博客。](https://github.com/gaearon/overreacted.io) 
