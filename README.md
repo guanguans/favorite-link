@@ -85,6 +85,7 @@
 - [在iOS设备上无需越狱即可检索InfoPlist。](https://github.com/cyanzhong/Retriever) 
 - [应用程序中开放系统设置的演示（iOS 10.2）。](https://github.com/ChengLuffy/app-Prefs) 
 - [命令行的艺术。](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
+- [基于浏览器的代码编辑器。](https://github.com/Microsoft/monaco-editor) 
 ### December 5, 2018 
 - [golang库用于读写Microsoft Excel。](https://github.com/360EntSecGroup-Skylar/excelize) 
 - [Dan Abramov 的个人博客。](https://github.com/gaearon/overreacted.io) 
