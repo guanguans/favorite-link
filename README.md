@@ -87,6 +87,7 @@
 - [命令行的艺术。](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
 - [基于浏览器的代码编辑器。](https://github.com/Microsoft/monaco-editor) 
 - [一个简单的本地图像，用PHP编写的缩略图生成脚本.](https://github.com/jamiebicknell/Thumb) 
+- [我的ZSH配置和dotfiles。](https://github.com/caius/zshrc) 
 ### December 5, 2018 
 - [golang库用于读写Microsoft Excel。](https://github.com/360EntSecGroup-Skylar/excelize) 
 - [Dan Abramov 的个人博客。](https://github.com/gaearon/overreacted.io) 
