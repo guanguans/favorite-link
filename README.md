@@ -88,6 +88,7 @@
 - [基于浏览器的代码编辑器。](https://github.com/Microsoft/monaco-editor) 
 - [一个简单的本地图像，用PHP编写的缩略图生成脚本.](https://github.com/jamiebicknell/Thumb) 
 - [我的ZSH配置和dotfiles。](https://github.com/caius/zshrc) 
+- [One for all free music in china for Windows with fluent UI. https://github.com/oyrx/listen1_desktop。](https://github.com/oyrx/listen1_desktop_fluent) 
 ### December 5, 2018 
 - [golang库用于读写Microsoft Excel。](https://github.com/360EntSecGroup-Skylar/excelize) 
 - [Dan Abramov 的个人博客。](https://github.com/gaearon/overreacted.io) 
