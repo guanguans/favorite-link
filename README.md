@@ -87,6 +87,7 @@
 - [我的Python示例 http://www.thegeekblog.co.uk](https://github.com/geekcomputers/Python) 
 - [基于workerman的shadowocks的php端口。](https://github.com/walkor/shadowsocks-php) 
 - [Flutter可以轻松快速地构建漂亮的移动应用程序。](https://github.com/flutter/flutter) 
+- [PHP的基本CURL包装器。](https://github.com/shuber/curl) 
 ### December 6, 2018 
 - [用于处理Tumblr博客的工具，Tumblr备份。](https://github.com/bbolli/tumblr-utils) 
 - [JSBox 扩展 demo。](https://github.com/cyanzhong/xTeko/blob/master/README_CN.md) 
