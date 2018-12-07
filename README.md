@@ -82,6 +82,7 @@
 ### December 7, 2018 
 - [Larastan - 在不运行代码的情况下发现代码中的错误。](https://github.com/nunomaduro/larastan) 
 - [Go设计模式，食谱和习语的精选列表。](https://github.com/tmrts/go-patterns) 
+- [PHP的简单多进程管理器，基于pcntl和posix。](https://github.com/soliphp/process) 
 ### December 6, 2018 
 - [用于处理Tumblr博客的工具，Tumblr备份。](https://github.com/bbolli/tumblr-utils) 
 - [JSBox 扩展 demo。](https://github.com/cyanzhong/xTeko/blob/master/README_CN.md) 
