@@ -86,6 +86,7 @@
 - [谷歌访问助手破解版。](https://github.com/haotian-wang/google-access-helper) 
 - [php框架基准测试（包括laravel，symfony，silex，lumen，slim，yii2，tastphp等）](https://github.com/xujiajun/php-framework-benchmark) 
 - [为GitHub README.md轻松创建TOC。](https://github.com/ekalinin/github-markdown-toc) 
+- [用动画的形式呈现解LeetCode题目的思路。](https://github.com/MisterBooo/LeetCodeAnimation) 
 ### December 7, 2018 
 - [Larastan - 在不运行代码的情况下发现代码中的错误。](https://github.com/nunomaduro/larastan) 
 - [Go设计模式，食谱和习语的精选列表。](https://github.com/tmrts/go-patterns) 
