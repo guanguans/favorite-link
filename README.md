@@ -90,6 +90,7 @@
 - [Tampermonkey脚本从Stack Overflow等复制代码。](https://github.com/Neulana/copy2clipboard) 
 - [aria2是一个轻量级的多协议和多源，跨平台下载实用程序，在命令行中运行。](https://github.com/aria2/aria2) 
 - [webui-aria2。](https://github.com/ziahamza/webui-aria2) 
+- [更优雅的驾车体验。](https://github.com/SplashCodes/JAViewer/) 
 ### December 7, 2018 
 - [Larastan - 在不运行代码的情况下发现代码中的错误。](https://github.com/nunomaduro/larastan) 
 - [Go设计模式，食谱和习语的精选列表。](https://github.com/tmrts/go-patterns) 
