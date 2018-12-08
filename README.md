@@ -82,6 +82,7 @@
 
 ### December 8, 2018 
 - [适用于Golang的类型安全的Redis客户端。](https://github.com/go-redis/redis) 
+- [JavaScript的Base64实现。](https://github.com/dankogai/js-base64) 
 ### December 7, 2018 
 - [Larastan - 在不运行代码的情况下发现代码中的错误。](https://github.com/nunomaduro/larastan) 
 - [Go设计模式，食谱和习语的精选列表。](https://github.com/tmrts/go-patterns) 
