@@ -84,6 +84,7 @@
 ### December 9, 2018 
 - [构建OAuth和OpenID Connect服务器的终极Python库。 包括JWS，JWE，JWK，JWA，JWT。](https://github.com/lepture/authlib) 
 - [基于workerman的PHP中socket.io的服务器端替代实现。](https://github.com/walkor/phpsocket.io) 
+- [使用一个命令设置git，vim，zsh，SublimeText，tmux等。](https://github.com/Wyntau/dotfiles) 
 ### December 8, 2018 
 - [适用于Golang的类型安全的Redis客户端。](https://github.com/go-redis/redis) 
 - [JavaScript的Base64实现。](https://github.com/dankogai/js-base64) 
