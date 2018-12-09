@@ -80,6 +80,9 @@
 
 
 
+
+### December 9, 2018 
+- [构建OAuth和OpenID Connect服务器的终极Python库。 包括JWS，JWE，JWK，JWA，JWT。](https://github.com/lepture/authlib) 
 ### December 8, 2018 
 - [适用于Golang的类型安全的Redis客户端。](https://github.com/go-redis/redis) 
 - [JavaScript的Base64实现。](https://github.com/dankogai/js-base64) 
