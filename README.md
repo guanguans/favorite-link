@@ -84,6 +84,7 @@
 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
+- [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
 ### December 9, 2018 
 - [构建OAuth和OpenID Connect服务器的终极Python库。 包括JWS，JWE，JWK，JWA，JWT。](https://github.com/lepture/authlib) 
 - [基于workerman的PHP中socket.io的服务器端替代实现。](https://github.com/walkor/phpsocket.io) 
