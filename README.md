@@ -88,6 +88,7 @@
 - [A proxyee-down extension for baiduyun。](https://github.com/monkeyWie/baiduyun-helper) 
 - [Proxyee Down扩展存储库。](https://github.com/proxyee-down-org/proxyee-down-extension) 
 - [演示React项目如何接入Fundebug错误监控服务。](https://github.com/Fundebug/fundebug-react-demo) 
+- [Go的简单文件嵌入器。](https://github.com/mjibson/esc) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
