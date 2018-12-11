@@ -82,6 +82,9 @@
 
 
 
+
+### December 11, 2018 
+- [基于NodeJS的跨平台，免费和开源密码管理器。](https://github.com/buttercup/buttercup-desktop) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
