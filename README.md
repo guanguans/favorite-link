@@ -105,6 +105,7 @@
 - [PHP电子邮件验证器库受到。](https://github.com/egulias/EmailValidator?utm_source=gold_browser_extension) 
 - [检查以下RFC的电子邮件地址：3696,1123,4291,5321,5322 isemail.info](https://github.com/dominicsayers/isemail) 
 - [Spotify Web API的Go包装器。](https://github.com/zmb3/spotify) 
+- [《Github 帮助文档》 中文翻译。](https://github.com/waylau/github-help) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
