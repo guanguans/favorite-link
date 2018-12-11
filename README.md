@@ -102,6 +102,7 @@
 - [Composer更新后显示更好的摘要。](https://github.com/pyrech/composer-changelogs?utm_source=gold_browser_extension) 
 - [一个授权库，支持PHP casbin.org中的 ACL，RBAC，ABAC等访问控制模型。](https://github.com/php-casbin/php-casbin?utm_source=gold_browser_extension) 
 - [一个授权库，支持PHP casbin.org中的 ACL，RBAC，ABAC等访问控制模型。](https://github.com/doctrine/dbal?utm_source=gold_browser_extension) 
+- [PHP电子邮件验证器库受到。](https://github.com/egulias/EmailValidator?utm_source=gold_browser_extension) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
