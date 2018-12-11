@@ -94,6 +94,7 @@
 - [OpenTracing API for PHP。](https://github.com/opentracing/opentracing-php) 
 - [将任何脚本或程序的输出放在Mac OS X菜单栏中。](https://github.com/matryer/bitbar) 
 - [这个javascript库解析PHP代码并将其转换为AST。](https://github.com/glayzzle/php-parser) 
+- [Chrome扩展以树格式显示Gitlab代码。](https://github.com/FrankFan/gitlab-tree) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
