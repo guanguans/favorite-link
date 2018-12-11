@@ -96,6 +96,7 @@
 - [这个javascript库解析PHP代码并将其转换为AST。](https://github.com/glayzzle/php-parser) 
 - [Chrome扩展以树格式显示Gitlab代码。](https://github.com/FrankFan/gitlab-tree) 
 - [一个授权库，支持Golang中的ACL，RBAC，ABAC等访问控制模型。](https://github.com/casbin/casbin) 
+- [专为ThinkPHP5.1定制的Casbin的扩展包，Casbin是一个功能强大，高效的开源访问控制库。](https://github.com/php-casbin/think-casbin) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
