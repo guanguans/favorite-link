@@ -92,6 +92,7 @@
 - [The official Go package for NSQ。](https://github.com/nsqio/go-nsq) 
 - [For macOS.百度网盘 破解SVIP、下载速度限制~](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) 
 - [OpenTracing API for PHP。](https://github.com/opentracing/opentracing-php) 
+- [将任何脚本或程序的输出放在Mac OS X菜单栏中。](https://github.com/matryer/bitbar) 
 ### December 10, 2018 
 - [为每个人提供客户端JavaScript PDF生成。](https://github.com/MrRio/jsPDF) 
 - [重新编写，使用react ，babel，webpack和其他现代东西。](https://github.com/Pomax/BezierInfo-2) 
