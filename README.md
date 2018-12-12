@@ -99,6 +99,7 @@
 - [⚡️通过在空闲时间预取视口内链接来加载后续页面加载。](https://github.com/GoogleChromeLabs/quicklink) 
 - [有史以来为PHP创建的最棒的验证引擎。](https://github.com/Respect/Validation) 
 - [收集工具和改进使PhpStorm更好一点。](https://github.com/Haehnchen/idea-php-toolbox) 
+- [Atom文件特定的图标。](https://github.com/file-icons/atom) 
 ### December 11, 2018 
 - [基于NodeJS的跨平台，免费和开源密码管理器。](https://github.com/buttercup/buttercup-desktop) 
 - [A proxyee-down extension for baiduyun。](https://github.com/monkeyWie/baiduyun-helper) 
