@@ -83,6 +83,9 @@
 
 
 
+
+### December 12, 2018 
+- [Python代码的静态分析器。](https://github.com/google/pytype) 
 ### December 11, 2018 
 - [基于NodeJS的跨平台，免费和开源密码管理器。](https://github.com/buttercup/buttercup-desktop) 
 - [A proxyee-down extension for baiduyun。](https://github.com/monkeyWie/baiduyun-helper) 
