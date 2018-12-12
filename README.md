@@ -96,6 +96,7 @@
 - [向你的贡献者展示一些爱！您的repo README的小部件。每小时刷新一次。](https://github.com/sourcerer-io/hall-of-fame) 
 - [Python开发工作流程。](https://github.com/pypa/pipenv) 
 - [jsliang 的文档库. 里面包含了所有的前端文章，例如 vue、react,、angular、微信小程序、设计模式等……](https://github.com/LiangJunrong/document-library) 
+- [⚡️通过在空闲时间预取视口内链接来加载后续页面加载。](https://github.com/GoogleChromeLabs/quicklink) 
 ### December 11, 2018 
 - [基于NodeJS的跨平台，免费和开源密码管理器。](https://github.com/buttercup/buttercup-desktop) 
 - [A proxyee-down extension for baiduyun。](https://github.com/monkeyWie/baiduyun-helper) 
