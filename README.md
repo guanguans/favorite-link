@@ -98,6 +98,7 @@
 - [在切换开关中转动复选框和单选按钮。](https://github.com/Bttstrp/bootstrap-switch) 
 - [适用于Google翻译的免费且无限制的API。](https://github.com/matheuss/google-translate-api) 
 - [Node.js的可移植Unix shell命令。](https://github.com/shelljs/shelljs) 
+- [学习Golang。](https://github.com/go-training/training) 
 ### December 12, 2018 
 - [Python代码的静态分析器。](https://github.com/google/pytype) 
 - [Hoa是一个模块化，可扩展和结构化的PHP库集。](https://github.com/hoaproject/Central) 
