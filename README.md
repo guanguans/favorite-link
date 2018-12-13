@@ -93,6 +93,7 @@
 - [Debian，Ubuntu和CentOS的OpenVPN road warrior安装程序。](https://github.com/Nyr/openvpn-install) 
 - [分布式可靠键值存储，用于分布式系统的最关键数据。](https://github.com/etcd-io/etcd) 
 - [TiDB是与MySQL协议兼容的分布式HTAP数据库。](https://github.com/pingcap/tidb) 
+- [DevHub: TweetDeck for GitHub - Android, iOS and Web。](https://github.com/devhubapp/devhub) 
 ### December 12, 2018 
 - [Python代码的静态分析器。](https://github.com/google/pytype) 
 - [Hoa是一个模块化，可扩展和结构化的PHP库集。](https://github.com/hoaproject/Central) 
