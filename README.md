@@ -99,6 +99,7 @@
 - [适用于Google翻译的免费且无限制的API。](https://github.com/matheuss/google-translate-api) 
 - [Node.js的可移植Unix shell命令。](https://github.com/shelljs/shelljs) 
 - [学习Golang。](https://github.com/go-training/training) 
+- [准备好使用JSONP端点/有效负载来帮助绕过不同网站的内容安全策略。](https://github.com/zigoo0/JSONBee?utm_source=gold_browser_extension) 
 ### December 12, 2018 
 - [Python代码的静态分析器。](https://github.com/google/pytype) 
 - [Hoa是一个模块化，可扩展和结构化的PHP库集。](https://github.com/hoaproject/Central) 
