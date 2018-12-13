@@ -100,6 +100,7 @@
 - [Node.js的可移植Unix shell命令。](https://github.com/shelljs/shelljs) 
 - [学习Golang。](https://github.com/go-training/training) 
 - [准备好使用JSONP端点/有效负载来帮助绕过不同网站的内容安全策略。](https://github.com/zigoo0/JSONBee?utm_source=gold_browser_extension) 
+- [HookPHP一款基于C扩展搭建支持AI在线编程的PHP框架-安全秒杀ThinkPHP-性能秒Laravel-功能秒YAF-易用秒Symfony-入门秒Zend-组件秒Yii-耦合秒Phalcon 。](https://github.com/letwang/HookPHP) 
 ### December 12, 2018 
 - [Python代码的静态分析器。](https://github.com/google/pytype) 
 - [Hoa是一个模块化，可扩展和结构化的PHP库集。](https://github.com/hoaproject/Central) 
