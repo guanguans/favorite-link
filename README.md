@@ -95,6 +95,7 @@
 - [TiDB是与MySQL协议兼容的分布式HTAP数据库。](https://github.com/pingcap/tidb) 
 - [DevHub: TweetDeck for GitHub - Android, iOS and Web。](https://github.com/devhubapp/devhub) 
 - [基于DuerOS的个人的智能语音助手。](https://github.com/MyDuerOS/DuerOS-Python-Client) 
+- [在切换开关中转动复选框和单选按钮。](https://github.com/Bttstrp/bootstrap-switch) 
 ### December 12, 2018 
 - [Python代码的静态分析器。](https://github.com/google/pytype) 
 - [Hoa是一个模块化，可扩展和结构化的PHP库集。](https://github.com/hoaproject/Central) 
