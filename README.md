@@ -87,6 +87,7 @@
 
 ### December 13, 2018 
 - [GitLab CE Mirror。](https://github.com/gitlabhq/gitlabhq) 
+- [Windows的命令行安装程序。](https://github.com/lukesampson/scoop) 
 ### December 12, 2018 
 - [Python代码的静态分析器。](https://github.com/google/pytype) 
 - [Hoa是一个模块化，可扩展和结构化的PHP库集。](https://github.com/hoaproject/Central) 
