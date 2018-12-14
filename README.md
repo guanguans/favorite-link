@@ -85,6 +85,9 @@
 
 
 
+
+### December 14, 2018 
+- [一个通用字幕查找器，可以查找字幕并下载。](https://github.com/ausaki/subfinder) 
 ### December 13, 2018 
 - [GitLab CE Mirror。](https://github.com/gitlabhq/gitlabhq) 
 - [Windows的命令行安装程序。](https://github.com/lukesampson/scoop) 
