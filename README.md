@@ -91,6 +91,7 @@
 - [检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。](https://github.com/hustcc/lint-md) 
 - [在macOS和Linux上更好的微信。用Electron制造。](https://github.com/geeeeeeeeek/electronic-wechat) 
 - [一套完整的学习手册帮助自己准备 Google 的面试。](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) 
+- [适用于Windows的软件发行版和构建平台。](https://github.com/msys2/msys2) 
 ### December 13, 2018 
 - [GitLab CE Mirror。](https://github.com/gitlabhq/gitlabhq) 
 - [Windows的命令行安装程序。](https://github.com/lukesampson/scoop) 
