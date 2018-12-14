@@ -94,6 +94,7 @@
 - [适用于Windows的软件发行版和构建平台。](https://github.com/msys2/msys2) 
 - [JSON-RPC 1/2传输实现。 支持python 2/3和pypy。](https://github.com/pavlov99/json-rpc) 
 - [在Android上安装并运行GNU / Linux。](https://github.com/meefik/linuxdeploy) 
+- [WeHalo 简约风 的微信小程序版博客。](https://github.com/aquanlerou/WeHalo) 
 ### December 13, 2018 
 - [GitLab CE Mirror。](https://github.com/gitlabhq/gitlabhq) 
 - [Windows的命令行安装程序。](https://github.com/lukesampson/scoop) 
