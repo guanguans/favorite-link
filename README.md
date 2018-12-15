@@ -91,6 +91,7 @@
 - [HTTP负载测试工具和库。](https://github.com/tsenart/vegeta) 
 - [自动生成 ppt。](https://github.com/ksky521/nodePPT) 
 - [基于vegeta和boom的http基准web应用程序。](https://github.com/ireaderlab/alex) 
+- [录制终端并生成动画gif图像或共享网络播放器。](https://github.com/faressoft/terminalizer) 
 ### December 14, 2018 
 - [一个通用字幕查找器，可以查找字幕并下载。](https://github.com/ausaki/subfinder) 
 - [检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。](https://github.com/hustcc/lint-md) 
