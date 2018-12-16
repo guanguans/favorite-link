@@ -92,6 +92,7 @@
 - [Docker官方映像包装PHP。](https://github.com/docker-library/php) 
 - [由Firebase提供支持的协作文本编辑器。](https://github.com/FirebaseExtended/firepad) 
 - [秒杀系统设计与实现.互联网工程师进阶与分析。](https://github.com/qiurunze123/miaosha) 
+- [为PHP代码覆盖率信息提供收集，处理和呈现功能的库。](https://github.com/sebastianbergmann/php-code-coverage) 
 ### December 15, 2018 
 - [HTTP负载测试工具和库。](https://github.com/tsenart/vegeta) 
 - [自动生成 ppt。](https://github.com/ksky521/nodePPT) 
