@@ -97,6 +97,7 @@
 - [用于Graphite，InfluxDB和Prometheus的漂亮监控和度量分析和仪表板的工具。](https://github.com/grafana/grafana) 
 - [快速轻松地管理和切换多个代理。](https://github.com/FelisCatus/SwitchyOmega) 
 - [Go By Example 中文版。](https://github.com/xg-wang/gobyexample) 
+- [徽章。](https://github.com/BraveUX/for-the-badge) 
 ### December 16, 2018 
 - [Docker官方映像包装PHP。](https://github.com/docker-library/php) 
 - [由Firebase提供支持的协作文本编辑器。](https://github.com/FirebaseExtended/firepad) 
