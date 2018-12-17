@@ -101,6 +101,7 @@
 - [基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue) 
 - [Tideland GoLib。](https://github.com/tideland/golib/) 
 - [一个小型PHP库，用于从数字生成类似YouTube的ID。 当您不希望向用户公开数据库ID时使用它。](https://github.com/ivanakimov/hashids.php) 
+- [MinTTY的一些配色方案。](https://github.com/oumu/mintty-color-schemes) 
 ### December 16, 2018 
 - [Docker官方映像包装PHP。](https://github.com/docker-library/php) 
 - [由Firebase提供支持的协作文本编辑器。](https://github.com/FirebaseExtended/firepad) 
