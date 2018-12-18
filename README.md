@@ -97,6 +97,7 @@
 - [Soli PHP框架。](https://github.com/soliphp/framework) 
 - [MIT课程《Distributed Systems 》学习和翻译。](https://github.com/feixiao/Distributed-Systems) 
 - [中国低线城市（或称三四线城市）的机会。](https://github.com/xunyun/Lower-tier_Cities_in_China) 
+- [Phar安装和验证环境（PHIVE）。](https://github.com/phar-io/phive) 
 ### December 17, 2018 
 - [TinySSH是小型服务器（少于100000字的代码）。](https://github.com/janmojzis/tinyssh) 
 - [在Node.js和浏览器中生成大量真实的假数据。](https://github.com/Marak/faker.js) 
