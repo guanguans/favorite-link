@@ -100,6 +100,7 @@
 - [Phar安装和验证环境（PHIVE）。](https://github.com/phar-io/phive) 
 - [对文件/目录中的所有PHP命名空间进行前缀，以隔离PHAR中捆绑的代码。](https://github.com/humbug/php-scoper) 
 - [Navicat Keygen。](https://github.com/DoubleLabyrinth/navicat-keygen/blob/windows/README.zh-CN.md) 
+- [Laravel 社区门户网站。](https://github.com/laravelio/portal) 
 ### December 17, 2018 
 - [TinySSH是小型服务器（少于100000字的代码）。](https://github.com/janmojzis/tinyssh) 
 - [在Node.js和浏览器中生成大量真实的假数据。](https://github.com/Marak/faker.js) 
