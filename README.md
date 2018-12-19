@@ -95,6 +95,7 @@
 - [一个更新鲜的“在GitHub上叉我”标注。](https://github.com/tholman/github-corners) 
 - [将markdown文档可视化为思维导图。](https://github.com/dundalek/markmap) 
 - [用纯Python编写的计算机代数系统。](https://github.com/sympy/sympy) 
+- [Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章。](https://github.com/chunlintang/golang-anything-recommend) 
 ### December 18, 2018 
 - [GRPC服务的GUI客户端。](https://github.com/uw-labs/bloomrpc) 
 - [Github iOS客户端用RxSwift和MVVM编写的干净架构。](https://github.com/khoren93/SwiftHub) 
