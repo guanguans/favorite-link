@@ -99,6 +99,7 @@
 - [用于#golang（WIP）的实验性新HTTP客户端API。](https://github.com/bradfitz/exp-httpclient) 
 - [包 goconfig 是一个易于使用，支持注释的 Go 语言配置文件解析器，该文件的书写格式和 Windows 下的 INI 文件一样。](https://github.com/Unknwon/goconfig/blob/master/README_ZH.md) 
 - [💫一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。特别是对于系统和网络管理员，DevOps，Pentesters或安全研究人员。](https://github.com/trimstray/the-book-of-secret-knowledge) 
+- [NumPy和Pandas与大数据的接口。](https://github.com/blaze/blaze) 
 ### December 19, 2018 
 - [一个更新鲜的“在GitHub上叉我”标注。](https://github.com/tholman/github-corners) 
 - [将markdown文档可视化为思维导图。](https://github.com/dundalek/markmap) 
