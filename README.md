@@ -94,6 +94,7 @@
 
 ### December 20, 2018 
 - [Rails Girls Guides。](https://github.com/railsgirls/railsgirls.github.io) 
+- [输入SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor) 
 ### December 19, 2018 
 - [一个更新鲜的“在GitHub上叉我”标注。](https://github.com/tholman/github-corners) 
 - [将markdown文档可视化为思维导图。](https://github.com/dundalek/markmap) 
