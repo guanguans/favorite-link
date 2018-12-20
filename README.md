@@ -102,6 +102,7 @@
 - [NumPy和Pandas与大数据的接口。](https://github.com/blaze/blaze) 
 - [PHP 中文工具类，支持汉字转拼音、拼音分词、简繁互转。](https://github.com/Yurunsoft/ChineseUtil) 
 - [Docker  - 初学者|中级|高级。](https://github.com/collabnix/dockerlabs) 
+- [基于TP3.1的多用户BT离线下载。](https://github.com/maysrp/yunBT) 
 ### December 19, 2018 
 - [一个更新鲜的“在GitHub上叉我”标注。](https://github.com/tholman/github-corners) 
 - [将markdown文档可视化为思维导图。](https://github.com/dundalek/markmap) 
