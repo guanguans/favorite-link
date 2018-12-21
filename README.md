@@ -102,6 +102,7 @@
 - [用于创建彩色控制台输出的简单库。](https://github.com/JakubOnderka/PHP-Console-Color) 
 - [一个美丽的hexo博客主题与材料设计和响应设计。](https://github.com/blinkfox/hexo-theme-matery) 
 - [电子表格分析器和编写器。](https://github.com/SheetJS/js-xlsx) 
+- [Java 编程思想。](https://github.com/quanke/think-in-java) 
 ### December 20, 2018 
 - [Rails Girls Guides。](https://github.com/railsgirls/railsgirls.github.io) 
 - [输入SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor) 
