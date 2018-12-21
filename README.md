@@ -98,6 +98,7 @@
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
 - [麻省理工学院6.824分布式系统类的基本资源。](https://github.com/chaozh/MIT-6.824) 
 - [序列化闭包（匿名函数）。](https://github.com/opis/closure) 
+- [精通以太坊 （中文版）。](https://github.com/inoutcode/ethereum_book) 
 ### December 20, 2018 
 - [Rails Girls Guides。](https://github.com/railsgirls/railsgirls.github.io) 
 - [输入SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor) 
