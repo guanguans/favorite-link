@@ -95,6 +95,7 @@
 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
+- [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
 ### December 20, 2018 
 - [Rails Girls Guides。](https://github.com/railsgirls/railsgirls.github.io) 
 - [输入SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor) 
