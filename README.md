@@ -93,6 +93,9 @@
 
 
 
+
+### December 22, 2018 
+- [通过LD_PRELOA绕过disable_functions](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
