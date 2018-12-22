@@ -107,6 +107,7 @@
 - [一个类似jquery的python库。](https://github.com/gawel/pyquery) 
 - [持续收集国内免费优质API。](https://github.com/yuyang2016/Chinese-Free-API) 
 - [ip2region - 最自由的ip地址查询库，ip到地区的映射库，提供Binary,B树和纯内存三种查询算法，妈妈再也不用担心我的ip地址定位。](https://github.com/lionsoul2014/ip2region) 
+- [JavaScript的“警报”的美丽替代品。](https://github.com/t4t5/sweetalert) 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
