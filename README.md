@@ -102,6 +102,7 @@
 - [时尚的CLI提示用户友好，直观且易于创建。](https://github.com/enquirer/enquirer) 
 - [RedisDesktopManager-Windows 安装包和编译教程。](https://github.com/necan/RedisDesktopManager-Windows) 
 - [建立在yaf的基础上，集成了Smarty引擎，加入了封装好的各种功能类。](https://github.com/sillydong/CZD_Yaf_Extension) 
+- [开源Node.js无头CMS，轻松构建可定制的API。](https://github.com/strapi/strapi) 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
