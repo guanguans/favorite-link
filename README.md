@@ -105,6 +105,7 @@
 - [开源Node.js无头CMS，轻松构建可定制的API。](https://github.com/strapi/strapi) 
 - [学习Python 3示例代码。](https://github.com/michaelliao/learn-python3) 
 - [一个类似jquery的python库。](https://github.com/gawel/pyquery) 
+- [持续收集国内免费优质API。](https://github.com/yuyang2016/Chinese-Free-API) 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
