@@ -103,6 +103,7 @@
 - [RedisDesktopManager-Windows 安装包和编译教程。](https://github.com/necan/RedisDesktopManager-Windows) 
 - [建立在yaf的基础上，集成了Smarty引擎，加入了封装好的各种功能类。](https://github.com/sillydong/CZD_Yaf_Extension) 
 - [开源Node.js无头CMS，轻松构建可定制的API。](https://github.com/strapi/strapi) 
+- [学习Python 3示例代码。](https://github.com/michaelliao/learn-python3) 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
