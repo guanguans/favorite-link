@@ -99,6 +99,7 @@
 - [Rubix ML是一个高级机器学习库，可让您构建使用PHP语言从数据中学习的程序。](https://github.com/RubixML/RubixML) 
 - [一个方便实用的工具，用于在redis组之间迁移数据。](https://github.com/vipshop/redis-migrate-tool) 
 - [基于Laravel的API服务端架构代码。](https://github.com/flc1125/ApiServer) 
+- [时尚的CLI提示用户友好，直观且易于创建。](https://github.com/enquirer/enquirer) 
 ### December 21, 2018 
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [适用于WordPress的GraphQL API。](https://github.com/wp-graphql/wp-graphql) 
