@@ -103,6 +103,7 @@
 - [Supervisord监控工具。](https://github.com/mlazarov/supervisord-monitor) 
 - [用Golang编写的高性能PHP应用程序服务器，负载均衡器和进程管理器。](https://github.com/spiral/roadrunner) 
 - [这是ZipArchive方法的简单包装器，带有一些方便的功能。](https://github.com/Chumper/Zipper) 
+- [用于Git repos和npm包的CLI发布工具。](https://github.com/webpro/release-it) 
 ### December 22, 2018 
 - [通过LD_PRELOA绕过disable_functions](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) 
 - [Rubix ML是一个高级机器学习库，可让您构建使用PHP语言从数据中学习的程序。](https://github.com/RubixML/RubixML) 
