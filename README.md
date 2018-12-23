@@ -94,6 +94,9 @@
 
 
 
+
+### December 23, 2018 
+- [Flexihash是一个小型PHP库，可实现一致的hashing。](https://github.com/pda/flexihash) 
 ### December 22, 2018 
 - [通过LD_PRELOA绕过disable_functions](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) 
 - [Rubix ML是一个高级机器学习库，可让您构建使用PHP语言从数据中学习的程序。](https://github.com/RubixML/RubixML) 
