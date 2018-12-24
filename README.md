@@ -98,6 +98,7 @@
 
 ### December 24, 2018 
 - [功能强大的免费软件，也恰好是开源Python。](https://github.com/mahmoud/awesome-python-applications) 
+- [乡村信息系统（SID）。](https://github.com/OpenSID/OpenSID) 
 ### December 23, 2018 
 - [Flexihash是一个小型PHP库，可实现一致的hashing。](https://github.com/pda/flexihash) 
 - [基于iView的Vue 2.0管理系统模板。](https://github.com/iview/iview-admin) 
