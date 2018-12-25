@@ -96,6 +96,9 @@
 
 
 
+
+### December 25, 2018 
+- [由Visual Studio Code提供支持的在线IDE。](https://github.com/stackblitz/core) 
 ### December 24, 2018 
 - [功能强大的免费软件，也恰好是开源Python。](https://github.com/mahmoud/awesome-python-applications) 
 - [乡村信息系统（SID）。](https://github.com/OpenSID/OpenSID) 
