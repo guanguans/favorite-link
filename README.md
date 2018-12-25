@@ -101,6 +101,7 @@
 - [由Visual Studio Code提供支持的在线IDE。](https://github.com/stackblitz/core) 
 - [将终端记录转换为GIF动画。](https://github.com/icholy/ttygif) 
 - [在 Windows 上用 WSL 优雅开发。](https://github.com/spencerwooo/dowww) 
+- [Lua和OpenResty的验证库（输入验证和过滤）。](https://github.com/bungle/lua-resty-validation) 
 ### December 24, 2018 
 - [功能强大的免费软件，也恰好是开源Python。](https://github.com/mahmoud/awesome-python-applications) 
 - [乡村信息系统（SID）。](https://github.com/OpenSID/OpenSID) 
