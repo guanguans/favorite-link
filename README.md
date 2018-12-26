@@ -104,6 +104,7 @@
 - [📚学习机器学习的实用方法。](https://github.com/GokuMohandas/practicalAI) 
 - [异步WebSocket客户端。](https://github.com/ratchetphp/Pawl) 
 - [Événement是一个非常简单的PHP事件调度库。](https://github.com/igorw/evenement) 
+- [开箱即用的中台前端/设计解决方案。](https://github.com/ant-design/ant-design-pro/blob/master/README.zh-CN.md) 
 ### December 25, 2018 
 - [由Visual Studio Code提供支持的在线IDE。](https://github.com/stackblitz/core) 
 - [将终端记录转换为GIF动画。](https://github.com/icholy/ttygif) 
