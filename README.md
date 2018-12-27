@@ -101,6 +101,7 @@
 
 ### December 27, 2018 
 - [ Segment Fault 在线讲堂 代码工程。](https://github.com/mercyblitz/segmentfault-lessons) 
+- [「小马哥技术周报」](https://github.com/mercyblitz/tech-weekly) 
 ### December 26, 2018 
 - [PHP TensorFlow绑定。](https://github.com/dstogov/php-tensorflow) 
 - [一个字体系列，为程序员提供了一个很好的等宽变体。](https://github.com/belluzj/fantasque-sans) 
