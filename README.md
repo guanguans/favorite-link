@@ -109,6 +109,7 @@
 - [中国省/自治区/直辖市、市/自治州、区/县/旗数据，包含名称、拼音、拼音首字母、行政代码、区号。](https://github.com/eduosi/district) 
 - [用于构建JSON API的规范。](https://github.com/json-api/json-api) 
 - [AliSQL是一个源自阿里巴巴集团的MySQL分支。](https://github.com/alibaba/AliSQL) 
+- [Laravel + go-micro + grpc + Zipkin。](https://github.com/henter/go-zipkin-demo) 
 ### December 27, 2018 
 - [ Segment Fault 在线讲堂 代码工程。](https://github.com/mercyblitz/segmentfault-lessons) 
 - [「小马哥技术周报」](https://github.com/mercyblitz/tech-weekly) 
