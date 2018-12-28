@@ -104,6 +104,7 @@
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
 - [一个检测移动设备的简单JS库。](https://github.com/kaimallea/isMobile) 
+- [Laravel 5的数据清理程序和表单请求输入卫生。](https://github.com/Waavi/Sanitizer) 
 ### December 27, 2018 
 - [ Segment Fault 在线讲堂 代码工程。](https://github.com/mercyblitz/segmentfault-lessons) 
 - [「小马哥技术周报」](https://github.com/mercyblitz/tech-weekly) 
