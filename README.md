@@ -111,6 +111,7 @@
 - [AliSQL是一个源自阿里巴巴集团的MySQL分支。](https://github.com/alibaba/AliSQL) 
 - [Laravel + go-micro + grpc + Zipkin。](https://github.com/henter/go-zipkin-demo) 
 - [Laravel + go-micro + grpc + Zipkin](https://github.com/henter/php-zipkin-demo) 
+- [在Symfony sylius.com之上的开源电子商务框架。](https://github.com/Sylius/Sylius) 
 ### December 27, 2018 
 - [ Segment Fault 在线讲堂 代码工程。](https://github.com/mercyblitz/segmentfault-lessons) 
 - [「小马哥技术周报」](https://github.com/mercyblitz/tech-weekly) 
