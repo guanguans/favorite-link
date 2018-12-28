@@ -99,6 +99,9 @@
 
 
 
+
+### December 28, 2018 
+- [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 ### December 27, 2018 
 - [ Segment Fault 在线讲堂 代码工程。](https://github.com/mercyblitz/segmentfault-lessons) 
 - [「小马哥技术周报」](https://github.com/mercyblitz/tech-weekly) 
