@@ -123,6 +123,7 @@
 - [macOS的简单SSH快捷菜单。](https://github.com/fitztrev/shuttle) 
 - [务实地搜索模型和其他来源。](https://github.com/spatie/laravel-searchable) 
 - [ iBrand EC 是一个免费的开源电子商务解决方案，使用 PHP 基于 Laravel 框架进行编写。](https://github.com/ibrandcc/ecommerce-open-api) 
+- [Laravel的Web安装程序。](https://github.com/rashidlaasri/LaravelInstaller) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
