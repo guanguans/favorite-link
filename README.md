@@ -119,6 +119,7 @@
 - [用于快速文本表示和分类的库。](https://github.com/facebookresearch/fastText) 
 - [一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具之手册部分](https://github.com/cookieY/inception-document) 
 - [Go模板的有用模板函数。](https://github.com/Masterminds/sprig) 
+- [PostgreSQL数据库的跨平台客户端。](https://github.com/sosedoff/pgweb) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
