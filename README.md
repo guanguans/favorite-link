@@ -111,6 +111,7 @@
 - [将ArchLinux安装为WSL实例。 支持多重安装。](https://github.com/yuk7/ArchWSL) 
 - [Laravel核心代码学习。](https://github.com/kevinyan815/Learning_Laravel_Kernel) 
 - [一个阮一峰博客风格的Hexo主题。](https://github.com/giscafer/hexo-theme-cafe) 
+- [用于长期短期内存网络（LSTM）的可视化工具箱。](https://github.com/HendrikStrobelt/LSTMVis) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
