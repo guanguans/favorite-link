@@ -109,6 +109,7 @@
 - [从HTML表单中提取的PHP表单验证。在同一个地方写一次表格和验证！](https://github.com/xtreamwayz/html-form-validator) 
 - [一个Web代理工具。](https://github.com/XX-net/XX-Net) 
 - [将ArchLinux安装为WSL实例。 支持多重安装。](https://github.com/yuk7/ArchWSL) 
+- [Laravel核心代码学习。](https://github.com/kevinyan815/Learning_Laravel_Kernel) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
