@@ -105,6 +105,7 @@
 - [Spring Boot教程。](https://github.com/dyc87112/SpringBoot-Learning) 
 - [💰 微信/支付宝收款监控，个人收款无需签约支付宝、微信支付。为支付宝、微信支付的个人账户，提供即时到账收款服务。](https://github.com/Tinywan/xpay) 
 - [常用交互式命令行用户界面的集合。](https://github.com/SBoudrias/Inquirer.js) 
+- [JavaScript 代码规范，自带 linter & 代码自动修正。](https://github.com/standard/standard/blob/master/docs/README-zhcn.md) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
