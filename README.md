@@ -121,6 +121,7 @@
 - [Go模板的有用模板函数。](https://github.com/Masterminds/sprig) 
 - [PostgreSQL数据库的跨平台客户端。](https://github.com/sosedoff/pgweb) 
 - [macOS的简单SSH快捷菜单。](https://github.com/fitztrev/shuttle) 
+- [务实地搜索模型和其他来源。](https://github.com/spatie/laravel-searchable) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
