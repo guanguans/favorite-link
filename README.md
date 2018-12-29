@@ -115,6 +115,7 @@
 - [Tinker in your browser。](https://github.com/spatie/laravel-web-tinker) 
 - [Gonum是Go编程语言的一组数字库。它包含用于矩阵，统计，优化和更多。](https://github.com/gonum/gonum) 
 - [基于 PAYJS 微信支付个人接口开发的 Laravel Package，可直接用于生产环境。](https://github.com/xhat/payjs-laravel) 
+- [基于 PAYJS 微信支付个人接口开发的 Package，可直接用于生产环境。](https://github.com/xhat/payjs) 
 ### December 28, 2018 
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi) 
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap) 
