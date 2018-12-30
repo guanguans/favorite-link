@@ -110,6 +110,7 @@
 - [Sublime Text 2和3中PHP项目的智能代码完成。](https://github.com/deweller/PHPCodeIntel) 
 - [在一个地方管理你的git存储库。](https://github.com/isacikgoz/gitbatch) 
 - [用于动态生成PDF文档的PHP库。](https://github.com/tecnickcom/tc-lib-pdf) 
+- [aveo基于Laravel框架的开源票务系统。](https://github.com/ladybirdweb/faveo-helpdesk) 
 ### December 29, 2018 
 - [Spring Boot教程。](https://github.com/dyc87112/SpringBoot-Learning) 
 - [💰 微信/支付宝收款监控，个人收款无需签约支付宝、微信支付。为支付宝、微信支付的个人账户，提供即时到账收款服务。](https://github.com/Tinywan/xpay) 
