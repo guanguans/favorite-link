@@ -101,6 +101,9 @@
 
 
 
+
+### December 30, 2018 
+- [功能齐全的下载管理器。](https://github.com/agalwood/Motrix) 
 ### December 29, 2018 
 - [Spring Boot教程。](https://github.com/dyc87112/SpringBoot-Learning) 
 - [💰 微信/支付宝收款监控，个人收款无需签约支付宝、微信支付。为支付宝、微信支付的个人账户，提供即时到账收款服务。](https://github.com/Tinywan/xpay) 
