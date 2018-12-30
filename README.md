@@ -107,6 +107,7 @@
 - [一个用PHP和Redis编写的Twitter玩具克隆，在早期用于介绍Redis数据类型。](https://github.com/antirez/retwis) 
 - [用于golang的socket.io库，一个实时应用程序框架。](https://github.com/googollee/go-socket.io) 
 - [丰富的表情符号包资源。](https://github.com/getActivity/EmojiPackage) 
+- [Sublime Text 2和3中PHP项目的智能代码完成。](https://github.com/deweller/PHPCodeIntel) 
 ### December 29, 2018 
 - [Spring Boot教程。](https://github.com/dyc87112/SpringBoot-Learning) 
 - [💰 微信/支付宝收款监控，个人收款无需签约支付宝、微信支付。为支付宝、微信支付的个人账户，提供即时到账收款服务。](https://github.com/Tinywan/xpay) 
