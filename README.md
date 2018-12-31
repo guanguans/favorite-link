@@ -102,6 +102,9 @@
 
 
 
+
+### December 31, 2018 
+- [一个composer包，用于验证以前是否使用Have I Been Pwned API在密码中使用了密码。](https://github.com/DragonBe/hibp) 
 ### December 30, 2018 
 - [功能齐全的下载管理器。](https://github.com/agalwood/Motrix) 
 - [一个用PHP和Redis编写的Twitter玩具克隆，在早期用于介绍Redis数据类型。](https://github.com/antirez/retwis) 
