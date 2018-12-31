@@ -108,6 +108,7 @@
 - [微信公众号管理系统，也是一套微信公众号开发框架。支持移动管理，几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。](https://github.com/geesondog/rhaphp) 
 - [PrestaShop提供完全可扩展的开源电子商务解决方案。](https://github.com/PrestaShop/PrestaShop) 
 - [🐘 A PHP prober (一款精美的 PHP 探針, 又名X探針、劉海探針)](https://github.com/kmvan/x-prober) 
+- [建立和管理Phars的申请。](https://github.com/box-project/box2) 
 ### December 30, 2018 
 - [功能齐全的下载管理器。](https://github.com/agalwood/Motrix) 
 - [一个用PHP和Redis编写的Twitter玩具克隆，在早期用于介绍Redis数据类型。](https://github.com/antirez/retwis) 
