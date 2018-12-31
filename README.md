@@ -110,6 +110,7 @@
 - [🐘 A PHP prober (一款精美的 PHP 探針, 又名X探針、劉海探針)](https://github.com/kmvan/x-prober) 
 - [建立和管理Phars的申请。](https://github.com/box-project/box2) 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 
+- [科学上网的有趣项目集锦。](https://github.com/udpsec/awesome-vpn) 
 ### December 30, 2018 
 - [功能齐全的下载管理器。](https://github.com/agalwood/Motrix) 
 - [一个用PHP和Redis编写的Twitter玩具克隆，在早期用于介绍Redis数据类型。](https://github.com/antirez/retwis) 
