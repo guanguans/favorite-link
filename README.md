@@ -113,6 +113,7 @@
 - [科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。](https://github.com/udpsec/awesome-vpn) 
 - [WebTorrent](https://github.com/webtorrent/webtorrent) 
 - [webtorrent-desktop ](https://github.com/webtorrent/webtorrent-desktop) 
+- [GitHub Dark as a userscript ](https://github.com/StylishThemes/GitHub-Dark-Script) 
 ### December 31, 2018 
 - [一个composer包，用于验证以前是否使用Have I Been Pwned API在密码中使用了密码。](https://github.com/DragonBe/hibp) 
 - [微信公众号管理系统，也是一套微信公众号开发框架。支持移动管理，几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。](https://github.com/geesondog/rhaphp) 
