@@ -109,6 +109,7 @@
 - [polarphp](https://github.com/polarphp/polarphp/blob/master/README.zh_CN.md) 
 - [PHP应用程序的即时升级](https://github.com/rectorphp/rector) 
 - [Redis集群的Openresty lua客户端。](https://github.com/steve0511/resty-redis-cluster) 
+- [排名前200位的深度学习Github存储库按星数排序。](https://github.com/mbadry1/Top-Deep-Learning) 
 ### January 1, 2019 
 - [中国省市区数据](https://github.com/airyland/china-area-data) 
 - [Python和命令行的世界上最简单的面部识别API](https://github.com/ageitgey/face_recognition) 
