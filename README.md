@@ -114,6 +114,7 @@
 - [Golang命令教程中文。](https://github.com/hyper0x/go_command_tutorial) 
 - [我的专栏“Core Golang  -  36课”的示例项目](https://github.com/hyper0x/Golang_Puzzlers) 
 - [awesome-go-China](https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md) 
+- [高性能，极简主义的Go web框架echo.labstack.com](https://github.com/labstack/echo) 
 ### January 1, 2019 
 - [中国省市区数据](https://github.com/airyland/china-area-data) 
 - [Python和命令行的世界上最简单的面部识别API](https://github.com/ageitgey/face_recognition) 
