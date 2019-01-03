@@ -117,6 +117,7 @@
 - [zsh的插件管理器。](https://github.com/zsh-users/antigen) 
 - [一个简单的脚本来创建github toc](https://github.com/xingshaocheng/simple-php-github-toc) 
 - [使用相同的现代API替代Moment.js的不可变日期库](https://github.com/iamkun/dayjs) 
+- [基于Raft构建的分布式MySQL binlog存储系统](https://github.com/flike/kingbus) 
 ### January 2, 2019 
 - [polarphp](https://github.com/polarphp/polarphp/blob/master/README.zh_CN.md) 
 - [PHP应用程序的即时升级](https://github.com/rectorphp/rector) 
