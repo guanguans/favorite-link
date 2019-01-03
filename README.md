@@ -121,6 +121,7 @@
 - [官方redis集群的Python集群客户端。 Redis 3.0+。](https://github.com/Grokzen/redis-py-cluster) 
 - [一系列精选的面试问题列表。](https://github.com/MaximAbramchuck/awesome-interview-questions) 
 - [🔐了解如何使用JSON Web Token（JWT）来保护您的下一个Web应用程序！（教程/测试示例!!）](https://github.com/dwyl/learn-json-web-tokens) 
+- [利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作。](https://github.com/rrweb-io/rrweb/blob/master/README.zh_CN.md) 
 ### January 2, 2019 
 - [polarphp](https://github.com/polarphp/polarphp/blob/master/README.zh_CN.md) 
 - [PHP应用程序的即时升级](https://github.com/rectorphp/rector) 
