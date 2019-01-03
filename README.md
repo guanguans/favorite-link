@@ -114,6 +114,7 @@
 - [tmux源代码](https://github.com/tmux/tmux) 
 - [Oss storage filesystem for Laravel.](https://github.com/iiDestiny/laravel-filesystem-oss) 
 - [golang123 是使用 vue、nuxt、node.js 和 golang 开发的知识分享系统 golang123.com](https://github.com/shen100/golang123) 
+- [zsh的插件管理器。](https://github.com/zsh-users/antigen) 
 ### January 2, 2019 
 - [polarphp](https://github.com/polarphp/polarphp/blob/master/README.zh_CN.md) 
 - [PHP应用程序的即时升级](https://github.com/rectorphp/rector) 
