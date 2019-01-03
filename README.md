@@ -108,6 +108,7 @@
 
 ### January 3, 2019 
 - [以91％的准确率击败最新版本的](https://github.com/ecthros/uncaptcha2) 
+- [有助于管理Git托管的PHP项目版本号的库](https://github.com/sebastianbergmann/version) 
 ### January 2, 2019 
 - [polarphp](https://github.com/polarphp/polarphp/blob/master/README.zh_CN.md) 
 - [PHP应用程序的即时升级](https://github.com/rectorphp/rector) 
