@@ -119,6 +119,7 @@
 - [论文与代码。按星星排序。每周更新。](https://github.com/zziz/pwc) 
 - [关于Detour App规则配置的简单介绍](https://github.com/iamldj/Detour) 
 - [wingy-announcement](https://github.com/hellowingy/wingy-announcement) 
+- [💾 Flysystem adapter for the oss storage.](https://github.com/iiDestiny/flysystem-oss) 
 ### January 3, 2019 
 - [以91％的准确率击败最新版本的](https://github.com/ecthros/uncaptcha2) 
 - [有助于管理Git托管的PHP项目版本号的库](https://github.com/sebastianbergmann/version) 
