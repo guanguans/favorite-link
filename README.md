@@ -115,6 +115,7 @@
 - [用Golang编写的高性能PHP应用程序服务器，负载均衡器和进程管理器](https://github.com/spiral/roadrunner) 
 - [WordPress.com for Desktop](https://github.com/Automattic/wp-desktop) 
 - [明星和感谢作者许可证（SATA许可证）](https://github.com/zTrix/sata-license) 
+- [Zipkin是一个分布式跟踪系统](https://github.com/openzipkin/zipkin) 
 ### January 3, 2019 
 - [以91％的准确率击败最新版本的](https://github.com/ecthros/uncaptcha2) 
 - [有助于管理Git托管的PHP项目版本号的库](https://github.com/sebastianbergmann/version) 
