@@ -116,6 +116,7 @@
 - [WordPress.com for Desktop](https://github.com/Automattic/wp-desktop) 
 - [明星和感谢作者许可证（SATA许可证）](https://github.com/zTrix/sata-license) 
 - [Zipkin是一个分布式跟踪系统](https://github.com/openzipkin/zipkin) 
+- [论文与代码。按星星排序。每周更新。](https://github.com/zziz/pwc) 
 ### January 3, 2019 
 - [以91％的准确率击败最新版本的](https://github.com/ecthros/uncaptcha2) 
 - [有助于管理Git托管的PHP项目版本号的库](https://github.com/sebastianbergmann/version) 
