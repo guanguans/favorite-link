@@ -111,6 +111,7 @@
 - [极客挚爱的在线技术平台](https://leetcode-cn.com/) 
 - [🔎在社交网络中查找用户名](https://github.com/TheYahya/sherlock) 
 - [将使用STDIN / STDOUT的任何程序转换为WebSocket服务器。像inetd一样，但对于WebSockets。](https://github.com/) 
+- [JavaScript国际化框架](https://github.com/facebookincubator/fbt) 
 ### January 3, 2019 
 - [以91％的准确率击败最新版本的](https://github.com/ecthros/uncaptcha2) 
 - [有助于管理Git托管的PHP项目版本号的库](https://github.com/sebastianbergmann/version) 
