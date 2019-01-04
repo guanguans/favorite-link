@@ -124,6 +124,7 @@
 - [跨平台HTTP和GraphQL客户端](https://github.com/getinsomnia/insomnia) 
 - [A Simplenote React app packaged in Electron](https://github.com/Automattic/simplenote-electron) 
 - [通用剪贴板管理应用程序，可以从任何设备上的任何位置轻松访问剪贴板。](https://github.com/wiziple/1clipboard) 
+- [Mac和Windows上的Visual Docker容器管理](https://github.com/docker/kitematic) 
 ### January 3, 2019 
 - [以91％的准确率击败最新版本的](https://github.com/ecthros/uncaptcha2) 
 - [有助于管理Git托管的PHP项目版本号的库](https://github.com/sebastianbergmann/version) 
