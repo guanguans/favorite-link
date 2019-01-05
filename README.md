@@ -107,6 +107,9 @@
 
 
 
+
+### January 5, 2019 
+- [适用于iOS 11.4.1-iOS 12.1的漏洞利用](https://github.com/rhaym-jailbreak/Exploits) 
 ### January 4, 2019 
 - [极客挚爱的在线技术平台](https://leetcode-cn.com/) 
 - [🔎在社交网络中查找用户名](https://github.com/TheYahya/sherlock) 
