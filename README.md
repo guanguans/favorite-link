@@ -115,6 +115,7 @@
 - [技能树](https://github.com/pengwenwu/skill-tree) 
 - [laravel5.5和vue.js结合的前后端分离项目模板。](https://github.com/wmhello/laravel_template_with_vue) 
 - [微服务的标准库。gokit.io](https://github.com/go-kit/kit) 
+- [物联网设备的WebUI仪表板喜欢raspberry pi。](https://github.com/spoonysonny/pi-dashboard) 
 ### January 4, 2019 
 - [极客挚爱的在线技术平台](https://leetcode-cn.com/) 
 - [🔎在社交网络中查找用户名](https://github.com/TheYahya/sherlock) 
