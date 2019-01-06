@@ -115,6 +115,7 @@
 - [The Kubernetes Package Manager ](https://github.com/helm/helm) 
 - [GirlsInAI 是一个面向编程零基础女孩子的AI算法工程师养成计划。](https://github.com/YZHANG1270/Girls-In-AI) 
 - [Go package captcha实现了图像和音频CAPTCHA的生成和验证。](https://github.com/dchest/captcha) 
+- [Here Music 一个 使用 Electron + React 开发的音乐客户端](https://github.com/caijinyc/Here) 
 ### January 5, 2019 
 - [适用于iOS 11.4.1-iOS 12.1的漏洞利用](https://github.com/rhaym-jailbreak/Exploits) 
 - [walle - 瓦力 开源项目代码部署平台](https://github.com/meolu/walle-web) 
