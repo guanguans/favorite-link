@@ -113,6 +113,7 @@
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
 - [The Kubernetes Package Manager ](https://github.com/helm/helm) 
+- [GirlsInAI 是一个面向编程零基础女孩子的AI算法工程师养成计划。](https://github.com/YZHANG1270/Girls-In-AI) 
 ### January 5, 2019 
 - [适用于iOS 11.4.1-iOS 12.1的漏洞利用](https://github.com/rhaym-jailbreak/Exploits) 
 - [walle - 瓦力 开源项目代码部署平台](https://github.com/meolu/walle-web) 
