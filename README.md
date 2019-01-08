@@ -30,6 +30,7 @@
 - [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working) 
 - [一个简单而优雅的客户端，用于访问和控制Kubernetes集群](https://github.com/maclof/kubernetes-client) 
 - [终端会话记录器](https://github.com/asciinema/asciinema) 
+- [自由·负责·克制 去广告 Hosts 项目](https://github.com/neoFelhz/neohosts) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
