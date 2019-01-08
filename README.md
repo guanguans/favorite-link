@@ -4,6 +4,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### January 8, 2019 
+- [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
