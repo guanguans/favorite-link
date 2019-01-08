@@ -19,6 +19,7 @@
 - [websocket命令行工具](https://github.com/hashrocket/ws) 
 - [记录并重播网络](https://github.com/rrweb-io/rrweb) 
 - [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs) 
+- [🏝钉钉 SDK • 👷‍♂️2.0 开发中](https://github.com/mingyoung/dingtalk) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
