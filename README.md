@@ -10,6 +10,7 @@
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
 - [ScreenToGif允许您录制屏幕的选定区域，编辑并将其保存为gif或视频。](https://github.com/NickeManarin/ScreenToGif) 
 - [PHP 获取快递物流信息](https://github.com/uuk020/logistics) 
+- [README文件语法解读，即Github Flavored Markdown语法介绍](https://github.com/guodongxiaren/README) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
