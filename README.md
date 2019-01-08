@@ -21,6 +21,7 @@
 - [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs) 
 - [🏝钉钉 SDK • 👷‍♂️2.0 开发中](https://github.com/mingyoung/dingtalk) 
 - [eSpeak NG是一个开源语音合成器，支持101种语言和口音。](https://github.com/rhdunn/espeak) 
+- [一组匹配中国大陆手机号码的正则表达式。](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
