@@ -13,6 +13,7 @@
 - [README文件语法解读，即Github Flavored Markdown语法介绍](https://github.com/guodongxiaren/README) 
 - [秋招面试总结](https://github.com/haiyusun/Interview-Notes) 
 - [Apache Dubbo（孵化）是一个基于Java的高性能开源RPC框架。](https://github.com/apache/incubator-dubbo) 
+- [一个简单的守护进程，允许会话软件更新固件](https://github.com/hughsie/fwupd) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
