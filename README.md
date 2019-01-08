@@ -38,6 +38,7 @@
 - [Darling是OS X应用程序的运行时环境。](https://github.com/darlinghq/darling) 
 - [收集iOS应用程序中最常见的漏洞](https://github.com/felixgr/secure-ios-app-dev) 
 - [使用Trilium Notes构建您的个人知识库](https://github.com/zadam/trilium) 
+- [用于软件和Web开发的免费API的集合列表。](https://github.com/toddmotto/public-apis/) 
 ### January 6, 2019 
 - [一个小型JavaScript库，用于计算太阳/月亮位置和阶段。](https://github.com/mourner/suncalc) 
 - [AVH版的git扩展，为Vincent Driessen的分支模型提供高级存储库操作](https://github.com/petervanderdoes/gitflow-avh) 
