@@ -14,6 +14,7 @@
 - [新浪微博图床 Chrome 扩展，支持同步到微相册](https://github.com/Semibold/Weibo-Picture-Store) 
 - [使用libgmp对大整数进行算术运算](https://github.com/substack/node-bigint) 
 - [用于使用URL语法传输数据的命令行工具和库，支持HTTP，HTTPS，FTP，FTPS，GOPHER，TFTP，SCP，SFTP，SMB，TELNET，DICT，LDAP，LDAPS，FILE，IMAP，SMTP，POP3，RTSP和 RTMP。 libcurl提供了无数强大的功能](https://github.com/curl/curl) 
+- [通过设计稿一键智能生成视图代码，目前支持生成 Vue、React、Html5、Weex Rax 等常见 DSL。](https://github.com/taobaofed/imgcook) 
 ### January 8, 2019 
 - [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
