@@ -16,6 +16,7 @@
 - [用于使用URL语法传输数据的命令行工具和库，支持HTTP，HTTPS，FTP，FTPS，GOPHER，TFTP，SCP，SFTP，SMB，TELNET，DICT，LDAP，LDAPS，FILE，IMAP，SMTP，POP3，RTSP和 RTMP。 libcurl提供了无数强大的功能](https://github.com/curl/curl) 
 - [通过设计稿一键智能生成视图代码，目前支持生成 Vue、React、Html5、Weex Rax 等常见 DSL。](https://github.com/taobaofed/imgcook) 
 - [Swoole支持Expressive应用程序](https://github.com/zendframework/zend-expressive-swoole) 
+- [轻量、可靠的小程序 UI 组件库](https://github.com/youzan/vant-weapp) 
 ### January 8, 2019 
 - [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
