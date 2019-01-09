@@ -18,6 +18,7 @@
 - [Swoole支持Expressive应用程序](https://github.com/zendframework/zend-expressive-swoole) 
 - [轻量、可靠的小程序 UI 组件库](https://github.com/youzan/vant-weapp) 
 - [XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 无需备案 无需签约支付宝微信 无需挂机APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付](https://github.com/Exrick/xpay) 
+- [用于构建优秀社区的简单论坛软件。](https://github.com/flarum/core) 
 ### January 8, 2019 
 - [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
