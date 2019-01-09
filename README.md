@@ -5,6 +5,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### January 9, 2019 
+- [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 ### January 8, 2019 
 - [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
