@@ -11,6 +11,7 @@
 - [一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。](https://github.com/b3log/symphony) 
 - [离线存储，改进。 使用简单但功能强大的API包装IndexedDB，WebSQL或localStorage。](https://github.com/localForage/localForage) 
 - [在持久性引擎之间同步数据，就像ETL一样，只是不稳定](https://github.com/compose/transporter) 
+- [新浪微博图床 Chrome 扩展，支持同步到微相册](https://github.com/Semibold/Weibo-Picture-Store) 
 ### January 8, 2019 
 - [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
