@@ -12,6 +12,7 @@
 - [离线存储，改进。 使用简单但功能强大的API包装IndexedDB，WebSQL或localStorage。](https://github.com/localForage/localForage) 
 - [在持久性引擎之间同步数据，就像ETL一样，只是不稳定](https://github.com/compose/transporter) 
 - [新浪微博图床 Chrome 扩展，支持同步到微相册](https://github.com/Semibold/Weibo-Picture-Store) 
+- [使用libgmp对大整数进行算术运算](https://github.com/substack/node-bigint) 
 ### January 8, 2019 
 - [现代复制到剪贴板。](https://github.com/zenorocha/clipboard.js) 
 - [Linuxlinuxbrew.sh的Homebrew包管理器](https://github.com/Linuxbrew/brew) 
