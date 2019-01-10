@@ -23,6 +23,7 @@
 - [100天的ML编码](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 
 - [用于DOM操作的最小独立JS库](https://github.com/vladocar/nanoJS) 
 - [一个静态博客写作客户端 ](https://github.com/hve-notes/hve-notes) 
+- [🚂 12306 购票助手，支持分布式，多账号，多任务购票](https://github.com/pjialin/py12306) 
 ### January 9, 2019 
 - [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 - [一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。](https://github.com/b3log/symphony) 
