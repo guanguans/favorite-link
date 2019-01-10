@@ -21,6 +21,7 @@
 - [将博客网站转换为合并pdf的示例程序。](https://github.com/xiaohanyu/blog-html-to-pdf) 
 - [功能全面的php命令行应用库。提供控制台参数解析, 命令运行，颜色风格输出, 用户信息交互, 特殊格式信息显示 ](https://github.com/inhere/php-console) 
 - [100天的ML编码](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 
+- [用于DOM操作的最小独立JS库](https://github.com/vladocar/nanoJS) 
 ### January 9, 2019 
 - [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 - [一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。](https://github.com/b3log/symphony) 
