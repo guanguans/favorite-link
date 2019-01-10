@@ -11,6 +11,7 @@
 - [caliber是一名电子书经理。 它可以查看，转换，编辑和编目所有主要电子书格式的电子书。](https://github.com/kovidgoyal/calibre) 
 - [Python最佳实践指南](https://github.com/Prodesire/Python-Guide-CN) 
 - [一个轻量级库，用于将复杂对象转换为简单的Python数据类型。](https://github.com/marshmallow-code/marshmallow) 
+- [Java 8 Jar和Android APK逆向工程套件](https://github.com/Konloch/bytecode-viewer) 
 ### January 9, 2019 
 - [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 - [一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。](https://github.com/b3log/symphony) 
