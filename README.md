@@ -6,6 +6,9 @@
 
 
 
+
+### January 10, 2019 
+- [caliber是一名电子书经理。 它可以查看，转换，编辑和编目所有主要电子书格式的电子书。](https://github.com/kovidgoyal/calibre) 
 ### January 9, 2019 
 - [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 - [一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。](https://github.com/b3log/symphony) 
