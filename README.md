@@ -12,6 +12,7 @@
 - [Python最佳实践指南](https://github.com/Prodesire/Python-Guide-CN) 
 - [一个轻量级库，用于将复杂对象转换为简单的Python数据类型。](https://github.com/marshmallow-code/marshmallow) 
 - [Java 8 Jar和Android APK逆向工程套件](https://github.com/Konloch/bytecode-viewer) 
+- [pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行](https://github.com/zergtant/pytorch-handbook) 
 ### January 9, 2019 
 - [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 - [一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。](https://github.com/b3log/symphony) 
