@@ -12,6 +12,7 @@
 - [a cron library for go](https://github.com/robfig/cron) 
 - [A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.](https://github.com/Fiddle-N/material-incognito-dark-theme) 
 - [Python和CLI的快速，可扩展的进度条。](https://github.com/tqdm/tqdm) 
+- [一个窗口切换器，应用程序启动器和dmenu替换](https://github.com/DaveDavenport/rofi) 
 ### January 10, 2019 
 - [caliber是一名电子书经理。 它可以查看，转换，编辑和编目所有主要电子书格式的电子书。](https://github.com/kovidgoyal/calibre) 
 - [Python最佳实践指南](https://github.com/Prodesire/Python-Guide-CN) 
