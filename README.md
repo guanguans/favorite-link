@@ -22,6 +22,7 @@
 - [记录前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog) 
 - [python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。](https://github.com/lancopku/pkuseg-python) 
 - [CSS Inspiration，在这里找到写 CSS 的灵感](https://github.com/chokcoco/CSS-Inspiration) 
+- [使用直接SQL查询编写API没有麻烦，让我们重新思考SQL](https://github.com/alash3al/sqler) 
 ### January 10, 2019 
 - [caliber是一名电子书经理。 它可以查看，转换，编辑和编目所有主要电子书格式的电子书。](https://github.com/kovidgoyal/calibre) 
 - [Python最佳实践指南](https://github.com/Prodesire/Python-Guide-CN) 
