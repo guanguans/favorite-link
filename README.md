@@ -16,6 +16,7 @@
 - [前端决策树](https://github.com/sorrycc/f2e-decision-tree) 
 - [无它术，唯勤读书而多为之，自工](https://github.com/Urinx/Books) 
 - [软件版本控制可视化](https://github.com/acaudwell/Gource) 
+- [Powerline是vim的状态行插件，并为其他几个应用程序提供状态和提示，包括zsh，bash，tmux，IPython，Awesome和Qtile。](https://github.com/powerline/powerline) 
 ### January 11, 2019 
 - [a cron library for go](https://github.com/robfig/cron) 
 - [A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.](https://github.com/Fiddle-N/material-incognito-dark-theme) 
