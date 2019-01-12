@@ -13,6 +13,7 @@
 - [用于OpenTracing的NGINX插件](https://github.com/opentracing-contrib/nginx-opentracing) 
 - [“玄魂工作室--安全圈” 知识星球内资源汇总](https://github.com/xuanhun/HackingResource) 
 - [📖「一个」、「Time 时光」、「开眼」、「一席」、「梨视频」、「微软必应词典」、「金山词典」、「豆瓣电影」、「中央天气」、「魅族天气」、「每日一文」、「12306」、「途牛」、「快递100」、「快递」应用 Api。](https://github.com/jokermonn/-Api) 
+- [前端决策树](https://github.com/sorrycc/f2e-decision-tree) 
 ### January 11, 2019 
 - [a cron library for go](https://github.com/robfig/cron) 
 - [A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.](https://github.com/Fiddle-N/material-incognito-dark-theme) 
