@@ -24,6 +24,7 @@
 - [Electron for PHP. Desktop GUI framework with HTML5 Chrome/IE engine. ](https://github.com/cztomczak/phpdesktop) 
 - [Electron for PHP. Desktop GUI framework with HTML5 Chrome/IE engine. ](https://github.com/cztomczak/cefpython) 
 - [php_desktop 像开发网站一样开发桌面应用软件](https://github.com/lobtao/php_desktop) 
+- [CRMEB是一款微信公众号和小程序的电商系统，带分销、拼团、秒杀、砍价、优惠券、积分等功能](https://github.com/xazbkj/CRMEB) 
 ### January 11, 2019 
 - [a cron library for go](https://github.com/robfig/cron) 
 - [A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.](https://github.com/Fiddle-N/material-incognito-dark-theme) 
