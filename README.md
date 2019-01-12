@@ -11,6 +11,7 @@
 
 ### January 12, 2019 
 - [用于OpenTracing的NGINX插件](https://github.com/opentracing-contrib/nginx-opentracing) 
+- [“玄魂工作室--安全圈” 知识星球内资源汇总](https://github.com/xuanhun/HackingResource) 
 ### January 11, 2019 
 - [a cron library for go](https://github.com/robfig/cron) 
 - [A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.](https://github.com/Fiddle-N/material-incognito-dark-theme) 
