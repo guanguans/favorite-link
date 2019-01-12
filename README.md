@@ -19,6 +19,7 @@
 - [Powerline是vim的状态行插件，并为其他几个应用程序提供状态和提示，包括zsh，bash，tmux，IPython，Awesome和Qtile。](https://github.com/powerline/powerline) 
 - [机器学习备忘录](https://github.com/MLEveryday/Machine-Learning-Cheatsheets) 
 - [Tivi是一款正在进行中的电视节目跟踪Android应用程序，它连接到Trakt.tv。](https://github.com/chrisbanes/tivi) 
+- [QQ 音乐接口 api](https://github.com/luoquanquan/musicInterFace) 
 ### January 11, 2019 
 - [a cron library for go](https://github.com/robfig/cron) 
 - [A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.](https://github.com/Fiddle-N/material-incognito-dark-theme) 
