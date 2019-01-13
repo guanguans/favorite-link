@@ -18,6 +18,7 @@
 - [基于aria2的轻量级多线程下载器。](https://github.com/alanzhangzm/Photon) 
 - [帮助115导出下载链接到aria2-rpc](https://github.com/acgotaku/115) 
 - [遵循gRPC HTTP规范的gRPC到JSON代理生成器](https://github.com/grpc-ecosystem/grpc-gateway) 
+- [将github贡献图表嵌入图像](https://github.com/2016rshah/githubchart-api) 
 ### January 12, 2019 
 - [用于OpenTracing的NGINX插件](https://github.com/opentracing-contrib/nginx-opentracing) 
 - [“玄魂工作室--安全圈” 知识星球内资源汇总](https://github.com/xuanhun/HackingResource) 
