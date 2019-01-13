@@ -16,6 +16,7 @@
 - [Go（Golang）中的指数退避算法。](https://github.com/cenkalti/backoff) 
 - [一款入门级的人脸、视频、文字检测以及识别的项目。](https://github.com/vipstone/faceai) 
 - [基于aria2的轻量级多线程下载器。](https://github.com/alanzhangzm/Photon) 
+- [帮助115导出下载链接到aria2-rpc](https://github.com/acgotaku/115) 
 ### January 12, 2019 
 - [用于OpenTracing的NGINX插件](https://github.com/opentracing-contrib/nginx-opentracing) 
 - [“玄魂工作室--安全圈” 知识星球内资源汇总](https://github.com/xuanhun/HackingResource) 
