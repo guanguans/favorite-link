@@ -16,6 +16,7 @@
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
 - [一款专为 deepin 打造的小飞机](https://github.com/lolimay/shadowsocks-deepin) 
 - [🍎笔记本](https://github.com/OMGZui/noteBook) 
+- [js 功能函数库](https://github.com/ramda/ramda) 
 ### January 13, 2019 
 - [一种有效的浏览器扩展，可以阻止整个网络上基于浏览器的加密货币挖掘者。](https://github.com/xd4rker/MinerBlock) 
 - [用Go编写的YouTube下载库和CLI](https://github.com/rylio/ytdl) 
