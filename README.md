@@ -26,6 +26,7 @@
 - [ImgBot在GitHub中抓取所有图像文件，并在应用无损压缩后提交拉取请求。这将使文件大小下降，但保持尺寸和质量同样好。](https://github.com/dabutvin/ImgBot) 
 - [Elasticsearch Web UI](https://github.com/appbaseio/dejavu) 
 - [使用简单的HTML和CSS构建漂亮的Electron应用程序的最快方法](https://github.com/connors/photon) 
+- [伪装115浏览器](https://github.com/kkHAIKE/fake115) 
 ### January 13, 2019 
 - [一种有效的浏览器扩展，可以阻止整个网络上基于浏览器的加密货币挖掘者。](https://github.com/xd4rker/MinerBlock) 
 - [用Go编写的YouTube下载库和CLI](https://github.com/rylio/ytdl) 
