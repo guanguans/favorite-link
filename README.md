@@ -23,6 +23,7 @@
 - [flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示](https://github.com/alibaba/flutter-go) 
 - [LeetCode练习, Go语言版本](https://github.com/chai2010/leetcode-go) 
 - [一种简单快捷的图像处理工具。](https://github.com/joway/imagic) 
+- [ImgBot在GitHub中抓取所有图像文件，并在应用无损压缩后提交拉取请求。这将使文件大小下降，但保持尺寸和质量同样好。](https://github.com/dabutvin/ImgBot) 
 ### January 13, 2019 
 - [一种有效的浏览器扩展，可以阻止整个网络上基于浏览器的加密货币挖掘者。](https://github.com/xd4rker/MinerBlock) 
 - [用Go编写的YouTube下载库和CLI](https://github.com/rylio/ytdl) 
