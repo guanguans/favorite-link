@@ -29,6 +29,7 @@
 - [Jupyter笔记本用于“深度学习Python”一书的代码示例](https://github.com/fchollet/deep-learning-with-python-notebooks) 
 - [Babel是编写下一代JavaScript的编译器。](https://github.com/babel/babel) 
 - [💻PHPUnit的并行测试](https://github.com/paratestphp/paratest) 
+- [LiteSpeed Cache for WordPress ](https://github.com/litespeedtech/lscache_wp) 
 ### January 14, 2019 
 - [现代，疯狂快速，可靠，简单且功能强大的平面文件CMS](https://github.com/getgrav/grav) 
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
