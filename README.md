@@ -34,6 +34,7 @@
 - [litespeed - 高性能，轻量级，开源的HTTP服务器](https://github.com/litespeedtech/openlitespeed) 
 - [12306](https://github.com/V-I-C-T-O-R/12306) 
 - [强大，无处不在且可大规模扩展的Jabber / XMPP即时消息平台](https://github.com/processone/ejabberd) 
+- [🧀将图像上传到公共CDN](https://github.com/metowolf/UpImg) 
 ### January 14, 2019 
 - [现代，疯狂快速，可靠，简单且功能强大的平面文件CMS](https://github.com/getgrav/grav) 
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
