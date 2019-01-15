@@ -22,6 +22,7 @@
 - [基于Swoole扩展开发游戏服务器框架，示例实现h5游戏开发](https://github.com/jxy918/swoole-game) 
 - [rust 全文搜索引擎](https://github.com/toshi-search/Toshi) 
 - [用go语言编写的Microsoft SQL服务器驱动程序](https://github.com/denisenkom/go-mssqldb) 
+- [syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.](https://github.com/dreamans/syncd) 
 ### January 14, 2019 
 - [现代，疯狂快速，可靠，简单且功能强大的平面文件CMS](https://github.com/getgrav/grav) 
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
