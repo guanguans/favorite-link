@@ -38,6 +38,7 @@
 - [中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具](https://github.com/fighting41love/funNLP) 
 - [灵活的Zsh插件管理器，具有干净的fpath，报告，完成管理，turbo模式，服务](https://github.com/zdharma/zplugin) 
 - [Go的基于反射的依赖注入工具包。](https://github.com/uber-go/dig) 
+- [PHP中的一个简单的Podcast RSS编辑器](https://github.com/JJYing/Podcast-RSS-Editor) 
 ### January 14, 2019 
 - [现代，疯狂快速，可靠，简单且功能强大的平面文件CMS](https://github.com/getgrav/grav) 
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
