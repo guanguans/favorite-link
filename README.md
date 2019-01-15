@@ -39,6 +39,7 @@
 - [灵活的Zsh插件管理器，具有干净的fpath，报告，完成管理，turbo模式，服务](https://github.com/zdharma/zplugin) 
 - [Go的基于反射的依赖注入工具包。](https://github.com/uber-go/dig) 
 - [PHP中的一个简单的Podcast RSS编辑器](https://github.com/JJYing/Podcast-RSS-Editor) 
+- [用于语义UI的日历模块](https://github.com/mdehoog/Semantic-UI-Calendar) 
 ### January 14, 2019 
 - [现代，疯狂快速，可靠，简单且功能强大的平面文件CMS](https://github.com/getgrav/grav) 
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
