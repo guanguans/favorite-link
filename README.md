@@ -15,6 +15,7 @@
 ### January 15, 2019 
 - [A lightweight MVC framework written in Go (Golang).](https://github.com/thinkoner/thinkgo) 
 - [您的NoSQL数据库由Golang提供支持](https://github.com/HouzuoGuo/tiedot) 
+- [麻省理工学院深度学习相关课程的教程，作业和比赛。](https://github.com/lexfridman/mit-deep-learning) 
 ### January 14, 2019 
 - [现代，疯狂快速，可靠，简单且功能强大的平面文件CMS](https://github.com/getgrav/grav) 
 - [高效微信公众号历史文章和阅读数据爬虫powered by scrapy](https://github.com/wonderfulsuccess/weixin_crawler) 
