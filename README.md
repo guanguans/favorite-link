@@ -18,6 +18,7 @@
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
 - [在本地运行您的GitHub操作](https://github.com/nektos/act) 
 - [appsync的无服务器插件](https://github.com/sid88in/serverless-appsync-plugin) 
+- [📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts) 
 ### January 15, 2019 
 - [A lightweight MVC framework written in Go (Golang).](https://github.com/thinkoner/thinkgo) 
 - [您的NoSQL数据库由Golang提供支持](https://github.com/HouzuoGuo/tiedot) 
