@@ -17,6 +17,7 @@
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
 - [在本地运行您的GitHub操作](https://github.com/nektos/act) 
+- [appsync的无服务器插件](https://github.com/sid88in/serverless-appsync-plugin) 
 ### January 15, 2019 
 - [A lightweight MVC framework written in Go (Golang).](https://github.com/thinkoner/thinkgo) 
 - [您的NoSQL数据库由Golang提供支持](https://github.com/HouzuoGuo/tiedot) 
