@@ -12,6 +12,9 @@
 
 
 
+
+### January 16, 2019 
+- [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 ### January 15, 2019 
 - [A lightweight MVC framework written in Go (Golang).](https://github.com/thinkoner/thinkgo) 
 - [您的NoSQL数据库由Golang提供支持](https://github.com/HouzuoGuo/tiedot) 
