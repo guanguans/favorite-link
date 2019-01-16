@@ -25,6 +25,7 @@
 - [PHP Telegram Bot.](https://github.com/formapro/telegram-bot-php) 
 - [与用于学习与Node.js相比，Golang的示例](https://github.com/miguelmota/golang-for-nodejs-developers) 
 - [TablePlus](https://github.com/TablePlus/TablePlus) 
+- [Redis Desktop Manager For Mac OSX DMG ](https://github.com/onewe/RedisDesktopManager-Mac) 
 ### January 15, 2019 
 - [A lightweight MVC framework written in Go (Golang).](https://github.com/thinkoner/thinkgo) 
 - [您的NoSQL数据库由Golang提供支持](https://github.com/HouzuoGuo/tiedot) 
