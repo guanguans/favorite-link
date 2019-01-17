@@ -39,6 +39,7 @@
 - [自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI](https://github.com/welliamcao/OpsManage) 
 - [基于放弃的官方应用程序的Android Github客户端](https://github.com/jonan/ForkHub/) 
 - [Thor HTTPS 抓包分析，开发调试利器 for iOS](https://github.com/PixelCyber/Thor/blob/master/README-zh-Hans.md) 
+- [这些是phpsorm中用于代码完成的助手文件，我使用的是一些开源软件。](https://github.com/topdown/phpStorm-CC-Helpers) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
