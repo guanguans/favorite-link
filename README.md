@@ -53,6 +53,7 @@
 - [简体中文的逐步区块链教程](https://github.com/liuchengxu/blockchain-tutorial) 
 - [TypeScript的权威指南](https://github.com/basarat/typescript-book) 
 - [MIME组件允许操作MIME类型。](https://github.com/symfony/mime) 
+- [QOR是一组用Go编写的库，它抽象了业务应用程序，CMS和电子商务系统所需的常用功能。](https://github.com/qor/qor) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
