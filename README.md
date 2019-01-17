@@ -36,6 +36,7 @@
 - [Moby项目-集装箱生态系统组装基于集装箱系统的协作项目](https://github.com/moby/moby) 
 - [PHP代码审计分段讲解](https://github.com/bowu678/php_bugs) 
 - [1000个PHP代码审计案例(2016.7以前乌云公开漏洞)](https://github.com/Xyntax/1000php) 
+- [自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI](https://github.com/welliamcao/OpsManage) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
