@@ -18,6 +18,7 @@
 - [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
 - [Dead simple Object schema validation](https://github.com/jquense/yup) 
+- [Docker速查表](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
