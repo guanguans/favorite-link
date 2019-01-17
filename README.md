@@ -21,6 +21,7 @@
 - [Docker速查表](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
 - [go结构和字段验证，包括跨字段、跨结构、映射、切片和数组潜水](https://github.com/go-playground/validator) 
 - [将compose中描述的应用程序部署到kubernetes集群上](https://github.com/docker/compose-on-kubernetes) 
+- [内存中的键：用于go的值存储/缓存（类似于memcached）库，适用于单机器应用程序。](https://github.com/patrickmn/go-cache) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
