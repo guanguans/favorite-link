@@ -19,6 +19,7 @@
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
 - [Dead simple Object schema validation](https://github.com/jquense/yup) 
 - [Docker速查表](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
+- [go结构和字段验证，包括跨字段、跨结构、映射、切片和数组潜水](https://github.com/go-playground/validator) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
