@@ -57,6 +57,7 @@
 - [ 这是一个很酷炫的前端网站搜集器，导航网](https://github.com/jaywcjlove/FED) 
 - [用任何编程语言构建强大的管道。](https://github.com/gaia-pipeline/gaia) 
 - [Ansible是一个极其简单的IT自动化平台，可使您的应用程序和系统更易于部署。](https://github.com/ansible/ansible) 
+- [Node.js最佳实践中排名最高的内容的总结和分享](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
