@@ -24,6 +24,7 @@
 - [内存中的键：用于go的值存储/缓存（类似于memcached）库，适用于单机器应用程序。](https://github.com/patrickmn/go-cache) 
 - [您的即时Emacs开发环境。](https://github.com/rakanalh/emacs-bootstrap) 
 - [一种限速器中间件](https://github.com/spatie/guzzle-rate-limiter-middleware) 
+- [阿里云翻译小组，为社区输出优质的技术文章。](https://github.com/dawn-plex/translate) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
