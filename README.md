@@ -27,6 +27,7 @@
 - [阿里云翻译小组，为社区输出优质的技术文章。](https://github.com/dawn-plex/translate) 
 - [蓝眼系列软件之《蓝眼云盘》](https://github.com/eyebluecn/tank) 
 - [A RESTful Search Engine ](https://github.com/Kronuz/Xapiand) 
+- [简单、强大、跨平台的SQLite客户端和ORM](https://github.com/praeclarum/sqlite-net) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
