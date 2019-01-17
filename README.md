@@ -13,6 +13,9 @@
 
 
 
+
+### January 17, 2019 
+- [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
