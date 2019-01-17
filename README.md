@@ -43,6 +43,7 @@
 - [高度定制的chrome黑色主题](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme#instructions) 
 - [tensorflow](https://github.com/tensorflow/tensorflow) 
 - [EXLcode - VS Code-based Online IDE Chrome Extension ](https://github.com/exlcode/exlcode-chrome) 
+- [由Visual Studio代码支持的在线IDE](https://github.com/stackblitz/core) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
