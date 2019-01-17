@@ -47,6 +47,7 @@
 - [为Web应用程序开发量身定制的在线代码编辑器](https://github.com/CompuIves/codesandbox-client) 
 - [描述HTTP / 3和QUIC协议的文档](https://github.com/bagder/http3-explained) 
 - [将终端会话记录为SVG动画](https://github.com/nbedos/termtosvg) 
+- [Flink Forward China 2018 Slides](https://github.com/flink-china/flink-forward-china-2018) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
