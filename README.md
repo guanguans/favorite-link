@@ -51,6 +51,7 @@
 - [P编程语言。](https://github.com/p-org/P) 
 - [百度AI开放平台 PHP SDK. ](https://github.com/qbhy/baidu-aip-sdk) 
 - [简体中文的逐步区块链教程](https://github.com/liuchengxu/blockchain-tutorial) 
+- [TypeScript的权威指南](https://github.com/basarat/typescript-book) 
 ### January 16, 2019 
 - [Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang) 
 - [Arduino framework for node.js](https://github.com/ecto/duino) 
