@@ -26,6 +26,7 @@
 - [程序员的全栈资源集合。](https://github.com/charlax/professional-programming) 
 - [一个基于Yii2高级框架的快速开发应用引擎](https://github.com/jianyan74/rageframe2) 
 - [WeChat SDK for Yii2 , 基于 overtrue/wechat 4.x](https://github.com/jianyan74/yii2-easy-wechat) 
+- [我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。](https://github.com/yygmind/blog) 
 ### January 17, 2019 
 - [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
