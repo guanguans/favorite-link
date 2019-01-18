@@ -20,6 +20,7 @@
 - [通过监控wifi信号来计算你周围的人数](https://github.com/schollz/howmanypeoplearearound) 
 - [深度学习书中文翻译](https://github.com/exacity/deeplearningbook-chinese) 
 - [PHP底层内核源码分析和扩展开发](https://github.com/huqinlou0123/php-internals-extended-development-course) 
+- [Git快速统计是一种访问git存储库中各种统计信息的简单而有效的方法。](https://github.com/arzzen/git-quick-stats) 
 ### January 17, 2019 
 - [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
