@@ -29,6 +29,7 @@
 - [我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。](https://github.com/yygmind/blog) 
 - [生产级集装箱调度和管理](https://github.com/kubernetes/kubernetes) 
 - [妈妈再也不用担心我的网易云音乐变灰了](https://github.com/metowolf/script/tree/master/neteasemusic) 
+- [比特币核心集成](https://github.com/bitcoin/bitcoin) 
 ### January 17, 2019 
 - [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
