@@ -19,6 +19,7 @@
 - [一个用于渗透透测试演练的WEB系统,用于提升寻找网站能力,也可以用于web安全教学](https://github.com/78778443/permeate) 
 - [通过监控wifi信号来计算你周围的人数](https://github.com/schollz/howmanypeoplearearound) 
 - [深度学习书中文翻译](https://github.com/exacity/deeplearningbook-chinese) 
+- [PHP底层内核源码分析和扩展开发](https://github.com/huqinlou0123/php-internals-extended-development-course) 
 ### January 17, 2019 
 - [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
