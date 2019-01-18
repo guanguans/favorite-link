@@ -24,6 +24,7 @@
 - [高性能后台系统构建工具, 使用极少代码即可构建出功能完善的后台系统](https://github.com/jqhph/swoft-admin) 
 - [一个适用于iOS的原生网络调试工具](https://github.com/yagiz/Bagel) 
 - [程序员的全栈资源集合。](https://github.com/charlax/professional-programming) 
+- [一个基于Yii2高级框架的快速开发应用引擎](https://github.com/jianyan74/rageframe2) 
 ### January 17, 2019 
 - [从网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [Popcorn Time for music](https://github.com/nukeop/nuclear) 
