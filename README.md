@@ -27,6 +27,7 @@
 - [Go的快速脚本语言](https://github.com/d5/tengo) 
 - [一个简单的PHP文件管理器。代码是一个单独的php文件。](https://github.com/jcampbell1/simple-file-manager) 
 - [A Lua VM in Go](https://github.com/Shopify/go-lua) 
+- [基于搜狗微信搜索的微信公众号爬虫接口](https://github.com/Chyroc/WechatSogou) 
 ### January 18, 2019 
 - [一个用于渗透透测试演练的WEB系统,用于提升寻找网站能力,也可以用于web安全教学](https://github.com/78778443/permeate) 
 - [通过监控wifi信号来计算你周围的人数](https://github.com/schollz/howmanypeoplearearound) 
