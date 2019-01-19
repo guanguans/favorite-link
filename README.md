@@ -23,6 +23,7 @@
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) 
 - [Prettier是一个固定的代码格式化程序。](https://github.com/prettier/prettier) 
 - [Prometheus的Elasticsearch统计数据导出器](https://github.com/justwatchcom/elasticsearch_exporter) 
+- [ORM for TypeScript和JavaScript（ES7，ES6，ES5）。支持MySQL，PostgreSQL，MariaDB，SQLite，MS SQL Server，Oracle，WebSQL数据库。适用于NodeJS，浏览器，Ionic，Cordova和Electron平台。](https://github.com/typeorm/typeorm) 
 ### January 18, 2019 
 - [一个用于渗透透测试演练的WEB系统,用于提升寻找网站能力,也可以用于web安全教学](https://github.com/78778443/permeate) 
 - [通过监控wifi信号来计算你周围的人数](https://github.com/schollz/howmanypeoplearearound) 
