@@ -30,6 +30,7 @@
 - [真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端](https://github.com/didi/chameleon) 
 - [一系列可打印的单页备忘单，由Markdown使用Pandoc和LaTeX生成](https://github.com/kickstartcoding/cheatsheets) 
 - [这是来自麻省理工学院，斯坦福大学和普林斯顿等知名大学的免费课程的精选清单。](https://github.com/ForrestKnight/open-source-cs) 
+- [Python开源Web, CMF，可做微信小程序后端, 网站后端等.Restful Api ](https://github.com/osroom/osroom) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
