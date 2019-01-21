@@ -45,6 +45,7 @@
 - [TeaWeb-可视化的Web代理服务。](https://github.com/TeaWeb/build) 
 - [基于Lua的跨平台终端ui库](https://github.com/tboox/ltui) 
 - [通过简单的面向对象的类似dom的API在画布上绘制图形。支持Vue＆React / Preact。](https://github.com/spritejs/spritejs) 
+- [使用Three.js构建的声明式3D Globe数据可视化库](https://github.com/syt123450/giojs) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
