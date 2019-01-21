@@ -48,6 +48,7 @@
 - [使用Three.js构建的声明式3D Globe数据可视化库](https://github.com/syt123450/giojs) 
 - [RedisPlus是为Redis可视化管理开发的一款开源免费的桌面客户端软件](https://github.com/MaxBill/RedisPlus) 
 - [在Go中快速开发微服务的微服务框架](https://github.com/go-chassis/go-chassis) 
+- [阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 ](https://github.com/bbfamily/abu) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
