@@ -50,6 +50,7 @@
 - [在Go中快速开发微服务的微服务框架](https://github.com/go-chassis/go-chassis) 
 - [阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 ](https://github.com/bbfamily/abu) 
 - [由TypeScript提供支持的阿里巴巴代表的可管理，可衡量和可追踪的Node.js应用程序管理器](https://github.com/midwayjs/pandora) 
+- [金链盟区块链底层平台](https://github.com/FISCO-BCOS/FISCO-BCOS) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
