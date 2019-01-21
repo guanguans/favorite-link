@@ -44,6 +44,7 @@
 - [参考百度文库，使用Beego（Golang）开发的开源文库系统](https://github.com/TruthHun/DocHub) 
 - [TeaWeb-可视化的Web代理服务。](https://github.com/TeaWeb/build) 
 - [基于Lua的跨平台终端ui库](https://github.com/tboox/ltui) 
+- [通过简单的面向对象的类似dom的API在画布上绘制图形。支持Vue＆React / Preact。](https://github.com/spritejs/spritejs) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
