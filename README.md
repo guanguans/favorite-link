@@ -17,6 +17,9 @@
 
 
 
+
+### January 21, 2019 
+- [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
