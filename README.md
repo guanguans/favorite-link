@@ -32,6 +32,7 @@
 - [这是来自麻省理工学院，斯坦福大学和普林斯顿等知名大学的免费课程的精选清单。](https://github.com/ForrestKnight/open-source-cs) 
 - [Python开源Web, CMF，可做微信小程序后端, 网站后端等.Restful Api ](https://github.com/osroom/osroom) 
 - [使用Go语言开发的版本发布系统](https://github.com/lisijie/gopub) 
+- [vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数](https://github.com/linclin/gopub) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
