@@ -24,6 +24,7 @@
 - [ThinkPHP5 社会化登录组件](https://github.com/yunwuxin/think-social) 
 - [适用于Linux-Gnome桌面的Mac OS主题](https://github.com/paullinuxthemer/Mc-OS-themes) 
 - [微信、支付宝、QQ 三合一收款二维码（单页版）](https://github.com/mengkunsoft/OneQRCode) 
+- [使用压缩和经过身份验证的加密对归档程序进行重复数据删除。](https://github.com/borgbackup/borg) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
