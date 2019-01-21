@@ -21,6 +21,7 @@
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
+- [ThinkPHP5 社会化登录组件](https://github.com/yunwuxin/think-social) 
 ### January 20, 2019 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [golangci-lint](https://github.com/golangci/golangci-lint) 
