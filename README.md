@@ -35,6 +35,7 @@
 - [抖音通信协议签名](https://github.com/AppSign/douyin) 
 - [快手通信协议签名](https://github.com/AppSign/kuaishou) 
 - [Google API的公共接口定义。](https://github.com/googleapis/googleapis) 
+- [一个基于golang的web应用快速开发框架，提供了开放平台及相关open api的封装，可以快速的开发微服务、web应用、微信公众号、企业微信、钉钉、云之家等第三方平台应用](https://github.com/aosfather/bingo) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
