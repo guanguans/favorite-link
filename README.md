@@ -31,6 +31,7 @@
 - [golang数据库/ sql的通用扩展](https://github.com/jmoiron/sqlx) 
 - [建立在自然节点上的NLP库，具有实体提取，情感分析，自动语言识别等功能](https://github.com/axa-group/nlp.js) 
 - [PHP的Kafka客户端](https://github.com/arnaud-lb/php-rdkafka) 
+- [小红书通信协议签名](https://github.com/AppSign/xiaohongshu) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
