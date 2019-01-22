@@ -29,6 +29,7 @@
 - [基于运营转换（OT）的实时数据库后端](https://github.com/share/sharedb) 
 - [git-subrepo](https://github.com/ingydotnet/git-subrepo) 
 - [golang数据库/ sql的通用扩展](https://github.com/jmoiron/sqlx) 
+- [建立在自然节点上的NLP库，具有实体提取，情感分析，自动语言识别等功能](https://github.com/axa-group/nlp.js) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
