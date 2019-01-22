@@ -42,6 +42,7 @@
 - [PHP源码加密模块](https://github.com/liexusong/php-beast) 
 - [Go的极简主义websocket框架](https://github.com/olahol/melody) 
 - [MISP（核心软件） - 开源威胁情报平台（以前称为恶意软件信息共享平台）](https://github.com/MISP/MISP) 
+- [Siler是一组通用的高级抽象，旨在用于PHP中的声明性编程API。](https://github.com/leocavalcante/siler) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
