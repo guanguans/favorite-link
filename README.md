@@ -40,6 +40,7 @@
 - [为 Sketch 准备的模拟数据中文版，包含：中文姓名，手机号，省份，城市，地区，公司名，银行名，星期几，详情地址，邮编，邮箱，颜色，广告词等。](https://github.com/overtrue/sketch-data-cn) 
 - [令人愉快的JavaScript测试。](https://github.com/facebook/jest) 
 - [PHP源码加密模块](https://github.com/liexusong/php-beast) 
+- [Go的极简主义websocket框架](https://github.com/olahol/melody) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
