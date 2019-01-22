@@ -46,6 +46,7 @@
 - [开源图像托管脚本](https://github.com/Chevereto/Chevereto-Free) 
 - [PHP Link Checker](https://github.com/dantleech/fink) 
 - [将云计算，数据和服务无缝扩展到边缘设备。](https://github.com/baidu/openedge) 
+- [使Chrome能够将markdown文件呈现为HTML](https://github.com/borismus/markdown-preview) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
