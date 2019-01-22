@@ -27,6 +27,7 @@
 - [工程师知识管理系统：基于golang go语言（beego框架）。每个行业都有自己的知识管理系统，EngineerCMS旨在为土木工程师们打造一款适用的基于web的知识管理系统。](https://github.com/3xxx/engineercms) 
 - [自动编译js + css + html](https://github.com/skeeks-semenov/yii2-assets-auto-compress) 
 - [基于运营转换（OT）的实时数据库后端](https://github.com/share/sharedb) 
+- [git-subrepo](https://github.com/ingydotnet/git-subrepo) 
 ### January 21, 2019 
 - [程序员的 macOS 搭建指南](https://github.com/phodal/setup.guide) 
 - [V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) 
