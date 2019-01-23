@@ -36,6 +36,7 @@
 - [在线测试驱动器编程字体](https://github.com/braver/programmingfonts) 
 - [用于运行OAuth2服务器的演示应用程序](https://github.com/bshaffer/oauth2-demo-php) 
 - [用于实现OAuth2服务器的包装器](https://github.com/filsh/yii2-oauth2-server) 
+- [oauth2-server-laravel ](https://github.com/lucadegasperi/oauth2-server-laravel) 
 ### January 22, 2019 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
