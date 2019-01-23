@@ -32,6 +32,7 @@
 - [应用程序仪表板和启动器](https://github.com/linuxserver/Heimdall) 
 - [基于laravel + reactjs的问题跟踪工具，适用于中小型企业，开源和免费，类似于Jira。](https://github.com/lxerxa/actionview) 
 - [一个渐进而全面的框架，用于构建基于组件的网站，跨越前端和后端](https://github.com/leoloso/PoP) 
+- [黑箱应用故障注入和资源发现的攻击模式和原语词典。](https://github.com/fuzzdb-project/fuzzdb) 
 ### January 22, 2019 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
