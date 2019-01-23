@@ -22,6 +22,7 @@
 
 ### January 23, 2019 
 - [用于实时可视化的JavaScript库](https://github.com/shzlw/zeu) 
+- [用于macOS，Windows，Linux和最终Android的下一代Brave浏览器](https://github.com/brave/brave-browser) 
 ### January 22, 2019 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
