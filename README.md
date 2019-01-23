@@ -19,6 +19,9 @@
 
 
 
+
+### January 23, 2019 
+- [用于实时可视化的JavaScript库](https://github.com/shzlw/zeu) 
 ### January 22, 2019 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
 - [任务运行/简单使用Go编写替代](https://github.com/go-task/task) 
