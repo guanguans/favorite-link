@@ -27,6 +27,7 @@
 - [原生，高性能，跨平台的桌面应用程序 - 使用Reason构建！](https://github.com/revery-ui/revery) 
 - [Futurice开发人员对Android开发的注意事项和注意事项](https://github.com/futurice/android-best-practices) 
 - [中文版 《微服务：从设计到部署》](https://github.com/DocsHome/microservices) 
+- [通过预览，编译，自动完成，着色等提高LaTeX排版效率。](https://github.com/James-Yu/LaTeX-Workshop) 
 ### January 23, 2019 
 - [用于实时可视化的JavaScript库](https://github.com/shzlw/zeu) 
 - [用于macOS，Windows，Linux和最终Android的下一代Brave浏览器](https://github.com/brave/brave-browser) 
