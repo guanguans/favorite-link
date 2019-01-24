@@ -25,6 +25,7 @@
 - [在紧急情况下保存您的代码](https://github.com/qw3rtman/git-fire) 
 - [fastai深度学习库，以及课程和教程](https://github.com/fastai/fastai) 
 - [原生，高性能，跨平台的桌面应用程序 - 使用Reason构建！](https://github.com/revery-ui/revery) 
+- [Futurice开发人员对Android开发的注意事项和注意事项](https://github.com/futurice/android-best-practices) 
 ### January 23, 2019 
 - [用于实时可视化的JavaScript库](https://github.com/shzlw/zeu) 
 - [用于macOS，Windows，Linux和最终Android的下一代Brave浏览器](https://github.com/brave/brave-browser) 
