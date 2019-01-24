@@ -30,6 +30,7 @@
 - [通过预览，编译，自动完成，着色等提高LaTeX排版效率。](https://github.com/James-Yu/LaTeX-Workshop) 
 - [构建GitHub应用程序的框架，用于自动化和改进您的工作流程](https://github.com/probot/probot) 
 - [简单，可扩展的状态管理。](https://github.com/mobxjs/mobx) 
+- [斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow) 
 ### January 23, 2019 
 - [用于实时可视化的JavaScript库](https://github.com/shzlw/zeu) 
 - [用于macOS，Windows，Linux和最终Android的下一代Brave浏览器](https://github.com/brave/brave-browser) 
