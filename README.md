@@ -32,6 +32,7 @@
 - [我大学两年来的笔记，希望对大家有些些帮助（以后会持续更新）](https://github.com/huanghantao/study-note) 
 - [A keygen for Navicat](https://github.com/Deltafox79/Navicat_Keygen) 
 - [PHP安全通信库](https://github.com/phpseclib/phpseclib) 
+- [极简主义的Vim插件管理器](https://github.com/junegunn/vim-plug) 
 ### January 24, 2019 
 - [在紧急情况下保存您的代码](https://github.com/qw3rtman/git-fire) 
 - [fastai深度学习库，以及课程和教程](https://github.com/fastai/fastai) 
