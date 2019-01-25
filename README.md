@@ -31,6 +31,7 @@
 - [Composer 免签约支付宝与微信，直接到个人账户，持续维护，PHP实现免签约支付接口，判断订单号与备注，自带监听。](https://github.com/ChenSee/ChenPay) 
 - [我大学两年来的笔记，希望对大家有些些帮助（以后会持续更新）](https://github.com/huanghantao/study-note) 
 - [A keygen for Navicat](https://github.com/Deltafox79/Navicat_Keygen) 
+- [PHP安全通信库](https://github.com/phpseclib/phpseclib) 
 ### January 24, 2019 
 - [在紧急情况下保存您的代码](https://github.com/qw3rtman/git-fire) 
 - [fastai深度学习库，以及课程和教程](https://github.com/fastai/fastai) 
