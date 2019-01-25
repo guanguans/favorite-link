@@ -24,6 +24,7 @@
 
 ### January 25, 2019 
 - [各主要城市的互联网公司黑名单](https://github.com/lxl0928/it_blacklist_company) 
+- [一个非常固执的，高度个性化的脚本来设置一台新的Mac机器，就像我喜欢它一样！](https://github.com/nnja/new-computer) 
 ### January 24, 2019 
 - [在紧急情况下保存您的代码](https://github.com/qw3rtman/git-fire) 
 - [fastai深度学习库，以及课程和教程](https://github.com/fastai/fastai) 
