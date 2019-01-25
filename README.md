@@ -26,6 +26,7 @@
 - [各主要城市的互联网公司黑名单](https://github.com/lxl0928/it_blacklist_company) 
 - [一个非常固执的，高度个性化的脚本来设置一台新的Mac机器，就像我喜欢它一样！](https://github.com/nnja/new-computer) 
 - [2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 
+- [网页版微信API，包含终端版微信及微信机器人](https://github.com/Urinx/WeixinBot) 
 ### January 24, 2019 
 - [在紧急情况下保存您的代码](https://github.com/qw3rtman/git-fire) 
 - [fastai深度学习库，以及课程和教程](https://github.com/fastai/fastai) 
