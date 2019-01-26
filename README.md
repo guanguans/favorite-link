@@ -25,6 +25,7 @@
 
 ### January 26, 2019 
 - [使用Docker在CI中运行Lighthouse](https://github.com/ebidel/lighthouse-ci) 
+- [文件共享实验](https://github.com/mozilla/send) 
 ### January 25, 2019 
 - [各主要城市的互联网公司黑名单](https://github.com/lxl0928/it_blacklist_company) 
 - [一个非常固执的，高度个性化的脚本来设置一台新的Mac机器，就像我喜欢它一样！](https://github.com/nnja/new-computer) 
