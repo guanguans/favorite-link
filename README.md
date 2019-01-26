@@ -29,6 +29,7 @@
 - [我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等](https://github.com/lefex/iWeChat) 
 - [A Go (golang) Custom Flutter Engine Embedder for desktop](https://github.com/Drakirus/go-flutter-desktop-embedder) 
 - [wudi/PHP-Interview-Best-Practices-in-China: 📙 PHP 面试知识点汇总📙 PHP 面试知识点汇总](https://github.com/wudi/PHP-Interview-Best-Practices-in-China) 
+- [Suitable for Work (NSFW) classification](https://github.com/rockyzhengwu/nsfw) 
 ### January 25, 2019 
 - [各主要城市的互联网公司黑名单](https://github.com/lxl0928/it_blacklist_company) 
 - [一个非常固执的，高度个性化的脚本来设置一台新的Mac机器，就像我喜欢它一样！](https://github.com/nnja/new-computer) 
