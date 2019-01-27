@@ -27,6 +27,7 @@
 ### January 27, 2019 
 - [一些 CSS 常用样式](https://github.com/QiShaoXuan/css_tricks) 
 - [将任何网站转为无服务器API（支持SPA！）](https://github.com/cloudfetch/cloudquery) 
+- [Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。](https://github.com/jaywcjlove/oscnews) 
 ### January 26, 2019 
 - [使用Docker在CI中运行Lighthouse](https://github.com/ebidel/lighthouse-ci) 
 - [文件共享实验](https://github.com/mozilla/send) 
