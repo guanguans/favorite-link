@@ -29,6 +29,7 @@
 - [将任何网站转为无服务器API（支持SPA！）](https://github.com/cloudfetch/cloudquery) 
 - [Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。](https://github.com/jaywcjlove/oscnews) 
 - [从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
+- [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) 
 ### January 26, 2019 
 - [使用Docker在CI中运行Lighthouse](https://github.com/ebidel/lighthouse-ci) 
 - [文件共享实验](https://github.com/mozilla/send) 
