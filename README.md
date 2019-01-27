@@ -30,6 +30,7 @@
 - [Chrome 插件，查看开源中国软件更新资讯，文档导航，GitHub 趋势榜，linux命令索引，浏览历史记录和时钟页面。](https://github.com/jaywcjlove/oscnews) 
 - [从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) 
+- [ 论文阅读笔记（分布式，虚拟化，容器，自动机器学习）](https://github.com/dyweb/papers-notebook) 
 ### January 26, 2019 
 - [使用Docker在CI中运行Lighthouse](https://github.com/ebidel/lighthouse-ci) 
 - [文件共享实验](https://github.com/mozilla/send) 
