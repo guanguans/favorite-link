@@ -32,6 +32,7 @@
 - [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) 
 - [ 论文阅读笔记（分布式，虚拟化，容器，自动机器学习）](https://github.com/dyweb/papers-notebook) 
 - [Odoo。开源应用程序以拓展您的业务。](https://github.com/odoo/odoo) 
+- [用于探索各种解析器生成的AST的Web工具。](https://github.com/fkling/astexplorer) 
 ### January 26, 2019 
 - [使用Docker在CI中运行Lighthouse](https://github.com/ebidel/lighthouse-ci) 
 - [文件共享实验](https://github.com/mozilla/send) 
