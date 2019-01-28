@@ -30,6 +30,7 @@
 - [“在互联网上寻找栖息之地”](https://github.com/AlanDecode/Typecho-Theme-RAW) 
 - [macOS文件存档](https://github.com/aonez/Keka) 
 - [Lanyrd's MySQL to PostgreSQL conversion script](https://github.com/lanyrd/mysql-postgresql-converter) 
+- [按其属性或关系对Eloquent模型记录进行排序](https://github.com/zbiller/laravel-sort) 
 ### January 27, 2019 
 - [一些 CSS 常用样式](https://github.com/QiShaoXuan/css_tricks) 
 - [将任何网站转为无服务器API（支持SPA！）](https://github.com/cloudfetch/cloudquery) 
