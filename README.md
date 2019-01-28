@@ -32,6 +32,7 @@
 - [Lanyrd's MySQL to PostgreSQL conversion script](https://github.com/lanyrd/mysql-postgresql-converter) 
 - [按其属性或关系对Eloquent模型记录进行排序](https://github.com/zbiller/laravel-sort) 
 - [GitHub和GitLab缺少IntelliSense提示](https://github.com/pd4d10/octohint) 
+- [[Chrome扩展程序]在github.com活动信息中心上过滤活动。](https://github.com/muan/github-dashboard) 
 ### January 27, 2019 
 - [一些 CSS 常用样式](https://github.com/QiShaoXuan/css_tricks) 
 - [将任何网站转为无服务器API（支持SPA！）](https://github.com/cloudfetch/cloudquery) 
