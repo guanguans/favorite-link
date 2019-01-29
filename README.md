@@ -38,6 +38,7 @@
 - [elasticsearch-cn/elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) 
 - [看到女装的项目的issue建议妹子建一个男装的项目，但是考虑到github的女性用户 数量貌似并不能达到女装的效果2333总之先建一个。](https://github.com/greenaway07/Girl-Dress-) 
 - [基于CLI和REST接口的自托管和基于PHP的URL缩短程序](https://github.com/shlinkio/shlink) 
+- [用于大数据的分布式SQL查询引擎](https://github.com/prestodb/presto) 
 ### January 28, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [“在互联网上寻找栖息之地”](https://github.com/AlanDecode/Typecho-Theme-RAW) 
