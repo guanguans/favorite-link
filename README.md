@@ -32,6 +32,7 @@
 - [git commit --fixup，但是自动的](https://github.com/tummychow/git-absorb) 
 - [Flutter嵌入API的桌面实现](https://github.com/google/flutter-desktop-embedding) 
 - [PHP SSO Platform 生蚝科技统一身份认证平台](https://github.com/OysterTech/OT-SSO) 
+- [open-source-mac-os-apps ](https://github.com/serhii-londar/open-source-mac-os-apps) 
 ### January 28, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [“在互联网上寻找栖息之地”](https://github.com/AlanDecode/Typecho-Theme-RAW) 
