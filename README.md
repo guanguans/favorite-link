@@ -44,6 +44,7 @@
 - [API平台的服务器组件：超媒体和GraphQL API，只需几分钟](https://github.com/api-platform/core) 
 - [PHP链接检查器](https://github.com/dantleech/fink) 
 - [饿了么蜂鸟配送php开发包](https://github.com/hillpy/ElemeSDK) 
+- [华丽的应用程序，纠正您以前的控制台命令。](https://github.com/nvbn/thefuck) 
 ### January 28, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [“在互联网上寻找栖息之地”](https://github.com/AlanDecode/Typecho-Theme-RAW) 
