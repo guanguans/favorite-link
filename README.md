@@ -29,6 +29,7 @@
 ### January 29, 2019 
 - [日更的FlutterDemo合集，今天你fu了吗](https://github.com/OpenFlutter/Flutter-Notebook) 
 - [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
+- [git commit --fixup，但是自动的](https://github.com/tummychow/git-absorb) 
 ### January 28, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [“在互联网上寻找栖息之地”](https://github.com/AlanDecode/Typecho-Theme-RAW) 
