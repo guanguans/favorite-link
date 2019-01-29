@@ -50,6 +50,7 @@
 - [HTML5 / JavaScript多人游戏实验](https://github.com/mozilla/BrowserQuest) 
 - [给不了你梦中情人，至少还有硬盘女神](https://github.com/yangyangwithgnu/hardseed) 
 - [软件版本控制可视化](https://github.com/acaudwell/Gource) 
+- [12306 图片验证码识别测试](https://github.com/andelf/fuck12306) 
 ### January 28, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [“在互联网上寻找栖息之地”](https://github.com/AlanDecode/Typecho-Theme-RAW) 
