@@ -39,6 +39,7 @@
 - [将curl命令转换为python，javascript，php，R](https://github.com/NickCarneiro/curlconverter) 
 - [用golang编写的迷你SMTP服务器](https://github.com/flashmob/go-guerrilla) 
 - [一些内网渗透TIPS](https://github.com/Ridter/Intranet_Penetration_Tips) 
+- [Hexo七牛同步插件](https://github.com/gyk001/hexo-qiniu-sync) 
 ### January 29, 2019 
 - [日更的FlutterDemo合集，今天你fu了吗](https://github.com/OpenFlutter/Flutter-Notebook) 
 - [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
