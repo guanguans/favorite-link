@@ -33,6 +33,7 @@
 - [适用于PHP 7的低开销采样分析器](https://github.com/adsr/phpspy) 
 - [写在19年初的后端社招面试经历(两年经验): 蚂蚁 头条 PingCAP](https://github.com/aylei/interview) 
 - [draw.io是一个在线图表网站，提供此项目中的源代码。](https://github.com/jgraph/drawio) 
+- [去死吧！996 godie996.com](https://github.com/godie996/share) 
 ### January 29, 2019 
 - [日更的FlutterDemo合集，今天你fu了吗](https://github.com/OpenFlutter/Flutter-Notebook) 
 - [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
