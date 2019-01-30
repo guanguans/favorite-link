@@ -43,6 +43,7 @@
 - [PHP的通用SOAP客户端](https://github.com/phpro/soap-client) 
 - [收集的一些国外能提供提供威胁情报的公司，涵盖网络安全、工控安全、终端安全、移动安全等领域](https://github.com/scu-igroup/threat-intelligence) 
 - [用Go（Golang）编写的轻量级MVC框架。](https://github.com/thinkoner/thinkgo) 
+- [Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端](https://github.com/huangjianke/Gitter) 
 ### January 29, 2019 
 - [日更的FlutterDemo合集，今天你fu了吗](https://github.com/OpenFlutter/Flutter-Notebook) 
 - [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
