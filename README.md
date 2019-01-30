@@ -4,29 +4,6 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### January 30, 2019 
 - [全语自动填充器：tabnine.com](https://github.com/zxqfl/tabnine) 
 - [Empire客户端应用程序](https://github.com/EmpireProject/Empire-GUI) 
