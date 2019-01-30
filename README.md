@@ -46,6 +46,7 @@
 - [Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端](https://github.com/huangjianke/Gitter) 
 - [尝试解析出知乎官方未开放的 OAuth2 接口，并提供优雅的使用方式，作为 zhihu-py3 项目的替代者，目前还在实验阶段](https://github.com/7sDream/zhihu-oauth) 
 - [golang提示](https://github.com/beyondns/gotips) 
+- [🛁 PHP版的代码整洁之道 中文翻译](https://github.com/php-cpm/clean-code-php) 
 ### January 29, 2019 
 - [日更的FlutterDemo合集，今天你fu了吗](https://github.com/OpenFlutter/Flutter-Notebook) 
 - [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
