@@ -26,6 +26,9 @@
 
 
 
+
+### January 30, 2019 
+- [全语自动填充器：tabnine.com](https://github.com/zxqfl/tabnine) 
 ### January 29, 2019 
 - [日更的FlutterDemo合集，今天你fu了吗](https://github.com/OpenFlutter/Flutter-Notebook) 
 - [PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。](https://github.com/laynefyc/xhgui-branch) 
