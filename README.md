@@ -4,6 +4,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### January 31, 2019 
+- [[已弃用] Dockerfile，包含安装Magento 2所需的扩展，配置和命令](https://github.com/magento/magento2devbox-web) 
 ### January 30, 2019 
 - [全语自动填充器：tabnine.com](https://github.com/zxqfl/tabnine) 
 - [Empire客户端应用程序](https://github.com/EmpireProject/Empire-GUI) 
