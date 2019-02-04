@@ -102,7 +102,6 @@
 - [构建GitHub应用程序的框架，用于自动化和改进您的工作流程](https://github.com/probot/probot) 
 - [简单，可扩展的状态管理。](https://github.com/mobxjs/mobx) 
 - [斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow) 
-- [斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow) 
 - [Go by Example](https://github.com/mmcgrana/gobyexample) 
 ### January 23, 2019 
 - [用于实时可视化的JavaScript库](https://github.com/shzlw/zeu) 
