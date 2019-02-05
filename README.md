@@ -4,6 +4,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### February 5, 2019 
+- [video.js单元库。](https://github.com/videojs/videojs-contrib-hls) 
 ### February 1, 2019 
 - [基于PHP的全功能颠覆革命性框架，大道至简、大有若无。本框架钦定组件库：packagist.org](https://github.com/mokeyjay/ReLin) 
 ### January 31, 2019 
