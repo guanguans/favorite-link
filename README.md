@@ -8,6 +8,7 @@
 
 ### February 6, 2019 
 - [FastHub是Android的终极Github客户端。](https://github.com/k0shk0sh/FastHub) 
+- [基于现代网络的可扩展桌面邮件应用程序。](https://github.com/nylas/nylas-mail) 
 ### February 5, 2019 
 - [video.js单元库。](https://github.com/videojs/videojs-contrib-hls) 
 - [kubernetes cli以风格管理集群！](https://github.com/derailed/k9s) 
