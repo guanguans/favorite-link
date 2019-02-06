@@ -5,6 +5,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### February 6, 2019 
+- [FastHub是Android的终极Github客户端。](https://github.com/k0shk0sh/FastHub) 
 ### February 5, 2019 
 - [video.js单元库。](https://github.com/videojs/videojs-contrib-hls) 
 - [kubernetes cli以风格管理集群！](https://github.com/derailed/k9s) 
