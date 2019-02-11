@@ -5,6 +5,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### February 11, 2019 
+- [用深度学习对对联。](https://github.com/wb14123/seq2seq-couplet) 
 ### February 10, 2019 
 - [快速浏览任何GitHub文件的历史记录GitHistory.xyz](https://github.com/pomber/git-history) 
 ### February 6, 2019 
