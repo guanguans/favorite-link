@@ -18,6 +18,7 @@
 - [Chrome扩展，在使用应用程序时生成Laravel集成测试。](https://github.com/mpociot/laravel-testtools) 
 - [上传图片到终端公共cdn](https://github.com/metowolf/upimg-cli) 
 - [使网站页面在1分钟内即时更新，并将转换率提高1%](https://github.com/instantpage/instant.page) 
+- [客户没有付款？增加不透明度的身体标签，并减少它每天直到他们的网站完全消失。](https://github.com/kleampa/not-paid) 
 ### February 11, 2019 
 - [用深度学习对对联。](https://github.com/wb14123/seq2seq-couplet) 
 ### February 10, 2019 
