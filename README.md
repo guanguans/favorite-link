@@ -16,6 +16,7 @@
 - [用PHP编写的CSS文件的分析器。允许将CSS文件提取到数据结构中，操作所述结构并输出为（优化的）CSS](https://github.com/sabberworm/PHP-CSS-Parser) 
 - [轻松创建Alfred工作流](https://github.com/sindresorhus/alfy) 
 - [Chrome扩展，在使用应用程序时生成Laravel集成测试。](https://github.com/mpociot/laravel-testtools) 
+- [上传图片到终端公共cdn](https://github.com/metowolf/upimg-cli) 
 ### February 11, 2019 
 - [用深度学习对对联。](https://github.com/wb14123/seq2seq-couplet) 
 ### February 10, 2019 
