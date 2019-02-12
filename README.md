@@ -24,6 +24,7 @@
 - [大规模中文自然语言处理语料](https://github.com/brightmart/nlp_chinese_corpus) 
 - [社区驱动的内容聚合器](https://github.com/brendt/aggregate.stitcher.io) 
 - [Global key-value store in the database](https://github.com/appstract/laravel-options) 
+- [Immutable base object and value objects.](https://github.com/immutablephp/immutable) 
 ### February 11, 2019 
 - [用深度学习对对联。](https://github.com/wb14123/seq2seq-couplet) 
 ### February 10, 2019 
