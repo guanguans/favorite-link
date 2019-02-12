@@ -14,6 +14,7 @@
 - [在学院的书架上发现了一本不带脑子就能看懂的书《Python数据挖掘与实战》](https://github.com/LinXueyuanStdio/PythonDataMining) 
 - [ElasticSearch的官方Go客户端](https://github.com/elastic/go-elasticsearch) 
 - [用PHP编写的CSS文件的分析器。允许将CSS文件提取到数据结构中，操作所述结构并输出为（优化的）CSS](https://github.com/sabberworm/PHP-CSS-Parser) 
+- [轻松创建Alfred工作流](https://github.com/sindresorhus/alfy) 
 ### February 11, 2019 
 - [用深度学习对对联。](https://github.com/wb14123/seq2seq-couplet) 
 ### February 10, 2019 
