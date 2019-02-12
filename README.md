@@ -6,6 +6,9 @@
 
 
 
+
+### February 12, 2019 
+- [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 ### February 11, 2019 
 - [用深度学习对对联。](https://github.com/wb14123/seq2seq-couplet) 
 ### February 10, 2019 
