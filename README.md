@@ -29,6 +29,7 @@
 - [Web的实时数据库](https://github.com/pubkey/rxdb) 
 - [用于功能强大的React和React Native应用程序的高性能反应数据库](https://github.com/Nozbe/WatermelonDB) 
 - [javascript嵌入/内存数据库](https://github.com/techfort/LokiJS) 
+- [⚡️lowledb是一个由Lodash支持的小型本地JSON数据库（支持Node，Electron和浏览器）](https://github.com/typicode/lowdb) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
