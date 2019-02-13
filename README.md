@@ -28,6 +28,7 @@
 - [PouchDB是一个口袋大小的数据库。](https://github.com/pouchdb/pouchdb) 
 - [Web的实时数据库](https://github.com/pubkey/rxdb) 
 - [用于功能强大的React和React Native应用程序的高性能反应数据库](https://github.com/Nozbe/WatermelonDB) 
+- [javascript嵌入/内存数据库](https://github.com/techfort/LokiJS) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
