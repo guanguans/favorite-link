@@ -15,6 +15,7 @@
 - [简单可靠的网站分析。与Golang&Preact一起构建。](https://github.com/usefathom/fathom) 
 - [机器学习 (CS 229 Stanford)](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/zh/README.md) 
 - [即时消息服务器；Go中的后端；Android、Web命令行客户端；聊天机器人](https://github.com/tinode/chat) 
+- [sourcerer应用程序从您的GitHub和Git存储库生成一个可视配置文件。](https://github.com/sourcerer-io/sourcerer-app) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
