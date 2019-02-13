@@ -22,6 +22,7 @@
 - [隐藏MacOS菜单栏项目](https://github.com/Mortennn/Dozer) 
 - [一款功能齐全的客户端（iOS、Android）研发助手，你值得拥有。](https://github.com/didi/DoraemonKit) 
 - [网易云音乐命令行版本](https://github.com/darknessomi/musicbox) 
+- [Theia是一个用TypeScript实现的云和桌面IDE框架。](https://github.com/theia-ide/theia) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
