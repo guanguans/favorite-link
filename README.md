@@ -18,6 +18,7 @@
 - [sourcerer应用程序从您的GitHub和Git存储库生成一个可视配置文件。](https://github.com/sourcerer-io/sourcerer-app) 
 - [openresty/openresty: Turning Nginx into a Full-Fledged Scriptable Web Platform](https://github.com/openresty/openresty) 
 - [说明描述了如何提高nginx性能、安全性和其他重要事项；](https://github.com/trimstray/nginx-quick-reference) 
+- [用于MacOS的MySQL/Mariadb数据库管理](https://github.com/sequelpro/sequelpro) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
