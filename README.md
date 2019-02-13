@@ -13,6 +13,7 @@
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
 - [在GO中处理1M WebSockets连接](https://github.com/eranyanay/1m-go-websockets) 
 - [简单可靠的网站分析。与Golang&Preact一起构建。](https://github.com/usefathom/fathom) 
+- [机器学习 (CS 229 Stanford)](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/zh/README.md) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
