@@ -19,6 +19,7 @@
 - [openresty/openresty: Turning Nginx into a Full-Fledged Scriptable Web Platform](https://github.com/openresty/openresty) 
 - [说明描述了如何提高nginx性能、安全性和其他重要事项；](https://github.com/trimstray/nginx-quick-reference) 
 - [用于MacOS的MySQL/Mariadb数据库管理](https://github.com/sequelpro/sequelpro) 
+- [隐藏MacOS菜单栏项目](https://github.com/Mortennn/Dozer) 
 ### February 12, 2019 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [REST API application generator for Yii2, openapi 3.0 YAML -> Yii2](https://github.com/cebe/yii2-openapi) 
