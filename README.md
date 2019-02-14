@@ -24,6 +24,7 @@
 - [程序员最值得关注的10个C开源项目](https://news.cnblogs.com/n/506775/) 
 - [管理员资源的精选列表。](https://github.com/kahun/awesome-sysadmin) 
 - [Google 全球 IP 地址库](https://github.com/justjavac/Google-IPs) 
+- [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
