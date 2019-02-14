@@ -26,6 +26,7 @@
 - [Google 全球 IP 地址库](https://github.com/justjavac/Google-IPs) 
 - [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
+- [Git 风格指南](https://github.com/aseaday/git-style-guide) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
