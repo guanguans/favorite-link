@@ -25,6 +25,7 @@
 - [管理员资源的精选列表。](https://github.com/kahun/awesome-sysadmin) 
 - [Google 全球 IP 地址库](https://github.com/justjavac/Google-IPs) 
 - [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) 
+- [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
