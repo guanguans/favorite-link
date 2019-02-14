@@ -17,6 +17,7 @@
 - [用于物联网的超轻量级JavaScript引擎](https://github.com/pando-project/jerryscript) 
 - [💯后端面试进阶指南](https://github.com/CyC2018/Backend-Interview-Guide) 
 - [自己提炼的关于《HTTP权威指南》每章的知识点总结！](https://github.com/woai30231/http) 
+- [用于代码生成的Laravel组件](https://github.com/reliese/laravel) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
