@@ -21,6 +21,7 @@
 - [历史上最伟大的软件工程师列表](https://github.com/rekihattori/awesome-programmers) 
 - [有趣的注释](https://github.com/Blankj/awesome-comment) 
 - [精选的黑客教程，工具和资源的精选列表](https://github.com/carpedm20/awesome-hacking) 
+- [程序员最值得关注的10个C开源项目](https://news.cnblogs.com/n/506775/) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
