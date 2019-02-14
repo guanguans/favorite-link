@@ -11,6 +11,7 @@
 
 ### February 14, 2019 
 - [Docker + Node = Dockerode（Docker远程API的Node.js模块）](https://github.com/apocas/dockerode) 
+- [Hprose Server for Symfony](https://github.com/hprose/hprose-symfony) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
