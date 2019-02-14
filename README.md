@@ -14,6 +14,7 @@
 - [Hprose Server for Symfony](https://github.com/hprose/hprose-symfony) 
 - [nginx cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) 
 - [TensorFlow教程和最新API初学者示例](https://github.com/aymericdamien/TensorFlow-Examples) 
+- [用于物联网的超轻量级JavaScript引擎](https://github.com/pando-project/jerryscript) 
 ### February 13, 2019 
 - [C++包管理器](https://github.com/poacpm/poac) 
 - [《Go语言四十二章经》](https://github.com/ffhelicopter/Go42) 
