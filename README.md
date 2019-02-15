@@ -24,6 +24,7 @@
 - [GeoLocation限制了Laravel的路线](https://github.com/LaraCrafts/laravel-geo-routes) 
 - [PHP的轻量级HTTP客户端](https://github.com/kriswallsmith/Buzz) 
 - [目前实现了网络空间资产探测、指纹检索、漏洞检测、漏洞全生命周期管理、poc定向检测、暗链检测、挂马监测、敏感字检测、DNS监测、网站可用性监测、漏洞库管理、安全预警等等~](https://github.com/TideSec/Tide) 
+- [Webpack的优雅包装，适用于80％的用例。](https://github.com/JeffreyWay/laravel-mix) 
 ### February 14, 2019 
 - [Docker + Node = Dockerode（Docker远程API的Node.js模块）](https://github.com/apocas/dockerode) 
 - [Hprose Server for Symfony](https://github.com/hprose/hprose-symfony) 
