@@ -15,6 +15,7 @@
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
 - [背景音乐，macOS音频实用程序：自动暂停音乐，设置各个应用程序的音量和录制系统音频。](https://github.com/kyleneideck/BackgroundMusic) 
 - [Kaggle 项目实战（教程） = 文档 + 代码 + 视频（欢迎参与）](https://github.com/apachecn/kaggle) 
+- [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) 
 ### February 14, 2019 
 - [Docker + Node = Dockerode（Docker远程API的Node.js模块）](https://github.com/apocas/dockerode) 
 - [Hprose Server for Symfony](https://github.com/hprose/hprose-symfony) 
