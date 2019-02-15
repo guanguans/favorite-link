@@ -17,6 +17,7 @@
 - [Kaggle 项目实战（教程） = 文档 + 代码 + 视频（欢迎参与）](https://github.com/apachecn/kaggle) 
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) 
 - [rust 程序设计语言 中文版](https://github.com/KaiserY/rust-book-chinese) 
+- [awesome-composer ](https://github.com/jakoch/awesome-composer) 
 ### February 14, 2019 
 - [Docker + Node = Dockerode（Docker远程API的Node.js模块）](https://github.com/apocas/dockerode) 
 - [Hprose Server for Symfony](https://github.com/hprose/hprose-symfony) 
