@@ -18,6 +18,7 @@
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) 
 - [rust 程序设计语言 中文版](https://github.com/KaiserY/rust-book-chinese) 
 - [awesome-composer ](https://github.com/jakoch/awesome-composer) 
+- [WDScanner平台目前实现了如下功能：分布式web漏洞扫描、客户管理、漏洞定期扫描、网站爬虫、暗链检测、坏链检测、网站指纹搜集、专项漏洞检测、代理搜集及部署、密码定向破解、社工库查询等功能。](https://github.com/TideSec/WDScanner) 
 ### February 14, 2019 
 - [Docker + Node = Dockerode（Docker远程API的Node.js模块）](https://github.com/apocas/dockerode) 
 - [Hprose Server for Symfony](https://github.com/hprose/hprose-symfony) 
