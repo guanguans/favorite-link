@@ -21,6 +21,7 @@
 - [Git for Windows. 国内直接从官网下载比较困难，需要翻墙。这里提供一个国内的下载站，方便网友下载](https://github.com/waylau/git-for-win) 
 - [一个简单而自以为是的包，用于向Laravel提供基于子域的多租户](https://github.com/romegadigital/Multitenancy) 
 - [示例云本机应用程序，包含10个微服务，展示了Kubernetes，Istio，gRPC和OpenCensus。提供用于说明和演示目的。](https://github.com/GoogleCloudPlatform/microservices-demo) 
+- [Mac应用程序，显示所有正在运行的进程正在使用的所有打开文件和套接字。很好的GUI用于lsof。](https://github.com/sveinbjornt/Sloth) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
