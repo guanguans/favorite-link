@@ -35,6 +35,7 @@
 - [Mockery是一个简单而灵活的PHP模拟对象框架，用于使用PHPUnit，PHPSpec或任何其他测试框架进行单元测试。](https://github.com/mockery/mockery) 
 - [PHPUnit中文文档](https://github.com/sebastianbergmann/phpunit-documentation-chinese) 
 - [用于API监控和管理的OpenResty / Nginx网关。](https://github.com/sumory/orange) 
+- [一个非常强大和友好的nginx基于lua-nginx-module（openresty），提供WAF，控制面板和仪表板。](https://github.com/alexazhou/VeryNginx) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
