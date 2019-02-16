@@ -27,6 +27,7 @@
 - [用于学习操作系统的简单内核](https://github.com/MRNIU/SimpleKernel) 
 - [JavaScript中的x86虚拟化，在浏览器和NodeJS中运行](https://github.com/copy/v86) 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md) 
+- [PHP库允许从URL或html页面生成缩略图，快照或PDF。](https://github.com/KnpLabs/snappy) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
