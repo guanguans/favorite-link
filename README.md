@@ -15,6 +15,7 @@
 - [c++ 顺序表、链表、静态链表、队列、一元多项式、汉诺塔、火车调度问题、操作系统调度问题、背包问题、最大连续子列和问题、KMP算法、稀疏矩阵、广义表、并查集、无向图邻接表、有向图邻接表、Krusskal算法、Prim算法、最短路径Dijsktra算法、最短路径Bellman-Ford算法、最短路径Floyd算法、拓扑排序、关键路径、优化的冒泡排序、快速排序、直接插入排序、折半插入排序、闭散列实现、开散列实现](https://github.com/DLily0129/Data-Structure) 
 - [背包问题九讲](https://github.com/tianyicui/pack) 
 - [Go的Tiny WebSocket库。](https://github.com/gobwas/ws) 
+- [用于Javascript的种子随机数生成器](https://github.com/davidbau/seedrandom) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
