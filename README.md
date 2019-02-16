@@ -29,6 +29,7 @@
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md) 
 - [PHP库允许从URL或html页面生成缩略图，快照或PDF。](https://github.com/KnpLabs/snappy) 
 - [使用基于HTTP的API，非常简单的按需图像处理库。](https://github.com/thephpleague/glide) 
+- [使用相同的Laravel安装运行多个网站，同时保持租户特定数据分离，以实现完全独立的多域设置。](https://github.com/hyn/multi-tenant) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
