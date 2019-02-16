@@ -31,6 +31,7 @@
 - [使用基于HTTP的API，非常简单的按需图像处理库。](https://github.com/thephpleague/glide) 
 - [使用相同的Laravel安装运行多个网站，同时保持租户特定数据分离，以实现完全独立的多域设置。](https://github.com/hyn/multi-tenant) 
 - [Laravel 5  - 用于抽象数据库层的存储库](https://github.com/andersao/l5-repository) 
+- [微博批量拉黑](https://github.com/yu961549745/WeiboBlackList) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
