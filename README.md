@@ -18,6 +18,7 @@
 - [用于Javascript的种子随机数生成器](https://github.com/davidbau/seedrandom) 
 - [API文档生成器](https://github.com/FriendsOfPHP/Sami) 
 - [PHP的文档生成器](https://github.com/phpDocumentor/phpDocumentor2) 
+- [Git for Windows. 国内直接从官网下载比较困难，需要翻墙。这里提供一个国内的下载站，方便网友下载](https://github.com/waylau/git-for-win) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
