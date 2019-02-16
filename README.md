@@ -25,6 +25,7 @@
 - [486行C ++：一个周末的老派FPS](https://github.com/ssloy/tinyraycaster) 
 - [网络范围的广告和跟踪器阻止DNS服务器](https://github.com/AdguardTeam/AdGuardHome) 
 - [用于学习操作系统的简单内核](https://github.com/MRNIU/SimpleKernel) 
+- [JavaScript中的x86虚拟化，在浏览器和NodeJS中运行](https://github.com/copy/v86) 
 ### February 15, 2019 
 - [在使用Laravel应用程序时修改变量](https://github.com/beyondcode/laravel-tinker-server) 
 - [用于记录企业安全规划，建设，运营，攻防的相关资源 ](https://github.com/AnyeDuke/Enterprise-Security-Skill) 
