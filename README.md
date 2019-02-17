@@ -20,6 +20,7 @@
 - [Keras模型从手绘网站模型生成HTML代码。实现图像字幕体系结构以绘制源图像。](https://github.com/ashnkumar/sketch-code) 
 - [Anki Vector  - 具有交互式AI技术的家庭机器人。](https://github.com/unbug/Anki-Vector-AI) 
 - [该项目通过python脚本从巨潮网络的服务器获取中国股市（sz,sh）的公告(上市公司和监管机构),把公告信息放到数据库，公告文件下载到本地，并支持网页查询和读取。](https://github.com/startprogress/China_stock_announcement) 
+- [自动化检测小工具，主要实现了域名枚举、链接爬取、注入检测、主机扫描、目录枚举、敏感信息检测等功能~](https://github.com/TideSec/TDScanner) 
 ### February 16, 2019 
 - [c++ 顺序表、链表、静态链表、队列、一元多项式、汉诺塔、火车调度问题、操作系统调度问题、背包问题、最大连续子列和问题、KMP算法、稀疏矩阵、广义表、并查集、无向图邻接表、有向图邻接表、Krusskal算法、Prim算法、最短路径Dijsktra算法、最短路径Bellman-Ford算法、最短路径Floyd算法、拓扑排序、关键路径、优化的冒泡排序、快速排序、直接插入排序、折半插入排序、闭散列实现、开散列实现](https://github.com/DLily0129/Data-Structure) 
 - [背包问题九讲](https://github.com/tianyicui/pack) 
