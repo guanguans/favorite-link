@@ -17,6 +17,7 @@
 - [nginx源码中文注释版](https://github.com/jianfengye/nginx-1.0.14_comment) 
 - [IPIP.net正式支持IP数据库ipdb格式解析库](https://github.com/ipipdotnet/ipdb-php) 
 - [使用docker快速搭建各大漏洞学习平台，目前可以一键搭建12个平台。](https://github.com/c0ny1/vulstudy) 
+- [浏览器中增强的电子书。](https://github.com/futurepress/epub.js) 
 ### February 17, 2019 
 - [一种利用深度学习技术识别和交换图片、视频中人物脸部图像的工具](https://github.com/deepfakes/faceswap) 
 - [交互式UI组件开发和测试：React，React Native，Vue，Angular，Ember](https://github.com/storybooks/storybook) 
