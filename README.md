@@ -21,6 +21,7 @@
 - [.files，包括〜/ .macos  -  macOS的明智的黑客默认值](https://github.com/mathiasbynens/dotfiles) 
 - [我的dotfiles（由LARBS部署）](https://github.com/LukeSmithxyz/voidrice) 
 - [PostgreSQL的过程语言PHP](https://github.com/commandprompt/PL-php) 
+- [📚 C/C++面试基础知识总结](https://github.com/huihut/interview) 
 ### February 17, 2019 
 - [一种利用深度学习技术识别和交换图片、视频中人物脸部图像的工具](https://github.com/deepfakes/faceswap) 
 - [交互式UI组件开发和测试：React，React Native，Vue，Angular，Ember](https://github.com/storybooks/storybook) 
