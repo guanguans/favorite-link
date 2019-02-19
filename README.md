@@ -29,6 +29,7 @@
 - [PHP Protobuf  -  Google的PHP协议缓冲区](https://github.com/allegro/php-protobuf) 
 - [该软件包提供了在Elasticsearch中搜索和过滤数据的高级功能。](https://github.com/babenkoivan/scout-elasticsearch-driver) 
 - [概述机器学习概念的思维导图，从数据分析到深度学习。](https://github.com/dformoso/machine-learning-mindmap) 
+- [这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。](https://github.com/dunwu/nginx-tutorial) 
 ### February 18, 2019 
 - [nginx源码中文注释版](https://github.com/jianfengye/nginx-1.0.14_comment) 
 - [IPIP.net正式支持IP数据库ipdb格式解析库](https://github.com/ipipdotnet/ipdb-php) 
