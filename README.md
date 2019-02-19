@@ -20,6 +20,7 @@
 - [用于C / C ++ / Golang的微型跨平台webview库。使用WebKit（Gtk / Cocoa）和MSHTML（Windows）](https://github.com/zserge/webview) 
 - [一个基于Laravel的开源论坛。](https://github.com/JeffreyWay/council) 
 - [用于Spatie laravel许可库的Laravel Nova工具](https://github.com/vyuldashev/nova-permission) 
+- [Package Management for Golang](https://github.com/Masterminds/glide) 
 ### February 18, 2019 
 - [nginx源码中文注释版](https://github.com/jianfengye/nginx-1.0.14_comment) 
 - [IPIP.net正式支持IP数据库ipdb格式解析库](https://github.com/ipipdotnet/ipdb-php) 
