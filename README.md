@@ -26,6 +26,7 @@
 - [ 一个小巧、轻量的浏览器内核，用来取代wke和libcef](https://github.com/weolar/miniblink49) 
 - [用于生成和验证Google身份验证器双因素身份验证的PHP类](https://github.com/PHPGangsta/GoogleAuthenticator) 
 - [[全文]如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) 
+- [PHP Protobuf  -  Google的PHP协议缓冲区](https://github.com/allegro/php-protobuf) 
 ### February 18, 2019 
 - [nginx源码中文注释版](https://github.com/jianfengye/nginx-1.0.14_comment) 
 - [IPIP.net正式支持IP数据库ipdb格式解析库](https://github.com/ipipdotnet/ipdb-php) 
