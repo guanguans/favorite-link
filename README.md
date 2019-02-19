@@ -23,6 +23,7 @@
 - [Package Management for Golang](https://github.com/Masterminds/glide) 
 - [Quill是一个现代WYSIWYG编辑器，专为兼容性和可扩展性而构建。](https://github.com/quilljs/quill) 
 - [WebRTC Web演示和示例](https://github.com/webrtc/samples) 
+- [ 一个小巧、轻量的浏览器内核，用来取代wke和libcef](https://github.com/weolar/miniblink49) 
 ### February 18, 2019 
 - [nginx源码中文注释版](https://github.com/jianfengye/nginx-1.0.14_comment) 
 - [IPIP.net正式支持IP数据库ipdb格式解析库](https://github.com/ipipdotnet/ipdb-php) 
