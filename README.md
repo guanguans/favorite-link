@@ -20,6 +20,7 @@
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
 - [启动创始人的公开清单：“如果你被公共汽车撞到会怎么样？](https://github.com/TransistorFM/hit-by-a-bus) 
 - [平台不可知安全令牌](https://github.com/paragonie/paseto) 
+- [是安全无状态令牌的规范和参考实现。](https://github.com/paragonie/paseto) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
