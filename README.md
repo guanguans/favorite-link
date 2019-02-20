@@ -22,6 +22,7 @@
 - [平台不可知安全令牌](https://github.com/paragonie/paseto) 
 - [是安全无状态令牌的规范和参考实现。](https://github.com/paragonie/paseto) 
 - [由Laravel 5和Sentry提供支持的PHP CMS](https://github.com/BootstrapCMS/CMS) 
+- [Voten.co是一个开源，美丽，高度可定制但致命的简单，温暖的社区。](https://github.com/voten-co/voten) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
