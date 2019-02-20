@@ -33,6 +33,7 @@
 - [在经过身份验证的加密中包装Bcrypt-SHA2](https://github.com/paragonie/password_lock) 
 - [GnuPG加密的电子邮件变得简单](https://github.com/paragonie/gpg-mailer) 
 - [用于phpseclib的简单安全包装器](https://github.com/paragonie/EasyRSA) 
+- [易于使用的PDO包装器，适用于PHP项目。](https://github.com/paragonie/easydb) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
