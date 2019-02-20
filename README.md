@@ -35,6 +35,7 @@
 - [用于phpseclib的简单安全包装器](https://github.com/paragonie/EasyRSA) 
 - [易于使用的PDO包装器，适用于PHP项目。](https://github.com/paragonie/easydb) 
 - [异常和错误使用户更友好](https://github.com/paragonie/corner) 
+- [安全API工具包](https://github.com/paragonie/sapient) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
