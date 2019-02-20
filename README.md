@@ -28,6 +28,7 @@
 - [现代网络的安全内容管理 - “天空只是开始”](https://github.com/paragonie/airship) 
 - [使用Slim Framework构建的仅用于公共附加的分类帐微服务](https://github.com/paragonie/chronicle) 
 - [由libsodium提供支持的高级加密接口](https://github.com/paragonie/halite) 
+- [PHP项目的快速，可搜索的字段级加密](https://github.com/paragonie/ciphersweet) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
