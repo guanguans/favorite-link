@@ -30,6 +30,7 @@
 - [由libsodium提供支持的高级加密接口](https://github.com/paragonie/halite) 
 - [PHP项目的快速，可搜索的字段级加密](https://github.com/paragonie/ciphersweet) 
 - [全功能的反CSRF库](https://github.com/paragonie/anti-csrf) 
+- [在经过身份验证的加密中包装Bcrypt-SHA2](https://github.com/paragonie/password_lock) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
