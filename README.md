@@ -41,6 +41,7 @@
 - [🌌LaravelNova的语言支持。随意提交您的语言或更新现有语言！](https://github.com/coderello/laravel-nova-lang) 
 - [具有Web UI的跨平台http嗅探器](https://github.com/ga0/netgraph) 
 - [最权威最完整的中国省市县数据](https://github.com/small-dream/China_Province_City) 
+- [CodeReview是一个Git GUI工具，用于执行用Python3和Qt5编写的代码审查（Diff Viewer）。](https://github.com/FabriceSalvaire/CodeReview) 
 ### February 19, 2019 
 - [easy-swoole/demo](https://github.com/easy-swoole/demo) 
 - [Enterprise application cloud operating system(企业应用云操作系统)](https://github.com/goodrain/rainbond) 
