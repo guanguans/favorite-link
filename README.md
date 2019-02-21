@@ -19,6 +19,7 @@
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
+- [工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。](https://github.com/Advanced-Frontend/Daily-Interview-Question) 
 ### February 20, 2019 
 - [渗透测试/APT模拟攻击](https://github.com/Micropoor/Micro8) 
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
