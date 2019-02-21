@@ -30,6 +30,7 @@
 - [Go configuration with fangs](https://github.com/spf13/viper) 
 - [该项目基于CNN5 / DenseNet + BLSTM / LSTM + CTC实现验证码识别。](https://github.com/kerlomz/captcha_trainer) 
 - [GPU加速C ++用户界面，具有WYSIWYG开发工具，XML支持，内置数据绑定和MVVM功能。](https://github.com/vczh-libraries/GacUI) 
+- [“用于云存储的rsync” -  Google Drive，Amazon Drive，S3，Dropbox，Backblaze B2，One Drive，Swift，Hubic，Cloudfiles，Google Cloud Storage，Yande ......](https://github.com/ncw/rclone) 
 ### February 20, 2019 
 - [渗透测试/APT模拟攻击](https://github.com/Micropoor/Micro8) 
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
