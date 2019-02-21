@@ -35,6 +35,7 @@
 - [Laravel代理包用于在负载均衡器或其他中介后面处理会话。](https://github.com/fideloper/TrustedProxy) 
 - [🔥 「干货集中营」是一款注重体验的 Gank.io 官方客户端](https://github.com/lijinshanmx/flutter_gank) 
 - [Gank api base △ next.js (react&ssr)](https://github.com/OrangeXC/gank) 
+- [使用 Rust 创建 PHP 扩展](https://github.com/jaredonline/rust-php-c) 
 ### February 20, 2019 
 - [渗透测试/APT模拟攻击](https://github.com/Micropoor/Micro8) 
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
