@@ -23,6 +23,7 @@
 - [本仓库用于记录 B3log 系列站点被攻击的记录，不定期更新。](https://github.com/b3log/we-are-under-attack/blob/master/README.md) 
 - [PHP异步编程: 基于 PHP 实(chao)现(xi) NODEJS web框架 KOA。](https://github.com/naka1205/phpkoa) 
 - [50 个有志向的开发者组成的精英圈 kebox.cn](https://github.com/kebox/kebox-masters) 
+- [TinyPNG client for Mac](https://github.com/kyleduo/TinyPNG4Mac) 
 ### February 20, 2019 
 - [渗透测试/APT模拟攻击](https://github.com/Micropoor/Micro8) 
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
