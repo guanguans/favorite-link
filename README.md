@@ -25,6 +25,7 @@
 - [50 个有志向的开发者组成的精英圈 kebox.cn](https://github.com/kebox/kebox-masters) 
 - [TinyPNG client for Mac](https://github.com/kyleduo/TinyPNG4Mac) 
 - [快速Python 3.5+ HTTP工具包与基于uvloop和picohttpparser的流水线HTTP服务器集成。](https://github.com/squeaky-pl/japronto) 
+- [Laravel中的模块管理](https://github.com/nWidart/laravel-modules) 
 ### February 20, 2019 
 - [渗透测试/APT模拟攻击](https://github.com/Micropoor/Micro8) 
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
