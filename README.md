@@ -37,6 +37,7 @@
 - [Gank api base △ next.js (react&ssr)](https://github.com/OrangeXC/gank) 
 - [使用 Rust 创建 PHP 扩展](https://github.com/jaredonline/rust-php-c) 
 - [腾讯防水墙](https://007.qq.com/) 
+- [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) 
 ### February 20, 2019 
 - [渗透测试/APT模拟攻击](https://github.com/Micropoor/Micro8) 
 - [Yargs通过解析参数和生成优雅的用户界面来帮助您构建交互式命令行工具。](https://github.com/yargs/yargs) 
