@@ -22,6 +22,7 @@
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
 - [用于编程工具的增量解析系统](https://github.com/tree-sitter/tree-sitter) 
 - [《Go2编程指南》开源图书](https://github.com/chai2010/go2-book) 
+- [ngx_php - 用于nginx模块的嵌入式php脚本语言。](https://github.com/rryqszq4/ngx_php) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
