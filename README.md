@@ -31,6 +31,7 @@
 - [Google常用的Java，C ++和JavaScript库，用于解析，格式化和验证国际电话号码。](https://github.com/googlei18n/libphonenumber) 
 - [MarkDown在线简历工具，可在线预览、编辑和生成PDF。[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]](https://github.com/geekcompany/DeerResume) 
 - [精选的软件和架构相关设计模式列表。](https://github.com/DovAmir/awesome-design-patterns) 
+- [设计模式的超简化解释](https://github.com/kamranahmedse/design-patterns-for-humans) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
