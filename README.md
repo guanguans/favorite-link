@@ -40,6 +40,7 @@
 - [将设计模型转换为静态网站的神经网络](https://github.com/emilwallner/Screenshot-to-code) 
 - [Rust中文社区 rustlang-cn.org](https://github.com/rustlang-cn/rustlang-cn) 
 - [Rust的在线社区源码](https://github.com/rustlang-cn/ruster) 
+- [Rustlang相关各种资料！！！](https://github.com/rustlang-cn/resourses) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
