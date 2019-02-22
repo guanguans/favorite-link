@@ -35,6 +35,7 @@
 - [在javascript中实现的设计模式的超简化说明](https://github.com/sohamkamani/javascript-design-patterns-for-humans) 
 - [使用JS插件转换样式](https://github.com/postcss/postcss) 
 - [Rust的类型安全，编译类似Jinja的模板](https://github.com/djc/askama) 
+- [每秒解析千兆字节的JSON](https://github.com/lemire/simdjson) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
