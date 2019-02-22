@@ -26,6 +26,7 @@
 - [为药物发现，量子化学，材料科学和生物学进行民主化深度学习](https://github.com/deepchem/deepchem) 
 - [编写理智，可维护和可扩展Sass的指南。](https://github.com/HugoGiraudel/sass-guidelines) 
 - [所有事情的黑暗主题！](https://github.com/dracula/dracula-theme) 
+- [Go的理想精炼Web框架。](https://github.com/aofei/air) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
