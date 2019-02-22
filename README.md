@@ -44,6 +44,7 @@
 - [查看从Laravel中提取的PHP模板引擎](https://github.com/XiaoLer/blade) 
 - [使用Python进行科学计算的基础包。](https://github.com/numpy/numpy) 
 - [Rdebug  - 真正的调试器](https://github.com/didi/rdebug) 
+- [为Laravel测试提供快速的数据库迁移。](https://github.com/drfraker/snipe-migrations) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
