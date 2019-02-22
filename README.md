@@ -43,6 +43,7 @@
 - [Rustlang相关各种资料！！！](https://github.com/rustlang-cn/resourses) 
 - [查看从Laravel中提取的PHP模板引擎](https://github.com/XiaoLer/blade) 
 - [使用Python进行科学计算的基础包。](https://github.com/numpy/numpy) 
+- [Rdebug  - 真正的调试器](https://github.com/didi/rdebug) 
 ### February 21, 2019 
 - [Lua redis基于cosocket API的ngx_lua客户端驱动程序](https://github.com/openresty/lua-resty-redis) 
 - [Node.js 微信公众平台 API](https://github.com/nswbmw/node-wechat) 
