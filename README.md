@@ -40,6 +40,7 @@
 - [为任何Eloquent模型及其关系创建修订版](https://github.com/zbiller/laravel-revisions) 
 - [中国大陆 2018 年 12 月XX站访问百强榜单](https://github.com/no-Dark/Adult) 
 - [The HTTP client for Vue.js](https://github.com/pagekit/vue-resource) 
+- [基于Vue和WeUI的移动UI组件](https://github.com/airyland/vux) 
 ### February 22, 2019 
 - [在几秒钟内创建HTML演示文稿](https://github.com/webslides/WebSlides) 
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
