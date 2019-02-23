@@ -36,6 +36,7 @@
 - [⭐️一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。](https://github.com/trimstray/the-book-of-secret-knowledge) 
 - [TypeScript Web服务器 - 比Deno快15倍](https://github.com/uNetworking/uWebSockets.js) 
 - [百度网盘下载神器](https://github.com/cool2528/baiduCDP) 
+- [企业级持续交付和DevOps自动化开源平台](https://github.com/ovh/cds) 
 ### February 22, 2019 
 - [在几秒钟内创建HTML演示文稿](https://github.com/webslides/WebSlides) 
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
