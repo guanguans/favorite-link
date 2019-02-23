@@ -33,6 +33,7 @@
 - [小米手机内核开源](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) 
 - [SmartisanOS kernel opensource contain T1Kernel, T2Kernel, U1Kernel(JianGuo), M1Kernel(M1 and M1L), U2ProKernel(JianGuo Pro)](https://github.com/SmartisanTech/SmartisanOS_Kernel_Source) 
 - [可扩展的数据存储区，用于指标，事件和实时分析](https://github.com/influxdata/influxdb) 
+- [⭐️一系列精彩的列表，手册，博客，黑客，单行，cli / web工具等等。](https://github.com/trimstray/the-book-of-secret-knowledge) 
 ### February 22, 2019 
 - [在几秒钟内创建HTML演示文稿](https://github.com/webslides/WebSlides) 
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
