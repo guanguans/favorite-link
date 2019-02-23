@@ -25,6 +25,7 @@
 - [70万条对联数据库。](https://github.com/wb14123/couplet-dataset) 
 - [每秒解析千兆字节的JSON](https://github.com/lemire/simdjson) 
 - [平滑滚动网页](https://github.com/cubiq/iscroll) 
+- [常见数据结构的CRDT，如map，vecs，sets，text和JSON](https://github.com/alex-shapiro/ditto) 
 ### February 22, 2019 
 - [在几秒钟内创建HTML演示文稿](https://github.com/webslides/WebSlides) 
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
