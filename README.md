@@ -29,6 +29,7 @@
 - [结合实际PHP面试遇到的问题，尝试提供简洁准确的答案](https://github.com/colinlet/PHP-Interview-QA) 
 - [检测未使用的编写器依赖项](https://github.com/Insolita/unused-scanner) 
 - [用于创建Web应用程序的Rust框架](https://github.com/David-OConnor/seed) 
+- [资源搜索型软件 macOS OSX magnet](https://github.com/youusername/magnetX) 
 ### February 22, 2019 
 - [在几秒钟内创建HTML演示文稿](https://github.com/webslides/WebSlides) 
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
