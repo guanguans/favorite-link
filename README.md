@@ -41,6 +41,7 @@
 - [中国大陆 2018 年 12 月XX站访问百强榜单](https://github.com/no-Dark/Adult) 
 - [The HTTP client for Vue.js](https://github.com/pagekit/vue-resource) 
 - [基于Vue和WeUI的移动UI组件](https://github.com/airyland/vux) 
+- [WebSockets的命令行客户端](https://github.com/vi/websocat) 
 ### February 22, 2019 
 - [在几秒钟内创建HTML演示文稿](https://github.com/webslides/WebSlides) 
 - [现代JavaScript教程](https://github.com/xitu/javascript-tutorial-zh) 
