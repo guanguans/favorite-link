@@ -21,6 +21,7 @@
 
 ### February 24, 2019 
 - [一个基于Yii2高级框架的快速开发应用引擎 ](https://github.com/jianyan74/rageframe2) 
+- [🕹macOS http://openemu.org的复古视频游戏模拟](https://github.com/OpenEmu/OpenEmu) 
 ### February 23, 2019 
 - [基于Google Material Design的Bootstrap 4，React，Vue.js，React Native和Sketch的免费开源UI工具包](https://github.com/creativetimofficial/material-kit) 
 - [macOS的剪贴板扩展应用程序。](https://github.com/Clipy/Clipy) 
