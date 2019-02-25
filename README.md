@@ -24,6 +24,7 @@
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
 - [基于生成器的PHP集合](https://github.com/buttress/collecterator) 
+- [Swoole 提案](https://github.com/swoole/rfc-chinese) 
 ### February 24, 2019 
 - [一个基于Yii2高级框架的快速开发应用引擎 ](https://github.com/jianyan74/rageframe2) 
 - [🕹macOS http://openemu.org的复古视频游戏模拟](https://github.com/OpenEmu/OpenEmu) 
