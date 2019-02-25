@@ -31,6 +31,7 @@
 - [键入时格式化输入文本内容...](https://github.com/nosir/cleave.js) 
 - [适用于iOS 11.0  -  12.1.2的unc0ver越狱](https://github.com/pwn20wndstuff/Undecimus) 
 - [一个框架不可知的PHP库，用于构建聊天机器人](https://github.com/botman/botman) 
+- [🚀 一个为任何MySql数据库生成REST API的命令。](https://github.com/o1lab/xmysql) 
 ### February 24, 2019 
 - [一个基于Yii2高级框架的快速开发应用引擎 ](https://github.com/jianyan74/rageframe2) 
 - [🕹macOS http://openemu.org的复古视频游戏模拟](https://github.com/OpenEmu/OpenEmu) 
