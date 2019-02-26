@@ -25,6 +25,7 @@
 - [libp2p网络堆栈libp2p.io的技术规范](https://github.com/libp2p/specs) 
 - [每个软件开发人员应该知道的（大多数）技术事项的集合](https://github.com/mtdvio/every-programmer-should-know) 
 - [timeago.js 是一个非常简洁、轻量级、不到 1kb 的很简洁的 Javascript 库，用来将 datetime 时间转化成类似于*** 时间前的描述字符串，例如：“3 小时前”。](https://github.com/hustcc/timeago.js/blob/master/README_zh.md) 
+- [📅 中国农历（阴历）与阳历（公历）转换与查询工具](https://github.com/overtrue/chinese-calendar) 
 ### February 25, 2019 
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
