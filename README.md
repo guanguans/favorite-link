@@ -42,6 +42,7 @@
 - [PHP应用程序的即时升级getrector.org](https://github.com/rectorphp/rector) 
 - [PHP中强类型的枚举支持自动完成和重构](https://github.com/spatie/enum) 
 - [PHPGGC是一个unserialize（）有效负载库，以及一个从命令行或以编程方式生成它们的工具。](https://github.com/ambionics/phpggc) 
+- [Html菜单生成器](https://github.com/spatie/menu) 
 ### February 25, 2019 
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
