@@ -31,6 +31,7 @@
 - [hexo主题的hub样式复制](https://github.com/sabrinaluo/hexo-theme-replica) 
 - [ShowDoc是一个非常适合IT团队在线共享文档的工具](https://github.com/star7th/showdoc) 
 - [Rust箱提供有关电池的跨平台信息。](https://github.com/svartalf/rust-battery) 
+- [针对seniverse api的Api使用演示http://www.seniverse.com/doc](https://github.com/seniverse/seniverse-api-demos) 
 ### February 25, 2019 
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
