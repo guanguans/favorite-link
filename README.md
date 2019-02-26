@@ -40,6 +40,7 @@
 - [PHP中的设计模式示例](https://github.com/RefactoringGuru/design-patterns-php) 
 - [Doctrine Inflector是一个小型库，可以对大写/小写和单数/复数形式的单词执行字符串操作。](https://github.com/doctrine/inflector) 
 - [PHP应用程序的即时升级getrector.org](https://github.com/rectorphp/rector) 
+- [PHP中强类型的枚举支持自动完成和重构](https://github.com/spatie/enum) 
 ### February 25, 2019 
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
