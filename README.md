@@ -29,6 +29,7 @@
 - [多框架编写器库安装程序http://composer.github.com/installers](https://github.com/composer/installers) 
 - [OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。](https://github.com/aliyun/oss-browser) 
 - [hexo主题的hub样式复制](https://github.com/sabrinaluo/hexo-theme-replica) 
+- [ShowDoc是一个非常适合IT团队在线共享文档的工具](https://github.com/star7th/showdoc) 
 ### February 25, 2019 
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
