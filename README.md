@@ -36,6 +36,7 @@
 - [Swoole 远程调试器](https://github.com/swoole/debugger) 
 - [120个常见数据科学面试问题的答案。](https://github.com/kojino/120-Data-Science-Interview-Questions) 
 - [Istio knowledge map 知识图谱](https://github.com/servicemesher/istio-knowledge-map) 
+- [自动将字幕与视频同步。](https://github.com/smacke/subsync) 
 ### February 25, 2019 
 - [rust stackful coroutine library](https://github.com/Xudong-Huang/may) 
 - [基于Bulma的Vue.js的轻量级UI组件](https://github.com/buefy/buefy) 
