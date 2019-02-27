@@ -31,6 +31,7 @@
 - [Lumen和Laravel 5的发电机集合。](https://github.com/webNeat/lumen-generators) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
 - [基于 Flutter & scoped_model 实现的视频类App客户端](https://github.com/songxiaoliang/visitor-flutter) 
+- [✨轻量级依赖注入](https://github.com/iiDestiny/dependency-injection/blob/master/Zh-README.md) 
 ### February 26, 2019 
 - [libp2p网络堆栈libp2p.io的技术规范](https://github.com/libp2p/specs) 
 - [每个软件开发人员应该知道的（大多数）技术事项的集合](https://github.com/mtdvio/every-programmer-should-know) 
