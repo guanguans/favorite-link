@@ -33,6 +33,7 @@
 - [基于 Flutter & scoped_model 实现的视频类App客户端](https://github.com/songxiaoliang/visitor-flutter) 
 - [✨轻量级依赖注入](https://github.com/iiDestiny/dependency-injection/blob/master/Zh-README.md) 
 - [让你自定义的方法也可以使用依赖注入.](https://github.com/iiDestiny/dependency-injection/blob/master/Zh-README.md) 
+- [由WebAssembly提供支持的通用二进制文件](https://github.com/wasmerio/wasmer) 
 ### February 26, 2019 
 - [libp2p网络堆栈libp2p.io的技术规范](https://github.com/libp2p/specs) 
 - [每个软件开发人员应该知道的（大多数）技术事项的集合](https://github.com/mtdvio/every-programmer-should-know) 
