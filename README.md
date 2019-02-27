@@ -26,6 +26,7 @@
 - [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 - [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money) 
 - [DDos/DoS工具集](https://github.com/wenfengshi/ddos-dos-tools) 
+- [Zero是一个简化Web开发的Web服务器。](https://github.com/remoteinterview/zero) 
 ### February 26, 2019 
 - [libp2p网络堆栈libp2p.io的技术规范](https://github.com/libp2p/specs) 
 - [每个软件开发人员应该知道的（大多数）技术事项的集合](https://github.com/mtdvio/every-programmer-should-know) 
