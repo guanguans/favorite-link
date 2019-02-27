@@ -21,6 +21,9 @@
 
 
 
+
+### February 27, 2019 
+- [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 ### February 26, 2019 
 - [libp2p网络堆栈libp2p.io的技术规范](https://github.com/libp2p/specs) 
 - [每个软件开发人员应该知道的（大多数）技术事项的集合](https://github.com/mtdvio/every-programmer-should-know) 
