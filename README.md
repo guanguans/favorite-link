@@ -52,6 +52,7 @@
 - [Laravel的文件管理器](https://github.com/alexusmai/laravel-file-manager) 
 - [vue-laravel-file-manager](https://github.com/alexusmai/vue-laravel-file-manager) 
 - [缺少的Spotlight插件系统](https://github.com/nate-parrott/Flashlight) 
+- [Php JWT example.](https://github.com/auth0/php-jwt-example) 
 ### February 27, 2019 
 - [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 - [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money) 
