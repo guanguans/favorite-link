@@ -29,6 +29,7 @@
 - [一个广泛的JavaScript和Node.js数学库](https://github.com/josdejong/mathjs) 
 - [定制kubernetes YAML配置](https://github.com/kubernetes-sigs/kustomize) 
 - [mageMagick 7](https://github.com/ImageMagick/ImageMagick) 
+- [在不到30秒的时间内获得零编码的完整虚假REST API（严重）](https://github.com/typicode/json-server) 
 ### February 27, 2019 
 - [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 - [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money) 
