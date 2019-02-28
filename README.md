@@ -49,6 +49,7 @@
 - [用于商业用途的开源电子商务laravel框架](https://github.com/lanhktc/s-cart) 
 - [用于商业用途的开源电子商务laravel框架](https://github.com/cfreal/exploits/blob/master/CVE-2019-6977-imagecolormatch/README.md) 
 - [imagecolormatch（）OOB堆写入漏洞](https://github.com/cfreal/exploits/blob/master/CVE-2019-6977-imagecolormatch/README.md) 
+- [Laravel的文件管理器](https://github.com/alexusmai/laravel-file-manager) 
 ### February 27, 2019 
 - [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 - [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money) 
