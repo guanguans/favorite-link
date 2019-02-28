@@ -41,6 +41,7 @@
 - [用Rust写的Javascript引擎](https://github.com/jasonwilliams/boa) 
 - [PHP到JavaScript转换器和用JavaScript编写的VM](https://github.com/niklasvh/php.js) 
 - [iOS上的Native App over HTTP](https://github.com/Jasonette/JASONETTE-iOS) 
+- [使用kubeadm在AWS上真正便宜的Kubernetes集群](https://github.com/cablespaghetti/kubeadm-aws) 
 ### February 27, 2019 
 - [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 - [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money) 
