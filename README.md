@@ -43,6 +43,7 @@
 - [iOS上的Native App over HTTP](https://github.com/Jasonette/JASONETTE-iOS) 
 - [使用kubeadm在AWS上真正便宜的Kubernetes集群](https://github.com/cablespaghetti/kubeadm-aws) 
 - [互联网广告的黑洞](https://github.com/pi-hole/pi-hole) 
+- [轻量级Kubernetes。易于安装，内存的一半，所有二进制文件都小于40mb。](https://github.com/rancher/k3s) 
 ### February 27, 2019 
 - [用于富文本编辑的世界上最流行的JavaScript库。可用于React，Vue和Angular](https://github.com/tinymce/tinymce) 
 - [程序员如何优雅的挣零花钱](https://github.com/easychen/howto-make-more-money) 
