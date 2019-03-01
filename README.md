@@ -34,6 +34,7 @@
 - [Go中的快速键值DB。](https://github.com/dgraph-io/badger) 
 - [Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端](https://github.com/huangjianke/Gitter) 
 - [一款手势驱动的裁图插件](https://github.com/baijunjie/PhotoClip.js) 
+- [EventEmitter3是一个高性能的EventEmitter。它已针对各种代码路径进行了微优化，使其成为Node.js和浏览器中最快的EventEmitter之一。](https://github.com/primus/eventemitter3) 
 ### February 28, 2019 
 - [一款屏幕保护软件](https://github.com/pedrommcarrasco/Brooklyn) 
 - [Node.js REST开发的未来](https://github.com/restify/node-restify) 
