@@ -39,6 +39,7 @@
 - [防止通过表单提交的垃圾邮件](https://github.com/spatie/laravel-honeypot) 
 - [用于配置组装的Composer插件](https://github.com/hiqdev/composer-config-plugin) 
 - [阿里妈妈前端团队出品的开源接口管理工具RAP第二代](https://github.com/thx/rap2-delos) 
+- [这是一个用于检测和解码QR码的PHP库。这是第一个也是唯一一个无需扩展即可工作的QR码阅读器。](https://github.com/khanamiryan/php-qrcode-detector-decoder) 
 ### February 28, 2019 
 - [一款屏幕保护软件](https://github.com/pedrommcarrasco/Brooklyn) 
 - [Node.js REST开发的未来](https://github.com/restify/node-restify) 
