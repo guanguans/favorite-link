@@ -33,6 +33,7 @@
 - [HTTPlug，PHP的HTTP客户端抽象](https://github.com/php-http/httplug) 
 - [Go中的快速键值DB。](https://github.com/dgraph-io/badger) 
 - [Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端](https://github.com/huangjianke/Gitter) 
+- [一款手势驱动的裁图插件](https://github.com/baijunjie/PhotoClip.js) 
 ### February 28, 2019 
 - [一款屏幕保护软件](https://github.com/pedrommcarrasco/Brooklyn) 
 - [Node.js REST开发的未来](https://github.com/restify/node-restify) 
