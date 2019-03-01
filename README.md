@@ -37,6 +37,7 @@
 - [EventEmitter3是一个高性能的EventEmitter。它已针对各种代码路径进行了微优化，使其成为Node.js和浏览器中最快的EventEmitter之一。](https://github.com/primus/eventemitter3) 
 - [certbot'renewing letencrypt证书插件 - 自动验证aliyun / tencentyun / godaddy dns](https://github.com/ywdblog/certbot-letencrypt-wildcardcertificates-alydns-au) 
 - [防止通过表单提交的垃圾邮件](https://github.com/spatie/laravel-honeypot) 
+- [用于配置组装的Composer插件](https://github.com/hiqdev/composer-config-plugin) 
 ### February 28, 2019 
 - [一款屏幕保护软件](https://github.com/pedrommcarrasco/Brooklyn) 
 - [Node.js REST开发的未来](https://github.com/restify/node-restify) 
