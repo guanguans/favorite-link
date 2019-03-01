@@ -41,6 +41,7 @@
 - [阿里妈妈前端团队出品的开源接口管理工具RAP第二代](https://github.com/thx/rap2-delos) 
 - [这是一个用于检测和解码QR码的PHP库。这是第一个也是唯一一个无需扩展即可工作的QR码阅读器。](https://github.com/khanamiryan/php-qrcode-detector-decoder) 
 - [Swoft从入门到微服务课程代码](https://github.com/sunnyos/sunnyos-swoft-course) 
+- [Symfony之上的开源电子商务框架](https://github.com/Sylius/Sylius) 
 ### February 28, 2019 
 - [一款屏幕保护软件](https://github.com/pedrommcarrasco/Brooklyn) 
 - [Node.js REST开发的未来](https://github.com/restify/node-restify) 
