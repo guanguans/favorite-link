@@ -31,6 +31,7 @@
 - [用于GraphQL订阅的WebSocket客户端+服务器](https://github.com/apollographql/subscriptions-transport-ws) 
 - [  redis-full-check是阿里云Redis&MongoDB团队开源的用于校验2个redis数据是否一致的工具，通常用于redis数据迁移（redis-shake）后正确性的校验。](https://github.com/aliyun/redis-full-check) 
 - [HTTPlug，PHP的HTTP客户端抽象](https://github.com/php-http/httplug) 
+- [Go中的快速键值DB。](https://github.com/dgraph-io/badger) 
 ### February 28, 2019 
 - [一款屏幕保护软件](https://github.com/pedrommcarrasco/Brooklyn) 
 - [Node.js REST开发的未来](https://github.com/restify/node-restify) 
