@@ -34,6 +34,7 @@
 - [鲜亮的高饱和色彩，专注视觉的小程序组件库 ](https://github.com/weilanwl/ColorUI) 
 - [个人准备渗透测试和安全面试的经验，和部分厂商的面试题](https://github.com/Leezj9671/Pentest_Interview) 
 - [个人准备渗透测试和安全面试的经验，和部分厂商的面试题](https://github.com/Leezj9671/Pentest_Interview) 
+- [NexT 是一个高质量并且优雅的Hexo 主题。这是精心制作做出来的 hexo 主题。](https://github.com/iissnan/hexo-theme-next/blob/master/README.cn.md) 
 ### March 1, 2019 
 - [用于JavaScript的GitHub REST API客户端](https://github.com/octokit/rest.js) 
 - [📗[WIP] Laravel 应用部署上线课程系列。](https://github.com/wi1dcard/laravel-deployment) 
