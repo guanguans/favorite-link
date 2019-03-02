@@ -44,6 +44,7 @@
 - [Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等](https://github.com/360EntSecGroup-Skylar/ElasticHD) 
 - [Frp配置面板 ](https://github.com/Zo3i/frpMgr) 
 - [HTPC / Homelab服务管理器 - 用PHP编写](https://github.com/causefx/Organizr) 
+- [报告PHPUnit测试套件中运行缓慢的测试](https://github.com/johnkary/phpunit-speedtrap) 
 ### March 1, 2019 
 - [用于JavaScript的GitHub REST API客户端](https://github.com/octokit/rest.js) 
 - [📗[WIP] Laravel 应用部署上线课程系列。](https://github.com/wi1dcard/laravel-deployment) 
