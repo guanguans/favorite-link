@@ -46,6 +46,7 @@
 - [HTPC / Homelab服务管理器 - 用PHP编写](https://github.com/causefx/Organizr) 
 - [报告PHPUnit测试套件中运行缓慢的测试](https://github.com/johnkary/phpunit-speedtrap) 
 - [devdocs.io的Alfred工作流程](https://github.com/yannickglt/alfred-devdocs) 
+- [适用于DevDocs.io的全功能桌面应用](https://github.com/egoist/devdocs-desktop) 
 ### March 1, 2019 
 - [用于JavaScript的GitHub REST API客户端](https://github.com/octokit/rest.js) 
 - [📗[WIP] Laravel 应用部署上线课程系列。](https://github.com/wi1dcard/laravel-deployment) 
