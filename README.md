@@ -41,6 +41,7 @@
 - [Keybase Go Library, Client, Service, OS X, iOS, Android, Electron](https://github.com/keybase/client) 
 - [打造优质前端博客，欢迎关注我的公众号：前端工匠](https://github.com/ljianshu/Blog) 
 - [Delve是Go编程语言的调试器。](https://github.com/go-delve/delve) 
+- [Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等](https://github.com/360EntSecGroup-Skylar/ElasticHD) 
 ### March 1, 2019 
 - [用于JavaScript的GitHub REST API客户端](https://github.com/octokit/rest.js) 
 - [📗[WIP] Laravel 应用部署上线课程系列。](https://github.com/wi1dcard/laravel-deployment) 
