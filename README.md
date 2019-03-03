@@ -30,6 +30,7 @@
 - [Webpack的演示与课程4](https://github.com/dongyuanxin/webpack-demos) 
 - [Go中的DNS客户端，通过HTTPS支持Google DNS](https://github.com/pforemski/dingo) 
 - [🥐一个Lua REPL和调试器](https://github.com/giann/croissant) 
+- [search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐等搜索和下载歌曲](https://github.com/0xHJK/music-dl) 
 ### March 2, 2019 
 - [用Lua编写的Nginx的Prometheus度量库](https://github.com/knyar/nginx-lua-prometheus) 
 - [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome) 
