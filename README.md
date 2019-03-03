@@ -38,6 +38,7 @@
 - [库用于清理和清理网页以创建大量数据集。](https://github.com/chiphuyen/lazynlp) 
 - [用Lua编写的Nginx的Prometheus度量库](https://github.com/knyar/nginx-lua-prometheus) 
 - [📦📦安装直接在浏览器中运行的npm依赖项。无需Browserify，Webpack或导入地图。](https://github.com/pikapkg/web) 
+- [分布式系统讲座系列的课程材料](https://github.com/aphyr/distsys-class) 
 ### March 2, 2019 
 - [用Lua编写的Nginx的Prometheus度量库](https://github.com/knyar/nginx-lua-prometheus) 
 - [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome) 
