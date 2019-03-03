@@ -41,6 +41,7 @@
 - [分布式系统讲座系列的课程材料](https://github.com/aphyr/distsys-class) 
 - [分布式系统讲座系列的课程材料](https://github.com/aphyr/distsys-class) 
 - [用于构建高效数据科学工作流的Python库](https://github.com/d6t/d6tflow) 
+- [关于python的面试题](https://github.com/kenwoodjw/python_interview_question) 
 ### March 2, 2019 
 - [用Lua编写的Nginx的Prometheus度量库](https://github.com/knyar/nginx-lua-prometheus) 
 - [PHP 最优秀资源的整理汇集](https://github.com/shockerli/php-awesome) 
