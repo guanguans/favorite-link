@@ -31,6 +31,7 @@
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
 - [一个简单的脚本，用于在PHP中缓存第三方API调用](https://github.com/gilbitron/PHP-SimpleCache) 
+- [轻量级，简单但功能强大的PHP5缓存类，它使用文件系统进行缓存。](https://github.com/cosenary/Simple-PHP-Cache) 
 ### March 3, 2019 
 - [Webpack的演示与课程4](https://github.com/dongyuanxin/webpack-demos) 
 - [Go中的DNS客户端，通过HTTPS支持Google DNS](https://github.com/pforemski/dingo) 
