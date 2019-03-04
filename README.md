@@ -26,6 +26,9 @@
 
 
 
+
+### March 4, 2019 
+- [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 ### March 3, 2019 
 - [Webpack的演示与课程4](https://github.com/dongyuanxin/webpack-demos) 
 - [Go中的DNS客户端，通过HTTPS支持Google DNS](https://github.com/pforemski/dingo) 
