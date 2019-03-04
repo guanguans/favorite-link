@@ -33,6 +33,7 @@
 - [一个简单的脚本，用于在PHP中缓存第三方API调用](https://github.com/gilbitron/PHP-SimpleCache) 
 - [轻量级，简单但功能强大的PHP5缓存类，它使用文件系统进行缓存。](https://github.com/cosenary/Simple-PHP-Cache) 
 - [程序员技能图谱 ](https://github.com/TeamStuQ/skill-map) 
+- [jSearch(聚搜) 是一款专注内容的chrome搜索扩展，一次搜索聚合多平台内容。](https://github.com/dubox/jSearch/) 
 ### March 3, 2019 
 - [Webpack的演示与课程4](https://github.com/dongyuanxin/webpack-demos) 
 - [Go中的DNS客户端，通过HTTPS支持Google DNS](https://github.com/pforemski/dingo) 
