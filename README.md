@@ -38,6 +38,7 @@
 - [为PHP实现XDG基本目录规范](https://github.com/dnoegel/php-xdg-base-dir) 
 - [根据网易云音乐的歌单, 下载flac无损音乐到本地.。](https://github.com/lifei6671/NeteaseCloudMusicFlac) 
 - [Go client for Redis](https://github.com/gomodule/redigo) 
+- [HTML5视频速度控制器（适用于谷歌浏览器）](https://github.com/igrigorik/videospeed) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
