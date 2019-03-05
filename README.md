@@ -42,6 +42,7 @@
 - [Oracle数据库的应用程序和工具使用示例](https://github.com/oracle/oracle-db-examples) 
 - [PPGo_Job是一款可视化的、多人多权限的定时任务管理系统，采用golang开发，安装方便，资源消耗少，支持大并发，可同时管理多台服务器上的定时任务。](https://github.com/george518/PPGo_Job) 
 - [CamelCasePlugin for IDEA IDEs](https://github.com/netnexus/camelcaseplugin) 
+- [EvaOAuth 1.0：统一接口的 OAuth 登录 PHP 类库](https://avnpc.com/pages/evaoauth) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
