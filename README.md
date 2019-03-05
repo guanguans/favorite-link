@@ -27,6 +27,9 @@
 
 
 
+
+### March 5, 2019 
+- [🔥 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.](https://github.com/chunlintang/golang-anything-recommend) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
