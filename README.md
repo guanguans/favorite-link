@@ -31,6 +31,7 @@
 ### March 5, 2019 
 - [🔥 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.](https://github.com/chunlintang/golang-anything-recommend) 
 - [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
+- [适用于npm和GitHub的免费，快速，可靠的开源CDN](https://github.com/jsdelivr/jsdelivr) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
