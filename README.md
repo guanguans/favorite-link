@@ -36,6 +36,7 @@
 - [机器学习100天](https://github.com/MLEveryday/100-Days-Of-ML-Code) 
 - [🚄用于PHP的快速生成对象Hydrator](https://github.com/Ocramius/GeneratedHydrator) 
 - [为PHP实现XDG基本目录规范](https://github.com/dnoegel/php-xdg-base-dir) 
+- [根据网易云音乐的歌单, 下载flac无损音乐到本地.。](https://github.com/lifei6671/NeteaseCloudMusicFlac) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
