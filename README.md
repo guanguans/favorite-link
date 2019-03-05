@@ -48,6 +48,7 @@
 - [Vita：简单快速的VPN网关](https://github.com/inters/vita) 
 - [队列论：软件开发简介](https://github.com/joelparkerhenderson/queueing_theory) 
 - [开源数字标牌解决方案](https://github.com/eerotal/LibreSignage) 
+- [微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中](https://github.com/luofei614/SocketLog) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
