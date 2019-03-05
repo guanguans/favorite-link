@@ -44,6 +44,7 @@
 - [CamelCasePlugin for IDEA IDEs](https://github.com/netnexus/camelcaseplugin) 
 - [EvaOAuth 1.0：统一接口的 OAuth 登录 PHP 类库](https://avnpc.com/pages/evaoauth) 
 - [EvaOAuth 1.0：统一接口的 OAuth 登录 PHP 类库](https://github.com/AlloVince/EvaOAuth) 
+- [EvaThumber : 基于URL的图片处理库 (可实现缩略图 | 二维码 | 水印 | 面部识别等,基于PHP](https://github.com/AlloVince/EvaThumber) 
 ### March 4, 2019 
 - [提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。](https://github.com/h2y/Shadowrocket-ADBlock-Rules) 
 - [《大话设计模式》php版本](https://github.com/liu21st/design-patterns-by-php) 
