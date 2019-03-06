@@ -40,6 +40,7 @@
 - [htrace.sh是用于http / https故障排除和分析的shell脚本。它也是围绕几个开源安全工具的简单包装脚本。](https://github.com/trimstray/htrace.sh) 
 - [记录一下SS的前世今生，以及一个简单的教程总结](https://github.com/JadaGates/ShadowsocksBio) 
 - [记录一下SS的前世今生，以及一个简单的教程总结](https://github.com/JadaGates/ShadowsocksBio) 
+- [swover 一个基于Swoole扩展的服务器框架](https://github.com/swover/swover) 
 ### March 5, 2019 
 - [🔥 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.](https://github.com/chunlintang/golang-anything-recommend) 
 - [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
