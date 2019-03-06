@@ -37,6 +37,7 @@
 - [功能丰富的跨平台传输BitTorrent客户端。 比内置Web GUI更快，功能更多。](https://github.com/transmission-remote-gui/transgui) 
 - [一个易于使用的库，用于使用InfluxDB和PHP。](https://github.com/influxdata/influxdb-php) 
 - [一种向类动态添加方法的特性](https://github.com/spatie/macroable) 
+- [htrace.sh是用于http / https故障排除和分析的shell脚本。它也是围绕几个开源安全工具的简单包装脚本。](https://github.com/trimstray/htrace.sh) 
 ### March 5, 2019 
 - [🔥 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.](https://github.com/chunlintang/golang-anything-recommend) 
 - [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
