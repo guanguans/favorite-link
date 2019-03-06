@@ -35,6 +35,7 @@
 - [PHP Protobuf  -  Google的PHP协议缓冲区](https://github.com/allegro/php-protobuf) 
 - [PHP 7的异步协程。](https://github.com/recoilphp/recoil) 
 - [功能丰富的跨平台传输BitTorrent客户端。 比内置Web GUI更快，功能更多。](https://github.com/transmission-remote-gui/transgui) 
+- [一个易于使用的库，用于使用InfluxDB和PHP。](https://github.com/influxdata/influxdb-php) 
 ### March 5, 2019 
 - [🔥 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.](https://github.com/chunlintang/golang-anything-recommend) 
 - [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
