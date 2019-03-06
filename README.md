@@ -42,6 +42,7 @@
 - [记录一下SS的前世今生，以及一个简单的教程总结](https://github.com/JadaGates/ShadowsocksBio) 
 - [swover 一个基于Swoole扩展的服务器框架](https://github.com/swover/swover) 
 - [远程运行VS代码。coder.com](https://github.com/codercom/code-server) 
+- [以开发人员为中心的HTTP客户端，针对大多数常见用例进行了优化。](https://github.com/kitetail/zttp) 
 ### March 5, 2019 
 - [🔥 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.](https://github.com/chunlintang/golang-anything-recommend) 
 - [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects) 
