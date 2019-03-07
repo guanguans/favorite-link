@@ -29,6 +29,9 @@
 
 
 
+
+### March 7, 2019 
+- [纯bash脚本，用于测试和等待TCP主机和端口的可用性](https://github.com/vishnubob/wait-for-it) 
 ### March 6, 2019 
 - [正在搭架子 作为公共分享资料](https://github.com/EECS-PKU-XSB/Shared-learning-materials) 
 - [README的艺术](https://github.com/noffle/art-of-readme/blob/master/README-zh.md) 
