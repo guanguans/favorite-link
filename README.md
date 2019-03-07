@@ -43,6 +43,7 @@
 - [为通过Composer管理的每个PHP项目创建简单的phar](https://github.com/clue/phar-composer) 
 - [一个基于ThinkPHP5.1+和AmazeUI的快速后台开发框架](https://github.com/techoner/tadmin) 
 - [Googletest  -  Google测试和模拟框架](https://github.com/google/googletest) 
+- [Lua + libUV + jIT = pure awesomesauce](https://github.com/luvit/luvit) 
 ### March 6, 2019 
 - [正在搭架子 作为公共分享资料](https://github.com/EECS-PKU-XSB/Shared-learning-materials) 
 - [README的艺术](https://github.com/noffle/art-of-readme/blob/master/README-zh.md) 
