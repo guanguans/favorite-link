@@ -36,6 +36,7 @@
 - [一种开源可信云本机注册表项目，用于存储，签名和扫描内容。](https://github.com/goharbor/harbor) 
 - [CentOS7服务器的一些配置](https://github.com/izombielandgit/CentOS7-Server-Configuration) 
 - [维护的ctags实现](https://github.com/universal-ctags/ctags) 
+- [具有GPL许可证的高性能MySQL代理。](https://github.com/sysown/proxysql) 
 ### March 6, 2019 
 - [正在搭架子 作为公共分享资料](https://github.com/EECS-PKU-XSB/Shared-learning-materials) 
 - [README的艺术](https://github.com/noffle/art-of-readme/blob/master/README-zh.md) 
