@@ -42,6 +42,7 @@
 - [一个视频播放器，开源版 potplayer ，用于学习和交流音视频技术](https://github.com/itisyang/playerdemo) 
 - [为通过Composer管理的每个PHP项目创建简单的phar](https://github.com/clue/phar-composer) 
 - [一个基于ThinkPHP5.1+和AmazeUI的快速后台开发框架](https://github.com/techoner/tadmin) 
+- [Googletest  -  Google测试和模拟框架](https://github.com/google/googletest) 
 ### March 6, 2019 
 - [正在搭架子 作为公共分享资料](https://github.com/EECS-PKU-XSB/Shared-learning-materials) 
 - [README的艺术](https://github.com/noffle/art-of-readme/blob/master/README-zh.md) 
