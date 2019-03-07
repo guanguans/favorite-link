@@ -38,6 +38,7 @@
 - [维护的ctags实现](https://github.com/universal-ctags/ctags) 
 - [具有GPL许可证的高性能MySQL代理。](https://github.com/sysown/proxysql) 
 - [一个极简的基于swoole常驻内存框架，支持在fpm下运行](https://github.com/lizhichao/one) 
+- [学习强国 懒人刷分工具 自动学习](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) 
 ### March 6, 2019 
 - [正在搭架子 作为公共分享资料](https://github.com/EECS-PKU-XSB/Shared-learning-materials) 
 - [README的艺术](https://github.com/noffle/art-of-readme/blob/master/README-zh.md) 
