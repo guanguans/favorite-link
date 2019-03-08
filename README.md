@@ -45,6 +45,7 @@
 - [Welcome！Hello YCY](https://github.com/ccyyycy/ycy) 
 - [MailEclipse⚡️轻松玩你的Laravel Mailables！](https://github.com/Qoraiche/laravel-mail-editor) 
 - [✏️了解如何用C编写哈希表](https://github.com/jamesroutley/write-a-hash-table) 
+- [BetterAndBetter 是一款包含很多功能的 macOS 软件](https://github.com/songhao/BetterAndBetter) 
 ### March 7, 2019 
 - [纯bash脚本，用于测试和等待TCP主机和端口的可用性](https://github.com/vishnubob/wait-for-it) 
 - [各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解 lengyue.me](https://github.com/leng-yue/Lengyue-Vcode) 
