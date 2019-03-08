@@ -41,6 +41,7 @@
 - [分析正在运行的容器的资源使用情况和性能特征。](https://github.com/google/cadvisor) 
 - [HttpClient组件提供了同步或异步获取HTTP资源的强大方法。](https://github.com/symfony/http-client) 
 - [高仿书旗小说 Flutter版，支持iOS、Android](https://github.com/huanxsd/flutter_shuqi) 
+- [skl api，企业级后台API开发平台。使用beego语言架构。开发平台内嵌了用户、用户组、机构、角色、权限、多语言、枚举、OA引擎等功能模块。](https://github.com/mikezss/skl-go) 
 ### March 7, 2019 
 - [纯bash脚本，用于测试和等待TCP主机和端口的可用性](https://github.com/vishnubob/wait-for-it) 
 - [各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解 lengyue.me](https://github.com/leng-yue/Lengyue-Vcode) 
