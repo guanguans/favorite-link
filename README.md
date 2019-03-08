@@ -34,6 +34,7 @@
 ### March 8, 2019 
 - [该软件包为Laravel 5.8提供了与FFmpeg的集成。文件的存储由Laravel的Filesystem处理。](https://github.com/pascalbaljetmedia/laravel-ffmpeg) 
 - [最适合入门的laravel初级教程](https://github.com/baijunyao/laravel-course) 
+- [用于动态编辑.env文件的Laravel包。](https://github.com/Brotzka/laravel-dotenv-editor) 
 ### March 7, 2019 
 - [纯bash脚本，用于测试和等待TCP主机和端口的可用性](https://github.com/vishnubob/wait-for-it) 
 - [各种滑动验证码识别 [腾讯云] [易盾] [Vaptcha] [Geetest] [极验] 各种网站破解 lengyue.me](https://github.com/leng-yue/Lengyue-Vcode) 
