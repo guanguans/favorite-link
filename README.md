@@ -38,6 +38,7 @@
 - [2018 JDDC对话大赛亚军解决方案](https://github.com/Dikea/Dialog-System-with-Task-Retrieval-and-Seq2seq) 
 - [欢迎来到以太坊Wiki！](https://github.com/ethereum/wiki/wiki) 
 - [Opulence是一个PHP Web应用程序框架，它简化了创建和维护安全，可扩展的网站的难度部分。](https://github.com/opulencephp/Opulence) 
+- [简单快速的HTML解析器](https://github.com/Imangazaliev/DiDOM) 
 ### March 8, 2019 
 - [该软件包为Laravel 5.8提供了与FFmpeg的集成。文件的存储由Laravel的Filesystem处理。](https://github.com/pascalbaljetmedia/laravel-ffmpeg) 
 - [最适合入门的laravel初级教程](https://github.com/baijunyao/laravel-course) 
