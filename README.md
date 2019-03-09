@@ -34,6 +34,7 @@
 
 ### March 9, 2019 
 - [📒《Node.js实战：使用 Egg.js + Vue.js + Docker 构建渐进式、可持续集成与交付应用》 源码](https://github.com/MiYogurt/nodejs-shizhan) 
+- [第三方Jike app chrome扩展。](https://github.com/coder-ysj/jike-meow-2) 
 ### March 8, 2019 
 - [该软件包为Laravel 5.8提供了与FFmpeg的集成。文件的存储由Laravel的Filesystem处理。](https://github.com/pascalbaljetmedia/laravel-ffmpeg) 
 - [最适合入门的laravel初级教程](https://github.com/baijunyao/laravel-course) 
