@@ -43,6 +43,7 @@
 - [一个简单的静态http服务器](https://github.com/smart-dag/static_web) 
 - [使用电子和vue.js制作的简单RSS阅读器应用程序](https://github.com/mrgodhani/raven-reader) 
 - [FEX 面试问题](https://github.com/fex-team/interview-questions) 
+- [GLPI是一个免费资产和IT管理软件包，ITIL服务台，许可跟踪和软件审计。](https://github.com/glpi-project/glpi) 
 ### March 8, 2019 
 - [该软件包为Laravel 5.8提供了与FFmpeg的集成。文件的存储由Laravel的Filesystem处理。](https://github.com/pascalbaljetmedia/laravel-ffmpeg) 
 - [最适合入门的laravel初级教程](https://github.com/baijunyao/laravel-course) 
