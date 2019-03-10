@@ -42,6 +42,7 @@
 - [Acme PHP是一个简单但非常可扩展的CLI加密器CLI客户端，可帮助您获取和续订免费的HTTPS证书。](https://github.com/acmephp/acmephp) 
 - [PHP多版本安装和管理](https://github.com/phpenv/phpenv) 
 - [超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK](https://github.com/anhkgg/SuperWeChatPC) 
+- [YOURLS是一组PHP脚本，允许您运行自己的URL Shortener。您可以完全控制数据，详细统计信息，分析，插件等。它是免费和开源的。](https://github.com/YOURLS/YOURLS) 
 ### March 9, 2019 
 - [📒《Node.js实战：使用 Egg.js + Vue.js + Docker 构建渐进式、可持续集成与交付应用》 源码](https://github.com/MiYogurt/nodejs-shizhan) 
 - [第三方Jike app chrome扩展。](https://github.com/coder-ysj/jike-meow-2) 
