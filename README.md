@@ -37,6 +37,7 @@
 ### March 11, 2019 
 - [Google Chrome（和Chromium）的扩展程序，可以反转网站的亮度。](https://github.com/abstiles/deluminate) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
+- [一个简单的服务器，用于每个Web套接字实时发送和接收消息。（包括时尚的web-ui）](https://github.com/gotify/server) 
 ### March 10, 2019 
 - [将Figma帧转换为Google幻灯片演示文稿🍭](https://github.com/alyssaxuu/figma-to-google-slides) 
 - [一个简单的包解析PHP中的Github Flavored Markdown](https://github.com/calebporzio/gitdown) 
