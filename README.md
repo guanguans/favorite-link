@@ -40,6 +40,7 @@
 - [一个简单的服务器，用于每个Web套接字实时发送和接收消息。（包括时尚的web-ui）](https://github.com/gotify/server) 
 - [精选的前端常见面试问题集](https://github.com/b3log/30-seconds-of-interviews-zh_CN) 
 - [Box应用程序简化了PHAR构建过程。](https://github.com/humbug/box) 
+- [CentOS 7 安装 LNMP 环境](https://github.com/maicong/LNMP/blob/master/README.zh-CN.md) 
 ### March 10, 2019 
 - [将Figma帧转换为Google幻灯片演示文稿🍭](https://github.com/alyssaxuu/figma-to-google-slides) 
 - [一个简单的包解析PHP中的Github Flavored Markdown](https://github.com/calebporzio/gitdown) 
