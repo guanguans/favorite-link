@@ -38,6 +38,7 @@
 ### March 12, 2019 
 - [使用Yii 2的嵌套集的高级树管理模块。](https://github.com/kartik-v/yii2-tree-manager) 
 - [保持应用程序设置同步（OS X / Linux）](https://github.com/lra/mackup) 
+- [shell十三问--shell教程（markdown 版本）](https://github.com/wzb56/13_questions_of_shell) 
 ### March 11, 2019 
 - [Google Chrome（和Chromium）的扩展程序，可以反转网站的亮度。](https://github.com/abstiles/deluminate) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
