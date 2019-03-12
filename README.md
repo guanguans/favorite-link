@@ -42,6 +42,7 @@
 - [SecurityManageFramwork是一款适用于企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。 本平台旨在帮助安全人员少，业务线繁杂，周期巡检困难，自动化程度低的甲方，更好的实现企业内部的安全管理](https://github.com/zhaoweiho/SecurityManageFramwork) 
 - [rust style and philosophy](https://github.com/spacejam/elements-of-rust) 
 - [PHP的轻量级HTTP客户端](https://github.com/kriswallsmith/Buzz) 
+- [通过SSH擦除并重新安装正在运行的Linux系统，而无需重新启动。你知道你想。](https://github.com/marcan/takeover.sh) 
 ### March 11, 2019 
 - [Google Chrome（和Chromium）的扩展程序，可以反转网站的亮度。](https://github.com/abstiles/deluminate) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
