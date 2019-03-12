@@ -43,6 +43,7 @@
 - [rust style and philosophy](https://github.com/spacejam/elements-of-rust) 
 - [PHP的轻量级HTTP客户端](https://github.com/kriswallsmith/Buzz) 
 - [通过SSH擦除并重新安装正在运行的Linux系统，而无需重新启动。你知道你想。](https://github.com/marcan/takeover.sh) 
+- [大家一起被捕吧计划](https://github.com/hamukazu/lets-get-arrested/blob/master/README.zh_hans.md) 
 ### March 11, 2019 
 - [Google Chrome（和Chromium）的扩展程序，可以反转网站的亮度。](https://github.com/abstiles/deluminate) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
