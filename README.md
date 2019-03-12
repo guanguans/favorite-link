@@ -46,6 +46,7 @@
 - [大家一起被捕吧计划](https://github.com/hamukazu/lets-get-arrested/blob/master/README.zh_hans.md) 
 - [编译器。对于PHP](https://github.com/ircmaxell/php-compiler) 
 - [PHP中的PHP VM实现](https://github.com/ircmaxell/PHPPHP) 
+- [用于生成随机数和字符串的库](https://github.com/ircmaxell/RandomLib) 
 ### March 11, 2019 
 - [Google Chrome（和Chromium）的扩展程序，可以反转网站的亮度。](https://github.com/abstiles/deluminate) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
