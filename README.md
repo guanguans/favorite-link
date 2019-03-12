@@ -47,6 +47,7 @@
 - [编译器。对于PHP](https://github.com/ircmaxell/php-compiler) 
 - [PHP中的PHP VM实现](https://github.com/ircmaxell/PHPPHP) 
 - [用于生成随机数和字符串的库](https://github.com/ircmaxell/RandomLib) 
+- [Easily manage git hooks in your composer config](https://github.com/BrainMaestro/composer-git-hooks) 
 ### March 11, 2019 
 - [Google Chrome（和Chromium）的扩展程序，可以反转网站的亮度。](https://github.com/abstiles/deluminate) 
 - [在本地运行Kubernetes](https://github.com/kubernetes/minikube) 
