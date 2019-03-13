@@ -43,6 +43,7 @@
 - [rust 网络代理和隧道（VPN）](https://github.com/LuoZijun/exodus) 
 - [ngx_php7  - 用于nginx模块的嵌入式php7脚本语言。ngx_php的主线开发版本。](https://github.com/rryqszq4/ngx_php7) 
 - [旨在通过分析企业信息安全建设过程中的心路历程](https://github.com/ym2011/SecurityMind) 
+- [PSR-7和PSR-15 OpenAPI验证中间件](https://github.com/hkarlstrom/openapi-validation-middleware) 
 ### March 12, 2019 
 - [使用Yii 2的嵌套集的高级树管理模块。](https://github.com/kartik-v/yii2-tree-manager) 
 - [保持应用程序设置同步（OS X / Linux）](https://github.com/lra/mackup) 
