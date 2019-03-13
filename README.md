@@ -46,6 +46,7 @@
 - [PSR-7和PSR-15 OpenAPI验证中间件](https://github.com/hkarlstrom/openapi-validation-middleware) 
 - [轻松安全地管理crontab文件](https://github.com/alseambusher/crontab-ui) 
 - [下一代ShadowsocksX](https://github.com/qinyuhang/ShadowsocksX-NG-R) 
+- [开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理(](https://github.com/openspug/spug) 
 ### March 12, 2019 
 - [使用Yii 2的嵌套集的高级树管理模块。](https://github.com/kartik-v/yii2-tree-manager) 
 - [保持应用程序设置同步（OS X / Linux）](https://github.com/lra/mackup) 
