@@ -49,6 +49,7 @@
 - [开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理(](https://github.com/openspug/spug) 
 - [Jamlee/coroutine: php nonpreemptive multipletasking](https://github.com/Jamlee/coroutine) 
 - [rust 一个模块化工具包，用于使用Rust和Wasm构建快速，可靠的Web应用程序和库](https://github.com/rustwasm/gloo) 
+- [rust 从命令行轻松安全地共享文件。功能齐全的Firefox发送客户端。](https://github.com/timvisee/ffsend) 
 ### March 12, 2019 
 - [使用Yii 2的嵌套集的高级树管理模块。](https://github.com/kartik-v/yii2-tree-manager) 
 - [保持应用程序设置同步（OS X / Linux）](https://github.com/lra/mackup) 
