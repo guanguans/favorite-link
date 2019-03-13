@@ -41,6 +41,7 @@
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
 - [QueryPHP 是一款现代化的高性能 PHP 7 常驻框架](https://github.com/hunzhiwange/queryphp/blob/master/README-zh-CN.md) 
 - [rust 网络代理和隧道（VPN）](https://github.com/LuoZijun/exodus) 
+- [ngx_php7  - 用于nginx模块的嵌入式php7脚本语言。ngx_php的主线开发版本。](https://github.com/rryqszq4/ngx_php7) 
 ### March 12, 2019 
 - [使用Yii 2的嵌套集的高级树管理模块。](https://github.com/kartik-v/yii2-tree-manager) 
 - [保持应用程序设置同步（OS X / Linux）](https://github.com/lra/mackup) 
