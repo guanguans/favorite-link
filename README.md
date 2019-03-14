@@ -57,6 +57,7 @@
 - [莲米粒是一个基于PHP+MySQL+微信小程序技术栈的、拥有用户登入、发布、修改、删除和转发信息、以及私信聊天模块的信息流应用。](https://github.com/easychen/lianmilite) 
 - [Laravel 5 系列入门教程 https://github.com/johnlui/Learn-Lara…](https://github.com/johnlui/Learn-Laravel-5) 
 - [基于php和bash的离线下载神器 http://goxz.gq](https://github.com/ilanyu/offline-download) 
+- [EleTeam开源项目-电商全套解决方案之PHP版-Shop-for-PHP-Yii2。一个类似京东/天猫/淘宝的商城，有对应的APP支持，由EleTeam团队维护！](https://github.com/EleTeam/Shop-PHP-Yii2) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
