@@ -53,6 +53,7 @@
 - [Overlord是哔哩哔哩基于Go语言编写的memcache和redis&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。](https://github.com/bilibili/overlord) 
 - [github泄露扫描系统](https://github.com/MiSecurity/x-patrol) 
 - [为CentOS / Debian / Ubuntu自动安装Shadowsocks Server](https://github.com/teddysun/shadowsocks_install) 
+- [关于交叉编译Rust程序需要了解的一切！](https://github.com/japaric/rust-cross) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
