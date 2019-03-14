@@ -54,6 +54,7 @@
 - [github泄露扫描系统](https://github.com/MiSecurity/x-patrol) 
 - [为CentOS / Debian / Ubuntu自动安装Shadowsocks Server](https://github.com/teddysun/shadowsocks_install) 
 - [关于交叉编译Rust程序需要了解的一切！](https://github.com/japaric/rust-cross) 
+- [莲米粒是一个基于PHP+MySQL+微信小程序技术栈的、拥有用户登入、发布、修改、删除和转发信息、以及私信聊天模块的信息流应用。](https://github.com/easychen/lianmilite) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
