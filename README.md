@@ -61,6 +61,7 @@
 - [覃健祥的学习笔记，各种几十分钟入门的文档](https://github.com/qinjx/30min_guides) 
 - [回到阅读的乐趣 -  Arc90的可读性PHP端口](https://github.com/feelinglucky/php-readability) 
 - [基于GIT的应用程序的现代笔记，不需要本地GIT环境。gitnoteapp.com](https://github.com/zhaopengme/gitnote) 
+- [《大话设计模式》php版本](https://github.com/flyingalex/design-patterns-by-php) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
