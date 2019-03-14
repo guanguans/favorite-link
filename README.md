@@ -45,6 +45,7 @@
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security) 
 - [weblogic 漏洞扫描工具](https://github.com/kingkaki/weblogic-scan) 
 - [上传漏洞fuzz字典生成脚本](https://github.com/c0ny1/upload-fuzz-dic-builder) 
+- [OpenCV的PHP扩展](https://github.com/hihozhou/php-opencv) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
