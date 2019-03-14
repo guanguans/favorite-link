@@ -43,6 +43,7 @@
 - [PHP 7+付款处理库。它提供了处理付款所需的一切：信用卡和异地购买，订阅，支付等 - 由Forma-Pro提供](https://github.com/Payum/Payum) 
 - [用于PHP的HTML to Markdown转换器](https://github.com/Elephant418/Markdownify) 
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security) 
+- [weblogic 漏洞扫描工具](https://github.com/kingkaki/weblogic-scan) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
