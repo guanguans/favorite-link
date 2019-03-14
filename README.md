@@ -63,6 +63,7 @@
 - [基于GIT的应用程序的现代笔记，不需要本地GIT环境。gitnoteapp.com](https://github.com/zhaopengme/gitnote) 
 - [《大话设计模式》php版本](https://github.com/flyingalex/design-patterns-by-php) 
 - [纯PHP实现GraphQL协议](https://github.com/youshido-php/GraphQL) 
+- [阿波罗11号制导计算机（AGC）中指令模块（Comanche055）和登月模块（Luminary099）原始代码。](https://github.com/chrislgarry/Apollo-11/blob/master/README.zh_cn.md) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
