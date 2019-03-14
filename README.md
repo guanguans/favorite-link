@@ -59,6 +59,7 @@
 - [基于php和bash的离线下载神器 http://goxz.gq](https://github.com/ilanyu/offline-download) 
 - [EleTeam开源项目-电商全套解决方案之PHP版-Shop-for-PHP-Yii2。一个类似京东/天猫/淘宝的商城，有对应的APP支持，由EleTeam团队维护！](https://github.com/EleTeam/Shop-PHP-Yii2) 
 - [覃健祥的学习笔记，各种几十分钟入门的文档](https://github.com/qinjx/30min_guides) 
+- [回到阅读的乐趣 -  Arc90的可读性PHP端口](https://github.com/feelinglucky/php-readability) 
 ### March 13, 2019 
 - [SQL优化器和重写器](https://github.com/XiaoMi/soar) 
 - [一个简单的腾讯企业邮箱SDK](https://github.com/zengshiran/TencentExMail) 
