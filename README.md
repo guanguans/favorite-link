@@ -46,6 +46,7 @@
 - [用于与Pusher Channels HTTP API交互的PHP库](https://github.com/pusher/pusher-http-php) 
 - [💦 微博系统实现](https://github.com/CyC2018/MBlog) 
 - [基于 Laravel 可灵活自定义的的私人微信机器人，能够实现如：拜年群发自动回复、消息转发、防撤回、暗号加好友、甚至留言统计等功能](https://github.com/KEN-studio/laravel-wechat-robot-personal) 
+- [简单的闪光通知](https://github.com/laracasts/flash) 
 ### March 14, 2019 
 - [终端的系统监控仪表板](https://github.com/aksakalli/gtop) 
 - [Redis多线程叉](https://github.com/JohnSully/KeyDB) 
