@@ -50,6 +50,7 @@
 - [将PHP数据转换为JavaScript。](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) 
 - [Lua http restful api框架](https://github.com/horan-geeker/nana) 
 - [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial) 
+- [PHP cron表达式解析器可以解析CRON表达式，确定它是否应该运行，计算表达式的下一个运行日期，以及计算表达式的上一个运行日期。您可以跳过n个匹配日期来计算远期或过去的日期。](https://github.com/mtdowling/cron-expression) 
 ### March 14, 2019 
 - [终端的系统监控仪表板](https://github.com/aksakalli/gtop) 
 - [Redis多线程叉](https://github.com/JohnSully/KeyDB) 
