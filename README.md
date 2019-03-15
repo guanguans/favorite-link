@@ -49,6 +49,7 @@
 - [简单的闪光通知](https://github.com/laracasts/flash) 
 - [将PHP数据转换为JavaScript。](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) 
 - [Lua http restful api框架](https://github.com/horan-geeker/nana) 
+- [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial) 
 ### March 14, 2019 
 - [终端的系统监控仪表板](https://github.com/aksakalli/gtop) 
 - [Redis多线程叉](https://github.com/JohnSully/KeyDB) 
