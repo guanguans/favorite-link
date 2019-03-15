@@ -42,6 +42,7 @@
 - [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching) 
 - [WebSVN  - 在线subversion存储库浏览器](https://github.com/websvnphp/websvn) 
 - [用于定义状态的轻量级库](https://github.com/pwm/s-flow) 
+- [使用Vega，您可以使用JSON格式描述数据可视化，并使用HTML5 Canvas或SVG生成交互式视图。](https://github.com/vega/vega) 
 ### March 14, 2019 
 - [终端的系统监控仪表板](https://github.com/aksakalli/gtop) 
 - [Redis多线程叉](https://github.com/JohnSully/KeyDB) 
