@@ -53,6 +53,7 @@
 - [A web framework for Rust.](https://github.com/SergioBenitez/Rocket) 
 - [draw.io是一个在线图表网站，提供此项目中的源代码。](https://github.com/jgraph/drawio) 
 - [一个用于图像中人脸检测的开源库。人脸检测速度可达1500FPS。](https://github.com/ShiqiYu/libfacedetection) 
+- [代码信息的统计程序 ](https://github.com/chinanf-boy/tokei-zh#%E6%94%AF%E6%8C%81%E7%9A%84%E8%AF%AD%E8%A8%80) 
 ### March 15, 2019 
 - [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching) 
 - [WebSVN  - 在线subversion存储库浏览器](https://github.com/websvnphp/websvn) 
