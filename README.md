@@ -52,6 +52,7 @@
 - [PHP Redis Cache缓存策略技术](https://github.com/yeszao/php-redis-cache) 
 - [A web framework for Rust.](https://github.com/SergioBenitez/Rocket) 
 - [draw.io是一个在线图表网站，提供此项目中的源代码。](https://github.com/jgraph/drawio) 
+- [一个用于图像中人脸检测的开源库。人脸检测速度可达1500FPS。](https://github.com/ShiqiYu/libfacedetection) 
 ### March 15, 2019 
 - [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching) 
 - [WebSVN  - 在线subversion存储库浏览器](https://github.com/websvnphp/websvn) 
