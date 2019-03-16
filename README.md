@@ -48,6 +48,7 @@
 - [拼多多API SDK【拼多多开放平台】](https://github.com/justmd5/pinduoduo-sdk) 
 - [腾讯AI开放平台 【Tencent AI open platform】](https://github.com/justmd5/tencent-ai) 
 - [该库提供了围绕数学运算的工具。](https://github.com/hoaproject/Math) 
+- [php的公式解释器](https://github.com/mormat/php-formula-interpreter) 
 ### March 15, 2019 
 - [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching) 
 - [WebSVN  - 在线subversion存储库浏览器](https://github.com/websvnphp/websvn) 
