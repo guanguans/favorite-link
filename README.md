@@ -45,6 +45,7 @@
 - [Element UI 中国省市区级联数据](https://github.com/Plortinus/element-china-area-data) 
 - [linux内核网络协议栈源码阅读分析注释--带详尽中文分析注释以及相关流程分析调用注释，对理解分析内核协议栈源码很有帮助](https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack) 
 - [开源GraphQL CMS](https://github.com/birkir/prime) 
+- [拼多多API SDK【拼多多开放平台】](https://github.com/justmd5/pinduoduo-sdk) 
 ### March 15, 2019 
 - [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching) 
 - [WebSVN  - 在线subversion存储库浏览器](https://github.com/websvnphp/websvn) 
