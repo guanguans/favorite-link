@@ -43,6 +43,7 @@
 ### March 17, 2019 
 - [输入检查JSX for Rust](https://github.com/bodil/typed-html) 
 - [小练习让你习惯阅读和编写Rust代码！](https://github.com/rust-lang/rustlings) 
+- [最近对Go语言很感兴趣，所以整理相关资料，呵呵](https://github.com/wonderfo/wonderfogo) 
 ### March 16, 2019 
 - [OPNsense GUI，API和系统后端](https://github.com/opnsense/core) 
 - [基于Lua的跨平台构建实用程序](https://github.com/xmake-io/xmake) 
