@@ -57,6 +57,7 @@
 - [apache/logging-log4php](https://github.com/apache/logging-log4php) 
 - [用于检测用户浏览器的PHP类](https://github.com/cbschuld/Browser.php) 
 - [一个轻量级的PHP分页器](https://github.com/jasongrimes/php-paginator) 
+- [通过生成包含所有自动加载文件的单个PHP文件来优化类加载性能。](https://github.com/ClassPreloader/ClassPreloader) 
 ### March 17, 2019 
 - [输入检查JSX for Rust](https://github.com/bodil/typed-html) 
 - [小练习让你习惯阅读和编写Rust代码！](https://github.com/rust-lang/rustlings) 
