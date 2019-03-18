@@ -48,6 +48,7 @@
 - [🚰用于检测代码和测试中的内存泄漏的PHPUnit插件](https://github.com/Roave/no-leaks) 
 - [roave / dont是一个小型的PHP软件包，旨在实现设计防御性代码时的良好实践](https://github.com/Roave/Dont) 
 - [Github信息泄漏监控系统](https://github.com/VKSRC/Github-Monitor) 
+- [PHP7的简洁并行并发API](https://github.com/krakjoe/parallel) 
 ### March 17, 2019 
 - [输入检查JSX for Rust](https://github.com/bodil/typed-html) 
 - [小练习让你习惯阅读和编写Rust代码！](https://github.com/rust-lang/rustlings) 
