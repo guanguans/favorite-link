@@ -51,6 +51,7 @@
 - [PHP7的简洁并行并发API](https://github.com/krakjoe/parallel) 
 - [JSON-Schema +假数据生成器](https://github.com/json-schema-faker/json-schema-faker) 
 - [多框架编写器库安装程序 ](https://github.com/composer/installers) 
+- [Composer安装程序扩展程序](https://github.com/oomphinc/composer-installers-extender) 
 ### March 17, 2019 
 - [输入检查JSX for Rust](https://github.com/bodil/typed-html) 
 - [小练习让你习惯阅读和编写Rust代码！](https://github.com/rust-lang/rustlings) 
