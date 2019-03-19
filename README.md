@@ -60,6 +60,7 @@
 - [创建包含个人数据的zip文件](https://github.com/spatie/laravel-personal-data-export) 
 - [超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 ⚡️](https://github.com/skywind3000/awesome-cheatsheets) 
 - [超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) 
+- [tree-ql是一个laravel扩展,通过简单的配置构建出一套极具描述性,可读性,且没有任何冗余的高性能API.](https://github.com/weiwenhao/tree-ql/blob/master/README-CN.md) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
