@@ -59,6 +59,7 @@
 - [油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速](https://github.com/syhyz1990/baiduyun) 
 - [创建包含个人数据的zip文件](https://github.com/spatie/laravel-personal-data-export) 
 - [超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 ⚡️](https://github.com/skywind3000/awesome-cheatsheets) 
+- [超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
