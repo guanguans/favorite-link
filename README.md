@@ -47,6 +47,7 @@
 - [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
 - [一个完整的PHP操作工具](https://github.com/Anahkiasen/underscore-php) 
 - [*nix系统管理员测试问题和答案的集合。](https://github.com/trimstray/test-your-sysadmin-skills) 
+- [微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML](https://github.com/lyricat/wechat-format) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
