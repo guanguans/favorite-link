@@ -67,6 +67,7 @@
 - [A simple PHP framework 构建自己的PHP 框架代码示例](https://github.com/CraryPrimitiveMan/simple-framework) 
 - [NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序） nideshop.com](https://github.com/tumobi/nideshop-mini-program) 
 - [企业仓库管理系统](https://github.com/FeMiner/wms) 
+- [php仓库进销存](https://github.com/chenbool/wms) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
