@@ -56,6 +56,7 @@
 - [基于swoole实现的微信机器人，依赖vbot和微信网页版的功能，帮助管理微信群/聊天/踢人等](https://github.com/kcloze/swoole-bot) 
 - [在Composer运行时合并一个或多个其他composer.json文件](https://github.com/wikimedia/composer-merge-plugin) 
 - [🍀本地git统计信息，包括类似GitHub的贡献日历。](https://github.com/IonicaBizau/git-stats) 
+- [油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速](https://github.com/syhyz1990/baiduyun) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
