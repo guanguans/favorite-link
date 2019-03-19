@@ -51,6 +51,7 @@
 - [为比特币社区提供的一组资源。](https://github.com/mattiasgeniar/CommunityBitcoin) 
 - [📆使用HTML模板的jQuery日历插件](https://github.com/kylestetz/CLNDR) 
 - [LaraCMS 后台管理系统](https://github.com/wanglelecc/laracms) 
+- [LaraCMS Framework。—— LaraCMS 核心基础框架，配合 LaraCMS 使用。](https://github.com/wanglelecc/laracms-framework) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
