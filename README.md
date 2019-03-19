@@ -55,6 +55,7 @@
 - [PHP高级工程师面试题汇总(2018.05)](https://github.com/wanglelecc/interview) 
 - [基于swoole实现的微信机器人，依赖vbot和微信网页版的功能，帮助管理微信群/聊天/踢人等](https://github.com/kcloze/swoole-bot) 
 - [在Composer运行时合并一个或多个其他composer.json文件](https://github.com/wikimedia/composer-merge-plugin) 
+- [🍀本地git统计信息，包括类似GitHub的贡献日历。](https://github.com/IonicaBizau/git-stats) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
