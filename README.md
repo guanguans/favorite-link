@@ -44,6 +44,7 @@
 
 ### March 19, 2019 
 - [Caffe：深度学习的快速开放框架。](https://github.com/BVLC/caffe) 
+- [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
