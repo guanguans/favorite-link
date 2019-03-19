@@ -62,6 +62,7 @@
 - [超赞的 Linux 软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) 
 - [tree-ql是一个laravel扩展,通过简单的配置构建出一套极具描述性,可读性,且没有任何冗余的高性能API.](https://github.com/weiwenhao/tree-ql/blob/master/README-CN.md) 
 - [具有AutoCompletion和语法突出显示的MySQL终端客户端。](https://github.com/dbcli/mycli) 
+- [带有详细注释的 yii2 2.0.3 代码。喜欢的话请点star，欢迎大家一起来补充](https://github.com/CraryPrimitiveMan/yii2-2.0.3-annotated) 
 ### March 18, 2019 
 - [ClickHouse是一个用于大数据的免费分析DBMS。](https://github.com/yandex/ClickHouse) 
 - [在浏览器中播放生成音乐的平台。](https://github.com/generative-music/generative.fm) 
