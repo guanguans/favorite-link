@@ -51,6 +51,7 @@
 - [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) 
 - [开源Spotify客户端库](https://github.com/librespot-org/librespot) 
 - [easywechat for thinkphp支持](https://github.com/qiqizjl/think-wechat) 
+- [一个免费且符合道德标准的照片共享平台，由ActivityPub联合提供支持。](https://github.com/pixelfed/pixelfed) 
 ### March 19, 2019 
 - [Caffe：深度学习的快速开放框架。](https://github.com/BVLC/caffe) 
 - [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
