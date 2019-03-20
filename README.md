@@ -47,6 +47,7 @@
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
 - [JIKEFM - 即刻电台📻](https://github.com/0neSe7en/jikefm) 
+- [php开源商城系统，基于swoole、easyswoole框架开发](https://github.com/mojisrc/fashop) 
 ### March 19, 2019 
 - [Caffe：深度学习的快速开放框架。](https://github.com/BVLC/caffe) 
 - [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
