@@ -46,6 +46,7 @@
 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
+- [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
 ### March 20, 2019 
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
