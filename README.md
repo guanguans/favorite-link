@@ -55,6 +55,7 @@
 - [Golang实现的基于beego框架的接口在线文档管理系统](https://github.com/lifei6671/mindoc) 
 - [根据Mix清单添加预加载和预取链接](https://github.com/spatie/laravel-mix-preload) 
 - [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region) 
+- [Sublime Text颜色方案已准备好用于下一代JavaScript语法](https://github.com/voronianski/oceanic-next-color-scheme) 
 ### March 20, 2019 
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
