@@ -48,6 +48,7 @@
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
 - [一种用于企业自托管的开源文档管理工具。](https://github.com/thebluedoc/bluedoc) 
+- [Python中的张量和动态神经网络，具有强大的GPU加速功能](https://github.com/pytorch/pytorch) 
 ### March 20, 2019 
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
