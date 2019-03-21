@@ -51,6 +51,7 @@
 - [Python中的张量和动态神经网络，具有强大的GPU加速功能](https://github.com/pytorch/pytorch) 
 - [中文近义词工具包](https://github.com/huyingxi/Synonyms) 
 - [使用PHP Annotations声明GraphQL API](https://github.com/thecodingmachine/graphqlite) 
+- [懒人博客，前后端分离，Vue+Beego Restful api 开箱即用，部署简单，后台管理系统简洁美观。](https://github.com/sinksmell/LanBlog) 
 ### March 20, 2019 
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
