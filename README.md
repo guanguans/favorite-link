@@ -57,6 +57,7 @@
 - [准确率99.9%的ip地址定位库](https://github.com/zoujingli/ip2region) 
 - [Sublime Text颜色方案已准备好用于下一代JavaScript语法](https://github.com/voronianski/oceanic-next-color-scheme) 
 - [中文开源字体集 ](https://github.com/DrXie/OSFCC) 
+- [轻松存储一些值](https://github.com/spatie/valuestore) 
 ### March 20, 2019 
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
