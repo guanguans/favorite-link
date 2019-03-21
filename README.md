@@ -52,6 +52,7 @@
 - [中文近义词工具包](https://github.com/huyingxi/Synonyms) 
 - [使用PHP Annotations声明GraphQL API](https://github.com/thecodingmachine/graphqlite) 
 - [懒人博客，前后端分离，Vue+Beego Restful api 开箱即用，部署简单，后台管理系统简洁美观。](https://github.com/sinksmell/LanBlog) 
+- [Golang实现的基于beego框架的接口在线文档管理系统](https://github.com/lifei6671/mindoc) 
 ### March 20, 2019 
 - [PHP阿里巴巴云客户端的官方存储库](https://github.com/aliyun/openapi-sdk-php-client) 
 - [Go 每日阅读和 Go 夜读 ](https://github.com/developer-learning/reading-go) 
