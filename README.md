@@ -55,6 +55,7 @@
 - [这可能是yii2中最好用的微信SDK](https://github.com/abei2017/yii2-wx) 
 - [在渗透测试中快速检测常见中间件、组件的高危漏洞。](https://github.com/1120362990/vulnerability-list) 
 - [在线子域名信息收集工具](https://github.com/0xbug/orangescan) 
+- [在线子域名信息收集工具](https://github.com/c0ny1/pwcracker) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
