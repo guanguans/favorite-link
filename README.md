@@ -61,6 +61,7 @@
 - [📦MacApp Store命令行界面](https://github.com/mas-cli/mas) 
 - [Hexo的管理界面](https://github.com/jaredly/hexo-admin) 
 - [Beanstalk队列服务器的管理控制台](https://github.com/ptrofimov/beanstalk_console) 
+- [从Laravel应用程序创建静态站点包](https://github.com/spatie/laravel-export) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
