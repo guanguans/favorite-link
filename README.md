@@ -58,6 +58,7 @@
 - [在线子域名信息收集工具](https://github.com/c0ny1/pwcracker) 
 - [Laravel GraphQL Server](https://github.com/nuwave/lighthouse) 
 - [这是ZipArchive方法的一个简单包装器，带有一些方便的功能](https://github.com/Chumper/Zipper) 
+- [📦MacApp Store命令行界面](https://github.com/mas-cli/mas) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
