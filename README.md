@@ -64,6 +64,7 @@
 - [从Laravel应用程序创建静态站点包](https://github.com/spatie/laravel-export) 
 - [您的基础架构作为GraphQL服务](https://github.com/linkorb/infra) 
 - [根据Mix清单添加预加载和预取链接](https://github.com/spatie/laravel-mix-preload) 
+- [XHProf是PHP的功能级分层分析器，具有简单的基于HTML的用户界面。](https://github.com/phacility/xhprof) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
