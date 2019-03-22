@@ -53,6 +53,7 @@
 - [rust 协程库](https://github.com/Xudong-Huang/may) 
 - [从markdown文件创建书籍。像Gitbook一样，但在Rust中实现](https://github.com/rust-lang-nursery/mdBook) 
 - [这可能是yii2中最好用的微信SDK](https://github.com/abei2017/yii2-wx) 
+- [在渗透测试中快速检测常见中间件、组件的高危漏洞。](https://github.com/1120362990/vulnerability-list) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
