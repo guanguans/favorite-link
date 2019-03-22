@@ -51,6 +51,7 @@
 - [阿里云容器服务持续交付](https://github.com/AliyunContainerService/DevOps) 
 - [记录成长的过程](https://github.com/berwin/Blog) 
 - [rust 协程库](https://github.com/Xudong-Huang/may) 
+- [从markdown文件创建书籍。像Gitbook一样，但在Rust中实现](https://github.com/rust-lang-nursery/mdBook) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
