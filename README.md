@@ -69,6 +69,7 @@
 - [在MongoDB上构建的XHProf数据的图形界面](https://github.com/perftools/xhgui) 
 - [适用于PHP 7的现代XHProf兼容PHP Profiler](https://github.com/tideways/php-xhprof-extension) 
 - [用于macOS上的v2ray-core的GUI](https://github.com/Cenmrev/V2RayX) 
+- [V2rayU,基于v2ray核心的mac版客户端,](https://github.com/yanue/V2rayU) 
 ### March 21, 2019 
 - [下一代前端统一框架 - 支持桌面Web、移动H5和小程序](https://github.com/Tencent/omi) 
 - [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) 
