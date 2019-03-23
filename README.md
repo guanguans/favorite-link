@@ -50,6 +50,7 @@
 - [mac 极简的开发环境 valet](https://github.com/laravel/valet) 
 - [OBS Studio  - 用于直播和屏幕录制的免费开源软件](https://github.com/obsproject/obs-studio) 
 - [适用于Linux，BSD和OSX的快速轻量级日志处理器和转发器](https://github.com/fluent/fluent-bit) 
+- [🦔快速，轻量级和无架构的搜索后端。Elasticsearch的替代方案，可在几MB的RAM上运行。](https://github.com/valeriansaliou/sonic) 
 ### March 22, 2019 
 - [Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码](https://github.com/studygolang/studygolang) 
 - [GCTT Go中文网翻译组。](https://github.com/studygolang/GCTT) 
