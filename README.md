@@ -52,6 +52,7 @@
 - [Web版中国菜刀](https://github.com/imjdl/WCnife) 
 - [一个轻量级的包消息](https://github.com/spatie/laravel-flash) 
 - [微信mac/ipad协议，webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等](https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple) 
+- [轻松地异步运行代码](https://github.com/spatie/async) 
 ### March 23, 2019 
 - [mac 极简的开发环境 valet](https://github.com/laravel/valet) 
 - [OBS Studio  - 用于直播和屏幕录制的免费开源软件](https://github.com/obsproject/obs-studio) 
