@@ -49,6 +49,7 @@
 
 ### March 24, 2019 
 - [Ludwig是一个基于TensorFlow构建的工具箱，可以训练和测试深度学习模型，而无需编写代码。](https://github.com/uber/ludwig) 
+- [Web版中国菜刀](https://github.com/imjdl/WCnife) 
 ### March 23, 2019 
 - [mac 极简的开发环境 valet](https://github.com/laravel/valet) 
 - [OBS Studio  - 用于直播和屏幕录制的免费开源软件](https://github.com/obsproject/obs-studio) 
