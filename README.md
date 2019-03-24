@@ -54,6 +54,7 @@
 - [微信mac/ipad协议，webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等](https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple) 
 - [轻松地异步运行代码](https://github.com/spatie/async) 
 - [该项目的目的是在PHP中创建DNS记录的抽象对象表示。该项目包含代表DNS对象的各种类（如Zone，ResourceRecord和各种RData类型），用于将BIND样式文本文件转换为PHP对象的解析器，以及用于创建美观BIND记录的构建器。](https://github.com/Badcow/DNS) 
+- [此组件为Intl扩展（IDN功能）提供部分本机PHP实现。](https://github.com/symfony/polyfill-intl-idn) 
 ### March 23, 2019 
 - [mac 极简的开发环境 valet](https://github.com/laravel/valet) 
 - [OBS Studio  - 用于直播和屏幕录制的免费开源软件](https://github.com/obsproject/obs-studio) 
