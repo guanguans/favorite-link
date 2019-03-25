@@ -51,6 +51,7 @@
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
+- [用NodeJS解析纯真IP库(QQwry.dat) 支持IP段查询](https://github.com/cnwhy/lib-qqwry) 
 ### March 24, 2019 
 - [Ludwig是一个基于TensorFlow构建的工具箱，可以训练和测试深度学习模型，而无需编写代码。](https://github.com/uber/ludwig) 
 - [Web版中国菜刀](https://github.com/imjdl/WCnife) 
