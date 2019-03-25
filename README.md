@@ -54,6 +54,7 @@
 - [用NodeJS解析纯真IP库(QQwry.dat) 支持IP段查询](https://github.com/cnwhy/lib-qqwry) 
 - [前端小测答题收集专用](https://github.com/zhangxinxu/quiz) 
 - [GoAccess是一个实时网络日志分析器和交互式查看器，可以在* nix系统中的终端或通过浏览器运行。](https://github.com/allinurl/goaccess) 
+- [将Nginx log_format转换为goaccess配置文件](https://github.com/stockrt/nginx2goaccess) 
 ### March 24, 2019 
 - [Ludwig是一个基于TensorFlow构建的工具箱，可以训练和测试深度学习模型，而无需编写代码。](https://github.com/uber/ludwig) 
 - [Web版中国菜刀](https://github.com/imjdl/WCnife) 
