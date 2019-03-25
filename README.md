@@ -57,6 +57,7 @@
 - [将Nginx log_format转换为goaccess配置文件](https://github.com/stockrt/nginx2goaccess) 
 - [自动SQL注入和数据库接管工具](https://github.com/sqlmapproject/sqlmap) 
 - [用于（反）序列化任何复杂数据的库（支持XML，JSON，YAML）](https://github.com/schmittjoh/serializer) 
+- [人人都能学会的 WordPress 实战课](https://github.com/bestony/EasyWordPressBook) 
 ### March 24, 2019 
 - [Ludwig是一个基于TensorFlow构建的工具箱，可以训练和测试深度学习模型，而无需编写代码。](https://github.com/uber/ludwig) 
 - [Web版中国菜刀](https://github.com/imjdl/WCnife) 
