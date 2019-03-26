@@ -67,6 +67,7 @@
 - [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) 
 - [laravel 即插即用的b2c商城扩展。](https://github.com/SmallRuralDog/laravel-b2c-store) 
 - [这是PHP CodeSniffer的一组嗅探，用于检查PHP跨版本兼容性。它将允许您分析代码以与PHP的更高版本和更低版本兼容。](https://github.com/PHPCompatibility/PHPCompatibility) 
+- [带有可插拔后端的JWT登录微服务，如OAuth2，Google，Github，htpasswd，osiam，..](https://github.com/tarent/loginsrv) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
