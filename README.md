@@ -57,6 +57,7 @@
 - [Twill是Laravel的开源CMS工具包，可帮助开发人员快速创建直观，强大且灵活的自定义管理控制台。在Spectrum上与我们和其他人聊天！](https://github.com/area17/twill) 
 - [用于swarrot集成的symfony包](https://github.com/swarrot/SwarrotBundle) 
 - [Debian，Ubuntu和CentOS的OpenVPN road warrior安装程序。](https://github.com/Nyr/openvpn-install) 
+- [用于管理Kong网关的仪表板](https://github.com/PGBI/kong-dashboard#) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
