@@ -70,6 +70,7 @@
 - [带有可插拔后端的JWT登录微服务，如OAuth2，Google，Github，htpasswd，osiam，..](https://github.com/tarent/loginsrv) 
 - [Netflix Eureka服务器的PHP客户端。支持所有Eureka REST操作。](https://github.com/PavelLoparev/php-eureka-client) 
 - [（Spring Cloud）Netflix Eureka服务注册和发现的PHP客户端。http://hamid.work](https://github.com/piwvh/php-eureka) 
+- [图说设计模式](https://github.com/me115/design_patterns) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
