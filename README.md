@@ -75,6 +75,7 @@
 - [PHP7扩展开发 系列教程](https://github.com/owenliang/php7-extension-explore) 
 - [当你ssh时带上你的.bashrc，.vimrc等](https://github.com/Russell91/sshrc) 
 - [每周为你提供高质量的关于小程序、h5等前端领域的文章和项目](https://github.com/Tnfe/TNFE-Weekly) 
+- [北京大学课程资料整理](https://github.com/lib-pku/libpku) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
