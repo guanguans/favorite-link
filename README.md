@@ -54,6 +54,7 @@
 - [本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。](https://github.com/ivmm/Student-resources) 
 - [CrazyCodes's blog](https://github.com/CrazyCodes/Blog) 
 - [用于消费来自任何Broker的消息的lib](https://github.com/swarrot/swarrot) 
+- [Twill是Laravel的开源CMS工具包，可帮助开发人员快速创建直观，强大且灵活的自定义管理控制台。在Spectrum上与我们和其他人聊天！](https://github.com/area17/twill) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
