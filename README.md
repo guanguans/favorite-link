@@ -65,6 +65,7 @@
 - [微小的WebSockets](https://github.com/uNetworking/uWebSockets) 
 - [php富文本过滤类，XSS Filter ](https://github.com/phith0n/XssHtml) 
 - [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) 
+- [laravel 即插即用的b2c商城扩展。](https://github.com/SmallRuralDog/laravel-b2c-store) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
