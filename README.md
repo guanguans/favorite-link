@@ -48,6 +48,9 @@
 
 
 
+
+### March 26, 2019 
+- [Pornhub模式标志生成器](https://github.com/bestony/logoly) 
 ### March 25, 2019 
 - [phan是一个静态语法兼容性工具，它可以分析语法是否符合指定php版本，并将结果输出到指定文件。](https://github.com/phan/phan) 
 - [一款离线，高颜值的🍅工作软件，二十五分钟专注做一件事⭐️。](https://github.com/HelKyle/focus) 
