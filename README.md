@@ -55,6 +55,7 @@
 - [用于golang的socket.io库，一个实时应用程序框架。](https://github.com/googollee/go-socket.io) 
 - [Golang gRPC中间件：拦截器链接，身份验证，日志记录，重试等。](https://github.com/grpc-ecosystem/go-grpc-middleware) 
 - [《Flutter实战》电子书](https://github.com/flutterchina/flutter-in-action) 
+- [一本侧重于Go语言语法和语义的编程解释和指导书 ](https://github.com/golang101/golang101) 
 ### March 26, 2019 
 - [Pornhub模式标志生成器](https://github.com/bestony/logoly) 
 - [本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。](https://github.com/ivmm/Student-resources) 
