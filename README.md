@@ -59,6 +59,7 @@
 - [检测PHP代码中的设计模式](https://github.com/Halleck45/DesignPatternDetector) 
 - [具有令牌桶算法的PHP速率限制库](https://github.com/touhonoob/RateLimit) 
 - [本项目致力于收集网上公开来源的威胁情报，主要关注信誉类威胁情报（如IP/域名等），以及事件类威胁情报。](https://github.com/scu-igroup/Ti_Collector) 
+- [基于SQLite构建的轻量级分布式关系数据库。](https://github.com/rqlite/rqlite) 
 ### March 27, 2019 
 - [通过与GitHub和GitLab的webhook集成增强Composer Satis](https://github.com/terramar-labs/packages) 
 - [用于golang的socket.io库，一个实时应用程序框架。](https://github.com/googollee/go-socket.io) 
