@@ -61,6 +61,7 @@
 - [本项目致力于收集网上公开来源的威胁情报，主要关注信誉类威胁情报（如IP/域名等），以及事件类威胁情报。](https://github.com/scu-igroup/Ti_Collector) 
 - [基于SQLite构建的轻量级分布式关系数据库。](https://github.com/rqlite/rqlite) 
 - [Mojito 是一个基于 Laravel, Vue, Element构建的后台管理系统。](https://github.com/moell-peng/mojito) 
+- [Node.js 应用线上/线下故障、压测问题和性能调优指南手册（更新中...）](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) 
 ### March 27, 2019 
 - [通过与GitHub和GitLab的webhook集成增强Composer Satis](https://github.com/terramar-labs/packages) 
 - [用于golang的socket.io库，一个实时应用程序框架。](https://github.com/googollee/go-socket.io) 
