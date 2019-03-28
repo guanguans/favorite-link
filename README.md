@@ -54,6 +54,7 @@
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
+- [一个还不错的图床工具，支持Mac和Win、支持压缩后上传、添加图片或文字水印、多张同时上传、同时上传到多个云、右击图片文件上传、快捷键上传剪贴板截图、提供Mweb接口，目前支持的云有：七牛、阿里、腾讯、网易、京东、百度、又拍、青云、Ucloud、sm.ms、Imgur！](https://github.com/xiebruce/PicUploader) 
 ### March 27, 2019 
 - [通过与GitHub和GitLab的webhook集成增强Composer Satis](https://github.com/terramar-labs/packages) 
 - [用于golang的socket.io库，一个实时应用程序框架。](https://github.com/googollee/go-socket.io) 
