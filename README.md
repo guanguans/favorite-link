@@ -59,6 +59,7 @@
 - [kubernetes1.13集群部署文档，包括kubernetes、dashboard、coredns、ingress、metrics、ceph rbd、helm、harbor、jenkins等相关组件部署文档](https://github.com/minminmsn/k8s1.13) 
 - [黑箱应用故障注入和资源发现的攻击模式和原语词典。](https://github.com/fuzzdb-project/fuzzdb) 
 - [《把时间当作朋友》](https://github.com/xiaolai/time-as-a-friend) 
+- [《我也有话要说》—— 普通人的当众讲话技能](https://github.com/xiaolai/public-speaking-with-meaning) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
