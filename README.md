@@ -67,6 +67,7 @@
 - [黑苹果长期维护机型EFI及安装教程整理](https://github.com/daliansky/Hackintosh) 
 - [Google Chrome扩展程序，用于修改Google Chrome 55+的页面默认编码。](https://github.com/jinliming2/Chrome-Charset) 
 - [轻松多个美丽的简历，创造你有史以来最好的简历！用Vue和LESS制作。](https://github.com/salomonelli/best-resume-ever) 
+- [科学上网插件的离线安装包储存在这里](https://github.com/hq450/fancyss_history_package) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
