@@ -65,6 +65,7 @@
 - [GitHub 上一些有趣的 HTML 小游戏进行了汉化](https://likexia.gitee.io/game/index.html) 
 - [通过python脚本修改本机id破解teamviewer(tv版本需要是14以下)](https://github.com/lyz8jj0/mac-teamviewer-crack) 
 - [黑苹果长期维护机型EFI及安装教程整理](https://github.com/daliansky/Hackintosh) 
+- [Google Chrome扩展程序，用于修改Google Chrome 55+的页面默认编码。](https://github.com/jinliming2/Chrome-Charset) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
