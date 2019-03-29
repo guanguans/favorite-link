@@ -57,6 +57,7 @@
 - [RedisLock for PHP是一种同步机制，用于在有许多exe线程的环境中强制限制对资源的访问...](https://github.com/cheprasov/php-redis-lock) 
 - [RedisLock for PHP是一种同步机制，用于在存在许多执行线程的环境中强制限制对资源的访问。锁旨在实施互斥并发控制策略。](https://github.com/cheprasov/php-redis-lock) 
 - [kubernetes1.13集群部署文档，包括kubernetes、dashboard、coredns、ingress、metrics、ceph rbd、helm、harbor、jenkins等相关组件部署文档](https://github.com/minminmsn/k8s1.13) 
+- [黑箱应用故障注入和资源发现的攻击模式和原语词典。](https://github.com/fuzzdb-project/fuzzdb) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
