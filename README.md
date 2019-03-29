@@ -63,6 +63,7 @@
 - [基于swoole开发的通信引擎，在线聊天平台，前端集成layerim框架，swoole基于eayswoole框架，异步连接池，多进程，异步任务，独立httperserver api，websocket推送，重构使用swoft-cloud 进行微服务架构](https://github.com/Lxido/swoole-im) 
 - [php实现的aes, des, 3des加密解密类](https://github.com/sjclijie/php-des) 
 - [GitHub 上一些有趣的 HTML 小游戏进行了汉化](https://likexia.gitee.io/game/index.html) 
+- [通过python脚本修改本机id破解teamviewer(tv版本需要是14以下)](https://github.com/lyz8jj0/mac-teamviewer-crack) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
