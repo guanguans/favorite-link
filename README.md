@@ -60,6 +60,7 @@
 - [黑箱应用故障注入和资源发现的攻击模式和原语词典。](https://github.com/fuzzdb-project/fuzzdb) 
 - [《把时间当作朋友》](https://github.com/xiaolai/time-as-a-friend) 
 - [《我也有话要说》—— 普通人的当众讲话技能](https://github.com/xiaolai/public-speaking-with-meaning) 
+- [基于swoole开发的通信引擎，在线聊天平台，前端集成layerim框架，swoole基于eayswoole框架，异步连接池，多进程，异步任务，独立httperserver api，websocket推送，重构使用swoft-cloud 进行微服务架构](https://github.com/Lxido/swoole-im) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
