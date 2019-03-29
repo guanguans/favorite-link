@@ -55,6 +55,7 @@
 ### March 29, 2019 
 - [一款简单易用、功能强大的混沌实验注入工具](https://github.com/chaosblade-io/chaosblade) 
 - [RedisLock for PHP是一种同步机制，用于在有许多exe线程的环境中强制限制对资源的访问...](https://github.com/cheprasov/php-redis-lock) 
+- [RedisLock for PHP是一种同步机制，用于在存在许多执行线程的环境中强制限制对资源的访问。锁旨在实施互斥并发控制策略。](https://github.com/cheprasov/php-redis-lock) 
 ### March 28, 2019 
 - [go 项目设计文件](https://github.com/golang/proposal) 
 - [JsonMapper  - 将嵌套的JSON结构映射到PHP类](https://github.com/cweiske/jsonmapper) 
