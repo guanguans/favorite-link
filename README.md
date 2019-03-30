@@ -61,6 +61,7 @@
 - [用于reCAPTCHA的PHP客户端库，这是一项免费服务，可以保护您的网站免受垃圾邮件和滥用。](https://github.com/google/recaptcha) 
 - [阿里巴巴nacos配置中心-PHP客户端](https://github.com/neatlife/php-nacos) 
 - [北京市预约挂号统一平台挂号小助手](https://github.com/iBreaker/bjguahao) 
+- [Yasumi是一个简单的PHP库，用于计算国定假日](https://github.com/azuyalabs/yasumi) 
 ### March 29, 2019 
 - [一款简单易用、功能强大的混沌实验注入工具](https://github.com/chaosblade-io/chaosblade) 
 - [RedisLock for PHP是一种同步机制，用于在有许多exe线程的环境中强制限制对资源的访问...](https://github.com/cheprasov/php-redis-lock) 
