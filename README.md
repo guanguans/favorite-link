@@ -63,6 +63,7 @@
 - [北京市预约挂号统一平台挂号小助手](https://github.com/iBreaker/bjguahao) 
 - [Yasumi是一个简单的PHP库，用于计算国定假日](https://github.com/azuyalabs/yasumi) 
 - [一个超级简单的PHP超全局变量管理扩展](https://github.com/yulonghu/sg/blob/master/README_ZH.md) 
+- [shell代码部署系统](https://github.com/yulonghu/codedeploy) 
 ### March 29, 2019 
 - [一款简单易用、功能强大的混沌实验注入工具](https://github.com/chaosblade-io/chaosblade) 
 - [RedisLock for PHP是一种同步机制，用于在有许多exe线程的环境中强制限制对资源的访问...](https://github.com/cheprasov/php-redis-lock) 
