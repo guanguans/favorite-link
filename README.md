@@ -58,6 +58,7 @@
 - [将html转换为图像，pdf或字符串](https://github.com/spatie/browsershot) 
 - [php 资源文件管理](https://github.com/kriswallsmith/assetic) 
 - [🔑 🔓免费开源的科学上网工具](https://github.com/Y1ran/Free-VPN-for-Coursera) 
+- [用于reCAPTCHA的PHP客户端库，这是一项免费服务，可以保护您的网站免受垃圾邮件和滥用。](https://github.com/google/recaptcha) 
 ### March 29, 2019 
 - [一款简单易用、功能强大的混沌实验注入工具](https://github.com/chaosblade-io/chaosblade) 
 - [RedisLock for PHP是一种同步机制，用于在有许多exe线程的环境中强制限制对资源的访问...](https://github.com/cheprasov/php-redis-lock) 
