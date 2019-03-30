@@ -55,6 +55,7 @@
 
 ### March 30, 2019 
 - [Linters Runner for Go。比gometalinter快5倍。漂亮的彩色输出。只能报告新问题。误报率较低。Yaml / toml配置。](https://github.com/golangci/golangci-lint) 
+- [将html转换为图像，pdf或字符串](https://github.com/spatie/browsershot) 
 ### March 29, 2019 
 - [一款简单易用、功能强大的混沌实验注入工具](https://github.com/chaosblade-io/chaosblade) 
 - [RedisLock for PHP是一种同步机制，用于在有许多exe线程的环境中强制限制对资源的访问...](https://github.com/cheprasov/php-redis-lock) 
