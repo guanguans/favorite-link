@@ -60,6 +60,7 @@
 - [Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。](https://github.com/kiddyuchina/Beanbun) 
 - [基于借方和贷方原则的余额会计（簿记）制度](https://github.com/illuminatech/balance) 
 - [swoole php多进程管理](https://github.com/zl8762385/ProcessManager) 
+- [缺少它的网站的RSS源](https://github.com/RSS-Bridge/rss-bridge) 
 ### March 31, 2019 
 - [Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。](https://github.com/jaywcjlove/linux-command) 
 - [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 
