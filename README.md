@@ -65,6 +65,7 @@
 - [使用REST API包装自定义SQL数据库](https://github.com/directus/api) 
 - [十一月二十二日 题：在哈尔滨（一） 在这每一个寒冷又寂寞的夜晚 我窝藏在温暖沁人的被子里 那诞生的每一个轻浮的梦境中 我都能梦见一个美丽的花园 我梦见我的至亲们 我梦见我的挚友们 我梦见我的那个她 大家在花园里 都在听我的至亲们谈论着一个人 讲着他小时候的可爱 讲着他中学的稚嫩 到高中的叛逆以及大学的成熟 大家默默地听着 而她只是默默又含蓄地笑着 亲人们面向我 欢笑地讲述着过往 朋友们有说有笑地拍拍 我不是太宽大的肩膀 她伸手轻柔地捋捋 我被微风吹拂开的发丝 我一面微笑着 一手自然地靠在她的肩膀上 贴着她的脸颊 触碰着她的耳畔与发梢 我们愉悦地沐浴在晚霞的余晖之中 沉浸在多姿多彩的霞光下 只有我望着天空呀在发着呆 我看到远处红色与褐色相接的地方 有一轮红色的太阳 身后蓝的发黑的天际上 …](https://github.com/lizeju3980/kkk) 
 - [百度云/百度网盘Python客户端](https://github.com/houtianze/bypy) 
+- [各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip](https://github.com/PeterDing/iScript) 
 ### March 31, 2019 
 - [Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。](https://github.com/jaywcjlove/linux-command) 
 - [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 
