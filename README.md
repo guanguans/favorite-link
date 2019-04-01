@@ -67,6 +67,7 @@
 - [百度云/百度网盘Python客户端](https://github.com/houtianze/bypy) 
 - [各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip](https://github.com/PeterDing/iScript) 
 - [Babun  - 你会喜爱的Windows shell](https://github.com/babun/babun) 
+- [restful-api风格接口 APP接口 APP接口权限 oauth2.0 接口版本管理 接口鉴权](https://github.com/Leslin/thinkphp5-restfulapi) 
 ### March 31, 2019 
 - [Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。](https://github.com/jaywcjlove/linux-command) 
 - [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 
