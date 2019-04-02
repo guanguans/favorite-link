@@ -67,6 +67,7 @@
 - [Flash OS映像到SD卡和USB驱动器，安全，轻松。](https://github.com/balena-io/etcher) 
 - [PHP中的Mustache实现。](https://github.com/bobthecow/mustache.php) 
 - [Nmap扫描、漏洞利用脚本 ](https://github.com/Rvn0xsy/nse_vuln) 
+- [弱口令,敏感目录,敏感文件等渗透测试常用攻击字典](https://github.com/Stardustsky/SaiDict) 
 ### April 1, 2019 
 - [Markdown 简体中文与西文混排要点](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) 
 - [Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。](https://github.com/kiddyuchina/Beanbun) 
