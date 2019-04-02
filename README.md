@@ -75,6 +75,7 @@
 - [PHP中异步编程的资源列表](https://github.com/elazar/asynchronous-php) 
 - [生成identicon头像,头像图片生成](https://github.com/valiner/identicon-avatar) 
 - [PHP开发人员的一些工具。](https://github.com/ilya-dev/belt) 
+- [ 客户管理的前沿创新-悟空CRM](https://github.com/72crm/72crm) 
 ### April 1, 2019 
 - [Markdown 简体中文与西文混排要点](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) 
 - [Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。](https://github.com/kiddyuchina/Beanbun) 
