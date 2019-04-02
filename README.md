@@ -62,6 +62,7 @@
 - [生成真正的随机用户代理](https://github.com/joecampo/random-user-agent) 
 - [Mercure Component允许使用Mercure协议轻松地将更新推送到Web浏览器和其他HTTP客户端。](https://github.com/symfony/mercure) 
 - [测试技术资源](https://github.com/thanksdanny/tester-resource) 
+- [Rust的Actor框架](https://github.com/actix/actix) 
 ### April 1, 2019 
 - [Markdown 简体中文与西文混排要点](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) 
 - [Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。](https://github.com/kiddyuchina/Beanbun) 
