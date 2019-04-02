@@ -73,6 +73,7 @@
 - [暗网中文网监控爬虫](https://github.com/aoii103/DarkNet_ChineseTrading) 
 - [适用于PHP的腾讯云API 3.0 SDK](https://github.com/TencentCloud/tencentcloud-sdk-php) 
 - [PHP中异步编程的资源列表](https://github.com/elazar/asynchronous-php) 
+- [生成identicon头像,头像图片生成](https://github.com/valiner/identicon-avatar) 
 ### April 1, 2019 
 - [Markdown 简体中文与西文混排要点](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en) 
 - [Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性，基于 Workerman。](https://github.com/kiddyuchina/Beanbun) 
