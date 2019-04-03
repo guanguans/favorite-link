@@ -78,6 +78,7 @@
 - [一个简洁优雅的图像识别转换文字的php类库, 须安装tesseract-ocr](https://github.com/fizzday/OcrPHP/blob/master/README-zh_cn.md) 
 - [Tesseract开源OCR引擎（主存储库）](https://github.com/tesseract-ocr/tesseract) 
 - [数据字典自动生成文档 ](https://github.com/jormin/laravel-ddoc) 
+- [📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇](https://github.com/wx-chevalier/Web-Series) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
