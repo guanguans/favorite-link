@@ -74,6 +74,7 @@
 - [基于Redis实现的延时队列服务，提供队列创建、删除及消息发送、接收、删除的操作。](https://github.com/timerqueue/server) 
 - [phpstorm插件,用于thinkphp5框架的视图,配置,路由,数据库,模型智能提示和跳转](https://github.com/fw6669998/Thinkphp5-Plugin) 
 - [Web版中国菜刀](https://github.com/imjdl/WCnife) 
+- [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
