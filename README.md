@@ -64,6 +64,7 @@
 - [自己动手打造一个属于自己的直播间（视频直播、聊天室、弹幕、多端适配）](https://github.com/jack-hoo/LiveRoomDemo_Client) 
 - [自己动手打造一个属于自己的直播间（视频直播、聊天室、弹幕、多端适配）](https://github.com/jack-hoo/LiveRoomDemo_Server) 
 - [全栈Web开发笔记。](https://github.com/8483/notes) 
+- [纯 Go 写的直播服务器](https://github.com/gwuhaolin/livego) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
