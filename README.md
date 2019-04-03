@@ -76,6 +76,7 @@
 - [Web版中国菜刀](https://github.com/imjdl/WCnife) 
 - [一天 30 秒 ⏱ 一段代码 ✍️ 一个场景 🖼](https://github.com/pushmetop/30-seconds-for-everyday) 
 - [一个简洁优雅的图像识别转换文字的php类库, 须安装tesseract-ocr](https://github.com/fizzday/OcrPHP/blob/master/README-zh_cn.md) 
+- [Tesseract开源OCR引擎（主存储库）](https://github.com/tesseract-ocr/tesseract) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
