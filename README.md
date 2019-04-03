@@ -66,6 +66,7 @@
 - [全栈Web开发笔记。](https://github.com/8483/notes) 
 - [纯 Go 写的直播服务器](https://github.com/gwuhaolin/livego) 
 - [此项目用来提取收集以往泄露的密码中符合条件的强弱密码](https://github.com/r35tart/RW_Password) 
+- [C/C++面试基础知识总结 ](https://github.com/huihut/interview) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
