@@ -79,6 +79,7 @@
 - [Tesseract开源OCR引擎（主存储库）](https://github.com/tesseract-ocr/tesseract) 
 - [数据字典自动生成文档 ](https://github.com/jormin/laravel-ddoc) 
 - [📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇](https://github.com/wx-chevalier/Web-Series) 
+- [CrawlerDetect是一个PHP类，用于通过用户代理检测机器人/爬虫/蜘蛛](https://github.com/JayBizzle/Crawler-Detect) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
