@@ -69,6 +69,7 @@
 - [C/C++面试基础知识总结 ](https://github.com/huihut/interview) 
 - [下一代ls命令](https://github.com/Peltoche/lsd) 
 - [大学生知识共享池](https://github.com/HackGen/Knowledge-Sharp) 
+- [awesome window manager](https://github.com/awesomeWM/awesome) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
