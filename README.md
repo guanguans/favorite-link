@@ -63,6 +63,7 @@
 - [electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博登录，云歌单; 支持一键导入音乐平台歌单](https://github.com/sunzongzheng/music) 
 - [自己动手打造一个属于自己的直播间（视频直播、聊天室、弹幕、多端适配）](https://github.com/jack-hoo/LiveRoomDemo_Client) 
 - [自己动手打造一个属于自己的直播间（视频直播、聊天室、弹幕、多端适配）](https://github.com/jack-hoo/LiveRoomDemo_Server) 
+- [全栈Web开发笔记。](https://github.com/8483/notes) 
 ### April 2, 2019 
 - [猫抓 chrome媒体嗅探插件](https://github.com/xifangczy/cat-catch) 
 - [一个强大的Javascript库，用于捕获键盘输入。它没有依赖关系。](https://github.com/jaywcjlove/hotkeys) 
