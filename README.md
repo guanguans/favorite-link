@@ -61,6 +61,7 @@
 ### April 4, 2019 
 - [《React 学习之道》The Road to learn React (简体中文版)](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) 
 - [用于PHP和Symfony的浏览器测试和Web爬网库](https://github.com/symfony/panther) 
+- [PHP项目/库的代码质量见解](https://github.com/nunomaduro/phpinsights) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
