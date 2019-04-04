@@ -79,6 +79,7 @@
 - [Parser Reflection API  - 提供源代码分析，无需将类加载到PHP内存中](https://github.com/goaop/parser-reflection) 
 - [允许反映对象属性，包括继承属性和非公共属性](https://github.com/sebastianbergmann/object-reflector) 
 - [微信开发者工具(微信小程序)linux完美支持](https://github.com/cytle/wechat_web_devtools) 
+- [小米路由器Shell工具箱，本人自用，主要参考了小米的Misstar Tools制作，仅学习之用！](https://github.com/monlor/Monlor-Tools) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
