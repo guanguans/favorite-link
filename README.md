@@ -63,6 +63,7 @@
 - [用于PHP和Symfony的浏览器测试和Web爬网库](https://github.com/symfony/panther) 
 - [PHP项目/库的代码质量见解](https://github.com/nunomaduro/phpinsights) 
 - [通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google](https://github.com/anerg2046/sns_auth) 
+- [用于与Ubiquiti的UniFi Controller API交互的PHP API客户端类](https://github.com/Art-of-WiFi/UniFi-API-client) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
