@@ -86,6 +86,7 @@
 - [用于从PHP存档（PHAR）读取phar.io清单信息的组件](https://github.com/phar-io/manifest) 
 - [建立和管理Phars的申请。](https://github.com/box-project/box2) 
 - [Lisp到PHP编译器](https://github.com/Scriptor/pharen) 
+- [PHP 依赖注入，从此不再考虑加载顺序](https://www.cnblogs.com/painsOnline/p/5138806.html) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
