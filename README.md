@@ -82,6 +82,7 @@
 - [小米路由器Shell工具箱，本人自用，主要参考了小米的Misstar Tools制作，仅学习之用！](https://github.com/monlor/Monlor-Tools) 
 - [phar部署的例子](https://github.com/SegmentFault/phar-sample) 
 - [一个结构清晰的，易于维护的，现代的PHP Markdown解析器](https://github.com/SegmentFault/HyperDown) 
+- [GitHub 自动部署机器人](https://github.com/SegmentFault/deploy-robot) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
