@@ -68,6 +68,7 @@
 - [💱货币汇率库](https://github.com/florianv/swap) 
 - [Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机](https://github.com/injetlee/Python) 
 - [记录各种学习笔记(算法、Java、数据库、并发......)](https://github.com/ZXZxin/ZXBlog) 
+- [用于运行WebAssembly二进制文件的PHP扩展。](https://github.com/wasmerio/php-ext-wasm) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
