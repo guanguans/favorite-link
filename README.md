@@ -84,6 +84,7 @@
 - [一个结构清晰的，易于维护的，现代的PHP Markdown解析器](https://github.com/SegmentFault/HyperDown) 
 - [GitHub 自动部署机器人](https://github.com/SegmentFault/deploy-robot) 
 - [用于从PHP存档（PHAR）读取phar.io清单信息的组件](https://github.com/phar-io/manifest) 
+- [建立和管理Phars的申请。](https://github.com/box-project/box2) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
