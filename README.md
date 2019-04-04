@@ -77,6 +77,7 @@
 - [li 3是PHP的快速，灵活和最大的RAD开发框架。](https://github.com/UnionOfRAD/lithium) 
 - [ Go! AOP PHP - 面向切面编程的框架，用于新的软件开发水平](https://github.com/goaop/framework) 
 - [Parser Reflection API  - 提供源代码分析，无需将类加载到PHP内存中](https://github.com/goaop/parser-reflection) 
+- [允许反映对象属性，包括继承属性和非公共属性](https://github.com/sebastianbergmann/object-reflector) 
 ### April 3, 2019 
 - [在触控栏中显示macOS Dock](https://github.com/pigigaldi/Pock#) 
 - [聚合音乐Api，支持 node / android / ios / electron-render 调用](https://github.com/sunzongzheng/musicApi) 
