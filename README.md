@@ -65,6 +65,7 @@
 - [完整而强大的PSR-14 EventDispatcher规范实现。](https://github.com/Crell/Tukio) 
 - [一个基于浏览器端 JS 实现的在线代理](https://github.com/EtherDream/jsproxy) 
 - [一个用于图像中人脸检测的开源库。人脸检测速度可达1500FPS。](https://github.com/ShiqiYu/libfacedetection) 
+- [Shopify GraphQL设计教程](https://github.com/Shopify/graphql-design-tutorial) 
 ### April 4, 2019 
 - [《React 学习之道》The Road to learn React (简体中文版)](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) 
 - [用于PHP和Symfony的浏览器测试和Web爬网库](https://github.com/symfony/panther) 
