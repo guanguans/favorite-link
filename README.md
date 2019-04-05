@@ -61,6 +61,7 @@
 
 ### April 5, 2019 
 - [FastDFS是一个开源高性能分布式文件系统（DFS）。它的主要功能包括：文件存储，文件同步和文件访问，以及高容量和负载平衡的设计。](https://github.com/happyfish100/fastdfs) 
+- [qBittorrent BitTorrent客户端](https://github.com/qbittorrent/qBittorrent) 
 ### April 4, 2019 
 - [《React 学习之道》The Road to learn React (简体中文版)](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) 
 - [用于PHP和Symfony的浏览器测试和Web爬网库](https://github.com/symfony/panther) 
