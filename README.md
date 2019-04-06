@@ -64,6 +64,7 @@
 - [BootstrapVue为Vue.js提供了最全面的Bootstrap 4组件和网格系统实现之一，并且具有广泛的自动...](https://github.com/bootstrap-vue/bootstrap-vue) 
 - [Laravel-Vue SPA入门项目模板。](https://github.com/cretueusebiu/laravel-vue-spa) 
 - [一个高度自以为是的入门套件，用于使用Laravel和Vue.js构建单页应用程序](https://github.com/codecasts/spa-starter-kit) 
+- [从PHP控制Chrome](https://github.com/chrome-php/headless-chromium-php) 
 ### April 5, 2019 
 - [FastDFS是一个开源高性能分布式文件系统（DFS）。它的主要功能包括：文件存储，文件同步和文件访问，以及高容量和负载平衡的设计。](https://github.com/happyfish100/fastdfs) 
 - [qBittorrent BitTorrent客户端](https://github.com/qbittorrent/qBittorrent) 
