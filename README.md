@@ -70,6 +70,7 @@
 - [🎭Lava中的Laravel Translator课程！](https://github.com/rmariuzzo/Lang.js) 
 - [🎩具有Lua，Markdown，HTTP / 2，QUIC，Redis和PostgreSQL支持的小型自包含pure-Go Web服务器](https://github.com/xyproto/algernon) 
 - [Iris是（THIS）地球上最快的社区驱动的网络框架。HTTP / 2，MVC等。为所有人提供无与伦比的免费支持。您的老式Web框架可以做到吗？](https://github.com/kataras/iris) 
+- [Iris 是一款超快、简洁高效的 Go 语言 Web开发框架。 Iris 功能强大、使用简单，它将会是你下一个网站、API 服务或者分布式应用基础框架的不二之选。](https://github.com/kataras/iris/blob/master/README_ZH.md) 
 ### April 5, 2019 
 - [FastDFS是一个开源高性能分布式文件系统（DFS）。它的主要功能包括：文件存储，文件同步和文件访问，以及高容量和负载平衡的设计。](https://github.com/happyfish100/fastdfs) 
 - [qBittorrent BitTorrent客户端](https://github.com/qbittorrent/qBittorrent) 
