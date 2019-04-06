@@ -73,6 +73,7 @@
 - [Iris 是一款超快、简洁高效的 Go 语言 Web开发框架。 Iris 功能强大、使用简单，它将会是你下一个网站、API 服务或者分布式应用基础框架的不二之选。](https://github.com/kataras/iris/blob/master/README_ZH.md) 
 - [Standard Notes是一个简单的私人笔记应用程序，可在大多数平台上使用，包括Web，Mac，Windows，Linux，iOS和Android。](https://github.com/standardnotes/web) 
 - [✨这包100多个gopher图片和元素将帮助您构建几乎任何与Go Programming Language相关的设计：演示文稿，博客或社交媒体中的帖子，课程，视频等等。](https://github.com/MariaLetta/free-gophers-pack) 
+- [👾快速，简单，干净的视频下载器](https://github.com/iawia002/annie) 
 ### April 5, 2019 
 - [FastDFS是一个开源高性能分布式文件系统（DFS）。它的主要功能包括：文件存储，文件同步和文件访问，以及高容量和负载平衡的设计。](https://github.com/happyfish100/fastdfs) 
 - [qBittorrent BitTorrent客户端](https://github.com/qbittorrent/qBittorrent) 
