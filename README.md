@@ -66,6 +66,7 @@
 - [PHP扩展，以了解内存使用情况](https://github.com/BitOne/php-meminfo) 
 - [Synology Audio Station / DS Audio的歌词插件](https://github.com/LudySu/Synology-LrcPlugin) 
 - [Yii 2扩展库，用于显示与Leaflet的交互式地图。](https://github.com/2amigos/yii2-leaflet-extension) 
+- [Laragon是一个可移植，隔离，快速且功能强大的通用开发环境，适用于PHP，Node.js，Python，Java，Go，Ruby。它快速，重量轻......](https://github.com/leokhoa/laragon) 
 ### April 6, 2019 
 - [BootstrapVue为Vue.js提供了最全面的Bootstrap 4组件和网格系统实现之一，并且具有广泛的自动...](https://github.com/bootstrap-vue/bootstrap-vue) 
 - [Laravel-Vue SPA入门项目模板。](https://github.com/cretueusebiu/laravel-vue-spa) 
