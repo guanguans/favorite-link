@@ -70,6 +70,7 @@
 - [使用Biham和Kocher已知的明文攻击破解传统的zip加密。](https://github.com/kimci86/bkcrack) 
 - [自动更新正在运行的Docker容器](https://github.com/containrrr/watchtower) 
 - [MySQL Log Analysis](https://github.com/tanjiti/mysql_log_check) 
+- [爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)](https://github.com/tanjiti/sec_profile) 
 ### April 7, 2019 
 - [通过扫描MX记录，每日更新，清理和验证的一次性电子邮件域列表。](https://github.com/yzyjim/disposable-email-domain-list) 
 - [PHP扩展，以了解内存使用情况](https://github.com/BitOne/php-meminfo) 
