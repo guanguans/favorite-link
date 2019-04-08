@@ -83,6 +83,7 @@
 - [TypiCMS是一个使用Laravel 5.8构建的模块化多语言内容管理系统。开箱即用，您可以管理页面，事件，新闻，地点，菜单，翻译等。](https://github.com/TypiCMS/Base) 
 - [laravel-source-analysis/](https://github.com/LeoYang90/laravel-source-analysis) 
 - [swoole source reading 源码分析](https://github.com/LeoYang90/swoole-source-analysis) 
+- [PHP中的M3U8解析器/转储器。](https://github.com/chrisyue/php-m3u8) 
 ### April 7, 2019 
 - [通过扫描MX记录，每日更新，清理和验证的一次性电子邮件域列表。](https://github.com/yzyjim/disposable-email-domain-list) 
 - [PHP扩展，以了解内存使用情况](https://github.com/BitOne/php-meminfo) 
