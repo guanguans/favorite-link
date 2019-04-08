@@ -68,6 +68,7 @@
 - [印刷品般的漢字排版框架](https://github.com/ethantw/Han) 
 - [Markdown 的 100 个骚操作（更新 100 年）](https://sspai.com/post/53903) 
 - [使用Biham和Kocher已知的明文攻击破解传统的zip加密。](https://github.com/kimci86/bkcrack) 
+- [自动更新正在运行的Docker容器](https://github.com/containrrr/watchtower) 
 ### April 7, 2019 
 - [通过扫描MX记录，每日更新，清理和验证的一次性电子邮件域列表。](https://github.com/yzyjim/disposable-email-domain-list) 
 - [PHP扩展，以了解内存使用情况](https://github.com/BitOne/php-meminfo) 
