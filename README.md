@@ -74,6 +74,7 @@
 - [用于WebShell Log Analysis的webshel​​l示例](https://github.com/tanjiti/webshellSample) 
 - [v2ray的模板们](https://github.com/KiriKira/vTemplate) 
 - [📄 中文排版 Composer 包](https://github.com/jxlwqq/chinese-typesetting) 
+- [该软件包允许您使用固定窗口算法轻松创建和验证速率限制。](https://github.com/beyondcode/laravel-fixed-window-limiter) 
 ### April 7, 2019 
 - [通过扫描MX记录，每日更新，清理和验证的一次性电子邮件域列表。](https://github.com/yzyjim/disposable-email-domain-list) 
 - [PHP扩展，以了解内存使用情况](https://github.com/BitOne/php-meminfo) 
