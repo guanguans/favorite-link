@@ -73,6 +73,7 @@
 - [Curl client for PHP HTTP](https://github.com/php-http/curl-client) 
 - [ThinkSNS的H5客户端文档。](https://github.com/medz/thinksns-app-h5-doc) 
 - [自由门最新7.67版-无界19.02正式版下载](https://github.com/sglfree/freesky) 
+- [nginx源码中文注释版](https://github.com/jianfengye/nginx-1.0.14_comment) 
 ### April 8, 2019 
 - [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io) 
 - [GitLab API client for PHP ](https://github.com/m4tthumphrey/php-gitlab-api) 
