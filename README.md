@@ -72,6 +72,7 @@
 - [Traefik是一个现代HTTP反向代理和负载均衡器，可以轻松部署微服务。Traefik与您现有的基础架构组件（Docker，Swarm模式，Kubernetes，Marathon，Consul，Etcd，Rancher，Amazon ECS ......）集成，并自动动态配置。在您的协调器上指向Traefik应该是您需要的唯一配置步骤。](https://github.com/containous/traefik) 
 - [Curl client for PHP HTTP](https://github.com/php-http/curl-client) 
 - [ThinkSNS的H5客户端文档。](https://github.com/medz/thinksns-app-h5-doc) 
+- [自由门最新7.67版-无界19.02正式版下载](https://github.com/sglfree/freesky) 
 ### April 8, 2019 
 - [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io) 
 - [GitLab API client for PHP ](https://github.com/m4tthumphrey/php-gitlab-api) 
