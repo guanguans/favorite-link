@@ -68,6 +68,7 @@
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
 - [WebAsssembly的独立JIT样式运行时，使用Cranelift](https://github.com/CraneStation/wasmtime) 
 - [WebAsssembly的独立JIT样式运行时，使用Cranelift](https://github.com/jiajun00/react-desktops) 
+- [构建Active Directory域并进行黑客攻击](https://github.com/chryzsh/DarthSidious) 
 ### April 8, 2019 
 - [《神经网络与深度学习》](https://github.com/nndl/nndl.github.io) 
 - [GitLab API client for PHP ](https://github.com/m4tthumphrey/php-gitlab-api) 
