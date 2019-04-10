@@ -74,6 +74,7 @@
 - [🔍基于一个唯一字符串生成数据库查询](https://github.com/lorisleiva/laravel-search-string) 
 - [人类的Python开发工作流程。](https://github.com/pypa/pipenv) 
 - [PHP中的一个简单的Podcast RSS编辑器](https://github.com/JJYing/Podcast-RSS-Editor) 
+- [一个简单的PHP GitHub API客户端](https://github.com/KnpLabs/php-github-api) 
 ### April 9, 2019 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi) 
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
