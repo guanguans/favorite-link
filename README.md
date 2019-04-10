@@ -79,6 +79,7 @@
 - [✨强大、优雅的小程序异步库🚀 小程序promise](https://github.com/young-js/wx-promise-pro) 
 - [Apache Airflow](https://github.com/apache/airflow) 
 - [使用Vue CLI 3和Laravel的示例项目](https://github.com/yyx990803/laravel-vue-cli-3) 
+- [饥人谷出品：一个会动的简历。](https://github.com/jirengu-inc/animating-resume) 
 ### April 9, 2019 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi) 
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
