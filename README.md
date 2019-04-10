@@ -67,6 +67,7 @@
 ### April 10, 2019 
 - [轻松下载markdown文件中的所有图像](https://github.com/johnletey/dl-imgs) 
 - [令人愉快且以性能为中心的纯CSS加载动画。](https://github.com/ConnorAtherton/loaders.css) 
+- [Crypto 101，关于密码学的入门书。](https://github.com/crypto101/book) 
 ### April 9, 2019 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi) 
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
