@@ -87,6 +87,7 @@
 - [允许轻松地将Ws Security标头添加到SOAP请求中](https://github.com/WsdlToPhp/WsSecurity) 
 - [AutoRoute: 自动将HTTP请求映射到PHP操作类。](https://github.com/pmjones/AutoRoute) 
 - [Query Translator是一个具有AST表示的搜索查询转换器](https://github.com/netgen/query-translator) 
+- [Jeff的算法手册，笔记等的错误跟踪](https://github.com/jeffgerickson/algorithms) 
 ### April 9, 2019 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi) 
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
