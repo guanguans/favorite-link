@@ -88,6 +88,7 @@
 - [AutoRoute: 自动将HTTP请求映射到PHP操作类。](https://github.com/pmjones/AutoRoute) 
 - [Query Translator是一个具有AST表示的搜索查询转换器](https://github.com/netgen/query-translator) 
 - [Jeff的算法手册，笔记等的错误跟踪](https://github.com/jeffgerickson/algorithms) 
+- [在GitHub上自动从标签，问题，标签和拉取请求生成更改日志。](https://github.com/github-changelog-generator/github-changelog-generator) 
 ### April 9, 2019 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi) 
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
