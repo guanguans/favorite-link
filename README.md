@@ -90,6 +90,7 @@
 - [Jeff的算法手册，笔记等的错误跟踪](https://github.com/jeffgerickson/algorithms) 
 - [在GitHub上自动从标签，问题，标签和拉取请求生成更改日志。](https://github.com/github-changelog-generator/github-changelog-generator) 
 - [如何维护更新日志](https://keepachangelog.com/zh-CN/1.0.0/) 
+- [如果您构建软件，请保留更改日志。](https://github.com/olivierlacan/keep-a-changelog) 
 ### April 9, 2019 
 - [YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi) 
 - [YDoc 是一个更懂你的文档站构建工具，基于 markdown 轻松生成完整静态站点](https://github.com/YMFE/ydoc) 
