@@ -76,6 +76,7 @@
 - [一个连接，管理和保护微服务的开放平台。](https://github.com/istio/istio) 
 - [百宝门跨域单点登录(SSO)教程对应的示例完整代码](https://github.com/baibaomen/BaibaomenSsoLesson) 
 - [docker 教程 t.me/dockertutorial](https://github.com/llitfkitfk/docker-tutorial-cn) 
+- [Go语言实战: 编写可维护Go语言代码建议](https://github.com/llitfkitfk/go-best-practice) 
 ### April 10, 2019 
 - [轻松下载markdown文件中的所有图像](https://github.com/johnletey/dl-imgs) 
 - [令人愉快且以性能为中心的纯CSS加载动画。](https://github.com/ConnorAtherton/loaders.css) 
