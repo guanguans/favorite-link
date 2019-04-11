@@ -70,6 +70,7 @@
 - [有关如何在keybase.io上创建GPG密钥的分步指南，将其添加到本地GPG设置并与Git和GitHub一起使用。](https://github.com/pstadler/keybase-gpg-github) 
 - [Keybase Go Library, Client, Service, OS X, iOS, Android, Electron](https://github.com/keybase/client) 
 - [由前googlers，为前googlers  - 类似技术和服务的查找表](https://github.com/jhuangtw-dev/xg2xg) 
+- [一个想帮你总结所有类型的上传漏洞的靶场](https://github.com/c0ny1/upload-labs) 
 ### April 10, 2019 
 - [轻松下载markdown文件中的所有图像](https://github.com/johnletey/dl-imgs) 
 - [令人愉快且以性能为中心的纯CSS加载动画。](https://github.com/ConnorAtherton/loaders.css) 
