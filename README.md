@@ -81,6 +81,7 @@
 - [PHP的FastCGI（FCGI）协议实现](https://github.com/lisachenko/protocol-fcgi) 
 - [🌈 Mix CLI — 让 PHP 像 Golang 一样开发命令行程序 (单执行文件)](https://github.com/mix-php/mix-cli) 
 - [【新】微信服务号+微信小程序+微信支付+支付宝支付](https://github.com/zoujingli/WeChatDeveloper) 
+- [Git源代码镜像](https://github.com/git/git) 
 ### April 11, 2019 
 - [HTML5桌面应用程序开发通用工具](https://github.com/lixk/easy-window) 
 - [有关如何在keybase.io上创建GPG密钥的分步指南，将其添加到本地GPG设置并与Git和GitHub一起使用。](https://github.com/pstadler/keybase-gpg-github) 
