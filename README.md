@@ -69,6 +69,7 @@
 ### April 12, 2019 
 - [关于视觉，文本，强化学习等中的pytorch的一组示例](https://github.com/pytorch/examples) 
 - [人性化的API设计](https://github.com/apiaryio/api-blueprint) 
+- [ManaPHP Framework](https://github.com/manaphp/manaphp) 
 ### April 11, 2019 
 - [HTML5桌面应用程序开发通用工具](https://github.com/lixk/easy-window) 
 - [有关如何在keybase.io上创建GPG密钥的分步指南，将其添加到本地GPG设置并与Git和GitHub一起使用。](https://github.com/pstadler/keybase-gpg-github) 
