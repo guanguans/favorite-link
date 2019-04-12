@@ -75,6 +75,7 @@
 - [DokuWiki开源Wiki引擎](https://github.com/splitbrain/dokuwiki) 
 - [基于MDX的演示文稿](https://github.com/jxnblk/mdx-deck) 
 - [通往计算机科学的免费自学教育之路！](https://github.com/ossu/computer-science) 
+- [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN) 
 ### April 11, 2019 
 - [HTML5桌面应用程序开发通用工具](https://github.com/lixk/easy-window) 
 - [有关如何在keybase.io上创建GPG密钥的分步指南，将其添加到本地GPG设置并与Git和GitHub一起使用。](https://github.com/pstadler/keybase-gpg-github) 
