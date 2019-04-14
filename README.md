@@ -73,6 +73,7 @@
 - [🌸命令行模糊查找器](https://github.com/junegunn/fzf) 
 - [Rust协议缓冲区的Rust实现](https://github.com/stepancheg/rust-protobuf) 
 - [用于跟踪应用程序日志的artisan命令](https://github.com/spatie/laravel-tail) 
+- [💾用于Qiniu存储的Flysystem适配器。](https://github.com/overtrue/flysystem-qiniu) 
 ### April 13, 2019 
 - [微信支付宝个人免签收款系统](https://github.com/yioMe/node_wx_alipay_personalPay) 
 - [基于令牌桶算法和漏桶算法来实现的限速限流，Golang实现。](https://github.com/yangwenmai/ratelimit) 
