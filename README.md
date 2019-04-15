@@ -75,6 +75,7 @@
 - [Squeezer Framework  - 构建无服务器的dApp](https://github.com/SqueezerIO/squeezer) 
 - [具有AutoCompletion和语法突出显示的MySQL终端客户端。](https://github.com/dbcli/mycli) 
 - [Swoole 开发的MySQL数据库连接池](https://github.com/louislivi/SMProxy) 
+- [基于爬虫的web漏洞扫描器](https://github.com/youmengxuefei/web_vul_scan) 
 ### April 14, 2019 
 - [用于更改Rust的RFC](https://github.com/rust-lang/rfcs) 
 - [🌸命令行模糊查找器](https://github.com/junegunn/fzf) 
