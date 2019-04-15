@@ -79,6 +79,7 @@
 - [统计GitHub上文件的代码行数](https://github.com/artem-solovev/gloc) 
 - [saber / http库提供了处理http请求和响应的实用程序。](https://github.com/sabre-io/http) 
 - [Laravel Repositories是Laravel 5的一个包，用于抽象数据库层。这使应用程序更容易维护。](https://github.com/bosnadev/repository) 
+- [依赖注入容器](https://github.com/PHP-DI/PHP-DI) 
 ### April 14, 2019 
 - [用于更改Rust的RFC](https://github.com/rust-lang/rfcs) 
 - [🌸命令行模糊查找器](https://github.com/junegunn/fzf) 
