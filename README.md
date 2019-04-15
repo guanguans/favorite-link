@@ -72,6 +72,7 @@
 ### April 15, 2019 
 - [一个极简内存池实现](https://github.com/userpro/MemoryPool) 
 - [ 迅雷快鸟 Linux 版 ](https://github.com/vcheckzen/XunleiKuainiaoInShell) 
+- [Squeezer Framework  - 构建无服务器的dApp](https://github.com/SqueezerIO/squeezer) 
 ### April 14, 2019 
 - [用于更改Rust的RFC](https://github.com/rust-lang/rfcs) 
 - [🌸命令行模糊查找器](https://github.com/junegunn/fzf) 
