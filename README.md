@@ -69,6 +69,9 @@
 
 
 
+
+### April 16, 2019 
+- [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 ### April 15, 2019 
 - [一个极简内存池实现](https://github.com/userpro/MemoryPool) 
 - [ 迅雷快鸟 Linux 版 ](https://github.com/vcheckzen/XunleiKuainiaoInShell) 
