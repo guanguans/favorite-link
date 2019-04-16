@@ -76,6 +76,7 @@
 - [一个主要用于信息搜集的工具集，主要是用于对网站子域名、开放端口、端口指纹、c段地址、敏感目录等信息进行批量搜集。](https://github.com/TideSec/FuzzScanner) 
 - [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
 - [💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)](https://github.com/1c7/crash-course-computer-science-chinese) 
+- [自动完成软件发布的繁琐任务。愉快地发布和发布您的Git存储库，npm包，GitHub和GitLab版本，更改日志等等！](https://github.com/release-it/release-it) 
 ### April 15, 2019 
 - [一个极简内存池实现](https://github.com/userpro/MemoryPool) 
 - [ 迅雷快鸟 Linux 版 ](https://github.com/vcheckzen/XunleiKuainiaoInShell) 
