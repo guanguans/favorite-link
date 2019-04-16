@@ -77,6 +77,7 @@
 - [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
 - [💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)](https://github.com/1c7/crash-course-computer-science-chinese) 
 - [自动完成软件发布的繁琐任务。愉快地发布和发布您的Git存储库，npm包，GitHub和GitLab版本，更改日志等等！](https://github.com/release-it/release-it) 
+- [🙈实现过滤敏感词汇🔞，基于确定有穷自动机(DFA)算法，支持composer安装扩展](https://github.com/FireLustre/php-dfa-sensitive) 
 ### April 15, 2019 
 - [一个极简内存池实现](https://github.com/userpro/MemoryPool) 
 - [ 迅雷快鸟 Linux 版 ](https://github.com/vcheckzen/XunleiKuainiaoInShell) 
