@@ -75,6 +75,7 @@
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
 - [一个主要用于信息搜集的工具集，主要是用于对网站子域名、开放端口、端口指纹、c段地址、敏感目录等信息进行批量搜集。](https://github.com/TideSec/FuzzScanner) 
 - [用户友好的命令行shell。](https://github.com/fish-shell/fish-shell) 
+- [💻 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)](https://github.com/1c7/crash-course-computer-science-chinese) 
 ### April 15, 2019 
 - [一个极简内存池实现](https://github.com/userpro/MemoryPool) 
 - [ 迅雷快鸟 Linux 版 ](https://github.com/vcheckzen/XunleiKuainiaoInShell) 
