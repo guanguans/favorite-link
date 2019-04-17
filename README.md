@@ -83,6 +83,7 @@
 - [Go编程语言的自动完成守护程序](https://github.com/nsf/gocode) 
 - [适用于Laravel 5.x的SweetAlert2](https://github.com/realrashid/sweet-alert) 
 - [基于Web的文件管理器在单个PHP文件中，使用Tiny File Manager高效，轻松地管理文件](https://github.com/prasathmani/tinyfilemanager) 
+- [以前所未有的速度构建Laravel Web应用程序，易于安装，无需定制。](https://github.com/getspooky/laravelDash) 
 ### April 16, 2019 
 - [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
