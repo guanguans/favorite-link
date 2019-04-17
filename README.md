@@ -91,6 +91,7 @@
 - [SOLID原则 - 简单易懂的解释](https://github.com/nahidulhasan/solid-principles) 
 - [使用Docker运行Laravel项目并使用Kubernetes进行部署](https://github.com/nahidulhasan/laravel-docker-k8s) 
 - [接口和抽象类 - 简单易懂的解释](https://github.com/nahidulhasan/oop) 
+- [✨用于macOS的Finder工具栏应用程序，用于打开Terminal，iTerm或Hyper中的当前目录。](https://github.com/Ji4n1ng/OpenInTerminal) 
 ### April 16, 2019 
 - [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
