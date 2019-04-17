@@ -75,6 +75,7 @@
 - [从混乱的网络中提取内容。](https://github.com/postlight/mercury-parser) 
 - [跨平台，GPU加速的终端仿真器](https://github.com/jwilm/alacritty) 
 - [前端性能监控系统,消息队列,高可用,集群等相关架构](https://github.com/wangweianger/zanePerfor) 
+- [xhprof: PHP7 support](https://github.com/longxinH/xhprof) 
 ### April 16, 2019 
 - [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
