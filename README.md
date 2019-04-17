@@ -89,6 +89,7 @@
 - [一个轻量的工具集合](https://github.com/Ice-Hazymoon/MikuTools) 
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) 
 - [SOLID原则 - 简单易懂的解释](https://github.com/nahidulhasan/solid-principles) 
+- [使用Docker运行Laravel项目并使用Kubernetes进行部署](https://github.com/nahidulhasan/laravel-docker-k8s) 
 ### April 16, 2019 
 - [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
