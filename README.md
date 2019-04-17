@@ -81,6 +81,7 @@
 - [Go包用于轻松呈现JSON，XML，二进制数据和HTML模板响应。](https://github.com/unrolled/render) 
 - [Beats是用Go编写的轻量级数据发送器，可以安装在服务器上以捕获各种操作数据（考虑日志，指标或网络数据包数据）。Beats直接或通过Logstash将操作数据发送到Elasticsearch，因此可以使用Kibana进行可视化。](https://github.com/elastic/beats) 
 - [Go编程语言的自动完成守护程序](https://github.com/nsf/gocode) 
+- [适用于Laravel 5.x的SweetAlert2](https://github.com/realrashid/sweet-alert) 
 ### April 16, 2019 
 - [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
