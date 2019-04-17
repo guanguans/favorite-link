@@ -87,6 +87,7 @@
 - [姬长信API一个开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台 ](https://github.com/insoxin/API) 
 - [《Chrome插件开发全攻略》配套完整Demo](https://github.com/sxei/chrome-plugin-demo) 
 - [一个轻量的工具集合](https://github.com/Ice-Hazymoon/MikuTools) 
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) 
 ### April 16, 2019 
 - [PHP-FPM状态页面CLI](https://github.com/wizaplace/php-fpm-status-cli) 
 - [DH算法的API端，DH是一种利用非对称协商对称密钥的交换算法，他避免了对称密钥于公网来回传递的问题。](https://github.com/ti-dh/ti-dh-php) 
