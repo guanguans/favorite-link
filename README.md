@@ -85,6 +85,7 @@
 - [Laravel Eloquent模型的特性，可以让您克隆模型及其关系，包括文件。甚至到另一个数据库。](https://github.com/BKWLD/cloner) 
 - [验证表单异步](https://github.com/yiminghe/async-validator) 
 - [一个全栈增长工程师的练手项目集. ](https://github.com/phodal/ideabook) 
+- [[包]用于包开发的Laravel Testing Helper](https://github.com/orchestral/testbench) 
 ### April 17, 2019 
 - [从混乱的网络中提取内容。](https://github.com/postlight/mercury-parser) 
 - [跨平台，GPU加速的终端仿真器](https://github.com/jwilm/alacritty) 
