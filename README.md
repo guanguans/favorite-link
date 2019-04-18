@@ -79,6 +79,7 @@
 - [与GitHub API v3键入的交互](https://github.com/PyGithub/PyGithub) 
 - [laravel-admin使用iframe-tab打开多页面](https://github.com/ichynul/iframe-tabs) 
 - [一个新鲜和轻量级的JavaScript游戏引擎](https://github.com/melonjs/melonJS) 
+- [Laravel idcard验证器](https://github.com/godruoyi/laravel-idcard-validator) 
 ### April 17, 2019 
 - [从混乱的网络中提取内容。](https://github.com/postlight/mercury-parser) 
 - [跨平台，GPU加速的终端仿真器](https://github.com/jwilm/alacritty) 
