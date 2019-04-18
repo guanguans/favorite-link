@@ -94,6 +94,7 @@
 - [清理不值得信任的HTML用户输入](https://github.com/tgalopin/html-sanitizer) 
 - [🐳 WeChat Playground - 开源微信调试工具](https://github.com/mingyoung/wechat-playground) 
 - [PHP设计模式的使用](https://github.com/yunkaiyueming/php_design_patterns) 
+- [PHP安全配置检查器](https://github.com/sektioneins/pcc) 
 ### April 17, 2019 
 - [从混乱的网络中提取内容。](https://github.com/postlight/mercury-parser) 
 - [跨平台，GPU加速的终端仿真器](https://github.com/jwilm/alacritty) 
