@@ -83,6 +83,7 @@
 - [ripgrep递归地在目录中搜索正则表达式模式](https://github.com/BurntSushi/ripgrep) 
 - [👊 Java Android 近几年最全面的技术点以及面试题 供自己学习使用](https://github.com/pengMaster/BestNote) 
 - [Laravel Eloquent模型的特性，可以让您克隆模型及其关系，包括文件。甚至到另一个数据库。](https://github.com/BKWLD/cloner) 
+- [验证表单异步](https://github.com/yiminghe/async-validator) 
 ### April 17, 2019 
 - [从混乱的网络中提取内容。](https://github.com/postlight/mercury-parser) 
 - [跨平台，GPU加速的终端仿真器](https://github.com/jwilm/alacritty) 
