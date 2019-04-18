@@ -87,6 +87,7 @@
 - [一个全栈增长工程师的练手项目集. ](https://github.com/phodal/ideabook) 
 - [[包]用于包开发的Laravel Testing Helper](https://github.com/orchestral/testbench) 
 - [为Laravel开发测试助手](https://github.com/orchestral/testbench-core) 
+- [Frps 一键安装脚本，Frpc Windows 便捷脚本！Frp 远程桌面！](https://github.com/dylanbai8/frpspro) 
 ### April 17, 2019 
 - [从混乱的网络中提取内容。](https://github.com/postlight/mercury-parser) 
 - [跨平台，GPU加速的终端仿真器](https://github.com/jwilm/alacritty) 
