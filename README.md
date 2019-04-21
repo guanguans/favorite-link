@@ -83,6 +83,7 @@
 - [msgpack.org [PHP]](https://github.com/msgpack/msgpack-php) 
 - [Übersicht](https://github.com/felixhageloh/uebersicht) 
 - [一个漂亮的终端仿真器，模仿旧的阴极显示器......](https://github.com/Swordfish90/cool-retro-term) 
+- [Go设计模式的精选列表](https://github.com/tmrts/go-patterns) 
 ### April 20, 2019 
 - [Chrome扩展: 告别跨域，定制HTTP请求响应头](https://github.com/Louiszhai/IHeader) 
 - [使用相同的Laravel安装运行多个网站，同时保持租户特定数据分离，以实现完全独立的多域设置](https://github.com/tenancy/multi-tenant) 
