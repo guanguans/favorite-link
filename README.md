@@ -89,6 +89,7 @@
 - [一个带有调试工具的python vm注入器，基于gdb。](https://github.com/NtesEyes/pylane) 
 - [mathdroid (Odi)](https://github.com/mathdroid) 
 - [将您的Python和Javascript代码转换为DOT流程图](https://github.com/scottrogowski/code2flow) 
+- [轻松地将图像组合在一起，而不会弄乱画布](https://github.com/lukechilds/merge-images) 
 ### April 21, 2019 
 - [nicedoc.io是一个表示层，用于美化github.com上托管的任何doc文件。](https://github.com/IBM/nicedoc.io) 
 - [利用思维导图整理的docker知识点](https://github.com/Weiwf/docker-mindmap) 
