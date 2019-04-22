@@ -79,6 +79,7 @@
 ### April 22, 2019 
 - [wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译](https://github.com/leisurelicht/wtfpython-cn) 
 - [🖌docsify cli工具 - 一个神奇的文档生成器。](https://github.com/docsifyjs/docsify-cli) 
+- [使用node.js的OAuth2.0的一个非常简单的演示](https://github.com/ruanyf/node-oauth-demo) 
 ### April 21, 2019 
 - [nicedoc.io是一个表示层，用于美化github.com上托管的任何doc文件。](https://github.com/IBM/nicedoc.io) 
 - [利用思维导图整理的docker知识点](https://github.com/Weiwf/docker-mindmap) 
