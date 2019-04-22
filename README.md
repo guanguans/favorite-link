@@ -83,6 +83,7 @@
 - [FastAPI框架，高性能，易学，快速编码，随时可用于制作](https://github.com/tiangolo/fastapi) 
 - [基于纯PHP实现的DH库，用于服务器端](https://github.com/ti-dh/ti-dh-php) 
 - [dogeTV for macOS](https://github.com/popeyelau/dogeTV_macOS) 
+- [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide) 
 ### April 21, 2019 
 - [nicedoc.io是一个表示层，用于美化github.com上托管的任何doc文件。](https://github.com/IBM/nicedoc.io) 
 - [利用思维导图整理的docker知识点](https://github.com/Weiwf/docker-mindmap) 
