@@ -82,6 +82,7 @@
 - [A LotServer KeyGen](https://github.com/Tai7sy/LotServer_KeyGen) 
 - [Bluecherry监控系统（服务器应用）](https://github.com/bluecherrydvr/bluecherry-apps) 
 - [Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。](https://github.com/bilibili/kratos) 
+- [swoole source reading 源码分析](https://github.com/LeoYang90/swoole-source-analysis) 
 ### April 22, 2019 
 - [wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译](https://github.com/leisurelicht/wtfpython-cn) 
 - [🖌docsify cli工具 - 一个神奇的文档生成器。](https://github.com/docsifyjs/docsify-cli) 
