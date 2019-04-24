@@ -82,6 +82,7 @@
 - [最小的Markdown编辑器桌面应用程序](https://github.com/amitmerchant1990/electron-markdownify) 
 - [tshark的终端UI，灵感来自Wireshark](https://github.com/gcla/termshark) 
 - [基于GitHub问题的评论系统。](https://github.com/imsun/gitment) 
+- [分享一些黑苹果clover配置文件](https://github.com/sqlsec/clover) 
 ### April 23, 2019 
 - [php导出导入excel](https://github.com/jianyan74/php-excel) 
 - [A LotServer KeyGen](https://github.com/Tai7sy/LotServer_KeyGen) 
