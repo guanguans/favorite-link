@@ -91,6 +91,7 @@
 - [HackMD](https://github.com/hackmdio/codimd) 
 - [Github味道Markdown编辑器。](https://github.com/chenzhiwei/chrome-markdown-editor) 
 - [创建基于Composer的Phar of PHP应用程序](https://github.com/MacFJA/PharBuilder) 
+- [bin依赖项没有冲突](https://github.com/bamarni/composer-bin-plugin) 
 ### April 23, 2019 
 - [php导出导入excel](https://github.com/jianyan74/php-excel) 
 - [A LotServer KeyGen](https://github.com/Tai7sy/LotServer_KeyGen) 
