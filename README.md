@@ -89,6 +89,7 @@
 - [写代码时，持续思考这段代码能不能很容易的写出单元测试，能够大幅度提高最终产出的代码质量(即使实际上没写单元测试...)](https://github.com/facebook/jest) 
 - [用JavaScript编写的HTML to Markdown转换器](https://github.com/domchristie/turndown) 
 - [HackMD](https://github.com/hackmdio/codimd) 
+- [Github味道Markdown编辑器。](https://github.com/chenzhiwei/chrome-markdown-editor) 
 ### April 23, 2019 
 - [php导出导入excel](https://github.com/jianyan74/php-excel) 
 - [A LotServer KeyGen](https://github.com/Tai7sy/LotServer_KeyGen) 
