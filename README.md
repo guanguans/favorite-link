@@ -92,6 +92,7 @@
 - [Github味道Markdown编辑器。](https://github.com/chenzhiwei/chrome-markdown-editor) 
 - [创建基于Composer的Phar of PHP应用程序](https://github.com/MacFJA/PharBuilder) 
 - [bin依赖项没有冲突](https://github.com/bamarni/composer-bin-plugin) 
+- [Brook是一个跨平台（Linux / MacOS / Windows / Android / iOS）代理/ VPN软件](https://github.com/txthinking/brook) 
 ### April 23, 2019 
 - [php导出导入excel](https://github.com/jianyan74/php-excel) 
 - [A LotServer KeyGen](https://github.com/Tai7sy/LotServer_KeyGen) 
