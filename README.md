@@ -86,6 +86,7 @@
 - [黑客神器，谁用谁知道！](https://github.com/virink/as_plugin_godofhacker) 
 - [⛓区块链应用框架✨](https://github.com/cosmos/cosmos-sdk) 
 - [Vue.js驱动的现代网站生成器](https://github.com/gridsome/gridsome) 
+- [写代码时，持续思考这段代码能不能很容易的写出单元测试，能够大幅度提高最终产出的代码质量(即使实际上没写单元测试...)](https://github.com/facebook/jest) 
 ### April 23, 2019 
 - [php导出导入excel](https://github.com/jianyan74/php-excel) 
 - [A LotServer KeyGen](https://github.com/Tai7sy/LotServer_KeyGen) 
