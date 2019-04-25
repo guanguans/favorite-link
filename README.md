@@ -78,6 +78,9 @@
 
 
 
+
+### April 25, 2019 
+- [用于个人用途的部署机器人。](https://github.com/wi1dcard/learnku-deploy-bot) 
 ### April 24, 2019 
 - [最小的Markdown编辑器桌面应用程序](https://github.com/amitmerchant1990/electron-markdownify) 
 - [tshark的终端UI，灵感来自Wireshark](https://github.com/gcla/termshark) 
