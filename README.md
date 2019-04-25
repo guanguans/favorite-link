@@ -83,6 +83,7 @@
 - [用于个人用途的部署机器人。](https://github.com/wi1dcard/learnku-deploy-bot) 
 - [《Koa2进阶学习笔记》已完结🎄🎄🎄](https://github.com/chenshenhai/koa2-note) 
 - [小白入门学习vue和vue实例，vue总结](https://github.com/sunseekers/Vue) 
+- [HTTP负载生成器，ApacheBench（ab）替换，以前称为rakyll / boom](https://github.com/rakyll/hey) 
 ### April 24, 2019 
 - [最小的Markdown编辑器桌面应用程序](https://github.com/amitmerchant1990/electron-markdownify) 
 - [tshark的终端UI，灵感来自Wireshark](https://github.com/gcla/termshark) 
