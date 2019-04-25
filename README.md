@@ -84,6 +84,7 @@
 - [《Koa2进阶学习笔记》已完结🎄🎄🎄](https://github.com/chenshenhai/koa2-note) 
 - [小白入门学习vue和vue实例，vue总结](https://github.com/sunseekers/Vue) 
 - [HTTP负载生成器，ApacheBench（ab）替换，以前称为rakyll / boom](https://github.com/rakyll/hey) 
+- [基于Golang解决的长连接并发服务器框架](https://github.com/aceld/zinx) 
 ### April 24, 2019 
 - [最小的Markdown编辑器桌面应用程序](https://github.com/amitmerchant1990/electron-markdownify) 
 - [tshark的终端UI，灵感来自Wireshark](https://github.com/gcla/termshark) 
