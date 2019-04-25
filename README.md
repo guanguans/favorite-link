@@ -93,6 +93,7 @@
 - [tj/node-prune: Remove unnecessary files from node_modules (.md, .ts, ...)从node_modules（.md，.ts，...）中删除不必要的文件](https://github.com/tj/node-prune) 
 - [Github 项目活跃度分析工具](https://github.com/LCTT/Grank) 
 - [lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，目前仅支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面...）。](https://github.com/ffay/lanproxy) 
+- [Windows 10的macOS Mojave Dynamic Desktop功能端口](https://github.com/t1m0thyj/WinDynamicDesktop) 
 ### April 24, 2019 
 - [最小的Markdown编辑器桌面应用程序](https://github.com/amitmerchant1990/electron-markdownify) 
 - [tshark的终端UI，灵感来自Wireshark](https://github.com/gcla/termshark) 
