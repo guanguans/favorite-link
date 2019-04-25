@@ -90,6 +90,7 @@
 - [切勿再次使用打印进行调试](https://github.com/cool-RR/PySnooper) 
 - [用于辅助安全工程师漏洞挖掘、测试、复现，集合了mock、httplog、dns tools、xss，可用于测试各类无回显、无法直观判断或特定场景下的漏洞。](https://github.com/opensec-cn/vtest) 
 - [从生产中不需要的文件中清除PHP Composer供应商文件夹](https://github.com/avvertix/composer-vendor-prune) 
+- [tj/node-prune: Remove unnecessary files from node_modules (.md, .ts, ...)从node_modules（.md，.ts，...）中删除不必要的文件](https://github.com/tj/node-prune) 
 ### April 24, 2019 
 - [最小的Markdown编辑器桌面应用程序](https://github.com/amitmerchant1990/electron-markdownify) 
 - [tshark的终端UI，灵感来自Wireshark](https://github.com/gcla/termshark) 
