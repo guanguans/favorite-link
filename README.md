@@ -90,6 +90,7 @@
 - [搜呼社工库](https://github.com/huoji120/Huoji_Sohu_Project) 
 - [社工库查询系统](https://github.com/monkey-soft/SocialRelations_Web) 
 - [PHP的现代任务运行器](https://github.com/consolidation/Robo) 
+- [在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。](https://github.com/Quorafind/golang-developer-roadmap-cn) 
 ### April 25, 2019 
 - [用于个人用途的部署机器人。](https://github.com/wi1dcard/learnku-deploy-bot) 
 - [《Koa2进阶学习笔记》已完结🎄🎄🎄](https://github.com/chenshenhai/koa2-note) 
