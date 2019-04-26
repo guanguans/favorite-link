@@ -89,6 +89,7 @@
 - [一个小型的较为简陋的社工库查询系统,使用Vue.js+Flask+MongoDB.可用52g, 本人不提供任何社工库资源. ](https://github.com/Leezj9671/socialdb_vue_flask) 
 - [搜呼社工库](https://github.com/huoji120/Huoji_Sohu_Project) 
 - [社工库查询系统](https://github.com/monkey-soft/SocialRelations_Web) 
+- [PHP的现代任务运行器](https://github.com/consolidation/Robo) 
 ### April 25, 2019 
 - [用于个人用途的部署机器人。](https://github.com/wi1dcard/learnku-deploy-bot) 
 - [《Koa2进阶学习笔记》已完结🎄🎄🎄](https://github.com/chenshenhai/koa2-note) 
