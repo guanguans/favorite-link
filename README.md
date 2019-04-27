@@ -89,6 +89,7 @@
 - [这本书是来自walu的phpbook升级版](https://github.com/qzfzz/php7-extension-dev-book) 
 - [适用于macOS的更好的Cmd-Tab（OSX）](https://github.com/xtab-app/xtab) 
 - [适用于您可爱网站的CSS唯一工具提示库。](https://github.com/chinchang/hint.css) 
+- [在非Laravel应用程序中使用每个Illuminate组件的示例](https://github.com/mattstauffer/Torch) 
 ### April 26, 2019 
 - [文档和源代码PopClip扩展。](https://github.com/pilotmoon/PopClip-Extensions) 
 - [用C编写的通用数据结构和算法库。](https://github.com/fragglet/c-algorithms) 
