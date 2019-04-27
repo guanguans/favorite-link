@@ -86,6 +86,7 @@
 - [基于swoft-cloud的微服务架构，最小化拆分粒度，PHP7、多进程、协程、异步任务、mysql连接池、redi连接池、rpc连接池、服务治理、服务注册与发现、Aop切面、全注解](https://github.com/Lxido/micro-service-im) 
 - [yq是一个便携式命令行YAML处理器](https://github.com/mikefarah/yq) 
 - [《深入解析Go》](https://github.com/tiancaiamao/go-internals) 
+- [这本书是来自walu的phpbook升级版](https://github.com/qzfzz/php7-extension-dev-book) 
 ### April 26, 2019 
 - [文档和源代码PopClip扩展。](https://github.com/pilotmoon/PopClip-Extensions) 
 - [用C编写的通用数据结构和算法库。](https://github.com/fragglet/c-algorithms) 
