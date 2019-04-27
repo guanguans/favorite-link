@@ -90,6 +90,7 @@
 - [适用于macOS的更好的Cmd-Tab（OSX）](https://github.com/xtab-app/xtab) 
 - [适用于您可爱网站的CSS唯一工具提示库。](https://github.com/chinchang/hint.css) 
 - [在非Laravel应用程序中使用每个Illuminate组件的示例](https://github.com/mattstauffer/Torch) 
+- [🚀Chrome/ Firefox Extension可以从WebSite中搜索RSS源URL，支持RSSHub](https://github.com/idealclover/Easy-to-RSS) 
 ### April 26, 2019 
 - [文档和源代码PopClip扩展。](https://github.com/pilotmoon/PopClip-Extensions) 
 - [用C编写的通用数据结构和算法库。](https://github.com/fragglet/c-algorithms) 
