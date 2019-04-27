@@ -87,6 +87,7 @@
 - [yq是一个便携式命令行YAML处理器](https://github.com/mikefarah/yq) 
 - [《深入解析Go》](https://github.com/tiancaiamao/go-internals) 
 - [这本书是来自walu的phpbook升级版](https://github.com/qzfzz/php7-extension-dev-book) 
+- [适用于macOS的更好的Cmd-Tab（OSX）](https://github.com/xtab-app/xtab) 
 ### April 26, 2019 
 - [文档和源代码PopClip扩展。](https://github.com/pilotmoon/PopClip-Extensions) 
 - [用C编写的通用数据结构和算法库。](https://github.com/fragglet/c-algorithms) 
