@@ -85,6 +85,7 @@
 ### April 28, 2019 
 - [一种查看和导航目录树的新方法](https://github.com/Canop/broot) 
 - [基于workerman的分布式实时消息传递框架。](https://github.com/walkor/GatewayWorker) 
+- [Web安全学习笔记](https://github.com/LyleMi/Learn-Web-Hacking) 
 ### April 27, 2019 
 - [微信支付宝个人免签收款Api系统，有了它对接再也不用担心我的业务不能支付了。](https://github.com/yioMe/nodejs_wx_aipay_api) 
 - [基于swoft-cloud的微服务架构，最小化拆分粒度，PHP7、多进程、协程、异步任务、mysql连接池、redi连接池、rpc连接池、服务治理、服务注册与发现、Aop切面、全注解](https://github.com/Lxido/micro-service-im) 
