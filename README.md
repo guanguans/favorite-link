@@ -82,6 +82,9 @@
 
 
 
+
+### April 29, 2019 
+- [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 ### April 28, 2019 
 - [一种查看和导航目录树的新方法](https://github.com/Canop/broot) 
 - [基于workerman的分布式实时消息传递框架。](https://github.com/walkor/GatewayWorker) 
