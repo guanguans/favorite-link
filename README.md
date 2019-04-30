@@ -100,6 +100,7 @@
 - [Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。](https://github.com/jobbole/awesome-java-cn) 
 - [所有算法都在Python中实现](https://github.com/TheAlgorithms/Python) 
 - [Cyber​​netically增强的网络应用程序](https://github.com/sveltejs/svelte) 
+- [一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。](https://github.com/H4ckForJob/dirmap) 
 ### April 29, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 
