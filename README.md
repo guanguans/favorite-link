@@ -95,6 +95,7 @@
 - [Traefik是一个现代HTTP反向代理和负载均衡器，可以轻松部署微服务。Traefik与您现有的基础架构组件（Docker，Swarm模式，Kubernetes，Marathon，Consul，Etcd，Rancher，Amazon ECS ......）集成，并自动动态配置。在您的协调器上指向Traefik应该是您需要的唯一配置步骤。](https://github.com/containous/traefik) 
 - [SeaweedFS是一个简单且高度可扩展的分布式文件系统。有两个目标：存储数十亿个文件！快速提供文件！SeaweedFS实现了一个带有O（1）磁盘搜索的对象存储和一个带有POSIX接口的可选Filer，支持S3 API，FUSE挂载，兼容Hadoop。](https://github.com/chrislusf/seaweedfs) 
 - [Uber Technologies公开发布的分布式跟踪系统。 它可用于监视基于微服务的分布式系统](https://github.com/jaegertracing/jaeger) 
+- [🎉全面的PHP客户端软件包，用于使用Hubtel Payment API](https://github.com/ovac/hubtel-payment) 
 ### April 29, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 
