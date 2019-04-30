@@ -92,6 +92,7 @@
 - [Sortable是一个用于可重新排序的拖放列表的JavaScript库。](https://github.com/SortableJS/Sortable) 
 - [💬使用Google Translate，Bing Translator，Yandex.Translate等的命令行翻译器](https://github.com/soimort/translate-shell) 
 - [引导您的用户浏览您的应用](https://github.com/shipshapecode/shepherd) 
+- [Traefik是一个现代HTTP反向代理和负载均衡器，可以轻松部署微服务。Traefik与您现有的基础架构组件（Docker，Swarm模式，Kubernetes，Marathon，Consul，Etcd，Rancher，Amazon ECS ......）集成，并自动动态配置。在您的协调器上指向Traefik应该是您需要的唯一配置步骤。](https://github.com/containous/traefik) 
 ### April 29, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 
