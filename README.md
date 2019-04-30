@@ -106,6 +106,7 @@
 - [此程序包允许您管理数据库中的用户权限和组。](https://github.com/mateusjunges/laravel-acl) 
 - [☁️LskyPro，您在云端的相册。](https://github.com/wisp-x/lsky-pro) 
 - [✨另一个OneDrive目录索引](https://github.com/WangNingkai/OLAINDEX) 
+- [Scoop bucket 用于开源/免费软件游戏和游戏相关工具](https://github.com/Calinou/scoop-games) 
 ### April 29, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 
