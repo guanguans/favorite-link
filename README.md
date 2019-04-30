@@ -90,6 +90,7 @@
 - [一个简单的macOS应用程序，用于监控云服务的状态](https://github.com/inket/stts) 
 - [Python中的简单区块链](https://github.com/dvf/blockchain) 
 - [Sortable是一个用于可重新排序的拖放列表的JavaScript库。](https://github.com/SortableJS/Sortable) 
+- [💬使用Google Translate，Bing Translator，Yandex.Translate等的命令行翻译器](https://github.com/soimort/translate-shell) 
 ### April 29, 2019 
 - [PHP MySQL类的包装器，它使用MySQLi和预处理语句。](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class) 
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 
