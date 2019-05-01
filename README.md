@@ -93,6 +93,7 @@
 - [用于收集和报告指标的插件驱动的服务器代理。](https://github.com/influxdata/telegraf) 
 - [一个经典的XSS渗透管理平台](https://github.com/78778443/xssplatform) 
 - [Mac版微信的功能拓展](https://github.com/MustangYM/WeChatExtension-ForMac) 
+- [如何用GitHub Actions编译Golang项目](https://wxy.sexy/2019/03/08/%E5%A6%82%E4%BD%95%E7%94%A8GitHub-Actions%E7%BC%96%E8%AF%91Golang%E9%A1%B9%E7%9B%AE/) 
 ### April 30, 2019 
 - [备忘单](https://github.com/abhat222/Data-Science--Cheat-Sheet) 
 - [200+ Mac菜单栏应用程序](https://macmenubar.com/) 
