@@ -92,6 +92,7 @@
 - [when当我键入kubectl run时会发生什么？](https://github.com/jamiehannaford/what-happens-when-k8s) 
 - [用于收集和报告指标的插件驱动的服务器代理。](https://github.com/influxdata/telegraf) 
 - [一个经典的XSS渗透管理平台](https://github.com/78778443/xssplatform) 
+- [Mac版微信的功能拓展](https://github.com/MustangYM/WeChatExtension-ForMac) 
 ### April 30, 2019 
 - [备忘单](https://github.com/abhat222/Data-Science--Cheat-Sheet) 
 - [200+ Mac菜单栏应用程序](https://macmenubar.com/) 
