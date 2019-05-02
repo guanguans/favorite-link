@@ -90,6 +90,7 @@
 - [LeanCloud 发布的 Git Commit 日志风格指南。](https://open.leancloud.cn/git-commit-message/) 
 - [动漫场景按图搜索](https://github.com/soruly/trace.moe) 
 - [类似unix的逆向工程框架和命令行工具](https://github.com/radare/radare2) 
+- [测试可能是拖累。 AVA可以帮助您完成任务。 AVA是Node.js的测试运行器，具有简洁的API，详细的错误输出，新语言功能的拥抱和进程隔离，可让您更有效地编写测试。](https://github.com/avajs/ava) 
 ### May 1, 2019 
 - [精通以太坊 （中文版）](https://github.com/inoutcode/ethereum_book) 
 - [Cloud-Native API网关](https://github.com/Kong/kong) 
