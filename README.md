@@ -93,6 +93,7 @@
 - [测试可能是拖累。 AVA可以帮助您完成任务。 AVA是Node.js的测试运行器，具有简洁的API，详细的错误输出，新语言功能的拥抱和进程隔离，可让您更有效地编写测试。](https://github.com/avajs/ava) 
 - [FreeRDP是一个免费的远程桌面协议库和客户端](https://github.com/FreeRDP/FreeRDP) 
 - [管理hosts的更好方法。](https://github.com/ppoffice/Hozz) 
+- [mysql注入,bypass的一些心得](https://github.com/aleenzz/MYSQL_SQL_BYPASS_WIKI) 
 ### May 1, 2019 
 - [精通以太坊 （中文版）](https://github.com/inoutcode/ethereum_book) 
 - [Cloud-Native API网关](https://github.com/Kong/kong) 
