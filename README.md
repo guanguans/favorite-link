@@ -88,6 +88,7 @@
 
 ### May 2, 2019 
 - [LeanCloud 发布的 Git Commit 日志风格指南。](https://open.leancloud.cn/git-commit-message/) 
+- [动漫场景按图搜索](https://github.com/soruly/trace.moe) 
 ### May 1, 2019 
 - [精通以太坊 （中文版）](https://github.com/inoutcode/ethereum_book) 
 - [Cloud-Native API网关](https://github.com/Kong/kong) 
