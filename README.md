@@ -94,6 +94,7 @@
 - [供 Dash 使用的中文文档](https://github.com/nauxliu/Dash-docsets-CN) 
 - [Dash中文文档](https://github.com/weixiang/Dash-dcsets-CN) 
 - [go 语言框架 gin 的中文文档](https://github.com/skyhee/gin-doc-cn) 
+- [快速开发macOS PHP开发环境](https://github.com/weprovide/valet-plus) 
 ### May 2, 2019 
 - [LeanCloud 发布的 Git Commit 日志风格指南。](https://open.leancloud.cn/git-commit-message/) 
 - [动漫场景按图搜索](https://github.com/soruly/trace.moe) 
