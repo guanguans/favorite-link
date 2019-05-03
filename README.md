@@ -99,6 +99,7 @@
 - [深入理解Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node) 
 - [Vue.docset dash 文档 Vue 离线文档中文版](https://github.com/lyon007/VueJS-docset-CN) 
 - [leetcode题解，记录自己的leetcode解题之路。](https://github.com/azl397985856/leetcode) 
+- [一个基本的游戏模拟器，支持终端“云游戏”](https://github.com/HFO4/gameboy.live) 
 ### May 2, 2019 
 - [LeanCloud 发布的 Git Commit 日志风格指南。](https://open.leancloud.cn/git-commit-message/) 
 - [动漫场景按图搜索](https://github.com/soruly/trace.moe) 
