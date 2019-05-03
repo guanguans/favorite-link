@@ -89,6 +89,7 @@
 
 ### May 3, 2019 
 - [易于上手的样品参考微服务和基于容器的应用。 Linux和Windows Docker容器上的跨平台，由.NET Core 2.2，Docker引擎以及Azure，Kubernetes或Service Fabric提供支持。](https://github.com/dotnet-architecture/eShopOnContainers) 
+- [Surface Pro 6 黑苹果全球首发](https://github.com/molie34/Surface-Pro-6-macOS) 
 ### May 2, 2019 
 - [LeanCloud 发布的 Git Commit 日志风格指南。](https://open.leancloud.cn/git-commit-message/) 
 - [动漫场景按图搜索](https://github.com/soruly/trace.moe) 
