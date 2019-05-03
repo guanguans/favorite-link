@@ -92,6 +92,7 @@
 - [Surface Pro 6 黑苹果全球首发](https://github.com/molie34/Surface-Pro-6-macOS) 
 - [一个静态网站生成器，用于使用Vue.js构建超快速的网站](https://github.com/saberland/saber) 
 - [供 Dash 使用的中文文档](https://github.com/nauxliu/Dash-docsets-CN) 
+- [Dash中文文档](https://github.com/weixiang/Dash-dcsets-CN) 
 ### May 2, 2019 
 - [LeanCloud 发布的 Git Commit 日志风格指南。](https://open.leancloud.cn/git-commit-message/) 
 - [动漫场景按图搜索](https://github.com/soruly/trace.moe) 
