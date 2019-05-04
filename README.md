@@ -90,6 +90,7 @@
 
 ### May 4, 2019 
 - [GraphQL 开发原则](https://principles.graphql.cn/) 
+- [通过思维导图整理redis的重要知识点](https://github.com/Weiwf/redis-mindmap) 
 ### May 3, 2019 
 - [易于上手的样品参考微服务和基于容器的应用。 Linux和Windows Docker容器上的跨平台，由.NET Core 2.2，Docker引擎以及Azure，Kubernetes或Service Fabric提供支持。](https://github.com/dotnet-architecture/eShopOnContainers) 
 - [Surface Pro 6 黑苹果全球首发](https://github.com/molie34/Surface-Pro-6-macOS) 
