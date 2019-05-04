@@ -94,6 +94,7 @@
 - [用于从Google Analytics检索综合浏览量和其他数据的Laravel程序包](https://github.com/spatie/laravel-analytics) 
 - [slimdump是一个小工具，可以帮助您创建大型MySQL数据库的可配置转储](https://github.com/webfactory/slimdump) 
 - [首款微信 macOS 客户端撤回拦截与多开 ](https://github.com/Sunnyyoung/WeChatTweak-macOS) 
+- [上最棒的开源 Win10 数字权利（数字许可证）激活工具！ ](https://github.com/TGSAN/CMWTAT_Digital_Edition) 
 ### May 3, 2019 
 - [易于上手的样品参考微服务和基于容器的应用。 Linux和Windows Docker容器上的跨平台，由.NET Core 2.2，Docker引擎以及Azure，Kubernetes或Service Fabric提供支持。](https://github.com/dotnet-architecture/eShopOnContainers) 
 - [Surface Pro 6 黑苹果全球首发](https://github.com/molie34/Surface-Pro-6-macOS) 
