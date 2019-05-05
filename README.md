@@ -94,6 +94,7 @@
 - [使用Wordpress和WooCommerce构建高度可定制的电子商务网站，销售shadowsocks服务](https://github.com/shadowsocks/shadow-shop) 
 - [FydeOS - 面向未来的云驱动操作系统 | 为中国用户打造的 Chrome OS](https://fydeos.com/) 
 - [Quicker-window自动化软件](http://getquicker.net/) 
+- [Quicker IOS 客户端](https://github.com/cuiliang/QuickerIOS) 
 ### May 4, 2019 
 - [GraphQL 开发原则](https://principles.graphql.cn/) 
 - [通过思维导图整理redis的重要知识点](https://github.com/Weiwf/redis-mindmap) 
