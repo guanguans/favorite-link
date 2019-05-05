@@ -95,6 +95,7 @@
 - [FydeOS - 面向未来的云驱动操作系统 | 为中国用户打造的 Chrome OS](https://fydeos.com/) 
 - [Quicker-window自动化软件](http://getquicker.net/) 
 - [Quicker IOS 客户端](https://github.com/cuiliang/QuickerIOS) 
+- [CC助手 - 超越剪贴板](https://ccyixia.com/) 
 ### May 4, 2019 
 - [GraphQL 开发原则](https://principles.graphql.cn/) 
 - [通过思维导图整理redis的重要知识点](https://github.com/Weiwf/redis-mindmap) 
