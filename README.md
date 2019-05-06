@@ -96,6 +96,7 @@
 - [kunpeng是一个Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。](https://github.com/opensec-cn/kunpeng) 
 - [vfsStream是虚拟文件系统的流包装器，可能有助于单元测试模拟真实文件系统。它可以与任何单元测试框架一起使用，如PHPUnit或SimpleTest。](https://github.com/bovigo/vfsStream) 
 - [一个PHP快速CGI客户端，用于同步向PHP-FPM发送请求（a）](https://github.com/hollodotme/fast-cgi-client) 
+- [不同行业的应用机器学习和数据科学笔记本和图书馆的精选列表。](https://github.com/firmai/industry-machine-learning) 
 ### May 5, 2019 
 - [各种xlsx的分析器和编写器。](https://github.com/SheetJS/js-xlsx) 
 - [使用Wordpress和WooCommerce构建高度可定制的电子商务网站，销售shadowsocks服务](https://github.com/shadowsocks/shadow-shop) 
