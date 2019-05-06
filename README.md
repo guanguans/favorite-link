@@ -89,6 +89,9 @@
 
 
 
+
+### May 6, 2019 
+- [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 ### May 5, 2019 
 - [各种xlsx的分析器和编写器。](https://github.com/SheetJS/js-xlsx) 
 - [使用Wordpress和WooCommerce构建高度可定制的电子商务网站，销售shadowsocks服务](https://github.com/shadowsocks/shadow-shop) 
