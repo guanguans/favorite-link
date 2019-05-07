@@ -106,6 +106,7 @@
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [SQLFlow是连接SQL引擎的桥梁，例如MySQL，Hive，SparkSQL或SQL Server，带有TensorFlow和其他机器学习工具包。SQLFlow扩展了SQL语言，以支持模型训练，预测和推理。](https://github.com/sql-machine-learning/sqlflow) 
 - [工匠菜单 - 通过优雅的控制台GUI使用Artisan](https://github.com/DivineOmega/artisan-menu) 
+- [ShopXO商城系统、国内领先企业级B2C免费开源电商系统，包含PC/wap/小程序](https://github.com/gongfuxiang/shopxo) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
