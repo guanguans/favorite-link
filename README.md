@@ -114,6 +114,7 @@
 - [小霸王，其乐无穷 。红白机，FC在线游戏](https://yikm.net/) 
 - [简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展](https://github.com/kenshin/simpread) 
 - [gh-ost是MySQL的无触发在线模式迁移解决方案。](https://github.com/github/gh-ost/) 
+- [利用HTTP协议 远程加解密数据包，实现Burp一条龙服务。](https://github.com/lyxhh/lxhToolHTTPDecrypt) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
