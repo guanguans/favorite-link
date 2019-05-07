@@ -113,6 +113,7 @@
 - [docker-slim：自动缩减 docker 镜像的体积的工具。大幅度缩减 docker 镜像的体积，方便分发，使用命令 docker-slim build --http-probe your-name/your-app。比如 Node.js 镜像缩减后的对比： from ubuntu:14.04 - 432MB => 14MB (缩减了 30.85 倍)](https://github.com/docker-slim/docker-slim) 
 - [小霸王，其乐无穷 。红白机，FC在线游戏](https://yikm.net/) 
 - [简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展](https://github.com/kenshin/simpread) 
+- [gh-ost是MySQL的无触发在线模式迁移解决方案。](https://github.com/github/gh-ost/) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
