@@ -100,6 +100,7 @@
 - [子豪兄的零基础树莓派教程，代码存放地及更新勘误](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi) 
 - [vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数](https://github.com/linclin/gopub) 
 - [Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。](https://github.com/mylxsw/wizard) 
+- [提供在Linux上运行最新版腾讯QQ与TIM的解决方案](https://github.com/askme765cs/Wine-QQ-TIM) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
