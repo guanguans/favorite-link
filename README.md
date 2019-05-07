@@ -117,6 +117,7 @@
 - [利用HTTP协议 远程加解密数据包，实现Burp一条龙服务。](https://github.com/lyxhh/lxhToolHTTPDecrypt) 
 - [api-standards](https://github.com/WhiteHouse/api-standards) 
 - [API设计指南](https://github.com/paypal/api-standards/blob/master/api-style-guide.md) 
+- [Standard Readme](https://github.com/RichardLitt/standard-readme) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
