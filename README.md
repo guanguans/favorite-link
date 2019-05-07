@@ -102,6 +102,7 @@
 - [Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。](https://github.com/mylxsw/wizard) 
 - [提供在Linux上运行最新版腾讯QQ与TIM的解决方案](https://github.com/askme765cs/Wine-QQ-TIM) 
 - [该存储库包含我的O'Reilly书籍Flask Web Development第二版的源代码示例。](https://github.com/miguelgrinberg/flasky) 
+- [AnyBar是您的菜单栏的一个小指示器，可以做一件简单的事情：它显示一个彩色圆点。点的含义以及何时更改它取决于您。](https://github.com/tonsky/AnyBar) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
