@@ -120,6 +120,7 @@
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) 
 - [中华人民共和国密码行业标准(GM/T)文本](https://github.com/guanzhi/GM-Standards) 
 - [支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支](https://github.com/guanzhi/GmSSL) 
+- [pt-query-digest](https://www.percona.com/doc/percona-toolkit/3.0/pt-query-digest.html) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
