@@ -109,6 +109,7 @@
 - [ShopXO商城系统、国内领先企业级B2C免费开源电商系统，包含PC/wap/小程序](https://github.com/gongfuxiang/shopxo) 
 - [中国首个开源学校教务管理系统、网站布局自动化、学生/成绩/教师、成绩查询 ](https://github.com/gongfuxiang/schoolcms) 
 - [从供应商目录中删除测试和文档并缩小所有php文件](https://github.com/goszowski/laravel-vendor-minify) 
+- [BladeOne是刀片模板引擎的独立版本，它使用单个PHP文件，可以移植并在不同的项目中使用。它允许您在Laravel外部使用刀片模板。](https://github.com/EFTEC/BladeOne) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
