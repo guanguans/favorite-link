@@ -105,6 +105,7 @@
 - [AnyBar是您的菜单栏的一个小指示器，可以做一件简单的事情：它显示一个彩色圆点。点的含义以及何时更改它取决于您。](https://github.com/tonsky/AnyBar) 
 - [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md) 
 - [SQLFlow是连接SQL引擎的桥梁，例如MySQL，Hive，SparkSQL或SQL Server，带有TensorFlow和其他机器学习工具包。SQLFlow扩展了SQL语言，以支持模型训练，预测和推理。](https://github.com/sql-machine-learning/sqlflow) 
+- [工匠菜单 - 通过优雅的控制台GUI使用Artisan](https://github.com/DivineOmega/artisan-menu) 
 ### May 6, 2019 
 - [ntp包是基于RFC5905的Simple NTP（SNTP）客户端的实现。它允许您连接到远程NTP服务器并请求有关当前时间的信息。](https://github.com/beevik/ntp) 
 - [将Word文档（.docx文件）转换为HTML](https://github.com/mwilliamson/mammoth.js) 
