@@ -113,6 +113,7 @@
 - [ThinkCMF电商版，基于ThinkCMF5.1开发](https://github.com/thinkcmf/mall) 
 - [Honukai主题和颜色哦我的ZSH和iTerm](https://github.com/oskarkrawczyk/honukai-iterm-zsh) 
 - [cos-php-sdk-v5](https://github.com/tencentyun/cos-php-sdk-v5) 
+- [又拍云 SDK for PHPer](https://github.com/upyun/php-sdk) 
 ### May 7, 2019 
 - [分布式知识图存储](https://github.com/eBay/beam) 
 - [phpEnv一款优雅强大的php集成环境](https://www.phpenv.cn/) 
