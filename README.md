@@ -107,6 +107,7 @@
 - [分布式服务框架Zookeeper -- 管理分布式环境中的数据 ](https://github.com/apache/zookeeper) 
 - [🚇 即刻 Ⓙ SDK ](https://github.com/Sorosliu1029/Jike-Metro) 
 - [优化即刻网页版体验的 Chrome 插件 ](https://github.com/Doila/love-jike-chrome-extension) 
+- [简单的错误处理原语](https://github.com/pkg/errors) 
 ### May 7, 2019 
 - [分布式知识图存储](https://github.com/eBay/beam) 
 - [phpEnv一款优雅强大的php集成环境](https://www.phpenv.cn/) 
