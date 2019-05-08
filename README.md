@@ -99,6 +99,7 @@
 - [将本地服务器公开给外部网络](https://github.com/txthinking/mr2) 
 - [Laravel电子商务套餐，适用于专业，超快的在线商店，复杂的B2B应用程序和#gigacommerce](https://github.com/aimeos/aimeos-laravel) 
 - [Rust通道的多进程直接替换](https://github.com/servo/ipc-channel) 
+- [用于从Google Analytics检索综合浏览量和其他数据的Laravel程序包](https://github.com/spatie/laravel-analytics) 
 ### May 7, 2019 
 - [分布式知识图存储](https://github.com/eBay/beam) 
 - [phpEnv一款优雅强大的php集成环境](https://www.phpenv.cn/) 
