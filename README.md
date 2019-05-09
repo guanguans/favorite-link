@@ -114,6 +114,7 @@
 - [桌面自动化框架](https://github.com/hofstadter-io/self-driving-desktop) 
 - [m4b-tool是一个命令行实用程序，用于合并，拆分和分章有声读物文件，如mp3，ogg，flac，m4a或m4b](https://github.com/sandreas/m4b-tool) 
 - [Laravel项目的自动代码格式](https://github.com/matt-allan/laravel-code-style) 
+- [10 分钟掌握 MySQL 的索引查询优化技巧](https://mp.weixin.qq.com/s?__biz=MzAxNzMwOTQ0NA%3D%3D&mid=2653356691&idx=1&sn=4023fd1792fc6b74faed621f2d7f0928#rd) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
