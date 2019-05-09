@@ -102,6 +102,7 @@
 - [Vuido是一个基于Vue.js创建本机桌面应用程序的框架。使用Vuido的应用程序可以在Windows，OS X和Linux上运行，使用本机GUI组件，不需要Electron。](https://github.com/mimecorg/vuido) 
 - [React in patterns 中文版 ](https://github.com/SangKa/react-in-patterns-cn) 
 - [🔍 让我帮你百度一下？](https://github.com/mengkunsoft/lmbtfy) 
+- [《Mastering GO》中文译本，暂时命名为《玩转 GO》。](https://github.com/hantmac/Mastering_Go_ZH_CN) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
