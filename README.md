@@ -100,6 +100,7 @@
 - [ARP+DNS欺骗工具，网络安全第三次实验，课堂演示用，严禁非法用途。ARPSpoof，wifi hijack，dns spoof](https://github.com/Virus-V/arpZebra) 
 - [Kubernetes中文指南/云原生应用架构实践手册 ](https://github.com/rootsongjc/kubernetes-handbook) 
 - [Vuido是一个基于Vue.js创建本机桌面应用程序的框架。使用Vuido的应用程序可以在Windows，OS X和Linux上运行，使用本机GUI组件，不需要Electron。](https://github.com/mimecorg/vuido) 
+- [React in patterns 中文版 ](https://github.com/SangKa/react-in-patterns-cn) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
