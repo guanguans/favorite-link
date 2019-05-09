@@ -107,6 +107,7 @@
 - [功能齐全的BitTorrent客户端软件包和实用程序](https://github.com/anacrolix/torrent) 
 - [GitLab API客户端，使Go程序能够以简单统一的方式与GitLab交互](https://github.com/xanzy/go-gitlab) 
 - [Golang的HTTP模拟](https://github.com/jarcoal/httpmock) 
+- [《GO专家编程》](https://github.com/RainbowMango/GoExpertProgramming) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
