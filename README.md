@@ -103,6 +103,7 @@
 - [React in patterns 中文版 ](https://github.com/SangKa/react-in-patterns-cn) 
 - [🔍 让我帮你百度一下？](https://github.com/mengkunsoft/lmbtfy) 
 - [《Mastering GO》中文译本，暂时命名为《玩转 GO》。](https://github.com/hantmac/Mastering_Go_ZH_CN) 
+- [Docker Machine的VMWare Workstation驱动程序](https://github.com/docker/machine) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
