@@ -96,6 +96,7 @@
 ### May 9, 2019 
 - [Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。](https://github.com/wxiaoqi/Spring-Cloud-Admin) 
 - [使用Headless Chrome将javascript呈现的页面呈现为HTML的节点服务器。与prerender中间件一起使用。](https://github.com/prerender/prerender) 
+- [一份网络安全入门的资料。](https://github.com/xiangbab/web-hack) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
