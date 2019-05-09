@@ -113,6 +113,7 @@
 - [使用React构建本机Windows应用程序的框架。](https://github.com/microsoft/react-native-windows) 
 - [桌面自动化框架](https://github.com/hofstadter-io/self-driving-desktop) 
 - [m4b-tool是一个命令行实用程序，用于合并，拆分和分章有声读物文件，如mp3，ogg，flac，m4a或m4b](https://github.com/sandreas/m4b-tool) 
+- [Laravel项目的自动代码格式](https://github.com/matt-allan/laravel-code-style) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
