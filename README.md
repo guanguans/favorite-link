@@ -118,6 +118,7 @@
 - [我们发布了一个新的项目—Crypko。在Crypko中，你可以从以太坊区块链上获取并交易AI生成的二次元角色。](https://github.com/makegirlsmoe/makegirlsmoe_web) 
 - [使用MakeGirlsMoe创建动画角色](https://github.com/makegirlsmoe/makegirlsmoe_web) 
 - [MyFlash是由美团点评公司技术工程部开发维护的一个回滚DML操作的工具。该工具通过解析v4版本的binlog，完成回滚操作。相对已有的回滚工具，其增加了更多的过滤选项，让回滚更加容易。 该工具已经在美团点评内部使用](https://github.com/Meituan-Dianping/MyFlash) 
+- [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices) 
 ### May 8, 2019 
 - [Github用户排名](https://github.com/jaywcjlove/github-rank) 
 - [CockroachDB  - 开源的云原生SQL数据库。](https://github.com/cockroachdb/cockroach) 
