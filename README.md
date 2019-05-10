@@ -111,6 +111,7 @@
 - [用于格式化和操作数字的JavaScript库。](https://github.com/adamwdraper/Numeral-js) 
 - [这是在Node.js中构建CLI的框架。 此框架是使用Heroku CLI构建的，但通用于构建任何自定义CLI。](https://github.com/oclif/oclif) 
 - [cvpr2019 papers，极市团队整理 ](https://github.com/extreme-assistant/cvpr2019) 
+- [使用GitHub和Slack集成将您的代码带到您关心的对话中](https://github.com/integrations/slack) 
 ### May 9, 2019 
 - [Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。](https://github.com/wxiaoqi/Spring-Cloud-Admin) 
 - [使用Headless Chrome将javascript呈现的页面呈现为HTML的节点服务器。与prerender中间件一起使用。](https://github.com/prerender/prerender) 
