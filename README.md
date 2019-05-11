@@ -121,6 +121,7 @@
 - [字节跳动](https://github.com/bytedance) 
 - [Chrome运行时性能瓶颈分析](https://juejin.im/post/5cd15712e51d453a393af4c5?utm_medium=fe&utm_source=weixinqun) 
 - [Vue.js剪贴板库（无依赖关系，小于2kb）](https://github.com/euvl/v-clipboard) 
+- [在浏览器中使用同类最佳的编解码器缩小图像。](https://github.com/GoogleChromeLabs/squoosh) 
 ### May 10, 2019 
 - [OpenMV相机模块](https://github.com/openmv/openmv) 
 - [在本笔记本中，我将创建一个预测股票价格变动的完整流程。 跟着我们，我们将取得一些非常好的结果。](https://github.com/borisbanushev/stockpredictionai) 
