@@ -101,6 +101,7 @@
 - [详细介绍如何使用 CSP 防止 XSS 攻击。](http://www.ruanyifeng.com/blog/2016/09/csp.html) 
 - [非常简单的点击复制CSS效果](https://github.com/jolaleye/cssfx) 
 - [英特尔公司](https://github.com/intel) 
+- [下一代对象关系数据库。一个@MagicStack项目。](https://github.com/edgedb/edgedb) 
 ### May 10, 2019 
 - [OpenMV相机模块](https://github.com/openmv/openmv) 
 - [在本笔记本中，我将创建一个预测股票价格变动的完整流程。 跟着我们，我们将取得一些非常好的结果。](https://github.com/borisbanushev/stockpredictionai) 
