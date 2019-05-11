@@ -111,6 +111,7 @@
 - [🛁 PHP版的代码整洁之道 中文翻译](https://github.com/php-cpm/clean-code-php) 
 - [爆破字典](https://github.com/rootphantomer/Blasting_dictionary) 
 - [TensorFlow的Rust语言绑定](https://github.com/tensorflow/rust) 
+- [Yii2 Audit记录并显示web / cli请求，数据库更改，php / js错误和相关数据。](https://github.com/bedezign/yii2-audit) 
 ### May 10, 2019 
 - [OpenMV相机模块](https://github.com/openmv/openmv) 
 - [在本笔记本中，我将创建一个预测股票价格变动的完整流程。 跟着我们，我们将取得一些非常好的结果。](https://github.com/borisbanushev/stockpredictionai) 
