@@ -94,6 +94,9 @@
 
 
 
+
+### May 11, 2019 
+- [BeEF是The Browser Exploitation Framework的缩写。它是一种专注于Web浏览器的渗透测试工具。](https://github.com/beefproject/beef) 
 ### May 10, 2019 
 - [OpenMV相机模块](https://github.com/openmv/openmv) 
 - [在本笔记本中，我将创建一个预测股票价格变动的完整流程。 跟着我们，我们将取得一些非常好的结果。](https://github.com/borisbanushev/stockpredictionai) 
