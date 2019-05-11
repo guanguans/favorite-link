@@ -109,6 +109,7 @@
 - [Symfony编码标准的开发存储库](https://github.com/djoos/Symfony-coding-standard) 
 - [使用php开发实现webdav协议的项目](https://github.com/xinghanking/phpdav) 
 - [🛁 PHP版的代码整洁之道 中文翻译](https://github.com/php-cpm/clean-code-php) 
+- [爆破字典](https://github.com/rootphantomer/Blasting_dictionary) 
 ### May 10, 2019 
 - [OpenMV相机模块](https://github.com/openmv/openmv) 
 - [在本笔记本中，我将创建一个预测股票价格变动的完整流程。 跟着我们，我们将取得一些非常好的结果。](https://github.com/borisbanushev/stockpredictionai) 
