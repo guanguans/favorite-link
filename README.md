@@ -117,6 +117,7 @@
 - [V8 JavaScript引擎的PHP扩展](https://github.com/phpv8/php-v8) 
 - [RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。](https://github.com/aisuhua/restful-api-design-references) 
 - [JWT Framework](https://github.com/web-token/jwt-framework) 
+- [带有解析器的HTML5视频播放器，可以节省流量](https://github.com/bytedance/xgplayer) 
 ### May 10, 2019 
 - [OpenMV相机模块](https://github.com/openmv/openmv) 
 - [在本笔记本中，我将创建一个预测股票价格变动的完整流程。 跟着我们，我们将取得一些非常好的结果。](https://github.com/borisbanushev/stockpredictionai) 
