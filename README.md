@@ -102,6 +102,7 @@
 - [微信/支付宝二维码支付监听器 - 免签接口 指母付/钉钉支付/个人二维码收款系统/微信支付支付宝支付二维码监听自动发货/个人免签系统/个人免签支付 微信.支付宝 个人支付监控 ](https://github.com/wxinpay/wxinpay) 
 - [欢迎使用 composer 免签约支付宝与微信 带监听](https://github.com/ChenSee/ChenPay) 
 - [暗网导航](http://thehiddenwiki.org/) 
+- [通过SSH在任何服务器上运行VS Code。](https://github.com/cdr/sshcode) 
 ### May 11, 2019 
 - [BeEF是The Browser Exploitation Framework的缩写。它是一种专注于Web浏览器的渗透测试工具。](https://github.com/beefproject/beef) 
 - [Content Security Policy 入门教程](http://www.ruanyifeng.com/blog/2016/09/csp.html) 
