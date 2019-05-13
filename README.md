@@ -112,6 +112,7 @@
 - [免费的Google Translate API PHP包。翻译完全免费。](https://github.com/Stichoza/google-translate-php) 
 - [PHP类免费使用Google Translator API。](https://github.com/statickidz/php-google-translate-free) 
 - [一个更好的`npm发布'](https://github.com/sindresorhus/np) 
+- [CLI中基于Redis文本的UI客户端](https://github.com/mylxsw/redis-tui) 
 ### May 12, 2019 
 - [显示和控制您的Android设备](https://github.com/Genymobile/scrcpy) 
 - [Tpay_Svr是微信和支付宝的个人免签 24小时全自动回调支付系统的php服务端程序 ](https://github.com/itmad/Tpay_Svr) 
