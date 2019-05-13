@@ -106,6 +106,7 @@
 - [一个用Rust编写的业余爱好者微内核，具有类似于seL4的基于功能的系统。](https://github.com/sorpaas/rux) 
 - [一系列开源和商业工具，有助于红队运作。](https://github.com/infosecn1nja/Red-Teaming-Toolkit) 
 - [一本专注于Go语法/语义的在线书籍。](https://github.com/go101/go101) 
+- [MSSQL注入提权,bypass的一些总结](https://github.com/aleenzz/MSSQL_SQL_BYPASS_WIKI) 
 ### May 12, 2019 
 - [显示和控制您的Android设备](https://github.com/Genymobile/scrcpy) 
 - [Tpay_Svr是微信和支付宝的个人免签 24小时全自动回调支付系统的php服务端程序 ](https://github.com/itmad/Tpay_Svr) 
