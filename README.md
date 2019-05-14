@@ -105,6 +105,7 @@
 - [用于保存支付宝账单的Xposed库](https://github.com/ykrank/AlipayXposed) 
 - [Alfred 3工作流程，可以非常精确地搜索和终止进程](https://github.com/SamVerschueren/alfred-fkill) 
 - [BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。](https://github.com/TruthHun/BookStack) 
+- [vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数](https://github.com/linclin/gopub) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
