@@ -116,6 +116,7 @@
 - [即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表](https://github.com/KunMinX/Linkage-RecyclerView) 
 - [mysql 启发式规则建议](https://github.com/XiaoMi/soar/blob/master/doc/heuristic.md) 
 - [PHP GIF编码器和解码器](https://github.com/stil/gif-endec) 
+- [一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表 ](https://github.com/crazycodeboy/awesome-flutter-cn) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
