@@ -97,6 +97,9 @@
 
 
 
+
+### May 14, 2019 
+- [将Laravel框架进行扩展配置处理，让其在开发API时更得心应手。](https://github.com/guaosi/Laravel_api_init) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
