@@ -114,6 +114,7 @@
 - [web指纹识别](https://github.com/se55i0n/Webfinger) 
 - [TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。](https://github.com/TideSec/TideFinger) 
 - [即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表](https://github.com/KunMinX/Linkage-RecyclerView) 
+- [mysql 启发式规则建议](https://github.com/XiaoMi/soar/blob/master/doc/heuristic.md) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
