@@ -104,6 +104,7 @@
 - [列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据](https://github.com/gnoloehz/996.OD) 
 - [用于保存支付宝账单的Xposed库](https://github.com/ykrank/AlipayXposed) 
 - [Alfred 3工作流程，可以非常精确地搜索和终止进程](https://github.com/SamVerschueren/alfred-fkill) 
+- [BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。](https://github.com/TruthHun/BookStack) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
