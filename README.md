@@ -102,6 +102,7 @@
 - [将Laravel框架进行扩展配置处理，让其在开发API时更得心应手。](https://github.com/guaosi/Laravel_api_init) 
 - [基于Yii2制作的电子商城](https://github.com/guaosi/yii2-shop) 
 - [列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据](https://github.com/gnoloehz/996.OD) 
+- [用于保存支付宝账单的Xposed库](https://github.com/ykrank/AlipayXposed) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
