@@ -112,6 +112,7 @@
 - [基于Docker的LAMP开发环境](https://github.com/houdunwang/docker-lamp) 
 - [扩展为PHP 7提供高效的数据结构](https://github.com/php-ds/ext-ds) 
 - [web指纹识别](https://github.com/se55i0n/Webfinger) 
+- [TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。](https://github.com/TideSec/TideFinger) 
 ### May 13, 2019 
 - [拥有 218 种格式支持和丰富的 API 接口](https://cloudconvert.com/) 
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) 
