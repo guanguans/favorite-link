@@ -106,6 +106,7 @@
 - [一个逗比写的各种逗比脚本~](https://github.com/ToyoDAdoubi/doubi) 
 - [Consul是一种分布式，高可用性和数据中心感知解决方案，用于跨动态分布式基础架构连接和配置应用程序。](https://github.com/hashicorp/consul) 
 - [《机器学习训练秘籍》](https://github.com/deeplearning-ai/machine-learning-yearning-cn) 
+- [Gin Weibo App](https://github.com/Away0x/gin_weibo) 
 ### May 14, 2019 
 - [将Laravel框架进行扩展配置处理，让其在开发API时更得心应手。](https://github.com/guaosi/Laravel_api_init) 
 - [基于Yii2制作的电子商城](https://github.com/guaosi/yii2-shop) 
