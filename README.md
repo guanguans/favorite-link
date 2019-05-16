@@ -103,6 +103,7 @@
 ### May 16, 2019 
 - [一键部署Shadowsocks服务；免费Shadowsocks账号分享；免费SS账号分享; 翻墙 ](https://github.com/gfw-breaker/ssr-accounts) 
 - [PHP安全SDK及编码规范](https://github.com/momosecurity/rhizobia_P) 
+- [.net反序列化课程中提到的漏洞检测工具](https://github.com/Ivan1ee/NetDeserializeTool) 
 ### May 15, 2019 
 - [Lua 简明教程](https://github.com/wsdjeg/lua-tutorial-cn) 
 - [为Electron实施Chrome扩展API](https://github.com/wexond/electron-extensions) 
