@@ -106,6 +106,7 @@
 - [.net反序列化课程中提到的漏洞检测工具](https://github.com/Ivan1ee/NetDeserializeTool) 
 - [K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具](https://github.com/k8gege/K8tools) 
 - [大型内网渗透自定义插件化扫描器（附C#/VC/Delphi/Python插件Demo源码) 程序采用多线程批量扫描大型内网多个IP段C段主机，目前插件包含: C段旁注扫描、子域名扫描、Ftp密码爆破、Mysql密码爆、系统密码爆破、存活主机扫描、端口扫描、Web信息探测、操作系统版本探测、Cisco思科设备扫描等,支持调用任意外部程序或脚本](https://github.com/k8gege/K8CScan) 
+- [RediSearch的PHP客户端库。](https://github.com/ethanhann/redisearch-php) 
 ### May 15, 2019 
 - [Lua 简明教程](https://github.com/wsdjeg/lua-tutorial-cn) 
 - [为Electron实施Chrome扩展API](https://github.com/wexond/electron-extensions) 
