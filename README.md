@@ -109,6 +109,7 @@
 - [RediSearch的PHP客户端库。](https://github.com/ethanhann/redisearch-php) 
 - [在Kubernetes建立容器图像](https://github.com/GoogleContainerTools/kaniko) 
 - [用Go语言实现PHP内置函数 ](https://github.com/openset/php2go) 
+- [音乐搜索器 - 多站合一音乐搜索解决方案](https://github.com/maicong/music) 
 ### May 15, 2019 
 - [Lua 简明教程](https://github.com/wsdjeg/lua-tutorial-cn) 
 - [为Electron实施Chrome扩展API](https://github.com/wexond/electron-extensions) 
