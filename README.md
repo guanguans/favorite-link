@@ -114,6 +114,7 @@
 - [向你的Hexo里放上一只萌萌哒二次元看板娘!](https://github.com/EYHN/hexo-helper-live2d/blob/master/README.zh-CN.md) 
 - [php hashTable的实现, hash码冲突的解决方法, 一致性hash的php实现](https://github.com/wjcgithub/php_hashTable) 
 - [对开发人员有用的定律，理论，原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh) 
+- [🐉使用多个包管理JavaScript项目的工具。](https://github.com/lerna/lerna) 
 ### May 16, 2019 
 - [一键部署Shadowsocks服务；免费Shadowsocks账号分享；免费SS账号分享; 翻墙 ](https://github.com/gfw-breaker/ssr-accounts) 
 - [PHP安全SDK及编码规范](https://github.com/momosecurity/rhizobia_P) 
