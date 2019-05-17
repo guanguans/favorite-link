@@ -108,6 +108,7 @@
 - [[示例APPS]基本Flutter应用程序，用于flutter开发人员。](https://github.com/iampawan/FlutterExampleApps) 
 - [使用 docker-compose 部署 LNMP 环境，Base Linux、Nginx、MySQL5.7、PHP7.2、Redis5.0、PHPMyAdmin](https://github.com/Tinywan/dnmp) 
 - [一个简单的python工具，用于查明为中国防火墙工作的机器的IP地址。](https://github.com/mothran/mongol) 
+- [一个基于Tornado/mongodb/redis的社区系统。](https://github.com/phith0n/Minos) 
 ### May 16, 2019 
 - [一键部署Shadowsocks服务；免费Shadowsocks账号分享；免费SS账号分享; 翻墙 ](https://github.com/gfw-breaker/ssr-accounts) 
 - [PHP安全SDK及编码规范](https://github.com/momosecurity/rhizobia_P) 
