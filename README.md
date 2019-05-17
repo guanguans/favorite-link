@@ -117,6 +117,7 @@
 - [🐉使用多个包管理JavaScript项目的工具。](https://github.com/lerna/lerna) 
 - [Clickhouse的Fluent查询构建器。还与Laravel / Lumen集成。](https://github.com/the-tinderbox/ClickhouseBuilder) 
 - [php ClickHouse包装器](https://github.com/smi2/phpClickHouse) 
+- [世界上最快的网站构建框架。gohugo.io](https://github.com/gohugoio/hugo) 
 ### May 16, 2019 
 - [一键部署Shadowsocks服务；免费Shadowsocks账号分享；免费SS账号分享; 翻墙 ](https://github.com/gfw-breaker/ssr-accounts) 
 - [PHP安全SDK及编码规范](https://github.com/momosecurity/rhizobia_P) 
