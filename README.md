@@ -122,6 +122,7 @@
 - [这是一个Yii 3项目，用于测试，记录和展示框架的新功能。您可以在yii3.idk.tn上看到它正在运行。](https://github.com/machour/yii3-kitchen-sink) 
 - [Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob) 
 - [一个完全现代的基于文本的浏览器，渲染到TTY和浏览器brow.sh](https://github.com/browsh-org/browsh) 
+- [AI算法工程师手册](http://www.huaxiaozhuan.com/) 
 ### May 16, 2019 
 - [一键部署Shadowsocks服务；免费Shadowsocks账号分享；免费SS账号分享; 翻墙 ](https://github.com/gfw-breaker/ssr-accounts) 
 - [PHP安全SDK及编码规范](https://github.com/momosecurity/rhizobia_P) 
