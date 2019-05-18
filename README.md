@@ -116,6 +116,7 @@
 - [溯光 (TrackRay) 3 插件式渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|AWVS|NMAP|Metasploit） trackray.cn](https://github.com/iSafeBlue/TrackRay) 
 - [超详细的渗透测试思维导图](https://github.com/iSafeBlue/Mind-Map/blob/master/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png) 
 - [使用Vagrant和VirtualBox在本地设置分布式Kubernetes集群以及Istio服务网格，仅使用PoC或Demo。](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) 
+- [Knative入门——构建基于 Kubernetes 的现代化Serverless应用](https://github.com/servicemesher/getting-started-with-knative) 
 ### May 17, 2019 
 - [CLI PHP的PHP版本管理器](https://github.com/ircmaxell/phpvm) 
 - [React的高度可定制和多功能的GraphQL客户端](https://github.com/FormidableLabs/urql) 
