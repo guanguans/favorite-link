@@ -108,6 +108,7 @@
 - [SQL驱动的操作系统检测，监控和分析。](https://github.com/facebook/osquery) 
 - [自动polyfill服务。](https://github.com/Financial-Times/polyfill-service) 
 - [PHP_CodeSniffer的Slevomat编码标准通过提供附加检查的嗅探补充了一致性编码标准](https://github.com/slevomat/coding-standard) 
+- [毫不妥协的Python代码格式化程序](https://github.com/python/black) 
 ### May 17, 2019 
 - [CLI PHP的PHP版本管理器](https://github.com/ircmaxell/phpvm) 
 - [React的高度可定制和多功能的GraphQL客户端](https://github.com/FormidableLabs/urql) 
