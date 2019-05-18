@@ -124,6 +124,7 @@
 - [获取坐标的时区](https://github.com/spatie/google-time-zone) 
 - [用PHP编写的prometheus客户端库](https://github.com/Jimdo/prometheus_client_php) 
 - [用于laravel 5.x的淘宝顶级客户端（SDK）](https://github.com/orzcc/taobao-top-client) 
+- [ThinkSAAS开源社区](https://github.com/thinksaas/ThinkSAAS) 
 ### May 17, 2019 
 - [CLI PHP的PHP版本管理器](https://github.com/ircmaxell/phpvm) 
 - [React的高度可定制和多功能的GraphQL客户端](https://github.com/FormidableLabs/urql) 
