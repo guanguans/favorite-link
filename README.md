@@ -120,6 +120,7 @@
 - [用于查找中国行政区划的PHP实现。](https://github.com/cn/GB2260.php) 
 - [Open Data of China （CN 开放数据计划）](https://github.com/cn?type=source) 
 - [一款基于ThinkPHP5.1的XSS管理平台。](https://github.com/zzb1999/xss-platform) 
+- [Kubernetes包管理](https://github.com/helm/helm) 
 ### May 17, 2019 
 - [CLI PHP的PHP版本管理器](https://github.com/ircmaxell/phpvm) 
 - [React的高度可定制和多功能的GraphQL客户端](https://github.com/FormidableLabs/urql) 
