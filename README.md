@@ -110,6 +110,7 @@
 - [PHP_CodeSniffer的Slevomat编码标准通过提供附加检查的嗅探补充了一致性编码标准](https://github.com/slevomat/coding-standard) 
 - [毫不妥协的Python代码格式化程序](https://github.com/python/black) 
 - [应用协议多路复用器（例如，在同一端口上共享SSH和HTTPS）](https://github.com/yrutschle/sslh) 
+- [🏆使用semver.org和conventionalcommits.org自动化版本控制和CHANGELOG生成](https://github.com/conventional-changelog/standard-version) 
 ### May 17, 2019 
 - [CLI PHP的PHP版本管理器](https://github.com/ircmaxell/phpvm) 
 - [React的高度可定制和多功能的GraphQL客户端](https://github.com/FormidableLabs/urql) 
