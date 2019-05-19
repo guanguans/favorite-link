@@ -106,6 +106,7 @@
 ### May 19, 2019 
 - [HTML5学习、总结、实践](https://github.com/NalvyBoo/HTML5) 
 - [用于管理用Delphi编写的MariaDB，MySQL，SQL Server和PostgreSQL的轻量级客户端](https://github.com/HeidiSQL/HeidiSQL) 
+- [管理Laravel翻译文件](https://github.com/barryvdh/laravel-translation-manager) 
 ### May 18, 2019 
 - [曾是一款商业运营级B2B服务平台APP...](https://github.com/Josin22/Yuncai) 
 - [📦🐈一个现代，快速，可靠的包管理器;yarn组织的一部分](https://github.com/yarnpkg/berry) 
