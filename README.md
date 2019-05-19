@@ -111,6 +111,7 @@
 - [将字符串转换为slug。包括Symfony，Silex，Laravel，Zend Framework 2，Twig，Nette和Latte的集成。](https://github.com/cocur/slugify) 
 - [Oh My Tmux!使用❤️制作的漂亮且多功能的tmux配置（imho是最好的tmux配置，可以正常工作）](https://github.com/gpakosz/.tmux) 
 - [通过PHP执行PhantomJS命令](https://github.com/jonnnnyw/php-phantomjs) 
+- [Kubernetes指南](https://github.com/feiskyer/kubernetes-handbook) 
 ### May 18, 2019 
 - [曾是一款商业运营级B2B服务平台APP...](https://github.com/Josin22/Yuncai) 
 - [📦🐈一个现代，快速，可靠的包管理器;yarn组织的一部分](https://github.com/yarnpkg/berry) 
