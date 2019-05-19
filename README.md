@@ -113,6 +113,7 @@
 - [通过PHP执行PhantomJS命令](https://github.com/jonnnnyw/php-phantomjs) 
 - [Kubernetes指南](https://github.com/feiskyer/kubernetes-handbook) 
 - [用于Kubernetes的NGINX Ingress控制器](https://github.com/kubernetes/ingress-nginx) 
+- [记录测试套件的HTTP交互并在将来的测试运行期间重放它们，以进行快速，确定，准确的测试。](https://github.com/php-vcr/php-vcr) 
 ### May 18, 2019 
 - [曾是一款商业运营级B2B服务平台APP...](https://github.com/Josin22/Yuncai) 
 - [📦🐈一个现代，快速，可靠的包管理器;yarn组织的一部分](https://github.com/yarnpkg/berry) 
