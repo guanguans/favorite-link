@@ -116,6 +116,7 @@
 - [㊙️voyager 的中文汉化版 基于laravel 的管理后台 权限控制，菜单，数据库手脚架，长期更新](https://github.com/daimiao/voyager-zh) 
 - [如何用一款小工具大大加速MySQL SQL语句优化(附源码)](https://dbaplus.cn/blog-77-736-1.html) 
 - [数据库审核平台](https://github.com/CreditEaseDBA/Themis) 
+- [该程序可以方便DBA的日常SQL调优工作。其原理是将优化相关的信息，一次性提交给DBA，可快速定位问题。](https://github.com/bjbean/mysql-tuning) 
 ### May 19, 2019 
 - [HTML5学习、总结、实践](https://github.com/NalvyBoo/HTML5) 
 - [用于管理用Delphi编写的MariaDB，MySQL，SQL Server和PostgreSQL的轻量级客户端](https://github.com/HeidiSQL/HeidiSQL) 
