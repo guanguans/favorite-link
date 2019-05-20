@@ -114,6 +114,7 @@
 - [Alibaba](https://github.com/alibaba?type=source) 
 - [SQL审核查询平台，查询支持(MySQL/MsSQL/Oracle/Redis/PostgreSQL)、MySQL优化(SQLAdvisor|SOAR|SQLTuning)、慢日志管理、表结构对比、会话管理、阿里云RDS管理](https://github.com/hhyo/Archery) 
 - [㊙️voyager 的中文汉化版 基于laravel 的管理后台 权限控制，菜单，数据库手脚架，长期更新](https://github.com/daimiao/voyager-zh) 
+- [如何用一款小工具大大加速MySQL SQL语句优化(附源码)](https://dbaplus.cn/blog-77-736-1.html) 
 ### May 19, 2019 
 - [HTML5学习、总结、实践](https://github.com/NalvyBoo/HTML5) 
 - [用于管理用Delphi编写的MariaDB，MySQL，SQL Server和PostgreSQL的轻量级客户端](https://github.com/HeidiSQL/HeidiSQL) 
