@@ -112,6 +112,7 @@
 - [VLC媒体播放器](https://github.com/videolan/vlc) 
 - [信息安全方面面试清单](https://github.com/tiaotiaolong/sec_interview_know_list) 
 - [记录一些常见的Web安全站点](https://github.com/Smi1e521/Web-Security-Note) 
+- [整合工控安全相关资源](https://github.com/w3h/icsmaster) 
 ### May 20, 2019 
 - [《Linux 性能优化实战》案例](https://github.com/feiskyer/linux-perf-examples) 
 - [利用随机异或无限免杀d盾](https://github.com/yzddmr6/php_xor_bypass) 
