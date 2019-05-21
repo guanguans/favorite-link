@@ -114,6 +114,7 @@
 - [记录一些常见的Web安全站点](https://github.com/Smi1e521/Web-Security-Note) 
 - [整合工控安全相关资源](https://github.com/w3h/icsmaster) 
 - [Web Pentesting Fuzz 字典,一个就够了。](https://github.com/TheKingOfDuck/fuzzDicts) 
+- [MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具)](https://github.com/TheKingOfDuck/MySQLMonitor) 
 ### May 20, 2019 
 - [《Linux 性能优化实战》案例](https://github.com/feiskyer/linux-perf-examples) 
 - [利用随机异或无限免杀d盾](https://github.com/yzddmr6/php_xor_bypass) 
