@@ -112,6 +112,7 @@
 - [用于在GitHub上显示项目依赖项的扩展](https://github.com/BrainMaestro/packagehub) 
 - [超实用工具，看老司机怎么把 Github 玩出花来](https://github.com/github-serendipity/github-serendipity.github.io/issues/1) 
 - [持续集成服务列表](https://github.com/ligurio/awesome-ci) 
+- [🌱轻松，高性能的Web框架。创建出血快速的Web服务。有机。纯C ++](https://github.com/oatpp/oatpp) 
 ### May 21, 2019 
 - [Egret Engine包含了白鹭时代研发的遵循HTML5标准的游戏引擎，他包括 2D / 3D 渲染核心、EUI体系、音频管理、资源管理等游戏引擎的常用模块。](https://github.com/egret-labs/egret-core/blob/master/README_CN.md) 
 - [golang版本的hangout,](https://github.com/childe/gohangout) 
