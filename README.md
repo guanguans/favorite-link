@@ -121,6 +121,7 @@
 - [用于编写者执行PHP质量保证工具的综合插件](https://github.com/Webysther/composer-plugin-qa) 
 - [制作packagist.org的镜像](https://github.com/hirak/packagist-crawler) 
 - [使用后端逻辑验证表单的简便方法](https://github.com/spatie/form-backend-validation) 
+- [让您的Laravel应用程序符合允许cookie法律](https://github.com/spatie/laravel-cookie-consent) 
 ### May 21, 2019 
 - [Egret Engine包含了白鹭时代研发的遵循HTML5标准的游戏引擎，他包括 2D / 3D 渲染核心、EUI体系、音频管理、资源管理等游戏引擎的常用模块。](https://github.com/egret-labs/egret-core/blob/master/README_CN.md) 
 - [golang版本的hangout,](https://github.com/childe/gohangout) 
