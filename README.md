@@ -124,6 +124,7 @@
 - [让您的Laravel应用程序符合允许cookie法律](https://github.com/spatie/laravel-cookie-consent) 
 - [Tinker in your browser](https://github.com/spatie/laravel-web-tinker) 
 - [向Laravel应用添加标签和可标记行为](https://github.com/spatie/laravel-tags) 
+- [Python3编写的CMS漏洞检测框架](https://github.com/Lucifer1993/AngelSword) 
 ### May 21, 2019 
 - [Egret Engine包含了白鹭时代研发的遵循HTML5标准的游戏引擎，他包括 2D / 3D 渲染核心、EUI体系、音频管理、资源管理等游戏引擎的常用模块。](https://github.com/egret-labs/egret-core/blob/master/README_CN.md) 
 - [golang版本的hangout,](https://github.com/childe/gohangout) 
