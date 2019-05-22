@@ -127,6 +127,7 @@
 - [Python3编写的CMS漏洞检测框架](https://github.com/Lucifer1993/AngelSword) 
 - [Dropbox API v2的最小实现](https://github.com/spatie/dropbox-api) 
 - [适用于Google云端硬盘的Flysystem适配器](https://github.com/nao-pon/flysystem-google-drive) 
+- [Web安全测试中常用的爆破字典，包括网站后台、文件包含、WebShell密码、常用管理员用户名及密码等等！](https://github.com/3had0w/Blasting-Dictionary) 
 ### May 21, 2019 
 - [Egret Engine包含了白鹭时代研发的遵循HTML5标准的游戏引擎，他包括 2D / 3D 渲染核心、EUI体系、音频管理、资源管理等游戏引擎的常用模块。](https://github.com/egret-labs/egret-core/blob/master/README_CN.md) 
 - [golang版本的hangout,](https://github.com/childe/gohangout) 
