@@ -124,6 +124,7 @@
 - [EasySwoole分布式](https://github.com/esd-projects/esd-server) 
 - [红队测试员和安全研究人员最好的黑客小工具。](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) 
 - [如何简单入门使用Travis-CI持续集成](https://github.com/nukc/how-to-use-travis-ci) 
+- [快速下载客户端，支持HTTP和P2P。](https://github.com/monkeyWie/gopeed) 
 ### May 22, 2019 
 - [Github 导航栏加强](https://github.com/) 
 - [用于创建彩色控制台输出的简单库。](https://github.com/JakubOnderka/PHP-Console-Color) 
