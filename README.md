@@ -110,6 +110,7 @@
 ### May 23, 2019 
 - [CentOS + Caddy + Aria2 + AriaNg一键安装离线下载、文件管理。](https://github.com/helloxz/ccaa) 
 - [用Aria2接管chrome的下载。](https://github.com/ghostry/toAria2) 
+- [Chrome多线程下载管理器扩展，基于Aria2和AriaNg。](https://github.com/jae-jae/camtd) 
 ### May 22, 2019 
 - [Github 导航栏加强](https://github.com/) 
 - [用于创建彩色控制台输出的简单库。](https://github.com/JakubOnderka/PHP-Console-Color) 
