@@ -112,6 +112,7 @@
 - [用Aria2接管chrome的下载。](https://github.com/ghostry/toAria2) 
 - [Chrome多线程下载管理器扩展，基于Aria2和AriaNg。](https://github.com/jae-jae/camtd) 
 - [让基于 Guzzle 的项目完美无缝兼容 Swoole 协程 ](https://github.com/Yurunsoft/Guzzle-Swoole) 
+- [Rust设计模式的目录](https://github.com/rust-unofficial/patterns) 
 ### May 22, 2019 
 - [Github 导航栏加强](https://github.com/) 
 - [用于创建彩色控制台输出的简单库。](https://github.com/JakubOnderka/PHP-Console-Color) 
