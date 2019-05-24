@@ -116,6 +116,7 @@
 - [“不要编写你的UI代码，画它！”](https://github.com/karanchahal/DoodleMaster) 
 - [使用swoole扩展和php开发的一个在线聊天室](https://github.com/hellosee/swoole-webim-demo) 
 - [五合一收款码在线生成,35个模板 支持微信支付、支付宝支付、手机QQ支付、京东钱包、百度钱包,五合一收款](https://github.com/insoxin/qrpay) 
+- [使用CSS选择器的PHP DOM解析器/查询](https://github.com/tj/php-selector) 
 ### May 23, 2019 
 - [CentOS + Caddy + Aria2 + AriaNg一键安装离线下载、文件管理。](https://github.com/helloxz/ccaa) 
 - [用Aria2接管chrome的下载。](https://github.com/ghostry/toAria2) 
