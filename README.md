@@ -118,6 +118,7 @@
 - [五合一收款码在线生成,35个模板 支持微信支付、支付宝支付、手机QQ支付、京东钱包、百度钱包,五合一收款](https://github.com/insoxin/qrpay) 
 - [使用CSS选择器的PHP DOM解析器/查询](https://github.com/tj/php-selector) 
 - [NuSOAP for PHP 5.4 - 7.1](https://github.com/econea/nusoap) 
+- [超过 170 个基于 bootstrap 的页面模块](https://github.com/froala/design-blocks) 
 ### May 23, 2019 
 - [CentOS + Caddy + Aria2 + AriaNg一键安装离线下载、文件管理。](https://github.com/helloxz/ccaa) 
 - [用Aria2接管chrome的下载。](https://github.com/ghostry/toAria2) 
