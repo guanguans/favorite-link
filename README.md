@@ -110,6 +110,7 @@
 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
 ### May 23, 2019 
 - [CentOS + Caddy + Aria2 + AriaNg一键安装离线下载、文件管理。](https://github.com/helloxz/ccaa) 
 - [用Aria2接管chrome的下载。](https://github.com/ghostry/toAria2) 
