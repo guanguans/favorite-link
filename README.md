@@ -114,6 +114,7 @@
 - [适用于Composer和PSR-0的PHP简单HTML DOM解析器](https://github.com/sunra/php-simple-html-dom-parser) 
 - [RollerworksSearch  -  PHP搜索系统成为可能](https://github.com/rollerworks/search) 
 - [“不要编写你的UI代码，画它！”](https://github.com/karanchahal/DoodleMaster) 
+- [使用swoole扩展和php开发的一个在线聊天室](https://github.com/hellosee/swoole-webim-demo) 
 ### May 23, 2019 
 - [CentOS + Caddy + Aria2 + AriaNg一键安装离线下载、文件管理。](https://github.com/helloxz/ccaa) 
 - [用Aria2接管chrome的下载。](https://github.com/ghostry/toAria2) 
