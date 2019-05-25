@@ -120,6 +120,7 @@
 - [此PHP包将Algolia Search API集成到Laravel Eloquent ORM中。它基于algoliasearch-client-php包。](https://github.com/algolia/algoliasearch-laravel) 
 - [该软件包扩展了Laravel 5附带的核心文件生成器](https://github.com/laracasts/Laravel-5-Generators-Extended) 
 - [使用Laravel应用程序内的Markdown为您的产品撰写华丽的文档。](https://github.com/saleem-hadad/larecipe) 
+- [一组示例，演示如何从PHP调用Google Cloud服务。](https://github.com/GoogleCloudPlatform/php-docs-samples) 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
