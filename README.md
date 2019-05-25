@@ -125,6 +125,7 @@
 - [将API密钥添加到Laravel模型](https://github.com/givebutter/laravel-keyable) 
 - [一个提供开发中常用数据的一个稳定聚合Api接口源，运行于独立服务器，免费，且长期维护，会持续添加新的接口！](https://github.com/MZCretin/RollToolsApi) 
 - [Gaea是一个mysql代理，由xiaomi b2c-systech团队开发。](https://github.com/XiaoMi/Gaea) 
+- [Roundcube Webmail是一个基于浏览器的多语言IMAP客户端，具有类似应用程序的用户界面。它提供了您期望从电子邮件客户端获得的全部功能，包括MIME支持，地址簿，文件夹管理，邮件搜索和拼写检查。Roundcube Webmail是用PHP编写的，需要MySQL，PostgreSQL或SQLite数据库。使用其插件API，它可以轻松扩展，用户界面可以使用皮肤完全自定义。](https://github.com/roundcube/roundcubemail) 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
