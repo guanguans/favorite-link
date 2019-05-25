@@ -119,6 +119,7 @@
 - [Laravel Scout提供了一个简单的基于驱动程序的解决方案，用于为您的Eloquent模型添加全文搜索。](https://github.com/laravel/scout) 
 - [此PHP包将Algolia Search API集成到Laravel Eloquent ORM中。它基于algoliasearch-client-php包。](https://github.com/algolia/algoliasearch-laravel) 
 - [该软件包扩展了Laravel 5附带的核心文件生成器](https://github.com/laracasts/Laravel-5-Generators-Extended) 
+- [使用Laravel应用程序内的Markdown为您的产品撰写华丽的文档。](https://github.com/saleem-hadad/larecipe) 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
