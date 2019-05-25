@@ -115,6 +115,7 @@
 - [laravel-docker](https://github.com/lorisleiva/laravel-docker) 
 - [它是一个库，它为您提供了一些可用的类，以便能够使用常见的DDD模式。](https://github.com/szjani/predaddy) 
 - [使用PHP的内置开发Web服务器（不用于生产用途）。](https://github.com/sindresorhus/php-server) 
+- [PHP安全建议数据库](https://github.com/FriendsOfPHP/security-advisories) 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
