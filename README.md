@@ -122,6 +122,7 @@
 - [使用Laravel应用程序内的Markdown为您的产品撰写华丽的文档。](https://github.com/saleem-hadad/larecipe) 
 - [一组示例，演示如何从PHP调用Google Cloud服务。](https://github.com/GoogleCloudPlatform/php-docs-samples) 
 - [免费的Google Translate API PHP包。翻译完全免费。](https://github.com/Stichoza/google-translate-php) 
+- [将API密钥添加到Laravel模型](https://github.com/givebutter/laravel-keyable) 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
