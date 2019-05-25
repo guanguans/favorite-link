@@ -124,6 +124,7 @@
 - [免费的Google Translate API PHP包。翻译完全免费。](https://github.com/Stichoza/google-translate-php) 
 - [将API密钥添加到Laravel模型](https://github.com/givebutter/laravel-keyable) 
 - [一个提供开发中常用数据的一个稳定聚合Api接口源，运行于独立服务器，免费，且长期维护，会持续添加新的接口！](https://github.com/MZCretin/RollToolsApi) 
+- [Gaea是一个mysql代理，由xiaomi b2c-systech团队开发。](https://github.com/XiaoMi/Gaea) 
 ### May 24, 2019 
 - [这个开源有助于了解 Composer 镜像的原理，也可以独立部署 Composer 镜像站点](https://github.com/zencodex/composer-mirror) 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/zh-cn/README.md) 
