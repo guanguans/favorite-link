@@ -109,6 +109,9 @@
 
 
 
+
+### May 26, 2019 
+- [Additional completion definitions for Zsh.](https://github.com/zsh-users/zsh-completions) 
 ### May 25, 2019 
 - [Webpack仪表板的Electron Desktop GUI](https://github.com/FormidableLabs/electron-webpack-dashboard) 
 - [Markdown-css 是一个命令行工具，用来把 css 样式转换成 html 内联样式。](https://github.com/wecatch/markdown-css/blob/master/README-zh_cn.md) 
