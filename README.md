@@ -111,6 +111,9 @@
 
 
 
+
+### May 28, 2019 
+- [Python黑客编程之极速入门](https://github.com/xuanhun/PythonHackingBook1) 
 ### May 27, 2019 
 - [⭕ Go 语言常用工具库，这个轱辘还算圆！](https://github.com/b3log/gulu) 
 - [PHP + Swoole 实现的简单聊天室](https://github.com/moell-peng/webim) 
