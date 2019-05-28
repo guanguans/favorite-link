@@ -120,6 +120,7 @@
 - [关于如何在2k行中构建自己的深度学习系统的教程代码](https://github.com/tqchen/tinyflow) 
 - [微信支付、支付宝支付等的Go版本SDK](https://github.com/iGoogle-ink/gopay) 
 - [使用场景为中文|英文 敏感词过滤/关键词过滤字典树,前缀树，内链建设，搜索提示。](https://github.com/AbelZhou/PHP-TrieTree) 
+- [chrome插件，可把网页微信伪装成云笔记，让你神不知鬼不觉地上微信~](https://github.com/YGYOOO/WeChat-Shelter) 
 ### May 27, 2019 
 - [⭕ Go 语言常用工具库，这个轱辘还算圆！](https://github.com/b3log/gulu) 
 - [PHP + Swoole 实现的简单聊天室](https://github.com/moell-peng/webim) 
