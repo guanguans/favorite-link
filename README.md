@@ -123,6 +123,7 @@
 - [chrome插件，可把网页微信伪装成云笔记，让你神不知鬼不觉地上微信~](https://github.com/YGYOOO/WeChat-Shelter) 
 - [使用企业微信通知你的系统异常](https://github.com/Hanson/laravel-work-exception) 
 - [DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。](https://github.com/BugScanTeam/DNSLog) 
+- [Bark-Chrome-Extension](https://github.com/xlvecle/Bark-Chrome-Extension) 
 ### May 27, 2019 
 - [⭕ Go 语言常用工具库，这个轱辘还算圆！](https://github.com/b3log/gulu) 
 - [PHP + Swoole 实现的简单聊天室](https://github.com/moell-peng/webim) 
