@@ -116,6 +116,7 @@
 - [Python黑客编程之极速入门](https://github.com/xuanhun/PythonHackingBook1) 
 - [Elasticsearch，Logstash，Kibana（ELK）Docker镜像](https://github.com/spujadas/elk-docker) 
 - [用于Checkout RESTful API的PHP SDK](https://github.com/paypal/Checkout-PHP-SDK) 
+- [从文本描述生成UML图](https://github.com/plantuml/plantuml) 
 ### May 27, 2019 
 - [⭕ Go 语言常用工具库，这个轱辘还算圆！](https://github.com/b3log/gulu) 
 - [PHP + Swoole 实现的简单聊天室](https://github.com/moell-peng/webim) 
