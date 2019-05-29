@@ -119,6 +119,7 @@
 - [一个免费的开源Windows“屏幕捕获”设备和记录器](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) 
 - [国内外为数不多致力于极致体验的超强全自研跨平台(windows/android/iOS)流媒体内核](https://github.com/daniulive/SmarterStreaming) 
 - [多语言Web CGI接口利用。](https://github.com/wofeiwo/webcgi-exploits) 
+- [Pi-Hole系统的临时解除阻塞解决方案和阻止](https://github.com/roenw/PiPass) 
 ### May 28, 2019 
 - [Python黑客编程之极速入门](https://github.com/xuanhun/PythonHackingBook1) 
 - [Elasticsearch，Logstash，Kibana（ELK）Docker镜像](https://github.com/spujadas/elk-docker) 
