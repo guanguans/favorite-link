@@ -116,6 +116,7 @@
 
 ### May 30, 2019 
 - [一个macOS菜单栏应用程序，可让您更好地控制夜班。](https://github.com/thompsonate/Shifty) 
+- [定制你的macOS Mojave体验](https://github.com/zenangst/Gray) 
 ### May 29, 2019 
 - [Saber, PHP异步协程HTTP客户端 ](https://github.com/swlib/saber) 
 - [捕获屏幕，音频，光标，鼠标点击和击键](https://github.com/MathewSachin/Captura) 
