@@ -123,6 +123,7 @@
 - [nginx服务器的实时指标](https://github.com/lebinh/ngxtop) 
 - [知乎非官方 API 库 Go 实现版本，获取知乎内容信息，包括问题，答案，用户，收藏夹等信息](https://github.com/DeanThompson/zhihu-go) 
 - [获取知乎内容信息，包括问题，答案，用户，收藏夹信息](https://github.com/egrcc/zhihu-python) 
+- [Twitter雪花算法snowflake的PHP实现，解决并发可能造成id重复的问题](https://github.com/wantp/snowflake) 
 ### May 29, 2019 
 - [Saber, PHP异步协程HTTP客户端 ](https://github.com/swlib/saber) 
 - [捕获屏幕，音频，光标，鼠标点击和击键](https://github.com/MathewSachin/Captura) 
