@@ -119,6 +119,7 @@
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/f-prime/fist) 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/icepy/chrome-extension-book) 
 - [一个PHP代码质量的工具](https://github.com/phpro/grumphp) 
+- [此工具检查PHP文件的语法比使用fancier输出进行串行检查更快。](https://github.com/JakubOnderka/PHP-Parallel-Lint) 
 ### May 30, 2019 
 - [一个macOS菜单栏应用程序，可让您更好地控制夜班。](https://github.com/thompsonate/Shifty) 
 - [定制你的macOS Mojave体验](https://github.com/zenangst/Gray) 
