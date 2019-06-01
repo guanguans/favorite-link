@@ -121,6 +121,7 @@
 - [Laravel的比特币JSON-RPC服务提供商。](https://github.com/denpamusic/laravel-bitcoinrpc) 
 - [完全经过单元测试的比特币JSON-RPC客户端，基于GuzzleHttp。](https://github.com/denpamusic/php-bitcoinrpc) 
 - [OverNote](https://github.com/overnote?type=source) 
+- [使用Github作为您的图像托管服务。](https://github.com/jrainlau/picee) 
 ### May 31, 2019 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/f-prime/fist) 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/icepy/chrome-extension-book) 
