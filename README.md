@@ -124,6 +124,7 @@
 - [使用Github作为您的图像托管服务。](https://github.com/jrainlau/picee) 
 - [一个有效，快速，稳定的PHP日志包。](https://github.com/SeasX/seas-logger) 
 - [Diff是一个小型独立PHP库，用于表示数据结构之间的差异，计算这些差异以及将它们作为补丁应用。](https://github.com/wmde/Diff) 
+- [快递物流查询-快递查询接口组件。(多平台兼容)](https://github.com/finecho/logistics) 
 ### May 31, 2019 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/f-prime/fist) 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/icepy/chrome-extension-book) 
