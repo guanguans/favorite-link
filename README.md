@@ -122,6 +122,7 @@
 - [完全经过单元测试的比特币JSON-RPC客户端，基于GuzzleHttp。](https://github.com/denpamusic/php-bitcoinrpc) 
 - [OverNote](https://github.com/overnote?type=source) 
 - [使用Github作为您的图像托管服务。](https://github.com/jrainlau/picee) 
+- [一个有效，快速，稳定的PHP日志包。](https://github.com/SeasX/seas-logger) 
 ### May 31, 2019 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/f-prime/fist) 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/icepy/chrome-extension-book) 
