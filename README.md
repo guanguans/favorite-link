@@ -128,6 +128,7 @@
 - [提供 5 家平台解析 ip 地址服务](https://github.com/icecho/easy-ip) 
 - [适合中文的简历模板收集](https://github.com/dyweb/awesome-resume-for-chinese) 
 - [适合中文的简历模板收集](https://github.com/dyweb/awesome-resume-for-chinese) 
+- [在标签中整理多个应用！](https://github.com/sentialx/multrin/) 
 ### May 31, 2019 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/f-prime/fist) 
 - [轻量级全文索引服务器，专注于速度和效率。](https://github.com/icepy/chrome-extension-book) 
