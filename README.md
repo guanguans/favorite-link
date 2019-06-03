@@ -130,6 +130,7 @@
 - [Recsech是一种在目标网站上进行足迹和侦察的工具。](https://github.com/radenvodka/Recsech) 
 - [Flotato将自己变成任何应用程序，只需给它一个新名称即可。这就像桌面电话网络应用程序;紧凑，重量轻，速度令人难以置信。](https://flotato.com/) 
 - [Vim  - 文本编辑器 - 适用于Mac OS X.](https://github.com/macvim-dev/macvim) 
+- [proSoar在线飙升工具是一款针对滑翔机飞行员的越野飞行在线任务规划器。](https://github.com/TobiasLohner/proSoar) 
 ### June 2, 2019 
 - [根据IP地址确定网站访问者的地理位置。](https://github.com/Torann/laravel-geoip) 
 ### June 1, 2019 
