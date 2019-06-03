@@ -133,6 +133,7 @@
 - [proSoar在线飙升工具是一款针对滑翔机飞行员的越野飞行在线任务规划器。](https://github.com/TobiasLohner/proSoar) 
 - [基于小米 soar 的开源 sql 分析与优化的 web 图形化工具，支持 soar 配置的添加、修改、复制，多配置切换，配置的导出、导入与导入功能。](https://github.com/xiyangxixian/soar-web) 
 - [a sql optimizer plug for phpmyadmin](https://github.com/xiyangxixian/phpmyadmin-soar) 
+- [Kint  - 一个强大而现代的PHP调试工具。](https://github.com/kint-php/kint) 
 ### June 2, 2019 
 - [根据IP地址确定网站访问者的地理位置。](https://github.com/Torann/laravel-geoip) 
 ### June 1, 2019 
