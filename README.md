@@ -128,6 +128,7 @@
 - [Algorithm Visualizer是一个交互式在线平台，可以从代码中可视化算法。](https://github.com/algorithm-visualizer/algorithm-visualizer) 
 - [XSS的开发](https://github.com/nettitude/xss_payloads) 
 - [Recsech是一种在目标网站上进行足迹和侦察的工具。](https://github.com/radenvodka/Recsech) 
+- [Flotato将自己变成任何应用程序，只需给它一个新名称即可。这就像桌面电话网络应用程序;紧凑，重量轻，速度令人难以置信。](https://flotato.com/) 
 ### June 2, 2019 
 - [根据IP地址确定网站访问者的地理位置。](https://github.com/Torann/laravel-geoip) 
 ### June 1, 2019 
