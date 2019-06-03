@@ -122,6 +122,7 @@
 - [Apache Dubbo Go 语言实现](https://github.com/dubbo/go-for-apache-dubbo/blob/master/README_CN.md) 
 - [标准Go项目布局](https://github.com/golang-standards/project-layout) 
 - [使Laravel模型可版本化](https://github.com/overtrue/laravel-versionable) 
+- [一个小的（215B）和快速最近最少使用（LRU）缓存](https://github.com/lukeed/flru) 
 ### June 2, 2019 
 - [根据IP地址确定网站访问者的地理位置。](https://github.com/Torann/laravel-geoip) 
 ### June 1, 2019 
