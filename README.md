@@ -131,6 +131,7 @@
 - [Flotato将自己变成任何应用程序，只需给它一个新名称即可。这就像桌面电话网络应用程序;紧凑，重量轻，速度令人难以置信。](https://flotato.com/) 
 - [Vim  - 文本编辑器 - 适用于Mac OS X.](https://github.com/macvim-dev/macvim) 
 - [proSoar在线飙升工具是一款针对滑翔机飞行员的越野飞行在线任务规划器。](https://github.com/TobiasLohner/proSoar) 
+- [基于小米 soar 的开源 sql 分析与优化的 web 图形化工具，支持 soar 配置的添加、修改、复制，多配置切换，配置的导出、导入与导入功能。](https://github.com/xiyangxixian/soar-web) 
 ### June 2, 2019 
 - [根据IP地址确定网站访问者的地理位置。](https://github.com/Torann/laravel-geoip) 
 ### June 1, 2019 
