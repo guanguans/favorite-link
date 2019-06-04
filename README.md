@@ -124,6 +124,7 @@
 - [为您的网站或应用创建漫画](https://github.com/gramener/comicgen) 
 - [用于与Apache ZooKeeper连接的PHP扩展](https://github.com/andreiz/php-zookeeper) 
 - [一个开放可靠的容器运行时](https://github.com/containerd/containerd) 
+- [windows-kernel-exploits Windows平台提权漏洞集合 ](https://github.com/SecWiki/windows-kernel-exploits) 
 ### June 3, 2019 
 - [Apache Dubbo Go 语言实现](https://github.com/dubbo/go-for-apache-dubbo/blob/master/README_CN.md) 
 - [标准Go项目布局](https://github.com/golang-standards/project-layout) 
