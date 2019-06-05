@@ -142,6 +142,7 @@
 - [一个php swagger注释和解析库](https://github.com/zircote/swagger-php) 
 - [文本翻译-API-V3-PHP](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-PHP) 
 - [qeephp](https://github.com/dualface/qeephp2_x) 
+- [QeePHP 是全世界第一个基于“领域驱动开发”思想设计和实现的 PHP 开发框架，为创建当今越来越复杂的 Web 应用提供了全方位支持。](https://github.com/firzen/QeePHP) 
 ### June 4, 2019 
 - [基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台](https://github.com/myide/see) 
 - [为您的网站或应用创建漫画](https://github.com/gramener/comicgen) 
