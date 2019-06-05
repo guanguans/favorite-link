@@ -136,6 +136,7 @@
 - [编码WebIDE社区版](https://github.com/Coding/WebIDE) 
 - [CODING iOS 客户端源代码](https://github.com/Coding/Coding-iOS) 
 - [浏览器内代码编辑器](https://github.com/codemirror/CodeMirror) 
+- [个人收集的Mac的App](https://github.com/chenjie1219/MacApps) 
 ### June 4, 2019 
 - [基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台](https://github.com/myide/see) 
 - [为您的网站或应用创建漫画](https://github.com/gramener/comicgen) 
