@@ -127,6 +127,7 @@
 - [一款真正的跨平台摸鱼神器](https://github.com/cteams/Thief-Book) 
 - [基于KCP和N：M复用的稳定安全隧道](https://github.com/xtaci/kcptun) 
 - [中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) 
+- [用于管理和维护多语言预提交挂钩的框架。](https://github.com/pre-commit/pre-commit) 
 ### June 4, 2019 
 - [基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台](https://github.com/myide/see) 
 - [为您的网站或应用创建漫画](https://github.com/gramener/comicgen) 
