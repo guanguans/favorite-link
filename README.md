@@ -144,6 +144,7 @@
 - [qeephp](https://github.com/dualface/qeephp2_x) 
 - [QeePHP 是全世界第一个基于“领域驱动开发”思想设计和实现的 PHP 开发框架，为创建当今越来越复杂的 Web 应用提供了全方位支持。](https://github.com/firzen/QeePHP) 
 - [Huginn是一个用于构建代理的系统，可以在线为您执行自动化任务。 他们可以阅读网络，观看活动，并代表您采取行动。 Huginn的代理创建和使用事件，沿有向图传播它们。 在您自己的服务器上将其视为IFTTT或Zapier的可攻击版本。](https://github.com/huginn/huginn) 
+- [开源版的 `ifttt`](https://github.com/huginn/huginn) 
 ### June 4, 2019 
 - [基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台](https://github.com/myide/see) 
 - [为您的网站或应用创建漫画](https://github.com/gramener/comicgen) 
