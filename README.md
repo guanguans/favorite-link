@@ -142,6 +142,7 @@
 - [一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。](https://github.com/hustcc/JS-Sorting-Algorithm) 
 - [勒索病毒解密工具的汇总](https://github.com/jiansiting/Decryption-Tools) 
 - [在这个仓库中，你可以很方便地订阅你喜欢的语言的 Github trending 排行榜，每天或每周更新一次 GitHub 通知。](https://github.com/vitalets/github-trending-repos) 
+- [在这个仓库中，你可以很方便地订阅你喜欢的语言的 Github trending 排行榜，每天或每周更新一次 GitHub 通知。](https://github.com/kamranahmedse/githunt) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
