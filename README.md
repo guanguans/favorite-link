@@ -135,6 +135,7 @@
 - [可配置且可扩展的PHP Web蜘蛛](https://github.com/mvdbos/php-spider) 
 - [Alfred的简单Lastpass工作流程](https://github.com/stuartcryan/lastpass-alfred-workflow) 
 - [Alfred的简单Lastpass工作流程](https://github.com/hstcscolor/awesome-erlang-cn) 
+- [一个用于加密传输爆破的Burp Suite插件](https://github.com/c0ny1/jsEncrypter) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
