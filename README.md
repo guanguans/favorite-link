@@ -130,6 +130,7 @@
 - [JQuery Fullcalendar Yii2扩展](https://github.com/philippfrenzel/yii2fullcalendar) 
 - [Yii 2 Framework的Highcharts小部件](https://github.com/miloschuman/yii2-highcharts) 
 - [⚡️一个轻巧的网络混淆代理🌏](https://github.com/gwuhaolin/lightsocks) 
+- [整理的Surge配置文件](https://github.com/silence0201/Surge.Conf) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
