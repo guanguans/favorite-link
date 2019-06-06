@@ -123,6 +123,7 @@
 
 ### June 6, 2019 
 - [判断你的 ip 是不是在中国](https://github.com/chenshuai2144/isInChina) 
+- [PHP fpm运行状况检查脚本](https://github.com/renatomefi/php-fpm-healthcheck) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
