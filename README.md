@@ -144,6 +144,7 @@
 - [在这个仓库中，你可以很方便地订阅你喜欢的语言的 Github trending 排行榜，每天或每周更新一次 GitHub 通知。](https://github.com/vitalets/github-trending-repos) 
 - [在这个仓库中，你可以很方便地订阅你喜欢的语言的 Github trending 排行榜，每天或每周更新一次 GitHub 通知。](https://github.com/kamranahmedse/githunt) 
 - [PHP 5.3+的高度自以为是的模拟框架](https://github.com/phpspec/prophecy) 
+- [vfsStream是虚拟文件系统的流包装器，可能有助于单元测试模拟真实文件系统。 它可以与任何单元测试框架一起使用，如PHPUnit或SimpleTest。](https://github.com/bovigo/vfsStream) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
