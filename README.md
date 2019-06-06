@@ -139,6 +139,7 @@
 - [一个用于伪造ip地址进行爆破的Burp Suite插件](https://github.com/TheKingOfDuck/BurpFakeIP) 
 - [Yii2票证支持模块，简单，灵活，多种，有mongodb，可与邮箱，队列配合使用](https://github.com/akiraz2/yii2-ticket-support) 
 - [适用于Yii2的简单，可配置的博客模块（帖子，评论，嵌套类别，标签）。](https://github.com/akiraz2/yii2-blog) 
+- [一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。](https://github.com/hustcc/JS-Sorting-Algorithm) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
