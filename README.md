@@ -134,6 +134,7 @@
 - [Blessing Skin 是一款能让您上传、管理和分享您的 Minecraft 皮肤和披风的 Web 应用程序。](https://github.com/bs-community/blessing-skin-server) 
 - [可配置且可扩展的PHP Web蜘蛛](https://github.com/mvdbos/php-spider) 
 - [Alfred的简单Lastpass工作流程](https://github.com/stuartcryan/lastpass-alfred-workflow) 
+- [Alfred的简单Lastpass工作流程](https://github.com/hstcscolor/awesome-erlang-cn) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
