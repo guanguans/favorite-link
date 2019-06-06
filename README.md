@@ -127,6 +127,7 @@
 - [PHP 写的简单 Redis 客户端](https://github.com/wizarot/redis-cli) 
 - [免费开源的中文搜索引擎，采用 C/C++ 编写 (基于 xapian 和 scws)](https://github.com/hightman/xunsearch) 
 - [JetBrains 系列软件汉化包](https://github.com/pingfangx/TranslatorX) 
+- [JQuery Fullcalendar Yii2扩展](https://github.com/philippfrenzel/yii2fullcalendar) 
 ### June 5, 2019 
 - [基于百度地图JavaScript API封装的React组件库](https://github.com/huiyan-fe/react-bmap) 
 - [在纯真IP数据库（qqwry.dat）查询IP归属地， for python 3.0+，已上传至pypi。](https://github.com/animalize/qqwry-python3) 
