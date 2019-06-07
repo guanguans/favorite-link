@@ -127,6 +127,7 @@
 - [ThinkVim](https://github.com/taigacute/ThinkVim) 
 - [HTTP上的快速TCP隧道](https://github.com/jpillora/chisel) 
 - [可能是有史以来最小的编译器](https://github.com/jamiebuilds/the-super-tiny-compiler) 
+- [一个最小的包，可以帮助您使您的laravel应用程序更清洁，更快。](https://github.com/imanghafoori1/laravel-widgetize) 
 ### June 6, 2019 
 - [判断你的 ip 是不是在中国](https://github.com/chenshuai2144/isInChina) 
 - [PHP fpm运行状况检查脚本](https://github.com/renatomefi/php-fpm-healthcheck) 
