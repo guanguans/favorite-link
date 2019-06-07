@@ -130,6 +130,7 @@
 - [一个最小的包，可以帮助您使您的laravel应用程序更清洁，更快。](https://github.com/imanghafoori1/laravel-widgetize) 
 - [PHP Resque是一个Redis支持的库，用于创建后台作业，将这些作业放在一个或多个队列上，以后再处理它们。](https://github.com/resque/php-resque) 
 - [每日自动给女朋友发微信暖心话。](https://github.com/sfyc23/EverydayWechat) 
+- [磁力搜网页版 - 磁力链接聚合搜索](https://github.com/dengyuhan/magnetW) 
 ### June 6, 2019 
 - [判断你的 ip 是不是在中国](https://github.com/chenshuai2144/isInChina) 
 - [PHP fpm运行状况检查脚本](https://github.com/renatomefi/php-fpm-healthcheck) 
