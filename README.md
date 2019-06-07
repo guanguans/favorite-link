@@ -125,6 +125,7 @@
 ### June 7, 2019 
 - [快速，安全，高效的备份程序](https://github.com/restic/restic) 
 - [ThinkVim](https://github.com/taigacute/ThinkVim) 
+- [HTTP上的快速TCP隧道](https://github.com/jpillora/chisel) 
 ### June 6, 2019 
 - [判断你的 ip 是不是在中国](https://github.com/chenshuai2144/isInChina) 
 - [PHP fpm运行状况检查脚本](https://github.com/renatomefi/php-fpm-healthcheck) 
