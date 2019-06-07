@@ -132,6 +132,7 @@
 - [每日自动给女朋友发微信暖心话。](https://github.com/sfyc23/EverydayWechat) 
 - [磁力搜网页版 - 磁力链接聚合搜索](https://github.com/dengyuhan/magnetW) 
 - [Flutter完整开发实战详解系列](https://github.com/CarGuo/GSYFlutterBook) 
+- [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) 
 ### June 6, 2019 
 - [判断你的 ip 是不是在中国](https://github.com/chenshuai2144/isInChina) 
 - [PHP fpm运行状况检查脚本](https://github.com/renatomefi/php-fpm-healthcheck) 
