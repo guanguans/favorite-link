@@ -125,6 +125,7 @@
 
 ### June 8, 2019 
 - [可能是中国用户数最多的开源ERP ](https://github.com/osbzr/gooderp_addons) 
+- [适用于C ++程序员的Rust](https://github.com/nrc/r4cppp) 
 ### June 7, 2019 
 - [快速，安全，高效的备份程序](https://github.com/restic/restic) 
 - [ThinkVim](https://github.com/taigacute/ThinkVim) 
