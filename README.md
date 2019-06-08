@@ -133,6 +133,7 @@
 - [输出复杂，灵活的AJAX / RESTful数据结构。](https://github.com/thephpleague/fractal) 
 - [一个易于使用，一致的PHP支付处理库](https://github.com/thephpleague/omnipay) 
 - [Csv是一个简单的库，可以简化PHP中的CSV解析，编写和过滤。通过尽可能利用PHP本机类，库的目标是保持轻量级的强大功能。](https://github.com/thephpleague/csv) 
+- [一个200行JavaScript的人脸检测库](https://github.com/tehnokv/picojs) 
 ### June 7, 2019 
 - [快速，安全，高效的备份程序](https://github.com/restic/restic) 
 - [ThinkVim](https://github.com/taigacute/ThinkVim) 
