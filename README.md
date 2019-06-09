@@ -128,6 +128,7 @@
 - [“不仅仅是重写Windows资源管理器”](https://github.com/duke7553/files-uwp) 
 - [快速创建Laravel项目](https://github.com/pipe-dream/laravel) 
 - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert) 
+- [为PHP实现XDG基本目录规范](https://github.com/dnoegel/php-xdg-base-dir) 
 ### June 8, 2019 
 - [可能是中国用户数最多的开源ERP ](https://github.com/osbzr/gooderp_addons) 
 - [适用于C ++程序员的Rust](https://github.com/nrc/r4cppp) 
