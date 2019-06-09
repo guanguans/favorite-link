@@ -130,6 +130,7 @@
 - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert) 
 - [为PHP实现XDG基本目录规范](https://github.com/dnoegel/php-xdg-base-dir) 
 - [有效学习安全Web开发的实验室。](https://github.com/globocom/secDevLabs) 
+- [Recsech是一种在目标网站上进行足迹和侦察的工具。Recsech收集信息，如DNS信息，子域，检测到的HoneySpot，子域名接管，Github上的Reconnaissance等等，您可以在工具的功能中看到更多信息。](https://github.com/radenvodka/Recsech) 
 ### June 8, 2019 
 - [可能是中国用户数最多的开源ERP ](https://github.com/osbzr/gooderp_addons) 
 - [适用于C ++程序员的Rust](https://github.com/nrc/r4cppp) 
