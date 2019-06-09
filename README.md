@@ -126,6 +126,7 @@
 
 ### June 9, 2019 
 - [“不仅仅是重写Windows资源管理器”](https://github.com/duke7553/files-uwp) 
+- [快速创建Laravel项目](https://github.com/pipe-dream/laravel) 
 ### June 8, 2019 
 - [可能是中国用户数最多的开源ERP ](https://github.com/osbzr/gooderp_addons) 
 - [适用于C ++程序员的Rust](https://github.com/nrc/r4cppp) 
