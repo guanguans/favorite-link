@@ -129,6 +129,7 @@
 ### June 11, 2019 
 - [超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。](https://github.com/CarGuo/GSYGithubAppFlutter?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [用于NATS的高性能服务器，云本机消息系统](https://github.com/nats-io/nats-server) 
+- [绕过专业工具检测的Webshell研究文章和免杀的Webshell](https://github.com/LandGrey/webshell-detect-bypass) 
 ### June 10, 2019 
 - [An example of gin](https://github.com/EDDYCJY/go-gin-example) 
 - [用Typescript编写的React / ApolloGraphQL / Node / Mongo演示](https://github.com/TrillCyborg/onefraction) 
