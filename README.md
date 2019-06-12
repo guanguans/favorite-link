@@ -130,6 +130,7 @@
 ### June 12, 2019 
 - [使用PyQt框架用Python编写的15个小型桌面应用程序的集合。](https://github.com/mfitzp/15-minute-apps) 
 - [钉钉自动抢红包的实现](https://github.com/yohunl/DingTalkNoJailTweak) 
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh) 
 ### June 11, 2019 
 - [超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。](https://github.com/CarGuo/GSYGithubAppFlutter?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
 - [用于NATS的高性能服务器，云本机消息系统](https://github.com/nats-io/nats-server) 
