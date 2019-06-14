@@ -133,6 +133,7 @@
 - [使用 Yaf 开发的一套 API 服务端与管理后台的组合。已经把常见功能（登录、注册、短信、文章、友情链接、APP升级）实现了。用本套系统能快速开发业务代码。](https://github.com/fingerQin/Yaf-Server-Admin) 
 - [YesnoPHP 框架是基于 Yaf 扩展的 PHP 二次开发框架。文档与代码都已经更新到我开发的最新版了。](https://github.com/fingerQin/yesnophp) 
 - [这是 electron-api-demos 的中文版本, 更新至 v2.0.2](https://github.com/demopark/electron-api-demos-Zh_CN) 
+- [基于Python的工具，用于文档分析和OCR](https://github.com/tmbdev/ocropy) 
 ### June 13, 2019 
 - [ 一款小而美的博客平台，专为程序员设计。](https://github.com/b3log/pipe) 
 - [网络终端](https://github.com/xtermjs/xterm.js) 
