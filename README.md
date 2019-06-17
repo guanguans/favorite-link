@@ -131,6 +131,9 @@
 
 
 
+
+### June 17, 2019 
+- [将响应缓存为磁盘上的静态文件，以便快速加载页面。](https://github.com/JosephSilber/page-cache) 
 ### June 16, 2019 
 - [一个类Jira的问题需求跟踪工具，前端基于reactjs＋redux、后端基于php laravel-framework。](https://github.com/lxerxa/actionview/blob/master/readme-cn.md) 
 - [从问题切入，串连 Go 语言相关的所有知识，融会贯通。](https://github.com/qcrao/Go-Questions) 
