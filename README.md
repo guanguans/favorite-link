@@ -136,6 +136,7 @@
 
 ### June 19, 2019 
 - [php写的命令行音乐下载器](https://github.com/guanguans/music-php) 
+- [人性化的CLI，类似cURL的工具](https://github.com/jakubroztocil/httpie) 
 ### June 18, 2019 
 - [中文 DOS 游戏](https://github.com/rwv/chinese-dos-games) 
 - [各种笔记](https://github.com/overnote) 
