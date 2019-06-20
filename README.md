@@ -139,6 +139,7 @@
 - [用于文本和markdown的可插入自然语言linter。](https://github.com/textlint/textlint) 
 - [Rust 学习之路](https://github.com/developer-learning/learning-rust) 
 - [vCards 中国黄页 - 优化 iOS 来电、信息界面体验](https://github.com/metowolf/vCards) 
+- [基于HTML5 + Canvas + Websocket + PHP（Workerman）的实时相机。](https://github.com/walkor/live-camera) 
 ### June 19, 2019 
 - [php写的命令行音乐下载器](https://github.com/guanguans/music-php) 
 - [人性化的CLI，类似cURL的工具](https://github.com/jakubroztocil/httpie) 
