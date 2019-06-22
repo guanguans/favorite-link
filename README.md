@@ -141,6 +141,7 @@
 - [一行代码让微信、头条、百度、支付宝小程序支持 cookie](https://github.com/charleslo1/weapp-cookie) 
 - [用于支持实现HATEOAS REST Web服务表示的PHP库。](https://github.com/willdurand/Hateoas) 
 - [Redshift根据您周围的环境调整屏幕的色温。 如果您晚上在屏幕前工作，这可能会帮助您减少眼睛受伤。](https://github.com/jonls/redshift) 
+- [个人CRM。 记住关于你的朋友和家人的一切。](https://github.com/monicahq/monica) 
 ### June 21, 2019 
 - [awd攻防常用脚本+不死马+crontab+防御方法](https://github.com/Wfzsec/awd_attack_framework) 
 - [🚀一个专注于超速和灵活性的协程框架，专门用于构建微服务或中间件。 hyperf.io](https://github.com/hyperf-cloud/hyperf) 
