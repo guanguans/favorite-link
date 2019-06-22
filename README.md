@@ -142,6 +142,7 @@
 - [用于支持实现HATEOAS REST Web服务表示的PHP库。](https://github.com/willdurand/Hateoas) 
 - [Redshift根据您周围的环境调整屏幕的色温。 如果您晚上在屏幕前工作，这可能会帮助您减少眼睛受伤。](https://github.com/jonls/redshift) 
 - [个人CRM。 记住关于你的朋友和家人的一切。](https://github.com/monicahq/monica) 
+- [taskPHP基于原生态php开发的定时计划任务框架,利用多进程实现任务的分配和运行,利用原生态php内存共享实现进程间通信,支持linux和windows。有较好的伸缩性、扩展性、健壮稳定性而被多家公司使用，同时也希望开源爱好者一起贡献。](https://github.com/qq8044023/taskPHP) 
 ### June 21, 2019 
 - [awd攻防常用脚本+不死马+crontab+防御方法](https://github.com/Wfzsec/awd_attack_framework) 
 - [🚀一个专注于超速和灵活性的协程框架，专门用于构建微服务或中间件。 hyperf.io](https://github.com/hyperf-cloud/hyperf) 
