@@ -145,6 +145,7 @@
 - [手撕包菜网站](https://github.com/78/ssbc) 
 - [用PHP编写的git抽象层](https://github.com/matteosister/GitElephant) 
 - [中国菜刀官方版本，拒绝黑吃黑，来路清晰](https://github.com/raddyfiy/caidao-official-version) 
+- [魔术记忆功能函数库](https://github.com/spatie/once) 
 ### June 23, 2019 
 - [🏹 php PDO数据库查询 简单封装](https://github.com/liaoshengping/PDO) 
 - [生成可用的代码变量](https://github.com/xudaolong/CodeVar) 
