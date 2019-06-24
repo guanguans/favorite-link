@@ -138,6 +138,9 @@
 
 
 
+
+### June 24, 2019 
+- [文件 package.json 的说明文档。](https://github.com/jaywcjlove/package.json) 
 ### June 23, 2019 
 - [🏹 php PDO数据库查询 简单封装](https://github.com/liaoshengping/PDO) 
 - [生成可用的代码变量](https://github.com/xudaolong/CodeVar) 
