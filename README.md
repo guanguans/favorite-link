@@ -147,6 +147,7 @@
 - [中国菜刀官方版本，拒绝黑吃黑，来路清晰](https://github.com/raddyfiy/caidao-official-version) 
 - [魔术记忆功能函数库](https://github.com/spatie/once) 
 - [admin mongo 镜像](https://github.com/salamander-mh/adminMongoImage) 
+- [windows下用WPF制作的nginx，php，mysql集成环境（免安装）](https://github.com/salamander-mh/SalamanderWnmp) 
 ### June 23, 2019 
 - [🏹 php PDO数据库查询 简单封装](https://github.com/liaoshengping/PDO) 
 - [生成可用的代码变量](https://github.com/xudaolong/CodeVar) 
