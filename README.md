@@ -144,6 +144,7 @@
 - [使用页面模板和Backpack \ CRUD为Laravel上的演示文稿网站创建管理面板](https://github.com/Laravel-Backpack/PageManager) 
 - [手撕包菜网站](https://github.com/78/ssbc) 
 - [用PHP编写的git抽象层](https://github.com/matteosister/GitElephant) 
+- [中国菜刀官方版本，拒绝黑吃黑，来路清晰](https://github.com/raddyfiy/caidao-official-version) 
 ### June 23, 2019 
 - [🏹 php PDO数据库查询 简单封装](https://github.com/liaoshengping/PDO) 
 - [生成可用的代码变量](https://github.com/xudaolong/CodeVar) 
