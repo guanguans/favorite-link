@@ -141,6 +141,7 @@
 
 ### June 24, 2019 
 - [文件 package.json 的说明文档。](https://github.com/jaywcjlove/package.json) 
+- [使用页面模板和Backpack \ CRUD为Laravel上的演示文稿网站创建管理面板](https://github.com/Laravel-Backpack/PageManager) 
 ### June 23, 2019 
 - [🏹 php PDO数据库查询 简单封装](https://github.com/liaoshengping/PDO) 
 - [生成可用的代码变量](https://github.com/xudaolong/CodeVar) 
