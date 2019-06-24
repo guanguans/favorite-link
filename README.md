@@ -143,6 +143,7 @@
 - [文件 package.json 的说明文档。](https://github.com/jaywcjlove/package.json) 
 - [使用页面模板和Backpack \ CRUD为Laravel上的演示文稿网站创建管理面板](https://github.com/Laravel-Backpack/PageManager) 
 - [手撕包菜网站](https://github.com/78/ssbc) 
+- [用PHP编写的git抽象层](https://github.com/matteosister/GitElephant) 
 ### June 23, 2019 
 - [🏹 php PDO数据库查询 简单封装](https://github.com/liaoshengping/PDO) 
 - [生成可用的代码变量](https://github.com/xudaolong/CodeVar) 
