@@ -144,6 +144,7 @@
 ### June 26, 2019 
 - [PHP备份实用程序 - 创建和加密数据库和文件备份，将备份同步到其他服务器或云服务，并帮助您监控备份过程](https://github.com/sebastianfeldmann/phpbu) 
 - [数据库备份管理器，用于从S3，Dropbox，FTP，SFTP和Rackspace Cloud转储和恢复数据库](https://github.com/backup-manager/backup-manager) 
+- [所有PHP函数，重写为抛出异常而不是返回false](https://github.com/thecodingmachine/safe) 
 ### June 25, 2019 
 - [thinkphp v5.x 远程代码执行漏洞-POC集合](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) 
 - [非常简单的Kubernetes资源模板](https://github.com/tazjin/kontemplate) 
