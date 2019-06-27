@@ -141,6 +141,9 @@
 
 
 
+
+### June 27, 2019 
+- [dnmp-plus = Docker+Nginx+MySQL+PHP(xhprof、tideways)+ Redis+MongDB+xhgui，PHPer 的一键安装式终极 debug 开发环境。](https://github.com/guanguans/dnmp-plus) 
 ### June 26, 2019 
 - [PHP备份实用程序 - 创建和加密数据库和文件备份，将备份同步到其他服务器或云服务，并帮助您监控备份过程](https://github.com/sebastianfeldmann/phpbu) 
 - [数据库备份管理器，用于从S3，Dropbox，FTP，SFTP和Rackspace Cloud转储和恢复数据库](https://github.com/backup-manager/backup-manager) 
