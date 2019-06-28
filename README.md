@@ -147,6 +147,7 @@
 - [简洁的 Mac 图床客户端 uPic ](https://github.com/gee1k/uPic) 
 - [几秒钟内即可在您的网站上添加暗模式/夜间模式](https://github.com/sandoche/Darkmode.js) 
 - [基于Web的流量和安全网络流量监控](https://github.com/ntop/ntopng) 
+- [具有Web UI的Satis作曲家存储库管理器](https://github.com/ludofleury/satisfy) 
 ### June 27, 2019 
 - [dnmp-plus = Docker+Nginx+MySQL+PHP(xhprof、tideways)+ Redis+MongDB+xhgui，PHPer 的一键安装式终极 debug 开发环境。](https://github.com/guanguans/dnmp-plus) 
 ### June 26, 2019 
