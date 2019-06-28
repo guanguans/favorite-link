@@ -152,6 +152,7 @@
 - [favorite link | favorite-link](https://www.guanguans.cn/favorite-link/) 
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) 
 - [Spike是一个可以用来将你的内网服务暴露在公网的快速的反向代理，基于ReactPHP，采用IO多路复用模型。](https://github.com/slince/spike/blob/master/README-zh_CN.md) 
+- [🐧 SmartQQ (原 WebQQ ) API 的 PHP 语言实现,提供了一系列更优雅可读性更高的API](https://github.com/slince/smartqq) 
 ### June 27, 2019 
 - [dnmp-plus = Docker+Nginx+MySQL+PHP(xhprof、tideways)+ Redis+MongDB+xhgui，PHPer 的一键安装式终极 debug 开发环境。](https://github.com/guanguans/dnmp-plus) 
 ### June 26, 2019 
