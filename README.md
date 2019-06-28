@@ -150,6 +150,7 @@
 - [具有Web UI的Satis作曲家存储库管理器](https://github.com/ludofleury/satisfy) 
 - [使用 certbot 工具，为不能自动给 letencrypt 通配符证书自动续期（renew）而烦恼吗？这个工具能够帮忙！](https://github.com/ywdblog/certbot-letencrypt-wildcardcertificates-alydns-au) 
 - [favorite link | favorite-link](https://www.guanguans.cn/favorite-link/) 
+- [Composer Registry Manager](https://github.com/slince/composer-registry-manager) 
 ### June 27, 2019 
 - [dnmp-plus = Docker+Nginx+MySQL+PHP(xhprof、tideways)+ Redis+MongDB+xhgui，PHPer 的一键安装式终极 debug 开发环境。](https://github.com/guanguans/dnmp-plus) 
 ### June 26, 2019 
