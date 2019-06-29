@@ -147,6 +147,7 @@
 ### June 29, 2019 
 - [Laravel HTTP Cache](https://github.com/barryvdh/laravel-httpcache) 
 - [用于视频编辑的PHP扩展，包装ffmpeg](https://github.com/tony2001/ffmpeg-php) 
+- [一个功能强大的表单构建器，用于Laravel和其他框架（也可以单独使用）](https://github.com/formers/former) 
 ### June 28, 2019 
 - [简洁的 Mac 图床客户端 uPic ](https://github.com/gee1k/uPic) 
 - [几秒钟内即可在您的网站上添加暗模式/夜间模式](https://github.com/sandoche/Darkmode.js) 
