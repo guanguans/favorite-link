@@ -145,6 +145,9 @@
 
 
 
+
+### July 1, 2019 
+- [使用Google Translate，Bing Translator，Yandex.Translate等的命令行翻译器](https://github.com/soimort/translate-shell) 
 ### June 30, 2019 
 - [编译好的脏牛漏洞（CVE-2016-5195）EXP](https://github.com/Brucetg/DirtyCow-EXP) 
 - [脚本本地Linux枚举和权限升级检查](https://github.com/rebootuser/LinEnum) 
