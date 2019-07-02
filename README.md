@@ -149,6 +149,7 @@
 
 ### July 2, 2019 
 - [基于Amp的PHP非阻塞HTTP应用服务器。](https://github.com/amphp/http-server) 
+- [Laravel Tips 【Laravel 微课堂】](https://github.com/seekerliu/laravel-tips) 
 ### July 1, 2019 
 - [使用Google Translate，Bing Translator，Yandex.Translate等的命令行翻译器](https://github.com/soimort/translate-shell) 
 - [“冰蝎”动态二进制加密网站管理客户端](https://github.com/rebeyond/Behinder) 
