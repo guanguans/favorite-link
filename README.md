@@ -152,6 +152,7 @@
 ### July 5, 2019 
 - [Bash自动化测试系统](https://github.com/bats-core/bats-core) 
 - [xdebug2.7 分支](https://github.com/mabu233/sdebug) 
+- [swoole 版的 xdebug](https://github.com/mabu233/sdebug) 
 ### July 3, 2019 
 - [league / commonmark是由Colin O'Dell创建的高度可扩展的PHP Markdown解析器，它支持完整的CommonMark规范](https://github.com/thephpleague/commonmark) 
 - [手把手教你写PHP协程扩展](https://github.com/php-extension-research/study) 
