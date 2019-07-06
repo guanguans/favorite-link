@@ -149,6 +149,9 @@
 
 
 
+
+### July 6, 2019 
+- [all-contributors/all-contributors: ✨ Recognize all contributors, not just the ones who push code ✨](https://github.com/all-contributors/all-contributors) 
 ### July 5, 2019 
 - [Bash自动化测试系统](https://github.com/bats-core/bats-core) 
 - [xdebug2.7 分支](https://github.com/mabu233/sdebug) 
