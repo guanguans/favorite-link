@@ -154,6 +154,7 @@
 ### July 9, 2019 
 - [soar-php 是一个基于小米公司开源的 soar 开发的 PHP 扩展包，方便框架中 SQL 语句调优。](https://github.com/guanguans/soar-php) 
 - [适用于 thinkphp 中 sql 语句调优的扩展包，自动报告页面内 sql 语句评分和对 explain sql 信息解读](https://github.com/guanguans/think-soar) 
+- [Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly](https://github.com/therecipe/qt) 
 ### July 6, 2019 
 - [all-contributors/all-contributors: ✨ Recognize all contributors, not just the ones who push code ✨](https://github.com/all-contributors/all-contributors) 
 ### July 5, 2019 
