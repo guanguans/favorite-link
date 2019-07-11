@@ -155,6 +155,7 @@
 
 ### July 11, 2019 
 - [Protoqol/Prequel- Laravel前传。 清晰简洁的数据库管理。](https://github.com/Protoqol/Prequel) 
+- [Giiant是基于Gii（Yii 2.0 Framework）的模型和CRUD的扩展代码生成器。](https://github.com/schmunk42/yii2-giiant) 
 ### July 10, 2019 
 - [Zsh的配置框架](https://github.com/sorin-ionescu/prezto) 
 ### July 9, 2019 
