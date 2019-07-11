@@ -152,6 +152,9 @@
 
 
 
+
+### July 11, 2019 
+- [Protoqol/Prequel- Laravel前传。 清晰简洁的数据库管理。](https://github.com/Protoqol/Prequel) 
 ### July 10, 2019 
 - [Zsh的配置框架](https://github.com/sorin-ionescu/prezto) 
 ### July 9, 2019 
