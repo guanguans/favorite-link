@@ -154,6 +154,9 @@
 
 
 
+
+### July 14, 2019 
+- [轻松地异步运行代码](https://github.com/spatie/async) 
 ### July 13, 2019 
 - [YAF(Yet Another Framework)源码PHP移植版，同时提供了IDE Helper Doc的能力💡💡💡](https://github.com/yinggaozhen/yaf-php-doc) 
 ### July 11, 2019 
