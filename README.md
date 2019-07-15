@@ -155,6 +155,9 @@
 
 
 
+
+### July 15, 2019 
+- [搜索laravel模型的php特性](https://github.com/nicolaslopezj/searchable) 
 ### July 14, 2019 
 - [轻松地异步运行代码](https://github.com/spatie/async) 
 ### July 13, 2019 
