@@ -159,6 +159,7 @@
 
 ### July 16, 2019 
 - [将postman集合文档转换为HTML / Markdown文档](https://github.com/thedevsaddam/docgen) 
+- [使用Postman集合的HTTP API文档生成器](https://github.com/aubm/postmanerator) 
 ### July 15, 2019 
 - [搜索laravel模型的php特性](https://github.com/nicolaslopezj/searchable) 
 - [可能是东半球最大的 AI 社区 ](https://github.com/apachecn?type=source) 
