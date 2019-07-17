@@ -157,6 +157,9 @@
 
 
 
+
+### July 17, 2019 
+- [【小狼毫】輸入法](https://github.com/rime/weasel) 
 ### July 16, 2019 
 - [将postman集合文档转换为HTML / Markdown文档](https://github.com/thedevsaddam/docgen) 
 - [使用Postman集合的HTTP API文档生成器](https://github.com/aubm/postmanerator) 
