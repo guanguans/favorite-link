@@ -163,6 +163,7 @@
 
 ### July 22, 2019 
 - [在vscode中用于生成文件头部注释和函数注释的插件](https://github.com/OBKoro1/koro1FileHeader) 
+- [学习Kubernetes，中国道教方式](https://github.com/caicloud/kube-ladder) 
 ### July 19, 2019 
 - [🕵️‍♀️ 监视我的手机：数据都去哪儿了？](https://github.com/wangshub/tracking-my-phone) 
 ### July 18, 2019 
