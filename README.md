@@ -167,6 +167,7 @@
 - [控制台/命令行PHP应用程序的错误报告](https://github.com/nunomaduro/collision) 
 - [PHP抖音机器人 抖音自动找好看的小姐姐😍,自动点赞+关注](https://github.com/ChinaBygones/PHP-DouyinRobot) 
 - [定投改变命运 —— 让时间陪你慢慢变富](https://github.com/xiaolai/regular-investing-in-box) 
+- [PHP的内容协商工具。](https://github.com/willdurand/Negotiation) 
 ### July 23, 2019 
 - [Yii2 repository模式实现](https://github.com/mhndev/yii2-repository) 
 ### July 22, 2019 
