@@ -162,6 +162,9 @@
 
 
 
+
+### July 24, 2019 
+- [控制台/命令行PHP应用程序的错误报告](https://github.com/nunomaduro/collision) 
 ### July 23, 2019 
 - [Yii2 repository模式实现](https://github.com/mhndev/yii2-repository) 
 ### July 22, 2019 
