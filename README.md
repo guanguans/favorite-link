@@ -167,6 +167,7 @@
 ### July 25, 2019 
 - [扒网站工具，看好哪个网站，指定好URL，自动扒下来做成模版。所见网站，皆可为我所用！](https://github.com/xnx3/templatespider) 
 - [IPProxyPool代理池项目，提供代理ip](https://github.com/qiyeboy/IPProxyPool) 
+- [逃离北上广](https://github.com/jiangwei1995910/getAwayBSG) 
 ### July 24, 2019 
 - [控制台/命令行PHP应用程序的错误报告](https://github.com/nunomaduro/collision) 
 - [PHP抖音机器人 抖音自动找好看的小姐姐😍,自动点赞+关注](https://github.com/ChinaBygones/PHP-DouyinRobot) 
