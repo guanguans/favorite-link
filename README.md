@@ -169,6 +169,7 @@
 - [一个经过全面测试的PHP 7.1+电子邮件解析器（mailparse扩展包装器）。](https://github.com/php-mime-mail-parser/php-mime-mail-parser) 
 - [PHP 文章集锦，浮点数搞定度运算、签名验证、单点登录、安全防御、缓存技术、RPC、Composer ...](https://github.com/xinliangnote/PHP) 
 - [获取 IP 地址的真实地理位置](https://github.com/zhuzhichao/ip-location-zh) 
+- [获取银行卡号的归属信息](https://github.com/zhuzhichao/bank-card-info) 
 ### July 25, 2019 
 - [扒网站工具，看好哪个网站，指定好URL，自动扒下来做成模版。所见网站，皆可为我所用！](https://github.com/xnx3/templatespider) 
 - [IPProxyPool代理池项目，提供代理ip](https://github.com/qiyeboy/IPProxyPool) 
