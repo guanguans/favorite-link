@@ -168,6 +168,7 @@
 
 ### July 27, 2019 
 - [新漏洞感知项目 主要帮助大家 记录一些重大漏洞 漏洞方面的细节](https://github.com/greekn/rce-bug) 
+- [Yii2中的持久设置](https://github.com/yii2mod/yii2-settings) 
 ### July 26, 2019 
 - [一个经过全面测试的PHP 7.1+电子邮件解析器（mailparse扩展包装器）。](https://github.com/php-mime-mail-parser/php-mime-mail-parser) 
 - [PHP 文章集锦，浮点数搞定度运算、签名验证、单点登录、安全防御、缓存技术、RPC、Composer ...](https://github.com/xinliangnote/PHP) 
