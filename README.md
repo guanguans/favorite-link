@@ -168,6 +168,9 @@
 
 
 
+
+### July 30, 2019 
+- [Golang梦幻般的ORM库旨在让开发人员更加友好。](https://github.com/jinzhu/gorm) 
 ### July 29, 2019 
 - [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture) 
 - [基于laravel的Fullstackcms](https://github.com/tangtanglove/fullstack-backend) 
