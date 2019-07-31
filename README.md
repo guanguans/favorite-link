@@ -169,6 +169,9 @@
 
 
 
+
+### July 31, 2019 
+- [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie) 
 ### July 30, 2019 
 - [Golang梦幻般的ORM库旨在让开发人员更加友好。](https://github.com/jinzhu/gorm) 
 ### July 29, 2019 
