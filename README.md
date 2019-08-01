@@ -170,6 +170,9 @@
 
 
 
+
+### August 1, 2019 
+- [移动浏览器的控制台](https://github.com/liriliri/eruda) 
 ### July 31, 2019 
 - [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie) 
 - [用Go编写的快速跨平台HTTP基准测试工具](https://github.com/codesenberg/bombardier) 
