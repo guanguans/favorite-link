@@ -171,6 +171,9 @@
 
 
 
+
+### August 2, 2019 
+- [SSO - PHP的简单单点登录](https://github.com/legalthings/sso) 
 ### August 1, 2019 
 - [移动浏览器的控制台](https://github.com/liriliri/eruda) 
 ### July 31, 2019 
