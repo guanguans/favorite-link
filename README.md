@@ -174,6 +174,7 @@
 
 ### August 2, 2019 
 - [SSO - PHP的简单单点登录](https://github.com/legalthings/sso) 
+- [PHP表单生成器，快速生成现代化的form表单。](https://github.com/xaboy/form-builder) 
 ### August 1, 2019 
 - [移动浏览器的控制台](https://github.com/liriliri/eruda) 
 ### July 31, 2019 
