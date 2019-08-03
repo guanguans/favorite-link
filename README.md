@@ -176,6 +176,7 @@
 ### August 3, 2019 
 - [Python 入门教程：【草根学 Python （基于Python3.6）】](https://github.com/TwoWater/Python) 
 - [PHP ZIP流媒体库](https://github.com/maennchen/ZipStream-PHP) 
+- [游戏外挂编程与入门指南。](https://github.com/CasterWx/Plug-in-R) 
 ### August 2, 2019 
 - [SSO - PHP的简单单点登录](https://github.com/legalthings/sso) 
 - [PHP表单生成器，快速生成现代化的form表单。](https://github.com/xaboy/form-builder) 
