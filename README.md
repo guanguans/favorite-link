@@ -174,6 +174,9 @@
 
 
 
+
+### August 5, 2019 
+- [以简单的方式学习正则表达式](https://github.com/ziishaned/learn-regex/blob/master/translations/README-zh-simple.md) 
 ### August 4, 2019 
 - [到目前为止，这可能是最好的网络演示工具！](https://github.com/ksky521/nodeppt) 
 ### August 3, 2019 
