@@ -178,6 +178,9 @@
 
 
 
+
+### August 10, 2019 
+- [Huawei LiteOS是华为面向物联网领域开发的一个基于实时内核的轻量级操作系统。](https://github.com/LiteOS/LiteOS) 
 ### August 9, 2019 
 - [BFE是一个源自专有百度FrontEnd的开源第7层负载均衡器。](https://github.com/baidu/bfe) 
 - [通过测试驱动开发学习Go](https://github.com/quii/learn-go-with-tests) 
