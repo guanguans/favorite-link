@@ -184,6 +184,7 @@
 - [Issue Bot used on symfony/symfony](https://github.com/carsonbot/carsonbot) 
 - [用于ClickHouse柱状DBMS的PHP驱动程序](https://github.com/8bitov/clickhouse-php-client) 
 - [Clickhouse client over HTTP](https://github.com/the-tinderbox/ClickhouseClient) 
+- [磁力搜网页版 - 磁力链接聚合搜索](https://github.com/dengyuhan/magnetW) 
 ### August 9, 2019 
 - [BFE是一个源自专有百度FrontEnd的开源第7层负载均衡器。](https://github.com/baidu/bfe) 
 - [通过测试驱动开发学习Go](https://github.com/quii/learn-go-with-tests) 
