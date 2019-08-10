@@ -183,6 +183,7 @@
 - [Huawei LiteOS是华为面向物联网领域开发的一个基于实时内核的轻量级操作系统。](https://github.com/LiteOS/LiteOS) 
 - [Issue Bot used on symfony/symfony](https://github.com/carsonbot/carsonbot) 
 - [用于ClickHouse柱状DBMS的PHP驱动程序](https://github.com/8bitov/clickhouse-php-client) 
+- [Clickhouse client over HTTP](https://github.com/the-tinderbox/ClickhouseClient) 
 ### August 9, 2019 
 - [BFE是一个源自专有百度FrontEnd的开源第7层负载均衡器。](https://github.com/baidu/bfe) 
 - [通过测试驱动开发学习Go](https://github.com/quii/learn-go-with-tests) 
