@@ -186,6 +186,7 @@
 - [FreeRDP是远程桌面协议（RDP）的免费实现](https://github.com/FreeRDP/FreeRDP) 
 - [GitHub最好的iOS应用程序。](https://github.com/GitHawkApp/GitHawk) 
 - [使用firehol的update-ipsets.sh脚本动态更新ipsets](https://github.com/firehol/blocklist-ipsets) 
+- [使用Golang + Gin构建的示例性真实世界应用程序](https://github.com/gothinkster/golang-gin-realworld-example-app) 
 ### August 11, 2019 
 - [📬无存储PSR-7会话支持](https://github.com/psr7-sessions/storageless) 
 - [鸿蒙OS资源第一时间更新，欢迎关注。](https://github.com/Awesome-HarmonyOS/HarmonyOS) 
