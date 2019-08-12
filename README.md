@@ -190,6 +190,7 @@
 - [使用Golang + Gin构建的示例性真实世界应用程序](https://github.com/gothinkster/golang-gin-realworld-example-app/blob/master/articles/routers.go) 
 - [完全用Rust编写的Web应用程序。](https://github.com/saschagrunert/webapp.rs) 
 - [用于构建客户端Web应用程序的Rust框架](https://github.com/yewstack/yew) 
+- [从Web控制面板管理您的Laravel计划](https://github.com/codestudiohq/laravel-totem) 
 ### August 11, 2019 
 - [📬无存储PSR-7会话支持](https://github.com/psr7-sessions/storageless) 
 - [鸿蒙OS资源第一时间更新，欢迎关注。](https://github.com/Awesome-HarmonyOS/HarmonyOS) 
