@@ -187,6 +187,7 @@
 - [今日热榜，支持全平台： PC、移动 Web、Chrome 插件、PWA（Android、iOS）和桌面程序（Win、Linux、MacOS）。随时随地，愉快摸鱼](https://github.com/ttop5/to-be-slack) 
 - [最简单的方法开始使用PHP CS Fixer和PHP_CodeSniffer](https://github.com/Symplify/EasyCodingStandard) 
 - [Laravel的邮戳适配器](https://github.com/craigpaul/laravel-postmark) 
+- [Laravel的邮戳适配器](https://github.com/craigpaul/laravel-postmark) 
 ### August 12, 2019 
 - [Go的WebSocket实现。](https://github.com/gorilla/websocket) 
 - [FreeRDP是远程桌面协议（RDP）的免费实现](https://github.com/FreeRDP/FreeRDP) 
