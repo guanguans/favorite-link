@@ -184,6 +184,7 @@
 
 ### August 13, 2019 
 - [♞lichess.org：永远免费，无用且开源的国际象棋服务器♞lichess.org](https://github.com/ornicar/lila) 
+- [今日热榜，支持全平台： PC、移动 Web、Chrome 插件、PWA（Android、iOS）和桌面程序（Win、Linux、MacOS）。随时随地，愉快摸鱼](https://github.com/ttop5/to-be-slack) 
 ### August 12, 2019 
 - [Go的WebSocket实现。](https://github.com/gorilla/websocket) 
 - [FreeRDP是远程桌面协议（RDP）的免费实现](https://github.com/FreeRDP/FreeRDP) 
