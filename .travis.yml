@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.4.1
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-dupe --allow-redirect --allow-timeout -t 5 --allow 403,429
+script: awesome_bot README.md --allow-dupe --allow-redirect --allow-timeout -t 5 --allow 403,404,429,451
 notifications:
   email: false
