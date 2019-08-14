@@ -192,6 +192,7 @@
 - [这是一个用于IP和域名碰撞匹配访问的小工具，旨意用来匹配出渗透过程中需要绑定hosts才能访问的弱主机或内部系统。](https://github.com/r35tart/Hosts_scan) 
 - [显示和控制您的Android设备](https://github.com/Genymobile/scrcpy) 
 - [一款功能强大的安全评估工具](https://github.com/chaitin/xray) 
+- [xray 安全评估工具 ](https://github.com/chaitin/xray) 
 ### August 13, 2019 
 - [♞lichess.org：永远免费，无用且开源的国际象棋服务器♞lichess.org](https://github.com/ornicar/lila) 
 - [今日热榜，支持全平台： PC、移动 Web、Chrome 插件、PWA（Android、iOS）和桌面程序（Win、Linux、MacOS）。随时随地，愉快摸鱼](https://github.com/ttop5/to-be-slack) 
