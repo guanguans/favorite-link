@@ -188,6 +188,7 @@
 - [acme.sh 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书.](https://github.com/Neilpang/acme.sh) 
 - [为中国学生，教师和IT专业人士提供的AI教育资料。](https://github.com/microsoft/ai-edu) 
 - [Laravel Love是应用程序的情感部分。 它让人们表达他们对内容的感受。 让模型在几分钟内做出反应！](https://github.com/cybercog/laravel-love) 
+- [用于处理功能标志的Laravel包](https://github.com/ylsideas/feature-flags) 
 ### August 13, 2019 
 - [♞lichess.org：永远免费，无用且开源的国际象棋服务器♞lichess.org](https://github.com/ornicar/lila) 
 - [今日热榜，支持全平台： PC、移动 Web、Chrome 插件、PWA（Android、iOS）和桌面程序（Win、Linux、MacOS）。随时随地，愉快摸鱼](https://github.com/ttop5/to-be-slack) 
