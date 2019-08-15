@@ -11,6 +11,7 @@
 ### August 15, 2019 
 - [Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。](https://github.com/alibaba/RedisShake) 
 - [一款基于 Web 的 Go 语言 IDE，随时随地玩 golang](https://github.com/b3log/wide) 
+- [基于swoole的异步轻量级web框架，内部封装协程异步非阻塞全套mysql、redis、mongo、memcached连接池，可以轻松start、reload、stop，加入数据库的查询模块,框架已经封装好近乎同步写法，底层异步调用](https://github.com/keaixiaou/zhttp) 
 ### August 14, 2019 
 - [Swoole 入门的学习笔记，从零开始学 Swoole。](https://github.com/xinliangnote/Swoole) 
 - [acme.sh 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书.](https://github.com/Neilpang/acme.sh) 
