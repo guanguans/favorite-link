@@ -13,6 +13,7 @@
 - [一款基于 Web 的 Go 语言 IDE，随时随地玩 golang](https://github.com/b3log/wide) 
 - [基于swoole的异步轻量级web框架，内部封装协程异步非阻塞全套mysql、redis、mongo、memcached连接池，可以轻松start、reload、stop，加入数据库的查询模块,框架已经封装好近乎同步写法，底层异步调用](https://github.com/keaixiaou/zhttp) 
 - [扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段](https://github.com/hacklcx/HFish) 
+- [Yii2的Bootstrap MultiSelect和MultiSelect Listbox小部件](https://github.com/2amigos/yii2-multi-select-widget) 
 ### August 14, 2019 
 - [Swoole 入门的学习笔记，从零开始学 Swoole。](https://github.com/xinliangnote/Swoole) 
 - [acme.sh 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书.](https://github.com/Neilpang/acme.sh) 
