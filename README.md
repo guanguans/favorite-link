@@ -7,6 +7,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### August 15, 2019 
+- [Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。](https://github.com/alibaba/RedisShake) 
 ### August 14, 2019 
 - [Swoole 入门的学习笔记，从零开始学 Swoole。](https://github.com/xinliangnote/Swoole) 
 - [acme.sh 实现了 acme 协议, 可以从 letsencrypt 生成免费的证书.](https://github.com/Neilpang/acme.sh) 
