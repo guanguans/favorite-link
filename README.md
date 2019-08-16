@@ -11,6 +11,7 @@
 
 ### August 16, 2019 
 - [A cat(1) clone with wings.](https://github.com/sharkdp/bat) 
+- [PHP验证码识别[PHP CAPTCHA Recognition]](https://github.com/mohuishou/ImageOCR) 
 ### August 15, 2019 
 - [Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。](https://github.com/alibaba/RedisShake) 
 - [一款基于 Web 的 Go 语言 IDE，随时随地玩 golang](https://github.com/b3log/wide) 
