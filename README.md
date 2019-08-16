@@ -12,6 +12,7 @@
 ### August 16, 2019 
 - [A cat(1) clone with wings.](https://github.com/sharkdp/bat) 
 - [PHP验证码识别[PHP CAPTCHA Recognition]](https://github.com/mohuishou/ImageOCR) 
+- [一个纯PHP SQL（非验证）解析器，专注于MySQL的MySQL方言](https://github.com/greenlion/PHP-SQL-Parser) 
 ### August 15, 2019 
 - [Redis-shake是一个用于在两个redis之间同步数据的工具，满足用户非常灵活的同步、迁移需求。](https://github.com/alibaba/RedisShake) 
 - [一款基于 Web 的 Go 语言 IDE，随时随地玩 golang](https://github.com/b3log/wide) 
