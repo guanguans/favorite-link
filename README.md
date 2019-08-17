@@ -17,6 +17,7 @@
 - [PHPRAP，是一个PHP轻量级开源API接口文档管理系统，致力于减少前后端沟通成本，提高团队协作开发效率，打造PHP版的RAP](https://github.com/gouguoyin/phprap) 
 - [与KeePass兼容的浏览器扩展，用于填写密码。](https://github.com/subdavis/Tusk) 
 - [将Keeweb整合到Nextcloud中](https://github.com/jhass/nextcloud-keeweb) 
+- [“想学吗”个人知识管理与自媒体营销工具](https://github.com/xland/xiangxuema) 
 ### August 16, 2019 
 - [A cat(1) clone with wings.](https://github.com/sharkdp/bat) 
 - [PHP验证码识别[PHP CAPTCHA Recognition]](https://github.com/mohuishou/ImageOCR) 
