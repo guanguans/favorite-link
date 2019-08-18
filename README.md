@@ -10,6 +10,9 @@
 
 
 
+
+### August 18, 2019 
+- [用于管理和维护多语言预提交挂钩的框架。](https://github.com/pre-commit/pre-commit) 
 ### August 17, 2019 
 - [Spaceship是一个简约，功能强大且极易定制的Zsh提示。](https://github.com/denysdovhan/spaceship-prompt) 
 - [Yii 3 demo application](https://github.com/yiisoft/yii-demo) 
