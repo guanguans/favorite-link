@@ -15,6 +15,7 @@
 ### August 19, 2019 
 - [Easy AdminLTE integration with Laravel 5](https://github.com/jeroennoten/Laravel-AdminLTE) 
 - [在HOME中以纯PHP形式存储和管理PHP版本](https://github.com/phpbrew/phpbrew) 
+- [用于监控系统的日志采集agent，可无缝对接open-falcon](https://github.com/didi/falcon-log-agent) 
 ### August 18, 2019 
 - [用于管理和维护多语言预提交挂钩的框架。](https://github.com/pre-commit/pre-commit) 
 - [发现需要重构的文件。](https://github.com/bmitch/churn-php) 
