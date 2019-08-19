@@ -11,6 +11,9 @@
 
 
 
+
+### August 19, 2019 
+- [Easy AdminLTE integration with Laravel 5](https://github.com/jeroennoten/Laravel-AdminLTE) 
 ### August 18, 2019 
 - [用于管理和维护多语言预提交挂钩的框架。](https://github.com/pre-commit/pre-commit) 
 - [发现需要重构的文件。](https://github.com/bmitch/churn-php) 
