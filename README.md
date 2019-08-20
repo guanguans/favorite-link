@@ -12,6 +12,9 @@
 
 
 
+
+### August 20, 2019 
+- [适用于Inertia.js的Laravel适配器。](https://github.com/inertiajs/inertia-laravel) 
 ### August 19, 2019 
 - [Easy AdminLTE integration with Laravel 5](https://github.com/jeroennoten/Laravel-AdminLTE) 
 - [在HOME中以纯PHP形式存储和管理PHP版本](https://github.com/phpbrew/phpbrew) 
