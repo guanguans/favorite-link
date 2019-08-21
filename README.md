@@ -17,6 +17,7 @@
 ### August 21, 2019 
 - [Yaegi是另一位优雅的翻译口译员](https://github.com/containous/yaegi) 
 - [使用Lua强大的macOS桌面自动化功能强大](https://github.com/Hammerspoon/hammerspoon) 
+- [awesome configuration for Hammerspoon.](https://github.com/ashfinal/awesome-hammerspoon) 
 ### August 20, 2019 
 - [适用于Inertia.js的Laravel适配器。](https://github.com/inertiajs/inertia-laravel) 
 - [一小组全局规则，可以访问和重置默认样式](https://github.com/mike-engel/a11y-css-reset) 
