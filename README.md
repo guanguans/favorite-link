@@ -20,6 +20,7 @@
 - [awesome configuration for Hammerspoon.](https://github.com/ashfinal/awesome-hammerspoon) 
 - [这些是用于将新用户加入GitHub Actions的模板](https://github.com/actions/starter-workflows) 
 - [强大的多用户文件管理器](https://github.com/filegator/filegator) 
+- [用于通过XML-RPC API管理Supervisor的PHP库](https://github.com/supervisorphp/supervisor) 
 ### August 20, 2019 
 - [适用于Inertia.js的Laravel适配器。](https://github.com/inertiajs/inertia-laravel) 
 - [一小组全局规则，可以访问和重置默认样式](https://github.com/mike-engel/a11y-css-reset) 
