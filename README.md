@@ -14,6 +14,9 @@
 
 
 
+
+### August 22, 2019 
+- [扩展，增加了对PHP中基本类型的方法调用的支持](https://github.com/nikic/scalar_objects) 
 ### August 21, 2019 
 - [Yaegi是另一位优雅的翻译口译员](https://github.com/containous/yaegi) 
 - [使用Lua强大的macOS桌面自动化功能强大](https://github.com/Hammerspoon/hammerspoon) 
