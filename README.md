@@ -20,6 +20,7 @@
 - [GithubAction for PHPStan](https://github.com/OskarStark/phpstan-ga) 
 - [【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。](https://github.com/StabilityMan/StabilityGuide) 
 - [Memcache 反射DDOS攻击脚本经供学习参考使用](https://github.com/Srar/MemcacheDos) 
+- [用于自定义macOS机器设置和配置的Shell脚本。](https://github.com/bkuhlmann/mac_os-config) 
 ### August 22, 2019 
 - [扩展，增加了对PHP中基本类型的方法调用的支持](https://github.com/nikic/scalar_objects) 
 ### August 21, 2019 
