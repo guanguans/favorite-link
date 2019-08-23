@@ -15,6 +15,9 @@
 
 
 
+
+### August 23, 2019 
+- [GithubAction for PHPStan](https://github.com/OskarStark/phpstan-ga) 
 ### August 22, 2019 
 - [扩展，增加了对PHP中基本类型的方法调用的支持](https://github.com/nikic/scalar_objects) 
 ### August 21, 2019 
