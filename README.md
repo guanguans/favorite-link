@@ -16,6 +16,9 @@
 
 
 
+
+### August 24, 2019 
+- [✨ 高仿掘金，整合 vue + nuxt + axios + vuex + vue-router (nuxt 自带 vuex 和 vue-router)，一个基于 Nuxt 的服务器端渲染 Demo](https://github.com/xuqiang521/nuxt-ssr-demo) 
 ### August 23, 2019 
 - [GithubAction for PHPStan](https://github.com/OskarStark/phpstan-ga) 
 - [【稳定大于一切】打造国内稳定性领域知识库，让无法解决的问题少一点点，让世界的确定性多一点点。](https://github.com/StabilityMan/StabilityGuide) 
