@@ -25,6 +25,7 @@
 - [SuiteCRM - 面向全世界的开源CRM](https://github.com/salesagility/SuiteCRM) 
 - [Kanboard是一个免费的开源Kanban项目管理软件。](https://github.com/kanboard/kanboard) 
 - [单文件PHP shell](https://github.com/flozz/p0wny-shell) 
+- [fancyss是一个项目，在基于asuswrt / merlin的路由器上为GFW提供工具。](https://github.com/hq450/fancyss) 
 ### August 25, 2019 
 - [支持自定义样式的在线微信Markdown排版工具](https://github.com/zhning12/markdown-nice) 
 - [👽API请求构建器 - 帮助您更快地创建请求，从而节省宝贵的开发时间。 ](https://github.com/liyasthomas/postwoman) 
