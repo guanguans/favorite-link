@@ -19,6 +19,9 @@
 
 
 
+
+### August 27, 2019 
+- [PHP 中文工具类，支持汉字转拼音、拼音分词、简繁互转、数字、金额大写](https://github.com/Yurunsoft/ChineseUtil) 
 ### August 26, 2019 
 - [HTML演示框架](https://github.com/hakimel/reveal.js) 
 - [开源营销自动化软件。](https://github.com/mautic/mautic) 
