@@ -25,6 +25,7 @@
 - [simple-computer](https://github.com/djhworld/simple-computer) 
 - [为Laravel模型属性创建自己的自定义类型](https://github.com/vkovic/laravel-custom-casts) 
 - [系统管理员资源大全中文版](https://github.com/jobbole/awesome-sysadmin-cn) 
+- [使用PHP访问Git存储库的库](https://github.com/gitonomy/gitlib) 
 ### August 27, 2019 
 - [PHP 中文工具类，支持汉字转拼音、拼音分词、简繁互转、数字、金额大写](https://github.com/Yurunsoft/ChineseUtil) 
 - [高性能的定时调度服务。](https://github.com/snower/forsun-laravel) 
