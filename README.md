@@ -1,27 +1,11 @@
 # favorite link
 
-收集喜欢的网址
+收集喜欢的网址 [:heart: RSS 订阅](https://rsshub.app/github/file/guanguans/favorite-link/master/README.md)
 
 [![Build Status](https://travis-ci.org/guanguans/favorite-link.svg?branch=master)](https://travis-ci.org/guanguans/favorite-link)
 
 ## License
 [GNU General Public License v3.0](LICENSE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### August 30, 2019 
 - [Sculpin - 静态站点生成器](https://github.com/sculpin/sculpin) 
