@@ -10,6 +10,7 @@
 
 ### August 31, 2019 
 - [Laravel应用程序的漂亮错误页面](https://github.com/facade/ignition) 
+- ["结巴"中文分词的Golang版本](https://github.com/yanyiwu/gojieba) 
 ### August 30, 2019 
 - [Sculpin - 静态站点生成器](https://github.com/sculpin/sculpin) 
 ### August 29, 2019 
