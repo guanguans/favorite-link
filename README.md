@@ -7,6 +7,9 @@
 ## License
 [GNU General Public License v3.0](LICENSE)
 
+
+### August 31, 2019 
+- [Laravel应用程序的漂亮错误页面](https://github.com/facade/ignition) 
 ### August 30, 2019 
 - [Sculpin - 静态站点生成器](https://github.com/sculpin/sculpin) 
 ### August 29, 2019 
