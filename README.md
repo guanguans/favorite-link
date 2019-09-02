@@ -14,6 +14,7 @@
 - [ECTouch是一款开源的电商系统，为中小企业提供最佳的新零售解决方案](https://github.com/ectouch/ectouch) 
 - [豆信是一个专注于微信开发的开源框架，具有“简洁、高效、优雅、易扩展”等特点。](https://github.com/mikemintang/douchat) 
 - [萤火小程序商城，是在Thinkphp5基础上搭建的一个PHP项目，前后端完全开源。](https://github.com/yiovo/yoshop) 
+- [终端的个人信息仪表板。](https://github.com/wtfutil/wtf) 
 ### September 1, 2019 
 - [RSS reader for macOS. ](https://github.com/brentsimmons/NetNewsWire) 
 ### August 31, 2019 
