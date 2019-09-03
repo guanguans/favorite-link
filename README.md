@@ -10,6 +10,9 @@
 
 
 
+
+### September 3, 2019 
+- [Automatically Commit changed Files back to Github in Github Actions](https://github.com/stefanzweifel/git-auto-commit-action) 
 ### September 2, 2019 
 - [ECTouch是一款开源的电商系统，为中小企业提供最佳的新零售解决方案](https://github.com/ectouch/ectouch) 
 - [豆信是一个专注于微信开发的开源框架，具有“简洁、高效、优雅、易扩展”等特点。](https://github.com/mikemintang/douchat) 
