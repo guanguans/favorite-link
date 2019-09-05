@@ -15,6 +15,7 @@
 
 ### September 5, 2019 
 - [Postman打包应用程序的Helper扩展。 还有助于发送受限标题。](https://github.com/postmanlabs/postman-chrome-interceptor) 
+- [中国最可靠的 Go 模块代理。](https://github.com/goproxy/goproxy.cn/blob/master/README.zh-CN.md) 
 ### September 4, 2019 
 - [了解您的系统。 GNU / Linux，BSD，Mac OS和Windows操作系统的顶级/ htop替代品。](https://github.com/nicolargo/glances) 
 - [在Docker容器中轻松安装PHP扩展](https://github.com/mlocati/docker-php-extension-installer) 
