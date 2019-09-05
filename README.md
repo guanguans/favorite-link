@@ -19,6 +19,7 @@
 - [使用小型Docker dev环境启动并运行。](https://github.com/shipping-docker/vessel) 
 - [使用Laravel内联HTML电子邮件的CSS](https://github.com/fedeisas/laravel-mail-css-inliner) 
 - [独立开发者赚钱经验分享](https://github.com/loonggg/DevMoneySharing) 
+- [Doctrine2 ORM数据夹具扩展](https://github.com/doctrine/data-fixtures) 
 ### September 4, 2019 
 - [了解您的系统。 GNU / Linux，BSD，Mac OS和Windows操作系统的顶级/ htop替代品。](https://github.com/nicolargo/glances) 
 - [在Docker容器中轻松安装PHP扩展](https://github.com/mlocati/docker-php-extension-installer) 
