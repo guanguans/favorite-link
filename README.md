@@ -20,6 +20,7 @@
 - [使用Laravel内联HTML电子邮件的CSS](https://github.com/fedeisas/laravel-mail-css-inliner) 
 - [独立开发者赚钱经验分享](https://github.com/loonggg/DevMoneySharing) 
 - [Doctrine2 ORM数据夹具扩展](https://github.com/doctrine/data-fixtures) 
+- [vue-admin-webapp 是一个后台管理 spa 页面，它基于 vue 和 element-ui 采用了最新的前端技术栈，实现了登录权限验证，动态路由生成，并使用 easy-mock 来模拟请求数据，实现了典型的业务模型案例，它可以帮你快速搭建后台管理系统模板，并根据实际的业务需求添加路由来实现企业级管理页面，相信本项目一定能帮助到你。](https://github.com/gcddblue/vue-admin-webapp) 
 ### September 4, 2019 
 - [了解您的系统。 GNU / Linux，BSD，Mac OS和Windows操作系统的顶级/ htop替代品。](https://github.com/nicolargo/glances) 
 - [在Docker容器中轻松安装PHP扩展](https://github.com/mlocati/docker-php-extension-installer) 
