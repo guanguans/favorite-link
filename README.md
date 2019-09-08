@@ -14,6 +14,7 @@
 ### September 8, 2019 
 - [從 PHP 到 Golang 的筆記。](https://github.com/YamiOdymel/PHP-to-Golang) 
 - [WebPush可用于向服务器提供Web推送通知的端点发送通知，如Web推送协议中所述](https://github.com/web-push-libs/web-push-php) 
+- [玩转 IFTTT 体验极客生活，互联网自动化神器](https://github.com/yehux/Coot) 
 ### September 7, 2019 
 - [适用于Android和iOS的Node.js虚拟机](https://github.com/LiquidPlayer/LiquidCore) 
 - [A package manager for the fish shell. ](https://github.com/jorgebucaran/fisher) 
