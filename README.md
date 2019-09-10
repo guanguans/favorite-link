@@ -18,6 +18,7 @@
 - [GUI用于分析使用XHProf收集的分析数据 - 用于PHP的分层分析器。](https://github.com/gajus/xhprof.io) 
 - [ZeroMQ bindings for ReactPHP.](https://github.com/friends-of-reactphp/zmq) 
 - [🉑便携式UTF-8库 - 用于php的性能优化（unicode）字符串函数。](https://github.com/voku/portable-utf8) 
+- [Laravel的SEO工具](https://github.com/artesaos/seotools) 
 ### September 9, 2019 
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) 
 - [用于清理docker容器，图像，卷和网络的脚本。](https://github.com/ZZROTDesign/docker-clean) 
