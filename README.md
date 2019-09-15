@@ -15,6 +15,9 @@
 
 
 
+
+### September 15, 2019 
+- [ShellCheck，一个用于shell脚本的静态分析工具](https://github.com/koalaman/shellcheck) 
 ### September 12, 2019 
 - [由Laravel和VueJS提供支持的自托管项目管理和协作工具](https://github.com/iluminar/goodwork) 
 - [轻松添加新的或覆盖内置的Laravel Socialite提供程序](https://github.com/SocialiteProviders/Manager) 
