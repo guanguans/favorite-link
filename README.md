@@ -22,6 +22,7 @@
 - [从任何Web服务或页面获取信息](https://github.com/oscarotero/Embed) 
 - [轻松的的 API MD文档编写工具](https://github.com/yybawang/Adoc) 
 - [Gin+Gorm开发Golang API快速开发脚手架](https://github.com/Gourouting/singo) 
+- [🍚 my Linux configs](https://github.com/icyphox/dotfiles) 
 ### September 12, 2019 
 - [由Laravel和VueJS提供支持的自托管项目管理和协作工具](https://github.com/iluminar/goodwork) 
 - [轻松添加新的或覆盖内置的Laravel Socialite提供程序](https://github.com/SocialiteProviders/Manager) 
