@@ -23,6 +23,7 @@
 - [为小程序提供 rest api 支持](https://github.com/iamxjb/rest-api-to-miniprogram) 
 - [轻松与OAuth2服务器通信以获取Symfony中的社交功能](https://github.com/knpuniversity/oauth2-client-bundle) 
 - [PHP的JSONPath实现（基于Stefan Goessner的JSONPath脚本）](https://github.com/FlowCommunications/JSONPath) 
+- [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh) 
 ### September 15, 2019 
 - [ShellCheck，一个用于shell脚本的静态分析工具](https://github.com/koalaman/shellcheck) 
 - [Cmpay聚合支付 Cmpay草帽聚合支付使用ThinkPHP框架开发，已接入微信、支付宝等主流支付渠道](https://github.com/iredcap/cmpay) 
