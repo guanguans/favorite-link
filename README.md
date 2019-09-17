@@ -25,6 +25,7 @@
 - [nuxt、express、vue、mysql、redis、nginx、socket.io (实战商城) ](https://github.com/github1586/nuxt-bnhcp) 
 - [用PHP编写的魔兽世界服务器。](https://github.com/fan3750060/wpcore) 
 - [pjax ](https://github.com/MoOx/pjax) 
+- [滑动时间窗速率限制器Laravel](https://github.com/beyondcode/laravel-sliding-window-limiter) 
 ### September 16, 2019 
 - [WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度](https://github.com/icindy/WxNotificationCenter) 
 - [TextMate是macOS 10.10或更高版本的图形文本编辑器](https://github.com/textmate/textmate) 
