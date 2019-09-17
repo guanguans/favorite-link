@@ -21,6 +21,7 @@
 ### September 17, 2019 
 - [一个高度可扩展的Git实现](https://github.com/src-d/go-git) 
 - [PHP的计时器](https://github.com/mrtwenty/timer) 
+- [地平线为您Laravel供电Redis的队列，一个美丽的仪表板和代码驱动的配置。 地平线让您轻松监控您的队列系统的关键指标，如作业吞吐量，运行时间和作业失败。](https://github.com/laravel/horizon) 
 ### September 16, 2019 
 - [WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度](https://github.com/icindy/WxNotificationCenter) 
 - [TextMate是macOS 10.10或更高版本的图形文本编辑器](https://github.com/textmate/textmate) 
