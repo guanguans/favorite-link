@@ -24,6 +24,7 @@
 - [地平线为您Laravel供电Redis的队列，一个美丽的仪表板和代码驱动的配置。 地平线让您轻松监控您的队列系统的关键指标，如作业吞吐量，运行时间和作业失败。](https://github.com/laravel/horizon) 
 - [nuxt、express、vue、mysql、redis、nginx、socket.io (实战商城) ](https://github.com/github1586/nuxt-bnhcp) 
 - [用PHP编写的魔兽世界服务器。](https://github.com/fan3750060/wpcore) 
+- [pjax ](https://github.com/MoOx/pjax) 
 ### September 16, 2019 
 - [WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度](https://github.com/icindy/WxNotificationCenter) 
 - [TextMate是macOS 10.10或更高版本的图形文本编辑器](https://github.com/textmate/textmate) 
