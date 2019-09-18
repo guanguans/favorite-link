@@ -24,6 +24,7 @@
 - [📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.](https://github.com/Cosmo/Clippy) 
 - [快银-『使用泛用型播客客户端订阅播客节目』计划- podcast](https://github.com/forecho/Quicksilver) 
 - [发现与推荐高质量的中文独立播客 ](https://github.com/typlog/china-indie-podcasts) 
+- [https://typlog.com/podlist/opml.xml](https://github.com/alaskasquirrel/Chinese-Podcasts) 
 ### September 17, 2019 
 - [一个高度可扩展的Git实现](https://github.com/src-d/go-git) 
 - [PHP的计时器](https://github.com/mrtwenty/timer) 
