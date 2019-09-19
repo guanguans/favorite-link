@@ -28,6 +28,7 @@
 - [扩展调试工具栏中的插件与ElasticPress使用](https://github.com/10up/debug-bar-elasticpress) 
 - [基于ClamAV的防病毒扫描Laravel病毒验证](https://github.com/sunspikes/clamav-validator) 
 - [一个PHP库，用于串行封锁和匿名函数。](https://github.com/jeremeamia/super_closure) 
+- [V免签PHP版 完全开源免费的个人免签约解决方案](https://github.com/szvone/vmqphp) 
 ### September 18, 2019 
 - [A PHP framework for console artisans](https://github.com/laravel-zero/laravel-zero) 
 - [📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.](https://github.com/Cosmo/Clippy) 
