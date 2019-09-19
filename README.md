@@ -26,6 +26,7 @@
 - [一个可以自己进行训练的中文聊天机器人， 根据自己的语料训练出自己想要的聊天机器人，可以用于智能客服、在线问答、智能聊天等场景。加入seqGAN版本。](https://github.com/zhaoyingjun/chatbot) 
 - [资治通鉴易读版 tongjian.qiaopang.com](https://github.com/tyrchen/tongjian) 
 - [扩展调试工具栏中的插件与ElasticPress使用](https://github.com/10up/debug-bar-elasticpress) 
+- [基于ClamAV的防病毒扫描Laravel病毒验证](https://github.com/sunspikes/clamav-validator) 
 ### September 18, 2019 
 - [A PHP framework for console artisans](https://github.com/laravel-zero/laravel-zero) 
 - [📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.](https://github.com/Cosmo/Clippy) 
