@@ -32,6 +32,7 @@
 - [腾讯物联网终端操作系统 ](https://github.com/Tencent/TencentOS-tiny) 
 - [VS Code插件开发文档-中文版](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) 
 - [毒药笔记](https://github.com/DuyaoSS/SSR) 
+- [一个用于快速构建大规模，高质量，全自动化的 mysql分布式集群环境的工具；包含mysql 安装、备份、监控、高可用、读写分离、优化、巡检、自行化运维](https://github.com/Neeky/mysqltools) 
 ### September 18, 2019 
 - [A PHP framework for console artisans](https://github.com/laravel-zero/laravel-zero) 
 - [📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.](https://github.com/Cosmo/Clippy) 
