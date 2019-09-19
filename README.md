@@ -23,6 +23,7 @@
 ### September 19, 2019 
 - [利用 Docker-Compose 编排 LNMP开发环境](https://github.com/duiying/Docker-LNMP) 
 - [个人学习手册（AI、Web、Quant）](https://github.com/zmecust/learning-manual) 
+- [一个可以自己进行训练的中文聊天机器人， 根据自己的语料训练出自己想要的聊天机器人，可以用于智能客服、在线问答、智能聊天等场景。加入seqGAN版本。](https://github.com/zhaoyingjun/chatbot) 
 ### September 18, 2019 
 - [A PHP framework for console artisans](https://github.com/laravel-zero/laravel-zero) 
 - [📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.](https://github.com/Cosmo/Clippy) 
