@@ -31,6 +31,7 @@
 - [V免签PHP版 完全开源免费的个人免签约解决方案](https://github.com/szvone/vmqphp) 
 - [腾讯物联网终端操作系统 ](https://github.com/Tencent/TencentOS-tiny) 
 - [VS Code插件开发文档-中文版](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) 
+- [毒药笔记](https://github.com/DuyaoSS/SSR) 
 ### September 18, 2019 
 - [A PHP framework for console artisans](https://github.com/laravel-zero/laravel-zero) 
 - [📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.](https://github.com/Cosmo/Clippy) 
