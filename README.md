@@ -24,6 +24,7 @@
 ### September 20, 2019 
 - [CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。](https://github.com/easychen/catgate) 
 - [Golang 设计模式](https://github.com/sevenelevenlee/go-patterns) 
+- [学习ffmpeg，整理资料编写技术手册](https://github.com/feixiao/ffmpeg) 
 ### September 19, 2019 
 - [利用 Docker-Compose 编排 LNMP开发环境](https://github.com/duiying/Docker-LNMP) 
 - [个人学习手册（AI、Web、Quant）](https://github.com/zmecust/learning-manual) 
