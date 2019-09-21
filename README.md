@@ -27,6 +27,7 @@
 - [阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 php 客户端 ](https://github.com/xingwenge/canal-php) 
 - [基于机器学习的老司机车牌自动推荐系统](https://github.com/gxtrobot/bustag) 
 - [ENFI下载器](https://www.enfi.cloud/#/index) 
+- [这个项目基于BaiduPCS-Go, 可以让你高效的使用百度云](https://github.com/liuzhuoling2011/baidupcs-web) 
 ### September 20, 2019 
 - [CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。](https://github.com/easychen/catgate) 
 - [Golang 设计模式](https://github.com/sevenelevenlee/go-patterns) 
