@@ -24,6 +24,7 @@
 
 ### September 21, 2019 
 - [Laravel迁移发生器：从现有的数据库模式自动生成您的迁移。](https://github.com/Xethron/migrations-generator) 
+- [阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 php 客户端 ](https://github.com/xingwenge/canal-php) 
 ### September 20, 2019 
 - [CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。](https://github.com/easychen/catgate) 
 - [Golang 设计模式](https://github.com/sevenelevenlee/go-patterns) 
