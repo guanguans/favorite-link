@@ -27,6 +27,7 @@
 - [php直播,直播源码](https://github.com/DOUBLE-Baller/momo) 
 - [一个Rails引擎构建Shopify应用](https://github.com/Shopify/shopify_app) 
 - [Fuko \屏蔽是用于掩蔽敏感数据的小PHP库：它替换为它们的删节值列入黑名单的元件。](https://github.com/fuko-php/masked) 
+- [这是在PHP中的密钥或密码加密数据的库。](https://github.com/defuse/php-encryption) 
 ### September 21, 2019 
 - [Laravel迁移发生器：从现有的数据库模式自动生成您的迁移。](https://github.com/Xethron/migrations-generator) 
 - [阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 php 客户端 ](https://github.com/xingwenge/canal-php) 
