@@ -23,6 +23,9 @@
 
 
 
+
+### September 24, 2019 
+- [获取汉字笔画数和拼音的js库](https://github.com/theajack/cnchar) 
 ### September 23, 2019 
 - [php直播,直播源码](https://github.com/DOUBLE-Baller/momo) 
 - [一个Rails引擎构建Shopify应用](https://github.com/Shopify/shopify_app) 
