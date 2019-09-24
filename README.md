@@ -27,6 +27,7 @@
 ### September 24, 2019 
 - [获取汉字笔画数和拼音的js库](https://github.com/theajack/cnchar) 
 - [将Linux现常用的网络加速集成在一起](https://github.com/chiakge/Linux-NetSpeed) 
+- [在命令行的交互式的cheatsheet工具](https://github.com/denisidoro/navi) 
 ### September 23, 2019 
 - [php直播,直播源码](https://github.com/DOUBLE-Baller/momo) 
 - [一个Rails引擎构建Shopify应用](https://github.com/Shopify/shopify_app) 
