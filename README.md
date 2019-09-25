@@ -24,6 +24,9 @@
 
 
 
+
+### September 25, 2019 
+- [各类破解版Mac软件](https://github.com/devzwy/Crack-Edition-software-for-Mac#1) 
 ### September 24, 2019 
 - [获取汉字笔画数和拼音的js库](https://github.com/theajack/cnchar) 
 - [将Linux现常用的网络加速集成在一起](https://github.com/chiakge/Linux-NetSpeed) 
