@@ -31,6 +31,7 @@
 - [🐶 Git hooks made easy](https://github.com/typicode/husky) 
 - [CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台](https://github.com/opendevops-cn/opendevops) 
 - [PredictionBuilder是机器学习是建立使用线性回归预测的库。](https://github.com/denissimon/prediction-builder) 
+- [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox) 
 ### September 25, 2019 
 - [各类破解版Mac软件](https://github.com/devzwy/Crack-Edition-software-for-Mac#1) 
 - [苹果的MacBook /的Magic Trackpad的Wi​​ndows精密触摸板驱动程序实现](https://github.com/imbushuo/mac-precision-touchpad) 
