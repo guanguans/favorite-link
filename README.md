@@ -29,6 +29,7 @@
 
 ### September 27, 2019 
 - [为PHP应用的非阻塞并发框架。](https://github.com/amphp/amp) 
+- [一种优雅的方式来触发基于属性的变化Laravel事件。](https://github.com/envant/fireable) 
 ### September 26, 2019 
 - [Eloquent Model Generator](https://github.com/krlove/eloquent-model-generator) 
 - [🐶 Git hooks made easy](https://github.com/typicode/husky) 
