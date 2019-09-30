@@ -29,6 +29,9 @@
 
 
 
+
+### September 30, 2019 
+- [Auto install shadowsocks server，thanks 秋水逸冰](https://github.com/iMeiji/shadowsocks_install) 
 ### September 29, 2019 
 - [在PHP中实现共同算法的集合](https://github.com/doganoo/PHPAlgorithms) 
 - [Productive data access layer for Go.](https://github.com/upper/db) 
