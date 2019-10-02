@@ -36,6 +36,7 @@
 - [部落冲突游戏](https://github.com/yichengchen/clashX) 
 - [本地集群测试Kubernetes](https://github.com/kubernetes-sigs/kind) 
 - [如何写BASH一个TUI](https://github.com/dylanaraps/writing-a-tui-in-bash) 
+- [新闻网页正文通用抽取器 Alpha 版.](https://github.com/kingname/GeneralNewsExtractor) 
 ### September 30, 2019 
 - [Auto install shadowsocks server，thanks 秋水逸冰](https://github.com/iMeiji/shadowsocks_install) 
 - [Library for accessing Git repositories with PHP](https://github.com/gitonomy/gitlib) 
