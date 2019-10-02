@@ -34,6 +34,7 @@
 ### October 2, 2019 
 - [使用GUI对冲突的Mac基地基于规则自定义代理。](https://github.com/yichengchen/clashX) 
 - [部落冲突游戏](https://github.com/yichengchen/clashX) 
+- [本地集群测试Kubernetes](https://github.com/kubernetes-sigs/kind) 
 ### September 30, 2019 
 - [Auto install shadowsocks server，thanks 秋水逸冰](https://github.com/iMeiji/shadowsocks_install) 
 - [Library for accessing Git repositories with PHP](https://github.com/gitonomy/gitlib) 
