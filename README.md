@@ -34,6 +34,7 @@
 
 ### October 3, 2019 
 - [一个及其精简的PHP路由控制器。](https://github.com/bephp/router/blob/master/README.zh-CN.md) 
+- [树洞 OCR 文字识别（一款跨平台的 OCR 小工具）](https://github.com/AnyListen/tools-ocr) 
 ### October 2, 2019 
 - [使用GUI对冲突的Mac基地基于规则自定义代理。](https://github.com/yichengchen/clashX) 
 - [部落冲突游戏](https://github.com/yichengchen/clashX) 
