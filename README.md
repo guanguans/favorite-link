@@ -32,6 +32,9 @@
 
 
 
+
+### October 4, 2019 
+- [查询百度网盘提取码](https://github.com/wu-dada/baidupankey) 
 ### October 3, 2019 
 - [一个及其精简的PHP路由控制器。](https://github.com/bephp/router/blob/master/README.zh-CN.md) 
 - [树洞 OCR 文字识别（一款跨平台的 OCR 小工具）](https://github.com/AnyListen/tools-ocr) 
