@@ -36,6 +36,7 @@
 ### October 4, 2019 
 - [查询百度网盘提取码](https://github.com/wu-dada/baidupankey) 
 - [以声明的方式指定如何从一个JSON文档中提取元素，PHP](https://github.com/jmespath/jmespath.php) 
+- [来自世界各地的8000个公开可用的IPTV频道集合](https://github.com/iptv-org/iptv) 
 ### October 3, 2019 
 - [一个及其精简的PHP路由控制器。](https://github.com/bephp/router/blob/master/README.zh-CN.md) 
 - [树洞 OCR 文字识别（一款跨平台的 OCR 小工具）](https://github.com/AnyListen/tools-ocr) 
