@@ -33,6 +33,9 @@
 
 
 
+
+### October 5, 2019 
+- [提供导出PHP变量以进行可视化的功能](https://github.com/sebastianbergmann/exporter) 
 ### October 4, 2019 
 - [查询百度网盘提取码](https://github.com/wu-dada/baidupankey) 
 - [以声明的方式指定如何从一个JSON文档中提取元素，PHP](https://github.com/jmespath/jmespath.php) 
