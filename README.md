@@ -36,6 +36,7 @@
 
 ### October 5, 2019 
 - [提供导出PHP变量以进行可视化的功能](https://github.com/sebastianbergmann/exporter) 
+- [创建您的第一个拉取请求，并从Github和DigitalOcean获得免费的T恤。 🎉](https://github.com/Dhroov7/Hacktoberfest2019) 
 ### October 4, 2019 
 - [查询百度网盘提取码](https://github.com/wu-dada/baidupankey) 
 - [以声明的方式指定如何从一个JSON文档中提取元素，PHP](https://github.com/jmespath/jmespath.php) 
