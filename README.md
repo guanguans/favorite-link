@@ -34,6 +34,9 @@
 
 
 
+
+### October 6, 2019 
+- [资源采集站在线播放](https://github.com/ZyqGitHub1/h-player-v2) 
 ### October 5, 2019 
 - [提供导出PHP变量以进行可视化的功能](https://github.com/sebastianbergmann/exporter) 
 - [创建您的第一个拉取请求，并从Github和DigitalOcean获得免费的T恤。 🎉](https://github.com/Dhroov7/Hacktoberfest2019) 
