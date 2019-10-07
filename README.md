@@ -40,6 +40,7 @@
 - [PHP的翻译和本地化变得容易！](https://github.com/punic/punic) 
 - [⭕ Go 语言常用工具库，这个轱辘还算圆！](https://github.com/b3log/gulu) 
 - [一个简单，快速且有趣的软件包，用于在Go中构建命令行应用](https://github.com/urfave/cli) 
+- [🐳 常用正则大全, 支持vscode扩展插件](https://github.com/any86/any-rule) 
 ### October 6, 2019 
 - [资源采集站在线播放](https://github.com/ZyqGitHub1/h-player-v2) 
 - [ent - An Entity Framework For Go](https://github.com/facebookincubator/ent) 
