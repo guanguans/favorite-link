@@ -42,6 +42,7 @@
 - [一个简单，快速且有趣的软件包，用于在Go中构建命令行应用](https://github.com/urfave/cli) 
 - [🐳 常用正则大全, 支持vscode扩展插件](https://github.com/any86/any-rule) 
 - [网络瑞士军刀-用于加密，编码，压缩和数据分析的Web应用程序](https://github.com/gchq/CyberChef) 
+- [AltStore non-jailbroken iOS设备的另一个应用程序商店。](https://github.com/rileytestut/AltStore) 
 ### October 6, 2019 
 - [资源采集站在线播放](https://github.com/ZyqGitHub1/h-player-v2) 
 - [ent - An Entity Framework For Go](https://github.com/facebookincubator/ent) 
