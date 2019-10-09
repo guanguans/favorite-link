@@ -37,6 +37,9 @@
 
 
 
+
+### October 9, 2019 
+- [自动给中英文之间加入合理的空格并纠正专用名词大小写](https://github.com/nauxliu/auto-correct) 
 ### October 8, 2019 
 - [链家网和贝壳网房价爬虫，采集北京上海广州深圳等21个中国主要城市的房价数据（小区，二手房，出租房，新房），稳定可靠快速！支持csv,MySQL, MongoDB,Excel, json存储，支持Python2和3，图表展示数据，注释丰富 🚁，点星支持](https://github.com/jumper2014/lianjia-beike-spider) 
 - [一个PHP脚本，可让您使用支持RTMP的任何流程序在Instagram上直播！](https://github.com/JRoy/InstagramLive-PHP) 
