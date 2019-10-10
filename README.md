@@ -43,6 +43,7 @@
 - [一个关于数字隐私搜集、保护、清理集一体的方案](https://github.com/No-Github/Digital-Privacy) 
 - [一个快速灵活的WordPress搜索和查询引擎。](https://github.com/10up/ElasticPress) 
 - [PHP Consul SDK](https://github.com/FriendsOfPHP/consul-php-sdk) 
+- [leacmf是一款基于laravel5.7+layui的极速后台和api开发框架。](https://github.com/lea21st/leacmf-laravel) 
 ### October 9, 2019 
 - [自动给中英文之间加入合理的空格并纠正专用名词大小写](https://github.com/nauxliu/auto-correct) 
 - [适用于php cli应用程序的彩色高度可配置微调器（适用于异步应用程序）](https://github.com/alecrabbit/php-console-spinner) 
