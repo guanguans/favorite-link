@@ -47,6 +47,7 @@
 - [GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) 
 - [PHP的枚举实现。](https://github.com/eloquent/enumeration) 
 - [更好的PHP枚举支持](https://github.com/zlikavac32/php-enum) 
+- [基于阿里云点播 (aliyun vod) 系统最新版本的SDK 封装的composer package](https://github.com/ShaoZeMing/Aliyun-Vod) 
 ### October 9, 2019 
 - [自动给中英文之间加入合理的空格并纠正专用名词大小写](https://github.com/nauxliu/auto-correct) 
 - [适用于php cli应用程序的彩色高度可配置微调器（适用于异步应用程序）](https://github.com/alecrabbit/php-console-spinner) 
