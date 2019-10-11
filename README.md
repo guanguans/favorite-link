@@ -39,6 +39,9 @@
 
 
 
+
+### October 11, 2019 
+- [🍔 ❤️ 💰 ⚡️ 为爱发电 (Programming With Love) 技术爱好者组织简介](https://github.com/Programming-With-Love/Programming-With-Love-Profile) 
 ### October 10, 2019 
 - [一个关于数字隐私搜集、保护、清理集一体的方案](https://github.com/No-Github/Digital-Privacy) 
 - [一个快速灵活的WordPress搜索和查询引擎。](https://github.com/10up/ElasticPress) 
