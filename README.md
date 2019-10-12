@@ -40,6 +40,9 @@
 
 
 
+
+### October 12, 2019 
+- [一个用PHP编写的简单实用的数字运算api。](https://github.com/Herzult/SimplePHPEasyPlus) 
 ### October 11, 2019 
 - [🍔 ❤️ 💰 ⚡️ 为爱发电 (Programming With Love) 技术爱好者组织简介](https://github.com/Programming-With-Love/Programming-With-Love-Profile) 
 - [🇨🇳 民间兴趣组织 | 小程序 | 易语言(?) | GoLang | Java | PHP | Python | Android | Dart | Flutter | React | Cocos Creator | AND SO ON... | 加入请Email至邮箱](https://github.com/Programming-With-Love?type=source) 
