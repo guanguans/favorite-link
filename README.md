@@ -44,6 +44,7 @@
 
 ### October 13, 2019 
 - [Uber Go风格指南。](https://github.com/uber-go/guide) 
+- [📙 根据 RSS 抓取最新前端技术文章，来源：前端早读课、前端大全、前端之巅、淘宝前端、张鑫旭博客、凹凸实验室等](https://github.com/ChanceYu/front-end-rss) 
 ### October 12, 2019 
 - [一个用PHP编写的简单实用的数字运算api。](https://github.com/Herzult/SimplePHPEasyPlus) 
 - [RMT是帮助发布软件新版本的便捷工具](https://github.com/liip/RMT) 
