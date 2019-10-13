@@ -47,6 +47,7 @@
 - [📙 根据 RSS 抓取最新前端技术文章，来源：前端早读课、前端大全、前端之巅、淘宝前端、张鑫旭博客、凹凸实验室等](https://github.com/ChanceYu/front-end-rss) 
 - [Hitchhiker Api是一个Restful Api集成测试工具，支持计划，响应比较，压力测试，支持上载js文件以挂接请求，可轻松将其部署在本地服务器中。 与您的团队一起管理Api更容易。](https://github.com/brookshi/Hitchhiker) 
 - [添加此软件包以本地化您的Laravel应用程序。](https://github.com/translation/laravel) 
+- [hashicorp/vault: A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault) 
 ### October 12, 2019 
 - [一个用PHP编写的简单实用的数字运算api。](https://github.com/Herzult/SimplePHPEasyPlus) 
 - [RMT是帮助发布软件新版本的便捷工具](https://github.com/liip/RMT) 
