@@ -42,6 +42,9 @@
 
 
 
+
+### October 14, 2019 
+- [年会抽奖程序](https://github.com/fouber/lottery) 
 ### October 13, 2019 
 - [Uber Go风格指南。](https://github.com/uber-go/guide) 
 - [📙 根据 RSS 抓取最新前端技术文章，来源：前端早读课、前端大全、前端之巅、淘宝前端、张鑫旭博客、凹凸实验室等](https://github.com/ChanceYu/front-end-rss) 
