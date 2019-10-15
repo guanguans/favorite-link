@@ -46,6 +46,7 @@
 
 ### October 15, 2019 
 - [为您的Laravel应用提供“使用Apple登录”功能。](https://github.com/GeneaLabs/laravel-sign-in-with-apple) 
+- [使用Nuxt.js构建的V2ex（vue＆ssr）](https://github.com/OrangeXC/n2ex) 
 ### October 14, 2019 
 - [年会抽奖程序](https://github.com/fouber/lottery) 
 - [ 类似易企秀的H5制作、建站工具. ](https://github.com/ly525/luban-h5) 
