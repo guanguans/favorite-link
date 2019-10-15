@@ -48,6 +48,7 @@
 - [为您的Laravel应用提供“使用Apple登录”功能。](https://github.com/GeneaLabs/laravel-sign-in-with-apple) 
 - [使用Nuxt.js构建的V2ex（vue＆ssr）](https://github.com/OrangeXC/n2ex) 
 - [Go2o是使用Golang语言结合领域驱动设计（DDD)的O2O实现。](https://github.com/ixre/go2o) 
+- [Online-Go.com Web界面的源代码](https://github.com/online-go/online-go.com) 
 ### October 14, 2019 
 - [年会抽奖程序](https://github.com/fouber/lottery) 
 - [ 类似易企秀的H5制作、建站工具. ](https://github.com/ly525/luban-h5) 
