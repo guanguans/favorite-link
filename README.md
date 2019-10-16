@@ -49,6 +49,7 @@
 - [一个可以快速导出、查看你的微信聊天记录的工具](https://github.com/tsycnh/WeChatExporter) 
 - [⚡图表-用PHP 7编写的缺少的laravel图表库，具有很多可用的前端。 chart.erik.cat](https://github.com/ConsoleTVs/Charts) 
 - [提供Laravel的日志查看器](https://github.com/ARCANEDEV/LogViewer) 
+- [《GraphQL 学习之道》](https://github.com/the-road-to-graphql/the-road-to-graphql-chinese) 
 ### October 15, 2019 
 - [为您的Laravel应用提供“使用Apple登录”功能。](https://github.com/GeneaLabs/laravel-sign-in-with-apple) 
 - [使用Nuxt.js构建的V2ex（vue＆ssr）](https://github.com/OrangeXC/n2ex) 
