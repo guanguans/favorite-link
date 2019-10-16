@@ -44,6 +44,9 @@
 
 
 
+
+### October 16, 2019 
+- [一个可以快速导出、查看你的微信聊天记录的工具](https://github.com/tsycnh/WeChatExporter) 
 ### October 15, 2019 
 - [为您的Laravel应用提供“使用Apple登录”功能。](https://github.com/GeneaLabs/laravel-sign-in-with-apple) 
 - [使用Nuxt.js构建的V2ex（vue＆ssr）](https://github.com/OrangeXC/n2ex) 
