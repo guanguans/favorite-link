@@ -45,6 +45,9 @@
 
 
 
+
+### October 17, 2019 
+- [中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。](https://github.com/649453932/Chinese-Text-Classification-Pytorch) 
 ### October 16, 2019 
 - [一个可以快速导出、查看你的微信聊天记录的工具](https://github.com/tsycnh/WeChatExporter) 
 - [⚡图表-用PHP 7编写的缺少的laravel图表库，具有很多可用的前端。 chart.erik.cat](https://github.com/ConsoleTVs/Charts) 
