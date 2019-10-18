@@ -49,6 +49,7 @@
 
 ### October 18, 2019 
 - [Linux中国翻译项目](https://github.com/LCTT/TranslateProject) 
+- [thinkphp6.0 限制访问频率的中间件](https://github.com/top-think/think-throttle) 
 ### October 17, 2019 
 - [中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。](https://github.com/649453932/Chinese-Text-Classification-Pytorch) 
 - [💎 1MB轻量级通用人脸检测模型](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) 
