@@ -52,6 +52,7 @@
 - [thinkphp6.0 限制访问频率的中间件](https://github.com/top-think/think-throttle) 
 - [一个用于scrcpy的简单漂亮的GUI应用程序。](https://github.com/Tomotoes/scrcpy-gui) 
 - [史上最大规模1.4亿中文知识图谱开源下载](https://github.com/ownthink/KnowledgeGraphData) 
+- [一个基于Web的笔记应用程序，具有GitHub同步和Markdown支持。](https://github.com/taniarascia/takenote) 
 ### October 17, 2019 
 - [中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。](https://github.com/649453932/Chinese-Text-Classification-Pytorch) 
 - [💎 1MB轻量级通用人脸检测模型](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) 
