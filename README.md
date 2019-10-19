@@ -50,6 +50,7 @@
 
 ### October 19, 2019 
 - [几乎所有东西的记录器。](https://github.com/winstonjs/winston) 
+- [确定是否可以从robots.txt，漫游器元标记和漫游器标题中抓取页面。](https://github.com/spatie/robots-txt) 
 ### October 18, 2019 
 - [Linux中国翻译项目](https://github.com/LCTT/TranslateProject) 
 - [thinkphp6.0 限制访问频率的中间件](https://github.com/top-think/think-throttle) 
