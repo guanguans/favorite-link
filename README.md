@@ -48,6 +48,9 @@
 
 
 
+
+### October 20, 2019 
+- [在Chrome DevTools中查看时，使ImmutableJS对象更具可读性](https://github.com/mattzeunert/immutable-object-formatter-extension) 
 ### October 19, 2019 
 - [几乎所有东西的记录器。](https://github.com/winstonjs/winston) 
 - [确定是否可以从robots.txt，漫游器元标记和漫游器标题中抓取页面。](https://github.com/spatie/robots-txt) 
