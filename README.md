@@ -52,6 +52,7 @@
 ### October 20, 2019 
 - [在Chrome DevTools中查看时，使ImmutableJS对象更具可读性](https://github.com/mattzeunert/immutable-object-formatter-extension) 
 - [[只读]以0知识开始使用PHP CS Fixer和PHP_CodeSniffer的最简单方法](https://github.com/Symplify/EasyCodingStandard) 
+- [一个用于读取，解析，导出和制作不同类型字体文件子集的库。](https://github.com/PhenX/php-font-lib) 
 ### October 19, 2019 
 - [几乎所有东西的记录器。](https://github.com/winstonjs/winston) 
 - [确定是否可以从robots.txt，漫游器元标记和漫游器标题中抓取页面。](https://github.com/spatie/robots-txt) 
