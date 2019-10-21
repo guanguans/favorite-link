@@ -53,6 +53,7 @@
 ### October 21, 2019 
 - [人性化的日志文件，使您的工作效率更高](https://github.com/EasyCorp/easy-log-handler) 
 - [更优雅的音乐下载体验，为程序员而设计，使用Go语言编写](https://github.com/winterssy/mxget) 
+- [一个作曲家安装助手，将包URL中的敏感密钥外包给env vars](https://github.com/ffraenz/private-composer-installer) 
 ### October 20, 2019 
 - [在Chrome DevTools中查看时，使ImmutableJS对象更具可读性](https://github.com/mattzeunert/immutable-object-formatter-extension) 
 - [[只读]以0知识开始使用PHP CS Fixer和PHP_CodeSniffer的最简单方法](https://github.com/Symplify/EasyCodingStandard) 
