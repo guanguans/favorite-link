@@ -49,6 +49,9 @@
 
 
 
+
+### October 21, 2019 
+- [人性化的日志文件，使您的工作效率更高](https://github.com/EasyCorp/easy-log-handler) 
 ### October 20, 2019 
 - [在Chrome DevTools中查看时，使ImmutableJS对象更具可读性](https://github.com/mattzeunert/immutable-object-formatter-extension) 
 - [[只读]以0知识开始使用PHP CS Fixer和PHP_CodeSniffer的最简单方法](https://github.com/Symplify/EasyCodingStandard) 
