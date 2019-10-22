@@ -57,6 +57,7 @@
 - [PHP7/Redis5源码分析](https://github.com/menghuan/php7-redis5-code-analysis) 
 - [ElapseAnnals](https://github.com/ElapseAnnals?type=source) 
 - [爬虫集合](https://github.com/facert/awesome-spider) 
+- [一个Git客户端会直接在Sketch中生成漂亮的差异。](https://github.com/mathieudutour/git-sketch-plugin) 
 ### October 21, 2019 
 - [人性化的日志文件，使您的工作效率更高](https://github.com/EasyCorp/easy-log-handler) 
 - [更优雅的音乐下载体验，为程序员而设计，使用Go语言编写](https://github.com/winterssy/mxget) 
