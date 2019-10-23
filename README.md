@@ -58,6 +58,7 @@
 - [文章发布平台，可自动将您的文章分发到各种媒体渠道](https://github.com/crawlab-team/artipub) 
 - [基于Golang的分布式爬虫管理平台，支持Python、NodeJS、Go、Java、PHP等多种编程语言以及多种爬虫框架。](https://github.com/crawlab-team/crawlab/blob/master/README-zh.md) 
 - [轻松读取和写入简单的Excel和CSV文件](https://github.com/spatie/simple-excel) 
+- [Artisan soar in your browser](https://github.com/huangdijia/laravel-web-soar) 
 ### October 22, 2019 
 - [快速压缩器/解压缩器](https://github.com/google/snappy) 
 - [介绍从区块链到比特币，以太坊和超级账本的从理论到实践的区块链相关技术。](https://github.com/yeasy/blockchain_guide) 
