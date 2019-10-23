@@ -51,6 +51,9 @@
 
 
 
+
+### October 23, 2019 
+- [后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。](https://github.com/zhongshaofa/layuimini) 
 ### October 22, 2019 
 - [快速压缩器/解压缩器](https://github.com/google/snappy) 
 - [介绍从区块链到比特币，以太坊和超级账本的从理论到实践的区块链相关技术。](https://github.com/yeasy/blockchain_guide) 
