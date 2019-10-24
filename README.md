@@ -52,6 +52,9 @@
 
 
 
+
+### October 24, 2019 
+- [适用于多数据源的更简单，更安全，更快的统一SQL分析引擎](https://github.com/Qihoo360/Quicksql) 
 ### October 23, 2019 
 - [后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。](https://github.com/zhongshaofa/layuimini) 
 - [Spotify for Rust编写的终端](https://github.com/Rigellute/spotify-tui) 
