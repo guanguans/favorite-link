@@ -58,6 +58,7 @@
 - [受欢迎的 Mysql sql审核平台](https://github.com/cookieY/Yearning) 
 - [用JavaScript实现的算法和数据结构，附详细解释和刷题指南](https://github.com/ConardLi/awesome-coding-js) 
 - [开源任务管理系统](https://github.com/lazyphp/PESCMS-TEAM) 
+- [Streaming torrent client for the web](https://github.com/webtorrent/webtorrent) 
 ### October 23, 2019 
 - [后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。](https://github.com/zhongshaofa/layuimini) 
 - [Spotify for Rust编写的终端](https://github.com/Rigellute/spotify-tui) 
