@@ -56,6 +56,7 @@
 
 ### October 25, 2019 
 - [think-awesome ThinkPHP5+ 资源整理](https://github.com/top-think/think-awesome) 
+- [使用flock的简单锁实现。](https://github.com/yriveiro/php-fslock) 
 ### October 24, 2019 
 - [适用于多数据源的更简单，更安全，更快的统一SQL分析引擎](https://github.com/Qihoo360/Quicksql) 
 - [受欢迎的 Mysql sql审核平台](https://github.com/cookieY/Yearning) 
