@@ -60,6 +60,7 @@
 - [此扩展包用于,swoole开发,修改代码后自动重启服务](https://github.com/phpdi/swoole-auto-restart) 
 - [ChromeGo 翻墙工具包](https://github.com/killgcd/chromego) 
 - [一个基于BitTorrent协议的DHT磁力嗅探器,并基于Elasticsearch存储/检索Torrent的Metadata信息](https://github.com/BrightStarry/zx-bt) 
+- [从您的Github版本中创建美观，高性能，可访问的变更日志。](https://github.com/palmerhq/changecast) 
 ### October 24, 2019 
 - [适用于多数据源的更简单，更安全，更快的统一SQL分析引擎](https://github.com/Qihoo360/Quicksql) 
 - [受欢迎的 Mysql sql审核平台](https://github.com/cookieY/Yearning) 
