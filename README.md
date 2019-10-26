@@ -57,6 +57,7 @@
 
 ### October 26, 2019 
 - [Golang+gin+vue+MySQL blog](https://github.com/izghua/go-blog) 
+- [终端上的Git存储库摘要](https://github.com/o2sh/onefetch) 
 ### October 25, 2019 
 - [think-awesome ThinkPHP5+ 资源整理](https://github.com/top-think/think-awesome) 
 - [使用flock的简单锁实现。](https://github.com/yriveiro/php-fslock) 
