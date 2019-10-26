@@ -60,6 +60,7 @@
 - [终端上的Git存储库摘要](https://github.com/o2sh/onefetch) 
 - [Sentry 小程序 SDK：用于小程序平台的 Sentry SDK（目前支持微信、字节跳动、支付宝小程序）](https://github.com/lizhiyao/sentry-miniapp) 
 - [常见加密算法](https://github.com/Lellansin/Cipher-examples) 
+- [微信小程序Markdown渲染库](https://github.com/TooBug/wemark) 
 ### October 25, 2019 
 - [think-awesome ThinkPHP5+ 资源整理](https://github.com/top-think/think-awesome) 
 - [使用flock的简单锁实现。](https://github.com/yriveiro/php-fslock) 
