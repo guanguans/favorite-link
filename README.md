@@ -62,6 +62,7 @@
 - [常见加密算法](https://github.com/Lellansin/Cipher-examples) 
 - [微信小程序Markdown渲染库](https://github.com/TooBug/wemark) 
 - [Trello通知频道Laravel](https://github.com/laravel-notification-channels/trello) 
+- [Laravel的自定义通知驱动程序集合](https://github.com/laravel-notification-channels?type=source) 
 ### October 25, 2019 
 - [think-awesome ThinkPHP5+ 资源整理](https://github.com/top-think/think-awesome) 
 - [使用flock的简单锁实现。](https://github.com/yriveiro/php-fslock) 
