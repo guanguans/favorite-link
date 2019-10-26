@@ -65,6 +65,7 @@
 - [Laravel的自定义通知驱动程序集合](https://github.com/laravel-notification-channels?type=source) 
 - [Trello工作流程-通过Mac版Alfred App在Trello中创建卡](https://github.com/MikoMagni/Trello-Workflow-for-Alfred) 
 - [Trello API的简单面向对象包装，用PHP5编写。](https://github.com/cdaguerre/php-trello-api) 
+- [一个使用Trello API的php客户端](https://github.com/stevenmaguire/trello-php) 
 ### October 25, 2019 
 - [think-awesome ThinkPHP5+ 资源整理](https://github.com/top-think/think-awesome) 
 - [使用flock的简单锁实现。](https://github.com/yriveiro/php-fslock) 
