@@ -55,6 +55,9 @@
 
 
 
+
+### October 27, 2019 
+- [利用JavaScript和OCaml生态系统的简单，快速和类型安全的代码。](https://github.com/facebook/reason) 
 ### October 26, 2019 
 - [Golang+gin+vue+MySQL blog](https://github.com/izghua/go-blog) 
 - [终端上的Git存储库摘要](https://github.com/o2sh/onefetch) 
