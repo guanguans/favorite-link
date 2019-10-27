@@ -60,6 +60,7 @@
 - [利用JavaScript和OCaml生态系统的简单，快速和类型安全的代码。](https://github.com/facebook/reason) 
 - [备考托福的一丢丢经验+资料~祝小可爱和大佬们都早日和托福大魔王分手(o゜▽゜)o☆](https://github.com/laylalaisy/TOEFL_laylalaisy) 
 - [JavaScript应用程序的实时数据库](https://github.com/pubkey/rxdb) 
+- [Google AI研究](https://github.com/google-research/google-research) 
 ### October 26, 2019 
 - [Golang+gin+vue+MySQL blog](https://github.com/izghua/go-blog) 
 - [终端上的Git存储库摘要](https://github.com/o2sh/onefetch) 
