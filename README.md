@@ -61,6 +61,7 @@
 - [在浏览器中转换视频](https://github.com/bgrins/videoconverter.js) 
 - [The Uber Go Style Guide . Uber Go 语言编码规范中文版](https://github.com/xxjwxc/uber_go_guide_cn) 
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) 
+- [基于 vue+node+mongodb 实现一个锤子商城](https://github.com/yucccc/vue-mall) 
 ### October 27, 2019 
 - [利用JavaScript和OCaml生态系统的简单，快速和类型安全的代码。](https://github.com/facebook/reason) 
 - [备考托福的一丢丢经验+资料~祝小可爱和大佬们都早日和托福大魔王分手(o゜▽゜)o☆](https://github.com/laylalaisy/TOEFL_laylalaisy) 
