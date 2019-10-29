@@ -57,6 +57,9 @@
 
 
 
+
+### October 29, 2019 
+- [这是可以在本地托管的自由软件网络服务和Web应用程序的列表。](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 ### October 28, 2019 
 - [在浏览器中转换视频](https://github.com/bgrins/videoconverter.js) 
 - [The Uber Go Style Guide . Uber Go 语言编码规范中文版](https://github.com/xxjwxc/uber_go_guide_cn) 
