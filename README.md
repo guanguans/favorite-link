@@ -63,6 +63,7 @@
 - [透明的代理服务器，充当穷人的VPN。  通过ssh转发。  不需要管理员。  适用于Linux和MacOS。  支持DNS隧道。](https://github.com/sshuttle/sshuttle) 
 - [漂亮的打印表和更多golang！](https://github.com/jedib0t/go-pretty) 
 - [A GitHub Action that uploads a file to a new release.](https://github.com/JasonEtco/upload-to-release) 
+- [该库是用PHP编写的google / gson端口。  其目的是轻松处理PHP对象与JSON之间的转换。](https://github.com/tebru/gson-php) 
 ### October 29, 2019 
 - [这是可以在本地托管的自由软件网络服务和Web应用程序的列表。](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 - [一个简单而优雅的markdown编辑器，可用于Linux，macOS和Windows。](https://github.com/marktext/marktext) 
