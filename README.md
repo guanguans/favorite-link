@@ -66,6 +66,7 @@
 - [该库是用PHP编写的google / gson端口。  其目的是轻松处理PHP对象与JSON之间的转换。](https://github.com/tebru/gson-php) 
 - [nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) 
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 
+- [中文独立博客列表 ](https://github.com/timqian/chinese-independent-blogs) 
 ### October 29, 2019 
 - [这是可以在本地托管的自由软件网络服务和Web应用程序的列表。](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 - [一个简单而优雅的markdown编辑器，可用于Linux，macOS和Windows。](https://github.com/marktext/marktext) 
