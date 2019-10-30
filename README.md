@@ -70,6 +70,7 @@
 - [多语言Web转换器。](https://github.com/ritz078/transform) 
 - [多语言Web转换器。](https://github.com/ritz078/transform) 
 - [SQL优化器和重写器hyperf扩展包](https://github.com/wilbur-oo/hyperf-soar) 
+- [将数字转换为各种格式，例如科学计数法或单位后缀表示法](https://github.com/nicmart/Numbers) 
 ### October 29, 2019 
 - [这是可以在本地托管的自由软件网络服务和Web应用程序的列表。](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 - [一个简单而优雅的markdown编辑器，可用于Linux，macOS和Windows。](https://github.com/marktext/marktext) 
