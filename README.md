@@ -79,6 +79,7 @@
 - [安全场景、基于AI的安全算法和安全数据分析学习资料整理](https://github.com/404notf0und/AI-for-Security-Learning) 
 - [为更好监控/管理的Redis而倾心打造~](https://github.com/liuzhuoling2011/RedisGo) 
 - [2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) 
+- [aravel+vue 个人博客](https://github.com/sweida/vue-blog-index) 
 ### October 30, 2019 
 - [透明的代理服务器，充当穷人的VPN。  通过ssh转发。  不需要管理员。  适用于Linux和MacOS。  支持DNS隧道。](https://github.com/sshuttle/sshuttle) 
 - [漂亮的打印表和更多golang！](https://github.com/jedib0t/go-pretty) 
