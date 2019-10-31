@@ -77,6 +77,7 @@
 - [每天更新！全网热门公共 BitTorrent Tracker 列表合集。](https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md) 
 - [内网渗透中常用的c#程序整合成cs脚本，直接内存加载。](https://github.com/uknowsec/SharpToolsAggressor) 
 - [安全场景、基于AI的安全算法和安全数据分析学习资料整理](https://github.com/404notf0und/AI-for-Security-Learning) 
+- [为更好监控/管理的Redis而倾心打造~](https://github.com/liuzhuoling2011/RedisGo) 
 ### October 30, 2019 
 - [透明的代理服务器，充当穷人的VPN。  通过ssh转发。  不需要管理员。  适用于Linux和MacOS。  支持DNS隧道。](https://github.com/sshuttle/sshuttle) 
 - [漂亮的打印表和更多golang！](https://github.com/jedib0t/go-pretty) 
