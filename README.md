@@ -69,6 +69,7 @@
 - [ONLYCHAIN区块链底层系统-OCSystem](https://github.com/onlychain/OCSystem) 
 - [Laravel项目中的REST客户端。](https://github.com/davidhsianturi/laravel-compass) 
 - [allenking1028/ss](https://github.com/allenking1028/ss) 
+- [高性能、跨平台的 PHP7 代码加密扩展](https://github.com/lihancong/tonyenc) 
 ### October 30, 2019 
 - [透明的代理服务器，充当穷人的VPN。  通过ssh转发。  不需要管理员。  适用于Linux和MacOS。  支持DNS隧道。](https://github.com/sshuttle/sshuttle) 
 - [漂亮的打印表和更多golang！](https://github.com/jedib0t/go-pretty) 
