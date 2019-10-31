@@ -62,6 +62,7 @@
 
 ### October 31, 2019 
 - [区块链小白书](https://github.com/xiaolai/blockchainlittlebook.com) 
+- [Zulip服务器-强大的开源团队聊天](https://github.com/zulip/zulip) 
 ### October 30, 2019 
 - [透明的代理服务器，充当穷人的VPN。  通过ssh转发。  不需要管理员。  适用于Linux和MacOS。  支持DNS隧道。](https://github.com/sshuttle/sshuttle) 
 - [漂亮的打印表和更多golang！](https://github.com/jedib0t/go-pretty) 
