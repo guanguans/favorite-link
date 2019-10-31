@@ -72,6 +72,7 @@
 - [高性能、跨平台的 PHP7 代码加密扩展](https://github.com/lihancong/tonyenc) 
 - [ThinkCMF 框架上的任意内容包含漏洞](https://github.com/jas502n/ThinkCMF_getshell) 
 - [PHP Stream Wrapper for ISO9660 files (.iso files)](https://github.com/vdechenaux/iso-9660) 
+- [所有已命名GAN的列表！](https://github.com/hindupuravinash/the-gan-zoo) 
 ### October 30, 2019 
 - [透明的代理服务器，充当穷人的VPN。  通过ssh转发。  不需要管理员。  适用于Linux和MacOS。  支持DNS隧道。](https://github.com/sshuttle/sshuttle) 
 - [漂亮的打印表和更多golang！](https://github.com/jedib0t/go-pretty) 
