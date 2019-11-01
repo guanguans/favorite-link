@@ -60,6 +60,9 @@
 
 
 
+
+### November 1, 2019 
+- [代码搜索和导航工具（自托管）](https://github.com/sourcegraph/sourcegraph) 
 ### October 31, 2019 
 - [区块链小白书](https://github.com/xiaolai/blockchainlittlebook.com) 
 - [Zulip服务器-强大的开源团队聊天](https://github.com/zulip/zulip) 
