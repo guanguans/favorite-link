@@ -65,6 +65,7 @@
 - [代码搜索和导航工具（自托管）](https://github.com/sourcegraph/sourcegraph) 
 - [用JavaScript实现并渲染到终端的图形管道。  无需GPU。](https://github.com/sinclairzx81/zero) 
 - [SQL驱动的操作系统检测，监视和分析。](https://github.com/osquery/osquery) 
+- [swoft，jwt，vue & d2admin &element 前后端分离权限管理系统](https://github.com/nilocsu/swoft-rbac) 
 ### October 31, 2019 
 - [区块链小白书](https://github.com/xiaolai/blockchainlittlebook.com) 
 - [Zulip服务器-强大的开源团队聊天](https://github.com/zulip/zulip) 
