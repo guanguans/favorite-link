@@ -64,6 +64,7 @@
 
 ### November 2, 2019 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
+- [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
 ### November 1, 2019 
 - [代码搜索和导航工具（自托管）](https://github.com/sourcegraph/sourcegraph) 
 - [用JavaScript实现并渲染到终端的图形管道。  无需GPU。](https://github.com/sinclairzx81/zero) 
