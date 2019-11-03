@@ -67,6 +67,7 @@
 - [窗口管理应用程序（替换Divvy / SizeUp / ShiftIt）](https://github.com/jigish/slate) 
 - [sweida/laravel-shop-api](https://github.com/sweida/laravel-shop-api) 
 - [使用Docker构建Laravel开发环境](https://github.com/ucan-lab/docker-laravel) 
+- [构建良好，规范化且易于使用的Laravel REST API JSON响应。](https://github.com/MarcinOrlowski/laravel-api-response-builder) 
 ### November 2, 2019 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
