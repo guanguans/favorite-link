@@ -62,6 +62,9 @@
 
 
 
+
+### November 3, 2019 
+- [窗口管理应用程序（替换Divvy / SizeUp / ShiftIt）](https://github.com/jigish/slate) 
 ### November 2, 2019 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
