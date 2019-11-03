@@ -70,6 +70,7 @@
 - [构建良好，规范化且易于使用的Laravel REST API JSON响应。](https://github.com/MarcinOrlowski/laravel-api-response-builder) 
 - [使用一个库，一个配置文件和一个控制器的CodeIgniter的完全RESTful服务器实现。](https://github.com/chriskacerguis/codeigniter-restserver) 
 - [免费的Laravel商业电子商务：购物车，CMS内容等。](https://github.com/lanhktc/s-cart) 
+- [VSCode扩展，用于浏览和查询SQLite数据库。](https://github.com/AlexCovizzi/vscode-sqlite) 
 ### November 2, 2019 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
