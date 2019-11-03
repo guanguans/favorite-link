@@ -68,6 +68,7 @@
 - [sweida/laravel-shop-api](https://github.com/sweida/laravel-shop-api) 
 - [使用Docker构建Laravel开发环境](https://github.com/ucan-lab/docker-laravel) 
 - [构建良好，规范化且易于使用的Laravel REST API JSON响应。](https://github.com/MarcinOrlowski/laravel-api-response-builder) 
+- [使用一个库，一个配置文件和一个控制器的CodeIgniter的完全RESTful服务器实现。](https://github.com/chriskacerguis/codeigniter-restserver) 
 ### November 2, 2019 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
 - [GitHub问题和拉取请求模板的集合](https://github.com/stevemao/github-issue-templates) 
