@@ -66,6 +66,7 @@
 
 ### November 4, 2019 
 - [在GitHub组织中创建新存储库时获得通知](https://github.com/follow-github-organisation/follow-github-organisation) 
+- [Extension Web Extension入门程序以构建“在任何浏览器上写入一次写入”扩展程序](https://github.com/abhijithvijayan/web-extension-starter) 
 ### November 3, 2019 
 - [窗口管理应用程序（替换Divvy / SizeUp / ShiftIt）](https://github.com/jigish/slate) 
 - [sweida/laravel-shop-api](https://github.com/sweida/laravel-shop-api) 
