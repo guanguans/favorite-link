@@ -68,6 +68,7 @@
 - [在GitHub组织中创建新存储库时获得通知](https://github.com/follow-github-organisation/follow-github-organisation) 
 - [Extension Web Extension入门程序以构建“在任何浏览器上写入一次写入”扩展程序](https://github.com/abhijithvijayan/web-extension-starter) 
 - [基于Laravel5.8构建的轻量博客应用，支持Markdown，支持图片拖拽上传，界面简洁，SEO友好，支持百度链接自动和手动提交](https://github.com/luvvien/laravel-blog) 
+- [Format Rust code](https://github.com/rust-lang/rustfmt) 
 ### November 3, 2019 
 - [窗口管理应用程序（替换Divvy / SizeUp / ShiftIt）](https://github.com/jigish/slate) 
 - [sweida/laravel-shop-api](https://github.com/sweida/laravel-shop-api) 
