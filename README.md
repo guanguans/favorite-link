@@ -70,6 +70,7 @@
 - [模仿macOS的Spotlight的自定义``快速打开''窗口](https://github.com/lukakerr/OpenQuickly) 
 - [An interactive web UI for gRPC, along the lines of postman](https://github.com/fullstorydev/grpcui) 
 - [一种无需编写实际测试用例即可进行测试的方法](https://github.com/spatie/phpunit-snapshot-assertions) 
+- [The simplest and most complete UI for your private registry](https://github.com/Joxit/docker-registry-ui) 
 ### November 4, 2019 
 - [在GitHub组织中创建新存储库时获得通知](https://github.com/follow-github-organisation/follow-github-organisation) 
 - [Extension Web Extension入门程序以构建“在任何浏览器上写入一次写入”扩展程序](https://github.com/abhijithvijayan/web-extension-starter) 
