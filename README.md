@@ -65,6 +65,9 @@
 
 
 
+
+### November 6, 2019 
+- [用于为Chrome，Opera和Firefox构建跨浏览器扩展的模板。](https://github.com/EmailThis/extension-boilerplate) 
 ### November 5, 2019 
 - [面向Web开发人员的780多个RSS feed的集合，每月更新一次](https://github.com/simevidas/web-dev-feeds) 
 - [模仿macOS的Spotlight的自定义``快速打开''窗口](https://github.com/lukakerr/OpenQuickly) 
