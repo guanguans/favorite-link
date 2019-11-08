@@ -74,6 +74,7 @@
 - [幼麟棋牌-四川麻将v1.0 开源版本 已支持数百个在线产品，可放心使用](https://github.com/babykylin/babykylin_scmj) 
 - [Laravel Validation Rules](https://github.com/laravel-validation-rules?type=source) 
 - [在laravel中插入批处理并更新批处理](https://github.com/mavinoo/laravelBatch) 
+- [Laravel诗词博客-匠心编程，热爱生活。](https://github.com/qqphp-com/laravel-blog-poetry-all) 
 ### November 7, 2019 
 - [本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。](https://github.com/grayddq/GScan) 
 - [使yii2项目在swoole上运行](https://github.com/tsingsun/yii2-swoole) 
