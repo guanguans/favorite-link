@@ -78,6 +78,7 @@
 - [GitHub用于构建项目并将其部署到GitHub页面的动作。](https://github.com/JamesIves/github-pages-deploy-action) 
 - [微信聊天记录导出](http://wxbackup.imxfd.com/) 
 - [提取 Git 提交记录快速生成 Markdown 格式的日报 / 周报，旨在帮助像我这样健忘的程序员们快速编排工作记录。](https://github.com/wi1dcard/weekly-report) 
+- [A mysql data masking tools for laravel 数据脱敏工具](https://github.com/y-ui/laravel-data-masking) 
 ### November 7, 2019 
 - [本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。](https://github.com/grayddq/GScan) 
 - [使yii2项目在swoole上运行](https://github.com/tsingsun/yii2-swoole) 
