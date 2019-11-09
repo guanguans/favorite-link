@@ -74,6 +74,7 @@
 - [一款使用 PHP 开发的命令行聊天软件，基于 UDP 协议，支持分组聊天、AES 加密聊天、抗重放攻击等特性。](https://github.com/kasuganosoras/UChat) 
 - [Go 语言 Web 应用开发系列教程，从新手到双手残废](https://github.com/unknwon/building-web-applications-in-go) 
 - [Update a pinned gist to contain your weekly WakaTime stats](https://github.com/matchai/waka-box) 
+- [从零开始内网渗透学习](https://github.com/l3m0n/pentest_study) 
 ### November 8, 2019 
 - [黑客神器，谁用谁知道！](https://github.com/WWILLV/GodOfHacker) 
 - [weworkapi_php 是为了简化开发者对企业微信API接口的使用而设计的，API调用库系列之php版本](https://github.com/sbzhu/weworkapi_php) 
