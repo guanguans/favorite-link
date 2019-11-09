@@ -76,6 +76,7 @@
 - [Update a pinned gist to contain your weekly WakaTime stats](https://github.com/matchai/waka-box) 
 - [从零开始内网渗透学习](https://github.com/l3m0n/pentest_study) 
 - [微信 wechat web 网页版接口的 JavaScript 实现，兼容Node和浏览器，微信机器人](https://github.com/nodeWechat/wechat4u) 
+- [微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。](https://github.com/wuchangming/spy-debugger) 
 ### November 8, 2019 
 - [黑客神器，谁用谁知道！](https://github.com/WWILLV/GodOfHacker) 
 - [weworkapi_php 是为了简化开发者对企业微信API接口的使用而设计的，API调用库系列之php版本](https://github.com/sbzhu/weworkapi_php) 
