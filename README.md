@@ -73,6 +73,7 @@
 ### November 10, 2019 
 - [一个更快，更好，更稳定的Redis桌面管理器](https://github.com/qishibo/AnotherRedisDesktopManager) 
 - [用于在多域设置上使用laravel应用程序的Laravel扩展](https://github.com/gecche/laravel-multidomain) 
+- [适用于Symfony应用程序的新（简单）管理生成器。](https://github.com/EasyCorp/EasyAdminBundle) 
 ### November 9, 2019 
 - [🎵 PHP Swoole 开发的在线同步点歌台，支持自由点歌，切歌，调整排序，删除指定音乐以及基础权限分级](https://github.com/kasuganosoras/SyncMusic) 
 - [一款使用 PHP 开发的命令行聊天软件，基于 UDP 协议，支持分组聊天、AES 加密聊天、抗重放攻击等特性。](https://github.com/kasuganosoras/UChat) 
