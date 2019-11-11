@@ -70,6 +70,9 @@
 
 
 
+
+### November 11, 2019 
+- [用纯PHP编写的GPG / PGP端口，没有二进制依赖性](https://github.com/jasonhinkle/php-gpg) 
 ### November 10, 2019 
 - [一个更快，更好，更稳定的Redis桌面管理器](https://github.com/qishibo/AnotherRedisDesktopManager) 
 - [用于在多域设置上使用laravel应用程序的Laravel扩展](https://github.com/gecche/laravel-multidomain) 
