@@ -74,6 +74,7 @@
 ### November 11, 2019 
 - [用纯PHP编写的GPG / PGP端口，没有二进制依赖性](https://github.com/jasonhinkle/php-gpg) 
 - [使用Swoole扩展以纯PHP编写的权威DNS服务器](https://github.com/awaysoft/AwayDNS) 
+- [使用PHP将jpeg / png转换为webp（如果可能的话）](https://github.com/rosell-dk/webp-convert) 
 ### November 10, 2019 
 - [一个更快，更好，更稳定的Redis桌面管理器](https://github.com/qishibo/AnotherRedisDesktopManager) 
 - [用于在多域设置上使用laravel应用程序的Laravel扩展](https://github.com/gecche/laravel-multidomain) 
