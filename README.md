@@ -80,6 +80,7 @@
 - [京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展 ](https://github.com/sunoj/jjb) 
 - [解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站](https://github.com/biancangming/wtv) 
 - [Java 面试必会 直通BAT](https://github.com/gzc426/Java-Interview) 
+- [野猫VIP - 每天分享最新的百度网盘SVIP、迅雷超级会员、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、苹果ID、天眼查VIP等等各类VIP帐号，随取随用，完全免费，绝无套路，欢迎推荐分享给好友！](https://github.com/wuxingsanren/wildcat-vip-account) 
 ### November 11, 2019 
 - [用纯PHP编写的GPG / PGP端口，没有二进制依赖性](https://github.com/jasonhinkle/php-gpg) 
 - [使用Swoole扩展以纯PHP编写的权威DNS服务器](https://github.com/awaysoft/AwayDNS) 
