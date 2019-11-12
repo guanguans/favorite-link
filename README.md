@@ -77,6 +77,7 @@
 - [📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作](https://github.com/hoodiearon/fq-book) 
 - [dnscrypt-proxy 2-灵活的DNS代理，支持加密的DNS协议。](https://github.com/DNSCrypt/dnscrypt-proxy) 
 - [⬇️通过自动PR使您的叉子保持最新状态](https://github.com/wei/pull) 
+- [京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展 ](https://github.com/sunoj/jjb) 
 ### November 11, 2019 
 - [用纯PHP编写的GPG / PGP端口，没有二进制依赖性](https://github.com/jasonhinkle/php-gpg) 
 - [使用Swoole扩展以纯PHP编写的权威DNS服务器](https://github.com/awaysoft/AwayDNS) 
