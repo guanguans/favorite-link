@@ -76,6 +76,7 @@
 ### November 13, 2019 
 - [天气终端的应用程序](https://github.com/schachmat/wego) 
 - [call_user_func（）的基准研究](https://github.com/fab2s/call_user_func#the-problem) 
+- [向新用户发送欢迎通知](https://github.com/spatie/laravel-welcome-notification) 
 ### November 12, 2019 
 - [bannedwords－违禁词，敏感词库](https://github.com/spetacular/bannedwords) 
 - [📖 《这本书能让你连接互联网》科学上网Freestyle，了解网络基础知识与实践蹭网操作](https://github.com/hoodiearon/fq-book) 
