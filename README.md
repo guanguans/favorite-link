@@ -76,6 +76,7 @@
 
 ### November 14, 2019 
 - [Notepad3 ](https://github.com/rizonesoft/Notepad3) 
+- [从apk文件中提取端点。](https://github.com/s0md3v/Diggy) 
 ### November 13, 2019 
 - [天气终端的应用程序](https://github.com/schachmat/wego) 
 - [call_user_func（）的基准研究](https://github.com/fab2s/call_user_func#the-problem) 
