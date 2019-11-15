@@ -77,6 +77,7 @@
 
 ### November 15, 2019 
 - [高性能，可扩展，模块化和跨平台的工作流引擎。 专为自动化而设计。 针对SaaS集成进行了优化。 在Windows，Linux，macOS和云上运行。](https://github.com/aelassas/Wexflow) 
+- [基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具](https://github.com/huangwei9527/quark-h5) 
 ### November 14, 2019 
 - [Notepad3 ](https://github.com/rizonesoft/Notepad3) 
 - [从apk文件中提取端点。](https://github.com/s0md3v/Diggy) 
