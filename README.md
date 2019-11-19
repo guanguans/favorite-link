@@ -77,6 +77,9 @@
 
 
 
+
+### November 19, 2019 
+- [多年来为许多目的而创建的AppleScript的集合。](https://github.com/kevin-funderburg/AppleScripts) 
 ### November 18, 2019 
 - [计算Git存储库的各种大小度量，标记那些可能导致问题的度量](https://github.com/github/git-sizer) 
 - [用于异步HTTP请求的承诺](https://github.com/php-http/promise) 
