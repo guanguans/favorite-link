@@ -84,6 +84,7 @@
 - [用于Express，Connect，Hapi，Koa等的GraphQL服务器](https://github.com/apollographql/apollo-server) 
 - [适用于每个UI框架和GraphQL服务器的功能完备，可用于生产的缓存GraphQL客户端](https://github.com/apollographql/apollo-client) 
 - [WordPress插件，用于将内容与GitHub存储库（或Jekyll站点）同步](https://github.com/mAAdhaTTah/wordpress-github-sync) 
+- [一款定位于Markdown文章排版与一键发布本地文章到【博客园】【CSDN】【掘金】【开源中国】等平台的Markdown编辑器。](https://github.com/yueshutong/JustWrite) 
 ### November 19, 2019 
 - [多年来为许多目的而创建的AppleScript的集合。](https://github.com/kevin-funderburg/AppleScripts) 
 - [和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster) 
