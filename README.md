@@ -79,6 +79,9 @@
 
 
 
+
+### November 21, 2019 
+- [Injection SQL注入有效负载列表](https://github.com/payloadbox/sql-injection-payload-list) 
 ### November 20, 2019 
 - [♏ 一款浏览器端的 Markdown 编辑器。](https://github.com/b3log/vditor) 
 - [用于Express，Connect，Hapi，Koa等的GraphQL服务器](https://github.com/apollographql/apollo-server) 
