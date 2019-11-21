@@ -82,6 +82,7 @@
 
 ### November 21, 2019 
 - [Injection SQL注入有效负载列表](https://github.com/payloadbox/sql-injection-payload-list) 
+- [在RAM中获取数据。 使计算接近数据。](https://github.com/tarantool/tarantool) 
 ### November 20, 2019 
 - [♏ 一款浏览器端的 Markdown 编辑器。](https://github.com/b3log/vditor) 
 - [用于Express，Connect，Hapi，Koa等的GraphQL服务器](https://github.com/apollographql/apollo-server) 
