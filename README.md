@@ -84,6 +84,7 @@
 ### November 22, 2019 
 - [Github动作来寻找合并冲突](https://github.com/olivernybroe/action-conflict-finder) 
 - [微博机器人](https://github.com/Hanson/weibot) 
+- [wwsearch是企业微信后台自研的全文检索引擎。](https://github.com/Tencent/wwsearch) 
 ### November 21, 2019 
 - [Injection SQL注入有效负载列表](https://github.com/payloadbox/sql-injection-payload-list) 
 - [在RAM中获取数据。 使计算接近数据。](https://github.com/tarantool/tarantool) 
