@@ -84,6 +84,7 @@
 
 ### November 23, 2019 
 - [Lightweight Kubernetes. 5 less than k8s. ](https://github.com/rancher/k3s) 
+- [本项目 多源翻译 (Multi-source Translation, MTrans)，提供了集多种主流的 在线翻译 及 TTS 功能于一身的轻量级服务。](https://github.com/hujingshuang/MTrans) 
 ### November 22, 2019 
 - [Github动作来寻找合并冲突](https://github.com/olivernybroe/action-conflict-finder) 
 - [微博机器人](https://github.com/Hanson/weibot) 
