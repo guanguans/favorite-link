@@ -89,6 +89,7 @@
 - [一个具有划词翻译功能的pdf阅读器，用着挺好用开源一下造福众科研人员](https://github.com/axipo/pdfTranslator) 
 - [一个 Aria2 图形界面客户端](https://github.com/Xmader/aria-ng-gui) 
 - [一款Android脱壳工具，需要xposed支持, 易开发已集成该项目](https://github.com/WrBug/dumpDex) 
+- [用于InfluxDB（时间序列数据库）的PHP客户端](https://github.com/influxdata/influxdb-php) 
 ### November 23, 2019 
 - [Lightweight Kubernetes. 5 less than k8s. ](https://github.com/rancher/k3s) 
 - [本项目 多源翻译 (Multi-source Translation, MTrans)，提供了集多种主流的 在线翻译 及 TTS 功能于一身的轻量级服务。](https://github.com/hujingshuang/MTrans) 
