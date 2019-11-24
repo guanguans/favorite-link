@@ -92,6 +92,7 @@
 - [用于InfluxDB（时间序列数据库）的PHP客户端](https://github.com/influxdata/influxdb-php) 
 - [windows下编译phpx扩展,php7扩展](https://github.com/logoove/phpx-windows) 
 - [PHP 7 Runtime for ANTLR4](https://github.com/antlr/antlr-php-runtime) 
+- [表情符号同义词可构建自己的具有表情符号功能的搜索引擎](https://github.com/jolicode/emoji-search) 
 ### November 23, 2019 
 - [Lightweight Kubernetes. 5 less than k8s. ](https://github.com/rancher/k3s) 
 - [本项目 多源翻译 (Multi-source Translation, MTrans)，提供了集多种主流的 在线翻译 及 TTS 功能于一身的轻量级服务。](https://github.com/hujingshuang/MTrans) 
