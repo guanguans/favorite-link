@@ -87,6 +87,7 @@
 - [🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据](https://github.com/uiwjs/province-city-china) 
 - [Cydia插件 dylib注入 iOS逆向工程开发 越狱Jailbreak deb插件开发](https://github.com/XLsn0w/Cydia) 
 - [一个具有划词翻译功能的pdf阅读器，用着挺好用开源一下造福众科研人员](https://github.com/axipo/pdfTranslator) 
+- [一个 Aria2 图形界面客户端](https://github.com/Xmader/aria-ng-gui) 
 ### November 23, 2019 
 - [Lightweight Kubernetes. 5 less than k8s. ](https://github.com/rancher/k3s) 
 - [本项目 多源翻译 (Multi-source Translation, MTrans)，提供了集多种主流的 在线翻译 及 TTS 功能于一身的轻量级服务。](https://github.com/hujingshuang/MTrans) 
