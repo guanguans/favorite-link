@@ -83,6 +83,9 @@
 
 
 
+
+### November 25, 2019 
+- [PHP库与Yubikey REST API交互](https://github.com/enygma/yubikey) 
 ### November 24, 2019 
 - [🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据](https://github.com/uiwjs/province-city-china) 
 - [Cydia插件 dylib注入 iOS逆向工程开发 越狱Jailbreak deb插件开发](https://github.com/XLsn0w/Cydia) 
