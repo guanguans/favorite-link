@@ -88,6 +88,7 @@
 ### November 26, 2019 
 - [Linux上OneDrive的免费客户端](https://github.com/abraunegg/onedrive) 
 - [ip代理池，提供在线查询](https://github.com/nihaohello/proxypool) 
+- [SQL for Humans™](https://github.com/kennethreitz/records) 
 ### November 25, 2019 
 - [PHP库与Yubikey REST API交互](https://github.com/enygma/yubikey) 
 - [🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站](https://github.com/selierlin/Share-SSR-V2ray) 
