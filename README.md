@@ -94,6 +94,7 @@
 - [Go Version Manager ](https://github.com/moovweb/gvm) 
 - [初始化laravel应用程序的便捷方法](https://github.com/mad-web/laravel-initializer) 
 - [一个用于简化Laravel中将来的通知和提醒自动化的软件包](https://github.com/thomasjohnkane/snooze) 
+- [Composer脚本处理您忽略的参数文件](https://github.com/Incenteev/ParameterHandler) 
 ### November 25, 2019 
 - [PHP库与Yubikey REST API交互](https://github.com/enygma/yubikey) 
 - [🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站](https://github.com/selierlin/Share-SSR-V2ray) 
