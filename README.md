@@ -92,6 +92,7 @@
 - [简单的静态Composer存储库生成器-有关完整的私人Composer存储库，请使用Private Packagist](https://github.com/composer/satis) 
 - [适用于Composer PHP Dependency Manager的Windows安装程序](https://github.com/composer/windows-setup) 
 - [Go Version Manager ](https://github.com/moovweb/gvm) 
+- [初始化laravel应用程序的便捷方法](https://github.com/mad-web/laravel-initializer) 
 ### November 25, 2019 
 - [PHP库与Yubikey REST API交互](https://github.com/enygma/yubikey) 
 - [🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站](https://github.com/selierlin/Share-SSR-V2ray) 
