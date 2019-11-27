@@ -95,6 +95,7 @@
 - [ocramius / package-versions的包装器，用于获取漂亮的版本字符串](https://github.com/Jean85/pretty-package-versions) 
 - [fastjson_rce工具，不用搭建HTTP服务，不受JDK版本限制](https://github.com/wyzxxz/fastjson_rce_tool) 
 - [短链小工具 r.nsini.com](https://github.com/icowan/shorter) 
+- [有关反向工程iOS应用程序的完全免费的开源在线课程。](https://github.com/ivRodriguezCA/RE-iOS-Apps) 
 ### November 26, 2019 
 - [Linux上OneDrive的免费客户端](https://github.com/abraunegg/onedrive) 
 - [ip代理池，提供在线查询](https://github.com/nihaohello/proxypool) 
