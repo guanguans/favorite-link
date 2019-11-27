@@ -92,6 +92,7 @@
 - [基于最新的thinkphp6 ，easywechat ,layui2.5.5 开发的后台管理框架，内置微信管理，内容管理，完善的权限管理等](https://github.com/yue909/lemocms) 
 - [OmniSciDB（以前为MapD Core）](https://github.com/omnisci/omniscidb) 
 - [Microsoft REST API准则](https://github.com/microsoft/api-guidelines) 
+- [ocramius / package-versions的包装器，用于获取漂亮的版本字符串](https://github.com/Jean85/pretty-package-versions) 
 ### November 26, 2019 
 - [Linux上OneDrive的免费客户端](https://github.com/abraunegg/onedrive) 
 - [ip代理池，提供在线查询](https://github.com/nihaohello/proxypool) 
