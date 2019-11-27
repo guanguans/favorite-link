@@ -88,6 +88,7 @@
 
 ### November 27, 2019 
 - [Babel是用于编写下一代JavaScript的编译器。](https://github.com/babel/babel) 
+- [在终端中突出显示PHP代码](https://github.com/JakubOnderka/PHP-Console-Highlighter) 
 ### November 26, 2019 
 - [Linux上OneDrive的免费客户端](https://github.com/abraunegg/onedrive) 
 - [ip代理池，提供在线查询](https://github.com/nihaohello/proxypool) 
