@@ -92,6 +92,7 @@
 - [您的Symfony REST API的JWT身份验证](https://github.com/lexik/LexikJWTAuthenticationBundle) 
 - [由Twilio SendGrid官方领导，社区驱动的PHP API库](https://github.com/sendgrid/sendgrid-php) 
 - [AdminBundle-缺少的Symfony管理员生成器](https://github.com/sonata-project/SonataAdminBundle) 
+- [基于vue2.0 +vuex+ element-ui后台管理系统](https://github.com/wdlhao/vue2-element-touzi-admin) 
 ### November 27, 2019 
 - [Babel是用于编写下一代JavaScript的编译器。](https://github.com/babel/babel) 
 - [在终端中突出显示PHP代码](https://github.com/JakubOnderka/PHP-Console-Highlighter) 
