@@ -91,6 +91,7 @@
 - [通过使用Webkit转换html轻松在Symfony中创建PDF和图像](https://github.com/KnpLabs/KnpSnappyBundle) 
 - [您的Symfony REST API的JWT身份验证](https://github.com/lexik/LexikJWTAuthenticationBundle) 
 - [由Twilio SendGrid官方领导，社区驱动的PHP API库](https://github.com/sendgrid/sendgrid-php) 
+- [AdminBundle-缺少的Symfony管理员生成器](https://github.com/sonata-project/SonataAdminBundle) 
 ### November 27, 2019 
 - [Babel是用于编写下一代JavaScript的编译器。](https://github.com/babel/babel) 
 - [在终端中突出显示PHP代码](https://github.com/JakubOnderka/PHP-Console-Highlighter) 
