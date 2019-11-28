@@ -94,6 +94,7 @@
 - [AdminBundle-缺少的Symfony管理员生成器](https://github.com/sonata-project/SonataAdminBundle) 
 - [基于vue2.0 +vuex+ element-ui后台管理系统](https://github.com/wdlhao/vue2-element-touzi-admin) 
 - [非官方的GitHub卡。 卡为您的GitHub个人资料，卡为您的GitHub存储库。](https://github.com/lepture/github-cards) 
+- [一键ThinkPHP漏洞检测](https://github.com/Lucifer1993/TPscan) 
 ### November 27, 2019 
 - [Babel是用于编写下一代JavaScript的编译器。](https://github.com/babel/babel) 
 - [在终端中突出显示PHP代码](https://github.com/JakubOnderka/PHP-Console-Highlighter) 
