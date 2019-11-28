@@ -96,6 +96,7 @@
 - [非官方的GitHub卡。 卡为您的GitHub个人资料，卡为您的GitHub存储库。](https://github.com/lepture/github-cards) 
 - [一键ThinkPHP漏洞检测](https://github.com/Lucifer1993/TPscan) 
 - [快乐二级域名分发系统](https://github.com/klsf/kldns) 
+- [Laravel-Gii可视代码生成工具CRUD + GUI](https://github.com/sunshinev/laravel-gii) 
 ### November 27, 2019 
 - [Babel是用于编写下一代JavaScript的编译器。](https://github.com/babel/babel) 
 - [在终端中突出显示PHP代码](https://github.com/JakubOnderka/PHP-Console-Highlighter) 
