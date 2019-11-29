@@ -93,6 +93,7 @@
 - [使用LiberiOS和Electra越狱的iOS 11.0-11.1.2 Dylib注入](https://github.com/BishopFox/bfinject) 
 - [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn) 
 - [MakerBundle是生成Symfony应用程序中所需的最常见代码的最快方法：命令，控制器，表单类，事件订阅者等等！](https://github.com/symfony/maker-bundle) 
+- [Apache CouchDB](https://github.com/apache/couchdb) 
 ### November 28, 2019 
 - [通过使用Webkit转换html轻松在Symfony中创建PDF和图像](https://github.com/KnpLabs/KnpSnappyBundle) 
 - [您的Symfony REST API的JWT身份验证](https://github.com/lexik/LexikJWTAuthenticationBundle) 
