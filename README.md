@@ -91,6 +91,7 @@
 ### November 29, 2019 
 - [用纯Go编写的简单，快速，可嵌入，持久性键/值存储。 它支持完全可序列化的事务和许多数据结构，例如列表，集合，排序集合。](https://github.com/xujiajun/nutsdb) 
 - [使用LiberiOS和Electra越狱的iOS 11.0-11.1.2 Dylib注入](https://github.com/BishopFox/bfinject) 
+- [Go 资源大全中文版](https://github.com/jobbole/awesome-go-cn) 
 ### November 28, 2019 
 - [通过使用Webkit转换html轻松在Symfony中创建PDF和图像](https://github.com/KnpLabs/KnpSnappyBundle) 
 - [您的Symfony REST API的JWT身份验证](https://github.com/lexik/LexikJWTAuthenticationBundle) 
