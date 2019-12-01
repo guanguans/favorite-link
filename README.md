@@ -93,6 +93,7 @@
 ### December 1, 2019 
 - [基于php-proxy库构建的Web代理应用程序准备安装在您的服务器上](https://github.com/Athlon1600/php-proxy-app) 
 - [用PHP编写的Web代理脚本，可替代Glype构建。](https://github.com/Athlon1600/php-proxy) 
+- [面向对象编程的功能以及PHP中功能编程的优雅。](https://github.com/munusphp/munus) 
 ### November 30, 2019 
 - [📺 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读](https://github.com/zhw2590582/live-video-study-notes) 
 - [🐤Kiwi-国际化全流程解决方案](https://github.com/alibaba/kiwi) 
