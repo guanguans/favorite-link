@@ -96,6 +96,7 @@
 - [面向对象编程的功能以及PHP中功能编程的优雅。](https://github.com/munusphp/munus) 
 - [Evil Huawei - 华为作过的恶 ](https://github.com/evil-huawei/evil-huawei) 
 - [Ant Design Pro Vue](https://github.com/sendya/ant-design-pro-vue/blob/master/README.zh-CN.md) 
+- [it悲惨世界--记录 IT 圈的悲惨事件](https://github.com/miserableworldofit/miserable-world-of-it) 
 ### November 30, 2019 
 - [📺 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读](https://github.com/zhw2590582/live-video-study-notes) 
 - [🐤Kiwi-国际化全流程解决方案](https://github.com/alibaba/kiwi) 
