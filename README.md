@@ -97,6 +97,7 @@
 - [Topsi Project Manager是使用Electron和Vue.js构建的简单看板板软件。](https://github.com/Physiix/topsi-project-manager) 
 - [Z-Engine是一个PHP7.4库，为PHP提供API。 消除所有现有限制，并通过声明新方法，向类添加新接口，甚至安装自己的系统挂钩（例如操作码编译，对象初始化等），使用该库在运行时转换现有代码。](https://github.com/lisachenko/z-engine) 
 - [由VueJS和Element UI构建的Laravel神奇的管理界面](https://github.com/tuandm/laravue) 
+- [PAYSSION PHP library](https://github.com/payssion/payssion-php) 
 ### December 2, 2019 
 - [Laravel的神奇前端框架](https://github.com/livewire/livewire) 
 ### December 1, 2019 
