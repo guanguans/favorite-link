@@ -105,6 +105,7 @@
 - [Micro 中文示例、教程、资料，源码解读](https://github.com/micro-in-cn/tutorials) 
 - [MiniKeePass for the iPhone](https://github.com/MiniKeePass/MiniKeePass) 
 - [ExpressionLanguage组件提供了一个可以编译和计算表达式的引擎。](https://github.com/symfony/expression-language) 
+- [学习新技术没有比游戏化更好的方法了。 我们将在这里为您提供25项日常挑战，帮助您一劳永逸地学习Serverless：25天的Serverless！ 快来加入！](https://github.com/microsoft/25-days-of-serverless) 
 ### December 3, 2019 
 - [使用特定版本的PHP 5.4或更高版本设置GitHub Actions工作流](https://github.com/nanasess/setup-php) 
 - [Topsi Project Manager是使用Electron和Vue.js构建的简单看板板软件。](https://github.com/Physiix/topsi-project-manager) 
