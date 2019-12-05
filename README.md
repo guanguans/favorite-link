@@ -96,6 +96,7 @@
 
 ### December 5, 2019 
 - [OpenFaaS ® - Serverless Functions Made Simple](https://github.com/openfaas/faas) 
+- [无服务器框架–构建由微服务组成的应用程序，这些微服务响应事件而运行，为您自动扩展并仅在运行时向您收费。 这降低了维护应用程序的总成本，使您能够更快地构建更多逻辑。](https://github.com/serverless/serverless) 
 ### December 4, 2019 
 - [Curl命令生成器库](https://github.com/alexkart/curl-builder) 
 - [用于本地开发的现代Docker LAMP堆栈和MEAN堆栈](https://github.com/cytopia/devilbox) 
