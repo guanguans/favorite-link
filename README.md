@@ -100,6 +100,7 @@
 - [自动更新的纯真ip库，每天自动更新](https://github.com/out0fmemory/qqwry.dat) 
 - [汉字转拼音](https://github.com/mozillazg/go-pinyin) 
 - [汉字拼音数据](https://github.com/mozillazg/pinyin-data) 
+- [用于PHP的eBay SDK。 在PHP项目中使用eBay API。](https://github.com/davidtsadler/ebay-sdk-php) 
 ### December 4, 2019 
 - [Curl命令生成器库](https://github.com/alexkart/curl-builder) 
 - [用于本地开发的现代Docker LAMP堆栈和MEAN堆栈](https://github.com/cytopia/devilbox) 
