@@ -102,6 +102,7 @@
 - [这是用Phalcon PHP编写的基本API REST框架。 非常适合为前端应用程序构建MVP（Vue，React，Angular或任何可能消耗API的东西）](https://github.com/davellanedam/phalcon-micro-rest-api-skeleton) 
 - [将生成的API Blueprint JSON文件转换为Postman集合](https://github.com/kielabokkie/blueman) 
 - [与Linux epoll API的php绑定](https://github.com/chopins/php-epoll) 
+- [Gin + Gorm 的 RESTful 实例](https://github.com/moell-peng/gin-gorm-example) 
 ### December 6, 2019 
 - [socket.io，koa，mongodb和react提供的有趣的聊天应用程序功能](https://github.com/yinxin630/fiora) 
 - [pake是一个PHP自动化工具，功能类似于make](https://github.com/indeyets/pake) 
