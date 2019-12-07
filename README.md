@@ -103,6 +103,7 @@
 - [将生成的API Blueprint JSON文件转换为Postman集合](https://github.com/kielabokkie/blueman) 
 - [与Linux epoll API的php绑定](https://github.com/chopins/php-epoll) 
 - [Gin + Gorm 的 RESTful 实例](https://github.com/moell-peng/gin-gorm-example) 
+- [Go标准库所有方法使用示例，请注意这不是Go的中文版标准库(内含传送门)](https://github.com/zc2638/go-standard) 
 ### December 6, 2019 
 - [socket.io，koa，mongodb和react提供的有趣的聊天应用程序功能](https://github.com/yinxin630/fiora) 
 - [pake是一个PHP自动化工具，功能类似于make](https://github.com/indeyets/pake) 
