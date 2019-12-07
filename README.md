@@ -105,6 +105,7 @@
 - [Gin + Gorm 的 RESTful 实例](https://github.com/moell-peng/gin-gorm-example) 
 - [Go标准库所有方法使用示例，请注意这不是Go的中文版标准库(内含传送门)](https://github.com/zc2638/go-standard) 
 - [快速获取JSON值-Go的JSON解析器](https://github.com/tidwall/gjson) 
+- [一种新的编程语言，其规范即是语法，简洁易用，并具有简单的类型系统和单元模块系统。](https://github.com/tealang/tea) 
 ### December 6, 2019 
 - [socket.io，koa，mongodb和react提供的有趣的聊天应用程序功能](https://github.com/yinxin630/fiora) 
 - [pake是一个PHP自动化工具，功能类似于make](https://github.com/indeyets/pake) 
