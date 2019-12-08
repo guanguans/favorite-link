@@ -101,6 +101,7 @@
 - [CLI，用于上传外部代码覆盖率数据](https://github.com/scrutinizer-ci/ocular) 
 - [Laravel MySQL Spatial扩展](https://github.com/grimzy/laravel-mysql-spatial) 
 - [PHP中的BIP39助记符实现](https://github.com/furqansiddiqui/bip39-mnemonic-php) 
+- [📨开源项目维护者给GitHub的公开信](https://github.com/drop-ice/dear-github-2.0) 
 ### December 7, 2019 
 - [osTicket开源售票系统官方项目存储库，用于版本1.8和更高版本](https://github.com/osTicket/osTicket) 
 - [《从Docker到Kubernetes进阶课程》在线文档 ](https://github.com/cnych/kubernetes-learning) 
