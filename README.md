@@ -96,6 +96,9 @@
 
 
 
+
+### December 8, 2019 
+- [CLI，用于上传外部代码覆盖率数据](https://github.com/scrutinizer-ci/ocular) 
 ### December 7, 2019 
 - [osTicket开源售票系统官方项目存储库，用于版本1.8和更高版本](https://github.com/osTicket/osTicket) 
 - [《从Docker到Kubernetes进阶课程》在线文档 ](https://github.com/cnych/kubernetes-learning) 
