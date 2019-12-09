@@ -100,6 +100,7 @@
 
 ### December 9, 2019 
 - [自由软件媒体系统](https://github.com/jellyfin/jellyfin) 
+- [作曲家升级，以支持Laravel 6.x.x Framework代码生成的依赖组件。](https://github.com/geone/reliaseV6Support) 
 ### December 8, 2019 
 - [CLI，用于上传外部代码覆盖率数据](https://github.com/scrutinizer-ci/ocular) 
 - [Laravel MySQL Spatial扩展](https://github.com/grimzy/laravel-mysql-spatial) 
