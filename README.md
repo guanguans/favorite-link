@@ -97,6 +97,9 @@
 
 
 
+
+### December 9, 2019 
+- [自由软件媒体系统](https://github.com/jellyfin/jellyfin) 
 ### December 8, 2019 
 - [CLI，用于上传外部代码覆盖率数据](https://github.com/scrutinizer-ci/ocular) 
 - [Laravel MySQL Spatial扩展](https://github.com/grimzy/laravel-mysql-spatial) 
