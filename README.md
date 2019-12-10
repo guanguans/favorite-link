@@ -109,6 +109,7 @@
 - [PHP-SSO单点登录实现](https://github.com/liujiantaoliu/TT-SSO) 
 - [PHP库提供带有本地化的ISO代码：国家（ISO 3166-1），细分（ISO 3166-2），语言（ISO 639-3），货币（ISO 4217）和脚本（ISO 15924）](https://github.com/sokil/php-isocodes) 
 - [借助PHP / FFI，libuuid库与PHP绑定。](https://github.com/jolicode/ffi-uuid) 
+- [浏览器中的PHP（由WebAssembly支持）](https://github.com/oraoto/pib) 
 ### December 9, 2019 
 - [自由软件媒体系统](https://github.com/jellyfin/jellyfin) 
 - [作曲家升级，以支持Laravel 6.x.x Framework代码生成的依赖组件。](https://github.com/geone/reliaseV6Support) 
