@@ -102,6 +102,7 @@
 
 ### December 11, 2019 
 - [Golang - 100天从新手到大师](https://github.com/rubyhan1314/Golang-100-Days) 
+- [本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。](https://github.com/HuaweiJoke/Huawei-Joke) 
 ### December 10, 2019 
 - [快速，灵活和简单的GUI。](https://github.com/MyGUI/mygui) 
 - [满足日常需求的“仅属于您”云服务列表🏴](https://github.com/Atarity/deploy-your-own-saas) 
