@@ -104,6 +104,7 @@
 - [Golang - 100天从新手到大师](https://github.com/rubyhan1314/Golang-100-Days) 
 - [本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。](https://github.com/HuaweiJoke/Huawei-Joke) 
 - [瓶颈渗透,web渗透,red红队,fuzz param,注释,js字典,ctf](https://github.com/7dog7/bottleneckOsmosis) 
+- [从零开始研究外挂设计原理](https://github.com/luguanxing/Cheating-Plugin-Program) 
 ### December 10, 2019 
 - [快速，灵活和简单的GUI。](https://github.com/MyGUI/mygui) 
 - [满足日常需求的“仅属于您”云服务列表🏴](https://github.com/Atarity/deploy-your-own-saas) 
