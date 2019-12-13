@@ -109,6 +109,7 @@
 - [极光推送 Laravel 驱动](https://github.com/medz/laravel-jpush-notification-channel) 
 - [Linux文件搜索，键入时即刻获得结果](https://github.com/DoTheEvo/ANGRYsearch) 
 - [漂亮的API静态文档](https://github.com/slatedocs/slate) 
+- [这个repo是为了锤北大垃圾教授——冯仁杰](https://github.com/renjie-feng-trash/fengrenjie) 
 ### December 12, 2019 
 - [mysql代理和平台](https://github.com/nooncall/shazam) 
 - [Shopware 6是一个开放源代码的电子商务平台，通过其社区的思想和精神实现。](https://github.com/shopware/platform) 
