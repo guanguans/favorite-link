@@ -106,6 +106,7 @@
 - [易盾反垃圾php演示](https://github.com/yidun/antispam-php-demo) 
 - [简繁体转换 PHP 扩展](https://github.com/nauxliu/opencc4php) 
 - [使用内置Kali工具攻击无线连接的Shell脚本。 支持所有证券（WEP，WPS，WPA，WPA2）](https://github.com/esc0rtd3w/wifi-hacker) 
+- [极光推送 Laravel 驱动](https://github.com/medz/laravel-jpush-notification-channel) 
 ### December 12, 2019 
 - [mysql代理和平台](https://github.com/nooncall/shazam) 
 - [Shopware 6是一个开放源代码的电子商务平台，通过其社区的思想和精神实现。](https://github.com/shopware/platform) 
