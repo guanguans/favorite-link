@@ -105,6 +105,7 @@
 
 ### December 14, 2019 
 - [基于JSX的页面构建器，无需编写代码即可创建漂亮的网站](https://github.com/blocks/blocks) 
+- [基于uni-app开发的新闻/资讯类App模板](https://github.com/dcloudio/uni-template-news) 
 ### December 13, 2019 
 - [易盾反垃圾php演示](https://github.com/yidun/antispam-php-demo) 
 - [简繁体转换 PHP 扩展](https://github.com/nauxliu/opencc4php) 
