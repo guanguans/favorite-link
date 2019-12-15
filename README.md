@@ -107,6 +107,7 @@
 ### December 15, 2019 
 - [用于检查EAN8，EAN13，UPC和GTIN条形码的PHP类有效（基于校验位）。](https://github.com/violuke/php-barcodes) 
 - [简单轻巧的OOP包装器，用于PHP的低级套接字扩展（ext-sockets）](https://github.com/clue/php-socket-raw) 
+- [laravel5的UEditor。 支持i18n。 UEditor是百度的Rich Text Web编辑器。](https://github.com/stevenyangecho/laravel-u-editor) 
 ### December 14, 2019 
 - [基于JSX的页面构建器，无需编写代码即可创建漂亮的网站](https://github.com/blocks/blocks) 
 - [基于uni-app开发的新闻/资讯类App模板](https://github.com/dcloudio/uni-template-news) 
