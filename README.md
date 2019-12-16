@@ -112,6 +112,7 @@
 - [使用Python编写的高级Twitter抓取和OSINT工具，不使用Twitter的API，可让您在逃避大多数API限制的同时抓取用户的关注者，关注者，推文等。](https://github.com/twintproject/twint) 
 - [micro 微服务实例教程，包含JWT鉴权、熔断、监控、链路追踪、健康检查等 ](https://github.com/Allenxuxu/microservices) 
 - [Travis CI和AppVeyor模板可在5种架构上测试您的Rust板条箱，并针对Linux，macOS和Windows发布其二进制版本](https://github.com/japaric/trust) 
+- [大型内网渗透扫描器&Cobalt Strike，包含信息收集/端口扫描/服务识别/网络资产/密码爆破/漏洞检测/漏洞利用。](https://github.com/k8gege/Ladon) 
 ### December 15, 2019 
 - [用于检查EAN8，EAN13，UPC和GTIN条形码的PHP类有效（基于校验位）。](https://github.com/violuke/php-barcodes) 
 - [简单轻巧的OOP包装器，用于PHP的低级套接字扩展（ext-sockets）](https://github.com/clue/php-socket-raw) 
