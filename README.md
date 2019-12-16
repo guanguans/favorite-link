@@ -109,6 +109,7 @@
 - [微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) 
 - [Fabric.js是一个框架，可让您轻松使用HTML5 canvas元素。 它是画布元素顶部的交互式对象模型。 它也是SVG画布解析器。](https://github.com/fabricjs/fabric.js) 
 - [PowerShell ReverseTCP Shell-框架](https://github.com/ZHacker13/ReverseTCPShell) 
+- [使用Python编写的高级Twitter抓取和OSINT工具，不使用Twitter的API，可让您在逃避大多数API限制的同时抓取用户的关注者，关注者，推文等。](https://github.com/twintproject/twint) 
 ### December 15, 2019 
 - [用于检查EAN8，EAN13，UPC和GTIN条形码的PHP类有效（基于校验位）。](https://github.com/violuke/php-barcodes) 
 - [简单轻巧的OOP包装器，用于PHP的低级套接字扩展（ext-sockets）](https://github.com/clue/php-socket-raw) 
