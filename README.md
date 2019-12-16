@@ -104,6 +104,9 @@
 
 
 
+
+### December 16, 2019 
+- [微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) 
 ### December 15, 2019 
 - [用于检查EAN8，EAN13，UPC和GTIN条形码的PHP类有效（基于校验位）。](https://github.com/violuke/php-barcodes) 
 - [简单轻巧的OOP包装器，用于PHP的低级套接字扩展（ext-sockets）](https://github.com/clue/php-socket-raw) 
