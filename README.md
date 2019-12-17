@@ -111,6 +111,7 @@
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
 - [请勿更改Docker容器映像中的任何内容并将其缩小30倍，以确保其安全性！](https://github.com/docker-slim/docker-slim) 
 - [个人服务器的运维指南 ](https://github.com/shfshanyue/op-note) 
+- [现代而灵活的浏览器指纹库](https://github.com/Valve/fingerprintjs2) 
 ### December 16, 2019 
 - [微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) 
 - [Fabric.js是一个框架，可让您轻松使用HTML5 canvas元素。 它是画布元素顶部的交互式对象模型。 它也是SVG画布解析器。](https://github.com/fabricjs/fabric.js) 
