@@ -113,6 +113,7 @@
 - [个人服务器的运维指南 ](https://github.com/shfshanyue/op-note) 
 - [现代而灵活的浏览器指纹库](https://github.com/Valve/fingerprintjs2) 
 - [在CI内部执行安全性测试](https://github.com/globocom/huskyCI) 
+- [适用于台式机和网络上2D游戏的简单游戏框架](https://github.com/ryanisaacg/quicksilver) 
 ### December 16, 2019 
 - [微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) 
 - [Fabric.js是一个框架，可让您轻松使用HTML5 canvas元素。 它是画布元素顶部的交互式对象模型。 它也是SVG画布解析器。](https://github.com/fabricjs/fabric.js) 
