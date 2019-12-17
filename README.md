@@ -119,6 +119,7 @@
 - [开源书籍：《Shell 编程范例》，面向操作对象学 Shell！](https://github.com/tinyclub/open-shell-book) 
 - [Awesome_APIs ](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md) 
 - [程序包ini在Go中提供了INI文件读取和写入功能。](https://github.com/go-ini/ini) 
+- [适用于Laravel开发人员的代码生成工具。](https://github.com/laravel-shift/blueprint) 
 ### December 16, 2019 
 - [微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) 
 - [Fabric.js是一个框架，可让您轻松使用HTML5 canvas元素。 它是画布元素顶部的交互式对象模型。 它也是SVG画布解析器。](https://github.com/fabricjs/fabric.js) 
