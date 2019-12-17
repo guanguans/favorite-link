@@ -116,6 +116,7 @@
 - [适用于台式机和网络上2D游戏的简单游戏框架](https://github.com/ryanisaacg/quicksilver) 
 - [CSS权威指南第四版 中文翻译](https://github.com/gdut-yy/CSS-The-Definitive-Guide-4th-zh) 
 - [快速搭建各种漏洞环境](https://github.com/Medicean/VulApps) 
+- [开源书籍：《Shell 编程范例》，面向操作对象学 Shell！](https://github.com/tinyclub/open-shell-book) 
 ### December 16, 2019 
 - [微信小程序组件化开发框架wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) 
 - [Fabric.js是一个框架，可让您轻松使用HTML5 canvas元素。 它是画布元素顶部的交互式对象模型。 它也是SVG画布解析器。](https://github.com/fabricjs/fabric.js) 
