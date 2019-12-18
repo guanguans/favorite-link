@@ -106,6 +106,9 @@
 
 
 
+
+### December 18, 2019 
+- [VNote 是一个更懂程序员和 Markdown 的笔记软件！](https://github.com/tamlok/vnote/blob/master/README_zh.md) 
 ### December 17, 2019 
 - [ctop简要概述了多个容器的实时指标](https://github.com/bcicen/ctop) 
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
