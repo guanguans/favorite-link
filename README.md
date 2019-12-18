@@ -123,6 +123,7 @@
 - [异步，流式纯文本TCP / IP以及用于ReactPHP的安全TLS套接字服务器和客户端连接。](https://github.com/reactphp/socket) 
 - [Laravel数据表HTML生成器插件](https://github.com/yajra/laravel-datatables-html) 
 - [大麦网自动抢票工具](https://github.com/Entromorgan/Autoticket) 
+- [一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验](https://github.com/pymumu/smartdns) 
 ### December 17, 2019 
 - [ctop简要概述了多个容器的实时指标](https://github.com/bcicen/ctop) 
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
