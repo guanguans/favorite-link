@@ -117,6 +117,7 @@
 - [Easy Excel是一个基于 box/spout 封装的Excel读写工具，可以帮助开发者更快速更轻松的读写Excel文件， 并且无论读取多大的文件只需占用极少的内存。](https://github.com/jqhph/easy-excel) 
 - [📉 使用很少的代码快速构建一个功能完善的漂亮的管理后台](https://github.com/jqhph/dcat-admin) 
 - [微信支付 APIv3 Guzzle HTTP Client中间件（middleware）](https://github.com/wechatpay-apiv3/wechatpay-guzzle-middleware) 
+- [hyperf权限管理组件](https://github.com/donjan-deng/hyperf-permission) 
 ### December 17, 2019 
 - [ctop简要概述了多个容器的实时指标](https://github.com/bcicen/ctop) 
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
