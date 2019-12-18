@@ -118,6 +118,7 @@
 - [📉 使用很少的代码快速构建一个功能完善的漂亮的管理后台](https://github.com/jqhph/dcat-admin) 
 - [微信支付 APIv3 Guzzle HTTP Client中间件（middleware）](https://github.com/wechatpay-apiv3/wechatpay-guzzle-middleware) 
 - [hyperf权限管理组件](https://github.com/donjan-deng/hyperf-permission) 
+- [PHP Web Socket server](https://github.com/Devristo/phpws) 
 ### December 17, 2019 
 - [ctop简要概述了多个容器的实时指标](https://github.com/bcicen/ctop) 
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
