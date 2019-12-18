@@ -114,6 +114,7 @@
 - [基于hyperf框架的验证码](https://github.com/XiaoLaoMen/Captcha) 
 - [github action for github issue](https://github.com/Naturalclar/issue-action) 
 - [An Action to create releases via the GitHub Release API ](https://github.com/actions/create-release) 
+- [Easy Excel是一个基于 box/spout 封装的Excel读写工具，可以帮助开发者更快速更轻松的读写Excel文件， 并且无论读取多大的文件只需占用极少的内存。](https://github.com/jqhph/easy-excel) 
 ### December 17, 2019 
 - [ctop简要概述了多个容器的实时指标](https://github.com/bcicen/ctop) 
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
