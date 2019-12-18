@@ -112,6 +112,7 @@
 - [文言文編程語言](https://github.com/LingDong-/wenyan-lang) 
 - [基于AST的PHP变异测试框架](https://github.com/infection/infection) 
 - [基于hyperf框架的验证码](https://github.com/XiaoLaoMen/Captcha) 
+- [github action for github issue](https://github.com/Naturalclar/issue-action) 
 ### December 17, 2019 
 - [ctop简要概述了多个容器的实时指标](https://github.com/bcicen/ctop) 
 - [Rocker突破了Dockerfile的限制。](https://github.com/grammarly/rocker) 
