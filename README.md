@@ -111,6 +111,7 @@
 ### December 19, 2019 
 - [This package provides a pipeline pattern implementation.](https://github.com/thephpleague/pipeline) 
 - [Rust 程序设计语言（第二版 & 2018 edition）](https://github.com/KaiserY/trpl-zh-cn) 
+- [适用于Mac的非官方12306客户端](https://github.com/fancymax/12306ForMac/) 
 ### December 18, 2019 
 - [VNote 是一个更懂程序员和 Markdown 的笔记软件！](https://github.com/tamlok/vnote/blob/master/README_zh.md) 
 - [文言文編程語言](https://github.com/LingDong-/wenyan-lang) 
