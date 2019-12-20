@@ -111,6 +111,7 @@
 
 ### December 20, 2019 
 - [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool) 
+- [基于Golang的分布式爬虫管理平台，支持Python、NodeJS、Go、Java、PHP等多种编程语言以及多种爬虫框架。](https://github.com/crawlab-team/crawlab/blob/master/README-zh.md) 
 ### December 19, 2019 
 - [This package provides a pipeline pattern implementation.](https://github.com/thephpleague/pipeline) 
 - [Rust 程序设计语言（第二版 & 2018 edition）](https://github.com/KaiserY/trpl-zh-cn) 
