@@ -116,6 +116,7 @@
 - [一种简单现代的PHP流过滤方法](https://github.com/clue/php-stream-filter) 
 - [使用Gatsby + MDX生成GitBook风格的现代文档/教程网站](https://github.com/hasura/gatsby-gitbook-starter) 
 - [适用于Chrome的HTTP Web服务器（chrome.sockets API）](https://github.com/kzahel/web-server-chrome) 
+- [Target Settings For Yii2](https://github.com/yiier/yii2-target-setting) 
 ### December 19, 2019 
 - [This package provides a pipeline pattern implementation.](https://github.com/thephpleague/pipeline) 
 - [Rust 程序设计语言（第二版 & 2018 edition）](https://github.com/KaiserY/trpl-zh-cn) 
