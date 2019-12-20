@@ -115,6 +115,7 @@
 - [nnn是功能齐全的终端文件管理器。 它很小，几乎是0配置，具有令人难以置信的性能。](https://github.com/jarun/nnn) 
 - [一种简单现代的PHP流过滤方法](https://github.com/clue/php-stream-filter) 
 - [使用Gatsby + MDX生成GitBook风格的现代文档/教程网站](https://github.com/hasura/gatsby-gitbook-starter) 
+- [适用于Chrome的HTTP Web服务器（chrome.sockets API）](https://github.com/kzahel/web-server-chrome) 
 ### December 19, 2019 
 - [This package provides a pipeline pattern implementation.](https://github.com/thephpleague/pipeline) 
 - [Rust 程序设计语言（第二版 & 2018 edition）](https://github.com/KaiserY/trpl-zh-cn) 
