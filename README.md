@@ -115,6 +115,7 @@
 - [duckphp ](https://github.com/dvaknheo/duckphp) 
 - [用于PHP的Web应用程序防火墙（WAF）。](https://github.com/terrylinooo/shieldon) 
 - [提供了对资源进行操作的PHP内置函数的列表](https://github.com/sebastianbergmann/resource-operations) 
+- [PHAR文件格式实用程序，用于PHP使您忙起来时。](https://github.com/Seldaek/phar-utils) 
 ### December 20, 2019 
 - [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool) 
 - [基于Golang的分布式爬虫管理平台，支持Python、NodeJS、Go、Java、PHP等多种编程语言以及多种爬虫框架。](https://github.com/crawlab-team/crawlab/blob/master/README-zh.md) 
