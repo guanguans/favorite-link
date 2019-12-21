@@ -118,6 +118,7 @@
 - [PHAR文件格式实用程序，用于PHP使您忙起来时。](https://github.com/Seldaek/phar-utils) 
 - [Redis集群的代理。](https://github.com/artix75/redis-cluster-proxy) 
 - [这是一个可以识别视频语音自动生成字幕SRT文件的开源命令行工具。](https://github.com/wxbool/video-srt) 
+- [A Laravel socialite driver for Laravel Passport](https://github.com/matt-allan/passport-socialite) 
 ### December 20, 2019 
 - [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool) 
 - [基于Golang的分布式爬虫管理平台，支持Python、NodeJS、Go、Java、PHP等多种编程语言以及多种爬虫框架。](https://github.com/crawlab-team/crawlab/blob/master/README-zh.md) 
