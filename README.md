@@ -110,6 +110,9 @@
 
 
 
+
+### December 22, 2019 
+- [qBittorrent增强版](https://github.com/c0re100/qBittorrent-Enhanced-Edition) 
 ### December 21, 2019 
 - [ThinkPHP 分词/抽词 扩展包](https://github.com/edenleung/think-pullword) 
 - [duckphp ](https://github.com/dvaknheo/duckphp) 
