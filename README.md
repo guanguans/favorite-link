@@ -123,6 +123,7 @@
 - [2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典](https://github.com/k8gege/PasswordDic) 
 - [显示Laravel的系统信息（IP地址，操作系统，版本）。](https://github.com/matriphe/larinfo) 
 - [Laravel小部件](https://github.com/arrilot/laravel-widgets) 
+- [检测潜在的恶意PHP文件](https://github.com/nbs-system/php-malware-finder) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
