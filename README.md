@@ -120,6 +120,7 @@
 - [ChatterBot是用于创建聊天机器人的机器学习会话对话引擎](https://github.com/gunthercox/ChatterBot) 
 - [最佳安全实践的php.ini扫描程序](https://github.com/psecio/iniscan) 
 - [Intercept php includes](https://github.com/icewind1991/interceptor) 
+- [2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典](https://github.com/k8gege/PasswordDic) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
