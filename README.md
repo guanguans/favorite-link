@@ -118,6 +118,7 @@
 - [Private composer repository - Packagist mirror](https://github.com/julienj/twity) 
 - [📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇](https://github.com/wx-chevalier/Web-Series) 
 - [ChatterBot是用于创建聊天机器人的机器学习会话对话引擎](https://github.com/gunthercox/ChatterBot) 
+- [最佳安全实践的php.ini扫描程序](https://github.com/psecio/iniscan) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
