@@ -124,6 +124,7 @@
 - [显示Laravel的系统信息（IP地址，操作系统，版本）。](https://github.com/matriphe/larinfo) 
 - [Laravel小部件](https://github.com/arrilot/laravel-widgets) 
 - [检测潜在的恶意PHP文件](https://github.com/nbs-system/php-malware-finder) 
+- [可以使用静态分析方法自动扫描php漏洞的工具](https://github.com/OneSourceCat/phpvulhunter) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
