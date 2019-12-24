@@ -116,6 +116,7 @@
 ### December 24, 2019 
 - [WordPress通过滥用XMLRPC API容易受到拒绝服务的攻击。 ](https://github.com/roddux/wordpress-dos-poc) 
 - [Private composer repository - Packagist mirror](https://github.com/julienj/twity) 
+- [📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇](https://github.com/wx-chevalier/Web-Series) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
