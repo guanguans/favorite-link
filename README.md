@@ -126,6 +126,7 @@
 - [检测潜在的恶意PHP文件](https://github.com/nbs-system/php-malware-finder) 
 - [可以使用静态分析方法自动扫描php漏洞的工具](https://github.com/OneSourceCat/phpvulhunter) 
 - [一个简单的工具来检测php代码中的潜在安全威胁](https://github.com/opensec-cn/chip) 
+- [这是一个实验性的PHP扩展，加载这个扩展后，每次请求将可以执行一段自己的PHP代码。](https://github.com/phith0n/arbitrary-php-extension) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
