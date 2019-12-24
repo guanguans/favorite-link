@@ -112,6 +112,9 @@
 
 
 
+
+### December 24, 2019 
+- [WordPress通过滥用XMLRPC API容易受到拒绝服务的攻击。 ](https://github.com/roddux/wordpress-dos-poc) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
