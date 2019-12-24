@@ -129,6 +129,7 @@
 - [这是一个实验性的PHP扩展，加载这个扩展后，每次请求将可以执行一段自己的PHP代码。](https://github.com/phith0n/arbitrary-php-extension) 
 - [linux开源服务器监控解决方案，IT运维，进程监控，集群监控，内存监控，CPU监控，心跳检测](https://github.com/tianshiyeben/wgcloud) 
 - [使用ElasticSearch轻松灵活地发出警报](https://github.com/Yelp/elastalert) 
+- [HasManyThrough的此扩展版本允许与无限的中间模型建立关系。  它支持多对多和多态关系及其所有​​可能的组合。](https://github.com/staudenmeir/eloquent-has-many-deep) 
 ### December 23, 2019 
 - [Joplin-具有Windows，macOS，Linux，Android和iOS同步功能的开源笔记记录和待办事项应用程序。](https://github.com/laurent22/joplin) 
 - [Webgrind是PHP中的Xdebug分析Web前端。](https://github.com/jokkedk/webgrind) 
