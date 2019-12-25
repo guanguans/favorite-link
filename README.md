@@ -121,6 +121,7 @@
 - [xorm是一个简单而强大的Go语言ORM库，通过它可以使数据库操作非常简便。](https://github.com/xormplus/xorm) 
 - [PHPStan的源代码。](https://github.com/phpstan/phpstan-src) 
 - [基于Gin + GROM + Casbin + Dig的RBAC脚手架](https://github.com/LyricTian/gin-admin) 
+- [🚀vim自动配置程序](https://github.com/chxuan/vimplus) 
 ### December 24, 2019 
 - [WordPress通过滥用XMLRPC API容易受到拒绝服务的攻击。 ](https://github.com/roddux/wordpress-dos-poc) 
 - [Private composer repository - Packagist mirror](https://github.com/julienj/twity) 
