@@ -119,6 +119,7 @@
 - [成长中团队的最快的Wiki和知识库。 美观，功能丰富，兼容markdown且开源。](https://github.com/outline/outline) 
 - [Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的 badsmell，行数统计，分析调用与依赖，进行 Git 分析，以及自动化重构等](https://github.com/phodal/coca) 
 - [xorm是一个简单而强大的Go语言ORM库，通过它可以使数据库操作非常简便。](https://github.com/xormplus/xorm) 
+- [PHPStan的源代码。](https://github.com/phpstan/phpstan-src) 
 ### December 24, 2019 
 - [WordPress通过滥用XMLRPC API容易受到拒绝服务的攻击。 ](https://github.com/roddux/wordpress-dos-poc) 
 - [Private composer repository - Packagist mirror](https://github.com/julienj/twity) 
