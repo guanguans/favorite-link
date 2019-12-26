@@ -118,6 +118,7 @@
 ### December 26, 2019 
 - [MySQL Binlog的PHP客户端](https://github.com/bullsoft/php-binlog) 
 - [Gitee，Github的OS X状态栏应用程序](https://github.com/Nightonke/Gitee) 
+- [Directus 8 Suite —适用于自定义数据库的面向未来的无头CMS和API](https://github.com/directus/directus) 
 ### December 25, 2019 
 - [12306抢票,极限并发带来的思考?](https://github.com/GuoZhaoran/spikeSystem) 
 - [成长中团队的最快的Wiki和知识库。 美观，功能丰富，兼容markdown且开源。](https://github.com/outline/outline) 
