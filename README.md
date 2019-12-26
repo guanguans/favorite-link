@@ -128,6 +128,7 @@
 - [A Laravel Boilerplate Project - http://laravel-boilerplate.com ](https://github.com/rappasoft/laravel-boilerplate) 
 - [用于检出RESTful API的PHP SDK](https://github.com/paypal/Checkout-PHP-SDK) 
 - [带有CKEditor，TinyMCE和Summernote支持的媒体库。 建立在Laravel文件系统上。](https://github.com/UniSharp/laravel-filemanager) 
+- [一个简单的PHP软件包，用于使用Laravel框架显示SweetAlerts](https://github.com/uxweb/sweet-alert) 
 ### December 25, 2019 
 - [12306抢票,极限并发带来的思考?](https://github.com/GuoZhaoran/spikeSystem) 
 - [成长中团队的最快的Wiki和知识库。 美观，功能丰富，兼容markdown且开源。](https://github.com/outline/outline) 
