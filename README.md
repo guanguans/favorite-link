@@ -122,6 +122,7 @@
 - [嬉皮士是一个跨平台的开发框架](https://github.com/Tencent/Hippy) 
 - [一个基于Electron的自动化Web资产探测工具，用于渗透前期的信息搜集工作](https://github.com/MichaelWayneLIU/InfoScraper) 
 - [使用Web技术构建的开源屏幕录像机](https://github.com/wulkano/kap) 
+- [Go implementation of Fowler's Money pattern](https://github.com/Rhymond/go-money) 
 ### December 25, 2019 
 - [12306抢票,极限并发带来的思考?](https://github.com/GuoZhaoran/spikeSystem) 
 - [成长中团队的最快的Wiki和知识库。 美观，功能丰富，兼容markdown且开源。](https://github.com/outline/outline) 
