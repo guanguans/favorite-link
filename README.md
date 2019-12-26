@@ -124,6 +124,7 @@
 - [使用Web技术构建的开源屏幕录像机](https://github.com/wulkano/kap) 
 - [Go implementation of Fowler's Money pattern](https://github.com/Rhymond/go-money) 
 - [该仓库用于构建自托管的12306验证码识别服务器](https://github.com/YinAoXiong/12306_code_server) 
+- [SpotifyDaily ](https://github.com/ThasianX/SpotifyDaily) 
 ### December 25, 2019 
 - [12306抢票,极限并发带来的思考?](https://github.com/GuoZhaoran/spikeSystem) 
 - [成长中团队的最快的Wiki和知识库。 美观，功能丰富，兼容markdown且开源。](https://github.com/outline/outline) 
