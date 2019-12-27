@@ -123,6 +123,7 @@
 - [基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。](https://github.com/ymm-tech/gods-pen) 
 - [最先进的XSS扫描仪。](https://github.com/s0md3v/XSStrike) 
 - [100% serverless Laravel Framework](https://github.com/firevel/firevel) 
+- [应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等](https://github.com/rock-app/fabu.love) 
 ### December 26, 2019 
 - [MySQL Binlog的PHP客户端](https://github.com/bullsoft/php-binlog) 
 - [Gitee，Github的OS X状态栏应用程序](https://github.com/Nightonke/Gitee) 
