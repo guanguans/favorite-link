@@ -115,6 +115,9 @@
 
 
 
+
+### December 27, 2019 
+- [A rust library to print aligned and formatted tables](https://github.com/phsym/prettytable-rs) 
 ### December 26, 2019 
 - [MySQL Binlog的PHP客户端](https://github.com/bullsoft/php-binlog) 
 - [Gitee，Github的OS X状态栏应用程序](https://github.com/Nightonke/Gitee) 
