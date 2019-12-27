@@ -125,6 +125,7 @@
 - [100% serverless Laravel Framework](https://github.com/firevel/firevel) 
 - [应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等](https://github.com/rock-app/fabu.love) 
 - [可配置和可扩展的PHP Web Spider](https://github.com/mvdbos/php-spider) 
+- [PHP Emoji转换库](https://github.com/iamcal/php-emoji) 
 ### December 26, 2019 
 - [MySQL Binlog的PHP客户端](https://github.com/bullsoft/php-binlog) 
 - [Gitee，Github的OS X状态栏应用程序](https://github.com/Nightonke/Gitee) 
