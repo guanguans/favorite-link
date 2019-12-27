@@ -131,6 +131,7 @@
 - [一个可链接，REST友好的PHP HTTP客户端。 cURL的理智替代品。](https://github.com/nategood/httpful) 
 - [PHP的多提供商身份验证框架](https://github.com/opauth/opauth) 
 - [用于PHP代码的复制/粘贴检测器（CPD）。](https://github.com/sebastianbergmann/phpcpd) 
+- [Imagick PHP extension](https://github.com/Imagick/imagick) 
 ### December 26, 2019 
 - [MySQL Binlog的PHP客户端](https://github.com/bullsoft/php-binlog) 
 - [Gitee，Github的OS X状态栏应用程序](https://github.com/Nightonke/Gitee) 
