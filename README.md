@@ -116,6 +116,9 @@
 
 
 
+
+### December 28, 2019 
+- [一个Tagging包，可以轻松地将标签添加到Eloquent模型中。](https://github.com/cartalyst/tags) 
 ### December 27, 2019 
 - [A rust library to print aligned and formatted tables](https://github.com/phsym/prettytable-rs) 
 - [Simple generator React app for avataaars](https://github.com/fangpenlin/avataaars-generator) 
