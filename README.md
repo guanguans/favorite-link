@@ -120,6 +120,7 @@
 
 ### December 29, 2019 
 - [Symfony integration for the doctrine/migrations library](https://github.com/doctrine/DoctrineMigrationsBundle) 
+- [MQTT X 是 EMQ 开源的一款跨平台 MQTT 桌面客户端](https://github.com/emqx/MQTTX/blob/master/README-CN.md) 
 ### December 28, 2019 
 - [一个Tagging包，可以轻松地将标签添加到Eloquent模型中。](https://github.com/cartalyst/tags) 
 - [HeapSnap 是一个定位内存泄露的工具，适用于Android平台。](https://github.com/albuer/heapsnap) 
