@@ -131,6 +131,7 @@
 - [使用composer命令将您的甜蜜代码预加载到opcache中，从而使您的代码运行更快。](https://github.com/Ayesh/Composer-Preload) 
 - [Preloader助手可从Opcache创建一个支持PHP的预加载脚本。](https://github.com/DarkGhostHunter/Preloader) 
 - [你的 2019 年 GitHub 报告](https://github.com/guanpengchn/github-annual-report) 
+- [PHP的收集管道库](https://github.com/DusanKasan/Knapsack) 
 ### December 30, 2019 
 - [web️用于构建虚拟现实体验的Web框架。](https://github.com/aframevr/aframe) 
 - [最简单的方式把内网映射到外网，docker-compose 一键部署（内网穿透，支持linux，windows，树莓派等）](https://gitee.com/FYDEV/eznat_server) 
