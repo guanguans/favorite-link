@@ -125,6 +125,7 @@
 - [Ruby on Rails就像Go的测试装置一样。 针对真实数据库编写测试](https://github.com/go-testfixtures/testfixtures) 
 - [审核您的PHP版本以获取已知的CVE和补丁](https://github.com/lightswitch05/php-version-audit) 
 - [该组件为Mbstring扩展提供了部分本地PHP实现。](https://github.com/symfony/polyfill-mbstring) 
+- [使用生成器的迭代原语](https://github.com/nikic/iter) 
 ### December 30, 2019 
 - [web️用于构建虚拟现实体验的Web框架。](https://github.com/aframevr/aframe) 
 - [最简单的方式把内网映射到外网，docker-compose 一键部署（内网穿透，支持linux，windows，树莓派等）](https://gitee.com/FYDEV/eznat_server) 
