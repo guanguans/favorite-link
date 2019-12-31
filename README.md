@@ -126,6 +126,7 @@
 - [审核您的PHP版本以获取已知的CVE和补丁](https://github.com/lightswitch05/php-version-audit) 
 - [该组件为Mbstring扩展提供了部分本地PHP实现。](https://github.com/symfony/polyfill-mbstring) 
 - [使用生成器的迭代原语](https://github.com/nikic/iter) 
+- [寻找Kubernetes集群中的安全漏洞](https://github.com/aquasecurity/kube-hunter) 
 ### December 30, 2019 
 - [web️用于构建虚拟现实体验的Web框架。](https://github.com/aframevr/aframe) 
 - [最简单的方式把内网映射到外网，docker-compose 一键部署（内网穿透，支持linux，windows，树莓派等）](https://gitee.com/FYDEV/eznat_server) 
