@@ -119,6 +119,9 @@
 
 
 
+
+### December 31, 2019 
+- [Go的基于反射的依赖项注入工具箱。](https://github.com/uber-go/dig) 
 ### December 30, 2019 
 - [web️用于构建虚拟现实体验的Web框架。](https://github.com/aframevr/aframe) 
 - [最简单的方式把内网映射到外网，docker-compose 一键部署（内网穿透，支持linux，windows，树莓派等）](https://gitee.com/FYDEV/eznat_server) 
