@@ -120,6 +120,9 @@
 
 
 
+
+### January 1, 2020 
+- [一个基于Laravel的论坛项目](https://github.com/summerblue/larabbs) 
 ### December 31, 2019 
 - [Go的基于反射的依赖项注入工具箱。](https://github.com/uber-go/dig) 
 - [Ruby on Rails就像Go的测试装置一样。 针对真实数据库编写测试](https://github.com/go-testfixtures/testfixtures) 
