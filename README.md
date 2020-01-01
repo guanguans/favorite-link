@@ -124,6 +124,7 @@
 ### January 1, 2020 
 - [一个基于Laravel的论坛项目](https://github.com/summerblue/larabbs) 
 - [监控你的程序文件变化并自动重启服务](https://github.com/buexplain/go-watch) 
+- [监听文件变化自动重启Hyperf](https://github.com/ha-ni-cc/hyperf-watch) 
 ### December 31, 2019 
 - [Go的基于反射的依赖项注入工具箱。](https://github.com/uber-go/dig) 
 - [Ruby on Rails就像Go的测试装置一样。 针对真实数据库编写测试](https://github.com/go-testfixtures/testfixtures) 
