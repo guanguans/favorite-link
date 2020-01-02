@@ -126,6 +126,7 @@
 - [单依赖Kubernetes集群用于本地测试，实验和开发](https://github.com/saschagrunert/kubernix) 
 - [用Go和React编写的URL缩短服务](https://github.com/byliuyang/short) 
 - [☕️为您的新项目命名。](https://github.com/uetchy/namae) 
+- [信鸽推送React Native版，支持FCM、华为、小米、魅族官方推送通道](https://github.com/PandaQQ/react-native-xinge-push) 
 ### January 1, 2020 
 - [一个基于Laravel的论坛项目](https://github.com/summerblue/larabbs) 
 - [监控你的程序文件变化并自动重启服务](https://github.com/buexplain/go-watch) 
