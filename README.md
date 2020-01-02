@@ -121,6 +121,9 @@
 
 
 
+
+### January 2, 2020 
+- [单依赖Kubernetes集群用于本地测试，实验和开发](https://github.com/saschagrunert/kubernix) 
 ### January 1, 2020 
 - [一个基于Laravel的论坛项目](https://github.com/summerblue/larabbs) 
 - [监控你的程序文件变化并自动重启服务](https://github.com/buexplain/go-watch) 
