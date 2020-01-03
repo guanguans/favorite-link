@@ -134,6 +134,7 @@
 - [基于deployer.org的工具，用于执行Magento 2项目的零停机时间部署](https://github.com/jalogut/magento2-deployer-plus) 
 - [适用于MySQL，PostgreSQL，SQLite和Microsoft SQL Server的独立查询生成器。](https://github.com/auraphp/Aura.SqlQuery) 
 - [Arm Mbed OS是为mbed.com物联网设计的平台操作系统](https://github.com/ARMmbed/mbed-os) 
+- [基于vue + element的后台管理系统解决方案](https://github.com/lin-xin/vue-manage-system) 
 ### January 2, 2020 
 - [单依赖Kubernetes集群用于本地测试，实验和开发](https://github.com/saschagrunert/kubernix) 
 - [用Go和React编写的URL缩短服务](https://github.com/byliuyang/short) 
