@@ -126,6 +126,7 @@
 ### January 3, 2020 
 - [数据库迁移。 CLI和Golang库。](https://github.com/mattes/migrate) 
 - [PHP控制台应用程序使创建变得容易，轻松构建出色的控制台应用程序。 附带零依赖性和自动完成支持。](https://github.com/adhocore/php-cli) 
+- [中国爬虫违法违规案例汇总](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) 
 ### January 2, 2020 
 - [单依赖Kubernetes集群用于本地测试，实验和开发](https://github.com/saschagrunert/kubernix) 
 - [用Go和React编写的URL缩短服务](https://github.com/byliuyang/short) 
