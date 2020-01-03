@@ -130,6 +130,7 @@
 - [Laravel Impersonate是一个插件，可让您以用户身份进行身份验证。](https://github.com/404labfr/laravel-impersonate) 
 - [为您的Laravel应用提供“使用Apple登录”功能。](https://github.com/GeneaLabs/laravel-sign-in-with-apple) 
 - [直接从PHP脚本将通知发送到桌面](https://github.com/jolicode/JoliNotif) 
+- [基于Golang的社区系统。](https://github.com/mlogclub/bbs-go) 
 ### January 2, 2020 
 - [单依赖Kubernetes集群用于本地测试，实验和开发](https://github.com/saschagrunert/kubernix) 
 - [用Go和React编写的URL缩短服务](https://github.com/byliuyang/short) 
