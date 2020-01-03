@@ -122,6 +122,9 @@
 
 
 
+
+### January 3, 2020 
+- [数据库迁移。 CLI和Golang库。](https://github.com/mattes/migrate) 
 ### January 2, 2020 
 - [单依赖Kubernetes集群用于本地测试，实验和开发](https://github.com/saschagrunert/kubernix) 
 - [用Go和React编写的URL缩短服务](https://github.com/byliuyang/short) 
