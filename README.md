@@ -129,6 +129,7 @@
 - [一个简单的Laravel包装器程序包，用于与exchangeatesapi.io API进行交互。](https://github.com/ash-jc-allen/laravel-exchange-rates) 
 - [将PHP应用程序与HTTP缓存代理集成](https://github.com/FriendsOfSymfony/FOSHttpCache) 
 - [汇率API](https://github.com/exchangeratesapi/exchangeratesapi) 
+- [抓包截取项目中的数据库请求并解析成相应的语句。](https://github.com/40t/go-sniffer) 
 ### January 3, 2020 
 - [数据库迁移。 CLI和Golang库。](https://github.com/mattes/migrate) 
 - [PHP控制台应用程序使创建变得容易，轻松构建出色的控制台应用程序。 附带零依赖性和自动完成支持。](https://github.com/adhocore/php-cli) 
