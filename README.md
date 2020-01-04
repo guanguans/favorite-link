@@ -132,6 +132,7 @@
 - [抓包截取项目中的数据库请求并解析成相应的语句。](https://github.com/40t/go-sniffer) 
 - [🚀 基于swoft 2&xadmin开发的后台管理系统❄️](https://github.com/EthanChenLi/swoft-Xadmin) 
 - [枚举生成器](https://github.com/abice/go-enum) 
+- [GraphQL的完整教程](https://github.com/howtographql/howtographql) 
 ### January 3, 2020 
 - [数据库迁移。 CLI和Golang库。](https://github.com/mattes/migrate) 
 - [PHP控制台应用程序使创建变得容易，轻松构建出色的控制台应用程序。 附带零依赖性和自动完成支持。](https://github.com/adhocore/php-cli) 
