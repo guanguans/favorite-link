@@ -133,6 +133,7 @@
 - [🚀 基于swoft 2&xadmin开发的后台管理系统❄️](https://github.com/EthanChenLi/swoft-Xadmin) 
 - [枚举生成器](https://github.com/abice/go-enum) 
 - [GraphQL的完整教程](https://github.com/howtographql/howtographql) 
+- [超轻巧的MacOS实用程序，可帮助隐藏菜单栏图标](https://github.com/dwarvesf/hidden) 
 ### January 3, 2020 
 - [数据库迁移。 CLI和Golang库。](https://github.com/mattes/migrate) 
 - [PHP控制台应用程序使创建变得容易，轻松构建出色的控制台应用程序。 附带零依赖性和自动完成支持。](https://github.com/adhocore/php-cli) 
