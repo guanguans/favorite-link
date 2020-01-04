@@ -123,6 +123,9 @@
 
 
 
+
+### January 4, 2020 
+- [具有自动完成功能和语法突出显示功能的Redis终端客户端。](https://github.com/laixintao/iredis) 
 ### January 3, 2020 
 - [数据库迁移。 CLI和Golang库。](https://github.com/mattes/migrate) 
 - [PHP控制台应用程序使创建变得容易，轻松构建出色的控制台应用程序。 附带零依赖性和自动完成支持。](https://github.com/adhocore/php-cli) 
