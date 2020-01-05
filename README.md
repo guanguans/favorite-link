@@ -127,6 +127,7 @@
 
 ### January 5, 2020 
 - [skeleton-js ](https://github.com/nunomaduro/skeleton-js) 
+- [v如何写作一本 IT 技术图书](https://github.com/BetterTuring/How-to-Write-a-Technical-Book) 
 ### January 4, 2020 
 - [具有自动完成功能和语法突出显示功能的Redis终端客户端。](https://github.com/laixintao/iredis) 
 - [一个简单的Laravel包装器程序包，用于与exchangeatesapi.io API进行交互。](https://github.com/ash-jc-allen/laravel-exchange-rates) 
