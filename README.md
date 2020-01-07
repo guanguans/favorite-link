@@ -132,6 +132,7 @@
 - [lighthouse-action ](https://github.com/jakejarvis/lighthouse-action) 
 - [基于OpenStreetMap数据的开源搜索](https://github.com/openstreetmap/Nominatim) 
 - [软件包githubv4是用于访问GitHub GraphQL API v4的客户端库](https://github.com/shurcooL/githubv4) 
+- [从任何网站提取图标，并将其保存到本地存储](https://github.com/stefanbauer/laravel-favicon-extractor) 
 ### January 6, 2020 
 - [ServerChan Actions (Server酱)](https://github.com/yakumioto/serverchan-action) 
 - [Laravel性能监视器，用于传入请求](https://github.com/fruitcake/laravel-performance-monitor) 
