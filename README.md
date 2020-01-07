@@ -143,6 +143,7 @@
 - [Laravel软件包，用于添加取消订阅的通知链接](https://github.com/ylsideas/subscribable-notifications) 
 - [ants 是一个高性能且低损耗的 goroutine 池。](https://github.com/panjf2000/ants) 
 - [与Google Authenticator兼容的一次性密码身份验证软件包。](https://github.com/antonioribeiro/google2fa) 
+- [该软件包包含一组可重用的Laravel验证规则。](https://github.com/alphametric/laravel-validation-rules) 
 ### January 6, 2020 
 - [ServerChan Actions (Server酱)](https://github.com/yakumioto/serverchan-action) 
 - [Laravel性能监视器，用于传入请求](https://github.com/fruitcake/laravel-performance-monitor) 
