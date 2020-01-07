@@ -137,6 +137,7 @@
 - [为laravel项目生成文件](https://github.com/Laravel-Backpack/Generators) 
 - [快速测量PHP项目大小的工具。](https://github.com/sebastianbergmann/phploc) 
 - [支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。](https://github.com/smartwalle/alipay) 
+- [一种从后端到JavaScript共享数据的简便方法。](https://github.com/coderello/laravel-shared-data) 
 ### January 6, 2020 
 - [ServerChan Actions (Server酱)](https://github.com/yakumioto/serverchan-action) 
 - [Laravel性能监视器，用于传入请求](https://github.com/fruitcake/laravel-performance-monitor) 
