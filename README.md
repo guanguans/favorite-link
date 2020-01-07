@@ -141,6 +141,7 @@
 - [允许将多个验证规则组合为一个，以方便重用](https://github.com/illuminatech/validation-composite) 
 - [嵌套的URL重定向逻辑](https://github.com/Neurony/laravel-redirects) 
 - [Laravel软件包，用于添加取消订阅的通知链接](https://github.com/ylsideas/subscribable-notifications) 
+- [ants 是一个高性能且低损耗的 goroutine 池。](https://github.com/panjf2000/ants) 
 ### January 6, 2020 
 - [ServerChan Actions (Server酱)](https://github.com/yakumioto/serverchan-action) 
 - [Laravel性能监视器，用于传入请求](https://github.com/fruitcake/laravel-performance-monitor) 
