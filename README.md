@@ -140,6 +140,7 @@
 - [一种从后端到JavaScript共享数据的简便方法。](https://github.com/coderello/laravel-shared-data) 
 - [允许将多个验证规则组合为一个，以方便重用](https://github.com/illuminatech/validation-composite) 
 - [嵌套的URL重定向逻辑](https://github.com/Neurony/laravel-redirects) 
+- [Laravel软件包，用于添加取消订阅的通知链接](https://github.com/ylsideas/subscribable-notifications) 
 ### January 6, 2020 
 - [ServerChan Actions (Server酱)](https://github.com/yakumioto/serverchan-action) 
 - [Laravel性能监视器，用于传入请求](https://github.com/fruitcake/laravel-performance-monitor) 
