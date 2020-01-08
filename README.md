@@ -137,6 +137,7 @@
 - [交付给您的laravel应用程序的可配置Basecamp Trix编辑器](https://github.com/Te7a-Houdini/laravel-trix) 
 - [Laravel Media](https://github.com/optixsolutions/laravel-media) 
 - [Laravel Eloquent模型的即时哈希值。](https://github.com/mtvs/eloquent-hashids) 
+- [Laravel的现代表单生成器](https://github.com/glhd/aire) 
 ### January 7, 2020 
 - [自签工具Mac os系统使用](https://github.com/pixelomer/AltDeploy) 
 - [lighthouse-action ](https://github.com/jakejarvis/lighthouse-action) 
