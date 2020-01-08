@@ -141,6 +141,7 @@
 - [易于使用的抓取器，用于YouTube和其他平台上的视频信息，屏幕等。](https://github.com/chojnicki/video-platforms-parser) 
 - [向模型添加状态行为](https://github.com/spatie/laravel-model-states) 
 - [使用PHP和Slim 4开发RESTful API的有用框架。](https://github.com/maurobonfietti/slim4-api-skeleton) 
+- [Laravel应用的自动租赁。](https://github.com/stancl/tenancy) 
 ### January 7, 2020 
 - [自签工具Mac os系统使用](https://github.com/pixelomer/AltDeploy) 
 - [lighthouse-action ](https://github.com/jakejarvis/lighthouse-action) 
