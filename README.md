@@ -147,6 +147,7 @@
 - [创建包含个人数据的zip文件](https://github.com/spatie/laravel-personal-data-export) 
 - [Laravel的全球邮政编码验证](https://github.com/axlon/laravel-postal-code-validation) 
 - [Laravel Money.](https://github.com/cknow/laravel-money) 
+- [StyleCI CLI Tool](https://github.com/StyleCI/CLI) 
 ### January 7, 2020 
 - [自签工具Mac os系统使用](https://github.com/pixelomer/AltDeploy) 
 - [lighthouse-action ](https://github.com/jakejarvis/lighthouse-action) 
