@@ -132,6 +132,7 @@
 - [next-learn-demo](https://github.com/zeit/next-learn-demo) 
 - [将搜索添加到文档中的最简单方法。](https://github.com/algolia/docsearch) 
 - [处理重试，日志记录和动态标头的Http客户端。](https://github.com/gocanto/http-client) 
+- [初始化应用程序的便捷方法](https://github.com/mad-web/laravel-initializer) 
 ### January 7, 2020 
 - [自签工具Mac os系统使用](https://github.com/pixelomer/AltDeploy) 
 - [lighthouse-action ](https://github.com/jakejarvis/lighthouse-action) 
