@@ -134,6 +134,7 @@
 - [Laravel Airlock为SPA和简单的API提供了一个轻量级的身份验证系统。](https://github.com/laravel/airlock) 
 - [MacOS系统扩展，允许应用程序将音频传递给其他应用程序。](https://github.com/mattingalls/Soundflower) 
 - [腾讯云Laravel无服务器组件](https://github.com/serverless-components/tencent-laravel) 
+- [🇨🇳 翻译: 学习正则表达式的简单方法](https://github.com/cdoco/learn-regex-zh) 
 ### January 8, 2020 
 - [next-learn-demo](https://github.com/zeit/next-learn-demo) 
 - [将搜索添加到文档中的最简单方法。](https://github.com/algolia/docsearch) 
