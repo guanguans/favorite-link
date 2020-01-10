@@ -135,6 +135,7 @@
 - [Spatie Laravel Backup软件包的接口](https://github.com/pavel-mironchik/laravel-backup-panel) 
 - [2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) 
 - [k8s-1.13版本源码分析](https://github.com/daniel-hutao/k8s-source-code-analysis) 
+- [2019 年成為 Web 開發人員的路線圖](https://github.com/goodjack/developer-roadmap-chinese) 
 ### January 9, 2020 
 - [The v2ex client write in flutter.](https://github.com/w4mxl/V2LF) 
 - [Laravel Airlock为SPA和简单的API提供了一个轻量级的身份验证系统。](https://github.com/laravel/airlock) 
