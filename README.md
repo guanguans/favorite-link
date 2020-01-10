@@ -133,6 +133,7 @@
 ### January 10, 2020 
 - [用于构建单页应用程序的现代客户端Javascript框架。](https://github.com/MithrilJS/mithril.js) 
 - [Spatie Laravel Backup软件包的接口](https://github.com/pavel-mironchik/laravel-backup-panel) 
+- [2019CCF-BDCI大赛 最佳创新探索奖获得者 基于OCR身份证要素提取赛题冠军 天晨破晓团队 赛题源码](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement) 
 ### January 9, 2020 
 - [The v2ex client write in flutter.](https://github.com/w4mxl/V2LF) 
 - [Laravel Airlock为SPA和简单的API提供了一个轻量级的身份验证系统。](https://github.com/laravel/airlock) 
