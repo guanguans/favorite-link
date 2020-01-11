@@ -130,6 +130,9 @@
 
 
 
+
+### January 11, 2020 
+- [在Github个人资料上直接显示您正在收听的内容](https://github.com/wsmd/github-now-playing) 
 ### January 10, 2020 
 - [用于构建单页应用程序的现代客户端Javascript框架。](https://github.com/MithrilJS/mithril.js) 
 - [Spatie Laravel Backup软件包的接口](https://github.com/pavel-mironchik/laravel-backup-panel) 
