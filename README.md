@@ -136,6 +136,7 @@
 - [为Kubernetes入口和服务配置外部DNS服务器](https://github.com/kubernetes-sigs/external-dns) 
 - [一个用于伪造ip地址进行爆破的Burp Suite插件](https://github.com/TheKingOfDuck/burpFakeIP) 
 - [和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster) 
+- [基于 electron-vue 开发的音乐播放器，界面模仿QQ音乐](https://github.com/SmallRuralDog/electron-vue-music) 
 ### January 10, 2020 
 - [用于构建单页应用程序的现代客户端Javascript框架。](https://github.com/MithrilJS/mithril.js) 
 - [Spatie Laravel Backup软件包的接口](https://github.com/pavel-mironchik/laravel-backup-panel) 
