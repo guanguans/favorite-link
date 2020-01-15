@@ -143,6 +143,7 @@
 - [用于两个因素验证的PHP库（TFA / 2FA）](https://github.com/RobThree/TwoFactorAuth) 
 - [微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题](https://github.com/gengchen528/wechatBot) 
 - [基于Workerman的物联网后端管理平台设计 ](https://github.com/Laity000/SmartBed-Workerman-AngularJS) 
+- [切割日志-logrotate实用程序旨在简化在生成大量日志文件的系统上对日志文件的管理。](https://github.com/logrotate/logrotate) 
 ### January 14, 2020 
 - [Lua编码的Lua语言服务器](https://github.com/sumneko/lua-language-server) 
 - [GitHub星级历史记录和统计信息-仅基于JavaScript！](https://github.com/seladb/StarTrack-js) 
