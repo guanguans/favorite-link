@@ -137,6 +137,7 @@
 
 ### January 15, 2020 
 - [用Go编写的现代跨平台HTTP负载测试工具](https://github.com/rogerwelin/cassowary) 
+- [Laravel Eloquent eager loading with limit](https://github.com/staudenmeir/eloquent-eager-limit) 
 ### January 14, 2020 
 - [Lua编码的Lua语言服务器](https://github.com/sumneko/lua-language-server) 
 - [GitHub星级历史记录和统计信息-仅基于JavaScript！](https://github.com/seladb/StarTrack-js) 
