@@ -142,6 +142,7 @@
 - [SQL / SQLI标记器解析器分析器](https://github.com/client9/libinjection) 
 - [用于两个因素验证的PHP库（TFA / 2FA）](https://github.com/RobThree/TwoFactorAuth) 
 - [微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题](https://github.com/gengchen528/wechatBot) 
+- [基于Workerman的物联网后端管理平台设计 ](https://github.com/Laity000/SmartBed-Workerman-AngularJS) 
 ### January 14, 2020 
 - [Lua编码的Lua语言服务器](https://github.com/sumneko/lua-language-server) 
 - [GitHub星级历史记录和统计信息-仅基于JavaScript！](https://github.com/seladb/StarTrack-js) 
