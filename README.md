@@ -135,6 +135,9 @@
 
 
 
+
+### January 16, 2020 
+- [《Kubernetes权威指南》第4版书中示例](https://github.com/kubeguide/K8sDefinitiveGuide-V4-Sourcecode) 
 ### January 15, 2020 
 - [用Go编写的现代跨平台HTTP负载测试工具](https://github.com/rogerwelin/cassowary) 
 - [Laravel Eloquent eager loading with limit](https://github.com/staudenmeir/eloquent-eager-limit) 
