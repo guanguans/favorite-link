@@ -139,6 +139,7 @@
 ### January 16, 2020 
 - [《Kubernetes权威指南》第4版书中示例](https://github.com/kubeguide/K8sDefinitiveGuide-V4-Sourcecode) 
 - [简单，异步的PSR-7 HTTP客户端，用于在ReactPHP的基础上并发处理任意数量的HTTP请求](https://github.com/clue/reactphp-buzz) 
+- [🚀 The fastest WebAssembly interpreter](https://github.com/wasm3/wasm3) 
 ### January 15, 2020 
 - [用Go编写的现代跨平台HTTP负载测试工具](https://github.com/rogerwelin/cassowary) 
 - [Laravel Eloquent eager loading with limit](https://github.com/staudenmeir/eloquent-eager-limit) 
