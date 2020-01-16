@@ -147,6 +147,7 @@
 - [🤖 ⚡️ 麻雀虽小 五脏俱全 基于hyperf的快速优雅的应用开发框架](https://github.com/MQEnergy/MQCMS) 
 - [rustup：Rust工具链安装程序](https://github.com/rust-lang/rustup) 
 - [RedisDesktopManager For Mac OSX](https://github.com/echo-layker/RedisDesktopManager-Mac) 
+- [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) 
 ### January 15, 2020 
 - [用Go编写的现代跨平台HTTP负载测试工具](https://github.com/rogerwelin/cassowary) 
 - [Laravel Eloquent eager loading with limit](https://github.com/staudenmeir/eloquent-eager-limit) 
