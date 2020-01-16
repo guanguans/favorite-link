@@ -141,6 +141,7 @@
 - [简单，异步的PSR-7 HTTP客户端，用于在ReactPHP的基础上并发处理任意数量的HTTP请求](https://github.com/clue/reactphp-buzz) 
 - [🚀 The fastest WebAssembly interpreter](https://github.com/wasm3/wasm3) 
 - [JetBrains Mono –开发人员的免费开源字体](https://github.com/JetBrains/JetBrainsMono) 
+- [DevOps问题与练习](https://github.com/bregman-arie/devops-exercises#git-beginner) 
 ### January 15, 2020 
 - [用Go编写的现代跨平台HTTP负载测试工具](https://github.com/rogerwelin/cassowary) 
 - [Laravel Eloquent eager loading with limit](https://github.com/staudenmeir/eloquent-eager-limit) 
