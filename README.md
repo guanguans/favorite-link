@@ -143,6 +143,7 @@
 - [Laravel Nova的颜色编码指示器字段](https://github.com/inspheric/nova-indicator-field) 
 - [🆎比较类API的两个修订版以检查BC中断的工具](https://github.com/Roave/BackwardCompatibilityCheck) 
 - [Kubernetes 排错指南](https://github.com/opsnull/kubernetes-troubleshooting-book) 
+- [数据库连接池软件](https://github.com/swoole/php-cp) 
 ### January 16, 2020 
 - [《Kubernetes权威指南》第4版书中示例](https://github.com/kubeguide/K8sDefinitiveGuide-V4-Sourcecode) 
 - [简单，异步的PSR-7 HTTP客户端，用于在ReactPHP的基础上并发处理任意数量的HTTP请求](https://github.com/clue/reactphp-buzz) 
