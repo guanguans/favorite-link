@@ -144,6 +144,7 @@
 - [收集一些常见的 MySQL 死锁案例](https://github.com/aneasystone/mysql-deadlocks) 
 - [用于exercism.io的基于Go的命令行工具。](https://github.com/exercism/cli) 
 - [在Vim中简化git工作流程](https://github.com/jreybert/vimagit) 
+- [成为更好的软件架构师](https://github.com/justinamiller/SoftwareArchitect) 
 ### January 19, 2020 
 - [仅需SQL即可快速构建最小可行的管理面板](https://github.com/forbesmyester/esqlate) 
 - [极简内核](https://github.com/arjun024/mkernel) 
