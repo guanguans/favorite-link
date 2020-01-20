@@ -146,6 +146,7 @@
 - [在Vim中简化git工作流程](https://github.com/jreybert/vimagit) 
 - [成为更好的软件架构师](https://github.com/justinamiller/SoftwareArchitect) 
 - [⚖️一个将C编译为Go的工具。](https://github.com/elliotchance/c2go) 
+- [各大网站vip视频免费观看 等 Mac版。付费电影，VIP会员剧等，去广告播放。](https://github.com/iodefog/VipVideo) 
 ### January 19, 2020 
 - [仅需SQL即可快速构建最小可行的管理面板](https://github.com/forbesmyester/esqlate) 
 - [极简内核](https://github.com/arjun024/mkernel) 
