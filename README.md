@@ -149,6 +149,7 @@
 - [各大网站vip视频免费观看 等 Mac版。付费电影，VIP会员剧等，去广告播放。](https://github.com/iodefog/VipVideo) 
 - [关于红队方面的学习资料](https://github.com/zhaoweiho/redteam-tips) 
 - [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。 nette.org](https://github.com/nette/php-generator) 
+- [Git hooks for PHP projects](https://github.com/bruli/php-git-hooks) 
 ### January 19, 2020 
 - [仅需SQL即可快速构建最小可行的管理面板](https://github.com/forbesmyester/esqlate) 
 - [极简内核](https://github.com/arjun024/mkernel) 
