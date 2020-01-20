@@ -142,6 +142,7 @@
 ### January 20, 2020 
 - [基于 videojs 6.0 videojs-falsh 2.0 开发的yii2小部件](https://github.com/Hzhihua/yii2-videojs-widget) 
 - [收集一些常见的 MySQL 死锁案例](https://github.com/aneasystone/mysql-deadlocks) 
+- [用于exercism.io的基于Go的命令行工具。](https://github.com/exercism/cli) 
 ### January 19, 2020 
 - [仅需SQL即可快速构建最小可行的管理面板](https://github.com/forbesmyester/esqlate) 
 - [极简内核](https://github.com/arjun024/mkernel) 
