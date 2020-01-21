@@ -146,6 +146,7 @@
 - [只是一个极其简单的裸PHP应用程序，对小型项目和快速原型很有用。 有人可能将其称为微框架:)](https://github.com/panique/mini) 
 - [PHP / MySQL中的社交网络引擎](https://github.com/Elgg/Elgg) 
 - [PHP基准测试框架](https://github.com/phpbench/phpbench) 
+- [连接RoadRunner和Laravel应用程序的简便方法。](https://github.com/avto-dev/roadrunner-laravel) 
 ### January 20, 2020 
 - [基于 videojs 6.0 videojs-falsh 2.0 开发的yii2小部件](https://github.com/Hzhihua/yii2-videojs-widget) 
 - [收集一些常见的 MySQL 死锁案例](https://github.com/aneasystone/mysql-deadlocks) 
