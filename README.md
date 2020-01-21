@@ -147,6 +147,7 @@
 - [PHP / MySQL中的社交网络引擎](https://github.com/Elgg/Elgg) 
 - [PHP基准测试框架](https://github.com/phpbench/phpbench) 
 - [连接RoadRunner和Laravel应用程序的简便方法。](https://github.com/avto-dev/roadrunner-laravel) 
+- [workerman源码分析【进行中】](https://github.com/immortalChensm/worker) 
 ### January 20, 2020 
 - [基于 videojs 6.0 videojs-falsh 2.0 开发的yii2小部件](https://github.com/Hzhihua/yii2-videojs-widget) 
 - [收集一些常见的 MySQL 死锁案例](https://github.com/aneasystone/mysql-deadlocks) 
