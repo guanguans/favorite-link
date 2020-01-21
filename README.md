@@ -139,6 +139,9 @@
 
 
 
+
+### January 21, 2020 
+- [一个功能强大的Dockerized多合一RSS解决方案。](https://github.com/HenryQW/Awesome-TTRSS) 
 ### January 20, 2020 
 - [基于 videojs 6.0 videojs-falsh 2.0 开发的yii2小部件](https://github.com/Hzhihua/yii2-videojs-widget) 
 - [收集一些常见的 MySQL 死锁案例](https://github.com/aneasystone/mysql-deadlocks) 
