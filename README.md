@@ -143,6 +143,7 @@
 
 ### January 23, 2020 
 - [😷 为你的头像加上口罩 微信搜索“我要戴口罩”](https://github.com/idealclover/Wear-A-Mask) 
+- [一堆与Linux内核开发有关的链接](https://github.com/xairy/linux-kernel-exploitation) 
 ### January 21, 2020 
 - [一个功能强大的Dockerized多合一RSS解决方案。](https://github.com/HenryQW/Awesome-TTRSS) 
 - [🚀下一代模板/主题框架](https://github.com/gantry/gantry5) 
