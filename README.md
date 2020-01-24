@@ -144,6 +144,7 @@
 
 ### January 24, 2020 
 - [USB鼠标流量包取证工具 , 主要用于绘制鼠标移动以及拖动轨迹](https://github.com/WangYihang/UsbMiceDataHacker) 
+- [与Google Authenticator兼容的一次性密码身份验证软件包。](https://github.com/antonioribeiro/google2fa) 
 ### January 23, 2020 
 - [😷 为你的头像加上口罩 微信搜索“我要戴口罩”](https://github.com/idealclover/Wear-A-Mask) 
 - [一堆与Linux内核开发有关的链接](https://github.com/xairy/linux-kernel-exploitation) 
