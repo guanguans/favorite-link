@@ -147,6 +147,7 @@
 
 ### January 27, 2020 
 - [一个模仿Node.js核心调试技术的微型JavaScript调试实用程序。 可在Node.js和Web浏览器中使用](https://github.com/visionmedia/debug) 
+- [用于HTTP和HTTPS的SOCKS（v4 / v5）代理`http.Agent`实现](https://github.com/TooTallNate/node-socks-proxy-agent) 
 ### January 26, 2020 
 - [抖音去水印PHP版接口](https://github.com/zbfzn/douyin-clear-php) 
 ### January 25, 2020 
