@@ -144,6 +144,9 @@
 
 
 
+
+### January 27, 2020 
+- [一个模仿Node.js核心调试技术的微型JavaScript调试实用程序。 可在Node.js和Web浏览器中使用](https://github.com/visionmedia/debug) 
 ### January 26, 2020 
 - [抖音去水印PHP版接口](https://github.com/zbfzn/douyin-clear-php) 
 ### January 25, 2020 
