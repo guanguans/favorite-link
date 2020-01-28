@@ -145,6 +145,9 @@
 
 
 
+
+### January 28, 2020 
+- [NumPHP是用于科学计算的数学PHP库。 PHP的高级矩阵算法。](https://github.com/NumPHP/NumPHP) 
 ### January 27, 2020 
 - [一个模仿Node.js核心调试技术的微型JavaScript调试实用程序。 可在Node.js和Web浏览器中使用](https://github.com/visionmedia/debug) 
 - [用于HTTP和HTTPS的SOCKS（v4 / v5）代理`http.Agent`实现](https://github.com/TooTallNate/node-socks-proxy-agent) 
