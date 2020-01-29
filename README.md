@@ -150,6 +150,7 @@
 ### January 29, 2020 
 - [基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。](https://github.com/QThans/layui-admin) 
 - [具有基于JSON模式的验证的高清晰度PHP结构](https://github.com/swaggest/php-json-schema) 
+- [一个事件循环接口，可实现PHP的互操作性。](https://github.com/async-interop/event-loop) 
 ### January 28, 2020 
 - [NumPHP是用于科学计算的数学PHP库。 PHP的高级矩阵算法。](https://github.com/NumPHP/NumPHP) 
 - [在浏览器或Node.js中运行PHP客户端。](https://github.com/asmblah/uniter) 
