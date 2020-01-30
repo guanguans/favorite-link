@@ -147,6 +147,9 @@
 
 
 
+
+### January 30, 2020 
+- [百度脑图 ](https://github.com/fex-team/kityminder) 
 ### January 29, 2020 
 - [基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。](https://github.com/QThans/layui-admin) 
 - [具有基于JSON模式的验证的高清晰度PHP结构](https://github.com/swaggest/php-json-schema) 
