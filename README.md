@@ -151,6 +151,7 @@
 ### January 30, 2020 
 - [百度脑图 ](https://github.com/fex-team/kityminder) 
 - [一些方便的数组功能](https://github.com/spatie/array-functions) 
+- [有时您想使用Eloquent，但不处理数据库。](https://github.com/calebporzio/sushi) 
 ### January 29, 2020 
 - [基于layui和thinkphp6.0的快速后台开发框架。快速构建完善的管理后台，内置表单、表格的php生成，以及完善的RBAC权限管理。](https://github.com/QThans/layui-admin) 
 - [具有基于JSON模式的验证的高清晰度PHP结构](https://github.com/swaggest/php-json-schema) 
