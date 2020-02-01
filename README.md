@@ -153,6 +153,7 @@
 - [ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性](https://github.com/doocs/md) 
 - [即时从源代码中删除最终关键字，并允许模拟最终方法和类。 它可以与任何测试工具（例如PHPUnit或Mockery）一起使用。](https://github.com/dg/bypass-finals) 
 - [中国新型冠状病毒肺炎地级市疫情图](https://github.com/lispczz/pneumonia) 
+- [您的Laravel应用程序中的服务器端渲染](https://github.com/spatie/laravel-server-side-rendering) 
 ### January 30, 2020 
 - [百度脑图 ](https://github.com/fex-team/kityminder) 
 - [一些方便的数组功能](https://github.com/spatie/array-functions) 
