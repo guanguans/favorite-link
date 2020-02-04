@@ -157,6 +157,7 @@
 - [are正在监视您。 保护您的隐私免受全球大规模监视](https://github.com/privacytoolsIO/privacytools.io) 
 - [提供优雅的语法以连接到SSH服务器并执行命令。](https://github.com/DivineOmega/php-ssh-connection) 
 - [东北方言编程语言](https://github.com/zhanyong-wan/dongbei) 
+- [一个豆瓣 API 的反向代理，旨在解决豆瓣屏蔽小程序请求问题（豆瓣接口 403 问题](https://github.com/zce/douban-api-proxy) 
 ### February 3, 2020 
 - [亿寻网盘](https://github.com/0-01/1/blob/master/1) 
 - [改变iPhone手机虚拟定位，企业微信打卡、钉钉打卡](https://github.com/zhengwenming/ChangeLocation) 
