@@ -159,6 +159,7 @@
 - [轻量级软件包，可通过SSH连接执行命令](https://github.com/spatie/ssh) 
 - [使用Yii2模型SEO参数的库](https://github.com/demisang/yii2-seo) 
 - [Yii2模块可轻松创建元标签](https://github.com/shershennm/yii2-seo) 
+- [我的剑桥课堂讲稿](https://github.com/dalcde/cam-notes) 
 ### February 4, 2020 
 - [PC版微信机器人](https://github.com/TonyChen56/WeChatRobot) 
 - [are正在监视您。 保护您的隐私免受全球大规模监视](https://github.com/privacytoolsIO/privacytools.io) 
