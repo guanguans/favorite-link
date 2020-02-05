@@ -157,6 +157,7 @@
 - [使用R Markdown编写书籍和技术文档](https://github.com/rstudio/bookdown) 
 - [Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作](https://github.com/ngbdf/redis-manager) 
 - [轻量级软件包，可通过SSH连接执行命令](https://github.com/spatie/ssh) 
+- [使用Yii2模型SEO参数的库](https://github.com/demisang/yii2-seo) 
 ### February 4, 2020 
 - [PC版微信机器人](https://github.com/TonyChen56/WeChatRobot) 
 - [are正在监视您。 保护您的隐私免受全球大规模监视](https://github.com/privacytoolsIO/privacytools.io) 
