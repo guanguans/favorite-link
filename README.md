@@ -159,6 +159,7 @@
 - [中文疾病诊断数据集（百万条）](https://github.com/flyyuan/Chinese-Medical-QA-Data) 
 - [kubernetes高可用安装工具](https://github.com/fanux/sealos) 
 - [discourse/discourse: A platform for community discussion. Free, open, simple.](https://github.com/discourse/discourse) 
+- [Yii2的XML Sitemap模块](https://github.com/himiklab/yii2-sitemap-module) 
 ### February 5, 2020 
 - [使用R Markdown编写书籍和技术文档](https://github.com/rstudio/bookdown) 
 - [Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作](https://github.com/ngbdf/redis-manager) 
