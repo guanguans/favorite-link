@@ -153,6 +153,9 @@
 
 
 
+
+### February 7, 2020 
+- [2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）](https://github.com/2019ncovmemory/nCovMemory) 
 ### February 5, 2020 
 - [使用R Markdown编写书籍和技术文档](https://github.com/rstudio/bookdown) 
 - [Redis 一站式管理平台，支持集群的监控、安装、管理、告警以及基本的数据操作](https://github.com/ngbdf/redis-manager) 
