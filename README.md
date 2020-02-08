@@ -160,6 +160,7 @@
 - [laravel admin 的微信扩展包，包含基础接口与后台](https://github.com/Hanson/laravel-admin-wechat) 
 - [中国银联，银商支付，发票sdk](https://github.com/cblink/china-pay) 
 - [🚧 Tencent AI SDK.](https://github.com/cblink/tencent-ai) 
+- [laravel-admin的微信菜单扩展插件。](https://github.com/yisonli/wxmenu) 
 ### February 7, 2020 
 - [2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）](https://github.com/2019ncovmemory/nCovMemory) 
 - [中文疾病诊断数据集（百万条）](https://github.com/flyyuan/Chinese-Medical-QA-Data) 
