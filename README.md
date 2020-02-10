@@ -160,6 +160,7 @@
 ### February 10, 2020 
 - [PHP FileUpload库，支持分块上传](https://github.com/Gargron/fileupload) 
 - [windows PC微信逆向](https://github.com/codeByDog/pcWechat) 
+- [京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫](https://github.com/cycz/jdBuyMask) 
 ### February 9, 2020 
 - [the GitHub CLI](https://github.com/cli/cli) 
 - [基于 Hyperf 协程框架的商城后台](https://github.com/wuqinqiang/hyperf-shop) 
