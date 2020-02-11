@@ -161,6 +161,7 @@
 ### February 11, 2020 
 - [PHPMD](https://github.com/phpmd/phpmd) 
 - [ThinkPHP5插件程序包](https://github.com/5ini99/think-addons) 
+- [Uppload是一个更好的JavaScript图像上传器，具有30多个插件uppload.js.org](https://github.com/elninotech/uppload?utm_source=xinquji) 
 ### February 10, 2020 
 - [PHP FileUpload库，支持分块上传](https://github.com/Gargron/fileupload) 
 - [windows PC微信逆向](https://github.com/codeByDog/pcWechat) 
