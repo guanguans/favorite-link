@@ -161,6 +161,7 @@
 
 ### February 12, 2020 
 - [遵循域驱动设计（DDD）和命令查询责任隔离（CQRS）原理的PHP应用程序示例，使代码尽可能简单。](https://github.com/CodelyTV/php-ddd-example) 
+- [Instagram PHP抓取工具。 获取帐户信息，照片，视频，故事和评论。](https://github.com/postaddictme/instagram-php-scraper) 
 ### February 11, 2020 
 - [PHPMD](https://github.com/phpmd/phpmd) 
 - [ThinkPHP5插件程序包](https://github.com/5ini99/think-addons) 
