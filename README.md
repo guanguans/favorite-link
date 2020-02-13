@@ -166,6 +166,7 @@
 - [一个使用临时目录的简单类](https://github.com/spatie/temporary-directory) 
 - [深入了解：Go的源代码研究](https://github.com/changkun/go-under-the-hood) 
 - [licensecheck软件包对许可证文件进行分类，并通过启发式方法确定它们与已知的开源许可证的对应程度。](https://github.com/google/licensecheck) 
+- [CMake Cookbook》的中文翻译](https://github.com/xiaoweiChen/CMake-Cookbook) 
 ### February 12, 2020 
 - [遵循域驱动设计（DDD）和命令查询责任隔离（CQRS）原理的PHP应用程序示例，使代码尽可能简单。](https://github.com/CodelyTV/php-ddd-example) 
 - [Instagram PHP抓取工具。 获取帐户信息，照片，视频，故事和评论。](https://github.com/postaddictme/instagram-php-scraper) 
