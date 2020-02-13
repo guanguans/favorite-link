@@ -169,6 +169,7 @@
 - [CMake Cookbook》的中文翻译](https://github.com/xiaoweiChen/CMake-Cookbook) 
 - [兼容队列互操作的AMQP协议。 基于php amqp lib。](https://github.com/php-enqueue/amqp-lib) 
 - [javascript gobang AI，可能是github上最受欢迎的五子棋AI ](https://github.com/lihongxun945/gobang) 
+- [《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。](https://github.com/ruanyf/es6tutorial) 
 ### February 12, 2020 
 - [遵循域驱动设计（DDD）和命令查询责任隔离（CQRS）原理的PHP应用程序示例，使代码尽可能简单。](https://github.com/CodelyTV/php-ddd-example) 
 - [Instagram PHP抓取工具。 获取帐户信息，照片，视频，故事和评论。](https://github.com/postaddictme/instagram-php-scraper) 
