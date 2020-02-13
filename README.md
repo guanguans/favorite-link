@@ -172,6 +172,7 @@
 - [《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。](https://github.com/ruanyf/es6tutorial) 
 - [CLI App和库来管理apc和opcache。](https://github.com/gordalina/cachetool) 
 - [在Windows，Mac和Linux中使用php守护进程和多进程的简单方法](https://github.com/jilieryuyi/wing-process) 
+- [🐋 基于PCNTL的进程包装器和管理器在类Unix系统中的应用](https://github.com/slince/process) 
 ### February 12, 2020 
 - [遵循域驱动设计（DDD）和命令查询责任隔离（CQRS）原理的PHP应用程序示例，使代码尽可能简单。](https://github.com/CodelyTV/php-ddd-example) 
 - [Instagram PHP抓取工具。 获取帐户信息，照片，视频，故事和评论。](https://github.com/postaddictme/instagram-php-scraper) 
