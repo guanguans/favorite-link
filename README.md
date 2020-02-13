@@ -175,6 +175,7 @@
 - [🐋 基于PCNTL的进程包装器和管理器在类Unix系统中的应用](https://github.com/slince/process) 
 - [ProcessMaker Open Source](https://github.com/colosa/processmaker) 
 - [提供更好的API，以使用PHP在类Unix系统上处理进程。](https://github.com/Arara/Process) 
+- [当PHP进程存在时，在后台启动继续运行的进程。](https://github.com/cocur/background-process) 
 ### February 12, 2020 
 - [遵循域驱动设计（DDD）和命令查询责任隔离（CQRS）原理的PHP应用程序示例，使代码尽可能简单。](https://github.com/CodelyTV/php-ddd-example) 
 - [Instagram PHP抓取工具。 获取帐户信息，照片，视频，故事和评论。](https://github.com/postaddictme/instagram-php-scraper) 
