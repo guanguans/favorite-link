@@ -178,6 +178,7 @@
 - [当PHP进程存在时，在后台启动继续运行的进程。](https://github.com/cocur/background-process) 
 - [事件驱动的库，用于使用ReactPHP执行子进程。](https://github.com/reactphp/child-process) 
 - [simultaneously同时运行多个进程](https://github.com/graze/parallel-process) 
+- [php-webdriver库是Selenium WebDriver的PHP语言绑定，它使您可以从PHP控制Web浏览器。](https://github.com/php-webdriver/php-webdriver) 
 ### February 12, 2020 
 - [遵循域驱动设计（DDD）和命令查询责任隔离（CQRS）原理的PHP应用程序示例，使代码尽可能简单。](https://github.com/CodelyTV/php-ddd-example) 
 - [Instagram PHP抓取工具。 获取帐户信息，照片，视频，故事和评论。](https://github.com/postaddictme/instagram-php-scraper) 
