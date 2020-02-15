@@ -168,6 +168,7 @@
 - [洋葱，为PHP制作/安装/打包PEAR包的快速方法。](https://github.com/phpbrew/Onion) 
 - [PHP中优雅而简单的curry（f）实现。](https://github.com/nunomaduro/curryable) 
 - [Laravel软件包可以在开发过程中以其他用户的身份轻松登录。](https://github.com/viacreative/sudo-su) 
+- [用于使用SPDX许可证列表和验证许可证的工具。](https://github.com/composer/spdx-licenses) 
 ### February 13, 2020 
 - [使用PHP管理Docker容器](https://github.com/spatie/docker) 
 - [该软件包提供了一个特征，当将该特征应用于类时，可以在运行时向该类添加方法。](https://github.com/spatie/macroable) 
