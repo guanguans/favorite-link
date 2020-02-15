@@ -163,6 +163,7 @@
 
 ### February 15, 2020 
 - [一个最精简的php多进程控制库](https://github.com/SegmentFault/SimpleFork) 
+- [微信支付(WeChat Pay) SDK for Golang](https://github.com/objcoding/wxpay) 
 ### February 13, 2020 
 - [使用PHP管理Docker容器](https://github.com/spatie/docker) 
 - [该软件包提供了一个特征，当将该特征应用于类时，可以在运行时向该类添加方法。](https://github.com/spatie/macroable) 
