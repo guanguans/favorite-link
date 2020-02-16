@@ -168,6 +168,7 @@
 - [特定于中文的配置可改善您喜欢的DNS服务器。 chnroutes的最佳合作伙伴。](https://github.com/felixonmars/dnsmasq-china-list) 
 - [Composer插件，用于清理软件包中未使用的文件。](https://github.com/barryvdh/composer-cleanup-plugin) 
 - [QQ安全中心 - 动态口令的生成算法](https://github.com/HyperSine/forensic-qqtoken) 
+- [Laravel Vendor Cleanup Command](https://github.com/barryvdh/laravel-vendor-cleanup) 
 ### February 15, 2020 
 - [一个最精简的php多进程控制库](https://github.com/SegmentFault/SimpleFork) 
 - [微信支付(WeChat Pay) SDK for Golang](https://github.com/objcoding/wxpay) 
