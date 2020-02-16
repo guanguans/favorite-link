@@ -165,6 +165,7 @@
 ### February 16, 2020 
 - [Go的快速JSON解析器和验证器。 没有自定义结构，没有代码生成，没有反射](https://github.com/valyala/fastjson) 
 - [Wiki.js | 基于Node.js的现代，轻量级且功能强大的Wiki应用程序](https://github.com/Requarks/wiki) 
+- [特定于中文的配置可改善您喜欢的DNS服务器。 chnroutes的最佳合作伙伴。](https://github.com/felixonmars/dnsmasq-china-list) 
 ### February 15, 2020 
 - [一个最精简的php多进程控制库](https://github.com/SegmentFault/SimpleFork) 
 - [微信支付(WeChat Pay) SDK for Golang](https://github.com/objcoding/wxpay) 
