@@ -166,6 +166,7 @@
 ### February 17, 2020 
 - [像python-sh一样，可以轻松使用golang调用shell。](https://github.com/codeskyblue/go-sh) 
 - [适用于iOS，macOS和tvOS的＃1 HTTP服务器（还包括基于Web的上传器和WebDAV服务器）](https://github.com/swisspol/GCDWebServer) 
+- [🌍 基于 Vue 2.x 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap) 
 ### February 16, 2020 
 - [Go的快速JSON解析器和验证器。 没有自定义结构，没有代码生成，没有反射](https://github.com/valyala/fastjson) 
 - [Wiki.js | 基于Node.js的现代，轻量级且功能强大的Wiki应用程序](https://github.com/Requarks/wiki) 
