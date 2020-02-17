@@ -168,6 +168,7 @@
 - [适用于iOS，macOS和tvOS的＃1 HTTP服务器（还包括基于Web的上传器和WebDAV服务器）](https://github.com/swisspol/GCDWebServer) 
 - [🌍 基于 Vue 2.x 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap) 
 - [Html网页正文提取 ](https://github.com/stanzhai/Html2Article) 
+- [jackzhenguo/python-small-examples: Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。](https://github.com/jackzhenguo/python-small-examples) 
 ### February 16, 2020 
 - [Go的快速JSON解析器和验证器。 没有自定义结构，没有代码生成，没有反射](https://github.com/valyala/fastjson) 
 - [Wiki.js | 基于Node.js的现代，轻量级且功能强大的Wiki应用程序](https://github.com/Requarks/wiki) 
