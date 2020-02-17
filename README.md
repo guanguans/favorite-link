@@ -169,6 +169,7 @@
 - [🌍 基于 Vue 2.x 和高德地图的地图组件](https://github.com/ElemeFE/vue-amap) 
 - [Html网页正文提取 ](https://github.com/stanzhai/Html2Article) 
 - [jackzhenguo/python-small-examples: Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。](https://github.com/jackzhenguo/python-small-examples) 
+- [计算机基础面试问题全面总结，包含详细的follow-up question以及答案；模拟面试，知识点复习，快速备战面试...](https://github.com/wolverinn/Waking-Up) 
 ### February 16, 2020 
 - [Go的快速JSON解析器和验证器。 没有自定义结构，没有代码生成，没有反射](https://github.com/valyala/fastjson) 
 - [Wiki.js | 基于Node.js的现代，轻量级且功能强大的Wiki应用程序](https://github.com/Requarks/wiki) 
