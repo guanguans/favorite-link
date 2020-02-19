@@ -170,6 +170,7 @@
 - [基于 PAYJS 微信支付个人接口开发的 Package，可直接用于生产环境](https://github.com/xhat/payjs) 
 - [基于 PAYJS 微信支付个人接口开发的 Laravel Package](https://github.com/xhat/payjs-laravel) 
 - [payjs简易sdk](https://github.com/musnow/payjs) 
+- [正在开发的全新 V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) 
 ### February 18, 2020 
 - [RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架](https://github.com/microshow/RxFFmpeg) 
 - [用于backblaze b2云文件和存储系统的标准PHP](https://github.com/gliterd/backblaze-b2) 
