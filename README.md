@@ -172,6 +172,7 @@
 - [payjs简易sdk](https://github.com/musnow/payjs) 
 - [正在开发的全新 V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) 
 - [Node.js桌面自动化。](https://github.com/octalmage/robotjs) 
+- [企业微信SDK for ThinkPHP5](https://github.com/pithyone/think-wechat) 
 ### February 18, 2020 
 - [RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架](https://github.com/microshow/RxFFmpeg) 
 - [用于backblaze b2云文件和存储系统的标准PHP](https://github.com/gliterd/backblaze-b2) 
