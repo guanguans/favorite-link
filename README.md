@@ -176,6 +176,7 @@
 - [支持多协议多用户的 v2ray 面板](https://github.com/sprov065/v2-ui) 
 - [Swoole Compiler Decoder](https://github.com/Tools2/SwooleCompiler-Decoder) 
 - [还原ZendGuard处理后的php代码](https://github.com/Tools2/Zend-Decoder) 
+- [Google产品的众多替代产品。 隐私权提示，技巧和链接。](https://github.com/tycrek/degoogle) 
 ### February 18, 2020 
 - [RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架](https://github.com/microshow/RxFFmpeg) 
 - [用于backblaze b2云文件和存储系统的标准PHP](https://github.com/gliterd/backblaze-b2) 
