@@ -173,6 +173,7 @@
 - [git和diff输出的语法突出显示](https://github.com/dandavison/delta) 
 - [使用用户名的缩写生成头像。](https://github.com/LasseRafn/php-initial-avatar-generator) 
 - [ui-avatars](https://github.com/LasseRafn/ui-avatars) 
+- [淘客六合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁、蘑菇街](https://github.com/niugengyun/easytbk) 
 ### February 19, 2020 
 - [自动发卡系统（包含前台以及后台管理系统），对接payjs支付（无须企业认证)](https://github.com/zzDylan/faka) 
 - [基于 PAYJS 微信支付个人接口开发的 Package，可直接用于生产环境](https://github.com/xhat/payjs) 
