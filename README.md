@@ -170,6 +170,7 @@
 - [GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的VPN。](https://github.com/gnbdev/gnb) 
 - [using使用架构语言构建，模拟和拼接GraphQL架构](https://github.com/apollographql/graphql-tools) 
 - [Laravel Vapor是由AWS Lambda支持的Laravel自动扩展，无服务器部署平台。 在Vapor上管理Laravel基础架构，并爱上无服务器的可扩展性和简单性。](https://github.com/laravel/vapor-core) 
+- [git和diff输出的语法突出显示](https://github.com/dandavison/delta) 
 ### February 19, 2020 
 - [自动发卡系统（包含前台以及后台管理系统），对接payjs支付（无须企业认证)](https://github.com/zzDylan/faka) 
 - [基于 PAYJS 微信支付个人接口开发的 Package，可直接用于生产环境](https://github.com/xhat/payjs) 
