@@ -172,6 +172,7 @@
 - [Laravel Vapor是由AWS Lambda支持的Laravel自动扩展，无服务器部署平台。 在Vapor上管理Laravel基础架构，并爱上无服务器的可扩展性和简单性。](https://github.com/laravel/vapor-core) 
 - [git和diff输出的语法突出显示](https://github.com/dandavison/delta) 
 - [使用用户名的缩写生成头像。](https://github.com/LasseRafn/php-initial-avatar-generator) 
+- [ui-avatars](https://github.com/LasseRafn/ui-avatars) 
 ### February 19, 2020 
 - [自动发卡系统（包含前台以及后台管理系统），对接payjs支付（无须企业认证)](https://github.com/zzDylan/faka) 
 - [基于 PAYJS 微信支付个人接口开发的 Package，可直接用于生产环境](https://github.com/xhat/payjs) 
