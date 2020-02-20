@@ -165,6 +165,9 @@
 
 
 
+
+### February 20, 2020 
+- [GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的VPN。](https://github.com/gnbdev/gnb) 
 ### February 19, 2020 
 - [自动发卡系统（包含前台以及后台管理系统），对接payjs支付（无须企业认证)](https://github.com/zzDylan/faka) 
 - [基于 PAYJS 微信支付个人接口开发的 Package，可直接用于生产环境](https://github.com/xhat/payjs) 
