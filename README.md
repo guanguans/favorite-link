@@ -173,6 +173,7 @@
 - [VS Code的超快速sftp / ftp扩展](https://github.com/liximomo/vscode-sftp) 
 - [国产密码算法SM2，SM3，SM4](https://github.com/gotoworld/hsd-cipher-sm) 
 - [PHP实现的SM2间距算法。](https://github.com/wiwofone/memorize) 
+- [SM4国产加密算法PHP实现版本](https://github.com/lyfing/SM4) 
 ### February 20, 2020 
 - [GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的VPN。](https://github.com/gnbdev/gnb) 
 - [using使用架构语言构建，模拟和拼接GraphQL架构](https://github.com/apollographql/graphql-tools) 
