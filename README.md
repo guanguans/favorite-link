@@ -169,6 +169,7 @@
 
 ### February 21, 2020 
 - [在Go中轻松构建事件驱动的应用程序。](https://github.com/ThreeDotsLabs/watermill) 
+- [Chrome一个Chrome扩展程序，用于可视化JSON响应并引入很棒的JSON漂亮体验。](https://github.com/rbrahul/Awesome-JSON-Viewer) 
 ### February 20, 2020 
 - [GNB是一个开源的去中心化的具有极致内网穿透能力的通过P2P进行三层网络交换的VPN。](https://github.com/gnbdev/gnb) 
 - [using使用架构语言构建，模拟和拼接GraphQL架构](https://github.com/apollographql/graphql-tools) 
