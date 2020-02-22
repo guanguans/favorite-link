@@ -173,6 +173,7 @@
 - [使用Laravel使用API​​密钥验证RESTful API的简单方法](https://github.com/chrisbjr/api-guard) 
 - [简单的程序包可在您的API中正确处理响应。](https://github.com/ellipsesynergie/api-response) 
 - [iOS代码混淆](https://github.com/netyouli/WHC_ConfuseSoftware) 
+- [一个功能强大，快速，跨平台的PHP SQL Builder](https://github.com/c9s/SQLBuilder) 
 ### February 21, 2020 
 - [在Go中轻松构建事件驱动的应用程序。](https://github.com/ThreeDotsLabs/watermill) 
 - [Chrome一个Chrome扩展程序，用于可视化JSON响应并引入很棒的JSON漂亮体验。](https://github.com/rbrahul/Awesome-JSON-Viewer) 
