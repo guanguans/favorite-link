@@ -170,6 +170,7 @@
 
 ### February 22, 2020 
 - [使用Laravel用API密钥验证restfulapi的简单方法](https://github.com/chrisbjr/api-guard) 
+- [使用Laravel使用API​​密钥验证RESTful API的简单方法](https://github.com/chrisbjr/api-guard) 
 ### February 21, 2020 
 - [在Go中轻松构建事件驱动的应用程序。](https://github.com/ThreeDotsLabs/watermill) 
 - [Chrome一个Chrome扩展程序，用于可视化JSON响应并引入很棒的JSON漂亮体验。](https://github.com/rbrahul/Awesome-JSON-Viewer) 
