@@ -178,6 +178,7 @@
 - [Java工程师成神之路](https://github.com/hollischuang/toBeTopJavaer) 
 - [这是一个适用于OS X的应用程序，可以（重新）签名应用程序并将其捆绑到准备安装在iOS设备上的ipa文件中。](https://github.com/DanTheMan827/ios-app-signer) 
 - [使用简单实用的语义化接口快速读写Excel文件](https://github.com/jqhph/easy-excel) 
+- [laravel-excel-zip是下载大型excel的解决方案。 您可以定义何时将excel打包成一个zip文件。](https://github.com/cblink/laravel-excel-zip) 
 ### February 23, 2020 
 - [钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS](https://github.com/nashaofu/dingtalk) 
 - [记录使用了哪些路由以及何时使用。](https://github.com/julienbourdeau/route-usage) 
