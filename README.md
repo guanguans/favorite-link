@@ -170,6 +170,9 @@
 
 
 
+
+### February 26, 2020 
+- [微信支付SDK for Go！](https://github.com/liyoung1992/wechatpay) 
 ### February 25, 2020 
 - [适用于PHP的UTF-8兼容JSON5解析器](https://github.com/colinodell/json5) 
 - [适用于PHP的UTF-8兼容JSON5解析器](https://github.com/colinodell/json5) 
