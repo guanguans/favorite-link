@@ -180,6 +180,7 @@
 - [一款基于vue+element-ui的django admin现代化主题。](https://github.com/newpanjing/simpleui) 
 - [微信支付 for nodejs](https://github.com/befinal/node-tenpay) 
 - [确保您的.env文件与.env.example同步的软件包](https://github.com/JulienTant/Laravel-Env-Sync) 
+- [用于Laravel存储API的Microsoft Azure Blob存储集成](https://github.com/matthewbdaly/laravel-azure-storage) 
 ### February 28, 2020 
 - [鸟哥读研究生时，写的一个PHP的CMS。](https://github.com/laruence/Pallas) 
 - [Attendize是一个免费的开源门票销售和事件管理平台。](https://github.com/Attendize/Attendize) 
