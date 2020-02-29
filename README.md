@@ -181,6 +181,7 @@
 - [微信支付 for nodejs](https://github.com/befinal/node-tenpay) 
 - [确保您的.env文件与.env.example同步的软件包](https://github.com/JulienTant/Laravel-Env-Sync) 
 - [用于Laravel存储API的Microsoft Azure Blob存储集成](https://github.com/matthewbdaly/laravel-azure-storage) 
+- [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm) 
 ### February 28, 2020 
 - [鸟哥读研究生时，写的一个PHP的CMS。](https://github.com/laruence/Pallas) 
 - [Attendize是一个免费的开源门票销售和事件管理平台。](https://github.com/Attendize/Attendize) 
