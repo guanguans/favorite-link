@@ -174,6 +174,9 @@
 
 
 
+
+### March 1, 2020 
+- [ThinkPHP6 权限包](https://github.com/edenleung/think-permission) 
 ### February 29, 2020 
 - [PHP中的JsonPath实现](https://github.com/Galbar/JsonPath-PHP) 
 - [PHP中的JsonPath实现](https://github.com/Galbar/JsonPath-PHP) 
