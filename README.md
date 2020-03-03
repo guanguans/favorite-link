@@ -180,6 +180,7 @@
 - [基于一些最佳实践的REST API响应格式](https://github.com/cryptlex/rest-api-response-format) 
 - [JSend是一种用于应用程序级通信的简单，简洁，基于JSON格式的规范。](https://github.com/omniti-labs/jsend) 
 - [字节跳动小程序sdk](https://github.com/qbhy/tt-microapp) 
+- [搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch) 
 ### March 1, 2020 
 - [ThinkPHP6 权限包](https://github.com/edenleung/think-permission) 
 - [开源的家庭自动化系统，将本地控制和隐私放在首位home-assistant.io](https://github.com/home-assistant/home-assistant) 
