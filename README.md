@@ -181,6 +181,7 @@
 ### March 6, 2020 
 - [记录Laravel中模型的更改日志](https://github.com/owen-it/laravel-auditing) 
 - [Rust 编程语言中文版](https://github.com/linuxaged/rust_book_zh) 
+- [自美智能系统是基于树莓派、Python、HTML5、PHP、微信小程序打造出的一款物联网人工智能系统 ](https://github.com/drbdrb/zimei) 
 ### March 5, 2020 
 - [能直接在hyperf框架中使用jwt的组件.](https://github.com/phper666/jwt-auth) 
 - [Oxygen Core HTML5游戏引擎的Rust实现](https://github.com/PsichiX/Oxygengine) 
