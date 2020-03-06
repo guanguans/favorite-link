@@ -180,6 +180,7 @@
 
 ### March 6, 2020 
 - [记录Laravel中模型的更改日志](https://github.com/owen-it/laravel-auditing) 
+- [Rust 编程语言中文版](https://github.com/linuxaged/rust_book_zh) 
 ### March 5, 2020 
 - [能直接在hyperf框架中使用jwt的组件.](https://github.com/phper666/jwt-auth) 
 - [Oxygen Core HTML5游戏引擎的Rust实现](https://github.com/PsichiX/Oxygengine) 
