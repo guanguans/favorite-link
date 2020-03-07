@@ -194,6 +194,7 @@
 - [一个免费，灵活，功能强大的工具，可帮助您监视PHP服务和分析PHP代码。](https://github.com/laynefyc/php-monitor) 
 - [一个免费、易用、强大的PHP服务监控工具。帮助开发者监控PHP服务，分析PHP性能。](https://github.com/laynefyc/php-monitor/blob/master/README-zh_CN.md) 
 - [anti-AD是目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护。现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole等优秀的网络组件。](https://github.com/privacy-protection-tools/anti-AD) 
+- [Laravel易于本地化](https://github.com/mcamara/laravel-localization) 
 ### March 6, 2020 
 - [记录Laravel中模型的更改日志](https://github.com/owen-it/laravel-auditing) 
 - [Rust 编程语言中文版](https://github.com/linuxaged/rust_book_zh) 
