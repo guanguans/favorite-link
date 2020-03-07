@@ -192,6 +192,7 @@
 - [Mac上将视频转换为高质量的GIF文件](https://github.com/sindresorhus/Gifski) 
 - [使用CLI中的speedtest.net测试Internet连接速度和ping](https://github.com/sindresorhus/speed-test) 
 - [一个免费，灵活，功能强大的工具，可帮助您监视PHP服务和分析PHP代码。](https://github.com/laynefyc/php-monitor) 
+- [一个免费、易用、强大的PHP服务监控工具。帮助开发者监控PHP服务，分析PHP性能。](https://github.com/laynefyc/php-monitor/blob/master/README-zh_CN.md) 
 ### March 6, 2020 
 - [记录Laravel中模型的更改日志](https://github.com/owen-it/laravel-auditing) 
 - [Rust 编程语言中文版](https://github.com/linuxaged/rust_book_zh) 
