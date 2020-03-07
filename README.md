@@ -190,6 +190,7 @@
 - [Docker+Consul+Hyperf 搭建 PHP 微服务集群](https://github.com/Jochen-z/php-microservice-demo) 
 - [🚀Fiber是一种使用Go编写的，受Go启发的Express框架Web框架.](https://github.com/gofiber/fiber) 
 - [Mac上将视频转换为高质量的GIF文件](https://github.com/sindresorhus/Gifski) 
+- [使用CLI中的speedtest.net测试Internet连接速度和ping](https://github.com/sindresorhus/speed-test) 
 ### March 6, 2020 
 - [记录Laravel中模型的更改日志](https://github.com/owen-it/laravel-auditing) 
 - [Rust 编程语言中文版](https://github.com/linuxaged/rust_book_zh) 
