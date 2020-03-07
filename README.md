@@ -182,6 +182,7 @@
 ### March 7, 2020 
 - [V免签PHP修改版 pay.dreamn.cn](https://github.com/dreamncn/VPay) 
 - [V免签PHP版 完全开源免费的个人免签约解决方案](https://github.com/szvone/vmqphp) 
+- [V免签 完全开源免费的个人免签约解决方案](https://github.com/szvone/Vmq) 
 ### March 6, 2020 
 - [记录Laravel中模型的更改日志](https://github.com/owen-it/laravel-auditing) 
 - [Rust 编程语言中文版](https://github.com/linuxaged/rust_book_zh) 
