@@ -182,6 +182,7 @@
 
 ### March 8, 2020 
 - [laravel-admin 登录添加验证](https://github.com/xiaoxuan6/login-captcha) 
+- [通过缓存整个响应来加速Laravel应用](https://github.com/spatie/laravel-responsecache) 
 ### March 7, 2020 
 - [V免签PHP修改版 pay.dreamn.cn](https://github.com/dreamncn/VPay) 
 - [V免签PHP版 完全开源免费的个人免签约解决方案](https://github.com/szvone/vmqphp) 
