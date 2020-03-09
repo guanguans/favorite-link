@@ -187,6 +187,7 @@
 - [与框架无关的PHP库，用于构建聊天机器人](https://github.com/botman/botman) 
 - [Laravel N + 1查询检测器](https://github.com/beyondcode/laravel-query-detector) 
 - [Laravel N + 1查询检测器通过减少执行的查询数量来帮助您提高应用程序的性能。 在您开发应用程序时，此软件包可实时监视您的查询，并在您应添加急切加载（N + 1个查询）时通知您。](https://github.com/beyondcode/laravel-query-detector) 
+- [一个 Transmission 浏览器管理界面。](https://github.com/ronggang/transmission-web-control) 
 ### March 8, 2020 
 - [laravel-admin 登录添加验证](https://github.com/xiaoxuan6/login-captcha) 
 - [通过缓存整个响应来加速Laravel应用](https://github.com/spatie/laravel-responsecache) 
