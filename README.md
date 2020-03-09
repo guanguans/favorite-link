@@ -190,6 +190,7 @@
 - [一个 Transmission 浏览器管理界面。](https://github.com/ronggang/transmission-web-control) 
 - [PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。](https://github.com/ronggang/PT-Plugin-Plus) 
 - [适用于macOS的React Native是使用Cocoa编写桌面应用程序的实验性分支](https://github.com/ptmt/react-native-macos) 
+- [高考古诗文默写结构化题库 ](https://github.com/Binkic/Reciter) 
 ### March 8, 2020 
 - [laravel-admin 登录添加验证](https://github.com/xiaoxuan6/login-captcha) 
 - [通过缓存整个响应来加速Laravel应用](https://github.com/spatie/laravel-responsecache) 
