@@ -188,6 +188,7 @@
 - [基于Hyperf的composer私有仓库](https://github.com/chunhei2008/packagist) 
 - [CTF 工具集合](https://github.com/ctf-wiki/ctf-tools) 
 - [PHP库，可打印到与ESC / POS兼容的热敏打印机](https://github.com/mike42/escpos-php) 
+- [Laravel软件包可以在开发过程中以其他用户的身份轻松登录。](https://github.com/viacreative/sudo-su) 
 ### March 10, 2020 
 - [Go编写的微型BitTorrent客户端](https://github.com/veggiedefender/torrent-client) 
 - [FFmpeg API的Swift包装器](https://github.com/sunlubo/SwiftFFmpeg) 
