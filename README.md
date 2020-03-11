@@ -189,6 +189,7 @@
 - [CTF 工具集合](https://github.com/ctf-wiki/ctf-tools) 
 - [PHP库，可打印到与ESC / POS兼容的热敏打印机](https://github.com/mike42/escpos-php) 
 - [Laravel软件包可以在开发过程中以其他用户的身份轻松登录。](https://github.com/viacreative/sudo-su) 
+- [通过ActiveRecord多态关联将不同类型的动作（如❤️，Follow👁，Star⭐，Block等）存储在一个表中。](https://github.com/yiier/yii2-action-store) 
 ### March 10, 2020 
 - [Go编写的微型BitTorrent客户端](https://github.com/veggiedefender/torrent-client) 
 - [FFmpeg API的Swift包装器](https://github.com/sunlubo/SwiftFFmpeg) 
