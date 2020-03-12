@@ -189,6 +189,7 @@
 - [Omnipay是面向PHP的与框架无关的多网关付款处理库。 该软件包实现了对Omnipay的支付宝支持。](https://github.com/lokielse/omnipay-alipay) 
 - [分布式事务NoSQL数据库，使用tikv作为后端兼容Redis协议](https://github.com/yongman/tidis) 
 - [毫不费力地为您的Laravel项目创建一个PHP 7.4 Preload脚本。](https://github.com/DarkGhostHunter/Laraload) 
+- [适用于PHP的Google Cloud Translation](https://github.com/googleapis/google-cloud-php-translate) 
 ### March 11, 2020 
 - [ThinkPHP6注解](https://github.com/top-think/think-annotation) 
 - [基于Hyperf的composer私有仓库](https://github.com/chunhei2008/packagist) 
