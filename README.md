@@ -186,6 +186,7 @@
 
 ### March 12, 2020 
 - [记录PHP面试包括计算机网路，操作系统，PHP，redis，数据库MySQL（从2019年12月开始）面试了好未来，跟谁学，头条，极客保险，百度文库，百度知道等等公司。](https://github.com/disxo/PHP-interview-myway) 
+- [Omnipay是面向PHP的与框架无关的多网关付款处理库。 该软件包实现了对Omnipay的支付宝支持。](https://github.com/lokielse/omnipay-alipay) 
 ### March 11, 2020 
 - [ThinkPHP6注解](https://github.com/top-think/think-annotation) 
 - [基于Hyperf的composer私有仓库](https://github.com/chunhei2008/packagist) 
