@@ -194,6 +194,7 @@
 - [Laravel样板项目](https://github.com/rappasoft/laravel-boilerplate) 
 - [百度AI开放平台 PHP SDK](https://github.com/Baidu-AIP/php-sdk) 
 - [为苹果电脑提供NTFS读写支持的一款免费软件](https://github.com/ntfstool/ntfstool/blob/master/README-CN.md) 
+- [AkShare是用于人类的Python优雅而简单的财务数据接口库！ akshare.readthedocs.io](https://github.com/jindaxiang/akshare/) 
 ### March 12, 2020 
 - [记录PHP面试包括计算机网路，操作系统，PHP，redis，数据库MySQL（从2019年12月开始）面试了好未来，跟谁学，头条，极客保险，百度文库，百度知道等等公司。](https://github.com/disxo/PHP-interview-myway) 
 - [Omnipay是面向PHP的与框架无关的多网关付款处理库。 该软件包实现了对Omnipay的支付宝支持。](https://github.com/lokielse/omnipay-alipay) 
