@@ -185,6 +185,9 @@
 
 
 
+
+### March 15, 2020 
+- [LessPass是一个开源密码管理器。 为任何网站或服务生成复杂，安全的密码，而无需保存！](https://github.com/lesspass/lesspass) 
 ### March 13, 2020 
 - [基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城。](https://github.com/stavyan/TinyShop-UniApp) 
 - [一款基于 RageFrame2 的免费开源的基础销售功能的微商城](https://github.com/jianyan74/TinyShop) 
