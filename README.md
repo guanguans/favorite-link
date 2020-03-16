@@ -197,6 +197,7 @@
 - [单点登录系统 http://www.baigo.net/sso](https://github.com/baigoStudio/baigoSSO) 
 - [bre sabre / event库提供实用程序，用于基于事件的轻量级编程](https://github.com/sabre-io/event) 
 - [一个PHP快速CGI客户端，用于将请求（a）同步发送到PHP-FPM](https://github.com/hollodotme/fast-cgi-client) 
+- [pt-query-digest - MySQL慢查询分析工具](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html) 
 ### March 15, 2020 
 - [LessPass是一个开源密码管理器。 为任何网站或服务生成复杂，安全的密码，而无需保存！](https://github.com/lesspass/lesspass) 
 - [yar-swoole server](https://github.com/stcer/syar) 
