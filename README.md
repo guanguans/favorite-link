@@ -195,6 +195,7 @@
 - [微信支付 APIv3 Guzzle HTTP Client中间件（middleware）](https://github.com/wechatpay-apiv3/wechatpay-guzzle-middleware) 
 - [将PHP 7代码转换为PHP 5代码](https://github.com/spatie/7to5) 
 - [单点登录系统 http://www.baigo.net/sso](https://github.com/baigoStudio/baigoSSO) 
+- [bre sabre / event库提供实用程序，用于基于事件的轻量级编程](https://github.com/sabre-io/event) 
 ### March 15, 2020 
 - [LessPass是一个开源密码管理器。 为任何网站或服务生成复杂，安全的密码，而无需保存！](https://github.com/lesspass/lesspass) 
 - [yar-swoole server](https://github.com/stcer/syar) 
