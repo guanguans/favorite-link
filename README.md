@@ -197,6 +197,7 @@
 - [资产探测工具，检测存活，检测风险端口，常规端口，全端口探测等等，对探测的端口的脆弱面进行安全分析进行](https://github.com/JE2Se/AssetScan) 
 - [通过设计稿一键智能生成视图代码 ](https://github.com/taofed/imgcook) 
 - [快速配置并开发基于yii2的api服务](https://github.com/deepziyu/yii2-fast-api) 
+- [快速配置并开发基于yii2的api服务](https://gitee.com/lizhenju/yii2-fast-api) 
 ### March 16, 2020 
 - [在GitHub Actions中缓存依赖项并构建输出](https://github.com/actions/cache) 
 - [Webcodesk-Web应用程序生成器](https://github.com/webcodesk/webcodesk-srv) 
