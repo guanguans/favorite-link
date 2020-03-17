@@ -198,6 +198,7 @@
 - [通过设计稿一键智能生成视图代码 ](https://github.com/taofed/imgcook) 
 - [快速配置并开发基于yii2的api服务](https://github.com/deepziyu/yii2-fast-api) 
 - [快速配置并开发基于yii2的api服务](https://gitee.com/lizhenju/yii2-fast-api) 
+- [需要有一个夸克区块链的全节点，并且同步到最新区块链。](https://github.com/chenjia404/qk-php-sdk) 
 ### March 16, 2020 
 - [在GitHub Actions中缓存依赖项并构建输出](https://github.com/actions/cache) 
 - [Webcodesk-Web应用程序生成器](https://github.com/webcodesk/webcodesk-srv) 
