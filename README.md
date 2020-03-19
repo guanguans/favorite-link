@@ -194,6 +194,7 @@
 - [Laravel 上微信小程序登录、接口 guard 快速配置骨架](https://github.com/xiaohuilam/laravel-wxapp-login) 
 - [gitmoji交互式命令行工具，用于在提交时使用表情符号。](https://github.com/carloscuesta/gitmoji-cli) 
 - [gitmoji交互式命令行工具，用于在提交时使用表情符号。 💻](https://github.com/carloscuesta/gitmoji-cli) 
+- [ThriftSQL.phar存档旨在为PHP提供对Hadoop框架上SQL的访问。它将精简包和各种服务包捆绑在一起，并公开了一个通用接口，用于在各种框架上运行查询。](https://github.com/Automattic/php-thrift-sql) 
 ### March 18, 2020 
 - [在会话中记住访客的原始引荐来源。 引荐来源为（最高优先级优先）：](https://github.com/spatie/laravel-referer) 
 - [GitHub用于执行远程ssh命令的操作。](https://github.com/appleboy/ssh-action) 
