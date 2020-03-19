@@ -189,6 +189,9 @@
 
 
 
+
+### March 19, 2020 
+- [Laravel 上微信小程序登录、接口 guard 快速配置骨架](https://github.com/xiaohuilam/laravel-wxapp-login) 
 ### March 18, 2020 
 - [在会话中记住访客的原始引荐来源。 引荐来源为（最高优先级优先）：](https://github.com/spatie/laravel-referer) 
 - [GitHub用于执行远程ssh命令的操作。](https://github.com/appleboy/ssh-action) 
