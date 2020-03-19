@@ -197,6 +197,7 @@
 - [ThriftSQL.phar存档旨在为PHP提供对Hadoop框架上SQL的访问。它将精简包和各种服务包捆绑在一起，并公开了一个通用接口，用于在各种框架上运行查询。](https://github.com/Automattic/php-thrift-sql) 
 - [Apache hadoop管理系统](https://github.com/xianglei/easyhadoop) 
 - [Apache Hive管理系统](https://github.com/xianglei/phpHiveAdmin) 
+- [Base64 URL安全编码/解码PHP库](https://github.com/Spomky-Labs/base64url) 
 ### March 18, 2020 
 - [在会话中记住访客的原始引荐来源。 引荐来源为（最高优先级优先）：](https://github.com/spatie/laravel-referer) 
 - [GitHub用于执行远程ssh命令的操作。](https://github.com/appleboy/ssh-action) 
