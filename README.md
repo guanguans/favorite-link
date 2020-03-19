@@ -199,6 +199,7 @@
 - [Apache Hive管理系统](https://github.com/xianglei/phpHiveAdmin) 
 - [Base64 URL安全编码/解码PHP库](https://github.com/Spomky-Labs/base64url) 
 - [（未维护）实时Redis监视工具](https://github.com/junegunn/redis-stat) 
+- [🇨🇳翻译: <gitmoji-cli> 一个gitmoji交互式客户端,用于在`提交消息-commit`上使用 gitmojis. ❤️ 校对 ✅](https://github.com/chinanf-boy/gitmoji-cli-zh) 
 ### March 18, 2020 
 - [在会话中记住访客的原始引荐来源。 引荐来源为（最高优先级优先）：](https://github.com/spatie/laravel-referer) 
 - [GitHub用于执行远程ssh命令的操作。](https://github.com/appleboy/ssh-action) 
