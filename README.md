@@ -193,6 +193,7 @@
 
 ### March 20, 2020 
 - [用于Laravel的简单，安全的魔术登录链接生成器](https://github.com/grosv/laravel-passwordless-login) 
+- [用于Laravel的快速Excel导入/导出](https://github.com/rap2hpoutre/fast-excel) 
 ### March 19, 2020 
 - [Laravel 上微信小程序登录、接口 guard 快速配置骨架](https://github.com/xiaohuilam/laravel-wxapp-login) 
 - [gitmoji交互式命令行工具，用于在提交时使用表情符号。](https://github.com/carloscuesta/gitmoji-cli) 
