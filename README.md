@@ -202,6 +202,7 @@
 - [药方 Yet Another Weibo Filter 用户脚本，微博过滤和版面改造等 ](https://github.com/tiansh/yawf) 
 - [药方 Yet Another Weibo Filter 用户脚本，微博过滤和版面改造等 ](https://github.com/tiansh/yawf) 
 - [计划任务 for thinkphp5](https://github.com/yunwuxin/think-cron) 
+- [适配于 yii 的支付扩展包](https://github.com/guanguans/yii-pay) 
 ### March 19, 2020 
 - [Laravel 上微信小程序登录、接口 guard 快速配置骨架](https://github.com/xiaohuilam/laravel-wxapp-login) 
 - [gitmoji交互式命令行工具，用于在提交时使用表情符号。](https://github.com/carloscuesta/gitmoji-cli) 
