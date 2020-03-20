@@ -196,6 +196,7 @@
 - [用于Laravel的快速Excel导入/导出](https://github.com/rap2hpoutre/fast-excel) 
 - [今日头条机器人，支持用户登陆、关注、取消关注、获取关注粉丝、发文、发悟空问答、点赞、评论、采集各种类型新闻讯息等，使用今日头条网页版API实现](https://github.com/01ly/TTBot) 
 - [Office Anywhere网络智能办公系统](https://github.com/jas502n/OA-tongda-RCE) 
+- [API接口大全](https://github.com/iqiqiya/iqiqiya-API) 
 ### March 19, 2020 
 - [Laravel 上微信小程序登录、接口 guard 快速配置骨架](https://github.com/xiaohuilam/laravel-wxapp-login) 
 - [gitmoji交互式命令行工具，用于在提交时使用表情符号。](https://github.com/carloscuesta/gitmoji-cli) 
