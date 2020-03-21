@@ -194,6 +194,7 @@
 
 ### March 21, 2020 
 - [Rangine项目的框架库](https://github.com/we7coreteam/w7-rangine) 
+- [最近帮朋友的公司部署了一套分流+水印的直播系统](https://github.com/ar414-com/nginx-rtmp-ffmpeg-conf) 
 ### March 20, 2020 
 - [用于Laravel的简单，安全的魔术登录链接生成器](https://github.com/grosv/laravel-passwordless-login) 
 - [用于Laravel的快速Excel导入/导出](https://github.com/rap2hpoutre/fast-excel) 
