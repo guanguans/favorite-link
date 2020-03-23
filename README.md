@@ -199,6 +199,7 @@
 - [CRX Extractor下载并提取Chrome扩展程序及其源代码](https://github.com/vladignatyev/crx-extractor) 
 - [分布式高性能监控系统](https://github.com/didi/nightingale) 
 - [rust design patterns](https://github.com/lpxxn/rust-design-pattern) 
+- [An HTTP library for Rust](https://github.com/hyperium/hyper) 
 ### March 21, 2020 
 - [Rangine项目的框架库](https://github.com/we7coreteam/w7-rangine) 
 - [最近帮朋友的公司部署了一套分流+水印的直播系统](https://github.com/ar414-com/nginx-rtmp-ffmpeg-conf) 
