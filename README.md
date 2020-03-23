@@ -195,6 +195,7 @@
 
 ### March 23, 2020 
 - [执信学生会信息化办公平台 开源项目](https://github.com/zhxsu/SUsage) 
+- [🚔通用限速器实施。](https://github.com/nikolaposa/rate-limit) 
 ### March 21, 2020 
 - [Rangine项目的框架库](https://github.com/we7coreteam/w7-rangine) 
 - [最近帮朋友的公司部署了一套分流+水印的直播系统](https://github.com/ar414-com/nginx-rtmp-ffmpeg-conf) 
