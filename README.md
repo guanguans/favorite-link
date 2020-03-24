@@ -201,6 +201,7 @@
 - [使用Go编程语言为Google Cloud编写的示例应用和代码。](https://github.com/GoogleCloudPlatform/golang-samples) 
 - [第三方支付类库！包含支付宝，wxpay，bdpay](https://github.com/zwxhenu/EasyPayment) 
 - [一个用于表示和操作集合的PHP 7.2+库。](https://github.com/ramsey/collection) 
+- [C＃Apache Kafka客户端](https://github.com/ah-/rdkafka-dotnet) 
 ### March 23, 2020 
 - [执信学生会信息化办公平台 开源项目](https://github.com/zhxsu/SUsage) 
 - [🚔通用限速器实施。](https://github.com/nikolaposa/rate-limit) 
