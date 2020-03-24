@@ -196,6 +196,7 @@
 
 ### March 24, 2020 
 - [防病毒规避项目](https://github.com/Ch0pin/AVIator) 
+- [在几秒钟内在Laravel应用程序中创建基于类的模型工厂。](https://github.com/lukeraymonddowning/poser) 
 ### March 23, 2020 
 - [执信学生会信息化办公平台 开源项目](https://github.com/zhxsu/SUsage) 
 - [🚔通用限速器实施。](https://github.com/nikolaposa/rate-limit) 
