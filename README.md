@@ -197,6 +197,7 @@
 
 ### March 25, 2020 
 - [百度网盘下载器，2020百度网盘高速下载](https://github.com/pdown2020/pdown) 
+- [通过Artisan快速运行一些代码](https://github.com/spatie/laravel-artisan-dd) 
 ### March 24, 2020 
 - [防病毒规避项目](https://github.com/Ch0pin/AVIator) 
 - [在几秒钟内在Laravel应用程序中创建基于类的模型工厂。](https://github.com/lukeraymonddowning/poser) 
