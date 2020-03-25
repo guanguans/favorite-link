@@ -201,6 +201,7 @@
 - [[api接口自动验证和swagger接口文档生成] 组件](https://github.com/kakuilan/hyperf-apihelper) 
 - [Laravel stubs ](https://github.com/spatie/laravel-stubs) 
 - [《领域驱动设计》中文翻译 ](https://github.com/gdut-yy/Domain-Driven-Design-zh) 
+- [用于自动macOS机器设置的Shell脚本。](https://github.com/bkuhlmann/mac_os) 
 ### March 24, 2020 
 - [防病毒规避项目](https://github.com/Ch0pin/AVIator) 
 - [在几秒钟内在Laravel应用程序中创建基于类的模型工厂。](https://github.com/lukeraymonddowning/poser) 
