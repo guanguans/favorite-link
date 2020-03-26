@@ -204,6 +204,7 @@
 - [Laravel Migrations Generator：从现有数据库架构自动生成您的迁移。](https://github.com/kitloong/laravel-migrations-generator) 
 - [Gravity Programming Language](https://github.com/marcobambini/gravity) 
 - [基于laravel的工作流项目](https://github.com/Clago/workflow) 
+- [Symfony应用程序的两因素身份验证](https://github.com/scheb/two-factor-bundle) 
 ### March 25, 2020 
 - [百度网盘下载器，2020百度网盘高速下载](https://github.com/pdown2020/pdown) 
 - [通过Artisan快速运行一些代码](https://github.com/spatie/laravel-artisan-dd) 
