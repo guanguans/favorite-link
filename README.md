@@ -202,6 +202,7 @@
 - [夸克区块链的区块浏览器](https://github.com/chain-chat-org/qkiscan) 
 - [PHP开源的一文多发平台（支持开源中国、简书、知乎、博客园、CSDN、SegmentFault）](https://github.com/ellermister/QuickBlog) 
 - [QuickBooks对PHP 5.x +的集成支持](https://github.com/consolibyte/quickbooks-php) 
+- [Hprose是一种跨语言的RPC。 该项目是Hprose 2.0 for PHP](https://github.com/hprose/hprose-php) 
 ### March 27, 2020 
 - [使用PHP将HTML转换为Markdown](https://github.com/thephpleague/html-to-markdown) 
 - [PHP中的自然语言处理工具](https://github.com/angeloskath/php-nlp-tools) 
