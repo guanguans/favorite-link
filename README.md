@@ -207,6 +207,7 @@
 - [PHP FoundationDB驱动器](https://github.com/viest/PHP-FoundationDB) 
 - [具有自动完成功能和语法突出显示功能的Postgres CLI](https://github.com/dbcli/pgcli) 
 - [梁少峰的个人博客](https://github.com/youngwind/blog) 
+- [通过比较composer.lock和git HEAD，查看运行composer更新后哪些软件包已更改。](https://github.com/davidrjonas/composer-lock-diff) 
 ### March 27, 2020 
 - [使用PHP将HTML转换为Markdown](https://github.com/thephpleague/html-to-markdown) 
 - [PHP中的自然语言处理工具](https://github.com/angeloskath/php-nlp-tools) 
