@@ -205,6 +205,7 @@
 - [Hprose是一种跨语言的RPC。 该项目是Hprose 2.0 for PHP](https://github.com/hprose/hprose-php) 
 - [创建具有测试，整理，工作流，发布和版本控制的JavaScript Action](https://github.com/actions/javascript-action) 
 - [PHP FoundationDB驱动器](https://github.com/viest/PHP-FoundationDB) 
+- [具有自动完成功能和语法突出显示功能的Postgres CLI](https://github.com/dbcli/pgcli) 
 ### March 27, 2020 
 - [使用PHP将HTML转换为Markdown](https://github.com/thephpleague/html-to-markdown) 
 - [PHP中的自然语言处理工具](https://github.com/angeloskath/php-nlp-tools) 
