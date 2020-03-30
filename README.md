@@ -205,6 +205,7 @@
 - [网络枚举和攻击工具集](https://github.com/m8r0wn/ActiveReign) 
 - [BlackHole是现代的macOS虚拟音频驱动程序，允许应用程序以零附加延迟将音频传递到其他应用程序。](https://github.com/ExistentialAudio/BlackHole) 
 - [我在Go中解决了100多个流行的LeetCode问题。](https://github.com/austingebauer/go-leetcode) 
+- [用golang编写的非常快速的UUID替代](https://github.com/edwingeng/wuid) 
 ### March 29, 2020 
 - [夸克区块链的区块浏览器](https://github.com/chain-chat-org/qkiscan) 
 - [PHP开源的一文多发平台（支持开源中国、简书、知乎、博客园、CSDN、SegmentFault）](https://github.com/ellermister/QuickBlog) 
