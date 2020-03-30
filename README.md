@@ -211,6 +211,7 @@
 - [Laravel框架的购物车实现](https://github.com/darryldecode/laravelshoppingcart) 
 - [go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】](https://github.com/link1st/go-stress-testing) 
 - [为刚刚学习php语言以及web网站开发整理的一套资源，有视频，实战代码，学习路径等。](https://github.com/threadshare/php) 
+- [个人在线发卡系统，高效安全的发卡平台](https://github.com/Tai7sy/card-system) 
 ### March 29, 2020 
 - [夸克区块链的区块浏览器](https://github.com/chain-chat-org/qkiscan) 
 - [PHP开源的一文多发平台（支持开源中国、简书、知乎、博客园、CSDN、SegmentFault）](https://github.com/ellermister/QuickBlog) 
