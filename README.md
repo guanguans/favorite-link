@@ -198,6 +198,9 @@
 
 
 
+
+### March 30, 2020 
+- [Audacity是一种易于使用的多轨音频编辑器和记录器，适用于Windows，Mac OS X，GNU / Linux和其他操作系统。](https://github.com/audacity/audacity) 
 ### March 29, 2020 
 - [夸克区块链的区块浏览器](https://github.com/chain-chat-org/qkiscan) 
 - [PHP开源的一文多发平台（支持开源中国、简书、知乎、博客园、CSDN、SegmentFault）](https://github.com/ellermister/QuickBlog) 
