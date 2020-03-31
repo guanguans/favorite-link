@@ -217,6 +217,7 @@
 - [游戏程序员的学习途径](https://github.com/miloyip/game-programmer) 
 - [显而易见，XBlock框架就是从页面区块入手，将一个页面分成不同的区块，进行封装，继而可以进行区块的复用与继承,提高开发速度。 区块可以是一张数据表格、一个表单、或者是一个统计图等等任何的表现形式。](https://github.com/yysel/xblock-kernel) 
 - [Composer插件，用于将模块和配置提供程序注入应用程序配置](https://github.com/laminas/laminas-component-installer) 
+- [基于discuz数据库用laravel实现的论坛前端](https://github.com/xcaptain/discuz_laravel) 
 ### March 30, 2020 
 - [Audacity是一种易于使用的多轨音频编辑器和记录器，适用于Windows，Mac OS X，GNU / Linux和其他操作系统。](https://github.com/audacity/audacity) 
 - [A web framework for Rust. ](https://github.com/SergioBenitez/Rocket) 
