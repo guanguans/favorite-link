@@ -209,6 +209,7 @@
 - [汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识](https://github.com/aalansehaiyang/technology-talk) 
 - [Build + push官方Docker GitHub动作](https://github.com/docker/build-push-action) 
 - [PHP静态站点生成器](https://github.com/spress/spress) 
+- [资源观察器，用于使用Symfony Finder获取文件系统的更改](https://github.com/yosymfony/resource-watcher) 
 ### March 30, 2020 
 - [Audacity是一种易于使用的多轨音频编辑器和记录器，适用于Windows，Mac OS X，GNU / Linux和其他操作系统。](https://github.com/audacity/audacity) 
 - [A web framework for Rust. ](https://github.com/SergioBenitez/Rocket) 
