@@ -206,6 +206,7 @@
 - [PHP的数组操作扩展。](https://github.com/CismonX/ext-collections) 
 - [适用于C / C ++的嵌入式JavaScript引擎](https://github.com/cesanta/mjs) 
 - [适用于嵌入式系统和智能IoT设备的成熟的跨平台窗口和GUI系统](https://github.com/VincentWei/minigui) 
+- [汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识](https://github.com/aalansehaiyang/technology-talk) 
 ### March 30, 2020 
 - [Audacity是一种易于使用的多轨音频编辑器和记录器，适用于Windows，Mac OS X，GNU / Linux和其他操作系统。](https://github.com/audacity/audacity) 
 - [A web framework for Rust. ](https://github.com/SergioBenitez/Rocket) 
