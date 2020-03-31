@@ -215,6 +215,7 @@
 - [这里整理了图形学相关的高校课程、书籍、教程、文章、博客、资源、开源项目。](https://github.com/FancyVin/fun-with-graphics) 
 - [MongoDB的Go驱动程序](https://github.com/mongodb/mongo-go-driver) 
 - [游戏程序员的学习途径](https://github.com/miloyip/game-programmer) 
+- [显而易见，XBlock框架就是从页面区块入手，将一个页面分成不同的区块，进行封装，继而可以进行区块的复用与继承,提高开发速度。 区块可以是一张数据表格、一个表单、或者是一个统计图等等任何的表现形式。](https://github.com/yysel/xblock-kernel) 
 ### March 30, 2020 
 - [Audacity是一种易于使用的多轨音频编辑器和记录器，适用于Windows，Mac OS X，GNU / Linux和其他操作系统。](https://github.com/audacity/audacity) 
 - [A web framework for Rust. ](https://github.com/SergioBenitez/Rocket) 
