@@ -207,6 +207,7 @@
 - [API文档生成器](https://github.com/FriendsOfPHP/Sami) 
 - [PHP扩展安装程序](https://github.com/FriendsOfPHP/pickle) 
 - [🌟 V2Ray Linux / Windows / macOS 跨平台 GUI 🔨 使用 C++17 / Qt5 ，支持订阅，扫描二维码，支持自定义路由编辑 🌟](https://github.com/Qv2ray/Qv2ray) 
+- [使用 Qt 框架的跨平台 v2ray 客户端。支持 Windows, Linux, macOS。](https://github.com/Qv2ray/Qv2ray) 
 ### March 31, 2020 
 - [基于 Hyperf 实现的 多租户（根据 RequestId 区分数据库）骨架包](https://github.com/limingxinleo/tenant-skeleton) 
 - [跨平台异步I / O](https://github.com/libuv/libuv) 
