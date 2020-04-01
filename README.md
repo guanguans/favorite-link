@@ -203,6 +203,7 @@
 
 ### April 1, 2020 
 - [GitHub用于发布Slack消息的操作](https://github.com/abinoda/slack-action) 
+- [Go语言库，用于SVG生成](https://github.com/ajstarks/svgo) 
 ### March 31, 2020 
 - [基于 Hyperf 实现的 多租户（根据 RequestId 区分数据库）骨架包](https://github.com/limingxinleo/tenant-skeleton) 
 - [跨平台异步I / O](https://github.com/libuv/libuv) 
