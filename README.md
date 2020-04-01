@@ -209,6 +209,7 @@
 - [🌟 V2Ray Linux / Windows / macOS 跨平台 GUI 🔨 使用 C++17 / Qt5 ，支持订阅，扫描二维码，支持自定义路由编辑 🌟](https://github.com/Qv2ray/Qv2ray) 
 - [使用 Qt 框架的跨平台 v2ray 客户端。支持 Windows, Linux, macOS。](https://github.com/Qv2ray/Qv2ray) 
 - [类酸酸乳订阅源聚合 - 我们不生产类酸酸乳，我们只是大自然的拆迁工](https://github.com/nulastudio/Freedom) 
+- [阿里云Packagist镜像](https://github.com/aliyun/packagist-mirror) 
 ### March 31, 2020 
 - [基于 Hyperf 实现的 多租户（根据 RequestId 区分数据库）骨架包](https://github.com/limingxinleo/tenant-skeleton) 
 - [跨平台异步I / O](https://github.com/libuv/libuv) 
