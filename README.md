@@ -204,6 +204,7 @@
 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
+- [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
 ### April 1, 2020 
 - [GitHub用于发布Slack消息的操作](https://github.com/abinoda/slack-action) 
 - [Go语言库，用于SVG生成](https://github.com/ajstarks/svgo) 
