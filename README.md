@@ -206,6 +206,7 @@
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
 - [重新启动CLI进程，而不加载xdebug扩展名。](https://github.com/composer/xdebug-handler) 
+- [PHP部署工具](https://github.com/andres-montanez/Magallanes) 
 ### April 1, 2020 
 - [GitHub用于发布Slack消息的操作](https://github.com/abinoda/slack-action) 
 - [Go语言库，用于SVG生成](https://github.com/ajstarks/svgo) 
