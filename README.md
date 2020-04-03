@@ -217,6 +217,7 @@
 - [DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。](https://github.com/doramart/DoraCMS) 
 - [Node.js代理变得简单。 轻松配置代理中间件，以进行连接，表达，浏览器同步等等。](https://github.com/chimurai/http-proxy-middleware) 
 - [Alfred搜索建议各种流行网站的工作流程。](https://github.com/zqzten/alfred-web-search-suggest) 
+- [面向截止日期的前端开发人员的真实世界GraphQL教程！](https://github.com/hasura/learn-graphql) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
