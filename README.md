@@ -213,6 +213,7 @@
 - [Go语言编写的Apache Kafka的现代CLI。](https://github.com/birdayz/kaf) 
 - [超简图床/微博图床 ](https://github.com/szvone/imgApi) 
 - [流行品牌的SVG图标](https://github.com/simple-icons/simple-icons) 
+- [使用Laravel应用程序中的Markdown为您的产品编写精美的文档。](https://github.com/saleem-hadad/larecipe) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
