@@ -223,6 +223,7 @@
 - [支持面向方面的编程](https://github.com/rindow/rindow-aop) 
 - [php 设计模式：手写简洁版 laravel 框架、di、ioc、aop、pipeline](https://github.com/leeprince/my_pattern) 
 - [用于PHP的Guice样式依赖项注入框架](https://github.com/ray-di/Ray.Di) 
+- [PHP静态分析工具](https://github.com/phpmetrics/PhpMetrics) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
