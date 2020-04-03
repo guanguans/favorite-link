@@ -208,6 +208,7 @@
 - [用Swift编程语言编写的微型http服务器引擎。](https://github.com/httpswift/swifter) 
 - [Argo工作流程：使用Kubernetes完成工作。](https://github.com/argoproj/argo) 
 - [热修复、热更新、JS代码动态下发、动态创建类](https://github.com/yangyangFeng/TTPatch) 
+- [这是集中管理所有swoft核心组件的资源库](https://github.com/swoft-cloud/swoft-component) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
