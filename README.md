@@ -207,6 +207,7 @@
 - [『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型](https://github.com/PaddlePaddle/models) 
 - [用Swift编程语言编写的微型http服务器引擎。](https://github.com/httpswift/swifter) 
 - [Argo工作流程：使用Kubernetes完成工作。](https://github.com/argoproj/argo) 
+- [热修复、热更新、JS代码动态下发、动态创建类](https://github.com/yangyangFeng/TTPatch) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
