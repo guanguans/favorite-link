@@ -202,6 +202,9 @@
 
 
 
+
+### April 3, 2020 
+- [『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型](https://github.com/PaddlePaddle/models) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
