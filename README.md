@@ -220,6 +220,7 @@
 - [面向截止日期的前端开发人员的真实世界GraphQL教程！](https://github.com/hasura/learn-graphql) 
 - [为Symfony添加 AOP 面向切面 功能](https://github.com/schmittjoh/JMSAopBundle) 
 - [PHP的面向方面的框架](https://github.com/ray-di/Ray.Aop) 
+- [支持面向方面的编程](https://github.com/rindow/rindow-aop) 
 ### April 2, 2020 
 - [500 Lines or Less](https://github.com/aosabook/500lines) 
 - [监视node.js应用程序中的任何更改并自动重启服务器-非常适合开发http://nodemon.io](https://github.com/remy/nodemon) 
