@@ -210,6 +210,7 @@
 - [用于Go编程语言的Windows GUI工具包](https://github.com/lxn/walk) 
 - [用于CodeIgniter的Amazon S3库](https://github.com/psugand/CodeIgniter-S3) 
 - [打开图形图像即服务-为Twitter，Facebook，Slack等生成卡片](https://github.com/zeit/og-image) 
+- [Redis在Rust中重新实现。](https://github.com/seppo0010/rsedis) 
 ### April 3, 2020 
 - [『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型](https://github.com/PaddlePaddle/models) 
 - [用Swift编程语言编写的微型http服务器引擎。](https://github.com/httpswift/swifter) 
