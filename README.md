@@ -212,6 +212,7 @@
 - [打开图形图像即服务-为Twitter，Facebook，Slack等生成卡片](https://github.com/zeit/og-image) 
 - [Redis在Rust中重新实现。](https://github.com/seppo0010/rsedis) 
 - [在Mac上使用Redis的最简单方法](https://github.com/jpadilla/redisapp) 
+- [在Mac上开始使用MongoDB的最简单方法](https://github.com/gcollazo/mongodbapp) 
 ### April 3, 2020 
 - [『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型](https://github.com/PaddlePaddle/models) 
 - [用Swift编程语言编写的微型http服务器引擎。](https://github.com/httpswift/swifter) 
