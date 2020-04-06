@@ -209,6 +209,7 @@
 - [一款基于Laravel框架开发的现代化二次开发框架](https://github.com/kbdxbt/kbframe) 
 - [尝试使用PHP标准库](https://github.com/brick/std) 
 - [Wafer - 企业级微信小程序全栈方案 ](https://github.com/tencentyun/wafer-php-server-demo) 
+- [可以伪造大量Laravel外观/服务，例如带有Bus :: fake（）的Dispatcher，以帮助进行测试和声明。](https://github.com/timacdonald/log-fake) 
 ### April 4, 2020 
 - [适用于Next.js的零配置PWA插件，带有工作框🧰](https://github.com/shadowwalker/next-pwa) 
 - [GraphQL for Go / Golang的实现](https://github.com/graphql-go/graphql) 
