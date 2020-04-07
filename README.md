@@ -213,6 +213,7 @@
 - [微信/支付宝 官方个人支付接口、微信/支付宝 官方直连结算。非二维码收款，非第四方清算。个人用户可提交资料开通微信支付商户，完成对接](https://gitee.com/YunGouOS/YunGouOS-PAY-SDK/tree/master/YunGouOS-PHP-SDK) 
 - [极简和自以为是的Feed阅读器](https://github.com/miniflux/miniflux) 
 - [对于Notion，OneNote，Bear，Yuque，Joplin。将任何内容剪切到任何地方](https://github.com/webclipper/web-clipper) 
+- [OS X菜单栏状态指示灯](https://github.com/tonsky/AnyBar) 
 ### April 6, 2020 
 - [一款基于Laravel框架开发的现代化二次开发框架](https://github.com/kbdxbt/kbframe) 
 - [尝试使用PHP标准库](https://github.com/brick/std) 
