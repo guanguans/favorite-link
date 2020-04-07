@@ -214,6 +214,7 @@
 - [极简和自以为是的Feed阅读器](https://github.com/miniflux/miniflux) 
 - [对于Notion，OneNote，Bear，Yuque，Joplin。将任何内容剪切到任何地方](https://github.com/webclipper/web-clipper) 
 - [OS X菜单栏状态指示灯](https://github.com/tonsky/AnyBar) 
+- [适用于macOS的剪贴板扩展程序。](https://github.com/Clipy/Clipy) 
 ### April 6, 2020 
 - [一款基于Laravel框架开发的现代化二次开发框架](https://github.com/kbdxbt/kbframe) 
 - [尝试使用PHP标准库](https://github.com/brick/std) 
