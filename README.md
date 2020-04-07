@@ -217,6 +217,7 @@
 - [适用于macOS的剪贴板扩展程序。](https://github.com/Clipy/Clipy) 
 - [🚀 只需极少的代码即可快速构建出一个功能完善且颜值极高的后台系统。](https://github.com/jqhph/dcat-admin) 
 - [搭建出Chrome扩展程序](https://github.com/yeoman/generator-chrome-extension) 
+- [InfyOm Laravel生成器-API，支架，测试，CRUD Laravel生成器](https://github.com/InfyOmLabs/laravel-generator) 
 ### April 6, 2020 
 - [一款基于Laravel框架开发的现代化二次开发框架](https://github.com/kbdxbt/kbframe) 
 - [尝试使用PHP标准库](https://github.com/brick/std) 
