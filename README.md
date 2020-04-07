@@ -220,6 +220,7 @@
 - [InfyOm Laravel生成器-API，支架，测试，CRUD Laravel生成器](https://github.com/InfyOmLabs/laravel-generator) 
 - [Lar适用于Laravel的智能CRUD生成器](https://github.com/amranidev/scaffold-interface) 
 - [用于代码生成的Laravel组件](https://github.com/reliese/laravel) 
+- [Google Chromium，没有与Google集成](https://github.com/Eloston/ungoogled-chromium) 
 ### April 6, 2020 
 - [一款基于Laravel框架开发的现代化二次开发框架](https://github.com/kbdxbt/kbframe) 
 - [尝试使用PHP标准库](https://github.com/brick/std) 
