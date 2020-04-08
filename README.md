@@ -223,6 +223,7 @@
 - [扩展PHP反射功能的低级工具](https://github.com/brick/reflection) 
 - [PHP的任意精度算术库](https://github.com/brick/math) 
 - [var_export（）的强大替代品，可以导出闭包和对象而无需__set_state（）](https://github.com/brick/varexporter) 
+- [专业PHP应用程序的构建块](https://github.com/brick?type=source) 
 ### April 7, 2020 
 - [BitTorrent DHT协议和DHT蜘蛛。](https://github.com/shiyanhui/dht) 
 - [Flym News Reader是一款轻巧而现代的Android feed阅读器](https://github.com/FredJul/Flym) 
