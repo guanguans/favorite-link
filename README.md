@@ -212,6 +212,7 @@
 - [一个简单的RFC 4122 UUID缩短程序库。 将您的长36个字符的长ID更改为较短的等效字符。](https://github.com/mgrajcarek/uuid-shortener) 
 - [完整的生命周期管理API网关。](https://github.com/apioak/apioak) 
 - [php编写的高扩展的qq机器人类库](https://github.com/188700679/qqRobot) 
+- [QQRobot类库在thinkphp下使用](https://github.com/188700679/tp5_qqrobot) 
 ### April 7, 2020 
 - [BitTorrent DHT协议和DHT蜘蛛。](https://github.com/shiyanhui/dht) 
 - [Flym News Reader是一款轻巧而现代的Android feed阅读器](https://github.com/FredJul/Flym) 
