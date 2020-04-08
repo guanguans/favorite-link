@@ -215,6 +215,7 @@
 - [QQRobot类库在thinkphp下使用](https://github.com/188700679/tp5_qqrobot) 
 - [以使用Swagger 2.0自动生成RESTful API文档。](https://github.com/swaggo/gin-swagger) 
 - [Angular应用程序的静态网站生成器](https://github.com/scullyio/scully) 
+- [结巴中文分词](https://github.com/fxsjy/jieba) 
 ### April 7, 2020 
 - [BitTorrent DHT协议和DHT蜘蛛。](https://github.com/shiyanhui/dht) 
 - [Flym News Reader是一款轻巧而现代的Android feed阅读器](https://github.com/FredJul/Flym) 
