@@ -213,6 +213,7 @@
 - [适用于VS Code的更好的PHPUnit测试运行程序](https://github.com/calebporzio/better-phpunit) 
 - [在Laravel应用中使用单表继承](https://github.com/calebporzio/parental) 
 - [simple一个简单，轻巧和高性能的PHP协程框架。](https://github.com/simple-swoole/simps) 
+- [涵盖了大部分的反爬策略的封锁原理以及对应的解决方案](https://github.com/wc110302/AntiCrawlerSolution) 
 ### April 8, 2020 
 - [小部件，可使用嵌套依赖项设置依赖项下拉列表（从yii2-widgets拆分子仓库）。](https://github.com/kartik-v/yii2-widget-depdrop) 
 - [一个简单的RFC 4122 UUID缩短程序库。 将您的长36个字符的长ID更改为较短的等效字符。](https://github.com/mgrajcarek/uuid-shortener) 
