@@ -219,6 +219,7 @@
 - [dePHPend有助于使PHP项目恢复正常。在一个项目的过程中，我们通常会不断添加越来越多的依赖项。通常隐藏在单例或服务定位器之后，这些依赖项可以很快成为维护（和测试！）噩梦。](https://github.com/mihaeu/dephpend) 
 - [通过扫描代码显示未使用的Composer依赖性](https://github.com/composer-unused/composer-unused) 
 - [🎵提供用于标准化composer.json的composer插件。](https://github.com/ergebnis/composer-normalize) 
+- [覆盖率检查器仅通过对新的/编辑的代码强制执行新标准，就可以逐步实施新标准。](https://github.com/exussum12/coverageChecker) 
 ### April 9, 2020 
 - [跨平台库用于发送桌面通知，警报和提示音](https://github.com/gen2brain/beeep) 
 - [适用于VS Code的更好的PHPUnit测试运行程序](https://github.com/calebporzio/better-phpunit) 
