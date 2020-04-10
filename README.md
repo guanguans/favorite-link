@@ -213,6 +213,7 @@
 - [Z-BlogPHP博客程序 ](https://github.com/zblogcn/zblogphp) 
 - [世界上最快，最先进的密码恢复实用程序](https://github.com/hashcat/hashcat) 
 - [轻量级模糊搜索，使用JavaScript](https://github.com/krisk/Fuse) 
+- [Deptrac是一个静态代码分析工具，可帮助强制执行PHP项目中软件层之间的依赖关系规则。](https://github.com/sensiolabs-de/deptrac) 
 ### April 9, 2020 
 - [跨平台库用于发送桌面通知，警报和提示音](https://github.com/gen2brain/beeep) 
 - [适用于VS Code的更好的PHPUnit测试运行程序](https://github.com/calebporzio/better-phpunit) 
