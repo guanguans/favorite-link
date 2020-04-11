@@ -214,6 +214,7 @@
 - [ThinkPHP Jwt 扩展包](https://github.com/friendsofthinkphp/think-jwt) 
 - [从Docker容器，然后从本地配置，再从Internet解决DNS主机](https://github.com/mageddo/dns-proxy-server) 
 - [Dropbox JavaScript SDK](https://github.com/dropbox/dropbox-sdk-js) 
+- [一堆链接到博客文章，文章，视频等，用于学习Rust](https://github.com/ctjhoa/rust-learning) 
 ### April 10, 2020 
 - [Z-BlogPHP博客程序 ](https://github.com/zblogcn/zblogphp) 
 - [世界上最快，最先进的密码恢复实用程序](https://github.com/hashcat/hashcat) 
