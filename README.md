@@ -216,6 +216,7 @@
 - [Dropbox JavaScript SDK](https://github.com/dropbox/dropbox-sdk-js) 
 - [一堆链接到博客文章，文章，视频等，用于学习Rust](https://github.com/ctjhoa/rust-learning) 
 - [Prometheus Redis指标导出器。](https://github.com/oliver006/redis_exporter) 
+- [漂亮的git仓库合作者按贡献排序。](https://github.com/casperdcl/git-fame) 
 ### April 10, 2020 
 - [Z-BlogPHP博客程序 ](https://github.com/zblogcn/zblogphp) 
 - [世界上最快，最先进的密码恢复实用程序](https://github.com/hashcat/hashcat) 
