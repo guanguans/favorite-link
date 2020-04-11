@@ -224,6 +224,7 @@
 - [🤓建立自己的技术](https://github.com/danistefanovic/build-your-own-x) 
 - [没有框架自举的现代PHP应用程序的示例。](https://github.com/kevinsmith/no-framework) 
 - [FuelPHP是一个快速，轻量级的PHP 5.4框架。](https://github.com/fuelphp/fuelphp) 
+- [FuelPHP v1.x是一个简单，灵活，由社区驱动的PHP 5.3+框架](https://github.com/fuel/fuel) 
 ### April 10, 2020 
 - [Z-BlogPHP博客程序 ](https://github.com/zblogcn/zblogphp) 
 - [世界上最快，最先进的密码恢复实用程序](https://github.com/hashcat/hashcat) 
