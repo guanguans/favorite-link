@@ -210,6 +210,9 @@
 
 
 
+
+### April 12, 2020 
+- [基于ThinkPHP 6.0 的 Lin CMS 后端实现](https://github.com/LazySkills/lin-cms-tp6) 
 ### April 11, 2020 
 - [ThinkPHP Jwt 扩展包](https://github.com/friendsofthinkphp/think-jwt) 
 - [从Docker容器，然后从本地配置，再从Internet解决DNS主机](https://github.com/mageddo/dns-proxy-server) 
