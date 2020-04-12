@@ -215,6 +215,7 @@
 - [基于ThinkPHP 6.0 的 Lin CMS 后端实现](https://github.com/LazySkills/lin-cms-tp6) 
 - [如果你还未使用或者正想使用数据库迁移功能，但又不并不想自己写迁移文件的话，这个工具可以很好的帮助实现文件迁移， 目前提供了 Laravel5.5+ 和 Thinkphp6+ 的迁移文件的生成。](https://github.com/yanwenwu/migration-generator) 
 - [一款优雅的博客系统](https://github.com/inbjo/CoreBlog) 
+- [🎥命令行视频播放器](https://github.com/mpv-player/mpv) 
 ### April 11, 2020 
 - [ThinkPHP Jwt 扩展包](https://github.com/friendsofthinkphp/think-jwt) 
 - [从Docker容器，然后从本地配置，再从Internet解决DNS主机](https://github.com/mageddo/dns-proxy-server) 
