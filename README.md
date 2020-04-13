@@ -214,6 +214,7 @@
 
 ### April 13, 2020 
 - [UEditor 是一套开源的在线HTML编辑器，主要用于让用户在网站上获得所见即所得编辑效果，开发人员可以用 UEditor 把传统的多行文本输入框(textarea)替换为可视化的富文本输入框。](https://github.com/moxuandi/yii2-ueditor) 
+- [UEditor for Yii2](https://github.com/BigKuCha/yii2-ueditor-widget) 
 ### April 12, 2020 
 - [基于ThinkPHP 6.0 的 Lin CMS 后端实现](https://github.com/LazySkills/lin-cms-tp6) 
 - [如果你还未使用或者正想使用数据库迁移功能，但又不并不想自己写迁移文件的话，这个工具可以很好的帮助实现文件迁移， 目前提供了 Laravel5.5+ 和 Thinkphp6+ 的迁移文件的生成。](https://github.com/yanwenwu/migration-generator) 
