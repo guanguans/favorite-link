@@ -219,6 +219,7 @@
 - [快速重写git存储库历史记录（过滤器分支替换）](https://github.com/newren/git-filter-repo) 
 - [GoRequest-简化的HTTP客户端（受nodejs SuperAgent的启发）](https://github.com/parnurzeal/gorequest) 
 - [Onedrive的列表索引和管理器。 可以部署到heroku / SCF / normal空间。](https://github.com/qkqpttgf/OneManager-php) 
+- [Thinkphp3/5 Log文件泄漏利用工具](https://github.com/whirlwind110/tphack) 
 ### April 13, 2020 
 - [UEditor 是一套开源的在线HTML编辑器，主要用于让用户在网站上获得所见即所得编辑效果，开发人员可以用 UEditor 把传统的多行文本输入框(textarea)替换为可视化的富文本输入框。](https://github.com/moxuandi/yii2-ueditor) 
 - [UEditor for Yii2](https://github.com/BigKuCha/yii2-ueditor-widget) 
