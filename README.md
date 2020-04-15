@@ -219,6 +219,7 @@
 - [主动推送Hexo博客新链接至百度搜索引擎，解决百度爬虫被禁止访问的问题，提升网站收录质量和速度。](https://github.com/huiwang/hexo-baidu-url-submit) 
 - [☁️Live重新加载Go应用程序](https://github.com/cosmtrek/air) 
 - [Dibi-智能数据库抽象层](https://github.com/dg/dibi) 
+- [登陆 滑动验证插件 多平台支持](https://github.com/asundust/auth-captcha) 
 ### April 14, 2020 
 - [ThinkPHP5/6省市区(县)街道四级联动扩展 ](https://github.com/yupoxiong/region) 
 - [ThinkPHP5/6省市区(县)街道四级联动扩展](https://github.com/yupoxiong/region) 
