@@ -213,6 +213,9 @@
 
 
 
+
+### April 15, 2020 
+- [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn) 
 ### April 14, 2020 
 - [ThinkPHP5/6省市区(县)街道四级联动扩展 ](https://github.com/yupoxiong/region) 
 - [ThinkPHP5/6省市区(县)街道四级联动扩展](https://github.com/yupoxiong/region) 
