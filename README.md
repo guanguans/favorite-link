@@ -222,6 +222,7 @@
 - [一个用php和woole编写的开源云剪贴板程序。 剪贴板](https://github.com/ZeroDream-CN/Cloud-ClipBoard) 
 - [无须人为干预，自动部署 Gitee Pages](https://github.com/yanglbme/gitee-pages-action) 
 - [使用Tokio的Redis客户端和服务器实现不完整](https://github.com/tokio-rs/mini-redis) 
+- [iOS适用于iOS，Android和Windows应用程序的自动化。](https://github.com/appium/appium) 
 ### April 15, 2020 
 - [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn) 
 - [主动推送Hexo博客新链接至百度搜索引擎，解决百度爬虫被禁止访问的问题，提升网站收录质量和速度。](https://github.com/huiwang/hexo-baidu-url-submit) 
