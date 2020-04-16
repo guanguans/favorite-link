@@ -223,6 +223,7 @@
 - [无须人为干预，自动部署 Gitee Pages](https://github.com/yanglbme/gitee-pages-action) 
 - [使用Tokio的Redis客户端和服务器实现不完整](https://github.com/tokio-rs/mini-redis) 
 - [iOS适用于iOS，Android和Windows应用程序的自动化。](https://github.com/appium/appium) 
+- [全新hyperf的后台管理系统,基于jwt权限验证，已实现菜单/API/细粒度权限认证管控。前端基于d2admin的vue后台管理系统](https://github.com/lphkxd/hyperf-admin) 
 ### April 15, 2020 
 - [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn) 
 - [主动推送Hexo博客新链接至百度搜索引擎，解决百度爬虫被禁止访问的问题，提升网站收录质量和速度。](https://github.com/huiwang/hexo-baidu-url-submit) 
