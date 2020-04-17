@@ -219,6 +219,7 @@
 ### April 17, 2020 
 - [使用特定版本的deno设置GitHub Actions工作流程](https://github.com/denolib/setup-deno) 
 - [Laravel plugin for Auth0](https://github.com/auth0/laravel-auth0) 
+- [git-bug是一个错误跟踪器，它可以：  完全嵌入git中：您只需要git存储库即可拥有错误跟踪器  分布式：使用普通的git远程进行协作，推送和拉出bug！](https://github.com/MichaelMure/git-bug) 
 ### April 16, 2020 
 - [ipinfo.io服务的包装器。](https://github.com/DavidePastore/ipinfo) 
 - [Linfo PHP服务器运行状况](https://github.com/jrgp/linfo) 
