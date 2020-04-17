@@ -218,6 +218,7 @@
 
 ### April 17, 2020 
 - [使用特定版本的deno设置GitHub Actions工作流程](https://github.com/denolib/setup-deno) 
+- [Laravel plugin for Auth0](https://github.com/auth0/laravel-auth0) 
 ### April 16, 2020 
 - [ipinfo.io服务的包装器。](https://github.com/DavidePastore/ipinfo) 
 - [Linfo PHP服务器运行状况](https://github.com/jrgp/linfo) 
