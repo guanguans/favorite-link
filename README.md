@@ -221,6 +221,7 @@
 - [Laravel plugin for Auth0](https://github.com/auth0/laravel-auth0) 
 - [git-bug是一个错误跟踪器，它可以：  完全嵌入git中：您只需要git存储库即可拥有错误跟踪器  分布式：使用普通的git远程进行协作，推送和拉出bug！](https://github.com/MichaelMure/git-bug) 
 - [pocsuite3是由Knownsec 404团队开发的开源远程漏洞测试框架。](https://github.com/knownsec/pocsuite3) 
+- [渗透测试平台](https://github.com/jeffzh3ng/fuxi) 
 ### April 16, 2020 
 - [ipinfo.io服务的包装器。](https://github.com/DavidePastore/ipinfo) 
 - [Linfo PHP服务器运行状况](https://github.com/jrgp/linfo) 
