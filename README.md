@@ -223,6 +223,7 @@
 - [pocsuite3是由Knownsec 404团队开发的开源远程漏洞测试框架。](https://github.com/knownsec/pocsuite3) 
 - [渗透测试平台](https://github.com/jeffzh3ng/fuxi) 
 - [渗透测试平台](https://github.com/jeffzh3ng/fuxi) 
+- [适配于 Yii 的 alipay 和 wechat 的支付扩展包](https://github.com/guanguans/yii-pay) 
 ### April 16, 2020 
 - [ipinfo.io服务的包装器。](https://github.com/DavidePastore/ipinfo) 
 - [Linfo PHP服务器运行状况](https://github.com/jrgp/linfo) 
