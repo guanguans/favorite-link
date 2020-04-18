@@ -220,6 +220,7 @@
 ### April 18, 2020 
 - [适用于Windows和Mac的免费开源SQL客户端](https://github.com/plotly/falcon) 
 - [Laravel使用Laravel构建的Forge监控。](https://github.com/laravel/forge-monitor) 
+- [官方AMP插件，由AMP团队支持。 AMP以前是加速的移动页面，可在移动设备和台式机上实现出色的体验。](https://github.com/ampproject/amp-wp) 
 ### April 17, 2020 
 - [使用特定版本的deno设置GitHub Actions工作流程](https://github.com/denolib/setup-deno) 
 - [Laravel plugin for Auth0](https://github.com/auth0/laravel-auth0) 
