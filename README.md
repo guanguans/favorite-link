@@ -224,6 +224,7 @@
 - [使用GitHub动作从百度的网络磁盘下载文件并将其转发给电报。](https://github.com/lz233/FuckBaiduPCS) 
 - [Laravel Web推送通知演示](https://github.com/cretueusebiu/laravel-web-push-demo) 
 - [Bash 教程](https://github.com/wangdoc/bash-tutorial) 
+- [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md) 
 ### April 17, 2020 
 - [使用特定版本的deno设置GitHub Actions工作流程](https://github.com/denolib/setup-deno) 
 - [Laravel plugin for Auth0](https://github.com/auth0/laravel-auth0) 
