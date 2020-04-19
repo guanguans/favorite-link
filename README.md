@@ -220,6 +220,7 @@
 
 ### April 19, 2020 
 - [Quasar Framework-在创纪录的时间内构建高性能的VueJS用户界面](https://github.com/quasarframework/quasar) 
+- [GitHub创建GitHub版本的动作](https://github.com/softprops/action-gh-release) 
 ### April 18, 2020 
 - [适用于Windows和Mac的免费开源SQL客户端](https://github.com/plotly/falcon) 
 - [Laravel使用Laravel构建的Forge监控。](https://github.com/laravel/forge-monitor) 
