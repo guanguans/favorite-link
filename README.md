@@ -218,6 +218,9 @@
 
 
 
+
+### April 20, 2020 
+- [Pyodide通过WebAssembly将Python运行时与浏览器一起带到浏览器，包括NumPy，Pandas，Matplotlib，SciPy的一部分和NetworkX。](https://github.com/iodide-project/pyodide) 
 ### April 19, 2020 
 - [Quasar Framework-在创纪录的时间内构建高性能的VueJS用户界面](https://github.com/quasarframework/quasar) 
 - [GitHub创建GitHub版本的动作](https://github.com/softprops/action-gh-release) 
