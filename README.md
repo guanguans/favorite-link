@@ -219,6 +219,9 @@
 
 
 
+
+### April 21, 2020 
+- [Composer插件将脚本部分中的占位符替换为动态值](https://github.com/villfa/composer-substitution-plugin) 
 ### April 20, 2020 
 - [Pyodide通过WebAssembly将Python运行时与浏览器一起带到浏览器，包括NumPy，Pandas，Matplotlib，SciPy的一部分和NetworkX。](https://github.com/iodide-project/pyodide) 
 - [世界上最简单的Python和命令行面部识别api](https://github.com/ageitgey/face_recognition) 
