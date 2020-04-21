@@ -226,6 +226,7 @@
 - [天涯 kkndme 神贴聊房价](https://github.com/shenzhengfang/kkndme_tianya) 
 - [通过GitHub Actions部署任意静态资产](https://github.com/maxheld83/ghpages) 
 - [GitHub页面的GitHub操作🚀部署静态文件并轻松发布您的网站。 静态站点生成器友好。](https://github.com/peaceiris/actions-gh-pages) 
+- [用于链接检查存储库Markdown和HTML文件的GitHub动作](https://github.com/peter-evans/link-checker) 
 ### April 20, 2020 
 - [Pyodide通过WebAssembly将Python运行时与浏览器一起带到浏览器，包括NumPy，Pandas，Matplotlib，SciPy的一部分和NetworkX。](https://github.com/iodide-project/pyodide) 
 - [世界上最简单的Python和命令行面部识别api](https://github.com/ageitgey/face_recognition) 
