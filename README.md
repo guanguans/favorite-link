@@ -225,6 +225,7 @@
 - [⚡通过扫描QR码在不离开终端的情况下通过wifi将文件从计算机传输到移动设备。](https://github.com/claudiodangelis/qrcp) 
 - [ssh p2p隧道服务器和客户端](https://github.com/nobonobo/ssh-p2p) 
 - [在桌面上实现javascript应用程序的框架](https://github.com/styfle/awesome-desktop-js) 
+- [超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过测验、过视频。](https://github.com/ZhyMC/chaoxing-xuexitong-autoflush) 
 ### April 21, 2020 
 - [Composer插件将脚本部分中的占位符替换为动态值](https://github.com/villfa/composer-substitution-plugin) 
 - [从git commit消息中查找潜在的软件漏洞](https://github.com/cve-search/git-vuln-finder) 
