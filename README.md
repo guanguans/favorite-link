@@ -220,6 +220,9 @@
 
 
 
+
+### April 22, 2020 
+- [⚡通过扫描QR码在不离开终端的情况下通过wifi将文件从计算机传输到移动设备。](https://github.com/claudiodangelis/qrcp) 
 ### April 21, 2020 
 - [Composer插件将脚本部分中的占位符替换为动态值](https://github.com/villfa/composer-substitution-plugin) 
 - [从git commit消息中查找潜在的软件漏洞](https://github.com/cve-search/git-vuln-finder) 
