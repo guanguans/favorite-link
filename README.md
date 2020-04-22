@@ -227,6 +227,7 @@
 - [在桌面上实现javascript应用程序的框架](https://github.com/styfle/awesome-desktop-js) 
 - [超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过测验、过视频。](https://github.com/ZhyMC/chaoxing-xuexitong-autoflush) 
 - [Vitess是用于MySQL水平扩展的数据库集群系统。](https://github.com/vitessio/vitess) 
+- [基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能](https://github.com/flipped-aurora/gin-vue-admin) 
 ### April 21, 2020 
 - [Composer插件将脚本部分中的占位符替换为动态值](https://github.com/villfa/composer-substitution-plugin) 
 - [从git commit消息中查找潜在的软件漏洞](https://github.com/cve-search/git-vuln-finder) 
