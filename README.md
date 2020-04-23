@@ -226,6 +226,7 @@
 - [百度云网盘爬虫](https://github.com/gudegg/yunSpider) 
 - [适用于iOS的SSH和SFTP客户端](https://github.com/ColdGrub1384/Pisth) 
 - [v2ray-web-manager 是一个tls+ws+v2ray 一端口多用户的解决方案](https://github.com/master-coder-ll/v2ray-web-manager) 
+- [公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段](https://github.com/isee15/Lunar-Solar-Calendar-Converter) 
 ### April 22, 2020 
 - [⚡通过扫描QR码在不离开终端的情况下通过wifi将文件从计算机传输到移动设备。](https://github.com/claudiodangelis/qrcp) 
 - [ssh p2p隧道服务器和客户端](https://github.com/nobonobo/ssh-p2p) 
