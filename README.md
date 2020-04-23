@@ -229,6 +229,7 @@
 - [公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段](https://github.com/isee15/Lunar-Solar-Calendar-Converter) 
 - [illuminate / collections](https://github.com/illuminate/collections) 
 - [🍭 集合多个API的大文件传输工具.](https://github.com/Mikubill/transfer) 
+- [零依赖的SQL查询生成器](https://github.com/shadowhand/latitude) 
 ### April 22, 2020 
 - [⚡通过扫描QR码在不离开终端的情况下通过wifi将文件从计算机传输到移动设备。](https://github.com/claudiodangelis/qrcp) 
 - [ssh p2p隧道服务器和客户端](https://github.com/nobonobo/ssh-p2p) 
