@@ -225,6 +225,7 @@
 ### April 23, 2020 
 - [百度云网盘爬虫](https://github.com/gudegg/yunSpider) 
 - [适用于iOS的SSH和SFTP客户端](https://github.com/ColdGrub1384/Pisth) 
+- [v2ray-web-manager 是一个tls+ws+v2ray 一端口多用户的解决方案](https://github.com/master-coder-ll/v2ray-web-manager) 
 ### April 22, 2020 
 - [⚡通过扫描QR码在不离开终端的情况下通过wifi将文件从计算机传输到移动设备。](https://github.com/claudiodangelis/qrcp) 
 - [ssh p2p隧道服务器和客户端](https://github.com/nobonobo/ssh-p2p) 
