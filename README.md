@@ -231,6 +231,7 @@
 - [🍭 集合多个API的大文件传输工具.](https://github.com/Mikubill/transfer) 
 - [零依赖的SQL查询生成器](https://github.com/shadowhand/latitude) 
 - [阿里云开放搜索 laravel SDK](https://github.com/lingxi/ali-opensearch-sdk) 
+- [string manipulation](https://github.com/krasa/StringManipulation) 
 ### April 22, 2020 
 - [⚡通过扫描QR码在不离开终端的情况下通过wifi将文件从计算机传输到移动设备。](https://github.com/claudiodangelis/qrcp) 
 - [ssh p2p隧道服务器和客户端](https://github.com/nobonobo/ssh-p2p) 
