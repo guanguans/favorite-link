@@ -222,6 +222,9 @@
 
 
 
+
+### April 24, 2020 
+- [基于 thinkphp6.0 和 vue 的开发后台管理开发，解耦模块化，极易扩展](https://github.com/yanwenwu/catch-admin) 
 ### April 23, 2020 
 - [百度云网盘爬虫](https://github.com/gudegg/yunSpider) 
 - [适用于iOS的SSH和SFTP客户端](https://github.com/ColdGrub1384/Pisth) 
