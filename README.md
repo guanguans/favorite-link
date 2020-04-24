@@ -227,6 +227,7 @@
 - [基于 thinkphp6.0 和 vue 的开发后台管理开发，解耦模块化，极易扩展](https://github.com/yanwenwu/catch-admin) 
 - [仅使用静态JavaScript，HTML和CSS创建安全的私有Web应用程序。](https://github.com/encrypted-dev/userbase) 
 - [Pytorch优化程序集合](https://github.com/jettify/pytorch-optimizer) 
+- [Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式](https://github.com/Vanessa219/vditor) 
 ### April 23, 2020 
 - [百度云网盘爬虫](https://github.com/gudegg/yunSpider) 
 - [适用于iOS的SSH和SFTP客户端](https://github.com/ColdGrub1384/Pisth) 
