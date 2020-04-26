@@ -230,6 +230,7 @@
 - [PHP的货币库](https://github.com/brick/money) 
 - [Linux资源监控器](https://github.com/aristocratos/bashtop) 
 - [Yii 2迁移创建者和更新者](https://github.com/bizley/yii2-migration) 
+- [JavaScript工程项目的一系列最佳实践策略](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) 
 ### April 24, 2020 
 - [基于 thinkphp6.0 和 vue 的开发后台管理开发，解耦模块化，极易扩展](https://github.com/yanwenwu/catch-admin) 
 - [仅使用静态JavaScript，HTML和CSS创建安全的私有Web应用程序。](https://github.com/encrypted-dev/userbase) 
