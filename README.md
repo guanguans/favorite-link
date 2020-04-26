@@ -233,6 +233,7 @@
 - [JavaScript工程项目的一系列最佳实践策略](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) 
 - [阿里内容检测服务封装，包括垃圾文本、关键词文本检测以及对图片涉黄、暴恐、敏感检测](https://github.com/xiaoxuan6/aliyun-safe) 
 - [421页PDF 八卦汇总](https://github.com/yuanguangxin/421pdf) 
+- [这是高级网络钓鱼工具！ OTP钓鱼](https://github.com/Ignitetch/AdvPhishing) 
 ### April 24, 2020 
 - [基于 thinkphp6.0 和 vue 的开发后台管理开发，解耦模块化，极易扩展](https://github.com/yanwenwu/catch-admin) 
 - [仅使用静态JavaScript，HTML和CSS创建安全的私有Web应用程序。](https://github.com/encrypted-dev/userbase) 
