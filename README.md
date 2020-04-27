@@ -227,6 +227,7 @@
 
 ### April 27, 2020 
 - [Modlishka。 反向代理。](https://github.com/drk1wi/Modlishka) 
+- [基于Web调试代理的Electron＆Whistle](https://github.com/alibaba/lightproxy) 
 ### April 26, 2020 
 - [Repman是一个PHP存储库管理器](https://github.com/repman-io/repman) 
 - [开源在线 pastebin 粘贴数据的服务器](https://github.com/PrivateBin/PrivateBin) 
