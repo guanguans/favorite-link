@@ -233,6 +233,7 @@
 - [国密标准SM3的PHP实现](https://github.com/DongyunLee/SM3-PHP) 
 - [从零开始的 JSON 库教程](https://github.com/miloyip/json-tutorial) 
 - [Telegram Bot API](https://github.com/go-telegram-bot-api/telegram-bot-api) 
+- [Golang的HTTP客户端](https://github.com/monaco-io/request) 
 ### April 26, 2020 
 - [Repman是一个PHP存储库管理器](https://github.com/repman-io/repman) 
 - [开源在线 pastebin 粘贴数据的服务器](https://github.com/PrivateBin/PrivateBin) 
