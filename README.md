@@ -232,6 +232,7 @@
 - [确保Laravel（和Lumen）中事件与数据库事务之间的一致性](https://github.com/fntneves/laravel-transactional-events) 
 - [快速自动关键字提取算法（RAKE）的另一个PHP实现。](https://github.com/Donatello-za/rake-php-plus) 
 - [基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架](https://github.com/wenjianzhang/go-admin) 
+- [⚙️HTML所需的静态代码分析工具](https://github.com/htmlhint/HTMLHint) 
 ### April 27, 2020 
 - [Modlishka。 反向代理。](https://github.com/drk1wi/Modlishka) 
 - [基于Web调试代理的Electron＆Whistle](https://github.com/alibaba/lightproxy) 
