@@ -229,6 +229,7 @@
 ### April 29, 2020 
 - [Api Watch Dog, Hyperf 框架的 Api参数校验 和 swagger 生成组件](https://github.com/daodao97/apidog) 
 - [他妈的我终于能用谷歌搜中文了](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) 
+- [确保Laravel（和Lumen）中事件与数据库事务之间的一致性](https://github.com/fntneves/laravel-transactional-events) 
 ### April 27, 2020 
 - [Modlishka。 反向代理。](https://github.com/drk1wi/Modlishka) 
 - [基于Web调试代理的Electron＆Whistle](https://github.com/alibaba/lightproxy) 
