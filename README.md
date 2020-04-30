@@ -232,6 +232,7 @@
 - [使用Vue进行Chrome扩展开发的模板](https://github.com/ylfeng250/vue-crx) 
 - [让浏览任意语言的网站变得无比轻松的浏览器扩展程序。](https://github.com/lmk123/crx-selection-translate) 
 - [写给大家看的信息安全手册](https://github.com/u-u-z/information-security-for-everyone) 
+- [Laravel ZIP文件内容验证器](https://github.com/orkhanahmadov/laravel-zip-validator) 
 ### April 29, 2020 
 - [Api Watch Dog, Hyperf 框架的 Api参数校验 和 swagger 生成组件](https://github.com/daodao97/apidog) 
 - [他妈的我终于能用谷歌搜中文了](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) 
