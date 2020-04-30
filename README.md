@@ -226,6 +226,9 @@
 
 
 
+
+### April 30, 2020 
+- [🛠️一个样板，可使用Vue，webpack 4，ESLint等快速启动Web扩展！](https://github.com/Kocal/vue-web-extension) 
 ### April 29, 2020 
 - [Api Watch Dog, Hyperf 框架的 Api参数校验 和 swagger 生成组件](https://github.com/daodao97/apidog) 
 - [他妈的我终于能用谷歌搜中文了](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) 
