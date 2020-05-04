@@ -234,6 +234,7 @@
 - [👍 Vue.js 源码分析 ](https://github.com/ustbhuangyi/vue-analysis) 
 - [:octocat:Vue.js 源码解析](https://github.com/answershuto/learnVue) 
 - [咪咕MusicApi](https://github.com/jsososo/MiguMusicApi) 
+- [这是一款可以播放常见音频格式的音频播放器](https://github.com/zhongyang219/MusicPlayer2) 
 ### May 3, 2020 
 - [仅CSS库，用美丽的图案填充空的背景。](https://github.com/bansal-io/pattern.css) 
 - [为Yii Framework 2.0轻松构建表单（单个或表格）。](https://github.com/kartik-v/yii2-builder) 
