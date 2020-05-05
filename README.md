@@ -232,6 +232,7 @@
 
 ### May 5, 2020 
 - [Spatie的Nova套件的骨架存储库](https://github.com/spatie/skeleton-nova-tool) 
+- [将Node.js项目编译为一个文件。 支持TypeScript，二进制插件，动态需求。](https://github.com/zeit/ncc) 
 ### May 4, 2020 
 - [RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4](https://github.com/ireader/media-server) 
 - [👍 Vue.js 源码分析 ](https://github.com/ustbhuangyi/vue-analysis) 
