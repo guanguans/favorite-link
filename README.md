@@ -236,6 +236,7 @@
 - [红方人员作战执行手册](https://github.com/klionsec/RedTeamer) 
 - [Kunena是使用PHP编写的本地Joomla论坛和通信组件。 Kunena为Joomla基本网站启用论坛，公告板，支持论坛，讨论和评论。](https://github.com/Kunena/Kunena-Forum) 
 - [laravel5.5搭建的后台管理 和 api服务 的小程序商城](https://github.com/sqc157400661/XiaoTShop) 
+- [VScode 远程开发配置](https://github.com/php-enqueue/laravel-queue) 
 ### May 5, 2020 
 - [Spatie的Nova套件的骨架存储库](https://github.com/spatie/skeleton-nova-tool) 
 - [将Node.js项目编译为一个文件。 支持TypeScript，二进制插件，动态需求。](https://github.com/zeit/ncc) 
