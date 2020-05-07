@@ -239,6 +239,7 @@
 - [使用php开发的基于web的redis在线管理工具](https://github.com/void9main/SeeRedis) 
 - [PHPFuck：（[+。^]）/仅使用7个不同的字符来编写和执行php。](https://github.com/splitline/PHPFuck) 
 - [可以与任何Mac OS应用程序一起使用的可编程工具提示](https://github.com/tanin47/tip) 
+- [用于创建交互式cli应用程序的库。](https://github.com/abiosoft/ishell) 
 ### May 6, 2020 
 - [Dart的功能强大的Http客户端](https://github.com/flutterchina/dio) 
 - [红方人员作战执行手册](https://github.com/klionsec/RedTeamer) 
