@@ -234,6 +234,7 @@
 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
+- [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
 ### May 6, 2020 
 - [Dart的功能强大的Http客户端](https://github.com/flutterchina/dio) 
 - [红方人员作战执行手册](https://github.com/klionsec/RedTeamer) 
