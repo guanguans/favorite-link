@@ -232,6 +232,9 @@
 
 
 
+
+### May 8, 2020 
+- [这是与Laravel的Eloquent ORM一起使用的trait](https://github.com/yadakhov/insert-on-duplicate-key) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
