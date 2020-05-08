@@ -235,6 +235,7 @@
 
 ### May 8, 2020 
 - [这是与Laravel的Eloquent ORM一起使用的trait](https://github.com/yadakhov/insert-on-duplicate-key) 
+- [FileSaver.js是在客户端保存文件的解决方案，非常适合在客户端上生成文件的Web应用程序。](https://github.com/eligrey/FileSaver.js) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
