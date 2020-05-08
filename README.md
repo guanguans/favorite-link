@@ -242,6 +242,7 @@
 - [在日常开发中积累的110多个正则表达式](https://github.com/haizlin/h-regular) 
 - [一种新的可启动USB解决方案。](https://github.com/ventoy/Ventoy) 
 - [简单的工匠命令来监视触发的查询](https://github.com/supliu/laravel-query-monitor) 
+- [流量转发加速工具](https://github.com/esrrhs/pingtunnel) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
