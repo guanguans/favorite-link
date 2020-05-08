@@ -244,6 +244,7 @@
 - [简单的工匠命令来监视触发的查询](https://github.com/supliu/laravel-query-monitor) 
 - [流量转发加速工具](https://github.com/esrrhs/pingtunnel) 
 - [FreeScout —免费的自托管服务台和共享邮箱](https://github.com/freescout-helpdesk/freescout) 
+- [LZ-String javascript的PHP类实现](https://github.com/nullpunkt/lz-string-php) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
