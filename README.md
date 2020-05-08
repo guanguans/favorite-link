@@ -239,6 +239,7 @@
 - [在几分钟内将用户可自定义的全局键盘快捷键添加到您的macOS应用](https://github.com/sindresorhus/KeyboardShortcuts) 
 - [php-vips是针对PHP 7的libvips的绑定。](https://github.com/libvips/php-vips) 
 - [将pdf转换为图像](https://github.com/spatie/pdf-to-image) 
+- [在日常开发中积累的110多个正则表达式](https://github.com/haizlin/h-regular) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
