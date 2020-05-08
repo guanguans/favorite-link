@@ -238,6 +238,7 @@
 - [FileSaver.js是在客户端保存文件的解决方案，非常适合在客户端上生成文件的Web应用程序。](https://github.com/eligrey/FileSaver.js) 
 - [在几分钟内将用户可自定义的全局键盘快捷键添加到您的macOS应用](https://github.com/sindresorhus/KeyboardShortcuts) 
 - [php-vips是针对PHP 7的libvips的绑定。](https://github.com/libvips/php-vips) 
+- [将pdf转换为图像](https://github.com/spatie/pdf-to-image) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
