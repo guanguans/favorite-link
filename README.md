@@ -247,6 +247,7 @@
 - [LZ-String javascript的PHP类实现](https://github.com/nullpunkt/lz-string-php) 
 - [lz-string旨在满足在localStorage中（尤其是在移动设备上）存储大量数据的需求。 localStorage通常限制为5MB，您可以压缩的是可以存储的数据量更多。 如果要将存储的数据从/传输到php后端，则可以使用此库对数据进行编码。](https://github.com/nullpunkt/lz-string-php) 
 - [公共GraphQL API的汇总列表](https://github.com/APIs-guru/graphql-apis) 
+- [用PHP编写的Redis协议解析器/序列化器](https://github.com/clue/php-redis-protocol) 
 ### May 7, 2020 
 - [Codespaces - 您即时的开发环境](https://github.com/features/codespaces) 
 - [2600多所高校信息原始数据](https://github.com/vczero/serverless-colleage) 
