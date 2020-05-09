@@ -240,6 +240,7 @@
 - [全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android](https://github.com/mamoe/mirai) 
 - [验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码等主流验证码破解。](https://github.com/huaiyukeji/verification_code) 
 - [Docker Desktop for Mac 开启并使用 Kubernetes](https://github.com/gotok8s/k8s-docker-desktop-for-mac) 
+- [Laravel的多租户数据库架构管理器](https://github.com/orchestral/tenanti) 
 ### May 8, 2020 
 - [这是与Laravel的Eloquent ORM一起使用的trait](https://github.com/yadakhov/insert-on-duplicate-key) 
 - [FileSaver.js是在客户端保存文件的解决方案，非常适合在客户端上生成文件的Web应用程序。](https://github.com/eligrey/FileSaver.js) 
