@@ -236,6 +236,7 @@
 
 ### May 9, 2020 
 - [一个小的javascript库，可帮助您从网络上打印。](https://github.com/crabbly/Print.js) 
+- [穷B不买域名只改设备dns自嗨的一种方式](https://github.com/zjsxwc/pddns) 
 ### May 8, 2020 
 - [这是与Laravel的Eloquent ORM一起使用的trait](https://github.com/yadakhov/insert-on-duplicate-key) 
 - [FileSaver.js是在客户端保存文件的解决方案，非常适合在客户端上生成文件的Web应用程序。](https://github.com/eligrey/FileSaver.js) 
