@@ -248,6 +248,7 @@
 - [用于构建GitHub Apps的框架以自动化和改善您的工作流程](https://github.com/probot/probot) 
 - [用于解析字符串表情符号的正则表达式类](https://github.com/urakozz/php-emoji-regex) 
 - [对Yii 2 Detail View的各种增强，使其能够使用BS3编辑数据和管理样式。](https://github.com/kartik-v/yii2-detail-view) 
+- [基于yii2-redis会话。 可以通过用户身份ID删除用户的会话。 可以得到一个在线用户。](https://github.com/bscheshirwork/yii2-redis-session) 
 ### May 8, 2020 
 - [这是与Laravel的Eloquent ORM一起使用的trait](https://github.com/yadakhov/insert-on-duplicate-key) 
 - [FileSaver.js是在客户端保存文件的解决方案，非常适合在客户端上生成文件的Web应用程序。](https://github.com/eligrey/FileSaver.js) 
