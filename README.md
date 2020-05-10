@@ -244,6 +244,7 @@
 - [Laravel的主题和资产管理](https://github.com/Shipu/themevel) 
 - [Laravel的主题和资产管理](https://github.com/teepluss/laravel-theme) 
 - [Laravel的主题支持](https://github.com/igaster/laravel-theme) 
+- [用PHP编写的部署工具](https://github.com/automatephp/automate) 
 ### May 9, 2020 
 - [一个小的javascript库，可帮助您从网络上打印。](https://github.com/crabbly/Print.js) 
 - [穷B不买域名只改设备dns自嗨的一种方式](https://github.com/zjsxwc/pddns) 
