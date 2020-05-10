@@ -234,6 +234,9 @@
 
 
 
+
+### May 10, 2020 
+- [V免签 —— 个人开发者收款解决方案](https://github.com/szvone/vmqApk) 
 ### May 9, 2020 
 - [一个小的javascript库，可帮助您从网络上打印。](https://github.com/crabbly/Print.js) 
 - [穷B不买域名只改设备dns自嗨的一种方式](https://github.com/zjsxwc/pddns) 
