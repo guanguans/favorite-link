@@ -239,6 +239,7 @@
 - [V免签 —— 个人开发者收款解决方案](https://github.com/szvone/vmqApk) 
 - [用Lua编写的轻量级文本编辑器](https://github.com/rxi/lite) 
 - [package-skeleton-php Template](https://github.com/spatie/package-skeleton-php) 
+- [一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID原则](https://github.com/1024casts/snake) 
 ### May 9, 2020 
 - [一个小的javascript库，可帮助您从网络上打印。](https://github.com/crabbly/Print.js) 
 - [穷B不买域名只改设备dns自嗨的一种方式](https://github.com/zjsxwc/pddns) 
