@@ -240,6 +240,7 @@
 - [联迪笔记是一个开放源代码的桌面笔记应用程序，支持Windows，Mac和Linux。](https://github.com/88250/liandi) 
 - [yubikey-agent是YubiKeys的无缝ssh-agent。](https://github.com/FiloSottile/yubikey-agent) 
 - [Diff Match Patch是一种使用多种语言的高性能库，可以处理纯文本。](https://github.com/google/diff-match-patch) 
+- [更好用的 Aria2 Docker 容器镜像](https://github.com/P3TERX/docker-aria2-pro) 
 ### May 10, 2020 
 - [V免签 —— 个人开发者收款解决方案](https://github.com/szvone/vmqApk) 
 - [用Lua编写的轻量级文本编辑器](https://github.com/rxi/lite) 
