@@ -238,6 +238,7 @@
 
 ### May 11, 2020 
 - [联迪笔记是一个开放源代码的桌面笔记应用程序，支持Windows，Mac和Linux。](https://github.com/88250/liandi) 
+- [yubikey-agent是YubiKeys的无缝ssh-agent。](https://github.com/FiloSottile/yubikey-agent) 
 ### May 10, 2020 
 - [V免签 —— 个人开发者收款解决方案](https://github.com/szvone/vmqApk) 
 - [用Lua编写的轻量级文本编辑器](https://github.com/rxi/lite) 
