@@ -244,6 +244,7 @@
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
 - [Linter for Awesome lists](https://github.com/sindresorhus/awesome-lint) 
 - [用于aria2c下载任务管理的Chrome扩展程序](https://github.com/alexhua/Aria2-for-chrome) 
+- [Go Package Manager（gopm）是Go的软件包管理器和构建工具。](https://github.com/gpmgo/gopm) 
 ### May 10, 2020 
 - [V免签 —— 个人开发者收款解决方案](https://github.com/szvone/vmqApk) 
 - [用Lua编写的轻量级文本编辑器](https://github.com/rxi/lite) 
