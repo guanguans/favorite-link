@@ -246,6 +246,7 @@
 - [LiteIDE是一个简单的，开源的，跨平台的Go IDE。](https://github.com/visualfc/liteide) 
 - [LessQL：轻量级和高性能的PHP ORM替代品](https://github.com/morris/lessql) 
 - [所有平台上最小的仅标头GUI库（5 KLOC）](https://github.com/idea4good/GuiLite) 
+- [所有平台上最小的仅标头GUI库（5 KLOC）](https://github.com/idea4good/GuiLite) 
 ### May 11, 2020 
 - [联迪笔记是一个开放源代码的桌面笔记应用程序，支持Windows，Mac和Linux。](https://github.com/88250/liandi) 
 - [yubikey-agent是YubiKeys的无缝ssh-agent。](https://github.com/FiloSottile/yubikey-agent) 
