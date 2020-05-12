@@ -243,6 +243,7 @@
 - [您最喜欢的JavaScript单个LOC（代码行）是什么](https://github.com/phuoc-ng/1loc) 
 - [用于创建Laravel软件包的cli工具](https://github.com/Jeroen-G/laravel-packager) 
 - [此扩展将Draw.io集成到VS Code中。](https://github.com/hediet/vscode-drawio) 
+- [LiteIDE是一个简单的，开源的，跨平台的Go IDE。](https://github.com/visualfc/liteide) 
 ### May 11, 2020 
 - [联迪笔记是一个开放源代码的桌面笔记应用程序，支持Windows，Mac和Linux。](https://github.com/88250/liandi) 
 - [yubikey-agent是YubiKeys的无缝ssh-agent。](https://github.com/FiloSottile/yubikey-agent) 
