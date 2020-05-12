@@ -241,6 +241,7 @@
 - [GetBlockSubsidy](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp) 
 - [该软件包提供了一种轻量级的解决方案，可让Laravel应用程序租户感知。](https://github.com/spatie/laravel-multitenancy) 
 - [您最喜欢的JavaScript单个LOC（代码行）是什么](https://github.com/phuoc-ng/1loc) 
+- [用于创建Laravel软件包的cli工具](https://github.com/Jeroen-G/laravel-packager) 
 ### May 11, 2020 
 - [联迪笔记是一个开放源代码的桌面笔记应用程序，支持Windows，Mac和Linux。](https://github.com/88250/liandi) 
 - [yubikey-agent是YubiKeys的无缝ssh-agent。](https://github.com/FiloSottile/yubikey-agent) 
