@@ -243,6 +243,7 @@
 - [使用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
 - [Mailcoach是一个自托管的电子邮件列表管理器](https://github.com/spatie/Mailcoach) 
 - [跨域资源共享库和堆栈中间件。](https://github.com/asm89/stack-cors) 
+- [与JSON API规范配合使用的分页器](https://github.com/spatie/laravel-json-api-paginate) 
 ### May 12, 2020 
 - [GetBlockSubsidy](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp) 
 - [该软件包提供了一种轻量级的解决方案，可让Laravel应用程序租户感知。](https://github.com/spatie/laravel-multitenancy) 
