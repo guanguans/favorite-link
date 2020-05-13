@@ -246,6 +246,7 @@
 - [与JSON API规范配合使用的分页器](https://github.com/spatie/laravel-json-api-paginate) 
 - [直接在拉取请求中查看ESLint错误和警告。](https://github.com/hipstersmoothie/eslint-formatter-github) 
 - [一个golang Fastly API客户端库。](https://github.com/fastly/go-fastly) 
+- [📚 Go语法树入门](https://github.com/chai2010/go-ast-book) 
 ### May 12, 2020 
 - [GetBlockSubsidy](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp) 
 - [该软件包提供了一种轻量级的解决方案，可让Laravel应用程序租户感知。](https://github.com/spatie/laravel-multitenancy) 
