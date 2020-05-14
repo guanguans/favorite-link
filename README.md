@@ -246,6 +246,7 @@
 - [Golang基于DFA算法实现的敏感词过滤](https://github.com/antlinker/go-dirtyfilter) 
 - [⚡样板模板管理器，从模板存储库生成文件或目录](https://github.com/tmrts/boilr) 
 - [健康网站的基本指标。](https://github.com/GoogleChrome/web-vitals) 
+- [简单的gRPC基准测试和负载测试工具](https://github.com/bojand/ghz) 
 ### May 13, 2020 
 - [类似于cURL的人类工具](https://github.com/astaxie/bat) 
 - [使用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
