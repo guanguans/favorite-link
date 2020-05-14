@@ -243,6 +243,7 @@
 - [无所畏惧的重构，它会进行很多智能检查来发现某些错误。](https://github.com/imanghafoori1/laravel-microscope) 
 - [在Vue.js上为程序员提供的在线Markdown简历生成器！](https://github.com/1024-cool/markdown-resume) 
 - [⏰️使CRON表达式易于阅读](https://github.com/lorisleiva/cron-translator) 
+- [Golang基于DFA算法实现的敏感词过滤](https://github.com/antlinker/go-dirtyfilter) 
 ### May 13, 2020 
 - [类似于cURL的人类工具](https://github.com/astaxie/bat) 
 - [使用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
