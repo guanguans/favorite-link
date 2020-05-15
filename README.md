@@ -254,6 +254,7 @@
 - [用于Slack的Laravel集成，包括外墙和服务提供商。](https://github.com/jeremykenedy/slack-laravel) 
 - [这可能是Google reCAPTCHA v3最好的Laravel 5和6软件包。 支持Vue组件。](https://github.com/RyanDaDeng/laravel-google-recaptcha-v3) 
 - [vue-admin-beautiful是一款绝佳的前端开发框架（同时支持电脑，手机，平板）](https://github.com/chuzhixin/vue-admin-beautiful) 
+- [在laravel中插入批处理并更新批处理](https://github.com/mavinoo/laravelBatch) 
 ### May 14, 2020 
 - [无所畏惧的重构，它会进行很多智能检查来发现某些错误。](https://github.com/imanghafoori1/laravel-microscope) 
 - [在Vue.js上为程序员提供的在线Markdown简历生成器！](https://github.com/1024-cool/markdown-resume) 
