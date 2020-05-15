@@ -239,6 +239,9 @@
 
 
 
+
+### May 15, 2020 
+- [Deno 中文手册 ](https://github.com/Nugine/deno-manual-cn) 
 ### May 14, 2020 
 - [无所畏惧的重构，它会进行很多智能检查来发现某些错误。](https://github.com/imanghafoori1/laravel-microscope) 
 - [在Vue.js上为程序员提供的在线Markdown简历生成器！](https://github.com/1024-cool/markdown-resume) 
