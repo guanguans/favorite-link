@@ -252,6 +252,7 @@
 - [TcpRoute , TCP 层的路由器。对于 TCP 连接自动从多个线路(电信、联通、移动)、多个域名解析结果中选择最优线路。](https://github.com/GameXG/TcpRoute2) 
 - [Windows 下的提权大合集](https://github.com/lyshark/Windows-exploits) 
 - [用于Slack的Laravel集成，包括外墙和服务提供商。](https://github.com/jeremykenedy/slack-laravel) 
+- [这可能是Google reCAPTCHA v3最好的Laravel 5和6软件包。 支持Vue组件。](https://github.com/RyanDaDeng/laravel-google-recaptcha-v3) 
 ### May 14, 2020 
 - [无所畏惧的重构，它会进行很多智能检查来发现某些错误。](https://github.com/imanghafoori1/laravel-microscope) 
 - [在Vue.js上为程序员提供的在线Markdown简历生成器！](https://github.com/1024-cool/markdown-resume) 
