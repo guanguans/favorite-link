@@ -240,6 +240,9 @@
 
 
 
+
+### May 16, 2020 
+- [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。](https://github.com/nette/php-generator) 
 ### May 15, 2020 
 - [Deno 中文手册 ](https://github.com/Nugine/deno-manual-cn) 
 - [Fiber是一个基于Express的 Web框架，建立在Go语言写的 最快的FasthttpHTTP引擎的基础上。皆在简化 零内存分配和提高性能，以便快速开发。](https://github.com/gofiber/fiber/blob/master/.github/README_zh-CN.md) 
