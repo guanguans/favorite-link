@@ -246,6 +246,7 @@
 - [用于golang的模拟代码自动生成器](https://github.com/vektra/mockery) 
 - [跨平台Golang GUI库，与Lazarus LCL绑定。](https://github.com/ying32/govcl) 
 - [Mezon提供了满足您需求的简单路由类。](https://github.com/alexdodonov/mezon-router) 
+- [JSBox VSCode 插件的 cli 版本.](https://github.com/Dreamacro/jsbox-cli) 
 ### May 15, 2020 
 - [Deno 中文手册 ](https://github.com/Nugine/deno-manual-cn) 
 - [Fiber是一个基于Express的 Web框架，建立在Go语言写的 最快的FasthttpHTTP引擎的基础上。皆在简化 零内存分配和提高性能，以便快速开发。](https://github.com/gofiber/fiber/blob/master/.github/README_zh-CN.md) 
