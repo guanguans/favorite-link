@@ -246,6 +246,7 @@
 - [curd自动生成代码工具,可自动生成curd全套bean,model,controller](https://github.com/tioncico/curdAutomaticGeneration) 
 - [并行将多个工件上传到GitHub版本](https://github.com/tcnksm/ghr) 
 - [快速轻巧的WebGL游戏引擎](https://github.com/playcanvas/engine) 
+- [一种工具，用于在变量，文件夹和文件中刮擦公共github存储库以获取通用命名约定](https://github.com/adamtlangley/gitscraper) 
 ### May 16, 2020 
 - [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。](https://github.com/nette/php-generator) 
 - [用于golang的模拟代码自动生成器](https://github.com/vektra/mockery) 
