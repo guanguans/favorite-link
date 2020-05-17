@@ -247,6 +247,7 @@
 - [并行将多个工件上传到GitHub版本](https://github.com/tcnksm/ghr) 
 - [快速轻巧的WebGL游戏引擎](https://github.com/playcanvas/engine) 
 - [一种工具，用于在变量，文件夹和文件中刮擦公共github存储库以获取通用命名约定](https://github.com/adamtlangley/gitscraper) 
+- [命令行工具为支持PostgreSQL，MySQL，SQLite，Oracle和Microsoft SQL Server的SQL数据库生成惯用的Go代码](https://github.com/xo/xo) 
 ### May 16, 2020 
 - [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。](https://github.com/nette/php-generator) 
 - [用于golang的模拟代码自动生成器](https://github.com/vektra/mockery) 
