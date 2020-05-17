@@ -250,6 +250,7 @@
 - [命令行工具为支持PostgreSQL，MySQL，SQLite，Oracle和Microsoft SQL Server的SQL数据库生成惯用的Go代码](https://github.com/xo/xo) 
 - [“网址”传输助手，记载一下平时用到好的在线网址。](https://github.com/Echocipher/Resource-list) 
 - [Go的结构化日志记录包。](https://github.com/apex/log) 
+- [功能齐全且高度可配置的SFTP服务器](https://github.com/drakkan/sftpgo) 
 ### May 16, 2020 
 - [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。](https://github.com/nette/php-generator) 
 - [用于golang的模拟代码自动生成器](https://github.com/vektra/mockery) 
