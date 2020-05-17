@@ -241,6 +241,9 @@
 
 
 
+
+### May 17, 2020 
+- [curd自动生成代码工具,可自动生成curd全套bean,model,controller](https://github.com/tioncico/curdAutomaticGeneration) 
 ### May 16, 2020 
 - [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。](https://github.com/nette/php-generator) 
 - [用于golang的模拟代码自动生成器](https://github.com/vektra/mockery) 
