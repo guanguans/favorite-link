@@ -252,6 +252,7 @@
 - [Go的结构化日志记录包。](https://github.com/apex/log) 
 - [功能齐全且高度可配置的SFTP服务器](https://github.com/drakkan/sftpgo) 
 - [个推的PHP SDK，实现高可用、简用、自由使用的方式，实现个推官方的所有接口](https://github.com/fastgoo/getui-php) 
+- [个推官方提供的推送服务端API（PHP语言）](https://github.com/GetuiLaboratory/getui-pushapi-php-client) 
 ### May 16, 2020 
 - [for为您生成简洁的PHP代码。 支持新的PHP 7.4功能。](https://github.com/nette/php-generator) 
 - [用于golang的模拟代码自动生成器](https://github.com/vektra/mockery) 
