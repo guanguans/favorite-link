@@ -247,6 +247,7 @@
 - [顺畅开启CURL_HOOK协程化阿里云OSS](https://github.com/Reasno/swoole-aliyunoss-addon) 
 - [很棒的备忘单，适用于流行的编程语言，框架和开发工具。 ](https://github.com/LeCoupa/awesome-cheatsheets) 
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) 
+- [使用姓名首字母生成用户头像。](https://github.com/yohang88/letter-avatar) 
 ### May 17, 2020 
 - [curd自动生成代码工具,可自动生成curd全套bean,model,controller](https://github.com/tioncico/curdAutomaticGeneration) 
 - [并行将多个工件上传到GitHub版本](https://github.com/tcnksm/ghr) 
