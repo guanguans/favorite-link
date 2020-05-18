@@ -249,6 +249,7 @@
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) 
 - [使用姓名首字母生成用户头像。](https://github.com/yohang88/letter-avatar) 
 - [termui是一个基于termbox-go的跨平台且完全可自定义的终端仪表板和窗口小部件库。](https://github.com/gizak/termui) 
+- [gosx-notifier是一个Go框架，用于将桌面通知发送到OSX 10.8或更高版本](https://github.com/deckarep/Gosx-notifier) 
 ### May 17, 2020 
 - [curd自动生成代码工具,可自动生成curd全套bean,model,controller](https://github.com/tioncico/curdAutomaticGeneration) 
 - [并行将多个工件上传到GitHub版本](https://github.com/tcnksm/ghr) 
