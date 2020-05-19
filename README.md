@@ -253,6 +253,7 @@
 - [在Go中重启优雅进程](https://github.com/cloudflare/tableflip) 
 - [用GO做推送](https://github.com/owenliang/go-push) 
 - [判断一天是不是法定节假日/法定工作日（查看节假日安排）](https://github.com/LKI/chinese-calendar) 
+- [基于 Swoole 的一个异步队列库，可弹性伸缩的工作进程池，工作进程协程支持。](https://github.com/Littlesqx/aint-queue) 
 ### May 18, 2020 
 - [顺畅开启CURL_HOOK协程化阿里云OSS](https://github.com/Reasno/swoole-aliyunoss-addon) 
 - [很棒的备忘单，适用于流行的编程语言，框架和开发工具。 ](https://github.com/LeCoupa/awesome-cheatsheets) 
