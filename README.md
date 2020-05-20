@@ -253,6 +253,7 @@
 - [⚡️用于构建对话式用户界面的框架。](https://github.com/Yoctol/bottender) 
 - [与框架无关的PHP程序包控制时间。](https://github.com/rashidlaasri/travel) 
 - [Go的不需要模式的替代JSON解析器（到目前为止最快）](https://github.com/buger/jsonparser) 
+- [官方Windows软件包管理器CLI（又名winget）](https://github.com/microsoft/winget-cli) 
 ### May 19, 2020 
 - [Firefox / Chrome / Edge和CLI工具的Web扩展，可将整个网页的真实副本保存在单个HTML文件中](https://github.com/gildas-lormeau/SingleFile) 
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) 
