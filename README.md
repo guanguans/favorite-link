@@ -244,6 +244,9 @@
 
 
 
+
+### May 20, 2020 
+- [py2 / py3脚本可以直接从Apple下载macOS组件](https://github.com/corpnewt/gibMacOS) 
 ### May 19, 2020 
 - [Firefox / Chrome / Edge和CLI工具的Web扩展，可将整个网页的真实副本保存在单个HTML文件中](https://github.com/gildas-lormeau/SingleFile) 
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) 
