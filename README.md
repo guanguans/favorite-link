@@ -250,6 +250,7 @@
 - [使用远程图像注册中心-检索信息，图像，签名内容](https://github.com/containers/skopeo) 
 - [该工具将下载，安装和配置Chromium的闪亮新副本。](https://github.com/nccgroup/autochrome) 
 - [GitHound使用模式匹配，提交历史搜索和独特的结果评分系统来精确定位GitHub上公开的API密钥。](https://github.com/tillson/git-hound) 
+- [⚡️用于构建对话式用户界面的框架。](https://github.com/Yoctol/bottender) 
 ### May 19, 2020 
 - [Firefox / Chrome / Edge和CLI工具的Web扩展，可将整个网页的真实副本保存在单个HTML文件中](https://github.com/gildas-lormeau/SingleFile) 
 - [alertmanager-bot](https://github.com/metalmatze/alertmanager-bot) 
