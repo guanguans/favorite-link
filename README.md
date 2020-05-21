@@ -250,6 +250,7 @@
 - [Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。](https://github.com/p4gefau1t/trojan-go) 
 - [Pest是一个优雅的PHP测试框架，其重点是简单性](https://github.com/pestphp/pest) 
 - [✍️ D 的个人博客 - 全职做开源，自由职业者](https://github.com/88250/solo-blog) 
+- [用于Notion.so的非官方Go API](https://github.com/kjk/notionapi) 
 ### May 20, 2020 
 - [py2 / py3脚本可以直接从Apple下载macOS组件](https://github.com/corpnewt/gibMacOS) 
 - [使用远程图像注册中心-检索信息，图像，签名内容](https://github.com/containers/skopeo) 
