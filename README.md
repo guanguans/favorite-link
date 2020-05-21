@@ -256,6 +256,7 @@
 - [当我们在浏览器中输入www.google.com时，幕后会发生什么？](https://github.com/vasanthk/how-web-works) 
 - [iOS抖音风控加密算法的来龙去脉](https://github.com/shenydowa/deviceid-x-gorgon) 
 - [A️专用证书颁发机构（X.509和SSH）和ACME服务器，用于安全的自动证书管理，因此您可以在SSH各处和TLS中使用TLS。](https://github.com/smallstep/certificates) 
+- [当我有服务器时我做了什么 · 个人服务器运维指南](https://github.com/shfshanyue/op-note) 
 ### May 20, 2020 
 - [py2 / py3脚本可以直接从Apple下载macOS组件](https://github.com/corpnewt/gibMacOS) 
 - [使用远程图像注册中心-检索信息，图像，签名内容](https://github.com/containers/skopeo) 
