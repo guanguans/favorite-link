@@ -254,6 +254,7 @@
 - [SeaweedFS是一个简单且高度可扩展的分布式文件系统，可以快速存储和提供数十亿个文件！](https://github.com/chrislusf/seaweedfs) 
 - [通过代码解释 JavaScript 的概念](https://github.com/ecmadao/js-bits-cn) 
 - [当我们在浏览器中输入www.google.com时，幕后会发生什么？](https://github.com/vasanthk/how-web-works) 
+- [iOS抖音风控加密算法的来龙去脉](https://github.com/shenydowa/deviceid-x-gorgon) 
 ### May 20, 2020 
 - [py2 / py3脚本可以直接从Apple下载macOS组件](https://github.com/corpnewt/gibMacOS) 
 - [使用远程图像注册中心-检索信息，图像，签名内容](https://github.com/containers/skopeo) 
