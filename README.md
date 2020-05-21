@@ -252,6 +252,7 @@
 - [✍️ D 的个人博客 - 全职做开源，自由职业者](https://github.com/88250/solo-blog) 
 - [用于Notion.so的非官方Go API](https://github.com/kjk/notionapi) 
 - [SeaweedFS是一个简单且高度可扩展的分布式文件系统，可以快速存储和提供数十亿个文件！](https://github.com/chrislusf/seaweedfs) 
+- [通过代码解释 JavaScript 的概念](https://github.com/ecmadao/js-bits-cn) 
 ### May 20, 2020 
 - [py2 / py3脚本可以直接从Apple下载macOS组件](https://github.com/corpnewt/gibMacOS) 
 - [使用远程图像注册中心-检索信息，图像，签名内容](https://github.com/containers/skopeo) 
