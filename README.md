@@ -258,6 +258,7 @@
 - [ipfs的HTTP API的go接口](https://github.com/ipfs/go-ipfs-api) 
 - [隐私保护的比特币轻客户端](https://github.com/lightninglabs/neutrino) 
 - [DingTalk(dingding) 是钉钉机器人的 go 实现。](https://github.com/CatchZeng/dingtalk) 
+- [使用GO和HTML / JS / CSS构建跨平台的GUI应用程序（由Electron提供支持）](https://github.com/asticode/go-astilectron) 
 ### May 21, 2020 
 - [Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。](https://github.com/p4gefau1t/trojan-go) 
 - [Pest是一个优雅的PHP测试框架，其重点是简单性](https://github.com/pestphp/pest) 
