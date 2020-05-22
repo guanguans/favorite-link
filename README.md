@@ -255,6 +255,7 @@
 - [Golang阻止漏斗率限制实施](https://github.com/uber-go/ratelimit) 
 - [基于RPC的Golang插件系统。](https://github.com/hashicorp/go-plugin) 
 - [一个HTTP代理来改善HTTP API的使用](https://github.com/vektra/templar) 
+- [ipfs的HTTP API的go接口](https://github.com/ipfs/go-ipfs-api) 
 ### May 21, 2020 
 - [Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。](https://github.com/p4gefau1t/trojan-go) 
 - [Pest是一个优雅的PHP测试框架，其重点是简单性](https://github.com/pestphp/pest) 
