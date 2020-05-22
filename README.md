@@ -252,6 +252,7 @@
 - [使用C＃和XAML构建移动，桌面和WebAssembly应用](https://github.com/unoplatform/uno) 
 - [混合了导致XSS漏洞的客户端模板和服务器端模板的Vue.js应用程序的演示](https://github.com/dotboris/vuejs-serverside-template-xss) 
 - [blazing fast terminal-ui for git written in rust](https://github.com/extrawurst/gitui) 
+- [Golang阻止漏斗率限制实施](https://github.com/uber-go/ratelimit) 
 ### May 21, 2020 
 - [Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。](https://github.com/p4gefau1t/trojan-go) 
 - [Pest是一个优雅的PHP测试框架，其重点是简单性](https://github.com/pestphp/pest) 
