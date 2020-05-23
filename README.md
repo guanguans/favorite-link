@@ -256,6 +256,7 @@
 - [程序猿的婚礼邀请函。](https://github.com/leadream/wedding-invitation-for-programmers) 
 - [Vim for Visual Studio Code](https://github.com/VSCodeVim/Vim) 
 - [MQTT X 是 EMQ 开源的一款跨平台 MQTT 5.0 客户端工具，它支持 macOS, Linux, Windows，并且支持 MQTT 消息格式转换。](https://github.com/emqx/MQTTX/blob/master/README-CN.md) 
+- [记录了个人用到的一些获取国内安全资讯的RSS地址。](https://github.com/zhengjim/Chinese-Security-RSS) 
 ### May 22, 2020 
 - [Logstash-传输和处理日志，事件或其他数据](https://github.com/elastic/logstash) 
 - [使用C＃和XAML构建移动，桌面和WebAssembly应用](https://github.com/unoplatform/uno) 
