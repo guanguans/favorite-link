@@ -255,6 +255,7 @@
 - [Pure-Go小型家用互联网路由器](https://github.com/rtr7/router7) 
 - [Go（golang）库，用于读取和写入XLSX文件。](https://github.com/tealeg/xlsx) 
 - [函数式编程指北中文版](https://github.com/llh911001/mostly-adequate-guide-chinese) 
+- [go-patterns的Go模式的集合](https://github.com/crazybber/awesome-patterns) 
 ### May 23, 2020 
 - [gobwas/glob: Go glob](https://github.com/gobwas/glob) 
 - [VimR-适用于macOS的Neovim GUI](https://github.com/qvacua/vimr) 
