@@ -254,6 +254,7 @@
 - [读写OpenAPI yaml / json文件，并使内容可在PHP对象中访问。](https://github.com/cebe/php-openapi) 
 - [Pure-Go小型家用互联网路由器](https://github.com/rtr7/router7) 
 - [Go（golang）库，用于读取和写入XLSX文件。](https://github.com/tealeg/xlsx) 
+- [函数式编程指北中文版](https://github.com/llh911001/mostly-adequate-guide-chinese) 
 ### May 23, 2020 
 - [gobwas/glob: Go glob](https://github.com/gobwas/glob) 
 - [VimR-适用于macOS的Neovim GUI](https://github.com/qvacua/vimr) 
