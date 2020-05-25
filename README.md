@@ -259,6 +259,7 @@
 - [机器是基于分布式消息传递的异步任务队列/作业队列。](https://github.com/RichardKnop/machinery) 
 - [在Golang下载YouTube视频](https://github.com/kkdai/youtube) 
 - [graphql-php-scalars](https://github.com/mll-lab/graphql-php-scalars) 
+- [将嵌套的JSON结构映射到PHP类](https://github.com/JsonMapper/JsonMapper) 
 ### May 24, 2020 
 - [在CLI上渲染markdown](https://github.com/charmbracelet/glow) 
 - [读写OpenAPI yaml / json文件，并使内容可在PHP对象中访问。](https://github.com/cebe/php-openapi) 
