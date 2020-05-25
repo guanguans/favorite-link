@@ -257,6 +257,7 @@
 - [可调整大小的拆分视图的非标准实用程序](https://github.com/nathancahill/split) 
 - [程序员共享思想并互相帮助的地方](https://github.com/thepracticaldev/dev.to) 
 - [机器是基于分布式消息传递的异步任务队列/作业队列。](https://github.com/RichardKnop/machinery) 
+- [在Golang下载YouTube视频](https://github.com/kkdai/youtube) 
 ### May 24, 2020 
 - [在CLI上渲染markdown](https://github.com/charmbracelet/glow) 
 - [读写OpenAPI yaml / json文件，并使内容可在PHP对象中访问。](https://github.com/cebe/php-openapi) 
