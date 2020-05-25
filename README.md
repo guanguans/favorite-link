@@ -263,6 +263,7 @@
 - [Go 语言优秀资源整理，为项目落地加速🏃](https://github.com/shockerli/go-awesome) 
 - [⚡️Laravel组件负责一项特定任务](https://github.com/lorisleiva/laravel-actions) 
 - [Push-button installer of macOS on VirtualBox](https://github.com/myspaghetti/macos-virtualbox) 
+- [将React App（使用create-react-app创建）部署到GitHub Pages](https://github.com/gitname/react-gh-pages) 
 ### May 24, 2020 
 - [在CLI上渲染markdown](https://github.com/charmbracelet/glow) 
 - [读写OpenAPI yaml / json文件，并使内容可在PHP对象中访问。](https://github.com/cebe/php-openapi) 
