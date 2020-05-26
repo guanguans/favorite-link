@@ -262,6 +262,7 @@
 - [Go的一致哈希包。](https://github.com/stathat/consistent) 
 - [Mornin 是一个匿名语音群聊服务](https://github.com/fox-one/mornin.fm) 
 - [Go linters的简单终端UI](https://github.com/nakabonne/golintui) 
+- [在浏览器中进行测试。 与“ go test”集成。 在Go中编写行为测试。](https://github.com/smartystreets/goconvey) 
 ### May 25, 2020 
 - [尽可能快速，轻松地交付Go二进制文件](https://github.com/goreleaser/goreleaser) 
 - [Go中的图像服务器工具包](https://github.com/pierrre/imageserver) 
