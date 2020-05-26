@@ -264,6 +264,7 @@
 - [Go linters的简单终端UI](https://github.com/nakabonne/golintui) 
 - [在浏览器中进行测试。 与“ go test”集成。 在Go中编写行为测试。](https://github.com/smartystreets/goconvey) 
 - [golang的任意表达式评估](https://github.com/Knetic/govaluate) 
+- [Authenticator在浏览器中生成两步验证码。](https://github.com/Authenticator-Extension/Authenticator) 
 ### May 25, 2020 
 - [尽可能快速，轻松地交付Go二进制文件](https://github.com/goreleaser/goreleaser) 
 - [Go中的图像服务器工具包](https://github.com/pierrre/imageserver) 
