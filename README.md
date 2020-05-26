@@ -266,6 +266,7 @@
 - [golang的任意表达式评估](https://github.com/Knetic/govaluate) 
 - [Authenticator在浏览器中生成两步验证码。](https://github.com/Authenticator-Extension/Authenticator) 
 - [适用于iOS的两因素身份验证客户端](https://github.com/mattrubin/Authenticator) 
+- [🎉 基于vue全家桶 + element-ui 构建的一个后台管理集成解决方案 ](https://github.com/uncleLian/vue-blog) 
 ### May 25, 2020 
 - [尽可能快速，轻松地交付Go二进制文件](https://github.com/goreleaser/goreleaser) 
 - [Go中的图像服务器工具包](https://github.com/pierrre/imageserver) 
