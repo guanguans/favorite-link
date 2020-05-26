@@ -260,6 +260,7 @@
 - [Go中的HTTP流量模拟和测试变得轻松](https://github.com/h2non/gock) 
 - [Go编写的目录/文件，DNS和VHost清除工具](https://github.com/OJ/gobuster) 
 - [Go的一致哈希包。](https://github.com/stathat/consistent) 
+- [Mornin 是一个匿名语音群聊服务](https://github.com/fox-one/mornin.fm) 
 ### May 25, 2020 
 - [尽可能快速，轻松地交付Go二进制文件](https://github.com/goreleaser/goreleaser) 
 - [Go中的图像服务器工具包](https://github.com/pierrre/imageserver) 
