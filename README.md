@@ -265,6 +265,7 @@
 - [抖音 iOS Object-C版](https://github.com/sshiqiao/douyin-ios-objectc) 
 - [控制台实时查看 sql 查询](https://github.com/eleven26/listen-sql) 
 - [php+js滑动验证码 ](https://github.com/HaleyLeoZhang/slide-verify) 
+- [Mosh: the mobile shell](https://github.com/mobile-shell/mosh) 
 ### May 26, 2020 
 - [NET的AOP框架（C＃，VB等）](https://github.com/pamidur/aspect-injector) 
 - [PHP中命令行应用程序的简约框架](https://github.com/minicli/minicli) 
