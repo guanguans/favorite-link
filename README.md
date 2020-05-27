@@ -261,6 +261,7 @@
 - [⛄ 可能是最小的编译器](https://github.com/starkwang/the-super-tiny-compiler-cn) 
 - [导入导出通用库，支持Dto导入导出以及动态导出，支持Excel、Csv、Word、Pdf和Html](https://github.com/dotnetcore/Magicodes.IE) 
 - [Monkey patching in Go bou.ke](https://github.com/bouk/monkey) 
+- [Liquid是Tobias Lutke编写的Ruby Liquid模板引擎的PHP端口。](https://github.com/jooorooo/laravel-liquid) 
 ### May 26, 2020 
 - [NET的AOP框架（C＃，VB等）](https://github.com/pamidur/aspect-injector) 
 - [PHP中命令行应用程序的简约框架](https://github.com/minicli/minicli) 
