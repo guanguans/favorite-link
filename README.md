@@ -264,6 +264,7 @@
 - [Liquid是Tobias Lutke编写的Ruby Liquid模板引擎的PHP端口。](https://github.com/jooorooo/laravel-liquid) 
 - [抖音 iOS Object-C版](https://github.com/sshiqiao/douyin-ios-objectc) 
 - [控制台实时查看 sql 查询](https://github.com/eleven26/listen-sql) 
+- [php+js滑动验证码 ](https://github.com/HaleyLeoZhang/slide-verify) 
 ### May 26, 2020 
 - [NET的AOP框架（C＃，VB等）](https://github.com/pamidur/aspect-injector) 
 - [PHP中命令行应用程序的简约框架](https://github.com/minicli/minicli) 
