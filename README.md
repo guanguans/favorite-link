@@ -259,6 +259,7 @@
 - [web.dev是所有背景的开发人员在网络上学习，创建和解决的终极资源。](https://github.com/GoogleChrome/web.dev) 
 - [用于解释自身的子Javascript解释器](https://github.com/zuluoaaa/makeJs) 
 - [⛄ 可能是最小的编译器](https://github.com/starkwang/the-super-tiny-compiler-cn) 
+- [导入导出通用库，支持Dto导入导出以及动态导出，支持Excel、Csv、Word、Pdf和Html](https://github.com/dotnetcore/Magicodes.IE) 
 ### May 26, 2020 
 - [NET的AOP框架（C＃，VB等）](https://github.com/pamidur/aspect-injector) 
 - [PHP中命令行应用程序的简约框架](https://github.com/minicli/minicli) 
