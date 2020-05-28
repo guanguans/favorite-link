@@ -262,6 +262,7 @@
 - [手机号码归属地查询](https://github.com/shitoudev/phone-location) 
 - [tidea 中相见恨晚的技巧](https://github.com/xiaoxiunique/tool-tips) 
 - [适用于PHP 7.1的简单PHP WebSocket实现](https://github.com/varspool/Wrench) 
+- [将键值对存储在数据库中作为设置](https://github.com/qcod/laravel-settings) 
 ### May 27, 2020 
 - [中国省市区以及银行和银行支行等数据](https://github.com/ALawating-Rex/AreaAndBanks) 
 - [Golang PDF库，用于创建和处理PDF文件（pure go）](https://github.com/unidoc/unipdf) 
