@@ -259,6 +259,7 @@
 - [基于Kubernetes的PaaS平台 ](https://github.com/kplcloud/kplcloud) 
 - [由KVM加速的用于在QEMU中设置快速macOS VM的工具。](https://github.com/foxlet/macOS-Simple-KVM) 
 - [手机号码归属地信息库、手机号归属地查询 phone.dat 最后更新：2020年04月](https://github.com/xluohome/phonedata) 
+- [手机号码归属地查询](https://github.com/shitoudev/phone-location) 
 ### May 27, 2020 
 - [中国省市区以及银行和银行支行等数据](https://github.com/ALawating-Rex/AreaAndBanks) 
 - [Golang PDF库，用于创建和处理PDF文件（pure go）](https://github.com/unidoc/unipdf) 
