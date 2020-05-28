@@ -252,6 +252,9 @@
 
 
 
+
+### May 28, 2020 
+- [laravel-vue-admin](https://github.com/SmallRuralDog/laravel-vue-admin) 
 ### May 27, 2020 
 - [中国省市区以及银行和银行支行等数据](https://github.com/ALawating-Rex/AreaAndBanks) 
 - [Golang PDF库，用于创建和处理PDF文件（pure go）](https://github.com/unidoc/unipdf) 
