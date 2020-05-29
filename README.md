@@ -253,6 +253,9 @@
 
 
 
+
+### May 29, 2020 
+- [Chrome扩展程序可衡量运行状况良好的网站的基本指标](https://github.com/GoogleChrome/web-vitals-extension) 
 ### May 28, 2020 
 - [laravel-vue-admin](https://github.com/SmallRuralDog/laravel-vue-admin) 
 - [高性能，分布式和低延迟的发布订阅平台。](https://github.com/emitter-io/emitter) 
