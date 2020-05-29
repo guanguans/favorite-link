@@ -259,6 +259,7 @@
 - [您的Readme.md中的GitHub赞助商头像列表](https://github.com/tj/sponsors-api) 
 - [完善的集装箱管理平台](https://github.com/rancher/rancher) 
 - [基于teamtnt / tntsearch的Laravel Scout搜索软件包的驱动程序](https://github.com/teamtnt/laravel-scout-tntsearch-driver) 
+- [一个管理拉取请求集成的GitHub操作](https://github.com/squalrus/merge-bot) 
 ### May 28, 2020 
 - [laravel-vue-admin](https://github.com/SmallRuralDog/laravel-vue-admin) 
 - [高性能，分布式和低延迟的发布订阅平台。](https://github.com/emitter-io/emitter) 
