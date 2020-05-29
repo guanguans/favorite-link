@@ -262,6 +262,7 @@
 - [一个管理拉取请求集成的GitHub操作](https://github.com/squalrus/merge-bot) 
 - [DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。](https://github.com/alibaba/DataX) 
 - [Go编程时光，一个零基础入门 Golang 的教程](https://github.com/iswbm/GolangCodingTime) 
+- [Cocos2d-x是一套开放源代码，跨平台的游戏开发工具](https://github.com/cocos2d/cocos2d-x) 
 ### May 28, 2020 
 - [laravel-vue-admin](https://github.com/SmallRuralDog/laravel-vue-admin) 
 - [高性能，分布式和低延迟的发布订阅平台。](https://github.com/emitter-io/emitter) 
