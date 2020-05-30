@@ -258,6 +258,7 @@
 ### May 30, 2020 
 - [努力打造一系列适合初中级工程师能够看得懂的优质文章](https://github.com/roger-hiro/BlogFN) 
 - [方便的Bash One-Liners和终端技巧的集合，用于数据处理和Linux系统维护。](https://github.com/onceupon/Bash-Oneliner) 
+- [Go的内存中键：值存储/缓存（类似于Memcached）库，适用于单机应用程序。](https://github.com/patrickmn/go-cache) 
 ### May 29, 2020 
 - [Chrome扩展程序可衡量运行状况良好的网站的基本指标](https://github.com/GoogleChrome/web-vitals-extension) 
 - [您的Readme.md中的GitHub赞助商头像列表](https://github.com/tj/sponsors-api) 
