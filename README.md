@@ -261,6 +261,7 @@
 - [Go的内存中键：值存储/缓存（类似于Memcached）库，适用于单机应用程序。](https://github.com/patrickmn/go-cache) 
 - [一组PHP Docker映像](https://github.com/thecodingmachine/docker-images-php) 
 - [Go语言编写的高性能，POSIX风格的Amazon S3文件系统](https://github.com/kahing/goofys) 
+- [SQL数据库的通用命令行界面](https://github.com/xo/usql) 
 ### May 29, 2020 
 - [Chrome扩展程序可衡量运行状况良好的网站的基本指标](https://github.com/GoogleChrome/web-vitals-extension) 
 - [您的Readme.md中的GitHub赞助商头像列表](https://github.com/tj/sponsors-api) 
