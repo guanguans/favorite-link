@@ -261,6 +261,7 @@
 - [基于ThinkPHP5和Vue的高性能前后端分离商城框架系统 ](https://github.com/dnyz520/careyshop) 
 - [Mac一个微型Mac应用程序，可随时关注您的Vercel部署](https://github.com/daneden/zeitgeist) 
 - [通过GitHub Release API上传发布资产的操作](https://github.com/actions/upload-release-asset) 
+- [Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块](https://github.com/huangruiLearn/flutter_hrlweibo) 
 ### May 30, 2020 
 - [努力打造一系列适合初中级工程师能够看得懂的优质文章](https://github.com/roger-hiro/BlogFN) 
 - [方便的Bash One-Liners和终端技巧的集合，用于数据处理和Linux系统维护。](https://github.com/onceupon/Bash-Oneliner) 
