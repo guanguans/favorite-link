@@ -264,6 +264,7 @@
 - [将Clojure数据结构转换为SQL](https://github.com/seancorfield/honeysql) 
 - [在 VS Code 中练习 LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md) 
 - [快速简单的存储。 Node.js样式的LevelDB包装器，用于Node.js，Electron和浏览器。](https://github.com/Level/level) 
+- [ 跨平台桌面端视频资源播放器](https://github.com/Hunlongyu/ZY-Player) 
 ### May 31, 2020 
 - [Dao7-PHP7.x的Web框架](https://github.com/dreamsxin/cphalcon7) 
 - [基于ThinkPHP5和Vue的高性能前后端分离商城框架系统 ](https://github.com/dnyz520/careyshop) 
