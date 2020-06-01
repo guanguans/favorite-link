@@ -262,6 +262,7 @@
 - [它是Elasticsearch的基于浏览器的分析和搜索仪表板](https://github.com/elastic/kibana) 
 - [静态文件服务和目录列表](https://github.com/vercel/serve) 
 - [将Clojure数据结构转换为SQL](https://github.com/seancorfield/honeysql) 
+- [在 VS Code 中练习 LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/docs/README_zh-CN.md) 
 ### May 31, 2020 
 - [Dao7-PHP7.x的Web框架](https://github.com/dreamsxin/cphalcon7) 
 - [基于ThinkPHP5和Vue的高性能前后端分离商城框架系统 ](https://github.com/dnyz520/careyshop) 
