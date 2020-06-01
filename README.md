@@ -259,6 +259,7 @@
 
 ### June 1, 2020 
 - [一个在不使用webpack或类似工具的情况下在Yii2中创建Vue应用的Vue.js帮助器](https://github.com/FabrizioCaldarelli/yii2-vueapp) 
+- [它是Elasticsearch的基于浏览器的分析和搜索仪表板](https://github.com/elastic/kibana) 
 ### May 31, 2020 
 - [Dao7-PHP7.x的Web框架](https://github.com/dreamsxin/cphalcon7) 
 - [基于ThinkPHP5和Vue的高性能前后端分离商城框架系统 ](https://github.com/dnyz520/careyshop) 
