@@ -260,6 +260,7 @@
 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
+- [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
 ### June 1, 2020 
 - [一个在不使用webpack或类似工具的情况下在Yii2中创建Vue应用的Vue.js帮助器](https://github.com/FabrizioCaldarelli/yii2-vueapp) 
 - [它是Elasticsearch的基于浏览器的分析和搜索仪表板](https://github.com/elastic/kibana) 
