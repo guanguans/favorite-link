@@ -263,6 +263,7 @@
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
 - [Caddy Web服务器的转发代理插件](https://github.com/caddyserver/forwardproxy) 
 - [skeleton-php Template](https://github.com/owenvoke/skeleton-php) 
+- [Jupiter是douyu开源的面向服务治理的Golang微服务框架 ](https://github.com/douyu/jupiter) 
 ### June 1, 2020 
 - [一个在不使用webpack或类似工具的情况下在Yii2中创建Vue应用的Vue.js帮助器](https://github.com/FabrizioCaldarelli/yii2-vueapp) 
 - [它是Elasticsearch的基于浏览器的分析和搜索仪表板](https://github.com/elastic/kibana) 
