@@ -266,6 +266,7 @@
 - [有助于分析iOS内存使用情况的iOS工具。](https://github.com/facebook/FBMemoryProfiler) 
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) 
 - [Composer Inheritance Plugin](https://github.com/theofidry/composer-inheritance-plugin) 
+- [清除队列的命令清除](https://github.com/morrislaptop/laravel-queue-clear) 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
