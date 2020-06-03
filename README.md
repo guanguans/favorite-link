@@ -265,6 +265,7 @@
 - [微信企业号发送监控 for OpenFalcon](https://github.com/yanjunhui/chat) 
 - [有助于分析iOS内存使用情况的iOS工具。](https://github.com/facebook/FBMemoryProfiler) 
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) 
+- [Composer Inheritance Plugin](https://github.com/theofidry/composer-inheritance-plugin) 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
