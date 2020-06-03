@@ -270,6 +270,7 @@
 - [强大的开源Laravel博客，具有基于Laravel 5.8和Bootstrap 4构建的WYSWYG和CRUD（创建读取更新删除）](https://github.com/jeremykenedy/larablog) 
 - [适用于Mac的简单Timer应用](https://github.com/michaelvillar/timer-app) 
 - [laravel-phpinfo](https://github.com/jeremykenedy/laravel-phpinfo) 
+- [一个强大的软件包，用于在Laravel中处理角色和权限](https://github.com/jeremykenedy/laravel-roles) 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
