@@ -275,6 +275,7 @@
 - [在Yii PHP Framework中使用casbin，Casbin是功能强大且高效的开源访问控制库。](https://github.com/php-casbin/yii-casbin) 
 - [用户与团队的关联以及Laravel 5 Framework的邀请系统](https://github.com/mpociot/teamwork) 
 - [红队基础设施自动化部署工具](https://github.com/QAX-A-Team/LuWu) 
+- [ZetaSQL-SQL的分析器框架](https://github.com/google/zetasql) 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
