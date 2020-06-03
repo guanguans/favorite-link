@@ -272,6 +272,7 @@
 - [laravel-phpinfo](https://github.com/jeremykenedy/laravel-phpinfo) 
 - [一个强大的软件包，用于在Laravel中处理角色和权限](https://github.com/jeremykenedy/laravel-roles) 
 - [Go的UUID软件包](https://github.com/satori/go.uuid) 
+- [在Yii PHP Framework中使用casbin，Casbin是功能强大且高效的开源访问控制库。](https://github.com/php-casbin/yii-casbin) 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
