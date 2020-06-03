@@ -258,6 +258,9 @@
 
 
 
+
+### June 3, 2020 
+- [yfcmf新版本，基于thinkphp6.0和fastadmin ](https://github.com/0377/yfcmf-tp6) 
 ### June 2, 2020 
 - [用插件构建Caddy](https://github.com/caddyserver/xcaddy) 
 - [Go强大而灵活的电子邮件库](https://github.com/jordan-wright/email) 
