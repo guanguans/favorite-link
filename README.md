@@ -269,6 +269,7 @@
 - [口令爆破字典，有键盘组合字典、拼音字典、字母与数字混合这三种类型](https://github.com/huyuanzhi2/password_brute_dictionary) 
 - [一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国）](https://github.com/ystcode/BlogHelper) 
 - [PHP的一些有用的库](https://github.com/php-toolkit/toolkit) 
+- [bot监控的PHP SDK](https://packagist.org/packages/monitor/bot-monitor) 
 ### June 3, 2020 
 - [yfcmf新版本，基于thinkphp6.0和fastadmin ](https://github.com/0377/yfcmf-tp6) 
 - [小程序 Sentry SDK](https://github.com/alexayan/sentry-mina) 
