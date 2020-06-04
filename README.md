@@ -263,6 +263,7 @@
 ### June 4, 2020 
 - [螺旋框架骨架HTTP应用程序：队列，控制台，周期ORM](https://github.com/spiral/app) 
 - [从模板文件创建新问题的GitHub动作。](https://github.com/JasonEtco/create-an-issue) 
+- [基于Vue开发的XMall商城前台页面 PC端](https://github.com/Exrick/xmall-front) 
 ### June 3, 2020 
 - [yfcmf新版本，基于thinkphp6.0和fastadmin ](https://github.com/0377/yfcmf-tp6) 
 - [小程序 Sentry SDK](https://github.com/alexayan/sentry-mina) 
