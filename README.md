@@ -270,6 +270,7 @@
 - [Ajax-hook是一个精巧的用于拦截浏览器XMLHttpRequest的库，它可以在XMLHttpRequest对象发起请求之前和收到响应内容之后获得处理权。通过它你可以在底层对请求和响应进行一些预处理。](https://github.com/wendux/ajax-hook) 
 - [基于vuejs2和element的管理模板。](https://github.com/taylorchen709/vue-admin) 
 - [基于vue + element的后台管理系统解决方案 ](https://github.com/lin-xin/vue-manage-system) 
+- [美丽的Vue.js管理模板](https://github.com/epicmaxco/vuestic-admin) 
 ### June 4, 2020 
 - [螺旋框架骨架HTTP应用程序：队列，控制台，周期ORM](https://github.com/spiral/app) 
 - [从模板文件创建新问题的GitHub动作。](https://github.com/JasonEtco/create-an-issue) 
