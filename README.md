@@ -265,6 +265,7 @@
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
 - [使用通用用户名/密码保护页面免于访问](https://github.com/spatie/laravel-littlegatekeeper) 
+- [百度开源中文词法分析工具: 分词，词性标注，命名实体识别](https://github.com/baidu/lac) 
 ### June 4, 2020 
 - [螺旋框架骨架HTTP应用程序：队列，控制台，周期ORM](https://github.com/spiral/app) 
 - [从模板文件创建新问题的GitHub动作。](https://github.com/JasonEtco/create-an-issue) 
