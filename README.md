@@ -267,6 +267,7 @@
 - [使用通用用户名/密码保护页面免于访问](https://github.com/spatie/laravel-littlegatekeeper) 
 - [百度开源中文词法分析工具: 分词，词性标注，命名实体识别](https://github.com/baidu/lac) 
 - [Web应用程序，用于处理，记录和可视化能量，温度和其他环境数据](https://github.com/emoncms/emoncms) 
+- [Ajax-hook是一个精巧的用于拦截浏览器XMLHttpRequest的库，它可以在XMLHttpRequest对象发起请求之前和收到响应内容之后获得处理权。通过它你可以在底层对请求和响应进行一些预处理。](https://github.com/wendux/ajax-hook) 
 ### June 4, 2020 
 - [螺旋框架骨架HTTP应用程序：队列，控制台，周期ORM](https://github.com/spiral/app) 
 - [从模板文件创建新问题的GitHub动作。](https://github.com/JasonEtco/create-an-issue) 
