@@ -261,6 +261,9 @@
 
 
 
+
+### June 6, 2020 
+- [从XML生成Go结构。](https://github.com/miku/zek) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
