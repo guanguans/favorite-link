@@ -276,6 +276,7 @@
 - [基于LZ的JavaScript压缩算法](https://github.com/pieroxy/lz-string) 
 - [简单，安全的方法来管理crontab文件](https://github.com/alseambusher/crontab-ui) 
 - [Go库，用于实现命令行界面。](https://github.com/mitchellh/cli) 
+- [易联云云打印开放平台 PHP sdk](https://github.com/Qzm6826/yilianyun-php-sdk) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
