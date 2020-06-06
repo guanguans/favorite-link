@@ -280,6 +280,7 @@
 - [使用本机React +样式强大的CSS构建高性能，本机和跨平台的桌面应用程序](https://github.com/nodegui/react-nodegui) 
 - [📢JS实现浏览器标题的闪烁，滚动，语音提示，Chrome / Safari / FireFox / IE通知。](https://github.com/jaywcjlove/iNotify) 
 - [红色警戒源代码](https://github.com/electronicarts/CnC_Remastered_Collection) 
+- [Earmark —— 生成唯一的序列数值](https://github.com/poing/earmark) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
