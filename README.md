@@ -268,6 +268,7 @@
 - [云原生高性能边缘/中间/服务代理](https://github.com/envoyproxy/envoy) 
 - [使用Swagger 2.0 for Go自动生成RESTful API文档。](https://github.com/swaggo/swag) 
 - [Go的HTTP代理库](https://github.com/elazarl/goproxy) 
+- [验证码求解器扩展](https://github.com/dessant/buster) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
