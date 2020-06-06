@@ -275,6 +275,7 @@
 - [Laravel的本机调度程序允许您调度Artisan命令，使其每分钟运行一次。](https://github.com/spatie/laravel-short-schedule) 
 - [基于LZ的JavaScript压缩算法](https://github.com/pieroxy/lz-string) 
 - [简单，安全的方法来管理crontab文件](https://github.com/alseambusher/crontab-ui) 
+- [Go库，用于实现命令行界面。](https://github.com/mitchellh/cli) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
