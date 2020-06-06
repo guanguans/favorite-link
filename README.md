@@ -271,6 +271,7 @@
 - [验证码求解器扩展](https://github.com/dessant/buster) 
 - [🤖GitHub Action会在一段时间不活动后锁定已关闭的问题并拉出请求](https://github.com/dessant/lock-threads) 
 - [🖼️浏览器扩展程序可用于反向图像搜索](https://github.com/dessant/search-by-image) 
+- [fswatch是一个文件更改监视器，当指定文件或目录的内容被修改时，它将接收通知。](https://github.com/emcrisostomo/fswatch) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
