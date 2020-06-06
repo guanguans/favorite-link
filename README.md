@@ -266,6 +266,7 @@
 - [从XML生成Go结构。](https://github.com/miku/zek) 
 - [密码管理器的创建者可以在资源上进行协作以使每个人都能更好地管理密码的地方。](https://github.com/apple/password-manager-resources) 
 - [云原生高性能边缘/中间/服务代理](https://github.com/envoyproxy/envoy) 
+- [使用Swagger 2.0 for Go自动生成RESTful API文档。](https://github.com/swaggo/swag) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
