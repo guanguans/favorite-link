@@ -278,6 +278,7 @@
 - [Go库，用于实现命令行界面。](https://github.com/mitchellh/cli) 
 - [易联云云打印开放平台 PHP sdk](https://github.com/Qzm6826/yilianyun-php-sdk) 
 - [使用本机React +样式强大的CSS构建高性能，本机和跨平台的桌面应用程序](https://github.com/nodegui/react-nodegui) 
+- [📢JS实现浏览器标题的闪烁，滚动，语音提示，Chrome / Safari / FireFox / IE通知。](https://github.com/jaywcjlove/iNotify) 
 ### June 5, 2020 
 - [如何编译自己需要的 OpenWrt 固件](https://github.com/coolsnowwolf/lede) 
 - [Docker中的Mac](https://github.com/sickcodes/Docker-OSX) 
