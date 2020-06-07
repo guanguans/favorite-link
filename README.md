@@ -262,6 +262,9 @@
 
 
 
+
+### June 7, 2020 
+- [darktable是一个开源摄影工作流程应用程序和原始开发人员](https://github.com/darktable-org/darktable) 
 ### June 6, 2020 
 - [从XML生成Go结构。](https://github.com/miku/zek) 
 - [密码管理器的创建者可以在资源上进行协作以使每个人都能更好地管理密码的地方。](https://github.com/apple/password-manager-resources) 
