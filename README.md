@@ -273,6 +273,7 @@
 - [YAML对Go语言的支持](https://github.com/goccy/go-yaml) 
 - [谷歌浏览器下载管理器插件](https://github.com/xinghaix/download-manager) 
 - [Str进行结构和场验证，包括跨场，跨结构，地图，切片和阵列潜水](https://github.com/go-playground/validator) 
+- [状态-状态页和监视服务器](https://github.com/statping/statping) 
 ### June 6, 2020 
 - [从XML生成Go结构。](https://github.com/miku/zek) 
 - [密码管理器的创建者可以在资源上进行协作以使每个人都能更好地管理密码的地方。](https://github.com/apple/password-manager-resources) 
