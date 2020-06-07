@@ -270,6 +270,7 @@
 - [在Go中实现并由Postgresql支持的示例GraphQL API](https://github.com/topliceanu/graphql-go-example) 
 - [TFLint是Terraform Linter，专注于可能的错误，最佳实践等。](https://github.com/terraform-linters/tflint) 
 - [Go的增强型HTTP客户端](https://github.com/gojek/heimdall) 
+- [YAML对Go语言的支持](https://github.com/goccy/go-yaml) 
 ### June 6, 2020 
 - [从XML生成Go结构。](https://github.com/miku/zek) 
 - [密码管理器的创建者可以在资源上进行协作以使每个人都能更好地管理密码的地方。](https://github.com/apple/password-manager-resources) 
