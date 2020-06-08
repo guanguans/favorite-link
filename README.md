@@ -268,6 +268,7 @@
 - [快速laravel后台管理系统，集成了，图片上传，多图上传，批量Excel导入，批量插入，修改，添加，搜索，权限管理RBAC,验证码](https://github.com/kong-qi/kongqi_laravel_admin) 
 - [Laravel Auth是Laravel 7的完整版本，具有电子邮件注册验证，社交身份验证，用户角色和权限，用户个人资料以及受管理员限制的用户管理系统。 建立在Bootstrap 4。](https://github.com/jeremykenedy/laravel-auth) 
 - [php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) 
+- [json2go](https://github.com/m-zajac/json2go) 
 ### June 7, 2020 
 - [darktable是一个开源摄影工作流程应用程序和原始开发人员](https://github.com/darktable-org/darktable) 
 - [众所周知的用于更改密码的URL](https://github.com/WICG/change-password-url) 
