@@ -274,6 +274,7 @@
 - [Laravel 5的永久设置包](https://github.com/edvinaskrucas/settings) 
 - [Laravel通知包](https://github.com/edvinaskrucas/notification) 
 - [HTML Laravel菜单生成器](https://github.com/spatie/laravel-menu) 
+- [HTML到纯文本转换库](https://github.com/jaytaylor/html2text) 
 ### June 7, 2020 
 - [darktable是一个开源摄影工作流程应用程序和原始开发人员](https://github.com/darktable-org/darktable) 
 - [众所周知的用于更改密码的URL](https://github.com/WICG/change-password-url) 
