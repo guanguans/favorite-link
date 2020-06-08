@@ -280,6 +280,7 @@
 - [有用的正则表达式模式的集合](https://github.com/lukehaas/RegexHub) 
 - [在Swoole上运行Laravel](https://github.com/huang-yi/shadowfax) 
 - [Laravel中的可排队操作](https://github.com/spatie/laravel-queueable-action) 
+- [将YouTube或Vimeo频道，用户或播放列表转换为播客Feed](https://github.com/mxpv/podsync) 
 ### June 7, 2020 
 - [darktable是一个开源摄影工作流程应用程序和原始开发人员](https://github.com/darktable-org/darktable) 
 - [众所周知的用于更改密码的URL](https://github.com/WICG/change-password-url) 
