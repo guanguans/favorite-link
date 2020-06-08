@@ -270,6 +270,7 @@
 - [php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) 
 - [json2go](https://github.com/m-zajac/json2go) 
 - [📫SMTP服务器+ Web界面，用于在开发过程中查看和测试电子邮件。](https://github.com/maildev/maildev) 
+- [Deno的Redis客户端](https://github.com/keroxp/deno-redis) 
 ### June 7, 2020 
 - [darktable是一个开源摄影工作流程应用程序和原始开发人员](https://github.com/darktable-org/darktable) 
 - [众所周知的用于更改密码的URL](https://github.com/WICG/change-password-url) 
