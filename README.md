@@ -269,6 +269,7 @@
 - [适用于macOS的剪贴板扩展程序。](https://github.com/Clipy/Clipy) 
 - [使用JavaScript的屏幕截图](https://github.com/niklasvh/html2canvas) 
 - [在没有root权限的情况下监视linux进程](https://github.com/DominicBreuker/pspy) 
+- [支付宝当面付DEMO ](https://github.com/yumusb/alipay-f2fpay) 
 ### June 8, 2020 
 - [快速laravel后台管理系统，集成了，图片上传，多图上传，批量Excel导入，批量插入，修改，添加，搜索，权限管理RBAC,验证码](https://github.com/kong-qi/kongqi_laravel_admin) 
 - [Laravel Auth是Laravel 7的完整版本，具有电子邮件注册验证，社交身份验证，用户角色和权限，用户个人资料以及受管理员限制的用户管理系统。 建立在Bootstrap 4。](https://github.com/jeremykenedy/laravel-auth) 
