@@ -265,6 +265,9 @@
 
 
 
+
+### June 10, 2020 
+- [高效的高速缓存，可存储Go中写入的千兆字节数据。](https://github.com/allegro/bigcache) 
 ### June 9, 2020 
 - [适用于macOS的剪贴板扩展程序。](https://github.com/Clipy/Clipy) 
 - [使用JavaScript的屏幕截图](https://github.com/niklasvh/html2canvas) 
