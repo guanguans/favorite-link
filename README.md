@@ -270,6 +270,7 @@
 ### June 11, 2020 
 - [deno lint](https://github.com/denoland/deno_lint) 
 - [适用于OS X的Homebrew GUI App](https://github.com/brunophilipe/Cakebrew) 
+- [适用于Windows和Mac的免费开源SQL客户端](https://github.com/plotly/falcon) 
 ### June 10, 2020 
 - [高效的高速缓存，可存储Go中写入的千兆字节数据。](https://github.com/allegro/bigcache) 
 - [适用于NodeJS，Python，PHP，Ruby，Go应用程序的最简单的应用程序/数据库部署平台和Web服务器软件包](https://github.com/caprover/caprover) 
