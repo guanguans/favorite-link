@@ -274,6 +274,7 @@
 - [作弊引擎。 专注于改装的开发环境](https://github.com/cheat-engine/cheat-engine) 
 - [PHP中文无组件分词类](https://github.com/itplato/phpanalysis) 
 - [用于构建快速REST API的现代PHP框架](https://github.com/gotzmann/comet) 
+- [适用于laravel-admin的UEditor扩展](https://github.com/laravel-admin-extensions/UEditor) 
 ### June 10, 2020 
 - [高效的高速缓存，可存储Go中写入的千兆字节数据。](https://github.com/allegro/bigcache) 
 - [适用于NodeJS，Python，PHP，Ruby，Go应用程序的最简单的应用程序/数据库部署平台和Web服务器软件包](https://github.com/caprover/caprover) 
