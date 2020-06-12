@@ -273,6 +273,7 @@
 - [PHP库，用于根据父ID处理树结构，例如 自联接数据库表](https://github.com/BlueM/Tree) 
 - [Kubernetes agones.dev上的多人游戏专用游戏服务器托管和扩展](https://github.com/googleforgames/agones) 
 - [在Debian，Ubuntu，Fedora，CentOS或Arch Linux上设置自己的OpenVPN服务器。](https://github.com/angristan/openvpn-install) 
+- [Golang中的ASCII表](https://github.com/olekukonko/tablewriter) 
 ### June 11, 2020 
 - [deno lint](https://github.com/denoland/deno_lint) 
 - [适用于OS X的Homebrew GUI App](https://github.com/brunophilipe/Cakebrew) 
