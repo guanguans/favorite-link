@@ -276,6 +276,7 @@
 - [Golang中的ASCII表](https://github.com/olekukonko/tablewriter) 
 - [全自动版本管理和软件包发布](https://github.com/semantic-release/semantic-release) 
 - [收集自网络各处的 webshell 样本，用于测试 webshell 扫描器检测率。](https://github.com/ysrc/webshell-sample) 
+- [Vite＆Vue供电的静态站点生成器](https://github.com/vuejs/vitepress) 
 ### June 11, 2020 
 - [deno lint](https://github.com/denoland/deno_lint) 
 - [适用于OS X的Homebrew GUI App](https://github.com/brunophilipe/Cakebrew) 
