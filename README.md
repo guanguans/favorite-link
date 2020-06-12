@@ -267,6 +267,9 @@
 
 
 
+
+### June 12, 2020 
+- [这是一个简单的PHP脚本，用于在像可视化的树中显示Xdebug跟踪。 它可以折叠您在分析跟踪时不感兴趣的部分，从而使遵循程序流程更加容易。](https://github.com/splitbrain/xdebug-trace-tree) 
 ### June 11, 2020 
 - [deno lint](https://github.com/denoland/deno_lint) 
 - [适用于OS X的Homebrew GUI App](https://github.com/brunophilipe/Cakebrew) 
