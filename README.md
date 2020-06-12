@@ -274,6 +274,7 @@
 - [Kubernetes agones.dev上的多人游戏专用游戏服务器托管和扩展](https://github.com/googleforgames/agones) 
 - [在Debian，Ubuntu，Fedora，CentOS或Arch Linux上设置自己的OpenVPN服务器。](https://github.com/angristan/openvpn-install) 
 - [Golang中的ASCII表](https://github.com/olekukonko/tablewriter) 
+- [全自动版本管理和软件包发布](https://github.com/semantic-release/semantic-release) 
 ### June 11, 2020 
 - [deno lint](https://github.com/denoland/deno_lint) 
 - [适用于OS X的Homebrew GUI App](https://github.com/brunophilipe/Cakebrew) 
