@@ -272,6 +272,7 @@
 ### June 13, 2020 
 - [VictoriaMetrics-快速，经济高效且可扩展的时间序列数据库](https://github.com/VictoriaMetrics/VictoriaMetrics) 
 - [Go编程语言的JSON模式的实现。](https://github.com/xeipuuv/gojsonschema) 
+- [该包提供了一个特征和类，以允许在不中断方法链的情况下基于条件调用方法。](https://github.com/Astrotomic/php-conditional-proxy) 
 ### June 12, 2020 
 - [这是一个简单的PHP脚本，用于在像可视化的树中显示Xdebug跟踪。 它可以折叠您在分析跟踪时不感兴趣的部分，从而使遵循程序流程更加容易。](https://github.com/splitbrain/xdebug-trace-tree) 
 - [PHP库，用于根据父ID处理树结构，例如 自联接数据库表](https://github.com/BlueM/Tree) 
