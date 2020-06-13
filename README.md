@@ -279,6 +279,7 @@
 - [A laravel blog generator.](https://github.com/stephenjude/lite-blog) 
 - [前端低代码框架，通过 JSON 配置就能生成各种后台页面](https://github.com/baidu/amis) 
 - [用于从现有表生成Laravel迁移文件](https://github.com/cviebrock/sequel-pro-laravel-export) 
+- [适用于macOS的MySQL / MariaDB数据库管理](https://github.com/sequelpro/sequelpro) 
 ### June 12, 2020 
 - [这是一个简单的PHP脚本，用于在像可视化的树中显示Xdebug跟踪。 它可以折叠您在分析跟踪时不感兴趣的部分，从而使遵循程序流程更加容易。](https://github.com/splitbrain/xdebug-trace-tree) 
 - [PHP库，用于根据父ID处理树结构，例如 自联接数据库表](https://github.com/BlueM/Tree) 
