@@ -277,6 +277,7 @@
 - [将静态文件嵌入Go二进制文件的简便方法。](https://github.com/gobuffalo/packr) 
 - [从OBS Studio的输出创建虚拟网络摄像机设备。](https://github.com/johnboiles/obs-mac-virtualcam) 
 - [用Go编写的快速网络模糊器](https://github.com/ffuf/ffuf) 
+- [使用Glide轻松转换图像](https://github.com/spatie/laravel-glide) 
 ### June 13, 2020 
 - [VictoriaMetrics-快速，经济高效且可扩展的时间序列数据库](https://github.com/VictoriaMetrics/VictoriaMetrics) 
 - [Go编程语言的JSON模式的实现。](https://github.com/xeipuuv/gojsonschema) 
