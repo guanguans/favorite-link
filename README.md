@@ -278,6 +278,7 @@
 - [从OBS Studio的输出创建虚拟网络摄像机设备。](https://github.com/johnboiles/obs-mac-virtualcam) 
 - [用Go编写的快速网络模糊器](https://github.com/ffuf/ffuf) 
 - [使用Glide轻松转换图像](https://github.com/spatie/laravel-glide) 
+- [Laravel-Mediable是一个软件包，可使用Laravel 5轻松上传媒体文件并将其附加到模型。](https://github.com/plank/laravel-mediable) 
 ### June 13, 2020 
 - [VictoriaMetrics-快速，经济高效且可扩展的时间序列数据库](https://github.com/VictoriaMetrics/VictoriaMetrics) 
 - [Go编程语言的JSON模式的实现。](https://github.com/xeipuuv/gojsonschema) 
