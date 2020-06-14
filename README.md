@@ -273,6 +273,7 @@
 ### June 14, 2020 
 - [框架主要使用ThinkPHP6.0 + layui](https://github.com/zhongshaofa/easyadmin) 
 - [微信爬虫，获取文章内容、阅读量、点赞量、评论等，获取公众号所有历史文章链接。](https://github.com/lqqyt2423/wechat_spider) 
+- [Go软件包，用于由libvips C库支持的快速高级图像处理](https://github.com/h2non/bimg) 
 ### June 13, 2020 
 - [VictoriaMetrics-快速，经济高效且可扩展的时间序列数据库](https://github.com/VictoriaMetrics/VictoriaMetrics) 
 - [Go编程语言的JSON模式的实现。](https://github.com/xeipuuv/gojsonschema) 
