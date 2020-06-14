@@ -276,6 +276,7 @@
 - [Go软件包，用于由libvips C库支持的快速高级图像处理](https://github.com/h2non/bimg) 
 - [将静态文件嵌入Go二进制文件的简便方法。](https://github.com/gobuffalo/packr) 
 - [从OBS Studio的输出创建虚拟网络摄像机设备。](https://github.com/johnboiles/obs-mac-virtualcam) 
+- [用Go编写的快速网络模糊器](https://github.com/ffuf/ffuf) 
 ### June 13, 2020 
 - [VictoriaMetrics-快速，经济高效且可扩展的时间序列数据库](https://github.com/VictoriaMetrics/VictoriaMetrics) 
 - [Go编程语言的JSON模式的实现。](https://github.com/xeipuuv/gojsonschema) 
