@@ -269,6 +269,9 @@
 
 
 
+
+### June 14, 2020 
+- [框架主要使用ThinkPHP6.0 + layui](https://github.com/zhongshaofa/easyadmin) 
 ### June 13, 2020 
 - [VictoriaMetrics-快速，经济高效且可扩展的时间序列数据库](https://github.com/VictoriaMetrics/VictoriaMetrics) 
 - [Go编程语言的JSON模式的实现。](https://github.com/xeipuuv/gojsonschema) 
