@@ -270,6 +270,9 @@
 
 
 
+
+### June 15, 2020 
+- [基于laravel6编写的PHP电子商务后台API源码](https://github.com/pijunkuan/minishop-single) 
 ### June 14, 2020 
 - [框架主要使用ThinkPHP6.0 + layui](https://github.com/zhongshaofa/easyadmin) 
 - [微信爬虫，获取文章内容、阅读量、点赞量、评论等，获取公众号所有历史文章链接。](https://github.com/lqqyt2423/wechat_spider) 
