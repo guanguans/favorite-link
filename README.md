@@ -275,6 +275,7 @@
 ### June 16, 2020 
 - [使用Websockets和Redis在Golang中聊天](https://github.com/leartgjoni/go-chat-api) 
 - [Packer是一个工具，可从一个源配置为多个平台创建相同的机器映像。](https://github.com/hashicorp/packer) 
+- [Kala是用Go语言编写的简单，现代且性能出色的工作计划程序](https://github.com/ajvb/kala) 
 ### June 15, 2020 
 - [基于laravel6编写的PHP电子商务后台API源码](https://github.com/pijunkuan/minishop-single) 
 - [适用于Go的最完整，测试最好的WebDriver客户端](https://github.com/tebeka/selenium) 
