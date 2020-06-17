@@ -272,6 +272,9 @@
 
 
 
+
+### June 17, 2020 
+- [用于Aliyun服务的Go SDK](https://github.com/denverdino/aliyungo) 
 ### June 16, 2020 
 - [使用Websockets和Redis在Golang中聊天](https://github.com/leartgjoni/go-chat-api) 
 - [Packer是一个工具，可从一个源配置为多个平台创建相同的机器映像。](https://github.com/hashicorp/packer) 
