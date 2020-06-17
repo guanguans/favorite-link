@@ -281,6 +281,7 @@
 - [golang基于websocket单台机器支持百万连接分布式聊天(IM)系统](https://github.com/link1st/gowebsocket) 
 - [为全球安全研究人员提供支持的库和查询，以及GitHub Advanced Security（代码扫描）](https://github.com/github/codeql) 
 - [🐯用于优化SVG文件的Node.js工具](https://github.com/svg/svgo) 
+- [alibaba/MongoShake: 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，进一步实现灾备和多活功能](https://github.com/alibaba/MongoShake) 
 ### June 16, 2020 
 - [使用Websockets和Redis在Golang中聊天](https://github.com/leartgjoni/go-chat-api) 
 - [Packer是一个工具，可从一个源配置为多个平台创建相同的机器映像。](https://github.com/hashicorp/packer) 
