@@ -279,6 +279,7 @@
 - [企业级 Node.js 应用性能监控与线上故障定位解决方案](https://github.com/hyj1991/easy-monitor) 
 - [微信公众号 RSS 订阅 ](https://github.com/tenpiece/wxrss) 
 - [golang基于websocket单台机器支持百万连接分布式聊天(IM)系统](https://github.com/link1st/gowebsocket) 
+- [为全球安全研究人员提供支持的库和查询，以及GitHub Advanced Security（代码扫描）](https://github.com/github/codeql) 
 ### June 16, 2020 
 - [使用Websockets和Redis在Golang中聊天](https://github.com/leartgjoni/go-chat-api) 
 - [Packer是一个工具，可从一个源配置为多个平台创建相同的机器映像。](https://github.com/hashicorp/packer) 
