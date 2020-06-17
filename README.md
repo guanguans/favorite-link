@@ -276,6 +276,7 @@
 ### June 17, 2020 
 - [用于Aliyun服务的Go SDK](https://github.com/denverdino/aliyungo) 
 - [对等浏览器视频通话平台，具有无与伦比的视频质量和延迟。](https://github.com/ianramzy/decentralized-video-chat) 
+- [企业级 Node.js 应用性能监控与线上故障定位解决方案](https://github.com/hyj1991/easy-monitor) 
 ### June 16, 2020 
 - [使用Websockets和Redis在Golang中聊天](https://github.com/leartgjoni/go-chat-api) 
 - [Packer是一个工具，可从一个源配置为多个平台创建相同的机器映像。](https://github.com/hashicorp/packer) 
