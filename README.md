@@ -284,6 +284,7 @@
 - [Kuboard 是基于 Kubernetes 的微服务管理界面。](https://github.com/eip-work/kuboard-press) 
 - [laravel专用表单生成器，快速生成现代化的form表单。](https://github.com/xaboy/laravel-form-builder) 
 - [hyperf + vue 配置化后台开发工具](https://github.com/hyperf-admin/hyperf-admin) 
+- [GitHub动作以自动合并准备就绪的拉取请求](https://github.com/pascalgn/automerge-action) 
 ### June 17, 2020 
 - [用于Aliyun服务的Go SDK](https://github.com/denverdino/aliyungo) 
 - [对等浏览器视频通话平台，具有无与伦比的视频质量和延迟。](https://github.com/ianramzy/decentralized-video-chat) 
