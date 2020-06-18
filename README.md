@@ -282,6 +282,7 @@
 - [在主要平台上将go程序作为服务运行。](https://github.com/kardianos/service) 
 - [这是一个在你编程时疯狂称赞你的 VSCode 扩展插件](https://github.com/SaekiRaku/vscode-rainbow-fart) 
 - [Kuboard 是基于 Kubernetes 的微服务管理界面。](https://github.com/eip-work/kuboard-press) 
+- [laravel专用表单生成器，快速生成现代化的form表单。](https://github.com/xaboy/laravel-form-builder) 
 ### June 17, 2020 
 - [用于Aliyun服务的Go SDK](https://github.com/denverdino/aliyungo) 
 - [对等浏览器视频通话平台，具有无与伦比的视频质量和延迟。](https://github.com/ianramzy/decentralized-video-chat) 
