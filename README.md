@@ -287,6 +287,7 @@
 - [GitHub动作以自动合并准备就绪的拉取请求](https://github.com/pascalgn/automerge-action) 
 - [STF（或智能手机测试场）是一个Web应用程序，用于从浏览器的舒适性中远程调试智能手机，智能手表和其他小工具。](https://github.com/openstf/stf) 
 - [2020年精选的100多个保护数字安全和隐私的技巧清单](https://github.com/Lissy93/personal-security-checklist) 
+- [A fast and lightweight IDE](https://github.com/geany/geany) 
 ### June 17, 2020 
 - [用于Aliyun服务的Go SDK](https://github.com/denverdino/aliyungo) 
 - [对等浏览器视频通话平台，具有无与伦比的视频质量和延迟。](https://github.com/ianramzy/decentralized-video-chat) 
