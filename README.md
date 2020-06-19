@@ -278,6 +278,7 @@
 ### June 19, 2020 
 - [可爱的博客园样式美化、自定义博客园样式](https://github.com/miluluyo/cute-cnblogs) 
 - [drone/drone: 一个容器原生的连续交付平台](https://github.com/drone/drone) 
+- [Fyne是用Go编写的易于使用的UI工具包和应用程序API。 它旨在构建使用单个代码库在桌面和移动设备上运行的应用程序。](https://github.com/fyne-io/fyne) 
 ### June 18, 2020 
 - [一个美丽的，完全开源的隧道服务-用纯PHP编写](https://github.com/beyondcode/expose) 
 - [完全开源的ngrok替代品-用纯PHP编写。](https://github.com/beyondcode/expose) 
