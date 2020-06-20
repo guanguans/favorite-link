@@ -281,6 +281,7 @@
 - [多个linter的组合以作为GitHub Action安装](https://github.com/github/super-linter) 
 - [用于本地文件共享的渐进式Web应用程序](https://github.com/RobinLinus/snapdrop) 
 - [PHP库，用于逐段迭代编码大型JSON文档](https://github.com/violet-php/streaming-json-encoder) 
+- [Node.js的HTTP服务器模拟和期望库](https://github.com/nock/nock) 
 ### June 19, 2020 
 - [可爱的博客园样式美化、自定义博客园样式](https://github.com/miluluyo/cute-cnblogs) 
 - [drone/drone: 一个容器原生的连续交付平台](https://github.com/drone/drone) 
