@@ -284,6 +284,7 @@
 - [Node.js的HTTP服务器模拟和期望库](https://github.com/nock/nock) 
 - [Repo-supervisor是一个可帮助您检测代码中的秘密和密码的工具。](https://github.com/auth0/repo-supervisor) 
 - [授予用户角色的超能力](https://github.com/akiyamaSM/maravel-permissions) 
+- [该软件包使Eloquent模型能够管理友谊（与团体）](https://github.com/multicaret/laravel-acquaintances) 
 ### June 19, 2020 
 - [可爱的博客园样式美化、自定义博客园样式](https://github.com/miluluyo/cute-cnblogs) 
 - [drone/drone: 一个容器原生的连续交付平台](https://github.com/drone/drone) 
