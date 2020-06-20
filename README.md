@@ -286,6 +286,7 @@
 - [授予用户角色的超能力](https://github.com/akiyamaSM/maravel-permissions) 
 - [该软件包使Eloquent模型能够管理友谊（与团体）](https://github.com/multicaret/laravel-acquaintances) 
 - [电话攻击(电话轰炸、可代替短信轰炸)、留言攻击工具 | 随缘维护，佛系更新](https://github.com/aqiongbei/buy_pig_plan) 
+- [阿里云 OSS 官方 SDK 的 Composer 封装，专门支持 Laravel 7](https://github.com/johnlui/AliyunOSS-Laravel7) 
 ### June 19, 2020 
 - [可爱的博客园样式美化、自定义博客园样式](https://github.com/miluluyo/cute-cnblogs) 
 - [drone/drone: 一个容器原生的连续交付平台](https://github.com/drone/drone) 
