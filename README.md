@@ -283,6 +283,7 @@
 - [vscode-rainbow-fart 扩展语音包](https://github.com/zthxxx/kugimiya-rainbow-fart) 
 - [Go gopher由令人敬畏的Renee French设计。](https://github.com/egonelbre/gophers) 
 - [最先进的MongoDB IDE](https://github.com/SouthbankSoftware/dbkoda) 
+- [Laravel的PHPStan规则](https://github.com/canvural/larastan-strict-rules) 
 ### June 20, 2020 
 - [用于构建Web应用程序的Python微框架。](https://github.com/pallets/flask) 
 - [多个linter的组合以作为GitHub Action安装](https://github.com/github/super-linter) 
