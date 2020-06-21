@@ -280,6 +280,7 @@
 ### June 21, 2020 
 - [产品名称：个人博客系统前端](https://github.com/yanthink/blog-v2) 
 - [子豪兄的零基础树莓派教程](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi) 
+- [vscode-rainbow-fart 扩展语音包](https://github.com/zthxxx/kugimiya-rainbow-fart) 
 ### June 20, 2020 
 - [用于构建Web应用程序的Python微框架。](https://github.com/pallets/flask) 
 - [多个linter的组合以作为GitHub Action安装](https://github.com/github/super-linter) 
