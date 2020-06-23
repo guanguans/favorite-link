@@ -288,6 +288,7 @@
 - [一个非常不安全的mysql_escape_string实现，用于非常有限的用例](https://github.com/abreksa4/mysql-escape-string-polyfill) 
 - [GoPlus-数据科学的Go +语言](https://github.com/qiniu/goplus) 
 - [Workerman的协程版本](https://github.com/zyfei/WarriorMan) 
+- [YII2+VUE2开发的SCRM后台项目](https://github.com/chinahub/vue-zhidian) 
 ### June 22, 2020 
 - [Clip是iOS的剪贴板管理器，可以在后台无限期地监视剪贴板-无需越狱。](https://github.com/rileytestut/Clip) 
 - [预算是一个开源的Web应用程序，可帮助您跟踪财务状况。](https://github.com/range-of-motion/budget) 
