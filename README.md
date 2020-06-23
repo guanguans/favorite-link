@@ -283,6 +283,7 @@
 - [fanx-dev/fanx: 便携式编程语言](https://github.com/fanx-dev/fanx) 
 - [使用键盘快捷键触发对元素的操作。](https://github.com/github/hotkey) 
 - [Nginx UI允许您不使用cli访问和修改nginx配置文件。](https://github.com/schenkd/nginx-ui) 
+- [这是一个抓取浏览器密码的工具，后续会添加更多功能](https://github.com/QAX-A-Team/BrowserGhost) 
 ### June 22, 2020 
 - [Clip是iOS的剪贴板管理器，可以在后台无限期地监视剪贴板-无需越狱。](https://github.com/rileytestut/Clip) 
 - [预算是一个开源的Web应用程序，可帮助您跟踪财务状况。](https://github.com/range-of-motion/budget) 
