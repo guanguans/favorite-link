@@ -279,6 +279,9 @@
 
 
 
+
+### June 24, 2020 
+- [一款基于Vue2.0高仿微信App的单页应用](https://github.com/zhaohaodang/vue-WeChat) 
 ### June 23, 2020 
 - [fanx-dev/fanx: 便携式编程语言](https://github.com/fanx-dev/fanx) 
 - [使用键盘快捷键触发对元素的操作。](https://github.com/github/hotkey) 
