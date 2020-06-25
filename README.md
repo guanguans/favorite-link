@@ -284,6 +284,7 @@
 ### June 25, 2020 
 - [Laravel wherehasin是一个可以提升Laravel ORM关联关系查询性能的扩展包，可以替代Laravel ORM中的whereHas以及whereHasMorphIn查询方法。](https://github.com/jqhph/laravel-wherehasin) 
 - [具有P2P内容发现功能的隐私增强型BitTorrent客户端](https://github.com/Tribler/tribler) 
+- [bwmarrin/snowflake: A simple to use Go (golang) package to generate or parse Twitter snowflake IDs](https://github.com/bwmarrin/snowflake) 
 ### June 24, 2020 
 - [一款基于Vue2.0高仿微信App的单页应用](https://github.com/zhaohaodang/vue-WeChat) 
 - [一个Go库，用于从环境变量解析结构标记。](https://github.com/sethvargo/go-envconfig) 
