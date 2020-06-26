@@ -281,6 +281,9 @@
 
 
 
+
+### June 26, 2020 
+- [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) 
 ### June 25, 2020 
 - [Laravel wherehasin是一个可以提升Laravel ORM关联关系查询性能的扩展包，可以替代Laravel ORM中的whereHas以及whereHasMorphIn查询方法。](https://github.com/jqhph/laravel-wherehasin) 
 - [具有P2P内容发现功能的隐私增强型BitTorrent客户端](https://github.com/Tribler/tribler) 
