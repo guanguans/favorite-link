@@ -287,6 +287,7 @@
 - [解释MySQL查询解释器。 类似于浏览器的升级EXPLAIN命令。 重点介绍MySQL查询。 它还提供了提示和链接。](https://github.com/rap2hpoutre/mysql-xplain-xplain) 
 - [XgeneCloud  任何数据库上的即时REST和GraphQL API](https://github.com/xgenecloud/xgenecloud) 
 - [MongoDB操作仪表板](https://github.com/RenzHoly/Mongood) 
+- [extension Chrome扩展程序，用于在Github上显示文件图标。](https://github.com/lvarayut/github-file-icons) 
 ### June 25, 2020 
 - [Laravel wherehasin是一个可以提升Laravel ORM关联关系查询性能的扩展包，可以替代Laravel ORM中的whereHas以及whereHasMorphIn查询方法。](https://github.com/jqhph/laravel-wherehasin) 
 - [具有P2P内容发现功能的隐私增强型BitTorrent客户端](https://github.com/Tribler/tribler) 
