@@ -290,6 +290,7 @@
 - [extension Chrome扩展程序，用于在Github上显示文件图标。](https://github.com/lvarayut/github-file-icons) 
 - [受Vi / Vim的极大启发。 Amp的目标是采用Vim的核心交互模型，对其进行简化，并捆绑现代文本编辑器所需的基本功能。](https://github.com/jmacdonald/amp) 
 - [Tcell是一个Go包，它为文本终端（例如xterm）提供基于单元格的视图。 它受到termbox的启发，但包含许多其他改进。](https://github.com/gdamore/tcell) 
+- [基于事件的解析器，用于大型JSON集合（占用少量内存）。 建立在JSON流解析器之上](https://github.com/MAXakaWIZARD/JsonCollectionParser) 
 ### June 25, 2020 
 - [Laravel wherehasin是一个可以提升Laravel ORM关联关系查询性能的扩展包，可以替代Laravel ORM中的whereHas以及whereHasMorphIn查询方法。](https://github.com/jqhph/laravel-wherehasin) 
 - [具有P2P内容发现功能的隐私增强型BitTorrent客户端](https://github.com/Tribler/tribler) 
