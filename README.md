@@ -287,6 +287,7 @@
 - [免key，可扩展快递物流查询，第三方快递100，爱查快递，百度快递](https://github.com/liaoshengping/express-sdk) 
 - [在PHP中构建健壮的解析器的最简单方法。](https://github.com/mathiasverraes/parsica) 
 - [curl-to-Go是在浏览器中立即将curl命令转换为Go代码的工具。 它不能保证高保真度的转换，但是对于大多数具有curl样本的API文档来说已经足够了。](https://github.com/mholt/curl-to-go) 
+- [📐将Golang的http.Request转换为CURL命令行](https://github.com/moul/http2curl) 
 ### June 26, 2020 
 - [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) 
 - [解释MySQL查询解释器。 类似于浏览器的升级EXPLAIN命令。 重点介绍MySQL查询。 它还提供了提示和链接。](https://github.com/rap2hpoutre/mysql-xplain-xplain) 
