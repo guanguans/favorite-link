@@ -292,6 +292,7 @@
 - [Golang HTTP和HTTPS服务器的零停机时间重新启动。 （适用于Golang 1.3+）](https://github.com/fvbock/endless) 
 - [Laravel的前端预设可以使用TALL堆栈来搭建应用程序，从而快速启动应用程序的开发。](https://github.com/laravel-frontend-presets/tall) 
 - [在安装和更新Web应用程序时可以运行的可配置代码。](https://github.com/ash-jc-allen/laravel-executor) 
+- [package此软件包可让您为Laravel项目创建工厂类。](https://github.com/christophrumpel/laravel-factories-reloaded) 
 ### June 29, 2020 
 - [围绕Symfony的Process组件的优雅包装。](https://github.com/TitasGailius/terminal) 
 - [Go的大多数即时模式GUI库。 早期版本的nuklear的源端口。](https://github.com/aarzilli/nucular) 
