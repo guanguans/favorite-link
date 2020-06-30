@@ -284,6 +284,9 @@
 
 
 
+
+### June 30, 2020 
+- [Olive是一个免费的非线性视频编辑器，适用于Windows，macOS和Linux。](https://github.com/olive-editor/olive) 
 ### June 29, 2020 
 - [围绕Symfony的Process组件的优雅包装。](https://github.com/TitasGailius/terminal) 
 - [Go的大多数即时模式GUI库。 早期版本的nuklear的源端口。](https://github.com/aarzilli/nucular) 
