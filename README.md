@@ -289,6 +289,7 @@
 - [Olive是一个免费的非线性视频编辑器，适用于Windows，macOS和Linux。](https://github.com/olive-editor/olive) 
 - [该角色将NGINX开源，NGINX Plus，NGINX Amplify代理或NGINX单元安装在目标主机上](https://github.com/nginxinc/ansible-role-nginx) 
 - [Sequel Ace是一个快速，易于使用的Mac数据库管理应用程序，用于处理MySQL和MariaDB数据库。](https://github.com/Sequel-Ace/Sequel-Ace) 
+- [Golang HTTP和HTTPS服务器的零停机时间重新启动。 （适用于Golang 1.3+）](https://github.com/fvbock/endless) 
 ### June 29, 2020 
 - [围绕Symfony的Process组件的优雅包装。](https://github.com/TitasGailius/terminal) 
 - [Go的大多数即时模式GUI库。 早期版本的nuklear的源端口。](https://github.com/aarzilli/nucular) 
