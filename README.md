@@ -290,6 +290,7 @@
 - [该角色将NGINX开源，NGINX Plus，NGINX Amplify代理或NGINX单元安装在目标主机上](https://github.com/nginxinc/ansible-role-nginx) 
 - [Sequel Ace是一个快速，易于使用的Mac数据库管理应用程序，用于处理MySQL和MariaDB数据库。](https://github.com/Sequel-Ace/Sequel-Ace) 
 - [Golang HTTP和HTTPS服务器的零停机时间重新启动。 （适用于Golang 1.3+）](https://github.com/fvbock/endless) 
+- [Laravel的前端预设可以使用TALL堆栈来搭建应用程序，从而快速启动应用程序的开发。](https://github.com/laravel-frontend-presets/tall) 
 ### June 29, 2020 
 - [围绕Symfony的Process组件的优雅包装。](https://github.com/TitasGailius/terminal) 
 - [Go的大多数即时模式GUI库。 早期版本的nuklear的源端口。](https://github.com/aarzilli/nucular) 
