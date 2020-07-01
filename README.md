@@ -290,6 +290,7 @@
 - [🔥一个快速的静态站点生成器，它使用Laravel的Blade模板引擎并利用JSON或Markdown文件来提供超可扩展的内容。](https://github.com/aschmelyun/cleaver) 
 - [用Coffeescript编写的通用PSD解析器。](https://github.com/meltingice/psd.js) 
 - [将简单的SQL语句解析为一个抽象语法树（AST），其中包含已访问的tableList、columnList并将其转换回SQL。](https://github.com/taozhi8833998/node-sql-parser) 
+- [laravel-intellisense](https://github.com/simoebenhida/laravel-intellisense) 
 ### June 30, 2020 
 - [Olive是一个免费的非线性视频编辑器，适用于Windows，macOS和Linux。](https://github.com/olive-editor/olive) 
 - [该角色将NGINX开源，NGINX Plus，NGINX Amplify代理或NGINX单元安装在目标主机上](https://github.com/nginxinc/ansible-role-nginx) 
