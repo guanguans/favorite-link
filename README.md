@@ -292,6 +292,7 @@
 - [将简单的SQL语句解析为一个抽象语法树（AST），其中包含已访问的tableList、columnList并将其转换回SQL。](https://github.com/taozhi8833998/node-sql-parser) 
 - [laravel-intellisense](https://github.com/simoebenhida/laravel-intellisense) 
 - [Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。](https://github.com/phodal/ledge) 
+- [在 laravel 中轻松容易的输出 SQL 语句](https://github.com/guanguans/laravel-raw-sql) 
 ### June 30, 2020 
 - [Olive是一个免费的非线性视频编辑器，适用于Windows，macOS和Linux。](https://github.com/olive-editor/olive) 
 - [该角色将NGINX开源，NGINX Plus，NGINX Amplify代理或NGINX单元安装在目标主机上](https://github.com/nginxinc/ansible-role-nginx) 
