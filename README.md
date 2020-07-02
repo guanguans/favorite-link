@@ -291,6 +291,7 @@
 - [通过Puli命令行界面，可以通过您喜欢的终端访问Puli Manager。](https://github.com/puli/cli) 
 - [Laravel Pipeline类的包装](https://github.com/zaengle/pipeline) 
 - [Mock Client](https://github.com/php-http/mock-client) 
+- [该软件包在Composer安装过程中在软件包的下游使用者中执行类型检查。 这仅适用于直接依赖于roave / you-using-it-wrong错误的包中声明的类，属性，方法和函数的用法。](https://github.com/Roave/you-are-using-it-wrong) 
 ### July 1, 2020 
 - [🔥一个快速的静态站点生成器，它使用Laravel的Blade模板引擎并利用JSON或Markdown文件来提供超可扩展的内容。](https://github.com/aschmelyun/cleaver) 
 - [用Coffeescript编写的通用PSD解析器。](https://github.com/meltingice/psd.js) 
