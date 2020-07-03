@@ -291,6 +291,7 @@
 ### July 3, 2020 
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) 
 - [使用Laravel 7. *和VueJS的功能齐全的博客。](https://github.com/alimranahmed/LaraBlog) 
+- [通过不同的CI系统使用Newman运行Postman Collections的示例。](https://github.com/DannyDainton/postman-ci-pipeline-example) 
 ### July 2, 2020 
 - [通过Puli命令行界面，可以通过您喜欢的终端访问Puli Manager。](https://github.com/puli/cli) 
 - [Laravel Pipeline类的包装](https://github.com/zaengle/pipeline) 
