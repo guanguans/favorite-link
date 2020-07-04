@@ -288,6 +288,9 @@
 
 
 
+
+### July 4, 2020 
+- [网易云音乐升级API](https://github.com/ZainCheung/netease-cloud-api) 
 ### July 3, 2020 
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) 
 - [使用Laravel 7. *和VueJS的功能齐全的博客。](https://github.com/alimranahmed/LaraBlog) 
