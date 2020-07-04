@@ -292,6 +292,7 @@
 ### July 4, 2020 
 - [网易云音乐升级API](https://github.com/ZainCheung/netease-cloud-api) 
 - [Git代码树扩展。](https://github.com/ineo6/git-master/blob/master/README.zh-CN.md) 
+- [该软件包用于在保存模型之前使用laravel-media-library上传文件。](https://github.com/ahmed-aliraqi/laravel-media-uploader) 
 ### July 3, 2020 
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) 
 - [使用Laravel 7. *和VueJS的功能齐全的博客。](https://github.com/alimranahmed/LaraBlog) 
