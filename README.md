@@ -298,6 +298,7 @@
 - [将Microsoft Word文档转换为Markdown](https://github.com/mattn/docx2md) 
 - [用Go编写的PDF处理器。](https://github.com/pdfcpu/pdfcpu) 
 - [多语言站点的组件](https://github.com/skeeks-semenov/yii2-multi-language) 
+- [美丽的Redis GUI🔥](https://github.com/diego3g/rocketredis) 
 ### July 4, 2020 
 - [网易云音乐升级API](https://github.com/ZainCheung/netease-cloud-api) 
 - [Git代码树扩展。](https://github.com/ineo6/git-master/blob/master/README.zh-CN.md) 
