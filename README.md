@@ -300,6 +300,7 @@
 - [多语言站点的组件](https://github.com/skeeks-semenov/yii2-multi-language) 
 - [美丽的Redis GUI🔥](https://github.com/diego3g/rocketredis) 
 - [launch app from h5（调起app、调用端能力、CDN/应用商店下载）](https://github.com/jawidx/web-launch-app) 
+- [使用Shodan API自动执行Jenkins黑客攻击](https://github.com/joesmithjaffa/jenkins-shell) 
 ### July 4, 2020 
 - [网易云音乐升级API](https://github.com/ZainCheung/netease-cloud-api) 
 - [Git代码树扩展。](https://github.com/ineo6/git-master/blob/master/README.zh-CN.md) 
