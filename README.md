@@ -293,6 +293,7 @@
 ### July 6, 2020 
 - [Hamcrest是一个匹配库，最初是为Java编写的，但后来移植到许多其他语言](https://github.com/hamcrest/hamcrest-php) 
 - [Go的基于依赖注入的应用程序框架。](https://github.com/uber-go/fx) 
+- [为laravel仪表板创建所需的所有图表](https://github.com/fidum/laravel-dashboard-chart-tile) 
 ### July 4, 2020 
 - [网易云音乐升级API](https://github.com/ZainCheung/netease-cloud-api) 
 - [Git代码树扩展。](https://github.com/ineo6/git-master/blob/master/README.zh-CN.md) 
