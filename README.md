@@ -296,6 +296,7 @@
 - [为laravel仪表板创建所需的所有图表](https://github.com/fidum/laravel-dashboard-chart-tile) 
 - [Markdown解析器和Go的HTML渲染器](https://github.com/gomarkdown/markdown) 
 - [将Microsoft Word文档转换为Markdown](https://github.com/mattn/docx2md) 
+- [用Go编写的PDF处理器。](https://github.com/pdfcpu/pdfcpu) 
 ### July 4, 2020 
 - [网易云音乐升级API](https://github.com/ZainCheung/netease-cloud-api) 
 - [Git代码树扩展。](https://github.com/ineo6/git-master/blob/master/README.zh-CN.md) 
