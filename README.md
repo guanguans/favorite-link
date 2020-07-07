@@ -294,6 +294,7 @@
 ### July 7, 2020 
 - [Yii2数据库设置](https://github.com/phemellc/yii2-settings) 
 - [🖼️适用于macOS，Windows和Linux的PNG / JPEG优化应用程序。](https://github.com/meowtec/Imagine) 
+- [awesome-lint](https://github.com/sindresorhus/awesome-lint) 
 ### July 6, 2020 
 - [Hamcrest是一个匹配库，最初是为Java编写的，但后来移植到许多其他语言](https://github.com/hamcrest/hamcrest-php) 
 - [Go的基于依赖注入的应用程序框架。](https://github.com/uber-go/fx) 
