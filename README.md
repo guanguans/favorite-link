@@ -291,6 +291,9 @@
 
 
 
+
+### July 8, 2020 
+- [Yii 2.0的增强型可编辑小部件，可使用html输入，小部件等轻松编辑显示的数据。](https://github.com/kartik-v/yii2-editable) 
 ### July 7, 2020 
 - [Yii2数据库设置](https://github.com/phemellc/yii2-settings) 
 - [🖼️适用于macOS，Windows和Linux的PNG / JPEG优化应用程序。](https://github.com/meowtec/Imagine) 
