@@ -292,6 +292,9 @@
 
 
 
+
+### July 9, 2020 
+- [在Laravel应用中监控计划的任务](https://github.com/spatie/laravel-schedule-monitor) 
 ### July 8, 2020 
 - [Yii 2.0的增强型可编辑小部件，可使用html输入，小部件等轻松编辑显示的数据。](https://github.com/kartik-v/yii2-editable) 
 - [头像加口罩小程序 - 基于uniapp使用vue快速实现](https://github.com/infinityu/mina-wear-mask) 
