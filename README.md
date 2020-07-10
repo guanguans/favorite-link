@@ -293,6 +293,9 @@
 
 
 
+
+### July 10, 2020 
+- [模块化您的Laravel应用程序](https://github.com/InterNACHI/modular) 
 ### July 9, 2020 
 - [在Laravel应用中监控计划的任务](https://github.com/spatie/laravel-schedule-monitor) 
 - [在Go（Golang）中实现的CHANGELOG生成器。](https://github.com/git-chglog/git-chglog) 
