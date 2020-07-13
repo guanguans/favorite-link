@@ -299,6 +299,7 @@
 ### July 13, 2020 
 - [基于Workerman的新一代多进程异步事件驱动蜘蛛引擎。](https://github.com/blogdaren/PHPCreeper) 
 - [自动生成您的GitHub用户个人资料页面](https://github.com/beyondcode/github-now) 
+- [mysql表结构自动同步工具](https://github.com/hidu/mysql-schema-sync/blob/master/README.md#mysql-schema-sync) 
 ### July 11, 2020 
 - [PHP Scraper-使用PHP的备受赞誉的Web界面](https://github.com/spekulatius/PHPScraper) 
 - [通过注释跳过您的PhpSpec示例](https://github.com/akeneo/PhpSpecSkipExampleExtension) 
