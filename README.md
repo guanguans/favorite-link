@@ -303,6 +303,7 @@
 - [jvm.go是用Go编写的玩具JVM（远未完成）。 该项目的主要目的是学习Go和JVM。](https://github.com/zxh0/jvm.go) 
 - [Twine是一个字符串处理库，具有表达力强，流利的语法。](https://github.com/PHLAK/Twine) 
 - [用于Laravel的TALL（Tailwind CSS，Alpine.js，Laravel和Livewire）预设](https://github.com/laravel-frontend-presets/tall) 
+- [OTP算法的PHP实现](https://github.com/Voronenko/PHPOTP) 
 ### July 13, 2020 
 - [基于Workerman的新一代多进程异步事件驱动蜘蛛引擎。](https://github.com/blogdaren/PHPCreeper) 
 - [自动生成您的GitHub用户个人资料页面](https://github.com/beyondcode/github-now) 
