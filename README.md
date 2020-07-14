@@ -305,6 +305,7 @@
 - [用于Laravel的TALL（Tailwind CSS，Alpine.js，Laravel和Livewire）预设](https://github.com/laravel-frontend-presets/tall) 
 - [OTP算法的PHP实现](https://github.com/Voronenko/PHPOTP) 
 - [PHP一个PHP库，用于根据RFC 4226（HOTP）和RFC 6238（TOTP）生成一次性密码](https://github.com/Spomky-Labs/otphp) 
+- [转储数据库的内容](https://github.com/spatie/db-dumper) 
 ### July 13, 2020 
 - [基于Workerman的新一代多进程异步事件驱动蜘蛛引擎。](https://github.com/blogdaren/PHPCreeper) 
 - [自动生成您的GitHub用户个人资料页面](https://github.com/beyondcode/github-now) 
