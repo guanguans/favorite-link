@@ -296,6 +296,9 @@
 
 
 
+
+### July 14, 2020 
+- [验证SQL词法分析器和解析器，重点关注MySQL方言。](https://github.com/phpmyadmin/sql-parser) 
 ### July 13, 2020 
 - [基于Workerman的新一代多进程异步事件驱动蜘蛛引擎。](https://github.com/blogdaren/PHPCreeper) 
 - [自动生成您的GitHub用户个人资料页面](https://github.com/beyondcode/github-now) 
