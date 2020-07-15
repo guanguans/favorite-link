@@ -306,6 +306,7 @@
 - [DaybydayCRM是一种开源CRM，可帮助您跟踪日常工作流程。](https://github.com/Bottelet/DaybydayCRM) 
 - [高性能100％兼容的“ encoding / json”替代产品](https://github.com/json-iterator/go) 
 - [验证，Laravel的验证特征](https://github.com/dwightwatson/validating) 
+- [fate 命运 起名 算命 宝宝起名 起名助手 宝宝取名](https://github.com/godcong/fate) 
 ### July 14, 2020 
 - [验证SQL词法分析器和解析器，重点关注MySQL方言。](https://github.com/phpmyadmin/sql-parser) 
 - [黑客脚本](https://github.com/NARKOZ/hacker-scripts/blob/master/README.zh-CN.md) 
