@@ -297,6 +297,9 @@
 
 
 
+
+### July 15, 2020 
+- [解锁网易云音乐客户端变灰歌曲](https://github.com/meng-chuan/Unlock-netease-cloud-music) 
 ### July 14, 2020 
 - [验证SQL词法分析器和解析器，重点关注MySQL方言。](https://github.com/phpmyadmin/sql-parser) 
 - [黑客脚本](https://github.com/NARKOZ/hacker-scripts/blob/master/README.zh-CN.md) 
