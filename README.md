@@ -302,6 +302,7 @@
 - [解锁网易云音乐客户端变灰歌曲](https://github.com/meng-chuan/Unlock-netease-cloud-music) 
 - [使用SQL查询git存储库。 使用SQLite虚拟表和go-git](https://github.com/augmentable-dev/gitqlite) 
 - [此软件包可让您免费跟踪Github资料视图并将其显示在您的资料自述文件中。](https://github.com/caneco/laravel-github-profile-view-counter) 
+- [自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况](https://github.com/x2rr/funds) 
 ### July 14, 2020 
 - [验证SQL词法分析器和解析器，重点关注MySQL方言。](https://github.com/phpmyadmin/sql-parser) 
 - [黑客脚本](https://github.com/NARKOZ/hacker-scripts/blob/master/README.zh-CN.md) 
