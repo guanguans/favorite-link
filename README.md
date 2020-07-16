@@ -301,6 +301,7 @@
 
 ### July 16, 2020 
 - [PHP中的JSON-API（http://jsonapi.org）响应。](https://github.com/tobyzerner/json-api-php) 
+- [使用具有表现力的API处理图像](https://github.com/spatie/image) 
 ### July 15, 2020 
 - [解锁网易云音乐客户端变灰歌曲](https://github.com/meng-chuan/Unlock-netease-cloud-music) 
 - [使用SQL查询git存储库。 使用SQLite虚拟表和go-git](https://github.com/augmentable-dev/gitqlite) 
