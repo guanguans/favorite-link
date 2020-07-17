@@ -302,6 +302,7 @@
 
 ### July 17, 2020 
 - [Json Mapper](https://github.com/hamlet-framework/json-mapper) 
+- [laravel包，用于流传输视频内容。](https://github.com/imanghafoori1/laravel-video) 
 ### July 16, 2020 
 - [PHP中的JSON-API（http://jsonapi.org）响应。](https://github.com/tobyzerner/json-api-php) 
 - [使用具有表现力的API处理图像](https://github.com/spatie/image) 
