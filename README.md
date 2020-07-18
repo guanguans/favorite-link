@@ -306,6 +306,7 @@
 - [Yii 2 Models添加了用于通过关系进行加载的功能，以及通过关系进行事务保存的功能以及软删除/恢复功能](https://github.com/mootensai/yii2-relation-trait) 
 - [JWT实现Yii2授权过程](https://github.com/damirka/yii2-jwt) 
 - [适用于Yii2框架的PHP dotenv](https://github.com/yiithings/yii2-dotenv) 
+- [用于配置组装的Composer插件](https://github.com/yiisoft/composer-config-plugin) 
 ### July 17, 2020 
 - [Json Mapper](https://github.com/hamlet-framework/json-mapper) 
 - [laravel包，用于流传输视频内容。](https://github.com/imanghafoori1/laravel-video) 
