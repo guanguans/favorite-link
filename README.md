@@ -303,6 +303,7 @@
 
 ### July 18, 2020 
 - [支持基于Telegram bot的网站聊天](https://github.com/onmotion/yii2-telegram) 
+- [Yii 2 Models添加了用于通过关系进行加载的功能，以及通过关系进行事务保存的功能以及软删除/恢复功能](https://github.com/mootensai/yii2-relation-trait) 
 ### July 17, 2020 
 - [Json Mapper](https://github.com/hamlet-framework/json-mapper) 
 - [laravel包，用于流传输视频内容。](https://github.com/imanghafoori1/laravel-video) 
