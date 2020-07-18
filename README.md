@@ -307,6 +307,7 @@
 - [JWT实现Yii2授权过程](https://github.com/damirka/yii2-jwt) 
 - [适用于Yii2框架的PHP dotenv](https://github.com/yiithings/yii2-dotenv) 
 - [用于配置组装的Composer插件](https://github.com/yiisoft/composer-config-plugin) 
+- [🔮Better Reflection是一种反射API，旨在改善和提供比PHP内置反射API更多的功能。](https://github.com/Roave/BetterReflection) 
 ### July 17, 2020 
 - [Json Mapper](https://github.com/hamlet-framework/json-mapper) 
 - [laravel包，用于流传输视频内容。](https://github.com/imanghafoori1/laravel-video) 
