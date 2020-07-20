@@ -306,6 +306,7 @@
 - [在你的 README 中 获取动态生成的GitHub统计信息！](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
 - [Docker Engine API的客户端。](https://github.com/fsouza/go-dockerclient) 
 - [Yii 2 REST API项目模板](https://github.com/forecho/yii2-rest-api) 
+- [Sentinel是PHP 7.2.5+框架不可知的全功能身份验证和授权系统。](https://github.com/cartalyst/sentinel) 
 ### July 18, 2020 
 - [支持基于Telegram bot的网站聊天](https://github.com/onmotion/yii2-telegram) 
 - [Yii 2 Models添加了用于通过关系进行加载的功能，以及通过关系进行事务保存的功能以及软删除/恢复功能](https://github.com/mootensai/yii2-relation-trait) 
