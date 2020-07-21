@@ -308,6 +308,7 @@
 - [Puppeteer记录器是一个Chrome扩展程序，可记录您的浏览器交互并生成Puppeteer脚本。](https://github.com/checkly/puppeteer-recorder) 
 - [Redis简单消息队列的PHP实现。](https://github.com/michsindelar/PhpRSMQ) 
 - [Pholcus是用纯Golang编写的分布式高并发爬虫软件](https://github.com/henrylee2cn/pholcus) 
+- [👾 优雅地限制删除Laravel的模型](https://github.com/f9webltd/laravel-deletable) 
 ### July 20, 2020 
 - [在你的 README 中 获取动态生成的GitHub统计信息！](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
 - [Docker Engine API的客户端。](https://github.com/fsouza/go-dockerclient) 
