@@ -310,6 +310,7 @@
 - [Pholcus是用纯Golang编写的分布式高并发爬虫软件](https://github.com/henrylee2cn/pholcus) 
 - [👾 优雅地限制删除Laravel的模型](https://github.com/f9webltd/laravel-deletable) 
 - [从一个CSV文件转换您的Laravel应用程序！](https://github.com/Lukasss93/laravel-larex) 
+- [拖放页面构建器，用于管理任何Laravel项目中的页面。](https://github.com/HansSchouten/Laravel-Pagebuilder) 
 ### July 20, 2020 
 - [在你的 README 中 获取动态生成的GitHub统计信息！](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
 - [Docker Engine API的客户端。](https://github.com/fsouza/go-dockerclient) 
