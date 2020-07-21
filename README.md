@@ -302,6 +302,9 @@
 
 
 
+
+### July 21, 2020 
+- [微信群二维码活码工具，生成微信群活码，随时可以切换二维码！](https://github.com/likeyun/WeChat-Group-HuoMa) 
 ### July 20, 2020 
 - [在你的 README 中 获取动态生成的GitHub统计信息！](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
 - [Docker Engine API的客户端。](https://github.com/fsouza/go-dockerclient) 
