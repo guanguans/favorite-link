@@ -306,6 +306,7 @@
 ### July 21, 2020 
 - [微信群二维码活码工具，生成微信群活码，随时可以切换二维码！](https://github.com/likeyun/WeChat-Group-HuoMa) 
 - [Puppeteer记录器是一个Chrome扩展程序，可记录您的浏览器交互并生成Puppeteer脚本。](https://github.com/checkly/puppeteer-recorder) 
+- [Redis简单消息队列的PHP实现。](https://github.com/michsindelar/PhpRSMQ) 
 ### July 20, 2020 
 - [在你的 README 中 获取动态生成的GitHub统计信息！](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md) 
 - [Docker Engine API的客户端。](https://github.com/fsouza/go-dockerclient) 
