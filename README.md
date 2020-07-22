@@ -306,6 +306,7 @@
 
 ### July 22, 2020 
 - [基于Python开发的在线文档系统，适合作为个人和小型团队的文档、笔记、知识管理工具。](https://github.com/zmister2016/MrDoc) 
+- [Go中受RocksDB / LevelDB启发的键值数据库](https://github.com/cockroachdb/pebble) 
 ### July 21, 2020 
 - [微信群二维码活码工具，生成微信群活码，随时可以切换二维码！](https://github.com/likeyun/WeChat-Group-HuoMa) 
 - [Puppeteer记录器是一个Chrome扩展程序，可记录您的浏览器交互并生成Puppeteer脚本。](https://github.com/checkly/puppeteer-recorder) 
