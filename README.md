@@ -308,6 +308,7 @@
 ### July 23, 2020 
 - [1、我写的三十万字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 ](https://github.com/geekxh/hello-algorithm) 
 - [pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作](https://github.com/a54552239/pearProject) 
+- [Laravel Queue的RabbitMQ驱动程序。](https://github.com/vyuldashev/laravel-queue-rabbitmq) 
 ### July 22, 2020 
 - [基于Python开发的在线文档系统，适合作为个人和小型团队的文档、笔记、知识管理工具。](https://github.com/zmister2016/MrDoc) 
 - [Go中受RocksDB / LevelDB启发的键值数据库](https://github.com/cockroachdb/pebble) 
