@@ -309,6 +309,7 @@
 
 ### July 26, 2020 
 - [这是Go样式指南的集合。](https://github.com/dgryski/awesome-go-style) 
+- [专为国人开发者打造的 Cheat Sheet — 操作系统、数据库、编程语言、框架和开发工具等速查表。](https://github.com/polaris1119/awesome-cheatsheets-cn) 
 ### July 24, 2020 
 - [PCOV-适用于PHP的CodeCoverage兼容驱动程序](https://github.com/krakjoe/pcov) 
 - [专为Kubernetes设计的操作系统，由Kubernetes完全管理。](https://github.com/rancher/k3os) 
