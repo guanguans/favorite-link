@@ -313,6 +313,7 @@
 - [通过平台仿真进行动态二进制分析](https://github.com/lunixbochs/usercorn) 
 - [Go（Golang）中的数据框架和数据处理](https://github.com/go-gota/gota) 
 - [用于Meilisearch的Laravel Scout引擎](https://github.com/meilisearch/meilisearch-laravel-scout) 
+- [将日志文件发送到与graylog一样的Gelf兼容后端的php实现](https://github.com/bzikarsky/gelf-php) 
 ### July 24, 2020 
 - [PCOV-适用于PHP的CodeCoverage兼容驱动程序](https://github.com/krakjoe/pcov) 
 - [专为Kubernetes设计的操作系统，由Kubernetes完全管理。](https://github.com/rancher/k3os) 
