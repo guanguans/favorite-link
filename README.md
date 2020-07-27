@@ -307,6 +307,9 @@
 
 
 
+
+### July 27, 2020 
+- [将PHP的内部结构对外开放](https://github.com/mnapoli/externals) 
 ### July 26, 2020 
 - [这是Go样式指南的集合。](https://github.com/dgryski/awesome-go-style) 
 - [专为国人开发者打造的 Cheat Sheet — 操作系统、数据库、编程语言、框架和开发工具等速查表。](https://github.com/polaris1119/awesome-cheatsheets-cn) 
