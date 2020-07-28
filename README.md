@@ -308,6 +308,9 @@
 
 
 
+
+### July 28, 2020 
+- [基于Javascript的HTML压缩器/压缩器（支持Node.js）](https://github.com/kangax/html-minifier) 
 ### July 27, 2020 
 - [将PHP的内部结构对外开放](https://github.com/mnapoli/externals) 
 - [仅使用用户的设备、指纹或生物特征数据对用户进行身份验证。再见密码！](https://github.com/DarkGhostHunter/Larapass) 
