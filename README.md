@@ -313,6 +313,7 @@
 - [基于Javascript的HTML压缩器/压缩器（支持Node.js）](https://github.com/kangax/html-minifier) 
 - [Jet template engine](https://github.com/CloudyKit/jet) 
 - [Remark42是一个自托管、轻量级、简单（但功能强大）的评论引擎，它不监视用户。它可以嵌入博客、文章或任何其他读者添加评论的地方。](https://github.com/umputun/remark42) 
+- [Keeping Your Laravel Forms Awake.](https://github.com/GeneaLabs/laravel-caffeine) 
 ### July 27, 2020 
 - [将PHP的内部结构对外开放](https://github.com/mnapoli/externals) 
 - [仅使用用户的设备、指纹或生物特征数据对用户进行身份验证。再见密码！](https://github.com/DarkGhostHunter/Larapass) 
