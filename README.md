@@ -309,6 +309,9 @@
 
 
 
+
+### July 29, 2020 
+- [快速，低开销的Web框架，用于Node.js](https://github.com/fastify/fastify) 
 ### July 28, 2020 
 - [基于Javascript的HTML压缩器/压缩器（支持Node.js）](https://github.com/kangax/html-minifier) 
 - [Jet template engine](https://github.com/CloudyKit/jet) 
