@@ -313,6 +313,7 @@
 
 ### July 30, 2020 
 - [MeetingBar是用于日历会议（macOS 10.15+）的菜单栏应用程序。](https://github.com/leits/MeetingBar) 
+- [Fend是微小的Swoole / FPM引擎框架](https://github.com/tal-tech/fend) 
 ### July 29, 2020 
 - [快速，低开销的Web框架，用于Node.js](https://github.com/fastify/fastify) 
 ### July 28, 2020 
