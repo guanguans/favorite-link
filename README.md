@@ -311,6 +311,9 @@
 
 
 
+
+### July 31, 2020 
+- [基于Redis的，用于Laravel的全自动可扩展数据库缓存层](https://github.com/spiritix/lada-cache) 
 ### July 30, 2020 
 - [MeetingBar是用于日历会议（macOS 10.15+）的菜单栏应用程序。](https://github.com/leits/MeetingBar) 
 - [Fend是微小的Swoole / FPM引擎框架](https://github.com/tal-tech/fend) 
