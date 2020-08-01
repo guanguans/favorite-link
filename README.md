@@ -322,6 +322,7 @@
 - [git查询语言](https://github.com/filhodanuvem/gitql) 
 - [laravel5.8版本源码分析](https://github.com/immortalChensm/laravel5.8) 
 - [laravel最佳实践](https://github.com/alexeymezenin/laravel-best-practices/blob/master/chinese.md) 
+- [Laravel最佳实践中文版](https://github.com/kevinyan815/laravel_best_practices_cn) 
 ### July 31, 2020 
 - [基于Redis的，用于Laravel的全自动可扩展数据库缓存层](https://github.com/spiritix/lada-cache) 
 - [Golang 通用网络连接池](https://github.com/silenceper/pool) 
