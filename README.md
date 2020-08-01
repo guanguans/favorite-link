@@ -318,6 +318,7 @@
 - [ngx_http_lua_module-将Lua的功能嵌入到Nginx HTTP服务器中。](https://github.com/openresty/lua-nginx-module) 
 - [Go cli应用程序的多进度条](https://github.com/vbauerster/mpb) 
 - [🚴 炫酷的中文版本的 git commit emoji 🐛🎨✨ 🔥💄📝 🎉 命令行](https://github.com/tw93/cz-emoji-chinese) 
+- [PHP中的Unirest：简化的轻量级HTTP客户端库。](https://github.com/Kong/unirest-php) 
 ### July 31, 2020 
 - [基于Redis的，用于Laravel的全自动可扩展数据库缓存层](https://github.com/spiritix/lada-cache) 
 - [Golang 通用网络连接池](https://github.com/silenceper/pool) 
