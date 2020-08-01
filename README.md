@@ -312,6 +312,9 @@
 
 
 
+
+### August 1, 2020 
+- [用于检测composer项目的第三方依赖组件是否存在安全漏洞。](https://github.com/momosecurity/mosec-composer-plugin) 
 ### July 31, 2020 
 - [基于Redis的，用于Laravel的全自动可扩展数据库缓存层](https://github.com/spiritix/lada-cache) 
 - [Golang 通用网络连接池](https://github.com/silenceper/pool) 
