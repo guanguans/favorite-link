@@ -318,6 +318,7 @@
 - [mac下PHP和web开发环境管理工具](https://github.com/xpf0000/BuildPhp/blob/master/README-CN.md) 
 - [简洁易用的C++11网络库 / 支持单机千万并发连接](https://github.com/yedf/handy) 
 - [这是一个极其复杂且几乎完全无用的浏览器嗅探库](https://github.com/WhichBrowser/Parser-PHP) 
+- [正则表达式](https://github.com/geongeorge/i-hate-regex) 
 ### August 1, 2020 
 - [用于检测composer项目的第三方依赖组件是否存在安全漏洞。](https://github.com/momosecurity/mosec-composer-plugin) 
 - [ngx_http_lua_module-将Lua的功能嵌入到Nginx HTTP服务器中。](https://github.com/openresty/lua-nginx-module) 
