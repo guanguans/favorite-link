@@ -319,6 +319,7 @@
 - [用来显示 markdown 文档的，基于 gin 框架的， go 语言开发的博客](https://github.com/broqiang/mdblog) 
 - [Laravel的主题和资产管理](https://github.com/FaCuZ/laravel-theme) 
 - [大咖说PHP](https://github.com/baiyutang/awesome-php-meetup) 
+- [通过PHPStan检测被禁止的代码](https://github.com/ekino/phpstan-banned-code) 
 ### August 3, 2020 
 - [mac下PHP和web开发环境管理工具](https://github.com/xpf0000/BuildPhp/blob/master/README-CN.md) 
 - [简洁易用的C++11网络库 / 支持单机千万并发连接](https://github.com/yedf/handy) 
