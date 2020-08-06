@@ -319,6 +319,7 @@
 
 ### August 6, 2020 
 - [Web界面，用于管理和访问Virtualbox计算机。](https://github.com/phpvirtualbox/phpvirtualbox) 
+- [用于Telegram BOT API的本机PHP包装器](https://github.com/TelegramBot/Api) 
 ### August 5, 2020 
 - [国内低代码平台从业者交流](https://github.com/taowen/awesome-lowcode) 
 - [保存/创建/删除源文件后，构建和（重新）启动Go Web应用程序。](https://github.com/gravityblast/fresh) 
