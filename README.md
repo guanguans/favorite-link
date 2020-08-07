@@ -321,6 +321,7 @@
 ### August 7, 2020 
 - [mili 是一个开源的社区系统，界面优雅，功能丰富😛](https://github.com/shen100/mili) 
 - [go collection](https://github.com/chenhg5/collection) 
+- [React中的Vue，Vue中的React。 两者的无缝集成。](https://github.com/akxcv/vuera) 
 ### August 6, 2020 
 - [Web界面，用于管理和访问Virtualbox计算机。](https://github.com/phpvirtualbox/phpvirtualbox) 
 - [用于Telegram BOT API的本机PHP包装器](https://github.com/TelegramBot/Api) 
