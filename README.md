@@ -318,6 +318,9 @@
 
 
 
+
+### August 8, 2020 
+- [getID3()](https://github.com/JamesHeinrich/getID3) 
 ### August 7, 2020 
 - [mili 是一个开源的社区系统，界面优雅，功能丰富😛](https://github.com/shen100/mili) 
 - [go collection](https://github.com/chenhg5/collection) 
