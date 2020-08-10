@@ -325,6 +325,7 @@
 - [该软件包提供了通用的mime类型检测接口以及基于finfo的实现。](https://github.com/thephpleague/mime-type-detection) 
 - [受Twitter雪花启发的分布式唯一ID生成器](https://github.com/sony/sonyflake) 
 - [受Twitter雪花启发的分布式唯一ID生成器](https://github.com/Sybio/GifFrameExtractor) 
+- [通过这个简单的软件包，可以轻松地向您的laravel项目中添加完整的Laravel博客（具有内置的管理面板和公共视图）。](https://github.com/WebDevEtc/BlogEtc) 
 ### August 8, 2020 
 - [getID3()](https://github.com/JamesHeinrich/getID3) 
 - [Google 两步登陆验证](https://github.com/Ghost-die/google-authenticator) 
