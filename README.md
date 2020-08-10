@@ -323,6 +323,7 @@
 ### August 10, 2020 
 - [laravel-zip](https://github.com/zanysoft/laravel-zip) 
 - [该软件包提供了通用的mime类型检测接口以及基于finfo的实现。](https://github.com/thephpleague/mime-type-detection) 
+- [受Twitter雪花启发的分布式唯一ID生成器](https://github.com/sony/sonyflake) 
 ### August 8, 2020 
 - [getID3()](https://github.com/JamesHeinrich/getID3) 
 - [Google 两步登陆验证](https://github.com/Ghost-die/google-authenticator) 
