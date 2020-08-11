@@ -326,6 +326,7 @@
 - [一个很小的（〜400 B）的现代库，用于绑定。](https://github.com/jamiebuilds/tinykeys) 
 - [performance PHP性能工具可以按时间，内存使用率和数据库查询来分析您的脚本。 为Web，Web控制台和命令行界面支持Laravel和Composer。](https://github.com/bvanhoekelen/performance) 
 - [此扩展包装了非常出色的libui，为PHP 7提供了用于创建跨平台本机外观界面的API。](https://github.com/krakjoe/ui) 
+- [PHP语言的SDL（简单DirectMedia层）绑定。 该扩展允许您使用窗口，输入处理，事件等创建多媒体桌面应用程序。](https://github.com/Ponup/php-sdl) 
 ### August 10, 2020 
 - [laravel-zip](https://github.com/zanysoft/laravel-zip) 
 - [该软件包提供了通用的mime类型检测接口以及基于finfo的实现。](https://github.com/thephpleague/mime-type-detection) 
