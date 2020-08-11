@@ -323,6 +323,7 @@
 
 ### August 11, 2020 
 - [Taichi（太极）是一种为高性能计算机图形设计的编程语言。](https://github.com/taichi-dev/taichi) 
+- [一个很小的（〜400 B）的现代库，用于绑定。](https://github.com/jamiebuilds/tinykeys) 
 ### August 10, 2020 
 - [laravel-zip](https://github.com/zanysoft/laravel-zip) 
 - [该软件包提供了通用的mime类型检测接口以及基于finfo的实现。](https://github.com/thephpleague/mime-type-detection) 
