@@ -321,6 +321,9 @@
 
 
 
+
+### August 12, 2020 
+- [Laravel Nova工具来备份您的应用程序](https://github.com/spatie/nova-backup-tool) 
 ### August 11, 2020 
 - [Taichi（太极）是一种为高性能计算机图形设计的编程语言。](https://github.com/taichi-dev/taichi) 
 - [一个很小的（〜400 B）的现代库，用于绑定。](https://github.com/jamiebuilds/tinykeys) 
