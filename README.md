@@ -327,6 +327,7 @@
 - [地址智能识别Pro(支持vue、小程序)/省市区街道四级联动（支持省市区街道/电话/邮编/姓名/身份证号识别）](https://github.com/wzc570738205/smartParsePro) 
 - [Go编程语言安全编码实践指南](https://github.com/OWASP/Go-SCP) 
 - [siGo的结构化，可插入日志记录。rupsen/logrus: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus) 
+- [自动解密工具](https://github.com/Ciphey/Ciphey) 
 ### August 11, 2020 
 - [Taichi（太极）是一种为高性能计算机图形设计的编程语言。](https://github.com/taichi-dev/taichi) 
 - [一个很小的（〜400 B）的现代库，用于绑定。](https://github.com/jamiebuilds/tinykeys) 
