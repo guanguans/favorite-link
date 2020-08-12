@@ -332,6 +332,7 @@
 - [生成一个精简的Go Web项目。](https://github.com/go-bootstrap/go-bootstrap) 
 - [开源网络钓鱼工具包](https://github.com/gophish/gophish) 
 - [Go的无痛中间件链接](https://github.com/justinas/alice) 
+- [基于终端的仪表板。](https://github.com/mum4k/termdash) 
 ### August 11, 2020 
 - [Taichi（太极）是一种为高性能计算机图形设计的编程语言。](https://github.com/taichi-dev/taichi) 
 - [一个很小的（〜400 B）的现代库，用于绑定。](https://github.com/jamiebuilds/tinykeys) 
