@@ -330,6 +330,7 @@
 - [自动解密工具](https://github.com/Ciphey/Ciphey) 
 - [Apple 生态 中 RSSHub 的辅助 App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。](https://github.com/Cay-Zhang/RSSBud) 
 - [生成一个精简的Go Web项目。](https://github.com/go-bootstrap/go-bootstrap) 
+- [开源网络钓鱼工具包](https://github.com/gophish/gophish) 
 ### August 11, 2020 
 - [Taichi（太极）是一种为高性能计算机图形设计的编程语言。](https://github.com/taichi-dev/taichi) 
 - [一个很小的（〜400 B）的现代库，用于绑定。](https://github.com/jamiebuilds/tinykeys) 
