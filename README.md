@@ -326,6 +326,7 @@
 
 ### August 14, 2020 
 - [用 Vue.js 开发的跨三端应用](https://github.com/halfrost/vue-objccn) 
+- [1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、](https://github.com/geekxh/hello-algorithm) 
 ### August 13, 2020 
 - [👻Unsplash API的官方PHP包装器](https://github.com/unsplash/unsplash-php) 
 - [使用vuejs使您的数据库简单，轻松和快速。](https://github.com/Codexshaper/laravel-database-manager) 
