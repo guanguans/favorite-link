@@ -329,6 +329,7 @@
 - [1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、](https://github.com/geekxh/hello-algorithm) 
 - [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) 
 - [IP2Location Laravel Extension](https://github.com/ip2location/ip2location-laravel) 
+- [基于d2-admin的d2-crud,简化d2-crud配置，快速开发crud功能；](https://github.com/greper/d2-crud-plus) 
 ### August 13, 2020 
 - [👻Unsplash API的官方PHP包装器](https://github.com/unsplash/unsplash-php) 
 - [使用vuejs使您的数据库简单，轻松和快速。](https://github.com/Codexshaper/laravel-database-manager) 
