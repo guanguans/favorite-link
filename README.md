@@ -328,6 +328,7 @@
 ### August 15, 2020 
 - [为国人开源项目提供免费的子域名（自 2020 年 8 月起）](https://github.com/js-cool/js.cool) 
 - [使用键盘快捷键和捕捉区域在macOS上移动和调整窗口大小](https://github.com/rxhanson/Rectangle) 
+- [PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码](https://github.com/miaomiaosoft/PandaOCR) 
 ### August 14, 2020 
 - [用 Vue.js 开发的跨三端应用](https://github.com/halfrost/vue-objccn) 
 - [1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、](https://github.com/geekxh/hello-algorithm) 
