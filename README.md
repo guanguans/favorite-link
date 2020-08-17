@@ -325,6 +325,9 @@
 
 
 
+
+### August 17, 2020 
+- [Go中的LevelDB键/值数据库。](https://github.com/syndtr/goleveldb) 
 ### August 15, 2020 
 - [为国人开源项目提供免费的子域名（自 2020 年 8 月起）](https://github.com/js-cool/js.cool) 
 - [使用键盘快捷键和捕捉区域在macOS上移动和调整窗口大小](https://github.com/rxhanson/Rectangle) 
