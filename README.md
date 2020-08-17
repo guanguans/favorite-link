@@ -331,6 +331,7 @@
 - [Go的goroutine池](https://github.com/Jeffail/tunny) 
 - [Bifrost ---- 面向生产环境的 MySQL 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件](https://github.com/brokercap/Bifrost) 
 - [适用于PHP的简单SAML工具包](https://github.com/onelogin/php-saml) 
+- [渗透测试有关的POC、EXP、脚本、提权、小工具等](https://github.com/Mr-xn/Penetration_Testing_POC) 
 ### August 15, 2020 
 - [为国人开源项目提供免费的子域名（自 2020 年 8 月起）](https://github.com/js-cool/js.cool) 
 - [使用键盘快捷键和捕捉区域在macOS上移动和调整窗口大小](https://github.com/rxhanson/Rectangle) 
