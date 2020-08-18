@@ -331,6 +331,7 @@
 - [bootkube-启动自托管的Kubernetes集群](https://github.com/kubernetes-sigs/bootkube) 
 - [⎈❏Kubernetes的终端和Web控制台](https://github.com/astefanutti/kubebox) 
 - [🏆 寻找你最值得关注的开源库](https://github.com/juejin-im/open-source) 
+- [建立聊天机器人的框架，该机器人可以通过工程来处理复杂的多轮对话，例如建立网站或应用](https://github.com/thirdgerb/chatbot) 
 ### August 17, 2020 
 - [Go中的LevelDB键/值数据库。](https://github.com/syndtr/goleveldb) 
 - [Go的goroutine池](https://github.com/Jeffail/tunny) 
