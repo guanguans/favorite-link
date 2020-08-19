@@ -331,6 +331,7 @@
 ### August 19, 2020 
 - [thinkphp6 ueditor插件](https://github.com/hbh112233abc/ueditor) 
 - [JavaScript函数，用于使用MD5哈希消息](https://github.com/pvorb/node-md5) 
+- [Umami是Google Analytics（分析）的一种简单，快速的网站分析替代方法。](https://github.com/mikecao/umami) 
 ### August 18, 2020 
 - [bootkube-启动自托管的Kubernetes集群](https://github.com/kubernetes-sigs/bootkube) 
 - [⎈❏Kubernetes的终端和Web控制台](https://github.com/astefanutti/kubebox) 
