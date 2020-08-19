@@ -335,6 +335,7 @@
 - [基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能](https://github.com/meloalright/guora) 
 - [Echarts-PHP一个PHP库，用作Echarts js库的包装器](https://github.com/hisune/Echarts-PHP) 
 - [用于Node.js的RSS，Atom和JSON Feed生成器，使内容联合变得简单直观！ 🚀](https://github.com/jpmonette/feed) 
+- [Sarama是Apache Kafka 0.8及更高版本的Go库。](https://github.com/Shopify/sarama) 
 ### August 18, 2020 
 - [bootkube-启动自托管的Kubernetes集群](https://github.com/kubernetes-sigs/bootkube) 
 - [⎈❏Kubernetes的终端和Web控制台](https://github.com/astefanutti/kubebox) 
