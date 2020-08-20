@@ -337,6 +337,7 @@
 - [About 开源Go语言数值算法库](https://github.com/chfenger/goNum) 
 - [MOSN是边缘或服务网格的云本地代理。](https://github.com/mosn/mosn) 
 - [全国高校校徽字体图标库](https://github.com/lovefc/china_school_badge) 
+- [在终端中显示图像](https://github.com/sindresorhus/terminal-image-cli) 
 ### August 19, 2020 
 - [thinkphp6 ueditor插件](https://github.com/hbh112233abc/ueditor) 
 - [JavaScript函数，用于使用MD5哈希消息](https://github.com/pvorb/node-md5) 
