@@ -333,6 +333,7 @@
 - [一个查询IP地理信息和CDN服务提供商的离线终端工具.](https://github.com/zu1k/nali) 
 - [TLS完全指南](https://github.com/k8sp/tls) 
 - [将键入的文本转换为逼真的笔迹！](https://github.com/alias-rahil/handwritten.js) 
+- [基于 amis 的后台项目前端模板](https://github.com/fex-team/amis-admin) 
 ### August 19, 2020 
 - [thinkphp6 ueditor插件](https://github.com/hbh112233abc/ueditor) 
 - [JavaScript函数，用于使用MD5哈希消息](https://github.com/pvorb/node-md5) 
