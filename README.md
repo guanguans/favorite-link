@@ -331,6 +331,7 @@
 
 ### August 20, 2020 
 - [一个查询IP地理信息和CDN服务提供商的离线终端工具.](https://github.com/zu1k/nali) 
+- [TLS完全指南](https://github.com/k8sp/tls) 
 ### August 19, 2020 
 - [thinkphp6 ueditor插件](https://github.com/hbh112233abc/ueditor) 
 - [JavaScript函数，用于使用MD5哈希消息](https://github.com/pvorb/node-md5) 
