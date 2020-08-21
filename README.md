@@ -336,6 +336,7 @@
 - [ts-migrate是用于帮助将代码迁移到TypeScript的工具。](https://github.com/airbnb/ts-migrate) 
 - [在线书签管理工具](https://github.com/luchenqun/my-bookmark) 
 - [受python-prompt-toolkit启发，在Go中构建强大的交互式提示。](https://github.com/c-bata/go-prompt) 
+- [整理HTTP后台端的RESTful API方面的知识](https://github.com/crifan/http_restful_api) 
 ### August 20, 2020 
 - [一个查询IP地理信息和CDN服务提供商的离线终端工具.](https://github.com/zu1k/nali) 
 - [TLS完全指南](https://github.com/k8sp/tls) 
