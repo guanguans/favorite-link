@@ -333,6 +333,7 @@
 ### August 21, 2020 
 - [Kafka library in Go](https://github.com/segmentio/kafka-go) 
 - [这是psutil的端口（giampaolo / psutil）。 挑战在于在某些体系结构上移植所有psutil函数。](https://github.com/shirou/gopsutil) 
+- [ts-migrate是用于帮助将代码迁移到TypeScript的工具。](https://github.com/airbnb/ts-migrate) 
 ### August 20, 2020 
 - [一个查询IP地理信息和CDN服务提供商的离线终端工具.](https://github.com/zu1k/nali) 
 - [TLS完全指南](https://github.com/k8sp/tls) 
