@@ -329,6 +329,9 @@
 
 
 
+
+### August 21, 2020 
+- [Kafka library in Go](https://github.com/segmentio/kafka-go) 
 ### August 20, 2020 
 - [一个查询IP地理信息和CDN服务提供商的离线终端工具.](https://github.com/zu1k/nali) 
 - [TLS完全指南](https://github.com/k8sp/tls) 
