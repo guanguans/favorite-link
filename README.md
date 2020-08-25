@@ -334,6 +334,7 @@
 
 ### August 25, 2020 
 - [Laravel UPSERT和INSERT IGNORE查询](https://github.com/staudenmeir/laravel-upsert) 
+- [微信互联网平民创业（初稿）](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) 
 ### August 24, 2020 
 - [gin的快速应用脚手架](https://github.com/daodao97/egin) 
 - [非常全的古诗词数据，收录了从先秦到现代的共计85万余首古诗词。](https://github.com/Werneror/Poetry) 
