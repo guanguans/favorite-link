@@ -338,6 +338,7 @@
 - [Jennifer是Go的代码生成器](https://github.com/dave/jennifer) 
 - [eloquent-power-joins](https://github.com/kirschbaum-development/eloquent-power-joins) 
 - [通过SSH聊天。](https://github.com/shazow/ssh-chat) 
+- [用于存储库模式的文件自动生成器](https://github.com/mshamaseen/laravel-repository-pattern) 
 ### August 25, 2020 
 - [Laravel UPSERT和INSERT IGNORE查询](https://github.com/staudenmeir/laravel-upsert) 
 - [微信互联网平民创业（初稿）](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) 
