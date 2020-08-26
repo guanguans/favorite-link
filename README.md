@@ -332,6 +332,9 @@
 
 
 
+
+### August 26, 2020 
+- [Web仪表板以检查Terraform状态](https://github.com/camptocamp/terraboard) 
 ### August 25, 2020 
 - [Laravel UPSERT和INSERT IGNORE查询](https://github.com/staudenmeir/laravel-upsert) 
 - [微信互联网平民创业（初稿）](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network) 
