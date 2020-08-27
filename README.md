@@ -333,6 +333,9 @@
 
 
 
+
+### August 27, 2020 
+- [php开发人员非常灵活的git hook manager](https://github.com/CaptainHookPhp/captainhook) 
 ### August 26, 2020 
 - [Web仪表板以检查Terraform状态](https://github.com/camptocamp/terraboard) 
 - [Jennifer是Go的代码生成器](https://github.com/dave/jennifer) 
