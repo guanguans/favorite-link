@@ -341,6 +341,7 @@
 - [发送PHP错误到Flare](https://github.com/facade/flare-client-php) 
 - [生产级K8s的安装，升级和管理](https://github.com/kubernetes/kops) 
 - [将您的终端共享为Web应用程序](https://github.com/yudai/gotty) 
+- [查找最快的docker镜像](https://github.com/silenceshell/docker_mirror) 
 ### August 26, 2020 
 - [Web仪表板以检查Terraform状态](https://github.com/camptocamp/terraboard) 
 - [Jennifer是Go的代码生成器](https://github.com/dave/jennifer) 
