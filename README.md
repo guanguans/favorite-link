@@ -337,6 +337,7 @@
 ### August 27, 2020 
 - [php开发人员非常灵活的git hook manager](https://github.com/CaptainHookPhp/captainhook) 
 - [用于向GitHub添加功能的用户脚本](https://github.com/Mottie/GitHub-userscripts) 
+- [简单的Laravel队列速率限制](https://github.com/mxl/laravel-queue-rate-limit) 
 ### August 26, 2020 
 - [Web仪表板以检查Terraform状态](https://github.com/camptocamp/terraboard) 
 - [Jennifer是Go的代码生成器](https://github.com/dave/jennifer) 
