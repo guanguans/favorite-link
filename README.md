@@ -338,6 +338,7 @@
 ### August 28, 2020 
 - [准确查找在Laravel应用程序中调用特定数据库查询的位置。](https://github.com/fitztrev/query-tracer) 
 - [Laravel PHP Framework软件包，只需几个步骤即可向您的应用程序添加完整的实时聊天系统。](https://github.com/munafio/chatify) 
+- [适用于Laravel项目的灵活博客功能](https://github.com/bjuppa/laravel-blog) 
 ### August 27, 2020 
 - [php开发人员非常灵活的git hook manager](https://github.com/CaptainHookPhp/captainhook) 
 - [用于向GitHub添加功能的用户脚本](https://github.com/Mottie/GitHub-userscripts) 
