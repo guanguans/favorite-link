@@ -342,6 +342,7 @@
 - [基于Docker的仅开发依赖管理器](https://github.com/tightenco/takeout) 
 - [Laravel Cypress集成](https://github.com/laracasts/cypress) 
 - [将PHP数据转换为JavaScript。](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) 
+- [gomock](https://github.com/golang/mock) 
 ### August 27, 2020 
 - [php开发人员非常灵活的git hook manager](https://github.com/CaptainHookPhp/captainhook) 
 - [用于向GitHub添加功能的用户脚本](https://github.com/Mottie/GitHub-userscripts) 
