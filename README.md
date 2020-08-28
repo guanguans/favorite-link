@@ -334,6 +334,9 @@
 
 
 
+
+### August 28, 2020 
+- [准确查找在Laravel应用程序中调用特定数据库查询的位置。](https://github.com/fitztrev/query-tracer) 
 ### August 27, 2020 
 - [php开发人员非常灵活的git hook manager](https://github.com/CaptainHookPhp/captainhook) 
 - [用于向GitHub添加功能的用户脚本](https://github.com/Mottie/GitHub-userscripts) 
