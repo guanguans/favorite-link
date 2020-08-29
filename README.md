@@ -340,6 +340,7 @@
 - [敏感词查找,验证,过滤和替换](https://github.com/importcjj/sensitive) 
 - [生成数据库表结构说明文档](https://github.com/alicfeng/mysql_markdown) 
 - [一本学习Vim编辑器的书](https://github.com/iggredible/Learn-Vim) 
+- [优化的压缩包](https://github.com/klauspost/compress) 
 ### August 28, 2020 
 - [准确查找在Laravel应用程序中调用特定数据库查询的位置。](https://github.com/fitztrev/query-tracer) 
 - [Laravel PHP Framework软件包，只需几个步骤即可向您的应用程序添加完整的实时聊天系统。](https://github.com/munafio/chatify) 
