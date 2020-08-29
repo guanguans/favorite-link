@@ -342,6 +342,7 @@
 - [一本学习Vim编辑器的书](https://github.com/iggredible/Learn-Vim) 
 - [优化的压缩包](https://github.com/klauspost/compress) 
 - [内置于Composer中的PHP REPL（使用PsySH）](https://github.com/ramsey/composer-repl) 
+- [将Shell命令转换为Web服务](https://github.com/beefsack/webify) 
 ### August 28, 2020 
 - [准确查找在Laravel应用程序中调用特定数据库查询的位置。](https://github.com/fitztrev/query-tracer) 
 - [Laravel PHP Framework软件包，只需几个步骤即可向您的应用程序添加完整的实时聊天系统。](https://github.com/munafio/chatify) 
