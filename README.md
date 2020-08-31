@@ -342,6 +342,7 @@
 - [一个简单的嵌入式解决方案，用于为Eloquent模型的ID提供UUID支持。](https://github.com/goldspecdigital/laravel-eloquent-uuid) 
 - [一个简单的Laravel软件包，用于生成带有诸如到期时间，IP限制等选项的下载链接。](https://github.com/armancodes/laravel-download-link) 
 - [网页格式的简化工具](https://github.com/tdewolff/minify) 
+- [使用Laravel，Livewire，Tailwind CSS和Alpine JS的高级数据表](https://github.com/MedicOneSystems/livewire-datatables) 
 ### August 29, 2020 
 - [敏感词查找,验证,过滤和替换](https://github.com/importcjj/sensitive) 
 - [生成数据库表结构说明文档](https://github.com/alicfeng/mysql_markdown) 
