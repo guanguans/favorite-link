@@ -346,6 +346,7 @@
 - [免费的Laravel商业电子商务：购物车，CMS内容等...](https://github.com/s-cart/s-cart) 
 - [对go.crypto / ssh包的SFTP支持](https://github.com/pkg/sftp) 
 - [Official CORS gin's middleware](https://github.com/gin-contrib/cors) 
+- [> cat ~/.ssh/id_rsa.pub  >> ~/.ssh/authorized_keys #公钥加入authorized_keys文件](https://github.com/summertime-wu/make_cnblogs_better) 
 ### August 31, 2020 
 - [自动登录京东，打卡领钢镚，签到领京豆](https://github.com/CaoZ/JD-Coin) 
 - [一个简单的嵌入式解决方案，用于为Eloquent模型的ID提供UUID支持。](https://github.com/goldspecdigital/laravel-eloquent-uuid) 
