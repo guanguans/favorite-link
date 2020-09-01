@@ -337,6 +337,9 @@
 
 
 
+
+### September 1, 2020 
+- [jwt-hack是JWT黑客，安全测试实用程序](https://github.com/hahwul/jwt-hack) 
 ### August 31, 2020 
 - [自动登录京东，打卡领钢镚，签到领京豆](https://github.com/CaoZ/JD-Coin) 
 - [一个简单的嵌入式解决方案，用于为Eloquent模型的ID提供UUID支持。](https://github.com/goldspecdigital/laravel-eloquent-uuid) 
