@@ -343,6 +343,7 @@
 - [一个基于GraphQL的Web应用程序，使用Go，React和MongoDB编写](https://github.com/Shpota/skmz) 
 - [使用IP-Tracer跟踪任何IP地址。 IP-Tracer是为Linux和Termux开发的。 您可以使用IP-Tracer检索任何IP地址信息。](https://github.com/rajkumardusad/IP-Tracer) 
 - [使用Docker Compose在Nginx上运行WordPress。](https://github.com/urre/wordpress-nginx-docker-compose) 
+- [免费的Laravel商业电子商务：购物车，CMS内容等...](https://github.com/s-cart/s-cart) 
 ### August 31, 2020 
 - [自动登录京东，打卡领钢镚，签到领京豆](https://github.com/CaoZ/JD-Coin) 
 - [一个简单的嵌入式解决方案，用于为Eloquent模型的ID提供UUID支持。](https://github.com/goldspecdigital/laravel-eloquent-uuid) 
