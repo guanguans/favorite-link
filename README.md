@@ -351,6 +351,7 @@
 - [ThinkPHP 6.0 与 Ant Design Pro Vue 基础前后分离权限系统](https://github.com/edenleung/think-admin) 
 - [ThinkPHP 与 Ant Design Pro Vue 基础权限系统](https://github.com/edenleung/think-ant-vue) 
 - [内部Windows渗透测试/与安全的自动化](https://github.com/S3cur3Th1sSh1t/WinPwn) 
+- [简而言之，solver-japha允许使用PHP编写Java代码并与JVM生态系统进行交互。](https://github.com/belgattitude/soluble-japha) 
 ### September 1, 2020 
 - [jwt-hack是JWT黑客，安全测试实用程序](https://github.com/hahwul/jwt-hack) 
 - [一个基于GraphQL的Web应用程序，使用Go，React和MongoDB编写](https://github.com/Shpota/skmz) 
