@@ -349,6 +349,7 @@
 - [天真的go绑定到CPython C-API](https://github.com/sbinet/go-python) 
 - [php的采样探查器](https://github.com/sj-i/php-profiler) 
 - [ThinkPHP 6.0 与 Ant Design Pro Vue 基础前后分离权限系统](https://github.com/edenleung/think-admin) 
+- [ThinkPHP 与 Ant Design Pro Vue 基础权限系统](https://github.com/edenleung/think-ant-vue) 
 ### September 1, 2020 
 - [jwt-hack是JWT黑客，安全测试实用程序](https://github.com/hahwul/jwt-hack) 
 - [一个基于GraphQL的Web应用程序，使用Go，React和MongoDB编写](https://github.com/Shpota/skmz) 
