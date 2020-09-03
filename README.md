@@ -346,6 +346,7 @@
 - [MDClub 社区系统后端代码](https://github.com/zdhxiong/mdclub) 
 - [laravel-eloquent-join](https://github.com/fico7489/laravel-eloquent-join) 
 - [漂亮的Go语言通用后台管理框架，包含计划任务、MySQL管理、Redis管理、FTP管理、SSH管理、服务器管理、Caddy配置、云存储管理等功能。](https://github.com/admpub/nging) 
+- [使Docker管理变得容易。](https://github.com/portainer/portainer) 
 ### September 2, 2020 
 - [🖥Chrome自动化变得简单。 在AWS Lambda上本地运行或无头运行。](https://github.com/prisma-archive/chromeless) 
 - [用于Reconmap的REST API后端](https://github.com/Reconmap/api-backend) 
