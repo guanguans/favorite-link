@@ -344,6 +344,7 @@
 - [硬件短信转发小工具](https://github.com/knownsec/gsm) 
 - [Apache RocketMQ Go客户端](https://github.com/apache/rocketmq-client-go) 
 - [MDClub 社区系统后端代码](https://github.com/zdhxiong/mdclub) 
+- [laravel-eloquent-join](https://github.com/fico7489/laravel-eloquent-join) 
 ### September 2, 2020 
 - [🖥Chrome自动化变得简单。 在AWS Lambda上本地运行或无头运行。](https://github.com/prisma-archive/chromeless) 
 - [用于Reconmap的REST API后端](https://github.com/Reconmap/api-backend) 
