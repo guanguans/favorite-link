@@ -346,6 +346,7 @@
 - [MySQL8.0官方文档中文翻译](https://github.com/zhyee/Mysql8.0_Reference_Manual_Translation) 
 - [Laravel Fortify是Laravel的前端不可知身份验证后端。 Fortify支持Laravel Jetstream的注册，身份验证和两因素身份验证功能。](https://github.com/laravel/fortify) 
 - [将PHP类型转换为TypeScript](https://github.com/spatie/typescript-transformer) 
+- [PHP 7.4中的Laravel预加载测试](https://github.com/brendt/laravel-preload) 
 ### September 3, 2020 
 - [硬件短信转发小工具](https://github.com/knownsec/gsm) 
 - [Apache RocketMQ Go客户端](https://github.com/apache/rocketmq-client-go) 
