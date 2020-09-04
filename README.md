@@ -344,6 +344,7 @@
 ### September 4, 2020 
 - [一个Yii 2演示应用程序来说明Inertia.js的工作方式。](https://github.com/tbreuss/pingcrm-yii2) 
 - [MySQL8.0官方文档中文翻译](https://github.com/zhyee/Mysql8.0_Reference_Manual_Translation) 
+- [Laravel Fortify是Laravel的前端不可知身份验证后端。 Fortify支持Laravel Jetstream的注册，身份验证和两因素身份验证功能。](https://github.com/laravel/fortify) 
 ### September 3, 2020 
 - [硬件短信转发小工具](https://github.com/knownsec/gsm) 
 - [Apache RocketMQ Go客户端](https://github.com/apache/rocketmq-client-go) 
