@@ -346,6 +346,7 @@
 - [suricata-rules/suricata-rules: 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等](https://github.com/suricata-rules/suricata-rules) 
 - [imroc/req: a golang http request library for humans](https://github.com/imroc/req) 
 - [ircmaxell/PHP-Yacc: PHP的kmyacc端口](https://github.com/ircmaxell/PHP-Yacc) 
+- [laravel/vapor-ui](https://github.com/laravel/vapor-ui) 
 ### September 4, 2020 
 - [一个Yii 2演示应用程序来说明Inertia.js的工作方式。](https://github.com/tbreuss/pingcrm-yii2) 
 - [MySQL8.0官方文档中文翻译](https://github.com/zhyee/Mysql8.0_Reference_Manual_Translation) 
