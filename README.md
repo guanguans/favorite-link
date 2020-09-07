@@ -348,6 +348,7 @@
 - [ircmaxell/PHP-Yacc: PHP的kmyacc端口](https://github.com/ircmaxell/PHP-Yacc) 
 - [laravel/vapor-ui](https://github.com/laravel/vapor-ui) 
 - [hyperf/nano: Nano 是一款零配置、无骨架、极小化的 Hyperf 发行版，通过 Nano 可以让您仅仅通过 1 个 PHP 文件即可快速搭建一个 Hyperf 应用。](https://github.com/hyperf/nano) 
+- [knownsec/ksubdomain 无状态子域名爆破工具](https://github.com/knownsec/ksubdomain/tree/24445eed4f45b78b3b69a2f4b23d15f507e40cd0) 
 ### September 4, 2020 
 - [一个Yii 2演示应用程序来说明Inertia.js的工作方式。](https://github.com/tbreuss/pingcrm-yii2) 
 - [MySQL8.0官方文档中文翻译](https://github.com/zhyee/Mysql8.0_Reference_Manual_Translation) 
