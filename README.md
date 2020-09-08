@@ -345,6 +345,7 @@
 
 ### September 8, 2020 
 - [marcoax/maguttiCms: Laravel 7 CMS for Web Artisans](https://github.com/marcoax/maguttiCms) 
+- [georgysavva/scany: 用于将数据从数据库扫描到Go结构等的库](https://github.com/georgysavva/scany) 
 ### September 7, 2020 
 - [suricata-rules/suricata-rules: 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等](https://github.com/suricata-rules/suricata-rules) 
 - [imroc/req: a golang http request library for humans](https://github.com/imroc/req) 
