@@ -349,6 +349,7 @@
 - [音频/视频库和流服务器](https://github.com/nareix/joy4) 
 - [TestsLing/easy-im: 基于各大厂商IM开发的composer包](https://github.com/TestsLing/easy-im) 
 - [teddysun/lamp: Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu](https://github.com/teddysun/lamp) 
+- [aliyun/aliyun-oss-go-sdk: 适用于Go的Aliyun OSS SDK](https://github.com/aliyun/aliyun-oss-go-sdk) 
 ### September 9, 2020 
 - [用于PHP的QR代码生成器](https://github.com/Bacon/BaconQrCode) 
 - [⭐最受欢迎的Go Web框架](https://github.com/mingrammer/go-web-framework-stars) 
