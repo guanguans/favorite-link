@@ -354,6 +354,7 @@
 - [yajra/laravel-datatables-buttons: Laravel的jQuery数据表按钮插件。](https://github.com/yajra/laravel-datatables-buttons) 
 - [PanDownloadServer/Server: PanDownload的个人维护版本](https://github.com/PanDownloadServer/Server) 
 - [hluk/CopyQ: CopyQ是一个高级剪贴板管理器，具有编辑和脚本功能。](https://github.com/hluk/CopyQ) 
+- [CokeMine/ServerStatus-Hotaru: 云探针、多服务器探针、云监控、多服务器云监控](https://github.com/CokeMine/ServerStatus-Hotaru) 
 ### September 9, 2020 
 - [用于PHP的QR代码生成器](https://github.com/Bacon/BaconQrCode) 
 - [⭐最受欢迎的Go Web框架](https://github.com/mingrammer/go-web-framework-stars) 
