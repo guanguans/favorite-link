@@ -347,6 +347,7 @@
 
 ### September 10, 2020 
 - [音频/视频库和流服务器](https://github.com/nareix/joy4) 
+- [TestsLing/easy-im: 基于各大厂商IM开发的composer包](https://github.com/TestsLing/easy-im) 
 ### September 9, 2020 
 - [用于PHP的QR代码生成器](https://github.com/Bacon/BaconQrCode) 
 - [⭐最受欢迎的Go Web框架](https://github.com/mingrammer/go-web-framework-stars) 
