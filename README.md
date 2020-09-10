@@ -352,6 +352,7 @@
 - [aliyun/aliyun-oss-go-sdk: 适用于Go的Aliyun OSS SDK](https://github.com/aliyun/aliyun-oss-go-sdk) 
 - [arthaud/git-dumper: 从网站转储git存储库的工具](https://github.com/arthaud/git-dumper) 
 - [yajra/laravel-datatables-buttons: Laravel的jQuery数据表按钮插件。](https://github.com/yajra/laravel-datatables-buttons) 
+- [PanDownloadServer/Server: PanDownload的个人维护版本](https://github.com/PanDownloadServer/Server) 
 ### September 9, 2020 
 - [用于PHP的QR代码生成器](https://github.com/Bacon/BaconQrCode) 
 - [⭐最受欢迎的Go Web框架](https://github.com/mingrammer/go-web-framework-stars) 
