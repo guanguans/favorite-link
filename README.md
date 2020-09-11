@@ -351,6 +351,7 @@
 - [juicyfx/vercel-php: ▲ Vercel PHP runtime • vercel-php • now-php • 🐘+ λ = ❤](https://github.com/juicyfx/vercel-php) 
 - [juicyfx/vercel-examples: using使用Vercel平台（ZEIT Now）的示例和示例项目](https://github.com/juicyfx/vercel-examples) 
 - [acmephp/acmephp: 让我们用PHP编写的Encrypt / ACME命令行客户端](https://github.com/acmephp/acmephp) 
+- [calibreapp/image-actions: Github动作，可自动压缩“拉取请求”中的JPEG，PNG和WebP。](https://github.com/calibreapp/image-actions) 
 ### September 10, 2020 
 - [音频/视频库和流服务器](https://github.com/nareix/joy4) 
 - [TestsLing/easy-im: 基于各大厂商IM开发的composer包](https://github.com/TestsLing/easy-im) 
