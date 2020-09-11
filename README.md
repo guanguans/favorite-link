@@ -345,6 +345,9 @@
 
 
 
+
+### September 11, 2020 
+- [aylei/kubectl-debug: 预先安装了所有故障排除工具的新容器调试Pod](https://github.com/aylei/kubectl-debug) 
 ### September 10, 2020 
 - [音频/视频库和流服务器](https://github.com/nareix/joy4) 
 - [TestsLing/easy-im: 基于各大厂商IM开发的composer包](https://github.com/TestsLing/easy-im) 
