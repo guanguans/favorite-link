@@ -353,6 +353,7 @@
 - [acmephp/acmephp: 让我们用PHP编写的Encrypt / ACME命令行客户端](https://github.com/acmephp/acmephp) 
 - [calibreapp/image-actions: Github动作，可自动压缩“拉取请求”中的JPEG，PNG和WebP。](https://github.com/calibreapp/image-actions) 
 - [elibyy/tcpdf-laravel: 一个简单的Laravel服务提供者，具有一些基本配置，包括TCPDF库](https://github.com/elibyy/tcpdf-laravel) 
+- [read在自述文件中添加动态生成的GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy) 
 ### September 10, 2020 
 - [音频/视频库和流服务器](https://github.com/nareix/joy4) 
 - [TestsLing/easy-im: 基于各大厂商IM开发的composer包](https://github.com/TestsLing/easy-im) 
