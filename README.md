@@ -352,6 +352,7 @@
 - [beched/php_disable_functions_bypass: procfs-based PHP sandbox bypass](https://github.com/beched/php_disable_functions_bypass) 
 - [dominikh/go-tools: Staticcheck - The advanced Go linter](https://github.com/dominikh/go-tools) 
 - [shuchkin/simplexlsx: 从Excel XLSx文件解析和检索数据](https://github.com/shuchkin/simplexlsx) 
+- [tightenco/ziggy: 在JavaScript中使用Laravel命名的路由](https://github.com/tightenco/ziggy) 
 ### September 11, 2020 
 - [aylei/kubectl-debug: 预先安装了所有故障排除工具的新容器调试Pod](https://github.com/aylei/kubectl-debug) 
 - [juicyfx/vercel-php: ▲ Vercel PHP runtime • vercel-php • now-php • 🐘+ λ = ❤](https://github.com/juicyfx/vercel-php) 
