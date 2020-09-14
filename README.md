@@ -352,6 +352,7 @@
 - [wongdean/rime-settings: 接近原生的鼠须管 Rime 配置](https://github.com/wongdean/rime-settings) 
 - [FiloSottile/age: 一个简单，现代且安全的加密工具（和Go库），具有小的显式密钥，无配置选项和UNIX风格的可组合性。](https://github.com/FiloSottile/age) 
 - [doczjs/docz: to记录您的东西从未如此简单！](https://github.com/doczjs/docz) 
+- [spatie/laravel-robots-middleware: Enable or disable the indexing of your app](https://github.com/spatie/laravel-robots-middleware) 
 ### September 12, 2020 
 - [kangvcar/InfoSpider: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。](https://github.com/kangvcar/InfoSpider) 
 - [beched/php_disable_functions_bypass: procfs-based PHP sandbox bypass](https://github.com/beched/php_disable_functions_bypass) 
