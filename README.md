@@ -355,6 +355,7 @@
 - [spatie/laravel-robots-middleware: Enable or disable the indexing of your app](https://github.com/spatie/laravel-robots-middleware) 
 - [simps: Simps 是一个简单、轻量并且拥有超高性能的PHP协程框架](https://gitee.com/simple-swoole/simps) 
 - [giscafer/leek-fund: 韭菜盒子——VSCode 里也可以看股票 & 基金实时数据，做最好用的养基插件 🐥](https://github.com/giscafer/leek-fund) 
+- [hotmeteor/eco-cli: 使用 Eco 来管理你的 Laravel 环境变量](https://github.com/hotmeteor/eco-cli) 
 ### September 12, 2020 
 - [kangvcar/InfoSpider: INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。](https://github.com/kangvcar/InfoSpider) 
 - [beched/php_disable_functions_bypass: procfs-based PHP sandbox bypass](https://github.com/beched/php_disable_functions_bypass) 
