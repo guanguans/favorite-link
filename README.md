@@ -348,6 +348,9 @@
 
 
 
+
+### September 15, 2020 
+- [mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot) 
 ### September 14, 2020 
 - [wongdean/rime-settings: 接近原生的鼠须管 Rime 配置](https://github.com/wongdean/rime-settings) 
 - [FiloSottile/age: 一个简单，现代且安全的加密工具（和Go库），具有小的显式密钥，无配置选项和UNIX风格的可组合性。](https://github.com/FiloSottile/age) 
