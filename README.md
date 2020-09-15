@@ -353,6 +353,7 @@
 - [mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot) 
 - [fastai/fastmac: 在大约2分钟内免费获得MacOS或Linux Shell](https://github.com/fastai/fastmac) 
 - [huichen/sego: Go中文分词](https://github.com/huichen/sego) 
+- [we7coreteam/w7-rangine-project-document: 基于Rangine(软擎框架)的一款开源Markdown文档系统](https://github.com/we7coreteam/w7-rangine-project-document) 
 ### September 14, 2020 
 - [wongdean/rime-settings: 接近原生的鼠须管 Rime 配置](https://github.com/wongdean/rime-settings) 
 - [FiloSottile/age: 一个简单，现代且安全的加密工具（和Go库），具有小的显式密钥，无配置选项和UNIX风格的可组合性。](https://github.com/FiloSottile/age) 
