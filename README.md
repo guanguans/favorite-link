@@ -356,6 +356,7 @@
 - [we7coreteam/w7-rangine-project-document: 基于Rangine(软擎框架)的一款开源Markdown文档系统](https://github.com/we7coreteam/w7-rangine-project-document) 
 - [themsaid/laravel-mail-preview: 邮件驱动程序，用于将已发送的邮件保存到磁盘。](https://github.com/themsaid/laravel-mail-preview) 
 - [justjavac/what-happens-when-zh_CN: 当XXX时，到底发生了什么](https://github.com/justjavac/what-happens-when-zh_CN) 
+- [LycheeOrg/Lychee: 一个美观且易于使用的照片管理系统，可以在服务器上运行，以管理和共享照片。](https://github.com/LycheeOrg/Lychee) 
 ### September 14, 2020 
 - [wongdean/rime-settings: 接近原生的鼠须管 Rime 配置](https://github.com/wongdean/rime-settings) 
 - [FiloSottile/age: 一个简单，现代且安全的加密工具（和Go库），具有小的显式密钥，无配置选项和UNIX风格的可组合性。](https://github.com/FiloSottile/age) 
