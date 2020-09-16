@@ -359,6 +359,7 @@
 - [dbu/snake-bundle: 使用Symfony控制台实现的蛇游戏](https://github.com/dbu/snake-bundle) 
 - [joho/godotenv: Ruby的dotenv库的Go端口（从`.env`加载环境变量。）](https://github.com/joho/godotenv) 
 - [lwouis/alt-tab-macos: macOS上的Windows alt选项卡](https://github.com/lwouis/alt-tab-macos) 
+- [bdelespierre/laravel-blade-linter: A simple Blade template syntax checker for Laravel](https://github.com/bdelespierre/laravel-blade-linter) 
 ### September 15, 2020 
 - [mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot) 
 - [fastai/fastmac: 在大约2分钟内免费获得MacOS或Linux Shell](https://github.com/fastai/fastmac) 
