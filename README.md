@@ -357,6 +357,7 @@
 - [rspivak/lsbasi: 《让我们构建一个简单的解释器》系列的源代码（仅支持Python 3.7+）](https://github.com/rspivak/lsbasi) 
 - [douban/gobeansdb: 来自Douban Inc.的分布式对象存储服务器](https://github.com/douban/gobeansdb) 
 - [dbu/snake-bundle: 使用Symfony控制台实现的蛇游戏](https://github.com/dbu/snake-bundle) 
+- [joho/godotenv: Ruby的dotenv库的Go端口（从`.env`加载环境变量。）](https://github.com/joho/godotenv) 
 ### September 15, 2020 
 - [mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot) 
 - [fastai/fastmac: 在大约2分钟内免费获得MacOS或Linux Shell](https://github.com/fastai/fastmac) 
