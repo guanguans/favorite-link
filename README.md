@@ -352,6 +352,7 @@
 
 ### September 16, 2020 
 - [flameshot-org/flameshot: 功能强大但易于使用的屏幕截图软件](https://github.com/flameshot-org/flameshot) 
+- [blmoistawinde/HarvestText: 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、句法分析等），无监督或弱监督（种子词）方法](https://github.com/blmoistawinde/HarvestText) 
 ### September 15, 2020 
 - [mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot) 
 - [fastai/fastmac: 在大约2分钟内免费获得MacOS或Linux Shell](https://github.com/fastai/fastmac) 
