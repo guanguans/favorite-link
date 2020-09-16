@@ -349,6 +349,9 @@
 
 
 
+
+### September 16, 2020 
+- [flameshot-org/flameshot: 功能强大但易于使用的屏幕截图软件](https://github.com/flameshot-org/flameshot) 
 ### September 15, 2020 
 - [mxrch/darkshot: Lightshot scraper on steroids with OCR.](https://github.com/mxrch/darkshot) 
 - [fastai/fastmac: 在大约2分钟内免费获得MacOS或Linux Shell](https://github.com/fastai/fastmac) 
