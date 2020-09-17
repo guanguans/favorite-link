@@ -357,6 +357,7 @@
 - [dapr/dapr: Dapr是一种可移植的，事件驱动的运行时，用于跨云和边缘构建分布式应用程序。](https://github.com/dapr/dapr) 
 - [jawira/emoji-catalog: 可以访问+3300个表情符号作为类常量](https://github.com/jawira/emoji-catalog) 
 - [DOUBLE-Baller/momo: 直播源码,php直播,短视频,直播带货,仿比心,猎游](https://github.com/DOUBLE-Baller/momo) 
+- [gosuri/uiprogress: Go库，用于在终端应用程序中呈现进度条](https://github.com/gosuri/uiprogress) 
 ### September 16, 2020 
 - [flameshot-org/flameshot: 功能强大但易于使用的屏幕截图软件](https://github.com/flameshot-org/flameshot) 
 - [blmoistawinde/HarvestText: 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、句法分析等），无监督或弱监督（种子词）方法](https://github.com/blmoistawinde/HarvestText) 
