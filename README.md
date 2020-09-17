@@ -354,6 +354,7 @@
 ### September 17, 2020 
 - [shebaoting/nxcrm: 基于laravel的客户管理系统(CRM)](https://github.com/shebaoting/nxcrm) 
 - [lra/mackup: 使您的应用程序设置保持同步（OS X / Linux）](https://github.com/lra/mackup) 
+- [dapr/dapr: Dapr是一种可移植的，事件驱动的运行时，用于跨云和边缘构建分布式应用程序。](https://github.com/dapr/dapr) 
 ### September 16, 2020 
 - [flameshot-org/flameshot: 功能强大但易于使用的屏幕截图软件](https://github.com/flameshot-org/flameshot) 
 - [blmoistawinde/HarvestText: 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、句法分析等），无监督或弱监督（种子词）方法](https://github.com/blmoistawinde/HarvestText) 
