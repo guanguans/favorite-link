@@ -360,6 +360,7 @@
 - [taseikyo/PyQt5-Apps: 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.](https://github.com/taseikyo/PyQt5-Apps) 
 - [geektutu/7days-golang: 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列](https://github.com/geektutu/7days-golang) 
 - [awslabs/cdk8s: 使用面向对象的编程定义Kubernetes原生应用和抽象](https://github.com/awslabs/cdk8s) 
+- [coreybutler/nvm-windows: Windows的node.js版本管理实用程序。 具有讽刺意味的用Go语言编写。](https://github.com/coreybutler/nvm-windows) 
 ### September 17, 2020 
 - [shebaoting/nxcrm: 基于laravel的客户管理系统(CRM)](https://github.com/shebaoting/nxcrm) 
 - [lra/mackup: 使您的应用程序设置保持同步（OS X / Linux）](https://github.com/lra/mackup) 
