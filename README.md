@@ -361,6 +361,7 @@
 - [geektutu/7days-golang: 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列](https://github.com/geektutu/7days-golang) 
 - [awslabs/cdk8s: 使用面向对象的编程定义Kubernetes原生应用和抽象](https://github.com/awslabs/cdk8s) 
 - [coreybutler/nvm-windows: Windows的node.js版本管理实用程序。 具有讽刺意味的用Go语言编写。](https://github.com/coreybutler/nvm-windows) 
+- [http-party/http-server: 一个简单的零配置命令行http服务器](https://github.com/http-party/http-server) 
 ### September 17, 2020 
 - [shebaoting/nxcrm: 基于laravel的客户管理系统(CRM)](https://github.com/shebaoting/nxcrm) 
 - [lra/mackup: 使您的应用程序设置保持同步（OS X / Linux）](https://github.com/lra/mackup) 
