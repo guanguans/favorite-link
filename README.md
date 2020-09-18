@@ -358,6 +358,7 @@
 - [JaidedAI/EasyOCR: 支持40种以上语言的即用型OCR](https://github.com/JaidedAI/EasyOCR) 
 - [barbushin/php-imap: 在PHP中管理邮箱，过滤/获取/删除电子邮件（支持IMAP / POP3 / NNTP）](https://github.com/barbushin/php-imap) 
 - [taseikyo/PyQt5-Apps: 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.](https://github.com/taseikyo/PyQt5-Apps) 
+- [geektutu/7days-golang: 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列](https://github.com/geektutu/7days-golang) 
 ### September 17, 2020 
 - [shebaoting/nxcrm: 基于laravel的客户管理系统(CRM)](https://github.com/shebaoting/nxcrm) 
 - [lra/mackup: 使您的应用程序设置保持同步（OS X / Linux）](https://github.com/lra/mackup) 
