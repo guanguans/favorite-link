@@ -357,6 +357,7 @@
 - [lindb/lindb: LinDB是一个可扩展的，高性能，高可用性的分布式时间序列数据库。](https://github.com/lindb/lindb) 
 - [JaidedAI/EasyOCR: 支持40种以上语言的即用型OCR](https://github.com/JaidedAI/EasyOCR) 
 - [barbushin/php-imap: 在PHP中管理邮箱，过滤/获取/删除电子邮件（支持IMAP / POP3 / NNTP）](https://github.com/barbushin/php-imap) 
+- [taseikyo/PyQt5-Apps: 谷歌翻译、bilibili视频下载、华科电费查询、猫耳FM音频下载、无损音乐下载、华科图书馆查询、词云生成器etc.](https://github.com/taseikyo/PyQt5-Apps) 
 ### September 17, 2020 
 - [shebaoting/nxcrm: 基于laravel的客户管理系统(CRM)](https://github.com/shebaoting/nxcrm) 
 - [lra/mackup: 使您的应用程序设置保持同步（OS X / Linux）](https://github.com/lra/mackup) 
