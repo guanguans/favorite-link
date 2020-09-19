@@ -352,6 +352,9 @@
 
 
 
+
+### September 19, 2020 
+- [alsofronie/eloquent-uuid: An Eloquent UUID Trait to use with Laravel 5.1 and 5.2](https://github.com/alsofronie/eloquent-uuid) 
 ### September 18, 2020 
 - [tal-tech/gaea: Gaea是基于Gin的Web框架，参考gin gin-gonic / gin](https://github.com/tal-tech/gaea) 
 - [lindb/lindb: LinDB是一个可扩展的，高性能，高可用性的分布式时间序列数据库。](https://github.com/lindb/lindb) 
