@@ -353,6 +353,9 @@
 
 
 
+
+### September 21, 2020 
+- [skyselang/yylAdmin: 基于ThinkPHP6和Element2的极简后台管理系统，只有登录注销、权限管理等基本功能，方便扩展；前后端分离。](https://github.com/skyselang/yylAdmin) 
 ### September 19, 2020 
 - [alsofronie/eloquent-uuid: An Eloquent UUID Trait to use with Laravel 5.1 and 5.2](https://github.com/alsofronie/eloquent-uuid) 
 ### September 18, 2020 
