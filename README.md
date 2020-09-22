@@ -357,6 +357,7 @@
 
 ### September 22, 2020 
 - [andreasbm/web-skills: 作为一个web开发人员需要学习的有用技能的视觉概述](https://github.com/andreasbm/web-skills) 
+- [osiset/laravel-shopify: 功能齐全的Laravel软件包，可帮助Shopify App开发](https://github.com/osiset/laravel-shopify) 
 ### September 21, 2020 
 - [skyselang/yylAdmin: 基于ThinkPHP6和Element2的极简后台管理系统，只有登录注销、权限管理等基本功能，方便扩展；前后端分离。](https://github.com/skyselang/yylAdmin) 
 - [php-internal-research/yaphp: 手把手教你编写PHP编译器》](https://github.com/php-internal-research/yaphp) 
