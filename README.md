@@ -361,6 +361,7 @@
 - [lanyulei/ferry: 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。](https://github.com/lanyulei/ferry) 
 - [stakater/Reloader: Kubernetes控制器可以监视ConfigMap和Secrets中的更改，并在Pod上使用与其关联的Deployment，StatefulSet，DaemonSet和DeploymentConfig – [✩Star]（如果使用）进行滚动升级！](https://github.com/stakater/Reloader) 
 - [neuml/codequestion: 直接从终端询问编码问题](https://github.com/neuml/codequestion) 
+- [iamadamdev/bypass-paywalls-chrome: 绕过适用于Chrome和Firefox的Paywalls Web浏览器扩展。](https://github.com/iamadamdev/bypass-paywalls-chrome) 
 ### September 21, 2020 
 - [skyselang/yylAdmin: 基于ThinkPHP6和Element2的极简后台管理系统，只有登录注销、权限管理等基本功能，方便扩展；前后端分离。](https://github.com/skyselang/yylAdmin) 
 - [php-internal-research/yaphp: 手把手教你编写PHP编译器》](https://github.com/php-internal-research/yaphp) 
