@@ -362,6 +362,7 @@
 - [1c7/Translate-Subtitle-File: 🤖 字幕组机翻小助手 ](https://github.com/1c7/Translate-Subtitle-File) 
 - [reugn/go-streams: Go流处理库](https://github.com/reugn/go-streams) 
 - [alexedwards/scs: Go的HTTP会话管理](https://github.com/alexedwards/scs) 
+- [SuperPWA/Super-Progressive-Web-Apps: SuperPWA帮助您将WordPress网站立即转换为Progressive Web Apps。](https://github.com/SuperPWA/Super-Progressive-Web-Apps) 
 ### September 22, 2020 
 - [andreasbm/web-skills: 作为一个web开发人员需要学习的有用技能的视觉概述](https://github.com/andreasbm/web-skills) 
 - [osiset/laravel-shopify: 功能齐全的Laravel软件包，可帮助Shopify App开发](https://github.com/osiset/laravel-shopify) 
