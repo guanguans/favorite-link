@@ -361,6 +361,7 @@
 - [git-cloner/gitcache: 从github.com克隆时，构建镜像缓存以提高克隆速度](https://github.com/git-cloner/gitcache) 
 - [sogou/workflow: 用于C ++后端开发的Sogou框架。](https://github.com/sogou/workflow) 
 - [gongjunhao/seckill: Chrome浏览器 抢购、秒杀插件，秒杀助手，定时自动点击](https://github.com/gongjunhao/seckill) 
+- [thombashi/sqlitebiter: 一个CLI工具，用于将CSV/Excel/HTML/JSON/Jupyter Notebook/LDJSON/LTSV/Markdown/SQLite/SSV/TSV/Google Sheets转换为SQLite数据库文件](https://github.com/thombashi/sqlitebiter) 
 ### September 23, 2020 
 - [wangbjun/go-micloud: Go语言开发的小米云服务网盘命令行客户端](https://github.com/wangbjun/go-micloud) 
 - [mtownsend5512/progress: 一个PHP软件包，用于确定步骤和进度。](https://github.com/mtownsend5512/progress) 
