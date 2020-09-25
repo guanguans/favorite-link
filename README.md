@@ -363,6 +363,7 @@
 - [mvdan/github-actions-golang: GitHub Actions作为Go的CI](https://github.com/mvdan/github-actions-golang) 
 - [colinodell/json5: 适用于PHP的UTF-8兼容JSON5解析器](https://github.com/colinodell/json5) 
 - [microcosm-cc/bluemonday: 一种快速的golang HTML清理程序（受OWASP Java HTML Sanitizer的启发）来清理用户生成的XSS内容](https://github.com/microcosm-cc/bluemonday) 
+- [json5/json5: JSON5 — JSON for humans](https://github.com/json5/json5) 
 ### September 24, 2020 
 - [git-cloner/gitcache: 从github.com克隆时，构建镜像缓存以提高克隆速度](https://github.com/git-cloner/gitcache) 
 - [sogou/workflow: 用于C ++后端开发的Sogou框架。](https://github.com/sogou/workflow) 
