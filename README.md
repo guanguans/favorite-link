@@ -371,6 +371,7 @@
 - [pingcap-incubator/tinysql: 构建分布式数据库的SQL层的课程。](https://github.com/pingcap-incubator/tinysql) 
 - [laike9m/rsshub-zhihu-helper: 如果你希望通过 RSSHub 浏览知乎，那么这个项目或许可以帮到你。](https://github.com/laike9m/rsshub-zhihu-helper) 
 - [go-rod/rod: 一个Devtools驱动程序，可轻松实现Web自动化和抓取](https://github.com/go-rod/rod) 
+- [beyondcode/laravel-credentials: 将加密的凭据添加到您的Laravel生产环境。](https://github.com/beyondcode/laravel-credentials) 
 ### September 24, 2020 
 - [git-cloner/gitcache: 从github.com克隆时，构建镜像缓存以提高克隆速度](https://github.com/git-cloner/gitcache) 
 - [sogou/workflow: 用于C ++后端开发的Sogou框架。](https://github.com/sogou/workflow) 
