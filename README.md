@@ -368,6 +368,7 @@
 - [emmanuelantony2000/valerie: 用于构建Web应用程序的Rust前端框架](https://github.com/emmanuelantony2000/valerie) 
 - [smallnest/rpcx: Go中的零成本，更快的多语言双向微服务框架](https://github.com/smallnest/rpcx) 
 - [hlissner/doom-emacs: An Emacs framework for the stubborn martian hacker](https://github.com/hlissner/doom-emacs) 
+- [pingcap-incubator/tinysql: 构建分布式数据库的SQL层的课程。](https://github.com/pingcap-incubator/tinysql) 
 ### September 24, 2020 
 - [git-cloner/gitcache: 从github.com克隆时，构建镜像缓存以提高克隆速度](https://github.com/git-cloner/gitcache) 
 - [sogou/workflow: 用于C ++后端开发的Sogou框架。](https://github.com/sogou/workflow) 
