@@ -367,6 +367,7 @@
 - [HackBrowserData：hack-browser-data 是一个解密浏览器数据（密码|历史记录|Cookies|书签）的导出工具，支持全平台主流浏览器。](https://github.com/moonD4rk/HackBrowserData/blob/master/README_ZH.md) 
 - [emmanuelantony2000/valerie: 用于构建Web应用程序的Rust前端框架](https://github.com/emmanuelantony2000/valerie) 
 - [smallnest/rpcx: Go中的零成本，更快的多语言双向微服务框架](https://github.com/smallnest/rpcx) 
+- [hlissner/doom-emacs: An Emacs framework for the stubborn martian hacker](https://github.com/hlissner/doom-emacs) 
 ### September 24, 2020 
 - [git-cloner/gitcache: 从github.com克隆时，构建镜像缓存以提高克隆速度](https://github.com/git-cloner/gitcache) 
 - [sogou/workflow: 用于C ++后端开发的Sogou框架。](https://github.com/sogou/workflow) 
