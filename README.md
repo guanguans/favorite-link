@@ -361,6 +361,7 @@
 ### September 25, 2020 
 - [russross/blackfriday: a markdown processor for Go](https://github.com/russross/blackfriday) 
 - [mvdan/github-actions-golang: GitHub Actions作为Go的CI](https://github.com/mvdan/github-actions-golang) 
+- [colinodell/json5: 适用于PHP的UTF-8兼容JSON5解析器](https://github.com/colinodell/json5) 
 ### September 24, 2020 
 - [git-cloner/gitcache: 从github.com克隆时，构建镜像缓存以提高克隆速度](https://github.com/git-cloner/gitcache) 
 - [sogou/workflow: 用于C ++后端开发的Sogou框架。](https://github.com/sogou/workflow) 
