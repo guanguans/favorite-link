@@ -365,6 +365,7 @@
 - [DasSecurity-Labs/AoiAWD: AoiAWD-专为比赛设计，便携性好，低权限运行的EDR系统。](https://github.com/DasSecurity-Labs/AoiAWD) 
 - [nakabonne/ali: 生成HTTP负载并实时绘制结果](https://github.com/nakabonne/ali) 
 - [go-spring/go-spring: 基于 IoC 的 Go 后端一站式开发框架 🚀](https://github.com/go-spring/go-spring) 
+- [xxjwxc/gormt: mysql数据库转 struct 工具,可以将mysql数据库自动生成golang sturct结构，带大驼峰命名规则。带json标签](https://github.com/xxjwxc/gormt) 
 ### September 25, 2020 
 - [russross/blackfriday: a markdown processor for Go](https://github.com/russross/blackfriday) 
 - [mvdan/github-actions-golang: GitHub Actions作为Go的CI](https://github.com/mvdan/github-actions-golang) 
