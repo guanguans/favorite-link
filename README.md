@@ -369,6 +369,7 @@
 - [mikenicholson/passport-jwt: 使用JSON Web令牌的Passport身份验证](https://github.com/mikenicholson/passport-jwt) 
 - [hajimehoshi/oto: ♪ ♪一个可以在多个平台上播放声音的底层库♪ ♪](https://github.com/hajimehoshi/oto) 
 - [xiaohuangniu/26: PHP原生编写26种设计模式](https://github.com/xiaohuangniu/26) 
+- [material-shell/material-shell: 适用于Linux的现代桌面界面。](https://github.com/material-shell/material-shell) 
 ### September 25, 2020 
 - [russross/blackfriday: a markdown processor for Go](https://github.com/russross/blackfriday) 
 - [mvdan/github-actions-golang: GitHub Actions作为Go的CI](https://github.com/mvdan/github-actions-golang) 
