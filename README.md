@@ -364,6 +364,7 @@
 - [wbt5/real-url: 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 48 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。](https://github.com/wbt5/real-url) 
 - [DasSecurity-Labs/AoiAWD: AoiAWD-专为比赛设计，便携性好，低权限运行的EDR系统。](https://github.com/DasSecurity-Labs/AoiAWD) 
 - [nakabonne/ali: 生成HTTP负载并实时绘制结果](https://github.com/nakabonne/ali) 
+- [go-spring/go-spring: 基于 IoC 的 Go 后端一站式开发框架 🚀](https://github.com/go-spring/go-spring) 
 ### September 25, 2020 
 - [russross/blackfriday: a markdown processor for Go](https://github.com/russross/blackfriday) 
 - [mvdan/github-actions-golang: GitHub Actions作为Go的CI](https://github.com/mvdan/github-actions-golang) 
