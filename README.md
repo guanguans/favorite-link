@@ -368,6 +368,7 @@
 - [xxjwxc/gormt: mysql数据库转 struct 工具,可以将mysql数据库自动生成golang sturct结构，带大驼峰命名规则。带json标签](https://github.com/xxjwxc/gormt) 
 - [mikenicholson/passport-jwt: 使用JSON Web令牌的Passport身份验证](https://github.com/mikenicholson/passport-jwt) 
 - [hajimehoshi/oto: ♪ ♪一个可以在多个平台上播放声音的底层库♪ ♪](https://github.com/hajimehoshi/oto) 
+- [xiaohuangniu/26: PHP原生编写26种设计模式](https://github.com/xiaohuangniu/26) 
 ### September 25, 2020 
 - [russross/blackfriday: a markdown processor for Go](https://github.com/russross/blackfriday) 
 - [mvdan/github-actions-golang: GitHub Actions作为Go的CI](https://github.com/mvdan/github-actions-golang) 
