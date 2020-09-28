@@ -362,6 +362,7 @@
 
 ### September 28, 2020 
 - [lastguest/murmurhash-php: MurmurHash3的PHP用户区实现](https://github.com/lastguest/murmurhash-php) 
+- [lastguest/pixeler: CLI图像渲染器](https://github.com/lastguest/pixeler) 
 ### September 27, 2020 
 - [jasonlewis/expressive-date: 流利的PHP DateTime类扩展。](https://github.com/jasonlewis/expressive-date) 
 - [wbt5/real-url: 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 48 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。](https://github.com/wbt5/real-url) 
