@@ -373,6 +373,7 @@
 - [git-lfs/git-lfs: 用于扩展大型文件的Git扩展](https://github.com/git-lfs/git-lfs) 
 - [guhongze/adminset: 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理](https://github.com/guhongze/adminset) 
 - [V7hinc/wooyun_final: 根据hanc00l和m0l1ce提供的数据构建docker版的乌云漏洞库，包含8.8W漏洞信息](https://github.com/V7hinc/wooyun_final) 
+- [michaeldzjap/laravel-two-factor-authentication: Laravel> = 8的两因素身份验证软件包](https://github.com/michaeldzjap/laravel-two-factor-authentication) 
 ### September 28, 2020 
 - [lastguest/murmurhash-php: MurmurHash3的PHP用户区实现](https://github.com/lastguest/murmurhash-php) 
 - [lastguest/pixeler: CLI图像渲染器](https://github.com/lastguest/pixeler) 
