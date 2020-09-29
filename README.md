@@ -371,6 +371,7 @@
 - [incredibleindishell/SSRF_Vulnerable_Lab: 本实验包含易受服务器端请求伪造攻击的示例代码](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) 
 - [fatih/gomodifytags: 使用Go工具修改结构字段标签](https://github.com/fatih/gomodifytags) 
 - [git-lfs/git-lfs: 用于扩展大型文件的Git扩展](https://github.com/git-lfs/git-lfs) 
+- [guhongze/adminset: 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理](https://github.com/guhongze/adminset) 
 ### September 28, 2020 
 - [lastguest/murmurhash-php: MurmurHash3的PHP用户区实现](https://github.com/lastguest/murmurhash-php) 
 - [lastguest/pixeler: CLI图像渲染器](https://github.com/lastguest/pixeler) 
