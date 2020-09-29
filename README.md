@@ -367,6 +367,7 @@
 - [YanxinNet/uView: uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水](https://github.com/YanxinNet/uView) 
 - [getkin/kin-openapi: Go的OpenAPI 3.0实现（解析，转换，验证等）](https://github.com/getkin/kin-openapi) 
 - [nette/neon: 🍸编码和解码NEON文件格式。](https://github.com/nette/neon) 
+- [dstotijn/hetty: Hetty是一个用于安全研究的HTTP工具包。它的目标是成为商业软件（如Burp suitepro）的开源替代品，具有针对infosec和bug悬赏社区的需求而定制的强大功能。](https://github.com/dstotijn/hetty) 
 ### September 28, 2020 
 - [lastguest/murmurhash-php: MurmurHash3的PHP用户区实现](https://github.com/lastguest/murmurhash-php) 
 - [lastguest/pixeler: CLI图像渲染器](https://github.com/lastguest/pixeler) 
