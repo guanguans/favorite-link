@@ -366,6 +366,7 @@
 - [Al1ex/Pentest-tools: 内网渗透工具](https://github.com/Al1ex/Pentest-tools) 
 - [SomeBottle/OdIndex: 从Heymind移植的Onedrive索引。](https://github.com/SomeBottle/OdIndex) 
 - [q191201771/pprofplus: 🍀 pprofplus用于采集Go进程的各项内存指标（包含Go runtime内存管理相关的，以及RSS等），并按时间维度绘制成折线图，可以通过网页实时查看。](https://github.com/q191201771/pprofplus) 
+- [nyancodeid/laravel-8-stisla-jetstream: Laravel 8 + Jetstream + Livewire + Stisla](https://github.com/nyancodeid/laravel-8-stisla-jetstream) 
 ### September 29, 2020 
 - [txperl/JustList: 天翼云盘、OneDrive 多用户文件列表工具](https://github.com/txperl/JustList) 
 - [Geal/nom: Rust分析器组合器框架](https://github.com/Geal/nom) 
