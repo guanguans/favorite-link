@@ -362,6 +362,9 @@
 
 
 
+
+### October 7, 2020 
+- [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 ### September 30, 2020 
 - [Al1ex/Pentest-tools: 内网渗透工具](https://github.com/Al1ex/Pentest-tools) 
 - [SomeBottle/OdIndex: 从Heymind移植的Onedrive索引。](https://github.com/SomeBottle/OdIndex) 
