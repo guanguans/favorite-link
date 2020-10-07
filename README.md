@@ -370,6 +370,7 @@
 - [faustbrian/bytebuffer: 使用本机数组@php的快速简单的ByteBuffer实现](https://github.com/faustbrian/bytebuffer) 
 - [beyondcode/forge-cli: 自以为是的Laravel Forge CLI工具](https://github.com/beyondcode/forge-cli) 
 - [smalot/pdfparser: PdfParser，一个独立的PHP库，提供了多种工具来从PDF文件提取数据。](https://github.com/smalot/pdfparser) 
+- [gautamkrishnar/motrix-webextension: Motrix下载管理器的Chrome扩展程序](https://github.com/gautamkrishnar/motrix-webextension) 
 ### September 30, 2020 
 - [Al1ex/Pentest-tools: 内网渗透工具](https://github.com/Al1ex/Pentest-tools) 
 - [SomeBottle/OdIndex: 从Heymind移植的Onedrive索引。](https://github.com/SomeBottle/OdIndex) 
