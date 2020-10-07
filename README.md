@@ -367,6 +367,7 @@
 - [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 - [antonkomarev/github-profile-views-counter: 它统计您的GitHub个人资料被查看了多少次。](https://github.com/antonkomarev/github-profile-views-counter) 
 - [arturssmirnovs/github-profile-views-counter: Github新功能自述文件视图计数器用Yii2框架制作。](https://github.com/arturssmirnovs/github-profile-views-counter) 
+- [faustbrian/bytebuffer: 使用本机数组@php的快速简单的ByteBuffer实现](https://github.com/faustbrian/bytebuffer) 
 ### September 30, 2020 
 - [Al1ex/Pentest-tools: 内网渗透工具](https://github.com/Al1ex/Pentest-tools) 
 - [SomeBottle/OdIndex: 从Heymind移植的Onedrive索引。](https://github.com/SomeBottle/OdIndex) 
