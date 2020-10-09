@@ -370,6 +370,7 @@
 - [actionsflow/actionsflow: 免费的Zapier / IFTTT替代方案，供开发人员根据Github操作自动执行工作流程](https://github.com/actionsflow/actionsflow) 
 - [Celaraze/Chemex: 🔥 基于优雅的Laravel和DcatAdmin开发，为企业运维人员提供免费、开源、易用的运维设备管理平台。](https://github.com/Celaraze/Chemex) 
 - [php/pecl-networking-uuid:PHP UUID扩展](https://github.com/php/pecl-networking-uuid) 
+- [google/php-crc32: PHP CRC32实现（支持所有crc32多项式和硬件加速）](https://github.com/google/php-crc32) 
 ### October 7, 2020 
 - [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 - [antonkomarev/github-profile-views-counter: 它统计您的GitHub个人资料被查看了多少次。](https://github.com/antonkomarev/github-profile-views-counter) 
