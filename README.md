@@ -367,6 +367,7 @@
 ### October 9, 2020 
 - [screego/server: 开发人员的屏幕共享](https://github.com/screego/server) 
 - [itorr/vaporwave: 📹「 蒸 気 機 」虚拟信号蒸汽波风格化影像后期工具](https://github.com/itorr/vaporwave) 
+- [actionsflow/actionsflow: 免费的Zapier / IFTTT替代方案，供开发人员根据Github操作自动执行工作流程](https://github.com/actionsflow/actionsflow) 
 ### October 7, 2020 
 - [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 - [antonkomarev/github-profile-views-counter: 它统计您的GitHub个人资料被查看了多少次。](https://github.com/antonkomarev/github-profile-views-counter) 
