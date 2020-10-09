@@ -378,6 +378,7 @@
 - [asciinema/asciinema: 终端会话记录器📹](https://github.com/asciinema/asciinema) 
 - [AnyStudy/PHP-7-Real-World-Application-Development: PHP 7:真实世界的应用开发](https://github.com/AnyStudy/PHP-7-Real-World-Application-Development) 
 - [youyingxiang/livewire-blog: laravel8 livewire建立博客😄](https://github.com/youyingxiang/livewire-blog) 
+- [rememberber/WePush: 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信](https://github.com/rememberber/WePush) 
 ### October 7, 2020 
 - [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 - [antonkomarev/github-profile-views-counter: 它统计您的GitHub个人资料被查看了多少次。](https://github.com/antonkomarev/github-profile-views-counter) 
