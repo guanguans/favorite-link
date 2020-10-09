@@ -373,6 +373,7 @@
 - [google/php-crc32: PHP CRC32实现（支持所有crc32多项式和硬件加速）](https://github.com/google/php-crc32) 
 - [yinxin630/fiora: 一个有趣的应用程序聊天插座.io，koa，mongodb和react](https://github.com/yinxin630/fiora) 
 - [myloveGy/yii2-admin: yii2 后台管理模块](https://github.com/myloveGy/yii2-admin) 
+- [starship/starship: ☄🌌️任何外壳的最小，快速，可自定义的提示！](https://github.com/starship/starship) 
 ### October 7, 2020 
 - [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 - [antonkomarev/github-profile-views-counter: 它统计您的GitHub个人资料被查看了多少次。](https://github.com/antonkomarev/github-profile-views-counter) 
