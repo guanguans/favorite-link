@@ -375,6 +375,7 @@
 - [myloveGy/yii2-admin: yii2 后台管理模块](https://github.com/myloveGy/yii2-admin) 
 - [starship/starship: ☄🌌️任何外壳的最小，快速，可自定义的提示！](https://github.com/starship/starship) 
 - [ogham/exa: 现代版本的“ ls”。](https://github.com/ogham/exa) 
+- [asciinema/asciinema: 终端会话记录器📹](https://github.com/asciinema/asciinema) 
 ### October 7, 2020 
 - [nkanaev/yarr: 另一个RSS阅读器](https://github.com/nkanaev/yarr) 
 - [antonkomarev/github-profile-views-counter: 它统计您的GitHub个人资料被查看了多少次。](https://github.com/antonkomarev/github-profile-views-counter) 
