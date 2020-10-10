@@ -364,6 +364,9 @@
 
 
 
+
+### October 10, 2020 
+- [theme-nexmoe/typecho-theme-nexmoe: 🔥 一个特别的 Typecho 主题](https://github.com/theme-nexmoe/typecho-theme-nexmoe) 
 ### October 9, 2020 
 - [screego/server: 开发人员的屏幕共享](https://github.com/screego/server) 
 - [itorr/vaporwave: 📹「 蒸 気 機 」虚拟信号蒸汽波风格化影像后期工具](https://github.com/itorr/vaporwave) 
