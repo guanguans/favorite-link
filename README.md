@@ -365,6 +365,9 @@
 
 
 
+
+### October 12, 2020 
+- [tfsec/tfsec: 🔒🌍为您的Terraform代码提供静态分析支持的安全扫描器](https://github.com/tfsec/tfsec) 
 ### October 10, 2020 
 - [theme-nexmoe/typecho-theme-nexmoe: 🔥 一个特别的 Typecho 主题](https://github.com/theme-nexmoe/typecho-theme-nexmoe) 
 - [mmcloughlin/avo: avo使高性能的Go组件更易于编写、审查和维护](https://github.com/mmcloughlin/avo) 
