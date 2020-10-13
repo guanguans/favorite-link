@@ -374,6 +374,7 @@
 - [danielme85/laravel-log-to-db: 自定义Laravel和Lumen 5.6+日志通道处理程序，可以将日志事件存储到SQL或MongoDB数据库。 使用Laravel / Monolog本机日志记录功能。](https://github.com/danielme85/laravel-log-to-db) 
 - [spatie/laravel-translation-loader: 将翻译存储在数据库或其他来源中](https://github.com/spatie/laravel-translation-loader) 
 - [ljrcore/LearningLinuxKernel: 和我一起学习Linux内核吧](https://github.com/ljrcore/LearningLinuxKernel) 
+- [zhaoolee/ChineseBQB: 表情包的博物馆, Github最有毒的仓库](https://github.com/zhaoolee/ChineseBQB) 
 ### October 12, 2020 
 - [tfsec/tfsec: 🔒🌍为您的Terraform代码提供静态分析支持的安全扫描器](https://github.com/tfsec/tfsec) 
 - [charmbracelet/bubbletea: 强大的小TUI框架🏗](https://github.com/charmbracelet/bubbletea) 
