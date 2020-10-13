@@ -373,6 +373,7 @@
 - [gookit/validate: Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。](https://github.com/gookit/validate) 
 - [danielme85/laravel-log-to-db: 自定义Laravel和Lumen 5.6+日志通道处理程序，可以将日志事件存储到SQL或MongoDB数据库。 使用Laravel / Monolog本机日志记录功能。](https://github.com/danielme85/laravel-log-to-db) 
 - [spatie/laravel-translation-loader: 将翻译存储在数据库或其他来源中](https://github.com/spatie/laravel-translation-loader) 
+- [ljrcore/LearningLinuxKernel: 和我一起学习Linux内核吧](https://github.com/ljrcore/LearningLinuxKernel) 
 ### October 12, 2020 
 - [tfsec/tfsec: 🔒🌍为您的Terraform代码提供静态分析支持的安全扫描器](https://github.com/tfsec/tfsec) 
 - [charmbracelet/bubbletea: 强大的小TUI框架🏗](https://github.com/charmbracelet/bubbletea) 
