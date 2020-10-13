@@ -366,6 +366,9 @@
 
 
 
+
+### October 13, 2020 
+- [BardoQi/Sight: 你所渴望的Laravel的Presnter层](https://github.com/BardoQi/Sight/blob/master/README.cn.md) 
 ### October 12, 2020 
 - [tfsec/tfsec: 🔒🌍为您的Terraform代码提供静态分析支持的安全扫描器](https://github.com/tfsec/tfsec) 
 - [charmbracelet/bubbletea: 强大的小TUI框架🏗](https://github.com/charmbracelet/bubbletea) 
