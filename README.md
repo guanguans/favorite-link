@@ -367,6 +367,9 @@
 
 
 
+
+### October 14, 2020 
+- [kaola-fed/megalo: 基于 Vue 的小程序开发框架](https://github.com/kaola-fed/megalo) 
 ### October 13, 2020 
 - [BardoQi/Sight: 你所渴望的Laravel的Presnter层](https://github.com/BardoQi/Sight/blob/master/README.cn.md) 
 - [commerceguys/addressing: 由CLDR和Google的地址数据提供支持的PHP地址库。](https://github.com/commerceguys/addressing) 
