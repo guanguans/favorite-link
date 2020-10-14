@@ -372,6 +372,7 @@
 - [kaola-fed/megalo: 基于 Vue 的小程序开发框架](https://github.com/kaola-fed/megalo) 
 - [kubeless/kubeless: Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless) 
 - [centrifugal/centrifugo: 与语言无关的可扩展实时消息服务器](https://github.com/centrifugal/centrifugo) 
+- [spatie/laravel-directory-cleanup: 清理指定目录中的旧文件](https://github.com/spatie/laravel-directory-cleanup) 
 ### October 13, 2020 
 - [BardoQi/Sight: 你所渴望的Laravel的Presnter层](https://github.com/BardoQi/Sight/blob/master/README.cn.md) 
 - [commerceguys/addressing: 由CLDR和Google的地址数据提供支持的PHP地址库。](https://github.com/commerceguys/addressing) 
