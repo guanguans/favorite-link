@@ -376,6 +376,7 @@
 - [golang-module/carbon: 一个简单，语义化且对开发人员友好的golang软件包，用于日期时间](https://github.com/golang-module/carbon) 
 - [evilbutcher/Scriptables: 关于Scriptable的好玩代码](https://github.com/evilbutcher/Scriptables) 
 - [GideonSenku/Scriptable: 一个名为Scriptable脚本的iOS应用](https://github.com/GideonSenku/Scriptable) 
+- [chavyleung/scripts: SPA Appliction可用于脚本工具](https://github.com/chavyleung/scripts) 
 ### October 13, 2020 
 - [BardoQi/Sight: 你所渴望的Laravel的Presnter层](https://github.com/BardoQi/Sight/blob/master/README.cn.md) 
 - [commerceguys/addressing: 由CLDR和Google的地址数据提供支持的PHP地址库。](https://github.com/commerceguys/addressing) 
