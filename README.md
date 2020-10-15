@@ -368,6 +368,9 @@
 
 
 
+
+### October 15, 2020 
+- [vueComponent/ant-design-vue: 🌈基于Ant Design和Vue的企业级UI组件。 🐜](https://github.com/vueComponent/ant-design-vue) 
 ### October 14, 2020 
 - [kaola-fed/megalo: 基于 Vue 的小程序开发框架](https://github.com/kaola-fed/megalo) 
 - [kubeless/kubeless: Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless) 
