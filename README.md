@@ -372,6 +372,7 @@
 ### October 15, 2020 
 - [vueComponent/ant-design-vue: 🌈基于Ant Design和Vue的企业级UI组件。 🐜](https://github.com/vueComponent/ant-design-vue) 
 - [gwen001/github-subdomains: 在GitHub上查找子域](https://github.com/gwen001/github-subdomains) 
+- [TheDoctor0/laravel-factory-generator: Laravel 6.x，7.x，8.x的模型工厂生成器。](https://github.com/TheDoctor0/laravel-factory-generator) 
 ### October 14, 2020 
 - [kaola-fed/megalo: 基于 Vue 的小程序开发框架](https://github.com/kaola-fed/megalo) 
 - [kubeless/kubeless: Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless) 
