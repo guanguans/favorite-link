@@ -374,6 +374,7 @@
 - [chriswalz/bit: Bit是现代的Git CLI](https://github.com/chriswalz/bit) 
 - [qqizai/CrackJs: 记录一下js逆向的网站](https://github.com/qqizai/CrackJs) 
 - [felixfbecker/vscode-php-intellisense: 适用于Visual Studio Code的高级PHP IntelliSense🆚💬](https://github.com/felixfbecker/vscode-php-intellisense) 
+- [zoho/zcrm-php-sdk: Zoho CRM API SDK是Zoho CRM API的包装。 通过使用此SDK，用户可以轻松构建应用程序](https://github.com/zoho/zcrm-php-sdk) 
 ### October 15, 2020 
 - [vueComponent/ant-design-vue: 🌈基于Ant Design和Vue的企业级UI组件。 🐜](https://github.com/vueComponent/ant-design-vue) 
 - [gwen001/github-subdomains: 在GitHub上查找子域](https://github.com/gwen001/github-subdomains) 
