@@ -373,6 +373,7 @@
 
 ### October 19, 2020 
 - [kornrunner/php-blurhash: Blurhash的纯PHP实现（woltapp/Blurhash）](https://github.com/kornrunner/php-blurhash) 
+- [fhefh2015/Fast-GitHub: 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！](https://github.com/fhefh2015/Fast-GitHub) 
 ### October 16, 2020 
 - [chriswalz/bit: Bit是现代的Git CLI](https://github.com/chriswalz/bit) 
 - [qqizai/CrackJs: 记录一下js逆向的网站](https://github.com/qqizai/CrackJs) 
