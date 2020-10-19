@@ -378,6 +378,7 @@
 - [EventSaucePHP/EventSauce: PHP的实用事件源](https://github.com/EventSaucePHP/EventSauce) 
 - [jonassiewertsen/statamic-livewire: A Laravel Livewire integration for Statamics antlers engine](https://github.com/jonassiewertsen/statamic-livewire) 
 - [RainbowRoad1/Cgame: 一些用C编写的小游戏, 14行贪吃蛇 22行2048 22行俄罗斯方块 25行扫雷...以及各种小玩意](https://github.com/RainbowRoad1/Cgame) 
+- [hashicorp/waypoint-examples: 可以与Waypoint一起部署的示例应用程序](https://github.com/hashicorp/waypoint-examples) 
 ### October 16, 2020 
 - [chriswalz/bit: Bit是现代的Git CLI](https://github.com/chriswalz/bit) 
 - [qqizai/CrackJs: 记录一下js逆向的网站](https://github.com/qqizai/CrackJs) 
