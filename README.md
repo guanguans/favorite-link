@@ -376,6 +376,7 @@
 - [fhefh2015/Fast-GitHub: 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！](https://github.com/fhefh2015/Fast-GitHub) 
 - [hashicorp/waypoint: 用于在任何平台上构建，部署和发布任何应用程序的工具。](https://github.com/hashicorp/waypoint) 
 - [EventSaucePHP/EventSauce: PHP的实用事件源](https://github.com/EventSaucePHP/EventSauce) 
+- [jonassiewertsen/statamic-livewire: A Laravel Livewire integration for Statamics antlers engine](https://github.com/jonassiewertsen/statamic-livewire) 
 ### October 16, 2020 
 - [chriswalz/bit: Bit是现代的Git CLI](https://github.com/chriswalz/bit) 
 - [qqizai/CrackJs: 记录一下js逆向的网站](https://github.com/qqizai/CrackJs) 
