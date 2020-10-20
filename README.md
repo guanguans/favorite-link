@@ -375,6 +375,7 @@
 ### October 20, 2020 
 - [wallabag/wallabag: wallabag是一个可自我托管的应用程序，用于保存网页：保存和分类文章。 以后再阅读](https://github.com/wallabag/wallabag) 
 - [Sammyjo20/Wagonwheel: 向用户提供您的Laravel电子邮件的在线版本。](https://github.com/Sammyjo20/Wagonwheel) 
+- [StydeNet/enlighten: 通过自动生成的文档启发您的API](https://github.com/StydeNet/enlighten) 
 ### October 19, 2020 
 - [kornrunner/php-blurhash: Blurhash的纯PHP实现（woltapp/Blurhash）](https://github.com/kornrunner/php-blurhash) 
 - [fhefh2015/Fast-GitHub: 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！](https://github.com/fhefh2015/Fast-GitHub) 
