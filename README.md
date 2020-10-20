@@ -379,6 +379,7 @@
 - [nextcloud/passman: with具有Nextcloud集成的开源密码管理器](https://github.com/nextcloud/passman) 
 - [qier222/YesPlayMusic: 高颜值的第三方网易云播放器](https://github.com/qier222/YesPlayMusic) 
 - [J0o1ey/rips-Chinese: 本人三年前汉化的PHP代码审计工具rips](https://github.com/J0o1ey/rips-Chinese) 
+- [icomefromthenet/ReverseRegex: 使用正则表达式在PHP中生成文本字符串。](https://github.com/icomefromthenet/ReverseRegex) 
 ### October 19, 2020 
 - [kornrunner/php-blurhash: Blurhash的纯PHP实现（woltapp/Blurhash）](https://github.com/kornrunner/php-blurhash) 
 - [fhefh2015/Fast-GitHub: 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！](https://github.com/fhefh2015/Fast-GitHub) 
