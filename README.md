@@ -375,6 +375,7 @@
 
 ### October 21, 2020 
 - [DirectoryLister/DirectoryLister: List Directory Lister是公开任何可通过Web访问的文件夹的内容以进行浏览和共享的最简单方法。](https://github.com/DirectoryLister/DirectoryLister) 
+- [asantibanez/livewire-charts: 为您的Laravel项目提供整洁的Livewire图表](https://github.com/asantibanez/livewire-charts) 
 ### October 20, 2020 
 - [wallabag/wallabag: wallabag是一个可自我托管的应用程序，用于保存网页：保存和分类文章。 以后再阅读](https://github.com/wallabag/wallabag) 
 - [Sammyjo20/Wagonwheel: 向用户提供您的Laravel电子邮件的在线版本。](https://github.com/Sammyjo20/Wagonwheel) 
