@@ -383,6 +383,7 @@
 - [asantibanez/livewire-calendar: Laravel Livewire组件，用于在好看的月历中显示事件](https://github.com/asantibanez/livewire-calendar) 
 - [sanmai/pipeline: 在PHP中构建流传输管道。 缺少管道操作员。 通用收集管道。](https://github.com/sanmai/pipeline) 
 - [mpociot/pipeline: 用于类似中间件之类的简单PHP管道。](https://github.com/mpociot/pipeline) 
+- [gamedilong/anes-repository: vscode插件小霸王remote仓库](https://github.com/gamedilong/anes-repository) 
 ### October 20, 2020 
 - [wallabag/wallabag: wallabag是一个可自我托管的应用程序，用于保存网页：保存和分类文章。 以后再阅读](https://github.com/wallabag/wallabag) 
 - [Sammyjo20/Wagonwheel: 向用户提供您的Laravel电子邮件的在线版本。](https://github.com/Sammyjo20/Wagonwheel) 
