@@ -380,6 +380,7 @@
 - [vaimo/composer-patches: 将补丁从本地或远程文件应用到给定composer项目中的任何软件包。](https://github.com/vaimo/composer-patches) 
 - [sfelix-martins/passport-multiauth: 增加对Laravel Passport多重身份验证的支持](https://github.com/sfelix-martins/passport-multiauth) 
 - [exussum12/xxhash: PHP中的xxhash实现](https://github.com/exussum12/xxhash) 
+- [asantibanez/livewire-calendar: Laravel Livewire组件，用于在好看的月历中显示事件](https://github.com/asantibanez/livewire-calendar) 
 ### October 20, 2020 
 - [wallabag/wallabag: wallabag是一个可自我托管的应用程序，用于保存网页：保存和分类文章。 以后再阅读](https://github.com/wallabag/wallabag) 
 - [Sammyjo20/Wagonwheel: 向用户提供您的Laravel电子邮件的在线版本。](https://github.com/Sammyjo20/Wagonwheel) 
