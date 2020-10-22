@@ -376,6 +376,7 @@
 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
+- [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
 ### October 21, 2020 
 - [DirectoryLister/DirectoryLister: List Directory Lister是公开任何可通过Web访问的文件夹的内容以进行浏览和共享的最简单方法。](https://github.com/DirectoryLister/DirectoryLister) 
 - [asantibanez/livewire-charts: 为您的Laravel项目提供整洁的Livewire图表](https://github.com/asantibanez/livewire-charts) 
