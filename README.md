@@ -379,6 +379,7 @@
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
 - [brson/rust-anthology: 最好地学习Rust](https://github.com/brson/rust-anthology) 
 - [alibaba/fish-redux: An assembled flutter application framework.](https://github.com/alibaba/fish-redux) 
+- [sensiolabs/SensioFrameworkExtraBundle: Symfony FrameworkBundle的扩展，为Controller类添加了注释配置](https://github.com/sensiolabs/SensioFrameworkExtraBundle) 
 ### October 21, 2020 
 - [DirectoryLister/DirectoryLister: List Directory Lister是公开任何可通过Web访问的文件夹的内容以进行浏览和共享的最简单方法。](https://github.com/DirectoryLister/DirectoryLister) 
 - [asantibanez/livewire-charts: 为您的Laravel项目提供整洁的Livewire图表](https://github.com/asantibanez/livewire-charts) 
