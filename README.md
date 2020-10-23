@@ -377,6 +377,7 @@
 
 ### October 23, 2020 
 - [xwb1989/sqlparser: Go中实现的SQL解析器](https://github.com/xwb1989/sqlparser) 
+- [taielab/Taie-Bugbounty-killer: 挖掘国内外漏洞平台必备的自动化捡钱赏金技巧，看了并去做了捡钱如喝水。](https://github.com/taielab/Taie-Bugbounty-killer) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
