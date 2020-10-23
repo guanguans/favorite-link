@@ -394,6 +394,7 @@
 - [nahidulhasan/git-flow-example: Git Flow Example](https://github.com/nahidulhasan/git-flow-example) 
 - [freddiefrantzen/simplex: PHP 7的模块化微型框架](https://github.com/freddiefrantzen/simplex) 
 - [php-pm/php-pm-httpkernel: 用于Symfony和Laravel框架与PHP-PM一起使用的HttpKernel适配器](https://github.com/php-pm/php-pm-httpkernel) 
+- [stackphp/run: 用于处理HttpKernel前控制器样板的快捷功能。](https://github.com/stackphp/run) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
