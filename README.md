@@ -383,6 +383,7 @@
 - [jkonieczny/PHP-Crontab: PHP中的Crontab格式解析器](https://github.com/jkonieczny/PHP-Crontab) 
 - [filebrowser/filebrowser: 📂Web文件浏览器，可以用作中间件或独立应用程序。](https://github.com/filebrowser/filebrowser) 
 - [nullivex/lib-array2xml: Array2XML conversion library credit to lalit.org](https://github.com/nullivex/lib-array2xml) 
+- [rafrsr/lib-array2xml: XML2Array是用于将XML转换为PHP中的数组的类。 它返回一个数组，可以使用Array2XML类将其转换回XML。](https://github.com/rafrsr/lib-array2xml) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
