@@ -398,6 +398,7 @@
 - [driftphp/http-kernel: React️基于Symfony组件的基于ReactPHP的内核](https://github.com/driftphp/http-kernel) 
 - [apache/mesos: Apache Mesos是一个集群管理器，可在分布式应用程序或框架之间提供有效的资源隔离和共享。](https://github.com/apache/mesos) 
 - [capistrano/capistrano: Capistrano是用于构建自动化部署脚本的框架。 尽管Capistrano本身是用Ruby编写的，但可以轻松地用于部署任何语言或框架的项目，无论是Rails，Java还是PHP。](https://github.com/capistrano/capistrano) 
+- [symfony/workflow: 工作流组件提供用于管理工作流或有限状态机的工具。](https://github.com/symfony/workflow) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
