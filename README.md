@@ -385,6 +385,7 @@
 - [nullivex/lib-array2xml: Array2XML conversion library credit to lalit.org](https://github.com/nullivex/lib-array2xml) 
 - [rafrsr/lib-array2xml: XML2Array是用于将XML转换为PHP中的数组的类。 它返回一个数组，可以使用Array2XML类将其转换回XML。](https://github.com/rafrsr/lib-array2xml) 
 - [appstract/laravel-blade-directives: 漂亮的Laravel Blade指令集合](https://github.com/appstract/laravel-blade-directives) 
+- [micc83/mailamie: ami Mailamie是一个简单的SMTP捕获所有用PHP编写的用于测试的服务器。](https://github.com/micc83/mailamie) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
