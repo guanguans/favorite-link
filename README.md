@@ -389,6 +389,7 @@
 - [spatie/data-transfer-object: Data transfer objects with batteries included](https://github.com/spatie/data-transfer-object) 
 - [coreymcmahon/Simplex: Create your own framework on top of the Symfony2 Components](https://github.com/coreymcmahon/Simplex) 
 - [umpirsky/Simplex: 基于Silex的PHP微框架](https://github.com/umpirsky/Simplex) 
+- [nahidulhasan/simplex: Simplex框架非常简单容易。 对于想学习PHP的PHP初学者来说，这将是非常有用的。](https://github.com/nahidulhasan/simplex) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
