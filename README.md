@@ -395,6 +395,7 @@
 - [freddiefrantzen/simplex: PHP 7的模块化微型框架](https://github.com/freddiefrantzen/simplex) 
 - [php-pm/php-pm-httpkernel: 用于Symfony和Laravel框架与PHP-PM一起使用的HttpKernel适配器](https://github.com/php-pm/php-pm-httpkernel) 
 - [stackphp/run: 用于处理HttpKernel前控制器样板的快捷功能。](https://github.com/stackphp/run) 
+- [driftphp/http-kernel: React️基于Symfony组件的基于ReactPHP的内核](https://github.com/driftphp/http-kernel) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
