@@ -379,6 +379,7 @@
 - [xwb1989/sqlparser: Go中实现的SQL解析器](https://github.com/xwb1989/sqlparser) 
 - [taielab/Taie-Bugbounty-killer: 挖掘国内外漏洞平台必备的自动化捡钱赏金技巧，看了并去做了捡钱如喝水。](https://github.com/taielab/Taie-Bugbounty-killer) 
 - [walkor/crontab: 一个基于workerman用PHP编写的crontab](https://github.com/walkor/crontab) 
+- [stymiee/php-simple-encryption: PHP Simple Encryption库旨在简化数据加密和解密的过程，同时确保遵循最佳实践。](https://github.com/stymiee/php-simple-encryption) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
