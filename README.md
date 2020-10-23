@@ -392,6 +392,7 @@
 - [nahidulhasan/simplex: Simplex框架非常简单容易。 对于想学习PHP的PHP初学者来说，这将是非常有用的。](https://github.com/nahidulhasan/simplex) 
 - [nahidulhasan/laravel-pdf: 一个简单的程序包，可轻松地从HTML生成PDF文档。](https://github.com/nahidulhasan/laravel-pdf) 
 - [nahidulhasan/git-flow-example: Git Flow Example](https://github.com/nahidulhasan/git-flow-example) 
+- [freddiefrantzen/simplex: PHP 7的模块化微型框架](https://github.com/freddiefrantzen/simplex) 
 ### October 22, 2020 
 - [actions/virtual-environments: GitHub Actions虚拟环境](https://github.com/actions/virtual-environments) 
 - [kbinani/screenshot: Go 库以捕获桌面到图像](https://github.com/kbinani/screenshot) 
