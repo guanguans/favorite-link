@@ -385,6 +385,7 @@
 - [mtvbrianking/multi-auth: Laravel多重认证套件](https://github.com/mtvbrianking/multi-auth) 
 - [rtconner/laravel-likeable: Laravel模型可以轻松实现“喜欢”或“收藏”或“记住”功能。](https://github.com/rtconner/laravel-likeable) 
 - [KumbiaPHP/KumbiaPHP: 快速简便的PHP框架](https://github.com/KumbiaPHP/KumbiaPHP) 
+- [gegocart/admin: Gegocart的管理界面-使用Laravel构建](https://github.com/gegocart/admin) 
 ### October 23, 2020 
 - [xwb1989/sqlparser: Go中实现的SQL解析器](https://github.com/xwb1989/sqlparser) 
 - [taielab/Taie-Bugbounty-killer: 挖掘国内外漏洞平台必备的自动化捡钱赏金技巧，看了并去做了捡钱如喝水。](https://github.com/taielab/Taie-Bugbounty-killer) 
