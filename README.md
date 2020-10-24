@@ -379,6 +379,7 @@
 ### October 24, 2020 
 - [mailhog/MailHog: 基于Web和API的SMTP测试](https://github.com/mailhog/MailHog) 
 - [meilisearch/MeiliSearch: MeiliSearch是功能强大，快速，开源，易于使用和部署的搜索引擎。](https://github.com/meilisearch/MeiliSearch) 
+- [meilisearch/meilisearch-php: 用于MeiliSearch API的PHP包装器](https://github.com/meilisearch/meilisearch-php) 
 ### October 23, 2020 
 - [xwb1989/sqlparser: Go中实现的SQL解析器](https://github.com/xwb1989/sqlparser) 
 - [taielab/Taie-Bugbounty-killer: 挖掘国内外漏洞平台必备的自动化捡钱赏金技巧，看了并去做了捡钱如喝水。](https://github.com/taielab/Taie-Bugbounty-killer) 
