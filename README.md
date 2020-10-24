@@ -382,6 +382,7 @@
 - [meilisearch/meilisearch-php: 用于MeiliSearch API的PHP包装器](https://github.com/meilisearch/meilisearch-php) 
 - [rtheunissen/guzzle-log-middleware: Guzzle 6中间件，用于记录请求和响应](https://github.com/rtheunissen/guzzle-log-middleware) 
 - [gao-sun/eul: 在macOS中享受清晰，简单的状态监控。](https://github.com/gao-sun/eul) 
+- [mtvbrianking/multi-auth: Laravel多重认证套件](https://github.com/mtvbrianking/multi-auth) 
 ### October 23, 2020 
 - [xwb1989/sqlparser: Go中实现的SQL解析器](https://github.com/xwb1989/sqlparser) 
 - [taielab/Taie-Bugbounty-killer: 挖掘国内外漏洞平台必备的自动化捡钱赏金技巧，看了并去做了捡钱如喝水。](https://github.com/taielab/Taie-Bugbounty-killer) 
