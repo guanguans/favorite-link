@@ -376,6 +376,9 @@
 
 
 
+
+### October 25, 2020 
+- [cerbero90/Workflow: Laravel 5软件包通过利用管道的功能来创建可扩展和可维护的应用程序。](https://github.com/cerbero90/Workflow) 
 ### October 24, 2020 
 - [mailhog/MailHog: 基于Web和API的SMTP测试](https://github.com/mailhog/MailHog) 
 - [meilisearch/MeiliSearch: MeiliSearch是功能强大，快速，开源，易于使用和部署的搜索引擎。](https://github.com/meilisearch/MeiliSearch) 
