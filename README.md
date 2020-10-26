@@ -386,6 +386,7 @@
 - [yuanqing/vdx: 🎞️FFmpeg支持的用于处理视频的直观CLI](https://github.com/yuanqing/vdx) 
 - [mifi/lossless-cut: 无损视频/音频编辑的瑞士军刀](https://github.com/mifi/lossless-cut) 
 - [EmbarkStudios/rust-gpu: 🐉 使Rust成为GPU代码的一流语言和生态系统🚧](https://github.com/EmbarkStudios/rust-gpu) 
+- [smaranchand/bucky: Bucky（自动的S3存储桶发现工具）](https://github.com/smaranchand/bucky) 
 ### October 25, 2020 
 - [cerbero90/Workflow: Laravel 5软件包通过利用管道的功能来创建可扩展和可维护的应用程序。](https://github.com/cerbero90/Workflow) 
 ### October 24, 2020 
