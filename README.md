@@ -381,6 +381,7 @@
 ### October 26, 2020 
 - [laminas/laminas-code: PHP Reflection API的扩展，静态代码扫描和代码生成](https://github.com/laminas/laminas-code) 
 - [mahavivo/english-wordlists: 常用英语词汇表](https://github.com/mahavivo/english-wordlists) 
+- [schmittjoh/metadata: Metadata is a library for metadata management in PHP](https://github.com/schmittjoh/metadata) 
 ### October 25, 2020 
 - [cerbero90/Workflow: Laravel 5软件包通过利用管道的功能来创建可扩展和可维护的应用程序。](https://github.com/cerbero90/Workflow) 
 ### October 24, 2020 
