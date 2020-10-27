@@ -384,6 +384,7 @@
 - [jenssegers/laravel-rollbar: 适用于Laravel项目的Rollbar错误监视集成](https://github.com/jenssegers/laravel-rollbar) 
 - [symfony/thanks: 感谢您的PHP软件包维护者（不限于Symfony组件）（以GitHub★的形式）！](https://github.com/symfony/thanks) 
 - [mixn/carbon-now-cli: code代码的精美图片-从终端内部直接显示。](https://github.com/mixn/carbon-now-cli) 
+- [marcelgwerder/laravel-api-handler: 包提供Laravel REST-API的帮助程序功能](https://github.com/marcelgwerder/laravel-api-handler) 
 ### October 26, 2020 
 - [laminas/laminas-code: PHP Reflection API的扩展，静态代码扫描和代码生成](https://github.com/laminas/laminas-code) 
 - [mahavivo/english-wordlists: 常用英语词汇表](https://github.com/mahavivo/english-wordlists) 
