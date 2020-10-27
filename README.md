@@ -387,6 +387,7 @@
 - [marcelgwerder/laravel-api-handler: 包提供Laravel REST-API的帮助程序功能](https://github.com/marcelgwerder/laravel-api-handler) 
 - [cloudcake/laravel-approval: 为Laravel附加一个批准过程到任何模型，批准和拒绝任何其他模型。](https://github.com/cloudcake/laravel-approval) 
 - [funkjedi/composer-include-files: 以比自动加载文件更高的优先级包含文件。](https://github.com/funkjedi/composer-include-files) 
+- [blade-ui-kit/blade-ui-kit: 一组在Laravel Blade视图中使用的无渲染组件。](https://github.com/blade-ui-kit/blade-ui-kit) 
 ### October 26, 2020 
 - [laminas/laminas-code: PHP Reflection API的扩展，静态代码扫描和代码生成](https://github.com/laminas/laminas-code) 
 - [mahavivo/english-wordlists: 常用英语词汇表](https://github.com/mahavivo/english-wordlists) 
