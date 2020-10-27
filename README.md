@@ -389,6 +389,7 @@
 - [funkjedi/composer-include-files: 以比自动加载文件更高的优先级包含文件。](https://github.com/funkjedi/composer-include-files) 
 - [blade-ui-kit/blade-ui-kit: 一组在Laravel Blade视图中使用的无渲染组件。](https://github.com/blade-ui-kit/blade-ui-kit) 
 - [zenghongtu/PPet: 👻在你的桌面放一个萌妹子，多一点趣味😏~（支持Mac、Win和Linux）](https://github.com/zenghongtu/PPet) 
+- [matthiasnoback/live-code-coverage: 该库应该可以帮助您在实时服务器上生成代码覆盖率报告](https://github.com/matthiasnoback/live-code-coverage) 
 ### October 26, 2020 
 - [laminas/laminas-code: PHP Reflection API的扩展，静态代码扫描和代码生成](https://github.com/laminas/laminas-code) 
 - [mahavivo/english-wordlists: 常用英语词汇表](https://github.com/mahavivo/english-wordlists) 
