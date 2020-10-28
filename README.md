@@ -388,6 +388,7 @@
 - [mcaskill/composer-plugin-exclude-files: 📦Composer插件可使用“文件”自动加载机制排除软件包所需的文件。](https://github.com/mcaskill/composer-plugin-exclude-files) 
 - [qcod/laravel-app-settings: 使用Laravel应用的管理员界面将设置存储在数据库中](https://github.com/qcod/laravel-app-settings) 
 - [Elao/PhpEnums: 🔩提供PHP和框架集成的枚举](https://github.com/Elao/PhpEnums) 
+- [https://www.cupfox.com - 茶杯狐 Cupfox](https://www.cupfox.com/) 
 ### October 27, 2020 
 - [rollbar/rollbar-php: 错误跟踪和从PHP记录到Rollbar](https://github.com/rollbar/rollbar-php) 
 - [jenssegers/laravel-rollbar: 适用于Laravel项目的Rollbar错误监视集成](https://github.com/jenssegers/laravel-rollbar) 
