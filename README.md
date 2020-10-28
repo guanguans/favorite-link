@@ -384,6 +384,7 @@
 - [lxk0301/scripts: 京东薅羊毛工具, 京东水果、宠物、种豆等等](https://github.com/lxk0301/scripts) 
 - [FakerPHP/Faker: Faker是一个PHP库，可以为您生成假数据](https://github.com/FakerPHP/Faker) 
 - [spatie/laravel-route-attributes: 使用PHP 8属性在Laravel应用中注册路由](https://github.com/spatie/laravel-route-attributes) 
+- [TransparentLC/WechatMomentScreenshot: 朋友圈转发截图生成工具](https://github.com/TransparentLC/WechatMomentScreenshot) 
 ### October 27, 2020 
 - [rollbar/rollbar-php: 错误跟踪和从PHP记录到Rollbar](https://github.com/rollbar/rollbar-php) 
 - [jenssegers/laravel-rollbar: 适用于Laravel项目的Rollbar错误监视集成](https://github.com/jenssegers/laravel-rollbar) 
