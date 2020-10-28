@@ -379,6 +379,9 @@
 
 
 
+
+### October 28, 2020 
+- [lxk0301/scripts: 京东薅羊毛工具, 京东水果、宠物、种豆等等](https://github.com/lxk0301/scripts) 
 ### October 27, 2020 
 - [rollbar/rollbar-php: 错误跟踪和从PHP记录到Rollbar](https://github.com/rollbar/rollbar-php) 
 - [jenssegers/laravel-rollbar: 适用于Laravel项目的Rollbar错误监视集成](https://github.com/jenssegers/laravel-rollbar) 
