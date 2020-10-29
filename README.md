@@ -385,6 +385,7 @@
 - [MrS0m30n3/youtube-dl-gui: 用wxPython编写的流行youtube-dl的跨平台前端GUI。](https://github.com/MrS0m30n3/youtube-dl-gui) 
 - [overtrue/qcloud-cos-client: QCloud COS Client](https://github.com/overtrue/qcloud-cos-client) 
 - [Bearer/Pizzly: 将您的应用程序与OAuth API集成在一起的最简单，最快的方法](https://github.com/bearer/pizzly?utm_source=xinquji) 
+- [sebastianbergmann/php-timer: 用于计时的实用程序类，从PHPUnit分解为独立组件。](https://github.com/sebastianbergmann/php-timer) 
 ### October 28, 2020 
 - [lxk0301/scripts: 京东薅羊毛工具, 京东水果、宠物、种豆等等](https://github.com/lxk0301/scripts) 
 - [FakerPHP/Faker: Faker是一个PHP库，可以为您生成假数据](https://github.com/FakerPHP/Faker) 
