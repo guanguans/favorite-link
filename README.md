@@ -387,6 +387,7 @@
 - [vercel/vercel: Vercel是前端团队的最佳工作流程。 多合一：静态和Jamstack部署，无服务器功能和全局CDN。](https://github.com/vercel/vercel) 
 - [tabuna/breadcrumbs: Laravel Breadcrumbs-一种将面包屑添加到@laravel应用的简单方法。Laravel Breadcrumbs-一种将面包屑添加到@laravel应用的简单方法。](https://github.com/tabuna/breadcrumbs) 
 - [codecov/codecov-action: GitHub Action将覆盖范围上传到Codecov☂️](https://github.com/codecov/codecov-action) 
+- [FloeDesignTechnologies/phpcs-security-audit: phpcs-security-audit是一组PHP_CodeSniffer规则，用于查找与PHP代码中的安全性相关的漏洞和弱点](https://github.com/FloeDesignTechnologies/phpcs-security-audit) 
 ### October 29, 2020 
 - [MrS0m30n3/youtube-dl-gui: 用wxPython编写的流行youtube-dl的跨平台前端GUI。](https://github.com/MrS0m30n3/youtube-dl-gui) 
 - [overtrue/qcloud-cos-client: QCloud COS Client](https://github.com/overtrue/qcloud-cos-client) 
