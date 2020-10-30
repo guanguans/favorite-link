@@ -381,6 +381,9 @@
 
 
 
+
+### October 30, 2020 
+- [calebporzio/livewire-bot: Livewire的GitHub机器人](https://github.com/calebporzio/livewire-bot) 
 ### October 29, 2020 
 - [MrS0m30n3/youtube-dl-gui: 用wxPython编写的流行youtube-dl的跨平台前端GUI。](https://github.com/MrS0m30n3/youtube-dl-gui) 
 - [overtrue/qcloud-cos-client: QCloud COS Client](https://github.com/overtrue/qcloud-cos-client) 
