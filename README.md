@@ -387,6 +387,7 @@
 - [caffeinated/themes: 支持 Caffeinated Modules 包的 Laravel 主题包。](https://github.com/caffeinated/themes) 
 - [hellodword/wechat-feeds: 给微信公众号生成 RSS 订阅源](https://github.com/hellodword/wechat-feeds) 
 - [Mayccoll/Gogh: Gnome终端和万神殿终端的配色方案](https://github.com/Mayccoll/Gogh) 
+- [ksk001100/seahorse: 用Rust编写的最小CLI框架](https://github.com/ksk001100/seahorse) 
 ### October 30, 2020 
 - [calebporzio/livewire-bot: Livewire的GitHub机器人](https://github.com/calebporzio/livewire-bot) 
 - [vercel/vercel: Vercel是前端团队的最佳工作流程。 多合一：静态和Jamstack部署，无服务器功能和全局CDN。](https://github.com/vercel/vercel) 
