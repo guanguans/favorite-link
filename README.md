@@ -385,6 +385,7 @@
 
 ### November 2, 2020 
 - [caffeinated/themes: 支持 Caffeinated Modules 包的 Laravel 主题包。](https://github.com/caffeinated/themes) 
+- [hellodword/wechat-feeds: 给微信公众号生成 RSS 订阅源](https://github.com/hellodword/wechat-feeds) 
 ### October 30, 2020 
 - [calebporzio/livewire-bot: Livewire的GitHub机器人](https://github.com/calebporzio/livewire-bot) 
 - [vercel/vercel: Vercel是前端团队的最佳工作流程。 多合一：静态和Jamstack部署，无服务器功能和全局CDN。](https://github.com/vercel/vercel) 
