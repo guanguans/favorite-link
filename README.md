@@ -386,6 +386,7 @@
 
 ### November 3, 2020 
 - [snori74/linuxupskillchallenge: 从命令行学习对远程Linux服务器进行sysadmin所需的技能。](https://github.com/snori74/linuxupskillchallenge) 
+- [google/ko: 在Kubernetes上构建和部署Go应用程序](https://github.com/google/ko) 
 ### November 2, 2020 
 - [caffeinated/themes: 支持 Caffeinated Modules 包的 Laravel 主题包。](https://github.com/caffeinated/themes) 
 - [hellodword/wechat-feeds: 给微信公众号生成 RSS 订阅源](https://github.com/hellodword/wechat-feeds) 
