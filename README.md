@@ -392,6 +392,7 @@
 - [KubeOperator/KubeOperator: KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。](https://github.com/KubeOperator/KubeOperator) 
 - [seanmorris/php-wasm: 浏览器中的 PHP，由 WebAssembly 提供支持。](https://github.com/seanmorris/php-wasm) 
 - [lcobucci/content-negotiation-middleware: PSR-15中间件来处理内容协商](https://github.com/lcobucci/content-negotiation-middleware) 
+- [brcontainer/html2canvas-php-proxy: 该脚本允许您使用 html2canvas.js 与不同的服务器、端口和协议(http、 https)一起使用，以防止在导出图像的 < canvas > 时出现“受污染”的情况。](https://github.com/brcontainer/html2canvas-php-proxy) 
 ### November 3, 2020 
 - [snori74/linuxupskillchallenge: 从命令行学习对远程Linux服务器进行sysadmin所需的技能。](https://github.com/snori74/linuxupskillchallenge) 
 - [google/ko: 在Kubernetes上构建和部署Go应用程序](https://github.com/google/ko) 
