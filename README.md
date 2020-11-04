@@ -390,6 +390,7 @@
 - [allansun/kubernetes-php-client: Kubernetes PHP客户端](https://github.com/allansun/kubernetes-php-client) 
 - [neatlife/php-nacos: 阿里巴巴nacos配置中心-PHP客户端](https://github.com/neatlife/php-nacos) 
 - [KubeOperator/KubeOperator: KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。](https://github.com/KubeOperator/KubeOperator) 
+- [seanmorris/php-wasm: 浏览器中的 PHP，由 WebAssembly 提供支持。](https://github.com/seanmorris/php-wasm) 
 ### November 3, 2020 
 - [snori74/linuxupskillchallenge: 从命令行学习对远程Linux服务器进行sysadmin所需的技能。](https://github.com/snori74/linuxupskillchallenge) 
 - [google/ko: 在Kubernetes上构建和部署Go应用程序](https://github.com/google/ko) 
