@@ -384,6 +384,9 @@
 
 
 
+
+### November 4, 2020 
+- [pterm/pterm: go一个现代化的go模块，可美化控制台输出。 具有图表，进度条，表格，树等功能🚀完全可配置且100％跨平台兼容。](https://github.com/pterm/pterm) 
 ### November 3, 2020 
 - [snori74/linuxupskillchallenge: 从命令行学习对远程Linux服务器进行sysadmin所需的技能。](https://github.com/snori74/linuxupskillchallenge) 
 - [google/ko: 在Kubernetes上构建和部署Go应用程序](https://github.com/google/ko) 
