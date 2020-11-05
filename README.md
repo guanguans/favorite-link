@@ -391,6 +391,7 @@
 - [dwisiswant0/go-stare: 无需盲目浏览器即可快速，轻松地捕获Web截图，但使用Chrome DevTools协议！](https://github.com/dwisiswant0/go-stare) 
 - [themsaid/ibis: 此PHP工具可帮助您以markdown编写电子书。](https://github.com/themsaid/ibis) 
 - [antonmedv/expr: 用于Go的表达式评估引擎：快速，非图灵完整，动态键入，静态键入](https://github.com/antonmedv/expr) 
+- [NodeBB/NodeBB: 基于 Node.js 的现代网络论坛软件](https://github.com/NodeBB/NodeBB) 
 ### November 4, 2020 
 - [pterm/pterm: go一个现代化的go模块，可美化控制台输出。 具有图表，进度条，表格，树等功能🚀完全可配置且100％跨平台兼容。](https://github.com/pterm/pterm) 
 - [allansun/kubernetes-php-client: Kubernetes PHP客户端](https://github.com/allansun/kubernetes-php-client) 
