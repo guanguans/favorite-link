@@ -397,6 +397,7 @@
 - [willf/bloom: 实现 Bloom 过滤器的 Go 包](https://github.com/willf/bloom) 
 - [sparrow-js/sparrow: 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码](https://github.com/sparrow-js/sparrow) 
 - [s3inlc/hashtopolis: Hashcat包装器，用于分布式哈希破解](https://github.com/s3inlc/hashtopolis) 
+- [WizTeam/WizQTClient: 为知笔记跨平台客户端](https://github.com/WizTeam/WizQTClient) 
 ### November 4, 2020 
 - [pterm/pterm: go一个现代化的go模块，可美化控制台输出。 具有图表，进度条，表格，树等功能🚀完全可配置且100％跨平台兼容。](https://github.com/pterm/pterm) 
 - [allansun/kubernetes-php-client: Kubernetes PHP客户端](https://github.com/allansun/kubernetes-php-client) 
