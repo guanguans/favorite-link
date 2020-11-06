@@ -389,6 +389,7 @@
 
 ### November 6, 2020 
 - [jofpin/trape: 互联网上的人员跟踪器：Jose Pino的OSINT分析和研究工具](https://github.com/jofpin/trape) 
+- [pupuk/address: 纯PHP版，收货地址智能解析，不需要数据库支持，简单易用。可解析（身份证号，电话，座机，区号，省市区街道地址）](https://github.com/pupuk/address) 
 ### November 5, 2020 
 - [nette/caching: ⏱具有易于使用的API和许多缓存后端的缓存库。](https://github.com/nette/caching) 
 - [dwisiswant0/go-stare: 无需盲目浏览器即可快速，轻松地捕获Web截图，但使用Chrome DevTools协议！](https://github.com/dwisiswant0/go-stare) 
