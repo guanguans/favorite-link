@@ -390,6 +390,7 @@
 
 ### November 7, 2020 
 - [docker/compose-cli: 使用compose-cli轻松将您的Compose应用程序运行到云中](https://github.com/docker/compose-cli) 
+- [zhwei/nacos-sdk-php: Nacos OpenAPI的PHP实现。](https://github.com/zhwei/nacos-sdk-php) 
 ### November 6, 2020 
 - [jofpin/trape: 互联网上的人员跟踪器：Jose Pino的OSINT分析和研究工具](https://github.com/jofpin/trape) 
 - [pupuk/address: 纯PHP版，收货地址智能解析，不需要数据库支持，简单易用。可解析（身份证号，电话，座机，区号，省市区街道地址）](https://github.com/pupuk/address) 
