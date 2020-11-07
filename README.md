@@ -394,6 +394,7 @@
 - [alibaba/nacos: 一个易于使用的动态服务发现，配置和服务管理平台，用于构建云本机应用程序。.](https://github.com/alibaba/nacos) 
 - [spatie/crypto: 使用私钥/公钥加密和解密数据](https://github.com/spatie/crypto) 
 - [erebe/personal-server: 使用k3s的个人服务器配置](https://github.com/erebe/personal-server) 
+- [vhessam/laravel-blogger:Laravel博客包和laravel cms，可为您的网站添加wordpress功能，并与laravel 8兼容。](https://github.com/vhessam/laravel-blogger) 
 ### November 6, 2020 
 - [jofpin/trape: 互联网上的人员跟踪器：Jose Pino的OSINT分析和研究工具](https://github.com/jofpin/trape) 
 - [pupuk/address: 纯PHP版，收货地址智能解析，不需要数据库支持，简单易用。可解析（身份证号，电话，座机，区号，省市区街道地址）](https://github.com/pupuk/address) 
