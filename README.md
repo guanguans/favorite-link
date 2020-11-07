@@ -392,6 +392,7 @@
 - [docker/compose-cli: 使用compose-cli轻松将您的Compose应用程序运行到云中](https://github.com/docker/compose-cli) 
 - [zhwei/nacos-sdk-php: Nacos OpenAPI的PHP实现。](https://github.com/zhwei/nacos-sdk-php) 
 - [alibaba/nacos: 一个易于使用的动态服务发现，配置和服务管理平台，用于构建云本机应用程序。.](https://github.com/alibaba/nacos) 
+- [spatie/crypto: 使用私钥/公钥加密和解密数据](https://github.com/spatie/crypto) 
 ### November 6, 2020 
 - [jofpin/trape: 互联网上的人员跟踪器：Jose Pino的OSINT分析和研究工具](https://github.com/jofpin/trape) 
 - [pupuk/address: 纯PHP版，收货地址智能解析，不需要数据库支持，简单易用。可解析（身份证号，电话，座机，区号，省市区街道地址）](https://github.com/pupuk/address) 
