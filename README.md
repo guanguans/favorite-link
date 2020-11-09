@@ -392,6 +392,7 @@
 ### November 9, 2020 
 - [icecoder/ICEcoder: ICEcoder是基于浏览器的代码编辑器](https://github.com/icecoder/ICEcoder) 
 - [thephpleague/oauth2-github: OAuth 2.0客户端的GitHub提供程序](https://github.com/thephpleague/oauth2-github) 
+- [Firehed/simpleLogger: SimpleLogger是一个用于编写日志的PHP库。](https://github.com/Firehed/simpleLogger) 
 ### November 7, 2020 
 - [docker/compose-cli: 使用compose-cli轻松将您的Compose应用程序运行到云中](https://github.com/docker/compose-cli) 
 - [zhwei/nacos-sdk-php: Nacos OpenAPI的PHP实现。](https://github.com/zhwei/nacos-sdk-php) 
