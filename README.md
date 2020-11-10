@@ -392,6 +392,7 @@
 
 ### November 10, 2020 
 - [laravel/breeze: Breeze 为使用身份验证构建 Laravel 应用程序提供了一个简单的起点。](https://github.com/laravel/breeze) 
+- [caneco/laravel-country-logomarks: Laravel国家徽标的非官方（但很幸运）的存储库。](https://github.com/caneco/laravel-country-logomarks) 
 ### November 9, 2020 
 - [icecoder/ICEcoder: ICEcoder是基于浏览器的代码编辑器](https://github.com/icecoder/ICEcoder) 
 - [thephpleague/oauth2-github: OAuth 2.0客户端的GitHub提供程序](https://github.com/thephpleague/oauth2-github) 
