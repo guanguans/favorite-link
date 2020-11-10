@@ -395,6 +395,7 @@
 - [caneco/laravel-country-logomarks: Laravel国家徽标的非官方（但很幸运）的存储库。](https://github.com/caneco/laravel-country-logomarks) 
 - [miekg/dns: 完整且可用的DNS库。 支持所有资源记录，包括DNSSEC类型](https://github.com/miekg/dns) 
 - [bluele/gcache: 用于golang的缓存库。 它支持过期的Cache，LFU，LRU和ARC。](https://github.com/bluele/gcache) 
+- [ThreeDotsLabs/wild-workouts-go-ddd-example: 完整的serverless应用程序，展示如何通过实际重构Go项目来应用DDD、Clean架构和CQRS。](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) 
 ### November 9, 2020 
 - [icecoder/ICEcoder: ICEcoder是基于浏览器的代码编辑器](https://github.com/icecoder/ICEcoder) 
 - [thephpleague/oauth2-github: OAuth 2.0客户端的GitHub提供程序](https://github.com/thephpleague/oauth2-github) 
