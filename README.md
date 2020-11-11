@@ -394,6 +394,7 @@
 ### November 11, 2020 
 - [mohuihui/DingTalk_Assistant: 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。](https://github.com/mohuihui/DingTalk_Assistant) 
 - [senaranya/Laravel-Env-Sync: Laravel软件包来检查或同步两个.env文件](https://github.com/senaranya/Laravel-Env-Sync) 
+- [manchenkoff/yii2-project: Yii 2 application boilerplate](https://github.com/manchenkoff/yii2-project) 
 ### November 10, 2020 
 - [laravel/breeze: Breeze 为使用身份验证构建 Laravel 应用程序提供了一个简单的起点。](https://github.com/laravel/breeze) 
 - [caneco/laravel-country-logomarks: Laravel国家徽标的非官方（但很幸运）的存储库。](https://github.com/caneco/laravel-country-logomarks) 
