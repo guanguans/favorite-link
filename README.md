@@ -396,6 +396,7 @@
 - [senaranya/Laravel-Env-Sync: Laravel软件包来检查或同步两个.env文件](https://github.com/senaranya/Laravel-Env-Sync) 
 - [manchenkoff/yii2-project: Yii 2 application boilerplate](https://github.com/manchenkoff/yii2-project) 
 - [manchenkoff/yii2-helpers: Yii2扩展-有用的帮助器功能](https://github.com/manchenkoff/yii2-helpers) 
+- [alterphp/EasyAdminExtensionBundle: 为EasyAdminBundle for Symfony提供一些附加功能](https://github.com/alterphp/EasyAdminExtensionBundle) 
 ### November 10, 2020 
 - [laravel/breeze: Breeze 为使用身份验证构建 Laravel 应用程序提供了一个简单的起点。](https://github.com/laravel/breeze) 
 - [caneco/laravel-country-logomarks: Laravel国家徽标的非官方（但很幸运）的存储库。](https://github.com/caneco/laravel-country-logomarks) 
