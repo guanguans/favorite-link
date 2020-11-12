@@ -402,6 +402,7 @@
 - [grafana/loki: Loki 是一个受 Prometheus 启发的水平可伸缩的、高可用的、多租户的日志聚合系统](https://github.com/grafana/loki) 
 - [IsraelOrtuno/pipedrive: 适用于PHP的完整Pipedrive API客户端](https://github.com/IsraelOrtuno/pipedrive) 
 - [Intervention/validation: Laravel验证类的扩展](https://github.com/Intervention/validation) 
+- [nunomaduro/laravel-console-summary: 📖适用于Artisan或Laravel Zero的精美Laravel控制台摘要。](https://github.com/nunomaduro/laravel-console-summary) 
 ### November 11, 2020 
 - [mohuihui/DingTalk_Assistant: 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。](https://github.com/mohuihui/DingTalk_Assistant) 
 - [senaranya/Laravel-Env-Sync: Laravel软件包来检查或同步两个.env文件](https://github.com/senaranya/Laravel-Env-Sync) 
