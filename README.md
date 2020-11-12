@@ -394,6 +394,7 @@
 
 ### November 12, 2020 
 - [gorilla/sessions: 软件包gorilla / sessions为自定义会话后端提供cookie和文件系统会话以及基础结构。](https://github.com/gorilla/sessions) 
+- [mattn/go-sqlite3: sqlite3驱动程序，用于使用数据库/ sql](https://github.com/mattn/go-sqlite3) 
 ### November 11, 2020 
 - [mohuihui/DingTalk_Assistant: 钉钉助手，主要功能包括：聊天消息防撤回、程序多开、屏蔽频繁升级等。](https://github.com/mohuihui/DingTalk_Assistant) 
 - [senaranya/Laravel-Env-Sync: Laravel软件包来检查或同步两个.env文件](https://github.com/senaranya/Laravel-Env-Sync) 
