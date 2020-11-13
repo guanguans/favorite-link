@@ -397,6 +397,7 @@
 - [element-plus/element-plus: 🎉 A Vue.js 3.0 UI Library](https://github.com/element-plus/element-plus) 
 - [SkyAPM/SkyAPM-php-sdk: Apache SkyWalking 的 PHP 工具代理](https://github.com/SkyAPM/SkyAPM-php-sdk) 
 - [photoprism/photoprism: 由Go和Google TensorFlow支持的个人照片管理](https://github.com/photoprism/photoprism) 
+- [lokielse/omnipay-wechatpay: （Omnipay PHP付款处理库的WechatPay驱动程序](https://github.com/lokielse/omnipay-wechatpay) 
 ### November 12, 2020 
 - [gorilla/sessions: 软件包gorilla / sessions为自定义会话后端提供cookie和文件系统会话以及基础结构。](https://github.com/gorilla/sessions) 
 - [mattn/go-sqlite3: sqlite3驱动程序，用于使用数据库/ sql](https://github.com/mattn/go-sqlite3) 
