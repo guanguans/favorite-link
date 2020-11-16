@@ -399,6 +399,7 @@
 - [joshbrw/laravel-module-installer: 这个软件包的目的是为了方便地将独立模块安装到 Laravel 模块软件包中。此包将确保将模块安装到 Modules/目录而不是 vendor/中。](https://github.com/joshbrw/laravel-module-installer) 
 - [vcraescu/go-paginator: 在 Golang 实现分页的简单方法。](https://github.com/vcraescu/go-paginator) 
 - [elrumo/macOS_Big_Sur_icons_replacements: 具有macOS Big Sur风格的流行应用程序的替换图标](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) 
+- [johnlui/GraphQL-Laravel: A Laravel GraphQL reference implementation forked from webonyx/graphql-php](https://github.com/johnlui/GraphQL-Laravel) 
 ### November 13, 2020 
 - [element-plus/element-plus: 🎉 A Vue.js 3.0 UI Library](https://github.com/element-plus/element-plus) 
 - [SkyAPM/SkyAPM-php-sdk: Apache SkyWalking 的 PHP 工具代理](https://github.com/SkyAPM/SkyAPM-php-sdk) 
