@@ -401,6 +401,7 @@
 - [elrumo/macOS_Big_Sur_icons_replacements: 具有macOS Big Sur风格的流行应用程序的替换图标](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) 
 - [johnlui/GraphQL-Laravel: A Laravel GraphQL reference implementation forked from webonyx/graphql-php](https://github.com/johnlui/GraphQL-Laravel) 
 - [noahbuscher/macaw: 简单的 PHP 路由器](https://github.com/NoahBuscher/Macaw) 
+- [qxinGitHub/searchEngineJump: 搜索引擎跳转脚本,能够方便的在多个引擎之间跳转](https://github.com/qxinGitHub/searchEngineJump) 
 ### November 13, 2020 
 - [element-plus/element-plus: 🎉 A Vue.js 3.0 UI Library](https://github.com/element-plus/element-plus) 
 - [SkyAPM/SkyAPM-php-sdk: Apache SkyWalking 的 PHP 工具代理](https://github.com/SkyAPM/SkyAPM-php-sdk) 
