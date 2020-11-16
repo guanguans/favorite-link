@@ -396,6 +396,7 @@
 
 ### November 16, 2020 
 - [zgabievi/laravel-promocodes: Promotional Codes Generator for Laravel >5](https://github.com/zgabievi/laravel-promocodes) 
+- [joshbrw/laravel-module-installer: 这个软件包的目的是为了方便地将独立模块安装到 Laravel 模块软件包中。此包将确保将模块安装到 Modules/目录而不是 vendor/中。](https://github.com/joshbrw/laravel-module-installer) 
 ### November 13, 2020 
 - [element-plus/element-plus: 🎉 A Vue.js 3.0 UI Library](https://github.com/element-plus/element-plus) 
 - [SkyAPM/SkyAPM-php-sdk: Apache SkyWalking 的 PHP 工具代理](https://github.com/SkyAPM/SkyAPM-php-sdk) 
