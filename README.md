@@ -400,6 +400,7 @@
 - [yzen-dev/mono-processor: 用有关错误的辅助信息补充日志记录](https://github.com/yzen-dev/mono-processor) 
 - [sindresorhus/screenfull.js: 用于JavaScript全屏API的跨浏览器使用的简单包装](https://github.com/sindresorhus/screenfull.js) 
 - [vapor/vapor: 一个服务器端的 Swift web 框架。](https://github.com/vapor/vapor) 
+- [Kujiale-Mobile/Painter: 小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片](https://github.com/Kujiale-Mobile/Painter) 
 ### November 16, 2020 
 - [zgabievi/laravel-promocodes: Promotional Codes Generator for Laravel >5](https://github.com/zgabievi/laravel-promocodes) 
 - [joshbrw/laravel-module-installer: 这个软件包的目的是为了方便地将独立模块安装到 Laravel 模块软件包中。此包将确保将模块安装到 Modules/目录而不是 vendor/中。](https://github.com/joshbrw/laravel-module-installer) 
