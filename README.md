@@ -394,6 +394,9 @@
 
 
 
+
+### November 17, 2020 
+- [dinedal/textql: 使您可以轻松地针对CSV或TSV等结构化文本执行SQL。](https://github.com/dinedal/textql) 
 ### November 16, 2020 
 - [zgabievi/laravel-promocodes: Promotional Codes Generator for Laravel >5](https://github.com/zgabievi/laravel-promocodes) 
 - [joshbrw/laravel-module-installer: 这个软件包的目的是为了方便地将独立模块安装到 Laravel 模块软件包中。此包将确保将模块安装到 Modules/目录而不是 vendor/中。](https://github.com/joshbrw/laravel-module-installer) 
