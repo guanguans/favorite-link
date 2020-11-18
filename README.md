@@ -399,6 +399,7 @@
 ### November 18, 2020 
 - [GoogleContainerTools/skaffold: 简易可重复的 Kubernetes 开发](https://github.com/GoogleContainerTools/skaffold) 
 - [jomweb/billplz: PHP框架不可知库，可与BillPlz API v3及更高版本配合使用...](https://github.com/jomweb/billplz) 
+- [go-echarts/go-echarts: 🎨 Golang可爱的图表库](https://github.com/go-echarts/go-echarts) 
 ### November 17, 2020 
 - [dinedal/textql: 使您可以轻松地针对CSV或TSV等结构化文本执行SQL。](https://github.com/dinedal/textql) 
 - [yzen-dev/mono-processor: 用有关错误的辅助信息补充日志记录](https://github.com/yzen-dev/mono-processor) 
