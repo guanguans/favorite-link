@@ -405,6 +405,7 @@
 - [proengsoft/laravel-jsvalidation: Laravel Javascript验证](https://github.com/proengsoft/laravel-jsvalidation) 
 - [hantmac/Mastering_Go_Second_Edition_Zh_CN: About Mastering Go 第二版中文版](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) 
 - [symfony-cmf/Routing: 建立在Symfony路由组件上的路由组件](https://github.com/symfony-cmf/Routing) 
+- [jarektkaczyk/eloquence: Extensions for the Eloquent ORM](https://github.com/jarektkaczyk/eloquence) 
 ### November 17, 2020 
 - [dinedal/textql: 使您可以轻松地针对CSV或TSV等结构化文本执行SQL。](https://github.com/dinedal/textql) 
 - [yzen-dev/mono-processor: 用有关错误的辅助信息补充日志记录](https://github.com/yzen-dev/mono-processor) 
