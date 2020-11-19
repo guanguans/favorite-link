@@ -399,6 +399,7 @@
 
 ### November 19, 2020 
 - [netease-im/NIM_Duilib_Framework: About 网易云信Windows应用界面开发框架（基于Duilib）](https://github.com/netease-im/NIM_Duilib_Framework) 
+- [spatie/laravel-medialibrary-pro-app: Laravel应用程序来演示Media Library Pro的功能](https://github.com/spatie/laravel-medialibrary-pro-app) 
 ### November 18, 2020 
 - [GoogleContainerTools/skaffold: 简易可重复的 Kubernetes 开发](https://github.com/GoogleContainerTools/skaffold) 
 - [jomweb/billplz: PHP框架不可知库，可与BillPlz API v3及更高版本配合使用...](https://github.com/jomweb/billplz) 
