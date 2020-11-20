@@ -405,6 +405,7 @@
 - [cmgmyr/laravel-messenger: 用于 Laravel 的简单用户消息包](https://github.com/cmgmyr/laravel-messenger) 
 - [webmozart/path-util: 该软件包提供了健壮的跨平台实用程序功能，用于规范化，比较和修改文件路径和URL。](https://github.com/webmozart/path-util) 
 - [google/wire: 编译时的 Go 依赖注入](https://github.com/google/wire) 
+- [jinzhu/copier: 用于golang的复印机，将值从struct复制到struct等](https://github.com/jinzhu/copier) 
 ### November 19, 2020 
 - [netease-im/NIM_Duilib_Framework: About 网易云信Windows应用界面开发框架（基于Duilib）](https://github.com/netease-im/NIM_Duilib_Framework) 
 - [spatie/laravel-medialibrary-pro-app: Laravel应用程序来演示Media Library Pro的功能](https://github.com/spatie/laravel-medialibrary-pro-app) 
