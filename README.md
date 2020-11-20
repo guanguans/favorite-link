@@ -401,6 +401,7 @@
 ### November 20, 2020 
 - [moyada/stealer: 抖音、快手、火山、皮皮虾，视频去水印程序](https://github.com/moyada/stealer) 
 - [k0sproject/k0s: k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) 
+- [ivopetkov/html5-dom-document-php: 适用于PHP的更好的HTML5解析器。](https://github.com/ivopetkov/html5-dom-document-php) 
 ### November 19, 2020 
 - [netease-im/NIM_Duilib_Framework: About 网易云信Windows应用界面开发框架（基于Duilib）](https://github.com/netease-im/NIM_Duilib_Framework) 
 - [spatie/laravel-medialibrary-pro-app: Laravel应用程序来演示Media Library Pro的功能](https://github.com/spatie/laravel-medialibrary-pro-app) 
