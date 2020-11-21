@@ -405,6 +405,7 @@
 - [tkestack/tke: 支持多租户和多集群的本地Kubernetes容器管理平台](https://github.com/tkestack/tke) 
 - [netdata/netdata: 对系统，容器，应用程序和基础架构的最佳监视和故障排除。](https://github.com/netdata/netdata) 
 - [hexters/ladmin: 在5分钟内建立管理员页面](https://github.com/hexters/ladmin) 
+- [bitfumes/laravel-multiauth: Laravel Project中的多重身份验证和管理员身份验证](https://github.com/bitfumes/laravel-multiauth) 
 ### November 20, 2020 
 - [moyada/stealer: 抖音、快手、火山、皮皮虾，视频去水印程序](https://github.com/moyada/stealer) 
 - [k0sproject/k0s: k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) 
