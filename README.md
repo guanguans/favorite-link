@@ -398,6 +398,9 @@
 
 
 
+
+### November 21, 2020 
+- [davmixcool/laravel-meta-manager: Laravel Meta Manager是一个SEO工具，用于通过向您的应用程序添加推荐的meta标签来改善网站或特定页面的SEO。](https://github.com/davmixcool/laravel-meta-manager) 
 ### November 20, 2020 
 - [moyada/stealer: 抖音、快手、火山、皮皮虾，视频去水印程序](https://github.com/moyada/stealer) 
 - [k0sproject/k0s: k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s) 
