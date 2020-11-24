@@ -409,6 +409,7 @@
 - [laravel-notification-channels/webpush: Laravel的Webpush通知频道。](https://github.com/laravel-notification-channels/webpush) 
 - [jksusu/huawei-php: 华为云人脸服务 phpsdk，可在swoole环境下使用](https://github.com/jksusu/huawei-php) 
 - [jksusu/huawei-php: 华为云人脸服务 phpsdk，可在swoole环境下使用](https://github.com/jksusu/huawei-php) 
+- [joshrainwater/active-users: Laravel软件包，可轻松检索当前在线的活动用户和访客列表。](https://github.com/joshrainwater/active-users) 
 ### November 21, 2020 
 - [davmixcool/laravel-meta-manager: Laravel Meta Manager是一个SEO工具，用于通过向您的应用程序添加推荐的meta标签来改善网站或特定页面的SEO。](https://github.com/davmixcool/laravel-meta-manager) 
 - [upptime/upptime: Upptime（upptime.js.org）是开源的正常运行时间监控器和状态页面，完全由GitHub Actions和Issues支持。](https://github.com/upptime/upptime) 
