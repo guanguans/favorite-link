@@ -408,6 +408,7 @@
 - [Swop/github-webhook: 处理传入的GitHub Web挂钩请求的库（签名验证和有效负载解析）](https://github.com/Swop/github-webhook) 
 - [laravel-notification-channels/webpush: Laravel的Webpush通知频道。](https://github.com/laravel-notification-channels/webpush) 
 - [jksusu/huawei-php: 华为云人脸服务 phpsdk，可在swoole环境下使用](https://github.com/jksusu/huawei-php) 
+- [jksusu/huawei-php: 华为云人脸服务 phpsdk，可在swoole环境下使用](https://github.com/jksusu/huawei-php) 
 ### November 21, 2020 
 - [davmixcool/laravel-meta-manager: Laravel Meta Manager是一个SEO工具，用于通过向您的应用程序添加推荐的meta标签来改善网站或特定页面的SEO。](https://github.com/davmixcool/laravel-meta-manager) 
 - [upptime/upptime: Upptime（upptime.js.org）是开源的正常运行时间监控器和状态页面，完全由GitHub Actions和Issues支持。](https://github.com/upptime/upptime) 
