@@ -408,6 +408,7 @@
 - [samonzeweb/godb: Go SQL查询构建器和结构映射器。](https://github.com/samonzeweb/godb) 
 - [PromPHP/prometheus_client_php: 适用于PHP应用程序的Prometheus工具库](https://github.com/PromPHP/prometheus_client_php) 
 - [the1812/Bilibili-Evolved: 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持](https://github.com/the1812/Bilibili-Evolved) 
+- [chanxuehong/wechat: weixin/wechat/微信公众平台/微信企业号/微信商户平台/微信支付 go/golang sdk](https://github.com/chanxuehong/wechat) 
 ### November 24, 2020 
 - [hug-sun/element3: 适用于Web的Vue.js 3.0 UI工具包。](https://github.com/hug-sun/element3) 
 - [robpike/filter: 简单的应用/过滤/减少包。](https://github.com/robpike/filter) 
