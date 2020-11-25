@@ -403,6 +403,7 @@
 
 ### November 25, 2020 
 - [sergi/go-diff: Go中的Diff、match和patch text](https://github.com/sergi/go-diff) 
+- [larawelders/queue-event-logger: 记录队列事件的所有详细信息](https://github.com/larawelders/queue-event-logger) 
 ### November 24, 2020 
 - [hug-sun/element3: 适用于Web的Vue.js 3.0 UI工具包。](https://github.com/hug-sun/element3) 
 - [robpike/filter: 简单的应用/过滤/减少包。](https://github.com/robpike/filter) 
