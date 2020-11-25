@@ -405,6 +405,7 @@
 - [sergi/go-diff: Go中的Diff、match和patch text](https://github.com/sergi/go-diff) 
 - [larawelders/queue-event-logger: 记录队列事件的所有详细信息](https://github.com/larawelders/queue-event-logger) 
 - [RayWangQvQ/BiliBiliTool: .Net 5 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。](https://github.com/RayWangQvQ/BiliBiliTool) 
+- [samonzeweb/godb: Go SQL查询构建器和结构映射器。](https://github.com/samonzeweb/godb) 
 ### November 24, 2020 
 - [hug-sun/element3: 适用于Web的Vue.js 3.0 UI工具包。](https://github.com/hug-sun/element3) 
 - [robpike/filter: 简单的应用/过滤/减少包。](https://github.com/robpike/filter) 
