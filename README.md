@@ -404,6 +404,7 @@
 
 ### November 26, 2020 
 - [grachevko/markdown-builder: A helper class to create markdown](https://github.com/grachevko/markdown-builder) 
+- [fatih/color: Color package for Go (golang)](https://github.com/fatih/color) 
 ### November 25, 2020 
 - [sergi/go-diff: Go中的Diff、match和patch text](https://github.com/sergi/go-diff) 
 - [larawelders/queue-event-logger: 记录队列事件的所有详细信息](https://github.com/larawelders/queue-event-logger) 
