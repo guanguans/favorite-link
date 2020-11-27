@@ -408,6 +408,7 @@
 - [BenMorel/smartdump: 转储选定的 MySQL 表及其关系](https://github.com/BenMorel/smartdump) 
 - [npmhub/npmhub: 🔎一个浏览器扩展，用于探索对GitHub存储库的npm依赖性](https://github.com/npmhub/npmhub) 
 - [yetanotherape/diff-match-patch: Diff Match和Patch库提供了强大的算法来执行同步纯文本所需的操作：](https://github.com/yetanotherape/diff-match-patch) 
+- [timacdonald/has-parameters: 一种特性，允许您以更类似于PHP的方式将参数传递给Laravel中间件。](https://github.com/timacdonald/has-parameters) 
 ### November 26, 2020 
 - [grachevko/markdown-builder: A helper class to create markdown](https://github.com/grachevko/markdown-builder) 
 - [fatih/color: Color package for Go (golang)](https://github.com/fatih/color) 
