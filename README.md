@@ -409,6 +409,7 @@
 - [npmhub/npmhub: 🔎一个浏览器扩展，用于探索对GitHub存储库的npm依赖性](https://github.com/npmhub/npmhub) 
 - [yetanotherape/diff-match-patch: Diff Match和Patch库提供了强大的算法来执行同步纯文本所需的操作：](https://github.com/yetanotherape/diff-match-patch) 
 - [timacdonald/has-parameters: 一种特性，允许您以更类似于PHP的方式将参数传递给Laravel中间件。](https://github.com/timacdonald/has-parameters) 
+- [ayuer/shanghai_house_knowledge: 的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。](https://github.com/ayuer/shanghai_house_knowledge) 
 ### November 26, 2020 
 - [grachevko/markdown-builder: A helper class to create markdown](https://github.com/grachevko/markdown-builder) 
 - [fatih/color: Color package for Go (golang)](https://github.com/fatih/color) 
