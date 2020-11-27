@@ -406,6 +406,7 @@
 ### November 27, 2020 
 - [tal-tech/cds: 基于ClickHouse的大数据数据同步、存储、计算系统](https://github.com/tal-tech/cds) 
 - [BenMorel/smartdump: 转储选定的 MySQL 表及其关系](https://github.com/BenMorel/smartdump) 
+- [npmhub/npmhub: 🔎一个浏览器扩展，用于探索对GitHub存储库的npm依赖性](https://github.com/npmhub/npmhub) 
 ### November 26, 2020 
 - [grachevko/markdown-builder: A helper class to create markdown](https://github.com/grachevko/markdown-builder) 
 - [fatih/color: Color package for Go (golang)](https://github.com/fatih/color) 
