@@ -402,6 +402,9 @@
 
 
 
+
+### November 27, 2020 
+- [tal-tech/cds: 基于ClickHouse的大数据数据同步、存储、计算系统](https://github.com/tal-tech/cds) 
 ### November 26, 2020 
 - [grachevko/markdown-builder: A helper class to create markdown](https://github.com/grachevko/markdown-builder) 
 - [fatih/color: Color package for Go (golang)](https://github.com/fatih/color) 
