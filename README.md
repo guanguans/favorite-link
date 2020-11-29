@@ -403,6 +403,9 @@
 
 
 
+
+### November 29, 2020 
+- [KnpLabs/packagist-api: Packagist的PHP API](https://github.com/KnpLabs/packagist-api) 
 ### November 27, 2020 
 - [tal-tech/cds: 基于ClickHouse的大数据数据同步、存储、计算系统](https://github.com/tal-tech/cds) 
 - [BenMorel/smartdump: 转储选定的 MySQL 表及其关系](https://github.com/BenMorel/smartdump) 
