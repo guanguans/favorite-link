@@ -404,6 +404,9 @@
 
 
 
+
+### November 30, 2020 
+- [ovrclk/akash: 一个安全、透明、对等的云计算网络](https://github.com/ovrclk/akash) 
 ### November 29, 2020 
 - [KnpLabs/packagist-api: Packagist的PHP API](https://github.com/KnpLabs/packagist-api) 
 ### November 27, 2020 
