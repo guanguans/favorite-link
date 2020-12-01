@@ -405,6 +405,9 @@
 
 
 
+
+### December 1, 2020 
+- [viest/laricon: Laricon是一个基于字符串生成identicon图像的库。](https://github.com/viest/laricon) 
 ### November 30, 2020 
 - [ovrclk/akash: 一个安全、透明、对等的云计算网络](https://github.com/ovrclk/akash) 
 - [s4n7h0/xvwa: XVWA是一个用PHP/MySQL编写的代码错误的web应用程序，它帮助安全爱好者学习应用程序安全性。](https://github.com/s4n7h0/xvwa) 
