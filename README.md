@@ -406,6 +406,9 @@
 
 
 
+
+### December 2, 2020 
+- [nunomaduro/ohdear-cli: 用Laravel Zero编写的非官方的Oh Dear CLI。](https://github.com/nunomaduro/ohdear-cli) 
 ### December 1, 2020 
 - [viest/laricon: Laricon是一个基于字符串生成identicon图像的库。](https://github.com/viest/laricon) 
 - [Celtoys/Remotery: 单个C文件，实时CPU/GPU分析器，带远程Web Viewer](https://github.com/Celtoys/Remotery) 
