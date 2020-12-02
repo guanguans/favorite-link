@@ -412,6 +412,7 @@
 - [awssat/tailwindo: 🔌将Bootstrap CSS代码转换为Tailwind CSS代码](https://github.com/awssat/tailwindo) 
 - [phpMv/ubiquity: Ubiquity，一个强大而快速的高效设计框架。](https://github.com/phpMv/ubiquity) 
 - [SC-Networks/deepl-api-connector: 用于 deepl. com rest 翻译 api 的连接器库](https://github.com/SC-Networks/deepl-api-connector) 
+- [mmcdole/gofeed: 在Go中解析RSS，Atom和JSON feed](https://github.com/mmcdole/gofeed) 
 ### December 1, 2020 
 - [viest/laricon: Laricon是一个基于字符串生成identicon图像的库。](https://github.com/viest/laricon) 
 - [Celtoys/Remotery: 单个C文件，实时CPU/GPU分析器，带远程Web Viewer](https://github.com/Celtoys/Remotery) 
