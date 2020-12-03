@@ -407,6 +407,9 @@
 
 
 
+
+### December 3, 2020 
+- [symfony/security-core: 安全性为复杂的授权系统提供了基础结构，这使得可以轻松地将实际授权逻辑与持有用户凭据的所谓用户提供程序分开。](https://github.com/symfony/security-core) 
 ### December 2, 2020 
 - [nunomaduro/ohdear-cli: 用Laravel Zero编写的非官方的Oh Dear CLI。](https://github.com/nunomaduro/ohdear-cli) 
 - [awssat/tailwindo: 🔌将Bootstrap CSS代码转换为Tailwind CSS代码](https://github.com/awssat/tailwindo) 
