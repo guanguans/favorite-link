@@ -412,6 +412,7 @@
 ### December 4, 2020 
 - [dspurl/dsshop: vue2.0+Laravel7商城电商平台](https://github.com/dspurl/dsshop) 
 - [😩「能不能好好说话？」 拼音首字母缩写翻译工具](https://github.com/itorr/nbnhhsh) 
+- [syncthing/syncthing: 开源连续文件同步](https://github.com/syncthing/syncthing) 
 ### December 3, 2020 
 - [symfony/security-core: 安全性为复杂的授权系统提供了基础结构，这使得可以轻松地将实际授权逻辑与持有用户凭据的所谓用户提供程序分开。](https://github.com/symfony/security-core) 
 - [veewee/composer-run-parallel: 这个作曲家插件可让您并行运行作曲家文件中的任务。 无需等待一项特定任务！](https://github.com/veewee/composer-run-parallel) 
