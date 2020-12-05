@@ -412,6 +412,7 @@
 
 ### December 5, 2020 
 - [rustcc/writing-an-os-in-rust: 《使用Rust编写操作系统》](https://github.com/rustcc/writing-an-os-in-rust) 
+- [actix/actix-web: actixweb是一个功能强大、实用且速度极快的Rust Web框架。](https://github.com/actix/actix-web) 
 ### December 4, 2020 
 - [dspurl/dsshop: vue2.0+Laravel7商城电商平台](https://github.com/dspurl/dsshop) 
 - [😩「能不能好好说话？」 拼音首字母缩写翻译工具](https://github.com/itorr/nbnhhsh) 
