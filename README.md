@@ -415,6 +415,7 @@
 ### December 8, 2020 
 - [ribice/gorsk: 🔥 惯用Golang Restful入门套件](https://github.com/ribice/gorsk) 
 - [ribice/gorsk: 🔥 惯用Golang Restful入门套件](https://github.com/ribice/gorsk) 
+- [pilosa/pilosa: Pilosa是一个开放源代码的分布式位图索引，可极大地加速跨多个海量数据集的查询。](https://github.com/pilosa/pilosa) 
 ### December 7, 2020 
 - [tulios/json-viewer: 这是一个Chrome扩展程序，用于打印JSON和JSONP。](https://github.com/tulios/json-viewer) 
 - [google/gvisor: 容器应用程序内核](https://github.com/google/gvisor) 
