@@ -418,6 +418,7 @@
 - [pilosa/pilosa: Pilosa是一个开放源代码的分布式位图索引，可极大地加速跨多个海量数据集的查询。](https://github.com/pilosa/pilosa) 
 - [nowgoo/dict: 一个简单快速的词库，用来从一段文本中找出存在于词库的词语。](https://github.com/nowgoo/dict) 
 - [tauri-apps/tauri: 使用Web前端构建更小，更快和更安全的桌面应用程序。](https://github.com/tauri-apps/tauri) 
+- [okonet/lint-staged: 🚫💩—在git暂存文件上运行lint](https://github.com/okonet/lint-staged) 
 ### December 7, 2020 
 - [tulios/json-viewer: 这是一个Chrome扩展程序，用于打印JSON和JSONP。](https://github.com/tulios/json-viewer) 
 - [google/gvisor: 容器应用程序内核](https://github.com/google/gvisor) 
