@@ -417,6 +417,7 @@
 - [krallin/tini: 一个很小但有效的容器“init”](https://github.com/krallin/tini) 
 - [littlebossERP/erp_opensource: 小老板erp开源](https://github.com/littlebossERP/erp_opensource) 
 - [gabordemooij/redbean: 动态创建模型、配置和数据库的ORM层](https://github.com/gabordemooij/redbean) 
+- [nextras/orm: ORM with clean object design, smart relationship loading and powerful collections.](https://github.com/nextras/orm) 
 ### December 8, 2020 
 - [ribice/gorsk: 🔥 惯用Golang Restful入门套件](https://github.com/ribice/gorsk) 
 - [ribice/gorsk: 🔥 惯用Golang Restful入门套件](https://github.com/ribice/gorsk) 
