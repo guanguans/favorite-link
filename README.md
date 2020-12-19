@@ -424,6 +424,7 @@
 ### December 19, 2020 
 - [metersphere/metersphere: 一站式开源持续测试平台](https://github.com/metersphere/metersphere) 
 - [vuongxuongminh/yii2-searchable: 为Yii2 Active Record提供简单的全文本搜索。](https://github.com/vuongxuongminh/yii2-searchable) 
+- [k0sproject/k0s: Zero Friction Kubernetes](https://github.com/k0sproject/k0s) 
 ### December 18, 2020 
 - [hunzhiwange/framework: QueryPHP是一个现代的，高性能的PHP渐进框架，以提供稳定可靠的高质量企业级框架作为其历史使命](https://github.com/hunzhiwange/framework) 
 - [xx-zh/xx-zh-roadmap: 中文翻译 Road Map](https://github.com/xx-zh/xx-zh-roadmap) 
