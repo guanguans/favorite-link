@@ -421,6 +421,9 @@
 
 
 
+
+### December 21, 2020 
+- [dghubble/gologin: 身份验证提供程序的Go登录处理程序（OAuth1，OAuth2）](https://github.com/dghubble/gologin) 
 ### December 19, 2020 
 - [metersphere/metersphere: 一站式开源持续测试平台](https://github.com/metersphere/metersphere) 
 - [vuongxuongminh/yii2-searchable: 为Yii2 Active Record提供简单的全文本搜索。](https://github.com/vuongxuongminh/yii2-searchable) 
