@@ -426,6 +426,7 @@
 ### December 22, 2020 
 - [eiblog/eiblog: 快速博客系统](https://github.com/eiblog/eiblog) 
 - [ekalinin/github-markdown-toc.go: 轻松为GitHub README.md创建TOC（进行中）](https://github.com/ekalinin/github-markdown-toc.go) 
+- [zhenorzz/goploy: 部署、CI/CD、应用程序监视器、Crontab管理器。](https://github.com/zhenorzz/goploy) 
 ### December 21, 2020 
 - [dghubble/gologin: 身份验证提供程序的Go登录处理程序（OAuth1，OAuth2）](https://github.com/dghubble/gologin) 
 ### December 19, 2020 
