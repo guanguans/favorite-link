@@ -430,6 +430,7 @@
 ### December 29, 2020 
 - [appleboy/gorush: 一个用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
 - [projectdiscovery/proxify: 瑞士军刀代理工具 HTTP/HTTPS 流量捕获、操作和重播。](https://github.com/projectdiscovery/proxify) 
+- [iammapping/wedding: 婚礼大屏互动，微信请柬一站式解决方案](https://github.com/iammapping/wedding) 
 ### December 28, 2020 
 - [ritaswc/zx-ip-address: IPv4/IPv6双栈地址离线数据库。](https://github.com/ritaswc/zx-ip-address) 
 - [rsyncOSX/RsyncOSX: rsync的macOS图形用户界面](https://github.com/rsyncOSX/RsyncOSX) 
