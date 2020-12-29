@@ -432,6 +432,7 @@
 - [projectdiscovery/proxify: 瑞士军刀代理工具 HTTP/HTTPS 流量捕获、操作和重播。](https://github.com/projectdiscovery/proxify) 
 - [iammapping/wedding: 婚礼大屏互动，微信请柬一站式解决方案](https://github.com/iammapping/wedding) 
 - [A3h1nt/Grawler: 是一个用 PHP 编写的工具，它有一个网页界面，可以自动化使用 google dorks 的任务，剪切结果，并将它们存储在一个文件中。.](https://github.com/A3h1nt/Grawler) 
+- [ParryQiu/wxopenclub-wxapp-lessons: 60 节微信小程序开发视频教程配套源代码](https://github.com/ParryQiu/wxopenclub-wxapp-lessons) 
 ### December 28, 2020 
 - [ritaswc/zx-ip-address: IPv4/IPv6双栈地址离线数据库。](https://github.com/ritaswc/zx-ip-address) 
 - [rsyncOSX/RsyncOSX: rsync的macOS图形用户界面](https://github.com/rsyncOSX/RsyncOSX) 
