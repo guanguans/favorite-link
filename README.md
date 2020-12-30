@@ -432,6 +432,7 @@
 - [go-pg/pg: 专注于PostgreSQL特性和性能的Golang ORM](https://github.com/go-pg/pg) 
 - [symfony/ux: Symfony的新JavaScript生态系统](https://github.com/symfony/ux) 
 - [zyedidia/micro: 一个现代化的、直观的基于终端的文本编辑器](https://github.com/zyedidia/micro) 
+- [whomwah/qlstephen: 一个QuickLook插件，允许您查看没有文件扩展名的纯文本文件](https://github.com/whomwah/qlstephen) 
 ### December 29, 2020 
 - [appleboy/gorush: 一个用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
 - [projectdiscovery/proxify: 瑞士军刀代理工具 HTTP/HTTPS 流量捕获、操作和重播。](https://github.com/projectdiscovery/proxify) 
