@@ -437,6 +437,7 @@
 - [multiavatar/Multiavatar: 12 Billion Unique Multicultural Avatars](https://github.com/multiavatar/Multiavatar) 
 - [multiavatar/multiavatar-php: 12 Billion Unique Multicultural Avatars](https://github.com/multiavatar/multiavatar-php) 
 - [TNK-Studio/lazykube: ⎈ The lazier way to manage kubernetes.](https://github.com/TNK-Studio/lazykube) 
+- [ishandeveloper/github-wrapped: 回顾一下您作为个人对开源社区所做的所有贡献](https://github.com/ishandeveloper/github-wrapped) 
 ### December 29, 2020 
 - [appleboy/gorush: 一个用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
 - [projectdiscovery/proxify: 瑞士军刀代理工具 HTTP/HTTPS 流量捕获、操作和重播。](https://github.com/projectdiscovery/proxify) 
