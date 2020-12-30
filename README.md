@@ -427,6 +427,9 @@
 
 
 
+
+### December 30, 2020 
+- [go-pg/pg: 专注于PostgreSQL特性和性能的Golang ORM](https://github.com/go-pg/pg) 
 ### December 29, 2020 
 - [appleboy/gorush: 一个用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
 - [projectdiscovery/proxify: 瑞士军刀代理工具 HTTP/HTTPS 流量捕获、操作和重播。](https://github.com/projectdiscovery/proxify) 
