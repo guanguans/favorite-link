@@ -436,6 +436,7 @@
 - [acodercat/function-call-principle: 这是一篇关于函数调用原理的文章，通过大量的示意图由浅入深分析了函数完整的生命周期。](https://github.com/acodercat/function-call-principle) 
 - [multiavatar/Multiavatar: 12 Billion Unique Multicultural Avatars](https://github.com/multiavatar/Multiavatar) 
 - [multiavatar/multiavatar-php: 12 Billion Unique Multicultural Avatars](https://github.com/multiavatar/multiavatar-php) 
+- [TNK-Studio/lazykube: ⎈ The lazier way to manage kubernetes.](https://github.com/TNK-Studio/lazykube) 
 ### December 29, 2020 
 - [appleboy/gorush: 一个用Go（Golang）编写的推送通知服务器。](https://github.com/appleboy/gorush) 
 - [projectdiscovery/proxify: 瑞士军刀代理工具 HTTP/HTTPS 流量捕获、操作和重播。](https://github.com/projectdiscovery/proxify) 
