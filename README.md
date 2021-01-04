@@ -434,6 +434,7 @@
 - [cloudflare/cloudflare-php: Cloudflare v4 API的PHP库](https://github.com/cloudflare/cloudflare-php) 
 - [thecodingmachine/tdbm: 不需要配置的PHP ORM。 从数据库模型推导出对象模型。](https://github.com/thecodingmachine/tdbm) 
 - [thecodingmachine/discovery: 在 PHP 项目中发布和发现资产。](https://github.com/thecodingmachine/discovery) 
+- [xiaolai/spreadsheets-for-investors: 投资人必会知识 —— 电子表格简明进阶教程](https://github.com/xiaolai/spreadsheets-for-investors) 
 ### December 31, 2020 
 - [waylybaye/XcodeCleaner-SwiftUI: 这个应用可以帮助你清除遗留以及废弃文件，从而极大的节省硬盘空间. 你可以每月或者每周运行一次进行清理。](https://github.com/waylybaye/XcodeCleaner-SwiftUI) 
 - [adonisjs/core: nodejs 版的 laravel 框架](https://github.com/adonisjs/core) 
