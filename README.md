@@ -435,6 +435,7 @@
 - [thecodingmachine/tdbm: 不需要配置的PHP ORM。 从数据库模型推导出对象模型。](https://github.com/thecodingmachine/tdbm) 
 - [thecodingmachine/discovery: 在 PHP 项目中发布和发现资产。](https://github.com/thecodingmachine/discovery) 
 - [xiaolai/spreadsheets-for-investors: 投资人必会知识 —— 电子表格简明进阶教程](https://github.com/xiaolai/spreadsheets-for-investors) 
+- [nasirkhan/laravel-starter: 一个类似 CMS 的模块化启动应用程序项目，使用 Laravel 8. x 构建。](https://github.com/nasirkhan/laravel-starter) 
 ### December 31, 2020 
 - [waylybaye/XcodeCleaner-SwiftUI: 这个应用可以帮助你清除遗留以及废弃文件，从而极大的节省硬盘空间. 你可以每月或者每周运行一次进行清理。](https://github.com/waylybaye/XcodeCleaner-SwiftUI) 
 - [adonisjs/core: nodejs 版的 laravel 框架](https://github.com/adonisjs/core) 
