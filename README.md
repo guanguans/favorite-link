@@ -437,6 +437,7 @@
 - [cweijan/vscode-mysql: 用于 Visual Studio 代码的 MySQL 客户端](https://github.com/cweijan/vscode-mysql) 
 - [mattermost/desktop: 适用于Windows、Mac和Linux的最重要桌面应用程序](https://github.com/mattermost/desktop) 
 - [shivammathur/homebrew-extensions: 🍻 Homebrew Tap for PHP extensions](https://github.com/shivammathur/homebrew-extensions) 
+- [radek-baczynski/zeebe-php-client](https://github.com/radek-baczynski/zeebe-php-client) 
 ### January 4, 2021 
 - [cloudflare/cloudflare-php: Cloudflare v4 API的PHP库](https://github.com/cloudflare/cloudflare-php) 
 - [thecodingmachine/tdbm: 不需要配置的PHP ORM。 从数据库模型推导出对象模型。](https://github.com/thecodingmachine/tdbm) 
