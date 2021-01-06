@@ -434,6 +434,7 @@
 
 ### January 6, 2021 
 - [tychxn/jd-assistant: 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能](https://github.com/tychxn/jd-assistant) 
+- [geohot/minikeyvalue: 在1000行以下的分布式键值存储器。用于 comma.ai 的生产](https://github.com/geohot/minikeyvalue) 
 ### January 5, 2021 
 - [nas5w/100-days-of-code-frontend: # 100天学习前端开发课程。](https://github.com/nas5w/100-days-of-code-frontend) 
 - [jaywcjlove/changelog-generator: 一个 GitHub Action，比较两个分支之间的提交差异](https://github.com/jaywcjlove/changelog-generator) 
