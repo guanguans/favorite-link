@@ -441,6 +441,7 @@
 - [ProxymanApp/Proxyman: 适用于macOS，iOS和Android的现代，令人愉快的HTTP调试代理](https://github.com/ProxymanApp/Proxyman) 
 - [coocood/freecache: Go的缓存库，GC开销为零。](https://github.com/coocood/freecache) 
 - [cheggaaa/pb: Golang控制台进度条](https://github.com/cheggaaa/pb) 
+- [bandwidth-throttle/token-bucket: 令牌桶算法在PHP中的实现。](https://github.com/bandwidth-throttle/token-bucket) 
 ### January 6, 2021 
 - [tychxn/jd-assistant: 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能](https://github.com/tychxn/jd-assistant) 
 - [geohot/minikeyvalue: 在1000行以下的分布式键值存储器。用于 comma.ai 的生产](https://github.com/geohot/minikeyvalue) 
