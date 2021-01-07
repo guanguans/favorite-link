@@ -437,6 +437,7 @@
 - [lowlighter/metrics: 一个图像生成器，包含20多个关于 GitHub 账户的指标，比如活动、社区、存储库、编码习惯、网站表现、音乐播放、星级主题等等，你可以把它们放到你的个人资料或其他地方！](https://github.com/lowlighter/metrics?utm_source=xinquji) 
 - [thunderbarca/Caesar: 一个全新的敏感文件发现工具](https://github.com/thunderbarca/Caesar) 
 - [saltbo/zpan: 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。](https://github.com/saltbo/zpan) 
+- [zigoo0/JSONBee: 易于使用的JSONP端点/有效负载可帮助绕过不同网站的内容安全策略（CSP）。](https://github.com/zigoo0/JSONBee) 
 ### January 6, 2021 
 - [tychxn/jd-assistant: 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能](https://github.com/tychxn/jd-assistant) 
 - [geohot/minikeyvalue: 在1000行以下的分布式键值存储器。用于 comma.ai 的生产](https://github.com/geohot/minikeyvalue) 
