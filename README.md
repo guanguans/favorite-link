@@ -437,6 +437,7 @@
 ### January 8, 2021 
 - [spatie/ray: 使用Ray进行调试以更快地解决问题](https://github.com/spatie/ray) 
 - [jsyzchen/pan: 百度网盘开放平台 Go SDK](https://github.com/jsyzchen/pan) 
+- [propelorm/Propel3: 高性能数据映射器ORM，具有用于RAD和现代PHP 7.2+的可选活动记录特征](https://github.com/propelorm/Propel3) 
 ### January 7, 2021 
 - [lowlighter/metrics: 一个图像生成器，包含20多个关于 GitHub 账户的指标，比如活动、社区、存储库、编码习惯、网站表现、音乐播放、星级主题等等，你可以把它们放到你的个人资料或其他地方！](https://github.com/lowlighter/metrics?utm_source=xinquji) 
 - [thunderbarca/Caesar: 一个全新的敏感文件发现工具](https://github.com/thunderbarca/Caesar) 
