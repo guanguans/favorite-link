@@ -438,6 +438,7 @@
 ### January 9, 2021 
 - [moby/buildkit: 并发、高效缓存和Dockerfile无关的生成器工具包](https://github.com/moby/buildkit) 
 - [spatie/laravel-model-status: 轻松地为模型添加状态](https://github.com/spatie/laravel-model-status) 
+- [chubbyphp/chubbyphp-framework: 基于PSR-15的微框架，还设置了最大的灵活性，同时最小化了各个组件以及框架的复杂性和易更换性。](https://github.com/chubbyphp/chubbyphp-framework) 
 ### January 8, 2021 
 - [spatie/ray: 使用Ray进行调试以更快地解决问题](https://github.com/spatie/ray) 
 - [jsyzchen/pan: 百度网盘开放平台 Go SDK](https://github.com/jsyzchen/pan) 
