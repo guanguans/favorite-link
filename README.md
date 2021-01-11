@@ -435,6 +435,9 @@
 
 
 
+
+### January 11, 2021 
+- [spatie/nova-tags-field: 要在Nova应用程序中使用的标记字段](https://github.com/spatie/nova-tags-field) 
 ### January 9, 2021 
 - [moby/buildkit: 并发、高效缓存和Dockerfile无关的生成器工具包](https://github.com/moby/buildkit) 
 - [spatie/laravel-model-status: 轻松地为模型添加状态](https://github.com/spatie/laravel-model-status) 
