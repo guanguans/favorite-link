@@ -441,6 +441,7 @@
 - [zhaoolee/replace_readme_md_image: 将README.md中的图片替换为github地址的图片](https://github.com/zhaoolee/replace_readme_md_image) 
 - [Gregwar/Image: 处理图像的PHP库](https://github.com/Gregwar/Image) 
 - [roots/acorn: 支持关键Laravel组件的WordPress插件框架](https://github.com/roots/acorn) 
+- [XPoet/picx: 基于 GitHub API 搭建的图床神器，图片外链使用 jsDelivr 进行 CDN 加速，免下载安装，打开网站即可使用。免费、稳定、高效。](https://github.com/XPoet/picx) 
 ### January 9, 2021 
 - [moby/buildkit: 并发、高效缓存和Dockerfile无关的生成器工具包](https://github.com/moby/buildkit) 
 - [spatie/laravel-model-status: 轻松地为模型添加状态](https://github.com/spatie/laravel-model-status) 
