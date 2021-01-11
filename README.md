@@ -439,6 +439,7 @@
 ### January 11, 2021 
 - [spatie/nova-tags-field: 要在Nova应用程序中使用的标记字段](https://github.com/spatie/nova-tags-field) 
 - [zhaoolee/replace_readme_md_image: 将README.md中的图片替换为github地址的图片](https://github.com/zhaoolee/replace_readme_md_image) 
+- [Gregwar/Image: 处理图像的PHP库](https://github.com/Gregwar/Image) 
 ### January 9, 2021 
 - [moby/buildkit: 并发、高效缓存和Dockerfile无关的生成器工具包](https://github.com/moby/buildkit) 
 - [spatie/laravel-model-status: 轻松地为模型添加状态](https://github.com/spatie/laravel-model-status) 
