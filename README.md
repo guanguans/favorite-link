@@ -442,6 +442,7 @@
 - [src-d/hercules: 从Git存储库历史中获得高级见解。](https://github.com/src-d/hercules) 
 - [EZLippi/WebBench: Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。](https://github.com/EZLippi/WebBench) 
 - [rogchap/v8go: Execute JavaScript from Go](https://github.com/rogchap/v8go) 
+- [rogchap/v8go: 从Go执行JavaScript](https://github.com/rogchap/v8go) 
 ### January 12, 2021 
 - [BurntSushi/xsv: 一个用Rust编写的快速CSV命令行工具包。](https://github.com/BurntSushi/xsv) 
 - [tal-tech/go-zero: gozero是一个用go编写的web和rpc框架。它的诞生是为了确保具有弹性设计的繁忙站点的稳定性。内置goctl极大地提高了开发效率](https://github.com/tal-tech/go-zero) 
