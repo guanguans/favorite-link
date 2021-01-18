@@ -440,6 +440,9 @@
 
 
 
+
+### January 18, 2021 
+- [maglnet/ComposerRequireChecker: CLI工具，用于检查特定的编写器包是否使用不属于其直接编写器依赖项的导入符号](https://github.com/maglnet/ComposerRequireChecker) 
 ### January 15, 2021 
 - [scheb/2fa: Symfony 应用程序的双因素认证(bunde version ≥5)](https://github.com/scheb/2fa) 
 - [tonysm/turbo-laravel: 该软件包为您提供了一系列约定，以使Laravel的Hotwire发挥最大作用（受Turbo-rails gem启发）。](https://github.com/tonysm/turbo-laravel) 
