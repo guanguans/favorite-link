@@ -447,6 +447,7 @@
 - [hasib32/rest-api-with-lumen: 用于Lumen微框架的Rest API样板。](https://github.com/hasib32/rest-api-with-lumen) 
 - [jqhph/laravel-softdeletes: Laravel softdeletes是一个用于替代Laravel内置软删除功能的扩展包，可以把软删数据存储到独立的数据表中，从而不影响原始表字段增加唯一索引，且可以起到提升性能的作用。](https://github.com/jqhph/laravel-softdeletes) 
 - [squirephp/squire: 静态Eloquent模型库，用于通用夹具数据。](https://github.com/squirephp/squire) 
+- [zu1k/tg-keyword-reply-bot: Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作](https://github.com/zu1k/tg-keyword-reply-bot) 
 ### January 15, 2021 
 - [scheb/2fa: Symfony 应用程序的双因素认证(bunde version ≥5)](https://github.com/scheb/2fa) 
 - [tonysm/turbo-laravel: 该软件包为您提供了一系列约定，以使Laravel的Hotwire发挥最大作用（受Turbo-rails gem启发）。](https://github.com/tonysm/turbo-laravel) 
