@@ -445,6 +445,7 @@
 - [maglnet/ComposerRequireChecker: CLI工具，用于检查特定的编写器包是否使用不属于其直接编写器依赖项的导入符号](https://github.com/maglnet/ComposerRequireChecker) 
 - [juicedata/juicefs: JuiceFS 是构建在 Redis 和 S3之上的分布式 POSIX 文件系统。](https://github.com/juicedata/juicefs) 
 - [hasib32/rest-api-with-lumen: 用于Lumen微框架的Rest API样板。](https://github.com/hasib32/rest-api-with-lumen) 
+- [jqhph/laravel-softdeletes: Laravel softdeletes是一个用于替代Laravel内置软删除功能的扩展包，可以把软删数据存储到独立的数据表中，从而不影响原始表字段增加唯一索引，且可以起到提升性能的作用。](https://github.com/jqhph/laravel-softdeletes) 
 ### January 15, 2021 
 - [scheb/2fa: Symfony 应用程序的双因素认证(bunde version ≥5)](https://github.com/scheb/2fa) 
 - [tonysm/turbo-laravel: 该软件包为您提供了一系列约定，以使Laravel的Hotwire发挥最大作用（受Turbo-rails gem启发）。](https://github.com/tonysm/turbo-laravel) 
