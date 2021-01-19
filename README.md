@@ -448,6 +448,7 @@
 - [ramsey/uuid-doctrine: 允许使用 ramsey/UUID 作为 Doctrine 字段类型。](https://github.com/ramsey/uuid-doctrine) 
 - [joelbutcher/socialstream: 一个用于 Laravel Jetstream 的简单 Socialite 实现。](https://github.com/joelbutcher/socialstream) 
 - [alxmsl/AppStoreClient: 用于验证 iTunes 购买收据的 AppStore 客户端](https://github.com/alxmsl/AppStoreClient) 
+- [klskeleton/OnlineCourseScript: 大学生网课刷课脚本，不定期更新！目前支持：超星学习通，智慧树](https://github.com/klskeleton/OnlineCourseScript) 
 ### January 18, 2021 
 - [maglnet/ComposerRequireChecker: CLI工具，用于检查特定的编写器包是否使用不属于其直接编写器依赖项的导入符号](https://github.com/maglnet/ComposerRequireChecker) 
 - [juicedata/juicefs: JuiceFS 是构建在 Redis 和 S3之上的分布式 POSIX 文件系统。](https://github.com/juicedata/juicefs) 
