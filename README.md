@@ -446,6 +446,7 @@
 - [mochat-cloud/mochat: 基于企业微信的开源应用开发框架&引擎，也是一套通用的企业私域流量管理系统!](https://github.com/mochat-cloud/mochat) 
 - [StackExchange/dnscontrol: 从简单的 DSL 将您的 DNS 同步到多个提供程序](https://github.com/StackExchange/dnscontrol) 
 - [ramsey/uuid-doctrine: 允许使用 ramsey/UUID 作为 Doctrine 字段类型。](https://github.com/ramsey/uuid-doctrine) 
+- [joelbutcher/socialstream: 一个用于 Laravel Jetstream 的简单 Socialite 实现。](https://github.com/joelbutcher/socialstream) 
 ### January 18, 2021 
 - [maglnet/ComposerRequireChecker: CLI工具，用于检查特定的编写器包是否使用不属于其直接编写器依赖项的导入符号](https://github.com/maglnet/ComposerRequireChecker) 
 - [juicedata/juicefs: JuiceFS 是构建在 Redis 和 S3之上的分布式 POSIX 文件系统。](https://github.com/juicedata/juicefs) 
