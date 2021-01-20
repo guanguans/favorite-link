@@ -445,6 +445,7 @@
 
 ### January 20, 2021 
 - [michaelpetri/typed-input: symfony输入的类型安全输入包装器](https://github.com/michaelpetri/typed-input) 
+- [ipodtouchdude/iOS-2-M1: 这会将iOS应用程序转换为Apple M1（silicon）应用程序。](https://github.com/ipodtouchdude/iOS-2-M1) 
 ### January 19, 2021 
 - [mochat-cloud/mochat: 基于企业微信的开源应用开发框架&引擎，也是一套通用的企业私域流量管理系统!](https://github.com/mochat-cloud/mochat) 
 - [StackExchange/dnscontrol: 从简单的 DSL 将您的 DNS 同步到多个提供程序](https://github.com/StackExchange/dnscontrol) 
