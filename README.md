@@ -451,6 +451,7 @@
 - [wind-framework/wind-framework: 基于 Workerman 和 Amphp 的纯 PHP 协同开发框架。](https://github.com/wind-framework/wind-framework) 
 - [google/blockly: 基于web的可视化编程编辑器。](https://github.com/google/blockly) 
 - [brianvoe/gofakeit: 用go编写的随机伪数据发生器](https://github.com/brianvoe/gofakeit) 
+- [AzimoLabs/apple-sign-in-php-sdk: 使用 PHP 库验证和验证 Apple IdentityToken，并验证具有 Apple ID 的用户。](https://github.com/AzimoLabs/apple-sign-in-php-sdk) 
 ### January 19, 2021 
 - [mochat-cloud/mochat: 基于企业微信的开源应用开发框架&引擎，也是一套通用的企业私域流量管理系统!](https://github.com/mochat-cloud/mochat) 
 - [StackExchange/dnscontrol: 从简单的 DSL 将您的 DNS 同步到多个提供程序](https://github.com/StackExchange/dnscontrol) 
