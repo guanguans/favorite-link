@@ -443,6 +443,9 @@
 
 
 
+
+### January 21, 2021 
+- [guanguans/id-validator: 中国身份证号验证、获取身份证号信息、升级 15 位身份证号为 18 位、伪造符合校验的身份证号。](https://github.com/guanguans/id-validator) 
 ### January 20, 2021 
 - [michaelpetri/typed-input: symfony输入的类型安全输入包装器](https://github.com/michaelpetri/typed-input) 
 - [ipodtouchdude/iOS-2-M1: 这会将iOS应用程序转换为Apple M1（silicon）应用程序。](https://github.com/ipodtouchdude/iOS-2-M1) 
