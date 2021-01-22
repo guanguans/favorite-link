@@ -451,6 +451,7 @@
 - [gliderlabs/registrator: 带有可插拔适配器的 Docker 服务注册表桥接](https://github.com/gliderlabs/registrator) 
 - [uber-go/multierr: 将一个或多个 Go 错误组合在一起](https://github.com/uber-go/multierr) 
 - [elliotchance/redismock: 在 Go 中的单元测试中使用 Mocking Redis。](https://github.com/elliotchance/redismock) 
+- [tbreuss/yii2-inertia: About The Yii 2 server-side adapter for Inertia.js.](https://github.com/tbreuss/yii2-inertia) 
 ### January 21, 2021 
 - [guanguans/id-validator: 中国身份证号验证、获取身份证号信息、升级 15 位身份证号为 18 位、伪造符合校验的身份证号。](https://github.com/guanguans/id-validator) 
 - [Shopify/toxiproxy: 一个TCP代理，可以模拟网络和系统状况，以进行混乱和弹性测试](https://github.com/Shopify/toxiproxy) 
