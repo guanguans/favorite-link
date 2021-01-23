@@ -449,6 +449,7 @@
 ### January 23, 2021 
 - [a54552239/pearProjectApi: 项目管理系统后端接口](https://github.com/a54552239/pearProjectApi) 
 - [Gemini-D/php-mysql-replication: MySQL复制协议的纯PHP实现。这允许您接收插入、更新、删除等事件及其数据和原始SQL查询。](https://github.com/Gemini-D/php-mysql-replication) 
+- [go-co-op/gocron: 轻松流畅的Go cron调度。](https://github.com/go-co-op/gocron) 
 ### January 22, 2021 
 - [naiba/nezha: 哪吒面板 可能是最优秀的探针了](https://github.com/naiba/nezha) 
 - [reviewdog/reviewdog: 自动代码审查工具与任何代码分析工具集成](https://github.com/reviewdog/reviewdog) 
