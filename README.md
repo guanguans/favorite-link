@@ -447,6 +447,9 @@
 
 
 
+
+### January 26, 2021 
+- [m1guelpf/laravel-fastlogin: 允许用户使用 FaceID/TouchID 登录](https://github.com/m1guelpf/laravel-fastlogin) 
 ### January 25, 2021 
 - [spatie/laravel-package-tools: 用于创建Laravel软件包的工具](https://github.com/spatie/laravel-package-tools) 
 - [cilium/cilium: Cilium是开源软件，用于提供并透明地保护应用程序工作负载（例如应用程序容器或进程）之间的网络连接和负载平衡。](https://github.com/cilium/cilium) 
