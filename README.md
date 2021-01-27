@@ -453,6 +453,7 @@
 - [hashicorp/nomad: Nomad是一个易于使用、灵活且性能优异的工作负载编排器，它可以部署微服务、批处理、容器化和非容器化应用程序的混合。](https://github.com/hashicorp/nomad) 
 - [bsm/redislock: 使用 Redis 简化分布式锁定实现](https://github.com/bsm/redislock) 
 - [spatie/interactive-slack-notification-channel: 在 Laravel 应用程序中发送交互式 Slack 通知](https://github.com/spatie/interactive-slack-notification-channel) 
+- [qiangxue/go-rest-api: 遵循 SOLID 原则和 Clean 架构的惯用 Go REST API 入门工具包(样板文件)](https://github.com/qiangxue/go-rest-api) 
 ### January 26, 2021 
 - [m1guelpf/laravel-fastlogin: 允许用户使用 FaceID/TouchID 登录](https://github.com/m1guelpf/laravel-fastlogin) 
 - [anmitsu/goful: Goful是一个由Go实现的CUI文件管理器。](https://github.com/anmitsu/goful) 
