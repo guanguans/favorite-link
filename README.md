@@ -454,6 +454,7 @@
 - [bsm/redislock: 使用 Redis 简化分布式锁定实现](https://github.com/bsm/redislock) 
 - [spatie/interactive-slack-notification-channel: 在 Laravel 应用程序中发送交互式 Slack 通知](https://github.com/spatie/interactive-slack-notification-channel) 
 - [qiangxue/go-rest-api: 遵循 SOLID 原则和 Clean 架构的惯用 Go REST API 入门工具包(样板文件)](https://github.com/qiangxue/go-rest-api) 
+- [cihub/seelog: Seelog是一个功能强大且易于学习的日志框架，它提供了灵活的调度、过滤和格式化日志消息的功能。](https://github.com/cihub/seelog) 
 ### January 26, 2021 
 - [m1guelpf/laravel-fastlogin: 允许用户使用 FaceID/TouchID 登录](https://github.com/m1guelpf/laravel-fastlogin) 
 - [anmitsu/goful: Goful是一个由Go实现的CUI文件管理器。](https://github.com/anmitsu/goful) 
