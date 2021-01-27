@@ -448,6 +448,9 @@
 
 
 
+
+### January 27, 2021 
+- [hashicorp/nomad: Nomad是一个易于使用、灵活且性能优异的工作负载编排器，它可以部署微服务、批处理、容器化和非容器化应用程序的混合。](https://github.com/hashicorp/nomad) 
 ### January 26, 2021 
 - [m1guelpf/laravel-fastlogin: 允许用户使用 FaceID/TouchID 登录](https://github.com/m1guelpf/laravel-fastlogin) 
 - [anmitsu/goful: Goful是一个由Go实现的CUI文件管理器。](https://github.com/anmitsu/goful) 
