@@ -453,6 +453,7 @@
 ### January 28, 2021 
 - [juju/errors: 常见的juju错误及其注释功能。基于juju/errgo](https://github.com/juju/errors) 
 - [oxtoacart/bpool: Go 的缓冲区/字节池](https://github.com/oxtoacart/bpool) 
+- [alitto/pond: 用Go编写的简约高效的goroutine工作池](https://github.com/alitto/pond) 
 ### January 27, 2021 
 - [hashicorp/nomad: Nomad是一个易于使用、灵活且性能优异的工作负载编排器，它可以部署微服务、批处理、容器化和非容器化应用程序的混合。](https://github.com/hashicorp/nomad) 
 - [bsm/redislock: 使用 Redis 简化分布式锁定实现](https://github.com/bsm/redislock) 
