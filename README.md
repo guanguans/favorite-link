@@ -8,3 +8,6 @@
 
 ## License
 [GNU General Public License v3.0](LICENSE)
+
+### January 29, 2021 
+- [kdion4891/laravel-livewire-tables: 一个动态响应的laravellivewire表组件，具有搜索、排序、复选框和分页功能。](https://github.com/kdion4891/laravel-livewire-tables) 
