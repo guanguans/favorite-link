@@ -14,6 +14,7 @@
 - [rebing/graphql-laravel: Facebook的GraphQL的Laravel包装器](https://github.com/rebing/graphql-laravel) 
 - [SolidWorx/Burial: 埋葬你的死代码](https://github.com/SolidWorx/Burial) 
 - [beberlei/composer-monorepo-plugin: 将 Composer 集成到具有许多包的单片存储库中。](https://github.com/beberlei/composer-monorepo-plugin) 
+- [SocialiteProviders/Providers: A Collection of Providers for Laravel Socialite](https://github.com/SocialiteProviders/Providers) 
 ### January 29, 2021 
 - [kdion4891/laravel-livewire-tables: 一个动态响应的laravellivewire表组件，具有搜索、排序、复选框和分页功能。](https://github.com/kdion4891/laravel-livewire-tables) 
 - [heroiclabs/nakama: 分布式社交和实时游戏和应用服务器。](https://github.com/heroiclabs/nakama) 
