@@ -20,6 +20,7 @@
 - [gavv/httpexpect: Go的端到端HTTP和REST API测试。](https://github.com/gavv/httpexpect) 
 - [LaravelDaily/laravel-tips: Awesome tips for Laravel](https://github.com/LaravelDaily/laravel-tips) 
 - [Privoce/Portal-Lite-China: Portal网页版（中文版）](https://github.com/Privoce/Portal-Lite-China) 
+- [kartik-v/yii2-widgets: Yii框架2.0有用小部件的集合](https://github.com/kartik-v/yii2-widgets) 
 ### February 1, 2021 
 - [rebing/graphql-laravel: Facebook的GraphQL的Laravel包装器](https://github.com/rebing/graphql-laravel) 
 - [SolidWorx/Burial: 埋葬你的死代码](https://github.com/SolidWorx/Burial) 
