@@ -18,6 +18,7 @@
 - [lizhichao/sm: php国密SM3签名算法](https://github.com/lizhichao/sm) 
 - [alaingilbert/git2graph: 从线性 git 历史生成一个 git 图形结构](https://github.com/alaingilbert/git2graph) 
 - [gavv/httpexpect: Go的端到端HTTP和REST API测试。](https://github.com/gavv/httpexpect) 
+- [LaravelDaily/laravel-tips: Awesome tips for Laravel](https://github.com/LaravelDaily/laravel-tips) 
 ### February 1, 2021 
 - [rebing/graphql-laravel: Facebook的GraphQL的Laravel包装器](https://github.com/rebing/graphql-laravel) 
 - [SolidWorx/Burial: 埋葬你的死代码](https://github.com/SolidWorx/Burial) 
