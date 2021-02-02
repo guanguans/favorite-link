@@ -13,6 +13,7 @@
 
 ### February 2, 2021 
 - [cppla/ServerStatus: 云探针、多服务器探针、云监控、多服务器云监控](https://github.com/cppla/ServerStatus) 
+- [dolthub/go-mysql-server: 与MySQL兼容的关系数据库，具有存储不可知查询引擎。 在纯Go中实现。](https://github.com/dolthub/go-mysql-server) 
 ### February 1, 2021 
 - [rebing/graphql-laravel: Facebook的GraphQL的Laravel包装器](https://github.com/rebing/graphql-laravel) 
 - [SolidWorx/Burial: 埋葬你的死代码](https://github.com/SolidWorx/Burial) 
