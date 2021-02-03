@@ -18,6 +18,7 @@
 - [mhinz/vim-galore: All things Vim!](https://github.com/mhinz/vim-galore) 
 - [shidenggui/easytrader: 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件](https://github.com/shidenggui/easytrader) 
 - [twostraws/ControlRoom: 一个 macOS 应用程序来控制 Xcode 模拟器。](https://github.com/twostraws/ControlRoom) 
+- [shuveb/containers-the-hard-way: 用 Go 实现迷你 Docker，包含 Docker 核心功能的开源项目](https://github.com/shuveb/containers-the-hard-way) 
 ### February 2, 2021 
 - [cppla/ServerStatus: 云探针、多服务器探针、云监控、多服务器云监控](https://github.com/cppla/ServerStatus) 
 - [dolthub/go-mysql-server: 与MySQL兼容的关系数据库，具有存储不可知查询引擎。 在纯Go中实现。](https://github.com/dolthub/go-mysql-server) 
