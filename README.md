@@ -15,6 +15,7 @@
 
 ### February 4, 2021 
 - [rakibtg/SleekDB: 没有依赖关系的纯PHP NoSQL数据库。平面文件，基于JSON的文档数据库。](https://github.com/rakibtg/SleekDB) 
+- [mosuka/blast: Blast是一个全文搜索和索引服务器，用Go编写，构建在Bleve之上。](https://github.com/mosuka/blast) 
 ### February 3, 2021 
 - [qinjintian/qq-zone: QQ空间（Qzone）爬虫，手机扫描登陆后即可并发下载相册的相片/视频，嗯~就是这么简单](https://github.com/qinjintian/qq-zone) 
 - [tal-tech/alarm-dog: 哮天犬是一个通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能，实现统一输入、不同输出](https://github.com/tal-tech/alarm-dog) 
