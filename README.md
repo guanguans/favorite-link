@@ -19,6 +19,7 @@
 - [maxence-charriere/go-app: 使用 Go 编程语言和 WebAssembly 构建渐进式 web 应用程序的软件包。](https://github.com/maxence-charriere/go-app) 
 - [bytedance/go-tagexpr: 一个有趣的 go struct 标记表达式语法，用于字段验证等。](https://github.com/bytedance/go-tagexpr) 
 - [AlexStack/Laravel-CMS: 简单的Bootstrap Laravel CMS。 支持Laravel 8.x可以集成到任何现有的Laravel项目中。 只添加几个带前缀的数据库表，不影响您现有的数据库表。](https://github.com/AlexStack/Laravel-CMS#how-to-set-up-a-brand-new-cms-website-with-the-latest-laravel) 
+- [guanguans/id-validator: 中国身份证号验证、获取身份证号信息、升级 15 位身份证号为 18 位、伪造符合校验的身份证号。](https://github.com/guanguans/id-validator) 
 ### February 3, 2021 
 - [qinjintian/qq-zone: QQ空间（Qzone）爬虫，手机扫描登陆后即可并发下载相册的相片/视频，嗯~就是这么简单](https://github.com/qinjintian/qq-zone) 
 - [tal-tech/alarm-dog: 哮天犬是一个通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能，实现统一输入、不同输出](https://github.com/tal-tech/alarm-dog) 
