@@ -16,6 +16,7 @@
 
 ### February 5, 2021 
 - [Light-City/CPlusPlusThings: C++那些事](https://github.com/Light-City/CPlusPlusThings) 
+- [herrbischoff/awesome-macos-command-line: 使用您的 macOS 终端 shell 来做一些很棒的事情。](https://github.com/herrbischoff/awesome-macos-command-line) 
 ### February 4, 2021 
 - [rakibtg/SleekDB: 没有依赖关系的纯PHP NoSQL数据库。平面文件，基于JSON的文档数据库。](https://github.com/rakibtg/SleekDB) 
 - [mosuka/blast: Blast是一个全文搜索和索引服务器，用Go编写，构建在Bleve之上。](https://github.com/mosuka/blast) 
