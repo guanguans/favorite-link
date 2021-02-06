@@ -21,6 +21,7 @@
 - [dgraph-io/ristretto: 高性能内存绑定的 Go 缓存](https://github.com/dgraph-io/ristretto) 
 - [mitchellh/gox: 一个非常简单，没有虚饰的跨编译工具](https://github.com/mitchellh/gox) 
 - [CristalTeam/pptx: 🎞️ 使用PHP复制、移动、合并和模板Powerpoint文件（.pptx）](https://github.com/CristalTeam/pptx) 
+- [nobody132/masr: 中文语音识别](https://github.com/nobody132/masr) 
 ### February 5, 2021 
 - [Light-City/CPlusPlusThings: C++那些事](https://github.com/Light-City/CPlusPlusThings) 
 - [herrbischoff/awesome-macos-command-line: 使用您的 macOS 终端 shell 来做一些很棒的事情。](https://github.com/herrbischoff/awesome-macos-command-line) 
