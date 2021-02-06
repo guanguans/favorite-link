@@ -18,6 +18,7 @@
 ### February 6, 2021 
 - [progrium/macdriver: Go的本机Mac API](https://github.com/progrium/macdriver) 
 - [dgraph-io/dgraph: 具有图形后端的本机GraphQL数据库](https://github.com/dgraph-io/dgraph) 
+- [dgraph-io/ristretto: 高性能内存绑定的 Go 缓存](https://github.com/dgraph-io/ristretto) 
 ### February 5, 2021 
 - [Light-City/CPlusPlusThings: C++那些事](https://github.com/Light-City/CPlusPlusThings) 
 - [herrbischoff/awesome-macos-command-line: 使用您的 macOS 终端 shell 来做一些很棒的事情。](https://github.com/herrbischoff/awesome-macos-command-line) 
