@@ -23,6 +23,7 @@
 - [tucnak/telebot: Telebot是Go中的Telegram bot框架。](https://github.com/tucnak/telebot) 
 - [utkusen/urlhunter: 一个允许搜索通过缩短服务公开的 url 的侦查工具](https://github.com/utkusen/urlhunter) 
 - [twpayne/chezmoi: 跨多台不同的计算机安全地管理您的dotfiles。](https://github.com/twpayne/chezmoi) 
+- [nikoksr/notify: 一个非常简单的Go库，用于向各种消息服务发送通知。](https://github.com/nikoksr/notify) 
 ### February 6, 2021 
 - [progrium/macdriver: Go的本机Mac API](https://github.com/progrium/macdriver) 
 - [dgraph-io/dgraph: 具有图形后端的本机GraphQL数据库](https://github.com/dgraph-io/dgraph) 
