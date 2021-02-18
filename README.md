@@ -21,6 +21,7 @@
 - [surfcodes/surf: 用VS代码浏览GitHub代码。（带有CLI、chrome扩展）](https://github.com/surfcodes/surf) 
 - [StepfenShawn/Cantonese: 粤语编程语言](https://github.com/StepfenShawn/Cantonese) 
 - [tucnak/telebot: Telebot是Go中的Telegram bot框架。](https://github.com/tucnak/telebot) 
+- [utkusen/urlhunter: 一个允许搜索通过缩短服务公开的 url 的侦查工具](https://github.com/utkusen/urlhunter) 
 ### February 6, 2021 
 - [progrium/macdriver: Go的本机Mac API](https://github.com/progrium/macdriver) 
 - [dgraph-io/dgraph: 具有图形后端的本机GraphQL数据库](https://github.com/dgraph-io/dgraph) 
