@@ -22,6 +22,7 @@
 - [qiniu/iconv: Golang绑定到libiconv-将字符串转换为请求的字符编码](https://github.com/qiniu/iconv) 
 - [zz-studio/think-addons: ThinkPHP6插件程序包](https://github.com/zz-studio/think-addons) 
 - [albertcht/invisible-recaptcha: 用于Laravel，Lumen，CI或本机PHP的无形reCAPTCHA软件包。](https://github.com/albertcht/invisible-recaptcha) 
+- [alicebob/miniredis: 为 Go 单元测试提供纯 Go Redis 服务器](https://github.com/alicebob/miniredis) 
 ### February 18, 2021 
 - [akalongman/laravel-multilang: 在Laravel5.x中集成多语言（多语言环境）功能的包。](https://github.com/akalongman/laravel-multilang) 
 - [surfcodes/surf: 用VS代码浏览GitHub代码。（带有CLI、chrome扩展）](https://github.com/surfcodes/surf) 
