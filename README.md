@@ -23,6 +23,7 @@
 - [Your GitHub story in 3D - GitHub Skyline](https://skyline.github.com/?utm_source=xinquji) 
 - [raycast/script-commands: 脚本命令可以让你根据自己的需要定制 Raycast。](https://github.com/raycast/script-commands) 
 - [nascent-africa/jetstrap: 一个Laravel 8软件包，可以轻松地将Laravel Jetstream和Breeze生成的TailwindCSS资源切换到Bootstrap 4。](https://github.com/nascent-africa/jetstrap) 
+- [Scyllaly/hcaptcha: hCaptcha for Laravel 5.x](https://github.com/Scyllaly/hcaptcha) 
 ### February 19, 2021 
 - [uber/prototool: Your Swiss Army Knife for Protocol Buffers](https://github.com/uber/prototool) 
 - [qiniu/iconv: Golang绑定到libiconv-将字符串转换为请求的字符编码](https://github.com/qiniu/iconv) 
