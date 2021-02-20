@@ -17,6 +17,9 @@
 
 
 
+
+### February 20, 2021 
+- [Jrohy/trojan: trojan多用户管理部署程序, 支持web页面管理](https://github.com/Jrohy/trojan) 
 ### February 19, 2021 
 - [uber/prototool: Your Swiss Army Knife for Protocol Buffers](https://github.com/uber/prototool) 
 - [qiniu/iconv: Golang绑定到libiconv-将字符串转换为请求的字符编码](https://github.com/qiniu/iconv) 
