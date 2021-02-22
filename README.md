@@ -18,6 +18,9 @@
 
 
 
+
+### February 22, 2021 
+- [jstemmer/gotags: 与Go兼容的ctags标签生成器](https://github.com/jstemmer/gotags) 
 ### February 20, 2021 
 - [Jrohy/trojan: trojan多用户管理部署程序, 支持web页面管理](https://github.com/Jrohy/trojan) 
 - [Your GitHub story in 3D - GitHub Skyline](https://skyline.github.com/?utm_source=xinquji) 
