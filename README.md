@@ -23,6 +23,7 @@
 - [jstemmer/gotags: 与Go兼容的ctags标签生成器](https://github.com/jstemmer/gotags) 
 - [JanDeDobbeleer/oh-my-posh: 任何shell的提示主题引擎。](https://github.com/JanDeDobbeleer/oh-my-posh) 
 - [jeremykenedy/laravel-users: 一个用户管理包，包括用户管理仪表板的所有必需的路由、视图、模型和控制器，以及用于管理内置用户支架的Laravels的相关页面。](https://github.com/jeremykenedy/laravel-users) 
+- [thinkeridea/go-extend: go语言扩展包，收集一些常用的操作函数](https://github.com/thinkeridea/go-extend) 
 ### February 20, 2021 
 - [Jrohy/trojan: trojan多用户管理部署程序, 支持web页面管理](https://github.com/Jrohy/trojan) 
 - [Your GitHub story in 3D - GitHub Skyline](https://skyline.github.com/?utm_source=xinquji) 
