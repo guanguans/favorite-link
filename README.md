@@ -23,6 +23,7 @@
 ### February 23, 2021 
 - [hashicorp/go-memdb: 基于不可变基树的Golang内存数据库](https://github.com/hashicorp/go-memdb) 
 - [justjavac/proxy-www: 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！](https://github.com/justjavac/proxy-www) 
+- [aarzilli/gdlv: Delve的GUI前端](https://github.com/aarzilli/gdlv) 
 ### February 22, 2021 
 - [jstemmer/gotags: 与Go兼容的ctags标签生成器](https://github.com/jstemmer/gotags) 
 - [JanDeDobbeleer/oh-my-posh: 任何shell的提示主题引擎。](https://github.com/JanDeDobbeleer/oh-my-posh) 
