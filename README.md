@@ -27,6 +27,7 @@
 - [将网页都转变成有声播客：Audiblogs](https://audiblogs.com/) 
 - [narrowspark/framework: Narrowspark是一个用于大型、健壮的web应用程序的PHP框架](https://github.com/narrowspark/framework) 
 - [php-cache/cache: 这是所有缓存适配器的主存储库](https://github.com/php-cache/cache) 
+- [ZainCheung/netease-cloud: 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署](https://github.com/ZainCheung/netease-cloud) 
 ### February 23, 2021 
 - [hashicorp/go-memdb: 基于不可变基树的Golang内存数据库](https://github.com/hashicorp/go-memdb) 
 - [justjavac/proxy-www: 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！](https://github.com/justjavac/proxy-www) 
