@@ -27,6 +27,7 @@
 - [checkcheckzz/system-design-interview: IT 公司系统设计面试](https://github.com/checkcheckzz/system-design-interview) 
 - [adlered/CSDNGreener: 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN页面浮窗广告完全过滤净化 | 国服最强最全最新CSDN脚本](https://github.com/adlered/CSDNGreener) 
 - [shadowsocks/go-shadowsocks2: Modern Shadowsocks in Go](https://github.com/shadowsocks/go-shadowsocks2) 
+- [gin-gonic/examples: 一个存放 Gin 示例和教程的仓库。](https://github.com/gin-gonic/examples) 
 ### February 25, 2021 
 - [spatie/laravel-prefixed-ids: Laravel模型的友好前缀ID](https://github.com/spatie/laravel-prefixed-ids) 
 - [midou-tech/articles: 我是龙叔，一个分享互联网技术和成长历程的大叔。](https://github.com/midou-tech/articles) 
