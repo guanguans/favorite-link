@@ -23,6 +23,9 @@
 
 
 
+
+### February 27, 2021 
+- [goava/di: go用于go编程语言的功能齐全的依赖项注入容器。](https://github.com/goava/di) 
 ### February 26, 2021 
 - [checkcheckzz/system-design-interview: IT 公司系统设计面试](https://github.com/checkcheckzz/system-design-interview) 
 - [adlered/CSDNGreener: 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN页面浮窗广告完全过滤净化 | 国服最强最全最新CSDN脚本](https://github.com/adlered/CSDNGreener) 
