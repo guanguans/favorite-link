@@ -29,6 +29,7 @@
 - [Allenxuxu/gev: 🚀Gev是一个基于Reactor模式的轻量级、快速无阻塞TCP网络库。支持自定义协议以快速轻松地构建高性能服务器。](https://github.com/Allenxuxu/gev) 
 - [WangYihang/Platypus: 🔨 一个现代的多个反向shell会话管理器在go中编写](https://github.com/WangYihang/Platypus) 
 - [jhump/protoreflect: 反射(丰富的描述符)协议缓冲](https://github.com/jhump/protoreflect) 
+- [Higurashi-kagome/wereader: 一个 Chrome / Firefox 插件：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。](https://github.com/Higurashi-kagome/wereader) 
 ### February 26, 2021 
 - [checkcheckzz/system-design-interview: IT 公司系统设计面试](https://github.com/checkcheckzz/system-design-interview) 
 - [adlered/CSDNGreener: 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN页面浮窗广告完全过滤净化 | 国服最强最全最新CSDN脚本](https://github.com/adlered/CSDNGreener) 
