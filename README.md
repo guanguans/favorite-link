@@ -46,6 +46,7 @@
 - [pressly/goose: Goose数据库迁移工具](https://github.com/pressly/goose) 
 - [Xhofe/alist-web: 阿里云盘列表的前端](https://github.com/Xhofe/alist-web) 
 - [yooper/php-text-analysis: PHP Text Analysis是一个库，用于使用PHP语言执行信息检索（IR）和自然语言处理（NLP）任务](https://github.com/yooper/php-text-analysis) 
+- [milon/laravel-blog: 一个简单的博客，用于演示 Laravel Framework。](https://github.com/milon/laravel-blog) 
 ### February 27, 2021 
 - [goava/di: go用于go编程语言的功能齐全的依赖项注入容器。](https://github.com/goava/di) 
 - [Allenxuxu/gev: 🚀Gev是一个基于Reactor模式的轻量级、快速无阻塞TCP网络库。支持自定义协议以快速轻松地构建高性能服务器。](https://github.com/Allenxuxu/gev) 
