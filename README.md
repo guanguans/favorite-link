@@ -42,6 +42,7 @@
 - [apex/up: 在几秒钟内将无限可扩展的无服务器应用程序、API和站点部署到AWS。](https://github.com/apex/up) 
 - [Pulse · apex/up: 在几秒钟内将无限可扩展的无服务器应用程序、API和站点部署到AWS。](https://github.com/apex/up/pulse) 
 - [tj/go-update: 通过GitHub发行版自动更新系统特定二进制文件的Go包。](https://github.com/tj/go-update) 
+- [posener/complete: 用go+go命令的bash完成编写bash完成](https://github.com/posener/complete) 
 ### February 27, 2021 
 - [goava/di: go用于go编程语言的功能齐全的依赖项注入容器。](https://github.com/goava/di) 
 - [Allenxuxu/gev: 🚀Gev是一个基于Reactor模式的轻量级、快速无阻塞TCP网络库。支持自定义协议以快速轻松地构建高性能服务器。](https://github.com/Allenxuxu/gev) 
