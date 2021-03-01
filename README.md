@@ -33,6 +33,7 @@
 - [taowen/12fallacy: 打造杰出软件开发团队的12条指导建议](https://github.com/taowen/12fallacy) 
 - [Dive-Into-Design-Patterns---Code-Samples：Design Patterns in PHP](https://github.com/arvi9/Dive-Into-Design-Patterns---Code-Samples/blob/master/PHP/README.md) 
 - [otiai10/copy: 递归地复制目录](https://github.com/otiai10/copy) 
+- [pmezard/go-difflib: Python difflib 包的部分端口到 Go](https://github.com/pmezard/go-difflib) 
 ### February 27, 2021 
 - [goava/di: go用于go编程语言的功能齐全的依赖项注入容器。](https://github.com/goava/di) 
 - [Allenxuxu/gev: 🚀Gev是一个基于Reactor模式的轻量级、快速无阻塞TCP网络库。支持自定义协议以快速轻松地构建高性能服务器。](https://github.com/Allenxuxu/gev) 
