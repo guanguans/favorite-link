@@ -35,6 +35,7 @@
 - [rs/xid: xid是一个全球唯一的web id生成器](https://github.com/rs/xid) 
 - [Laravel-Backpack/CRUD: 构建自定义的管理面板。 快！](https://github.com/Laravel-Backpack/CRUD) 
 - [spiral/roadrunner-laravel: RoadRunner ⇆ Laravel bridge](https://github.com/spiral/roadrunner-laravel) 
+- [wu0407/odpfis: odpfis是为使用ODP+FIS框架的同学提供已经封装好常用基础库的的Demo示例应用模板。](https://github.com/wu0407/odpfis) 
 ### March 1, 2021 
 - [itchyny/bed: 用 Go 编写的二进制编辑器](https://github.com/itchyny/bed) 
 - [easychen/MemberPrism2: 替代memberstack / memberspace的开源替代方案，但同时具有前端和后端仅成员内容保护功能](https://github.com/easychen/MemberPrism2) 
