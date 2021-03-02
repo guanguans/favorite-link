@@ -25,6 +25,9 @@
 
 
 
+
+### March 2, 2021 
+- [jonasstrehle/supercookie: ⚠️ 通过favicon进行浏览器指纹识别！](https://github.com/jonasstrehle/supercookie) 
 ### March 1, 2021 
 - [itchyny/bed: 用 Go 编写的二进制编辑器](https://github.com/itchyny/bed) 
 - [easychen/MemberPrism2: 替代memberstack / memberspace的开源替代方案，但同时具有前端和后端仅成员内容保护功能](https://github.com/easychen/MemberPrism2) 
