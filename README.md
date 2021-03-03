@@ -29,6 +29,7 @@
 
 ### March 3, 2021 
 - [genjidb/genji: 面向文档的嵌入式 SQL 数据库](https://github.com/genjidb/genji) 
+- [kortschak/utter: 为 Go 数据结构实现一个深度漂亮的打印机，以简化数据快照的创建](https://github.com/kortschak/utter) 
 ### March 2, 2021 
 - [jonasstrehle/supercookie: ⚠️ 通过favicon进行浏览器指纹识别！](https://github.com/jonasstrehle/supercookie) 
 - [simeji/jid: Json增量式挖掘机  这是一个非常简单的工具。  通过使用jq之类的过滤查询，您可以交互式地深入JSON。  这个工具的建议和自动完成将为您提供一个非常舒适的JSON深入分析。](https://github.com/simeji/jid) 
