@@ -32,6 +32,7 @@
 - [electerm/electerm: 📻终端/ssh/sftp客户端（linux、mac、win）](https://github.com/electerm/electerm) 
 - [phuslu/log: 结构化日志记录变得简单](https://github.com/phuslu/log) 
 - [mnapoli/silly: 基于Symfony控制台的CLI微框架](https://github.com/mnapoli/silly) 
+- [oam-dev/kubevela: 基于 Kubernetes 和开放应用模型的高可扩展平台引擎。](https://github.com/oam-dev/kubevela) 
 ### March 3, 2021 
 - [genjidb/genji: 面向文档的嵌入式 SQL 数据库](https://github.com/genjidb/genji) 
 - [kortschak/utter: 为 Go 数据结构实现一个深度漂亮的打印机，以简化数据快照的创建](https://github.com/kortschak/utter) 
