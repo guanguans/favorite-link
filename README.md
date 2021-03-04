@@ -36,6 +36,7 @@
 - [razonyang/yii2-app-template: Yii2应用程序项目模板](https://github.com/razonyang/yii2-app-template) 
 - [razonyang/yii2-vue-admin: Yii2 Vue管理模板](https://github.com/razonyang/yii2-vue-admin) 
 - [Terry-Mao/goim: goim是golang编写的im服务器。](https://github.com/Terry-Mao/goim) 
+- [laravel-filament/filament: 优雅的高堆栈管理的 Laravel artisans.](https://github.com/laravel-filament/filament) 
 ### March 3, 2021 
 - [genjidb/genji: 面向文档的嵌入式 SQL 数据库](https://github.com/genjidb/genji) 
 - [kortschak/utter: 为 Go 数据结构实现一个深度漂亮的打印机，以简化数据快照的创建](https://github.com/kortschak/utter) 
