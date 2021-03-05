@@ -32,6 +32,7 @@
 ### March 5, 2021 
 - [openark/orchestrator: Orchestrator是MySQL高可用性和复制管理工具，可作为服务运行，并提供命令行访问，HTTP API和Web界面。 协调器支持：](https://github.com/openark/orchestrator) 
 - [LockGit/gochat: goim服务器由golang编写！🚀](https://github.com/LockGit/gochat) 
+- [canc3s/cSubsidiary: 利用天眼查查询企业子公司](https://github.com/canc3s/cSubsidiary) 
 ### March 4, 2021 
 - [electerm/electerm: 📻终端/ssh/sftp客户端（linux、mac、win）](https://github.com/electerm/electerm) 
 - [phuslu/log: 结构化日志记录变得简单](https://github.com/phuslu/log) 
