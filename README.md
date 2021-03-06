@@ -29,6 +29,9 @@
 
 
 
+
+### March 6, 2021 
+- [microsoft/Power-Fx: Power Fx低代码编程语言](https://github.com/microsoft/Power-Fx) 
 ### March 5, 2021 
 - [openark/orchestrator: Orchestrator是MySQL高可用性和复制管理工具，可作为服务运行，并提供命令行访问，HTTP API和Web界面。 协调器支持：](https://github.com/openark/orchestrator) 
 - [LockGit/gochat: goim服务器由golang编写！🚀](https://github.com/LockGit/gochat) 
