@@ -35,6 +35,7 @@
 - [8treenet/freedom: Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。](https://github.com/8treenet/freedom) 
 - [improbable-eng/grpc-web: 用于Golang和TypeScript的gRPC Web实现](https://github.com/improbable-eng/grpc-web) 
 - [schollz/progressbar: 一个非常基本的线程安全的进度条，用于 Golang 应用程序](https://github.com/schollz/progressbar) 
+- [mozilla/sops: 简单而灵活的秘密管理工具](https://github.com/mozilla/sops) 
 ### March 5, 2021 
 - [openark/orchestrator: Orchestrator是MySQL高可用性和复制管理工具，可作为服务运行，并提供命令行访问，HTTP API和Web界面。 协调器支持：](https://github.com/openark/orchestrator) 
 - [LockGit/gochat: goim服务器由golang编写！🚀](https://github.com/LockGit/gochat) 
