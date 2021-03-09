@@ -30,6 +30,9 @@
 
 
 
+
+### March 9, 2021 
+- [dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt) 
 ### March 6, 2021 
 - [microsoft/Power-Fx: Power Fx低代码编程语言](https://github.com/microsoft/Power-Fx) 
 - [8treenet/freedom: Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。](https://github.com/8treenet/freedom) 
