@@ -42,6 +42,7 @@
 - [olivere/jobqueue: Jobqueue管理运行和调度作业（想想Sidekiq或Resque for Go）。](https://github.com/olivere/jobqueue) 
 - [rakyll/pprof-merge: 将多个 pprof 配置文件合并到一个文件中](https://github.com/rakyll/pprof-merge) 
 - [dani-garcia/bitwarden_rs: 用Rust编写的非官方Bitwarden兼容服务器](https://github.com/dani-garcia/bitwarden_rs) 
+- [在 PHP 中为科学计算提供对象的库和扩展。](https://github.com/RubixML/Tensor) 
 ### March 9, 2021 
 - [dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt) 
 - [spatie/pdf-to-text: 从 pdf 文件中提取文本](https://github.com/spatie/pdf-to-text) 
