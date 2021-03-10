@@ -35,6 +35,7 @@
 ### March 10, 2021 
 - [lestrrat-go/jwx: 各种JWx（Javascript对象签名和加密/JOSE）技术的实现](https://github.com/lestrrat-go/jwx) 
 - [spatie/laravel-remote: 在远程服务器上执行 Artisan 命令](https://github.com/spatie/laravel-remote) 
+- [hashicorp/go-multierror: 一个Go（golang）包，用于将错误列表表示为单个错误。](https://github.com/hashicorp/go-multierror) 
 ### March 9, 2021 
 - [dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt) 
 - [spatie/pdf-to-text: 从 pdf 文件中提取文本](https://github.com/spatie/pdf-to-text) 
