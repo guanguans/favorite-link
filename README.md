@@ -40,6 +40,7 @@
 - [magic-test/magic-test-laravel: 允许你通过简单的点击正在测试的应用程序来编写浏览器测试，而不需要不断重新启动测试环境。](https://github.com/magic-test/magic-test-laravel) 
 - [darylldoyle/svg-sanitizer: A PHP SVG/XML Sanitizer](https://github.com/darylldoyle/svg-sanitizer) 
 - [olivere/jobqueue: Jobqueue管理运行和调度作业（想想Sidekiq或Resque for Go）。](https://github.com/olivere/jobqueue) 
+- [rakyll/pprof-merge: 将多个 pprof 配置文件合并到一个文件中](https://github.com/rakyll/pprof-merge) 
 ### March 9, 2021 
 - [dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt) 
 - [spatie/pdf-to-text: 从 pdf 文件中提取文本](https://github.com/spatie/pdf-to-text) 
