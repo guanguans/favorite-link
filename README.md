@@ -43,6 +43,7 @@
 - [optiv/ScareCrow: 稻草人-围绕EDR旁路设计的有效负载创建框架。](https://github.com/optiv/ScareCrow) 
 - [amacneil/dbmate: 🚀 一个轻量级的、与框架无关的数据库迁移工具。](https://github.com/amacneil/dbmate) 
 - [kodeine/laravel-meta: Metable Trait增加了访问元数据的能力，就好像它是模型上的属性一样。Metable是流畅的，就像使用一个有说服力的模型属性一样，您可以设置或取消设置meta](https://github.com/kodeine/laravel-meta) 
+- [thephpleague/glide-laravel: Glide adapter for Laravel](https://github.com/thephpleague/glide-laravel) 
 ### March 11, 2021 
 - [symfony/runtime: Runtime 组件支持应用程序与全局状态分离。](https://github.com/symfony/runtime) 
 - [imdario/mergo: Mergo: Mergo: merging Go structs and maps since 2013.](https://github.com/imdario/mergo) 
