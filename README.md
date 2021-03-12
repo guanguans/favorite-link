@@ -38,6 +38,7 @@
 - [mayswind/AriaNg-Native: 比AriaNg更好的AriaNg 2桌面前端，包含AriaNg的所有功能和更多桌面功能。](https://github.com/mayswind/AriaNg-Native) 
 - [localstack/localstack: 一个功能齐全的本地 AWS 云堆栈。离线开发和测试您的云和无服务器应用程序！](https://github.com/localstack/localstack) 
 - [imgproxy/imgproxy: 快速安全的独立服务器，用于调整和转换远程图像](https://github.com/imgproxy/imgproxy) 
+- [gengine/README_zh: 基于golang的规则引擎](https://github.com/bilibili/gengine/blob/main/README_zh.md) 
 ### March 11, 2021 
 - [symfony/runtime: Runtime 组件支持应用程序与全局状态分离。](https://github.com/symfony/runtime) 
 - [imdario/mergo: Mergo: Mergo: merging Go structs and maps since 2013.](https://github.com/imdario/mergo) 
