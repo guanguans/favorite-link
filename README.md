@@ -37,6 +37,7 @@
 
 ### March 13, 2021 
 - [0e0w/365Golang: 《365天深入理解Go语言》](https://github.com/0e0w/365Golang) 
+- [projectdiscovery/httpx: httpx是一个快速且多用途的HTTP工具包](https://github.com/projectdiscovery/httpx) 
 ### March 12, 2021 
 - [mayswind/AriaNg-Native: 比AriaNg更好的AriaNg 2桌面前端，包含AriaNg的所有功能和更多桌面功能。](https://github.com/mayswind/AriaNg-Native) 
 - [localstack/localstack: 一个功能齐全的本地 AWS 云堆栈。离线开发和测试您的云和无服务器应用程序！](https://github.com/localstack/localstack) 
