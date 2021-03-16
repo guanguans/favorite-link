@@ -48,6 +48,7 @@
 - [dropbox/kglb: KgLb-L4负载平衡器](https://github.com/dropbox/kglb) 
 - [authelia/authelia: web应用的单点登录多因素门户](https://github.com/authelia/authelia) 
 - [lotusirous/go-concurrency-patterns: Go中的并发模式](https://github.com/lotusirous/go-concurrency-patterns) 
+- [BadApple9/speedtest-x: 本仓库为 LibreSpeed 的延伸项目，LibreSpeed 是一个非常轻巧的网站测速工具。](https://github.com/BadApple9/speedtest-x) 
 ### March 13, 2021 
 - [0e0w/365Golang: 《365天深入理解Go语言》](https://github.com/0e0w/365Golang) 
 - [projectdiscovery/httpx: httpx是一个快速且多用途的HTTP工具包](https://github.com/projectdiscovery/httpx) 
