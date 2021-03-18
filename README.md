@@ -50,6 +50,7 @@
 - [inetaf/netaddr: 网络地址类型](https://github.com/inetaf/netaddr) 
 - [nunomaduro/laracon-schedule: 一个命令行工具，为您提供您所在时区的@laracononline 时间表。](https://github.com/nunomaduro/laracon-schedule) 
 - [nwtgck/actions-comment-run: Execute any script in a GitHub issue comment](https://github.com/nwtgck/actions-comment-run) 
+- [brefphp/laravel-bridge: 在带有Bref的AWS Lambda上使用Laravel的软件包](https://github.com/brefphp/laravel-bridge) 
 ### March 16, 2021 
 - [bxcodec/go-clean-arch: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture](https://github.com/bxcodec/go-clean-arch) 
 - [bettercap/bettercap: 瑞士军刀为802.11、 BLE 和以太网侦察和 MITM 攻击。](https://github.com/bettercap/bettercap) 
