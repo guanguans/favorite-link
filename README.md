@@ -40,6 +40,7 @@
 ### March 18, 2021 
 - [docker/buildx: 使用BuildKit扩展构建功能的Docker CLI插件](https://github.com/docker/buildx) 
 - [vran-dev/PrettyZoo: 😉 相当不错的Zookeeper GUI，支持Win/Mac/Linux平台](https://github.com/vran-dev/PrettyZoo) 
+- [hua1995116/linec: 🍬一个高颜值命令行统计代码行数的计数器。](https://github.com/hua1995116/linec) 
 ### March 16, 2021 
 - [bxcodec/go-clean-arch: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture](https://github.com/bxcodec/go-clean-arch) 
 - [bettercap/bettercap: 瑞士军刀为802.11、 BLE 和以太网侦察和 MITM 攻击。](https://github.com/bettercap/bettercap) 
