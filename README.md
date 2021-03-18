@@ -43,6 +43,7 @@
 - [hua1995116/linec: 🍬一个高颜值命令行统计代码行数的计数器。](https://github.com/hua1995116/linec) 
 - [wangeditor-team/wangEditor: wangEditor —— 轻量级web富文本框](https://github.com/wangeditor-team/wangEditor) 
 - [smarkets/marge-bot: GitLab 的合并机器人](https://github.com/smarkets/marge-bot) 
+- [joomcode/errorx: 一个用于Go的综合错误处理库](https://github.com/joomcode/errorx) 
 ### March 16, 2021 
 - [bxcodec/go-clean-arch: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture](https://github.com/bxcodec/go-clean-arch) 
 - [bettercap/bettercap: 瑞士军刀为802.11、 BLE 和以太网侦察和 MITM 攻击。](https://github.com/bettercap/bettercap) 
