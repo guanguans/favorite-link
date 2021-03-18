@@ -45,6 +45,7 @@
 - [smarkets/marge-bot: GitLab 的合并机器人](https://github.com/smarkets/marge-bot) 
 - [joomcode/errorx: 一个用于Go的综合错误处理库](https://github.com/joomcode/errorx) 
 - [libevent/libevent: 事件通知库](https://github.com/libevent/libevent) 
+- [googleapis/google-api-go-client: 为 Go 自动生成的 Google api。](https://github.com/googleapis/google-api-go-client) 
 ### March 16, 2021 
 - [bxcodec/go-clean-arch: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture](https://github.com/bxcodec/go-clean-arch) 
 - [bettercap/bettercap: 瑞士军刀为802.11、 BLE 和以太网侦察和 MITM 攻击。](https://github.com/bettercap/bettercap) 
