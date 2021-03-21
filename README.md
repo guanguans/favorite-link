@@ -42,6 +42,7 @@
 - [SuperManito/JD-FreeFuck: 《JD薅羊毛》一键部署 For Linux](https://github.com/SuperManito/JD-FreeFuck) 
 - [php-runtime/runtime: A temporary home for runtimes.](https://github.com/php-runtime/runtime) 
 - [vimeo/php-mysql-engine: 一个纯 PHP 编写的 MySQL 引擎](https://github.com/vimeo/php-mysql-engine) 
+- [vzex/dog-tunnel: 基于kcp的p2p端口映射工具，同时支持socks5代理](https://github.com/vzex/dog-tunnel) 
 ### March 18, 2021 
 - [docker/buildx: 使用BuildKit扩展构建功能的Docker CLI插件](https://github.com/docker/buildx) 
 - [vran-dev/PrettyZoo: 😉 相当不错的Zookeeper GUI，支持Win/Mac/Linux平台](https://github.com/vran-dev/PrettyZoo) 
