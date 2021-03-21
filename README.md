@@ -45,6 +45,7 @@
 - [vzex/dog-tunnel: 基于kcp的p2p端口映射工具，同时支持socks5代理](https://github.com/vzex/dog-tunnel) 
 - [mehrdadrad/mylg: 网络诊断工具](https://github.com/mehrdadrad/mylg) 
 - [wxbool/video-srt-windows: 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。](https://github.com/wxbool/video-srt-windows) 
+- [uber/kraken: P2P Docker注册中心能够在几秒钟内分发TBs的数据](https://github.com/uber/kraken) 
 ### March 18, 2021 
 - [docker/buildx: 使用BuildKit扩展构建功能的Docker CLI插件](https://github.com/docker/buildx) 
 - [vran-dev/PrettyZoo: 😉 相当不错的Zookeeper GUI，支持Win/Mac/Linux平台](https://github.com/vran-dev/PrettyZoo) 
