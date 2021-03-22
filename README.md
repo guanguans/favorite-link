@@ -45,6 +45,7 @@
 - [RichardKnop/go-oauth2-server: 一个独立的、符合规范的、用 Golang 编写的 OAuth2服务器。](https://github.com/RichardKnop/go-oauth2-server) 
 - [projectdiscovery/subfinder: Subfinder是一个子域发现工具，可以为网站发现有效的子域。被设计成一个被动的框架，对于缺陷的丰富和渗透测试是安全的。](https://github.com/projectdiscovery/subfinder) 
 - [alecthomas/jsonschema: 从Go类型生成JSON模式](https://github.com/alecthomas/jsonschema/) 
+- [HGthecode/thinkphp-apidoc: 基于ThinkPHP 根据注释自动生成API接口文档](https://github.com/HGthecode/thinkphp-apidoc) 
 ### March 21, 2021 
 - [SuperManito/JD-FreeFuck: 《JD薅羊毛》一键部署 For Linux](https://github.com/SuperManito/JD-FreeFuck) 
 - [php-runtime/runtime: A temporary home for runtimes.](https://github.com/php-runtime/runtime) 
