@@ -41,6 +41,7 @@
 
 ### March 22, 2021 
 - [asantibanez/livewire-select: 用于依赖和/或可搜索选择输入的 Livewire 组件](https://github.com/asantibanez/livewire-select) 
+- [firstcontributions/first-contributions: 🚀✨ 帮助初学者对开源项目做出贡献](https://github.com/firstcontributions/first-contributions) 
 ### March 21, 2021 
 - [SuperManito/JD-FreeFuck: 《JD薅羊毛》一键部署 For Linux](https://github.com/SuperManito/JD-FreeFuck) 
 - [php-runtime/runtime: A temporary home for runtimes.](https://github.com/php-runtime/runtime) 
