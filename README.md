@@ -40,6 +40,9 @@
 
 
 
+
+### March 25, 2021 
+- [davecgh/go-spew: 为 Go 数据结构实现一个深度漂亮的打印机，以帮助调试](https://github.com/davecgh/go-spew) 
 ### March 23, 2021 
 - [c-ares/c-ares: 异步 DNS 请求的 c 库](https://github.com/c-ares/c-ares) 
 - [code-distortion/adapt: 一个Laravel包，它为您的测试构建数据库，提高测试速度](https://github.com/code-distortion/adapt) 
