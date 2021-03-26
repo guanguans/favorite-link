@@ -44,6 +44,7 @@
 
 ### March 26, 2021 
 - [rotisserie/eris: Eris 提供了一种更好的方法来处理 Go 中的错误、跟踪和日志记录](https://github.com/rotisserie/eris) 
+- [JetBrains/projector-server: 服务器端库，用于远程运行Swing应用程序](https://github.com/JetBrains/projector-server) 
 ### March 25, 2021 
 - [davecgh/go-spew: 为 Go 数据结构实现一个深度漂亮的打印机，以帮助调试](https://github.com/davecgh/go-spew) 
 - [disintegration/imaging: 成像是Go的简单图像处理包](https://github.com/disintegration/imaging) 
