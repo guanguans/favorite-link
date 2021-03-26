@@ -51,6 +51,7 @@
 - [Adminisme/ServerScan: ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。](https://github.com/Adminisme/ServerScan) 
 - [crystal-lang/crystal: Crystal程序设计语言](https://github.com/crystal-lang/crystal) 
 - [RussellLuo/timingwheel: 分层计时轮的 Golang 实现。](https://github.com/RussellLuo/timingwheel) 
+- [JetBrains/projector-installer: 在Linux或WSL上使用Projector Server安装、配置和运行JetBrains IDE](https://github.com/JetBrains/projector-installer) 
 ### March 25, 2021 
 - [davecgh/go-spew: 为 Go 数据结构实现一个深度漂亮的打印机，以帮助调试](https://github.com/davecgh/go-spew) 
 - [disintegration/imaging: 成像是Go的简单图像处理包](https://github.com/disintegration/imaging) 
