@@ -54,6 +54,7 @@
 - [thephpleague/openapi-psr7-validator: 它根据 OpenAPI 规范验证 PSR-7消息(HTTP 请求/响应)](https://github.com/thephpleague/openapi-psr7-validator) 
 - [charmbracelet/lipgloss: 漂亮的终端布局的样式定义](https://github.com/charmbracelet/lipgloss) 
 - [isocpp/CppCoreGuidelines: C++核心指南是一套关于C++的测试指南和规则，以及关于编码的最佳实践。](https://github.com/isocpp/CppCoreGuidelines) 
+- [hyperium/tonic: 具有异步/等待支持的本机gRPC客户端和服务器实现。](https://github.com/hyperium/tonic) 
 ### March 26, 2021 
 - [rotisserie/eris: Eris 提供了一种更好的方法来处理 Go 中的错误、跟踪和日志记录](https://github.com/rotisserie/eris) 
 - [JetBrains/projector-server: 服务器端库，用于远程运行Swing应用程序](https://github.com/JetBrains/projector-server) 
