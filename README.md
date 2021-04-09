@@ -49,6 +49,7 @@
 - [felixge/fgprof: Fgprof 是一个抽样的 Go 分析器，它允许您一起分析 On-CPU 和 Off-CPU (例如 i/o)时间。](https://github.com/felixge/fgprof) 
 - [mint-lang/mint: 一种面向前端网络的令人耳目一新的编程语言。](https://github.com/mint-lang/mint) 
 - [babenkoivan/elastic-migrations: Laravel的Elasticsearch迁移](https://github.com/babenkoivan/elastic-migrations) 
+- [golobby/config: 一个轻量级但功能强大的Go项目配置包](https://github.com/golobby/config) 
 ### March 26, 2021 
 - [rotisserie/eris: Eris 提供了一种更好的方法来处理 Go 中的错误、跟踪和日志记录](https://github.com/rotisserie/eris) 
 - [JetBrains/projector-server: 服务器端库，用于远程运行Swing应用程序](https://github.com/JetBrains/projector-server) 
