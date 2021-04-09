@@ -52,6 +52,7 @@
 - [golobby/config: 一个轻量级但功能强大的Go项目配置包](https://github.com/golobby/config) 
 - [studygolang/learn-go-with-tests: 通过测试驱动开发学习 Go 语言》中文翻译  ResourcesLicense](https://github.com/studygolang/learn-go-with-tests) 
 - [thephpleague/openapi-psr7-validator: 它根据 OpenAPI 规范验证 PSR-7消息(HTTP 请求/响应)](https://github.com/thephpleague/openapi-psr7-validator) 
+- [charmbracelet/lipgloss: 漂亮的终端布局的样式定义](https://github.com/charmbracelet/lipgloss) 
 ### March 26, 2021 
 - [rotisserie/eris: Eris 提供了一种更好的方法来处理 Go 中的错误、跟踪和日志记录](https://github.com/rotisserie/eris) 
 - [JetBrains/projector-server: 服务器端库，用于远程运行Swing应用程序](https://github.com/JetBrains/projector-server) 
