@@ -47,6 +47,7 @@
 ### April 10, 2021 
 - [didi/mpx: Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架](https://github.com/didi/mpx) 
 - [RediSearch/RediSearch: Redis 的查询和索引引擎，提供辅助索引、全文搜索和聚合。](https://github.com/RediSearch/RediSearch) 
+- [vue-mini/vue-mini: 像写 Vue 3 一样写小程序](https://github.com/vue-mini/vue-mini) 
 ### April 9, 2021 
 - [cilium/ebpf: 用于Go的eBPF库](https://github.com/cilium/ebpf) 
 - [valyala/quicktemplate: 快速，强大但易于使用的Go模板引擎。 针对热路径中的速度和零内存分配进行了优化。 比html / template快20倍](https://github.com/valyala/quicktemplate) 
