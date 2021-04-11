@@ -51,6 +51,7 @@
 - [SuperPaintman/the-evolution-of-a-go-programmer：Go程序员的演变](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer#the-evolution-of-a-go-programmer) 
 - [adonovan/spaghetti: Spaghetti：Go软件包的依赖性分析工具](https://github.com/adonovan/spaghetti) 
 - [q2a/question2answer: Question2Answer 是一个免费的开源问答平台，运行在 PHP/MySQL 上。](https://github.com/q2a/question2answer) 
+- [iamadamdev/bypass-paywalls-chrome: Bypass Paywalls是一个web浏览器扩展，用于帮助绕过选定站点的Paywalls。](https://github.com/iamadamdev/bypass-paywalls-chrome) 
 ### April 10, 2021 
 - [didi/mpx: Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架](https://github.com/didi/mpx) 
 - [RediSearch/RediSearch: Redis 的查询和索引引擎，提供辅助索引、全文搜索和聚合。](https://github.com/RediSearch/RediSearch) 
