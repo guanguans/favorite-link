@@ -47,6 +47,7 @@
 
 ### April 11, 2021 
 - [easychen/one-person-businesses-methodology: 一人公司方法论](https://github.com/easychen/one-person-businesses-methodology) 
+- [natefinch/npipe: 用纯 Go 编写的 Windows 命名管道实现。](https://github.com/natefinch/npipe) 
 ### April 10, 2021 
 - [didi/mpx: Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架](https://github.com/didi/mpx) 
 - [RediSearch/RediSearch: Redis 的查询和索引引擎，提供辅助索引、全文搜索和聚合。](https://github.com/RediSearch/RediSearch) 
