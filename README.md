@@ -52,6 +52,7 @@
 - [laravel-admin-extensions/redis-manager: 用于laravel admin的Redis管理器](https://github.com/laravel-admin-extensions/redis-manager) 
 - [orf/gping: Ping, but with a graph](https://github.com/orf/gping) 
 - [servo/rust-url: URL parser for Rust](https://github.com/servo/rust-url) 
+- [WyriHaximus/github-action-wait-for-status: 等待成功提交状态的 Github Action](https://github.com/WyriHaximus/github-action-wait-for-status) 
 ### April 11, 2021 
 - [easychen/one-person-businesses-methodology: 一人公司方法论](https://github.com/easychen/one-person-businesses-methodology) 
 - [natefinch/npipe: 用纯 Go 编写的 Windows 命名管道实现。](https://github.com/natefinch/npipe) 
