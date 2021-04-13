@@ -53,6 +53,7 @@
 - [xiaoZ-hc/redtool: 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种](https://github.com/xiaoZ-hc/redtool) 
 - [aaronjanse/3mux: 受 i3启发的终端多路复用器](https://github.com/aaronjanse/3mux) 
 - [minbrowser/min: 一个快速，最小化的浏览器，保护你的隐私](https://github.com/minbrowser/min) 
+- [dvyukov/go-fuzz: Randomized testing for Go](https://github.com/dvyukov/go-fuzz) 
 ### April 12, 2021 
 - [chanify/chanify: Chanify是一个安全简单的通知工具。这个存储库是Chanify的命令行工具。](https://github.com/chanify/chanify) 
 - [chanify/chanify-ios: Chanify是一个安全简单的通知工具。](https://github.com/chanify/chanify-ios) 
