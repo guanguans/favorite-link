@@ -46,6 +46,9 @@
 
 
 
+
+### April 13, 2021 
+- [cgag/loc: 快速计算代码行数。](https://github.com/cgag/loc) 
 ### April 12, 2021 
 - [chanify/chanify: Chanify是一个安全简单的通知工具。这个存储库是Chanify的命令行工具。](https://github.com/chanify/chanify) 
 - [chanify/chanify-ios: Chanify是一个安全简单的通知工具。](https://github.com/chanify/chanify-ios) 
