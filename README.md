@@ -51,6 +51,7 @@
 - [cgag/loc: 快速计算代码行数。](https://github.com/cgag/loc) 
 - [boyter/scc: Sloc、Cloc和Code:scc是一个非常快速精确的代码计数器，它用纯Go编写复杂度计算和COCOMO估计](https://github.com/boyter/scc) 
 - [xiaoZ-hc/redtool: 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种](https://github.com/xiaoZ-hc/redtool) 
+- [aaronjanse/3mux: 受 i3启发的终端多路复用器](https://github.com/aaronjanse/3mux) 
 ### April 12, 2021 
 - [chanify/chanify: Chanify是一个安全简单的通知工具。这个存储库是Chanify的命令行工具。](https://github.com/chanify/chanify) 
 - [chanify/chanify-ios: Chanify是一个安全简单的通知工具。](https://github.com/chanify/chanify-ios) 
