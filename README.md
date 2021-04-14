@@ -51,6 +51,7 @@
 ### April 14, 2021 
 - [SwiftOldDriver/iOS-Weekly: 🇨🇳 老司机 iOS 周报](https://github.com/SwiftOldDriver/iOS-Weekly) 
 - [langleyfoxall/laravel-nist-password-rules: Laravel 验证规则遵循 NIST 特别出版物800-63B 第5节中与密码相关的建议。](https://github.com/langleyfoxall/laravel-nist-password-rules) 
+- [mafredri/cdp: 包 CDP 提供了用 Go 编程语言编写的 chromedevtools 协议(CDP)的类型安全绑定。](https://github.com/mafredri/cdp) 
 ### April 13, 2021 
 - [cgag/loc: 快速计算代码行数。](https://github.com/cgag/loc) 
 - [boyter/scc: Sloc、Cloc和Code:scc是一个非常快速精确的代码计数器，它用纯Go编写复杂度计算和COCOMO估计](https://github.com/boyter/scc) 
