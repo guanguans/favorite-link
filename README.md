@@ -52,6 +52,7 @@
 ### April 15, 2021 
 - [segmentio/golines: Golines 是一个 golang 格式化程序，除了 gofmt 完成的所有格式修复之外，它还可以缩短长行。](https://github.com/segmentio/golines) 
 - [huaweicloud/huaweicloud-sdk-php-obs](https://github.com/huaweicloud/huaweicloud-sdk-php-obs) 
+- [markphelps/flipt: Flipt是一个开源的on-prem特性标志应用程序，允许您在环境中跨服务运行实验。](https://github.com/markphelps/flipt) 
 ### April 14, 2021 
 - [SwiftOldDriver/iOS-Weekly: 🇨🇳 老司机 iOS 周报](https://github.com/SwiftOldDriver/iOS-Weekly) 
 - [langleyfoxall/laravel-nist-password-rules: Laravel 验证规则遵循 NIST 特别出版物800-63B 第5节中与密码相关的建议。](https://github.com/langleyfoxall/laravel-nist-password-rules) 
