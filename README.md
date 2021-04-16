@@ -52,6 +52,7 @@
 
 ### April 16, 2021 
 - [IoLanguage/io: I/o 编程语言。灵感来自 Self，Smalltalk 和 LISP。](https://github.com/IoLanguage/io) 
+- [PraneetNeuro/Patchman: 用 HTTP 方法测试 api 的 macOS 应用程序(Decluttered Postman)](https://github.com/PraneetNeuro/Patchman) 
 ### April 15, 2021 
 - [segmentio/golines: Golines 是一个 golang 格式化程序，除了 gofmt 完成的所有格式修复之外，它还可以缩短长行。](https://github.com/segmentio/golines) 
 - [huaweicloud/huaweicloud-sdk-php-obs](https://github.com/huaweicloud/huaweicloud-sdk-php-obs) 
