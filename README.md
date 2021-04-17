@@ -55,6 +55,7 @@
 - [beekeeper-studio/beekeeper-studio: 现代化且易于使用的 SQL 客户端，适用于 MySQL、 Postgres、 SQLite、 SQL Server 等。](https://github.com/beekeeper-studio/beekeeper-studio) 
 - [encoredev/encore: 具有超能力的 Go 后端框架](https://github.com/encoredev/encore) 
 - [Chovanec/elo-rating: 一个 PHP 类，实现了等级分](https://github.com/Chovanec/elo-rating) 
+- [jaypipes/ghw: Golang硬件发现/检查库](https://github.com/jaypipes/ghw) 
 ### April 16, 2021 
 - [IoLanguage/io: I/o 编程语言。灵感来自 Self，Smalltalk 和 LISP。](https://github.com/IoLanguage/io) 
 - [PraneetNeuro/Patchman: 用 HTTP 方法测试 api 的 macOS 应用程序(Decluttered Postman)](https://github.com/PraneetNeuro/Patchman) 
