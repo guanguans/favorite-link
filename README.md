@@ -56,6 +56,7 @@
 - [encoredev/encore: 具有超能力的 Go 后端框架](https://github.com/encoredev/encore) 
 - [Chovanec/elo-rating: 一个 PHP 类，实现了等级分](https://github.com/Chovanec/elo-rating) 
 - [jaypipes/ghw: Golang硬件发现/检查库](https://github.com/jaypipes/ghw) 
+- [armon/go-metrics: 用于将性能和运行时度量导出到外部度量系统（即statsite、statsd）的Golang库](https://github.com/armon/go-metrics) 
 ### April 16, 2021 
 - [IoLanguage/io: I/o 编程语言。灵感来自 Self，Smalltalk 和 LISP。](https://github.com/IoLanguage/io) 
 - [PraneetNeuro/Patchman: 用 HTTP 方法测试 api 的 macOS 应用程序(Decluttered Postman)](https://github.com/PraneetNeuro/Patchman) 
