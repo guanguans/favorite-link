@@ -58,6 +58,7 @@
 - [Rigellute/spotify-tui: 终端的Spotify客户端是用Rust编写的。](https://github.com/Rigellute/spotify-tui) 
 - [Spotifyd/spotifyd: 作为UNIX守护进程运行的开源Spotify客户端。](https://github.com/Spotifyd/spotifyd) 
 - [telegraf/telegraf: 基于 Node.js 的现代电报机器人框架](https://github.com/telegraf/telegraf) 
+- [projectdiscovery/simplehttpserver: Go替代python SimpleHTTPServer](https://github.com/projectdiscovery/simplehttpserver) 
 ### April 17, 2021 
 - [beekeeper-studio/beekeeper-studio: 现代化且易于使用的 SQL 客户端，适用于 MySQL、 Postgres、 SQLite、 SQL Server 等。](https://github.com/beekeeper-studio/beekeeper-studio) 
 - [encoredev/encore: 具有超能力的 Go 后端框架](https://github.com/encoredev/encore) 
