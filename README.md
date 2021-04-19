@@ -55,6 +55,7 @@
 ### April 19, 2021 
 - [salvo-rs/salvo: Salvo 是一个简单的 Rust web 服务器框架](https://github.com/salvo-rs/salvo) 
 - [go-acme/lego: 让我们加密用 Go 编写的客户机和 ACME 库](https://github.com/go-acme/lego) 
+- [Rigellute/spotify-tui: 终端的Spotify客户端是用Rust编写的。](https://github.com/Rigellute/spotify-tui) 
 ### April 17, 2021 
 - [beekeeper-studio/beekeeper-studio: 现代化且易于使用的 SQL 客户端，适用于 MySQL、 Postgres、 SQLite、 SQL Server 等。](https://github.com/beekeeper-studio/beekeeper-studio) 
 - [encoredev/encore: 具有超能力的 Go 后端框架](https://github.com/encoredev/encore) 
