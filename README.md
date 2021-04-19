@@ -62,6 +62,7 @@
 - [jtolio/gls: Goroutine 本地存储](https://github.com/jtolio/gls) 
 - [styled-components/styled-components: 组件年龄的可视化原语。使用 ES6和 CSS 中最好的部分来为你的应用程序设计风格](https://github.com/styled-components/styled-components) 
 - [dr5hn/countries-states-cities-database: 🌍 JSON、SQL、XML、PLIST、YAML和CSV格式的世界国家、州、地区、省、市、镇。所有国家、州、具有ISO2、ISO3、国家代码、电话代码、首都、母语、时区、纬度、经度、地区、次区域、国旗表情符号和货币的城市。#国家/州/城市](https://github.com/dr5hn/countries-states-cities-database) 
+- [supabase/supabase: 开源的 Firebase 替代产品。](https://github.com/supabase/supabase) 
 ### April 17, 2021 
 - [beekeeper-studio/beekeeper-studio: 现代化且易于使用的 SQL 客户端，适用于 MySQL、 Postgres、 SQLite、 SQL Server 等。](https://github.com/beekeeper-studio/beekeeper-studio) 
 - [encoredev/encore: 具有超能力的 Go 后端框架](https://github.com/encoredev/encore) 
