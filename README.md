@@ -57,6 +57,7 @@
 - [tomnomnom/httprobe: 获取工作 HTTP 和 HTTPS 服务器的域和探测列表](https://github.com/tomnomnom/httprobe) 
 - [gaasedelen/lighthouse: 面向逆向工程的代码覆盖率资源管理器](https://github.com/gaasedelen/lighthouse) 
 - [gaasedelen/tenet: 逆向工程跟踪资源管理器](https://github.com/gaasedelen/tenet) 
+- [spatie/laravel-interacts-with-payload: 向 Laravel 应用程序中所有作业的有效负载添加变量](https://github.com/spatie/laravel-interacts-with-payload) 
 ### April 19, 2021 
 - [salvo-rs/salvo: Salvo 是一个简单的 Rust web 服务器框架](https://github.com/salvo-rs/salvo) 
 - [go-acme/lego: 让我们加密用 Go 编写的客户机和 ACME 库](https://github.com/go-acme/lego) 
