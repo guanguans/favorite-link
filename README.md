@@ -58,6 +58,7 @@
 - [gaasedelen/lighthouse: 面向逆向工程的代码覆盖率资源管理器](https://github.com/gaasedelen/lighthouse) 
 - [gaasedelen/tenet: 逆向工程跟踪资源管理器](https://github.com/gaasedelen/tenet) 
 - [spatie/laravel-interacts-with-payload: 向 Laravel 应用程序中所有作业的有效负载添加变量](https://github.com/spatie/laravel-interacts-with-payload) 
+- [lightSAML/lightSAML: LightSaml实现了基本的saml2.0数据模型类、与xml之间的序列化/反序列化（具有xml安全性和证书支持），以及对绑定的消息封装。包括单元测试。](https://github.com/lightSAML/lightSAML) 
 ### April 19, 2021 
 - [salvo-rs/salvo: Salvo 是一个简单的 Rust web 服务器框架](https://github.com/salvo-rs/salvo) 
 - [go-acme/lego: 让我们加密用 Go 编写的客户机和 ACME 库](https://github.com/go-acme/lego) 
