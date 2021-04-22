@@ -59,6 +59,7 @@
 - [tidwall/sjson: 在 Go 中快速设置 JSON 值](https://github.com/tidwall/sjson) 
 - [Jiannei/laravel-enum: 更方便地在项目中定义并使用枚举。](https://github.com/Jiannei/laravel-enum) 
 - [ukfast/laravel-health-check:  一个用于检查你的Laravel&Lumen应用程序的健康状况的包](https://github.com/ukfast/laravel-health-check) 
+- [thecodingmachine/safe8: 所有PHP函数，重写为抛出异常而不是返回false，现在用于php8](https://github.com/thecodingmachine/safe8) 
 ### April 21, 2021 
 - [tomnomnom/httprobe: 获取工作 HTTP 和 HTTPS 服务器的域和探测列表](https://github.com/tomnomnom/httprobe) 
 - [gaasedelen/lighthouse: 面向逆向工程的代码覆盖率资源管理器](https://github.com/gaasedelen/lighthouse) 
