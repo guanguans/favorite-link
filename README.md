@@ -53,6 +53,9 @@
 
 
 
+
+### April 22, 2021 
+- [lazybootsafe/Go-Learning-With-Hack: Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱](https://github.com/lazybootsafe/Go-Learning-With-Hack) 
 ### April 21, 2021 
 - [tomnomnom/httprobe: 获取工作 HTTP 和 HTTPS 服务器的域和探测列表](https://github.com/tomnomnom/httprobe) 
 - [gaasedelen/lighthouse: 面向逆向工程的代码覆盖率资源管理器](https://github.com/gaasedelen/lighthouse) 
