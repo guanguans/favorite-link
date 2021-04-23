@@ -62,6 +62,7 @@
 - [wechaty/php-wechaty: 是一个面向用 PHP 编写的聊天机器人开发者的对话式 SDK](https://github.com/wechaty/php-wechaty) 
 - [spatie/fork: 一种在 PHP 中并发运行代码的轻量级解决方案](https://github.com/spatie/fork) 
 - [WebStackPage/WebStackPage.github.io: ❤️静态响应式网址导航网站 - webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 
+- [FriendsOfFlarum/oauth: 允许用户使用GitHub、Twitter、Facebook等登录！](https://github.com/FriendsOfFlarum/oauth) 
 ### April 22, 2021 
 - [lazybootsafe/Go-Learning-With-Hack: Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱](https://github.com/lazybootsafe/Go-Learning-With-Hack) 
 - [tidwall/sjson: 在 Go 中快速设置 JSON 值](https://github.com/tidwall/sjson) 
