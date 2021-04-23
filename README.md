@@ -57,6 +57,7 @@
 
 ### April 23, 2021 
 - [mailru/easygo: 构建 go 应用程序的工具。](https://github.com/mailru/easygo) 
+- [pelletier/go-toml: Go library for the TOML file format](https://github.com/pelletier/go-toml) 
 ### April 22, 2021 
 - [lazybootsafe/Go-Learning-With-Hack: Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱](https://github.com/lazybootsafe/Go-Learning-With-Hack) 
 - [tidwall/sjson: 在 Go 中快速设置 JSON 值](https://github.com/tidwall/sjson) 
