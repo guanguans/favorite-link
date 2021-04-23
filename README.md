@@ -59,6 +59,7 @@
 - [mailru/easygo: 构建 go 应用程序的工具。](https://github.com/mailru/easygo) 
 - [pelletier/go-toml: Go library for the TOML file format](https://github.com/pelletier/go-toml) 
 - [wechaty/wechaty: Wechaty 是一个针对 Chatbot Makers 的 RPA (机器人过程自动化) SDK，它可以帮助您在6行 JavaScript、 Python、 Go 和 Java 中创建一个机器人，并提供跨平台支持，包括 Linux、 Windows、 MacOS 和 Docker。](https://github.com/wechaty/wechaty) 
+- [wechaty/php-wechaty: 是一个面向用 PHP 编写的聊天机器人开发者的对话式 SDK](https://github.com/wechaty/php-wechaty) 
 ### April 22, 2021 
 - [lazybootsafe/Go-Learning-With-Hack: Go-Learning-With-Hacker--go语言HackTools开发教程从入门到入狱](https://github.com/lazybootsafe/Go-Learning-With-Hack) 
 - [tidwall/sjson: 在 Go 中快速设置 JSON 值](https://github.com/tidwall/sjson) 
