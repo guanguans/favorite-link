@@ -66,6 +66,7 @@
 - [xjh22222228/nav: 🔍 发现导航 , 一个非常强大的静态导航网站(支持SEO)](https://github.com/xjh22222228/nav) 
 - [xjh22222228/gosh: 🛺 Golang实用程序库，带有其他函数，如JavaScript/Python！戈兰尼实用程序库。](https://github.com/xjh22222228/gosh) 
 - [xjh22222228/boomb: 基于 Github 轻松管理您的存储图库](https://github.com/xjh22222228/boomb) 
+- [dxcweb/watermark: canvas图片水印，用于身份证等个人信息添加仅用于XXX等字样保护个人信息](https://github.com/dxcweb/watermark) 
 ### April 23, 2021 
 - [mailru/easygo: 构建 go 应用程序的工具。](https://github.com/mailru/easygo) 
 - [pelletier/go-toml: Go library for the TOML file format](https://github.com/pelletier/go-toml) 
