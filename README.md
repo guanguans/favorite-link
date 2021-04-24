@@ -68,6 +68,7 @@
 - [xjh22222228/boomb: 基于 Github 轻松管理您的存储图库](https://github.com/xjh22222228/boomb) 
 - [dxcweb/watermark: canvas图片水印，用于身份证等个人信息添加仅用于XXX等字样保护个人信息](https://github.com/dxcweb/watermark) 
 - [SocialSisterYi/bilibili-API-collect: 哔哩哔哩-API收集整理](https://github.com/SocialSisterYi/bilibili-API-collect) 
+- [skip2/go-qrcode: ✨ 二维码编码器（Go）](https://github.com/skip2/go-qrcode) 
 ### April 23, 2021 
 - [mailru/easygo: 构建 go 应用程序的工具。](https://github.com/mailru/easygo) 
 - [pelletier/go-toml: Go library for the TOML file format](https://github.com/pelletier/go-toml) 
