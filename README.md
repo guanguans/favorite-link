@@ -61,6 +61,7 @@
 - [raycad/go-microservices: Golang微服务示例](https://github.com/raycad/go-microservices) 
 - [raycad/go-microservices: Golang微服务示例](https://github.com/raycad/go-microservices) 
 - [go-netty/go-netty: 基于 netty 的可扩展网络应用框架](https://github.com/go-netty/go-netty) 
+- [c99koder/personal-influxdb: 从各种 api 导入数据到 InfluxDB](https://github.com/c99koder/personal-influxdb) 
 ### April 23, 2021 
 - [mailru/easygo: 构建 go 应用程序的工具。](https://github.com/mailru/easygo) 
 - [pelletier/go-toml: Go library for the TOML file format](https://github.com/pelletier/go-toml) 
