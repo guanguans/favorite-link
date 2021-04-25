@@ -62,6 +62,7 @@
 - [nikolaydubina/import-graph: 收集有关依赖项的数据](https://github.com/nikolaydubina/import-graph) 
 - [notify-rs/notify: 🔭 Rust的跨平台文件系统通知库。](https://github.com/notify-rs/notify) 
 - [rakyll/gotest: go test with colors](https://github.com/rakyll/gotest) 
+- [xtaci/safebox: 一个统一的密钥管理系统，使生活更轻松。](https://github.com/xtaci/safebox) 
 ### April 24, 2021 
 - [teloxide/teloxide: 📮 一个优雅的电报机器人生锈的框架](https://github.com/teloxide/teloxide) 
 - [raycad/go-microservices: Golang微服务示例](https://github.com/raycad/go-microservices) 
