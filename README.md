@@ -60,6 +60,7 @@
 ### April 25, 2021 
 - [v-byte-cpu/sx: 快速，现代，易于使用的网络扫描仪](https://github.com/v-byte-cpu/sx) 
 - [nikolaydubina/import-graph: 收集有关依赖项的数据](https://github.com/nikolaydubina/import-graph) 
+- [notify-rs/notify: 🔭 Rust的跨平台文件系统通知库。](https://github.com/notify-rs/notify) 
 ### April 24, 2021 
 - [teloxide/teloxide: 📮 一个优雅的电报机器人生锈的框架](https://github.com/teloxide/teloxide) 
 - [raycad/go-microservices: Golang微服务示例](https://github.com/raycad/go-microservices) 
