@@ -63,6 +63,7 @@
 - [notify-rs/notify: 🔭 Rust的跨平台文件系统通知库。](https://github.com/notify-rs/notify) 
 - [rakyll/gotest: go test with colors](https://github.com/rakyll/gotest) 
 - [xtaci/safebox: 一个统一的密钥管理系统，使生活更轻松。](https://github.com/xtaci/safebox) 
+- [1340691923/ElasticView: 这是一个轻便的ElasticSearch可视化客户端](https://github.com/1340691923/ElasticView) 
 ### April 24, 2021 
 - [teloxide/teloxide: 📮 一个优雅的电报机器人生锈的框架](https://github.com/teloxide/teloxide) 
 - [raycad/go-microservices: Golang微服务示例](https://github.com/raycad/go-microservices) 
