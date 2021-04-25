@@ -64,6 +64,7 @@
 - [rakyll/gotest: go test with colors](https://github.com/rakyll/gotest) 
 - [xtaci/safebox: 一个统一的密钥管理系统，使生活更轻松。](https://github.com/xtaci/safebox) 
 - [1340691923/ElasticView: 这是一个轻便的ElasticSearch可视化客户端](https://github.com/1340691923/ElasticView) 
+- [hellobike/amazonriver: amazonriver 是一个将postgresql的实时数据同步到es或kafka的服务](https://github.com/hellobike/amazonriver) 
 ### April 24, 2021 
 - [teloxide/teloxide: 📮 一个优雅的电报机器人生锈的框架](https://github.com/teloxide/teloxide) 
 - [raycad/go-microservices: Golang微服务示例](https://github.com/raycad/go-microservices) 
