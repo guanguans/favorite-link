@@ -69,6 +69,7 @@
 - [gotify/cli: 用于将消息推送到 gotify/server 的命令行界面。](https://github.com/gotify/cli) 
 - [andydotxyz/chess: 使用Fyne工具箱的chess GUI构建。](https://github.com/andydotxyz/chess) 
 - [JetBrains/projector-docker: 使用Docker远程运行JetBrains IDEs](https://github.com/JetBrains/projector-docker) 
+- [guanguans/yii-dingtalk: 适配于 Yii 的钉钉 SDK](https://github.com/guanguans/yii-dingtalk) 
 ### April 28, 2021 
 - [thedevs-network/kutt: 免费的现代URL缩短器。](https://github.com/thedevs-network/kutt) 
 - [lifei6671/DouYinBot: 抖音无水印下载](https://github.com/lifei6671/DouYinBot) 
