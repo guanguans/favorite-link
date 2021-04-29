@@ -67,6 +67,7 @@
 - [muesli/go-app-paths: 允许您检索特定于平台的路径(比如 app-data、 cache、 config 和 logs 的目录)](https://github.com/muesli/go-app-paths) 
 - [xinliangnote/go-gin-api: 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。](https://github.com/xinliangnote/go-gin-api) 
 - [gotify/cli: 用于将消息推送到 gotify/server 的命令行界面。](https://github.com/gotify/cli) 
+- [andydotxyz/chess: 使用Fyne工具箱的chess GUI构建。](https://github.com/andydotxyz/chess) 
 ### April 28, 2021 
 - [thedevs-network/kutt: 免费的现代URL缩短器。](https://github.com/thedevs-network/kutt) 
 - [lifei6671/DouYinBot: 抖音无水印下载](https://github.com/lifei6671/DouYinBot) 
