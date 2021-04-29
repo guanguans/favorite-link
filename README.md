@@ -65,6 +65,7 @@
 - [在控制台中显示您的Laravel路由，但要使其美观。😎](https://github.com/Wulfheart/pretty-routes) 
 - [statamic/ssg: 官方 Statamic 3静态站点发生器包](https://github.com/statamic/ssg) 
 - [muesli/go-app-paths: 允许您检索特定于平台的路径(比如 app-data、 cache、 config 和 logs 的目录)](https://github.com/muesli/go-app-paths) 
+- [xinliangnote/go-gin-api: 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。](https://github.com/xinliangnote/go-gin-api) 
 ### April 28, 2021 
 - [thedevs-network/kutt: 免费的现代URL缩短器。](https://github.com/thedevs-network/kutt) 
 - [lifei6671/DouYinBot: 抖音无水印下载](https://github.com/lifei6671/DouYinBot) 
