@@ -63,6 +63,7 @@
 
 ### April 30, 2021 
 - [justjavac/ali-words: 互联网黑话词汇表，包含“赋能、抓手、闭环、沉淀、打通”等阿里味儿词汇](https://github.com/justjavac/ali-words) 
+- [brendangregg/perf-tools: 基于 Linux perf _ events (aka perf)和 ftrace 的性能分析工具](https://github.com/brendangregg/perf-tools) 
 ### April 29, 2021 
 - [woopen/nplayer: 无任何第三方运行时依赖，兼容 IE11，支持 SSR。高度可定制，可二次开发。和 B 站一样体验的弹幕系统。可以接入任何流媒体，支持直播。](https://github.com/woopen/nplayer) 
 - [在控制台中显示您的Laravel路由，但要使其美观。😎](https://github.com/Wulfheart/pretty-routes) 
