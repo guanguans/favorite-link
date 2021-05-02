@@ -62,6 +62,9 @@
 
 
 
+
+### May 2, 2021 
+- [zhorton34/authorize-slim-4: Slim 4授权教程](https://github.com/zhorton34/authorize-slim-4) 
 ### May 1, 2021 
 - [uber/aresdb: 一个 gpu 驱动的实时分析存储和查询引擎。](https://github.com/uber/aresdb) 
 - [minio/minio-go: MinIO客户端SDK for Go](https://github.com/minio/minio-go) 
