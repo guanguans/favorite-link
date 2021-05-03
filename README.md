@@ -69,6 +69,7 @@
 - [GemGeorge/SniperPhish: 网络钓鱼工具包](https://github.com/GemGeorge/SniperPhish) 
 - [sabre-io/xml: \sabre/xml是一个您可能并不讨厌的xml库。](https://github.com/sabre-io/xml) 
 - [sabre-io/uri: 🌏 在PHP中使用uri的函数](https://github.com/sabre-io/uri) 
+- [katherinepeterson/readme.so: 是一个在线编辑器，帮助开发人员为他们的项目制作 README.md。](https://github.com/katherinepeterson/readme.so) 
 ### May 2, 2021 
 - [zhorton34/authorize-slim-4: Slim 4授权教程](https://github.com/zhorton34/authorize-slim-4) 
 - [pointlander/peg: Peg，解析表达式语法，是Packrat解析器生成器的一个实现。](https://github.com/pointlander/peg) 
