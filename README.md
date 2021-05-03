@@ -68,6 +68,7 @@
 - [huangwei9527/Ink-wash-docs: 水墨文档，一款基于egg+vue开发的在线文档管理平台](https://github.com/huangwei9527/Ink-wash-docs) 
 - [GemGeorge/SniperPhish: 网络钓鱼工具包](https://github.com/GemGeorge/SniperPhish) 
 - [sabre-io/xml: \sabre/xml是一个您可能并不讨厌的xml库。](https://github.com/sabre-io/xml) 
+- [sabre-io/uri: 🌏 在PHP中使用uri的函数](https://github.com/sabre-io/uri) 
 ### May 2, 2021 
 - [zhorton34/authorize-slim-4: Slim 4授权教程](https://github.com/zhorton34/authorize-slim-4) 
 - [pointlander/peg: Peg，解析表达式语法，是Packrat解析器生成器的一个实现。](https://github.com/pointlander/peg) 
