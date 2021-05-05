@@ -69,6 +69,7 @@
 ### May 5, 2021 
 - [tobyzerner/json-api-server: PHP 中的 JSON: API 服务器实现。](https://github.com/tobyzerner/json-api-server) 
 - [BabDev/Pagerfanta: PHP 应用程序的分页库，支持多个数据提供程序](https://github.com/BabDev/Pagerfanta) 
+- [liyupi/code-nav: 💎 专业的编程导航，高效发现优质编程学习资源！公众号『 编程导航 』](https://github.com/liyupi/code-nav) 
 ### May 4, 2021 
 - [XAMPPRocky/octocrab: 一个现代的，可扩展的 GitHub API 客户端。](https://github.com/XAMPPRocky/octocrab) 
 ### May 3, 2021 
