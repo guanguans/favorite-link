@@ -72,6 +72,7 @@
 - [liyupi/code-nav: 💎 专业的编程导航，高效发现优质编程学习资源！公众号『 编程导航 』](https://github.com/liyupi/code-nav) 
 - [nnjun/BlackBox: 黑盒BlackBox，是一款虚拟引擎，支持5.0～11.0，可以在Android上克隆、运行虚拟应用，拥有免安装运行能力，已集成Xposed框架。黑盒可以掌控被运行的虚拟应用，做任何想做的事情。](https://github.com/nnjun/BlackBox) 
 - [xelabs/go-mysqlstack: 在 Go (golang)中实现 MySQL 协议库](https://github.com/xelabs/go-mysqlstack) 
+- [spatie/file-system-watcher: 使用 PHP 监视文件系统中的更改](https://github.com/spatie/file-system-watcher) 
 ### May 4, 2021 
 - [XAMPPRocky/octocrab: 一个现代的，可扩展的 GitHub API 客户端。](https://github.com/XAMPPRocky/octocrab) 
 ### May 3, 2021 
