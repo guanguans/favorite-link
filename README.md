@@ -69,6 +69,7 @@
 
 ### May 7, 2021 
 - [create-dmg/create-dmg: 用于构建精美DMG的Shell脚本](https://github.com/create-dmg/create-dmg) 
+- [kartik-v/bootstrap-fileinput: 用于 Bootstrap 4.x./3.x 的增强型 HTML 5文件输入，带有文件预览、多重选择和更多功能。](https://github.com/kartik-v/bootstrap-fileinput) 
 ### May 5, 2021 
 - [tobyzerner/json-api-server: PHP 中的 JSON: API 服务器实现。](https://github.com/tobyzerner/json-api-server) 
 - [BabDev/Pagerfanta: PHP 应用程序的分页库，支持多个数据提供程序](https://github.com/BabDev/Pagerfanta) 
