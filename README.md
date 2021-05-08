@@ -73,6 +73,7 @@
 - [php-coveralls/php-coveralls: Coveralls API 的 PHP 客户端库。](https://github.com/php-coveralls/php-coveralls) 
 - [princjef/gomarkdoc: Generate markdown documentation for Go (golang) code](https://github.com/princjef/gomarkdoc) 
 - [yii2tech/ar-softdelete: ActiveRecord 的软删除行为](https://github.com/yii2tech/ar-softdelete) 
+- [yii2tech/crontab: crontab支持Yii2扩展](https://github.com/yii2tech/crontab) 
 ### May 7, 2021 
 - [create-dmg/create-dmg: 用于构建精美DMG的Shell脚本](https://github.com/create-dmg/create-dmg) 
 - [kartik-v/bootstrap-fileinput: 用于 Bootstrap 4.x./3.x 的增强型 HTML 5文件输入，带有文件预览、多重选择和更多功能。](https://github.com/kartik-v/bootstrap-fileinput) 
