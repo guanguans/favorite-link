@@ -72,6 +72,7 @@
 ### May 9, 2021 
 - [spatie/emoji: 程序与表情符号的工作](https://github.com/spatie/emoji) 
 - [caddyserver/nginx-adapter: 使用NGINX配置运行Caddy](https://github.com/caddyserver/nginx-adapter) 
+- [blmoistawinde/HarvestText: 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法](https://github.com/blmoistawinde/HarvestText) 
 ### May 8, 2021 
 - [google/zx: 一个编写更好脚本的工具](https://github.com/google/zx) 
 - [php-coveralls/php-coveralls: Coveralls API 的 PHP 客户端库。](https://github.com/php-coveralls/php-coveralls) 
