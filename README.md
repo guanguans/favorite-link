@@ -75,6 +75,7 @@
 - [cesanta/elk: 一种面向嵌入式系统的低功耗JavaScript引擎](https://github.com/cesanta/elk) 
 - [golang-templates/seed: Go application GitHub repository template..](https://github.com/golang-templates/seed) 
 - [milvus-io/milvus: Milvus是一个开源的向量数据库，用于支持人工智能应用程序和嵌入相似性搜索](https://github.com/milvus-io/milvus) 
+- [wechatsync/Wechatsync: 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力](https://github.com/wechatsync/Wechatsync) 
 ### May 9, 2021 
 - [spatie/emoji: 程序与表情符号的工作](https://github.com/spatie/emoji) 
 - [caddyserver/nginx-adapter: 使用NGINX配置运行Caddy](https://github.com/caddyserver/nginx-adapter) 
