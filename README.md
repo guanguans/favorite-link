@@ -73,6 +73,7 @@
 ### May 10, 2021 
 - [arl/statsviz: 在浏览器中实时显示 Go 应用程序运行时统计数据(GC、 MemStats 等)](https://github.com/arl/statsviz) 
 - [cesanta/elk: 一种面向嵌入式系统的低功耗JavaScript引擎](https://github.com/cesanta/elk) 
+- [golang-templates/seed: Go application GitHub repository template..](https://github.com/golang-templates/seed) 
 ### May 9, 2021 
 - [spatie/emoji: 程序与表情符号的工作](https://github.com/spatie/emoji) 
 - [caddyserver/nginx-adapter: 使用NGINX配置运行Caddy](https://github.com/caddyserver/nginx-adapter) 
