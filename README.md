@@ -74,6 +74,7 @@
 - [arl/statsviz: 在浏览器中实时显示 Go 应用程序运行时统计数据(GC、 MemStats 等)](https://github.com/arl/statsviz) 
 - [cesanta/elk: 一种面向嵌入式系统的低功耗JavaScript引擎](https://github.com/cesanta/elk) 
 - [golang-templates/seed: Go application GitHub repository template..](https://github.com/golang-templates/seed) 
+- [milvus-io/milvus: Milvus是一个开源的向量数据库，用于支持人工智能应用程序和嵌入相似性搜索](https://github.com/milvus-io/milvus) 
 ### May 9, 2021 
 - [spatie/emoji: 程序与表情符号的工作](https://github.com/spatie/emoji) 
 - [caddyserver/nginx-adapter: 使用NGINX配置运行Caddy](https://github.com/caddyserver/nginx-adapter) 
