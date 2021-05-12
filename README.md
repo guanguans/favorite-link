@@ -74,6 +74,7 @@
 
 ### May 12, 2021 
 - [mmcloughlin/profile: Go的简单分析](https://github.com/mmcloughlin/profile) 
+- [fogleman/rbgg: 从纸张图像中分离并去除背景梯度。](https://github.com/fogleman/rbgg) 
 ### May 11, 2021 
 - [zaphoyd/websocketpp: C++客户端发送消息的客户端/服务器库](https://github.com/zaphoyd/websocketpp) 
 - [nical/lyon: 使用路径镶嵌在生锈的 GPU 上的二维图形渲染。](https://github.com/nical/lyon) 
