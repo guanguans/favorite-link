@@ -78,6 +78,7 @@
 - [Masterminds/squirrel: golang的Fluent SQL生成](https://github.com/Masterminds/squirrel) 
 - [ipinfo/cli: IPinfo API的官方命令行接口（IP地理位置和其他类型的IP数据）](https://github.com/ipinfo/cli) 
 - [liamg/aminal: Go中的现代跨平台终端仿真器](https://github.com/liamg/aminal) 
+- [y123456yz/reading-and-annotate-mongodb-3.6: 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，近期持续更新](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) 
 ### May 11, 2021 
 - [zaphoyd/websocketpp: C++客户端发送消息的客户端/服务器库](https://github.com/zaphoyd/websocketpp) 
 - [nical/lyon: 使用路径镶嵌在生锈的 GPU 上的二维图形渲染。](https://github.com/nical/lyon) 
