@@ -81,6 +81,7 @@
 - [yosuke-furukawa/json5: golang实现的JSON5](https://github.com/yosuke-furukawa/json5) 
 - [hjson/hjson-php: 适用于PHP的Hjson](https://github.com/hjson/hjson-php) 
 - [hjson/hjson-go: Hjson for Go](https://github.com/hjson/hjson-go) 
+- [zeevin/libiocm: 中国电信物联网开放平台API（北向）对SDK](https://github.com/zeevin/libiocm) 
 ### May 12, 2021 
 - [mmcloughlin/profile: Go的简单分析](https://github.com/mmcloughlin/profile) 
 - [fogleman/rbgg: 从纸张图像中分离并去除背景梯度。](https://github.com/fogleman/rbgg) 
