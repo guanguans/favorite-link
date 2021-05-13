@@ -78,6 +78,7 @@
 - [undefinedor/YaYFramework: 基于php7.4重构yii2](https://github.com/undefinedor/YaYFramework) 
 - [FriendsOfPHP/pickle: PHP 扩展安装程序](https://github.com/FriendsOfPHP/pickle) 
 - [rsc/tmplfunc: Go模板作为函数被调用](https://github.com/rsc/tmplfunc) 
+- [yosuke-furukawa/json5: golang实现的JSON5](https://github.com/yosuke-furukawa/json5) 
 ### May 12, 2021 
 - [mmcloughlin/profile: Go的简单分析](https://github.com/mmcloughlin/profile) 
 - [fogleman/rbgg: 从纸张图像中分离并去除背景梯度。](https://github.com/fogleman/rbgg) 
