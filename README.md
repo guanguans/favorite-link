@@ -76,6 +76,7 @@
 
 ### May 14, 2021 
 - [uber-go/goleak: Goroutine检漏仪](https://github.com/uber-go/goleak) 
+- [dealerinspire/laravel-redlock: 用于分布式锁管理的 Redis Redlock 算法的 laravel 友好实现。](https://github.com/dealerinspire/laravel-redlock) 
 ### May 13, 2021 
 - [undefinedor/GoodPhpDeveloper: 努力成为一个优秀的PHP开发](https://github.com/undefinedor/GoodPhpDeveloper) 
 - [undefinedor/YaYFramework: 基于php7.4重构yii2](https://github.com/undefinedor/YaYFramework) 
