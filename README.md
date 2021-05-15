@@ -81,6 +81,7 @@
 - [goflyfox/gmanager: 基于gf框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志](https://github.com/goflyfox/gmanager) 
 - [bernardphp/bernard: Bernard是一个多后端PHP库，用于创建后台作业以供以后处理。](https://github.com/bernardphp/bernard) 
 - [ardanlabs/service: 用 Go 编写 web 服务的入门代码](https://github.com/ardanlabs/service) 
+- [Indatus/dispatcher: Dispatcher是一个Laravel artisan命令调度工具，用于在项目中调度artisan命令，因此在部署时不需要触碰crontab。](https://github.com/Indatus/dispatcher) 
 ### May 14, 2021 
 - [uber-go/goleak: Goroutine检漏仪](https://github.com/uber-go/goleak) 
 - [dealerinspire/laravel-redlock: 用于分布式锁管理的 Redis Redlock 算法的 laravel 友好实现。](https://github.com/dealerinspire/laravel-redlock) 
