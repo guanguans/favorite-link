@@ -77,6 +77,7 @@
 
 ### May 15, 2021 
 - [lettier/3d-game-shaders-for-beginners:🎮 一步一步指南，以实现SSAO，景深，照明，正常映射，以及更多的3D游戏。](https://github.com/lettier/3d-game-shaders-for-beginners) 
+- [signintech/gopdf: 一个用 Go lang 编写的用于生成 PDF 的简单库](https://github.com/signintech/gopdf) 
 ### May 14, 2021 
 - [uber-go/goleak: Goroutine检漏仪](https://github.com/uber-go/goleak) 
 - [dealerinspire/laravel-redlock: 用于分布式锁管理的 Redis Redlock 算法的 laravel 友好实现。](https://github.com/dealerinspire/laravel-redlock) 
