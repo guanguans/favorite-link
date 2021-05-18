@@ -81,6 +81,7 @@
 ### May 18, 2021 
 - [work-helper/command-search-alfred: alfred命令搜索workflow](https://github.com/work-helper/command-search-alfred) 
 - [amrshawky/laravel-currency: 用于当前和历史货币汇率和加密汇率的Laravel包。基于免费API exchangerate.host](https://github.com/amrshawky/laravel-currency) 
+- [akavel/rsrc: 在 Windows 的 Go 程序中嵌入.ico 和 manifest 资源的工具。](https://github.com/akavel/rsrc) 
 ### May 17, 2021 
 - [sokil/php-mongo: PHP ODM for MongoDB.](https://github.com/sokil/php-mongo) 
 - [armon/go-socks5: Golang的SOCKS5服务器](https://github.com/armon/go-socks5) 
