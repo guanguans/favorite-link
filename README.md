@@ -83,6 +83,7 @@
 - [Sakurasan/scf-proxy: 云函数代理服务](https://github.com/Sakurasan/scf-proxy) 
 - [satan1a/awesome-cybersecurity-blueteam-cn: 网络安全 · 攻防对抗 · 蓝队清单，中文版](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) 
 - [hpcloud/tail: Go软件包，用于读取持续更新的文件（tail -f）](https://github.com/hpcloud/tail) 
+- [VictoriaMetrics/fastcache: 快速线程安全内存缓存中的大量项目去。最小化GC开销](https://github.com/VictoriaMetrics/fastcache) 
 ### May 18, 2021 
 - [work-helper/command-search-alfred: alfred命令搜索workflow](https://github.com/work-helper/command-search-alfred) 
 - [amrshawky/laravel-currency: 用于当前和历史货币汇率和加密汇率的Laravel包。基于免费API exchangerate.host](https://github.com/amrshawky/laravel-currency) 
