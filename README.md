@@ -86,6 +86,7 @@
 - [phpbench/phpbench: PHP基准测试框架](https://github.com/phpbench/phpbench) 
 - [FunnyWolf/Viper: Viper (炫彩蛇) 开源图形化内网渗透工具](https://github.com/FunnyWolf/Viper) 
 - [huiyadanli/RevokeMsgPatcher: PC版微信/QQ/TIM防撤回补丁](https://github.com/huiyadanli/RevokeMsgPatcher) 
+- [heiyeluren/koala: koala通用频率控制系统，一个应对所有频次控制高度配置化的通用反作弊系统，高性能可扩展。 (the require golang >= 1.0)](https://github.com/heiyeluren/koala) 
 ### May 19, 2021 
 - [Sakurasan/scf-proxy: 云函数代理服务](https://github.com/Sakurasan/scf-proxy) 
 - [satan1a/awesome-cybersecurity-blueteam-cn: 网络安全 · 攻防对抗 · 蓝队清单，中文版](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) 
