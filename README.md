@@ -86,6 +86,7 @@
 - [spatie/dns: 检索 DNS 记录](https://github.com/spatie/dns) 
 - [valyala/bytebufferpool: 防内存浪费字节缓冲池](https://github.com/valyala/bytebufferpool) 
 - [JohnStarich/go-wasm: Go浏览器中的IDE](https://github.com/JohnStarich/go-wasm) 
+- [takayama-lily/vscode-qq: 基于安卓QQ协议的vscode-qq扩展](https://github.com/takayama-lily/vscode-qq) 
 ### May 20, 2021 
 - [fabiolb/fabio: 使负载平衡变得简单](https://github.com/fabiolb/fabio) 
 - [PuerkitoBio/gocrawl: 并行网络爬虫。](https://github.com/PuerkitoBio/gocrawl) 
