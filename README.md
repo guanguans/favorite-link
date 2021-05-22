@@ -84,6 +84,7 @@
 
 ### May 22, 2021 
 - [go-mysql-org/go-mysql: 一个功能强大的 mysql 工具集](https://github.com/go-mysql-org/go-mysql) 
+- [rockymadden/slack-cli: 通过 bash 实现强大的 Slack CLI。丰富的消息传递、上传、发帖。](https://github.com/rockymadden/slack-cli) 
 ### May 21, 2021 
 - [struCoder/pmgo: Pmgo 是 Golang 应用程序的流程管理器。](https://github.com/struCoder/pmgo) 
 - [spatie/dns: 检索 DNS 记录](https://github.com/spatie/dns) 
