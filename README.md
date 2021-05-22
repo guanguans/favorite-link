@@ -90,6 +90,7 @@
 - [umputun/reproxy: 简单边缘服务器/反向代理](https://github.com/umputun/reproxy) 
 - [hua1995116/react-resume-site: 木及简历|一款用 `Markdown`就能写出好看简历(resume)的在线工具。](https://github.com/hua1995116/react-resume-site) 
 - [stephenafamo/goldmark-pdf: 用于 goldmark markdown 解析器的 PDF 渲染器。](https://github.com/stephenafamo/goldmark-pdf) 
+- [lqs/sqlingo: 一个轻量级的 DSL & ORM，帮助您在 Go 中编写 SQL。](https://github.com/lqs/sqlingo) 
 ### May 21, 2021 
 - [struCoder/pmgo: Pmgo 是 Golang 应用程序的流程管理器。](https://github.com/struCoder/pmgo) 
 - [spatie/dns: 检索 DNS 记录](https://github.com/spatie/dns) 
