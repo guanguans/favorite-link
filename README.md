@@ -86,6 +86,7 @@
 - [go-mysql-org/go-mysql: 一个功能强大的 mysql 工具集](https://github.com/go-mysql-org/go-mysql) 
 - [rockymadden/slack-cli: 通过 bash 实现强大的 Slack CLI。丰富的消息传递、上传、发帖。](https://github.com/rockymadden/slack-cli) 
 - [nikic/PHP-Fuzzer: 这个库实现了一个fuzzer for PHP，它可以通过向库（特别是解析库）提供“随机”输入来查找库中的bug。](https://github.com/nikic/PHP-Fuzzer) 
+- [weepsafe/phpshell: php大马|php一句话|webshell|渗透](https://github.com/weepsafe/phpshell) 
 ### May 21, 2021 
 - [struCoder/pmgo: Pmgo 是 Golang 应用程序的流程管理器。](https://github.com/struCoder/pmgo) 
 - [spatie/dns: 检索 DNS 记录](https://github.com/spatie/dns) 
