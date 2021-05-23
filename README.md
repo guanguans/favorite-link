@@ -86,6 +86,7 @@
 ### May 23, 2021 
 - [hassankhan/config: Config 是一个轻量级的配置文件加载器，支持 PHP、 INI、 XML、 JSON 和 YAML 文件](https://github.com/hassankhan/config) 
 - [uber/zanzibar: 一个构建系统和配置系统来生成有版本控制的 API 网关。](https://github.com/uber/zanzibar) 
+- [thomaspoignant/go-feature-flag: 一个简单而完整的功能标志解决方案，不需要安装任何复杂的后端系统，只需要一个文件作为后端。](https://github.com/thomaspoignant/go-feature-flag) 
 ### May 22, 2021 
 - [go-mysql-org/go-mysql: 一个功能强大的 mysql 工具集](https://github.com/go-mysql-org/go-mysql) 
 - [rockymadden/slack-cli: 通过 bash 实现强大的 Slack CLI。丰富的消息传递、上传、发帖。](https://github.com/rockymadden/slack-cli) 
