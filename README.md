@@ -89,6 +89,7 @@
 - [SigureMo/bilili: B站视频（含番剧）、弹幕下载器](https://github.com/SigureMo/bilili) 
 - [coollabsio/coolify: 一个开源的，无麻烦的，自我稳定的 Heroku & Netlify 替代品](https://github.com/coollabsio/coolify) 
 - [shenghui0779/yiigo: 🔥 Go 轻量级开发通用库 🚀🚀🚀](https://github.com/shenghui0779/yiigo) 
+- [slope-it/clock-mock: 一个PHP库，用于在测试中模拟日期和时间](https://github.com/slope-it/clock-mock) 
 ### May 23, 2021 
 - [hassankhan/config: Config 是一个轻量级的配置文件加载器，支持 PHP、 INI、 XML、 JSON 和 YAML 文件](https://github.com/hassankhan/config) 
 - [uber/zanzibar: 一个构建系统和配置系统来生成有版本控制的 API 网关。](https://github.com/uber/zanzibar) 
