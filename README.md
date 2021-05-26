@@ -87,6 +87,7 @@
 
 ### May 26, 2021 
 - [Tencent/secguide: 面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide) 
+- [golandscape/sat: 高性能简繁体转换](https://github.com/golandscape/sat) 
 ### May 25, 2021 
 - [justjavac/android-app-build-with: 流行 App 使用了哪些开源项目？](https://github.com/justjavac/android-app-build-with) 
 - [SigureMo/bilili: B站视频（含番剧）、弹幕下载器](https://github.com/SigureMo/bilili) 
