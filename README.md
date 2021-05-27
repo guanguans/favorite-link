@@ -93,6 +93,7 @@
 - [marmotedu/iam: 极客时间《Go 语言项目开发实战》教学项目](https://github.com/marmotedu/iam) 
 - [zouyx/agollo: 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)](https://github.com/zouyx/agollo) 
 - [zouyx/agollo: 方便Golang接入配置中心框架 Apollo 所开发的Golang版本客户端。](https://github.com/zouyx/agollo) 
+- [go-redis/redis_rate: go redis的速率限制](https://github.com/go-redis/redis_rate) 
 ### May 26, 2021 
 - [Tencent/secguide: 面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide) 
 - [golandscape/sat: 高性能简繁体转换](https://github.com/golandscape/sat) 
