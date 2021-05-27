@@ -97,6 +97,7 @@
 - [go-programming-tour-book/blog-service: 《Go 语言编程之旅：一起用 Go 做项目》第二章：博客程序（HTTP Server）](https://github.com/go-programming-tour-book/blog-service) 
 - [codenotary/immudb: Imudb-世界上最快的不可变数据库](https://github.com/codenotary/immudb) 
 - [dnephin/pre-commit-golang: Golang hooks for pre-commit](https://github.com/dnephin/pre-commit-golang) 
+- [qiangxue/go-rest-api: 遵循 SOLID 原则和 Clean 架构的惯用 Go REST API 入门工具包(样板文件)](https://github.com/qiangxue/go-rest-api) 
 ### May 26, 2021 
 - [Tencent/secguide: 面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide) 
 - [golandscape/sat: 高性能简繁体转换](https://github.com/golandscape/sat) 
