@@ -94,6 +94,7 @@
 - [zouyx/agollo: 🚀Go client for ctrip/apollo (https://github.com/ctripcorp/apollo)](https://github.com/zouyx/agollo) 
 - [zouyx/agollo: 方便Golang接入配置中心框架 Apollo 所开发的Golang版本客户端。](https://github.com/zouyx/agollo) 
 - [go-redis/redis_rate: go redis的速率限制](https://github.com/go-redis/redis_rate) 
+- [go-programming-tour-book/blog-service: 《Go 语言编程之旅：一起用 Go 做项目》第二章：博客程序（HTTP Server）](https://github.com/go-programming-tour-book/blog-service) 
 ### May 26, 2021 
 - [Tencent/secguide: 面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide) 
 - [golandscape/sat: 高性能简繁体转换](https://github.com/golandscape/sat) 
