@@ -85,6 +85,9 @@
 
 
 
+
+### May 27, 2021 
+- [JoggApp/laravel-natural-language: 这个软件包使得在你的 laravel 应用程序中使用 Google 自然语言 API 成为了一件轻而易举的事情，至少不需要配置，语法简洁，并且有一个一致的包 API。](https://github.com/JoggApp/laravel-natural-language) 
 ### May 26, 2021 
 - [Tencent/secguide: 面向开发人员梳理的代码安全指南](https://github.com/Tencent/secguide) 
 - [golandscape/sat: 高性能简繁体转换](https://github.com/golandscape/sat) 
