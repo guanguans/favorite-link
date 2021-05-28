@@ -95,6 +95,7 @@
 - [travisjeffery/jocko: 通过内置协作在 Golang 实现 Kafka (No ZK dep，单二进制安装，Cloud Native)](https://github.com/travisjeffery/jocko) 
 - [distribution/distribution: 打包，运送，存储和交付容器内容的工具包](https://github.com/distribution/distribution) 
 - [gorilla/mux: 一个强大的 HTTP 路由器和 URL 匹配器，用于构建 Go web 服务器](https://github.com/gorilla/mux) 
+- [snowlyg/go-tenancy: 快速实现 SaaS 多租户平台项目](https://github.com/snowlyg/go-tenancy) 
 ### May 27, 2021 
 - [JoggApp/laravel-natural-language: 这个软件包使得在你的 laravel 应用程序中使用 Google 自然语言 API 成为了一件轻而易举的事情，至少不需要配置，语法简洁，并且有一个一致的包 API。](https://github.com/JoggApp/laravel-natural-language) 
 - [cortexproject/cortex: 一个横向可扩展的、高可用性的、多租户的长期 Prometheus。](https://github.com/cortexproject/cortex) 
