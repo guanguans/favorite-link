@@ -92,6 +92,7 @@
 - [hammerstonedev/airdrop: 一个 Laravel 包，通过尽可能跳过资产编译来加速部署。](https://github.com/hammerstonedev/airdrop) 
 - [dghubble/sling: 用于创建和发送API请求的Go-HTTP客户端库](https://github.com/dghubble/sling) 
 - [dundee/gdu: 使用Go编写的具有控制台界面的磁盘使用情况分析器](https://github.com/dundee/gdu) 
+- [roseduan/rosedb: 、Go 语言实现的 k-v 数据库项目](https://github.com/roseduan/rosedb) 
 ### May 28, 2021 
 - [squidfunk/mkdocs-material: A Material Design theme for MkDocs](https://github.com/squidfunk/mkdocs-material) 
 - [spatie/ignition: 一个漂亮的 PHP 应用程序错误页面](https://github.com/spatie/ignition) 
