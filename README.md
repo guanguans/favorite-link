@@ -87,6 +87,9 @@
 
 
 
+
+### May 29, 2021 
+- [hammerstonedev/airdrop: 一个 Laravel 包，通过尽可能跳过资产编译来加速部署。](https://github.com/hammerstonedev/airdrop) 
 ### May 28, 2021 
 - [squidfunk/mkdocs-material: A Material Design theme for MkDocs](https://github.com/squidfunk/mkdocs-material) 
 - [spatie/ignition: 一个漂亮的 PHP 应用程序错误页面](https://github.com/spatie/ignition) 
