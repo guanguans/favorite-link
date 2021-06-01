@@ -95,6 +95,7 @@
 - [TheLocehiliosan/yadm: 另一个 Dotfiles 管理器](https://github.com/TheLocehiliosan/yadm) 
 - [jcmoraisjr/haproxy-ingress: HAProxy 负载均衡器的入口控制器实现。](https://github.com/jcmoraisjr/haproxy-ingress) 
 - [open-policy-agent/gatekeeper: Kubernetes 的策略控制器](https://github.com/open-policy-agent/gatekeeper) 
+- [JetBrains/intellij-sdk-code-samples: 通过试验我们的代码示例，了解如何使用 IntelliJ Platform SDK 为 JetBrains 产品构建插件。 这些示例向您展示了功能的工作原理并帮助您快速启动插件。](https://github.com/JetBrains/intellij-sdk-code-samples) 
 ### May 31, 2021 
 - [eddycjy/go777: 【Go 学习指南】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全](https://github.com/eddycjy/go777) 
 - [sourcegraph/checkup: 分布式、无锁、自托管的健康检查和状态页](https://github.com/sourcegraph/checkup) 
