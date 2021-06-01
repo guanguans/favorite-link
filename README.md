@@ -89,6 +89,9 @@
 
 
 
+
+### June 1, 2021 
+- [orly/README_ZH.md :O'RLY 封面工厂是一个娱乐性的书籍封面生成器](https://github.com/nanmu42/orly/blob/master/README_ZH.md) 
 ### May 31, 2021 
 - [eddycjy/go777: 【Go 学习指南】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全](https://github.com/eddycjy/go777) 
 - [sourcegraph/checkup: 分布式、无锁、自托管的健康检查和状态页](https://github.com/sourcegraph/checkup) 
