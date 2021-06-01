@@ -93,6 +93,7 @@
 ### June 1, 2021 
 - [orly/README_ZH.md :O'RLY 封面工厂是一个娱乐性的书籍封面生成器](https://github.com/nanmu42/orly/blob/master/README_ZH.md) 
 - [TheLocehiliosan/yadm: 另一个 Dotfiles 管理器](https://github.com/TheLocehiliosan/yadm) 
+- [jcmoraisjr/haproxy-ingress: HAProxy 负载均衡器的入口控制器实现。](https://github.com/jcmoraisjr/haproxy-ingress) 
 ### May 31, 2021 
 - [eddycjy/go777: 【Go 学习指南】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全](https://github.com/eddycjy/go777) 
 - [sourcegraph/checkup: 分布式、无锁、自托管的健康检查和状态页](https://github.com/sourcegraph/checkup) 
