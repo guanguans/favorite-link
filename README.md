@@ -99,6 +99,7 @@
 - [mix-basic/delayer: 🌶️ 基于 Redis 的延迟队列中间件，采用 Golang 开发，支持 PHP、Golang 等多种语言客户端](https://github.com/mix-basic/delayer) 
 - [shuchkin/simplexlsxgen: 将数据导出到Excel。PHP XLSX生成器](https://github.com/shuchkin/simplexlsxgen) 
 - [bastinald/ui: Laravel + Livewire + Bootstrap 5 UI 入门套件。](https://github.com/bastinald/ui) 
+- [phpreel/phpreel: phpReel 是一个免费的，麻省理工学院开源的基于订阅的视频流服务，它可以让你创建你的平台，以电影或系列的形式发布视频内容。](https://github.com/phpreel/phpreel) 
 ### May 31, 2021 
 - [eddycjy/go777: 【Go 学习指南】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全](https://github.com/eddycjy/go777) 
 - [sourcegraph/checkup: 分布式、无锁、自托管的健康检查和状态页](https://github.com/sourcegraph/checkup) 
