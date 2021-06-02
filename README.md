@@ -96,6 +96,7 @@
 - [megaease/easegress: 全方位的流量编排系统](https://github.com/megaease/easegress) 
 - [ttroy50/cmake-examples: 有用的 CMake 示例](https://github.com/ttroy50/cmake-examples) 
 - [databus23/helm-diff: 一个 helm 插件，显示了解释 helm 升级会改变什么的差异](https://github.com/databus23/helm-diff) 
+- [pelletier/go-toml: TOML 文件格式的 Go 库](https://github.com/pelletier/go-toml) 
 ### June 1, 2021 
 - [orly/README_ZH.md :O'RLY 封面工厂是一个娱乐性的书籍封面生成器](https://github.com/nanmu42/orly/blob/master/README_ZH.md) 
 - [TheLocehiliosan/yadm: 另一个 Dotfiles 管理器](https://github.com/TheLocehiliosan/yadm) 
