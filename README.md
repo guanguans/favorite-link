@@ -90,6 +90,9 @@
 
 
 
+
+### June 2, 2021 
+- [mdempsky/maligned: 检测 Go 结构体的工具，如果它们的字段被排序，将占用更少的内存。](https://github.com/mdempsky/maligned) 
 ### June 1, 2021 
 - [orly/README_ZH.md :O'RLY 封面工厂是一个娱乐性的书籍封面生成器](https://github.com/nanmu42/orly/blob/master/README_ZH.md) 
 - [TheLocehiliosan/yadm: 另一个 Dotfiles 管理器](https://github.com/TheLocehiliosan/yadm) 
