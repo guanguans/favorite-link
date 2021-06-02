@@ -98,6 +98,7 @@
 - [databus23/helm-diff: 一个 helm 插件，显示了解释 helm 升级会改变什么的差异](https://github.com/databus23/helm-diff) 
 - [pelletier/go-toml: TOML 文件格式的 Go 库](https://github.com/pelletier/go-toml) 
 - [tylertreat/chan: Go 通道的纯 C 实现。](https://github.com/tylertreat/chan) 
+- [ethersphere/bee: Bee 是一个用 Go 实现的 Swarm 客户端。](https://github.com/ethersphere/bee) 
 ### June 1, 2021 
 - [orly/README_ZH.md :O'RLY 封面工厂是一个娱乐性的书籍封面生成器](https://github.com/nanmu42/orly/blob/master/README_ZH.md) 
 - [TheLocehiliosan/yadm: 另一个 Dotfiles 管理器](https://github.com/TheLocehiliosan/yadm) 
