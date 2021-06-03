@@ -95,6 +95,7 @@
 ### June 3, 2021 
 - [hairyhenderson/go-fsimpl: 各种URL方案的Go文件系统实现](https://github.com/hairyhenderson/go-fsimpl) 
 - [aws/amazon-ec2-instance-selector: 一个 CLI 工具和 go 库，它根据资源标准（如 vcpus 和内存）推荐实例类型](https://github.com/aws/amazon-ec2-instance-selector) 
+- [RoaringBitmap/roaring: 这是 Roaring 位图数据结构的 Go 版本。](https://github.com/RoaringBitmap/roaring) 
 ### June 2, 2021 
 - [mdempsky/maligned: 检测 Go 结构体的工具，如果它们的字段被排序，将占用更少的内存。](https://github.com/mdempsky/maligned) 
 - [megaease/easegress: 全方位的流量编排系统](https://github.com/megaease/easegress) 
