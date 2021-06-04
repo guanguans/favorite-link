@@ -101,6 +101,7 @@
 - [jxlwqq/kubernetes-examples: Kubernetes 经典示例](https://github.com/jxlwqq/kubernetes-examples) 
 - [mezzio/mezzio: PSR-15 中间件微框架](https://github.com/mezzio/mezzio) 
 - [scipipe/scipipe: 使用 Go 和命令行的强大、灵活且资源高效的管道](https://github.com/scipipe/scipipe) 
+- [gaia-pipeline/phpsdk: Gaia管道的PHP-SDK。](https://github.com/gaia-pipeline/phpsdk) 
 ### June 3, 2021 
 - [hairyhenderson/go-fsimpl: 各种URL方案的Go文件系统实现](https://github.com/hairyhenderson/go-fsimpl) 
 - [aws/amazon-ec2-instance-selector: 一个 CLI 工具和 go 库，它根据资源标准（如 vcpus 和内存）推荐实例类型](https://github.com/aws/amazon-ec2-instance-selector) 
