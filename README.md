@@ -100,6 +100,7 @@
 - [php-http/discovery: 查找已安装的客户端和消息工厂](https://github.com/php-http/discovery) 
 - [shidenggui/easyquotation: 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情](https://github.com/shidenggui/easyquotation) 
 - [code-lts/doctum: 一个 php API 文件产生器，Sami 的分支](https://github.com/code-lts/doctum) 
+- [hedeqiang/IM: 腾讯云即时通信 IM 服务端 SDK for PHP](https://github.com/hedeqiang/IM) 
 ### June 6, 2021 
 - [tuupola/slim-api-skeleton: 用于 Composer 的 Slim 3 API 骨架项目](https://github.com/tuupola/slim-api-skeleton) 
 ### June 5, 2021 
