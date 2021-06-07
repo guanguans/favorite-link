@@ -98,6 +98,7 @@
 
 ### June 7, 2021 
 - [php-http/discovery: 查找已安装的客户端和消息工厂](https://github.com/php-http/discovery) 
+- [shidenggui/easyquotation: 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情](https://github.com/shidenggui/easyquotation) 
 ### June 6, 2021 
 - [tuupola/slim-api-skeleton: 用于 Composer 的 Slim 3 API 骨架项目](https://github.com/tuupola/slim-api-skeleton) 
 ### June 5, 2021 
