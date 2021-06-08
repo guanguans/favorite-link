@@ -102,6 +102,7 @@
 - [clap-rs/clap: 一个功能齐全、快速的 Rust 命令行参数解析器](https://github.com/clap-rs/clap) 
 - [boost-ext/di: DI：C++14 依赖注入库](https://github.com/boost-ext/di) 
 - [laravel-notification-channels/apn: Laravel 的 APN 推送通知频道](https://github.com/laravel-notification-channels/apn) 
+- [multilinguals/apollo-php-client: 携程Apollo配置中心PHP客户端](https://github.com/multilinguals/apollo-php-client) 
 ### June 7, 2021 
 - [php-http/discovery: 查找已安装的客户端和消息工厂](https://github.com/php-http/discovery) 
 - [shidenggui/easyquotation: 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情](https://github.com/shidenggui/easyquotation) 
