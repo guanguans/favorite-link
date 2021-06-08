@@ -100,6 +100,7 @@
 ### June 8, 2021 
 - [doocs/leetcode: 多种编程语言实现 LeetCode](https://github.com/doocs/leetcode) 
 - [clap-rs/clap: 一个功能齐全、快速的 Rust 命令行参数解析器](https://github.com/clap-rs/clap) 
+- [boost-ext/di: DI：C++14 依赖注入库](https://github.com/boost-ext/di) 
 ### June 7, 2021 
 - [php-http/discovery: 查找已安装的客户端和消息工厂](https://github.com/php-http/discovery) 
 - [shidenggui/easyquotation: 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情](https://github.com/shidenggui/easyquotation) 
