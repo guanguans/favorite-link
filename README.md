@@ -106,6 +106,7 @@
 - [didi/gendry: 一个供 sql builder 使用的 golang 库](https://github.com/didi/gendry) 
 - [storj/drpc: drpc 是 gRPC 的轻量级替代品](https://github.com/storj/drpc) 
 - [Shelnutt2/db2struct: 将 mysql 表转换为 golang 结构](https://github.com/Shelnutt2/db2struct) 
+- [fujiwara/shapeio: Golang io.Reader 和 io.Writer 的流量整形器](https://github.com/fujiwara/shapeio) 
 ### June 8, 2021 
 - [doocs/leetcode: 多种编程语言实现 LeetCode](https://github.com/doocs/leetcode) 
 - [clap-rs/clap: 一个功能齐全、快速的 Rust 命令行参数解析器](https://github.com/clap-rs/clap) 
