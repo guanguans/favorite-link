@@ -103,6 +103,7 @@
 - [msiemens/tinydb: TinyDB 是一个轻量级的面向文档的数据库](https://github.com/msiemens/tinydb) 
 - [AkihiroSuda/lima: macOS 上的 Linux 虚拟机](https://github.com/AkihiroSuda/lima) 
 - [hack2fun/BypassAV: Cobalt Strike插件，用于快速生成免杀的可执行文件](https://github.com/hack2fun/BypassAV) 
+- [didi/gendry: 一个供 sql builder 使用的 golang 库](https://github.com/didi/gendry) 
 ### June 8, 2021 
 - [doocs/leetcode: 多种编程语言实现 LeetCode](https://github.com/doocs/leetcode) 
 - [clap-rs/clap: 一个功能齐全、快速的 Rust 命令行参数解析器](https://github.com/clap-rs/clap) 
