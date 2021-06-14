@@ -98,6 +98,9 @@
 
 
 
+
+### June 14, 2021 
+- [guanguans/laravel-soar: 在 Laravel 应用程序中轻松容易的优化 sql 语句的扩展包。](https://github.com/guanguans/laravel-soar) 
 ### June 11, 2021 
 - [hardphp/tp6-vue-admin: 基于thinkphp6+vue2.6+element2.13 前后端分离落地解决方案](https://github.com/hardphp/tp6-vue-admin) 
 - [msiemens/tinydb: TinyDB 是一个轻量级的面向文档的数据库](https://github.com/msiemens/tinydb) 
