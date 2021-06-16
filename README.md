@@ -105,6 +105,7 @@
 - [thanos-io/thanos: 具有长期存储功能的高可用性 Prometheus 设置。 CNCF 孵化项目。](https://github.com/thanos-io/thanos) 
 - [lorisleiva/artisan-ui: 🧰 Run your artisan commands by pressing buttons](https://github.com/lorisleiva/artisan-ui) 
 - [zabbix/zabbix: 实时监控 IT 组件和服务，例如网络、服务器、VM、应用程序和云。](https://github.com/zabbix/zabbix) 
+- [jamesmills/laravel-timezone: Enable user Timezones in your application.](https://github.com/jamesmills/laravel-timezone) 
 ### June 15, 2021 
 - [CAFxX/gcnotifier: 了解 GC 何时从您的 golang 代码内部运行](https://github.com/CAFxX/gcnotifier) 
 - [lesismal/nbio: 用 Go 编写的高性能、非阻塞、事件驱动、易于使用、依赖最少的网络框架。](https://github.com/lesismal/nbio) 
