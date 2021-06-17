@@ -108,6 +108,7 @@
 - [k8gege/LadonGo: 全平台Go开源内网渗透扫描器框架](https://github.com/k8gege/LadonGo) 
 - [r3labs/diff: 用于区分 golang 结构的库](https://github.com/r3labs/diff) 
 - [sony/gobreaker: 在 Go 中实现的断路器](https://github.com/sony/gobreaker) 
+- [ackintosh/ganesha: 🐘 PHP 应用程序的断路器模式实现。](https://github.com/ackintosh/ganesha) 
 ### June 16, 2021 
 - [thanos-io/thanos: 具有长期存储功能的高可用性 Prometheus 设置。 CNCF 孵化项目。](https://github.com/thanos-io/thanos) 
 - [lorisleiva/artisan-ui: 🧰 Run your artisan commands by pressing buttons](https://github.com/lorisleiva/artisan-ui) 
