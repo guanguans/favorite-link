@@ -106,6 +106,7 @@
 ### June 18, 2021 
 - [cmushroom/redis-pro: redis-pro redis 桌面管理工具](https://github.com/cmushroom/redis-pro) 
 - [fergusstrange/embedded-postgres: 在 Linux、OSX 或 Windows 上本地运行真正的 Postgres 数据库，作为另一个 Go 应用程序或测试的一部分](https://github.com/fergusstrange/embedded-postgres) 
+- [eatMoreApple/openwechat: golang网页版微信Api, 突破网页版登陆限制](https://github.com/eatMoreApple/openwechat) 
 ### June 17, 2021 
 - [jbrooksuk/artisan.page: Laravel 所有默认 Artisan 命令的书签、可搜索备忘单。](https://github.com/jbrooksuk/artisan.page) 
 - [SmartKeyerror/Psyduck: Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计](https://github.com/SmartKeyerror/Psyduck) 
