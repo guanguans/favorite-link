@@ -109,6 +109,7 @@
 ### June 24, 2021 
 - [diesel-rs/diesel: 一个安全的、可扩展的 ORM 和 Rust 查询生成器](https://github.com/diesel-rs/diesel) 
 - [checkr/flagr: Flagr 是一个功能标记、 a/b 测试和动态配置微服务](https://github.com/checkr/flagr) 
+- [goretk/gore: GoRE - 包 gore 是一个用于分析 Go 二进制文件的库](https://github.com/goretk/gore) 
 ### June 23, 2021 
 - [erda-project/erda: 企业级应用程序构建、部署、监控平台（iPaaS）。](https://github.com/erda-project/erda) 
 - [nosequeldeebee/blockchain-tutorial: 用不到 200 行的 Go 编写和发布你自己的区块链](https://github.com/nosequeldeebee/blockchain-tutorial) 
