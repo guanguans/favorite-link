@@ -111,6 +111,7 @@
 - [checkr/flagr: Flagr 是一个功能标记、 a/b 测试和动态配置微服务](https://github.com/checkr/flagr) 
 - [goretk/gore: GoRE - 包 gore 是一个用于分析 Go 二进制文件的库](https://github.com/goretk/gore) 
 - [six-ddc/plow: 具有实时 Web UI 和终端显示的高性能 HTTP 基准测试工具](https://github.com/six-ddc/plow) 
+- [swisnl/json-api-client: 用于将远程 {json:api} 资源映射到 Eloquent 等模型和集合的 PHP 包。](https://github.com/swisnl/json-api-client) 
 ### June 23, 2021 
 - [erda-project/erda: 企业级应用程序构建、部署、监控平台（iPaaS）。](https://github.com/erda-project/erda) 
 - [nosequeldeebee/blockchain-tutorial: 用不到 200 行的 Go 编写和发布你自己的区块链](https://github.com/nosequeldeebee/blockchain-tutorial) 
