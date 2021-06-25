@@ -111,6 +111,7 @@
 - [getzola/zola: 一个快速静态站点生成器，使用一个二进制文件，内置所有东西. getzola.org](https://github.com/getzola/zola) 
 - [ksync/ksync: 在本地系统和 kubernetes 集群之间同步文件。](https://github.com/ksync/ksync) 
 - [ochinchina/supervisord: a go-lang supervisor implementation](https://github.com/ochinchina/supervisord) 
+- [AkihiroSuda/lima: macOS 上的 Linux 虚拟机（非正式地又名“Linux-on-Mac”、“Linux 的 macOS 子系统”、“Mac 的容器”）](https://github.com/AkihiroSuda/lima) 
 ### June 24, 2021 
 - [diesel-rs/diesel: 一个安全的、可扩展的 ORM 和 Rust 查询生成器](https://github.com/diesel-rs/diesel) 
 - [checkr/flagr: Flagr 是一个功能标记、 a/b 测试和动态配置微服务](https://github.com/checkr/flagr) 
