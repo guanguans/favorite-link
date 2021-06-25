@@ -106,6 +106,9 @@
 
 
 
+
+### June 25, 2021 
+- [getzola/zola: 一个快速静态站点生成器，使用一个二进制文件，内置所有东西. getzola.org](https://github.com/getzola/zola) 
 ### June 24, 2021 
 - [diesel-rs/diesel: 一个安全的、可扩展的 ORM 和 Rust 查询生成器](https://github.com/diesel-rs/diesel) 
 - [checkr/flagr: Flagr 是一个功能标记、 a/b 测试和动态配置微服务](https://github.com/checkr/flagr) 
