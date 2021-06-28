@@ -111,6 +111,7 @@
 ### June 28, 2021 
 - [tormoder/fit: 用于解码和编码 Garmin FIT 文件的 Go 包](https://github.com/tormoder/fit) 
 - [fenixsoft/awesome-fenix: 讨论如何构建一套可靠的大型分布式系统](https://github.com/fenixsoft/awesome-fenix) 
+- [sixlive/dotenv-editor: 一个用于编辑 dotenv 文件的 PHP 包](https://github.com/sixlive/dotenv-editor) 
 ### June 25, 2021 
 - [getzola/zola: 一个快速静态站点生成器，使用一个二进制文件，内置所有东西. getzola.org](https://github.com/getzola/zola) 
 - [ksync/ksync: 在本地系统和 kubernetes 集群之间同步文件。](https://github.com/ksync/ksync) 
