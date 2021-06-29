@@ -108,6 +108,9 @@
 
 
 
+
+### June 29, 2021 
+- [gotomicro/ego: 简单的 Go 微服务框架](https://github.com/gotomicro/ego) 
 ### June 28, 2021 
 - [tormoder/fit: 用于解码和编码 Garmin FIT 文件的 Go 包](https://github.com/tormoder/fit) 
 - [fenixsoft/awesome-fenix: 讨论如何构建一套可靠的大型分布式系统](https://github.com/fenixsoft/awesome-fenix) 
