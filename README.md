@@ -113,6 +113,7 @@
 - [gotomicro/ego: 简单的 Go 微服务框架](https://github.com/gotomicro/ego) 
 - [bytedance/sonic: 一个非常快速的JSON序列化和反序列化库](https://github.com/bytedance/sonic) 
 - [rs/curlie: curl 的强大，httpie 的易用性。](https://github.com/rs/curlie) 
+- [ibraheemdev/modern-unix: 一组常用 unix 命令的现代/更快/更明智的替代命令。](https://github.com/ibraheemdev/modern-unix) 
 ### June 28, 2021 
 - [tormoder/fit: 用于解码和编码 Garmin FIT 文件的 Go 包](https://github.com/tormoder/fit) 
 - [fenixsoft/awesome-fenix: 讨论如何构建一套可靠的大型分布式系统](https://github.com/fenixsoft/awesome-fenix) 
