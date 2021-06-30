@@ -114,6 +114,7 @@
 - [spencerwooo/onedrive-vercel-index: onedrive-cf-index 的小弟，基本一样，只是由 Next.js 和 Vercel 提供支持。](https://github.com/spencerwooo/onedrive-vercel-index) 
 - [spencerwooo/onedrive-cf-index: 🏵 可能是最好看的 OneDrive 索引！ 由 Cloudflare Workers 提供支持。](https://github.com/spencerwooo/onedrive-cf-index) 
 - [spatie/elasticsearch-query-builder: 使用流畅的 PHP API 构建和执行 Elasticsearch 搜索查询](https://github.com/spatie/elasticsearch-query-builder) 
+- [cloudflare/php-worker-hello-world: index.php 中的 PHP 代码，在 Cloudflare Workers 上运行](https://github.com/cloudflare/php-worker-hello-world) 
 ### June 29, 2021 
 - [gotomicro/ego: 简单的 Go 微服务框架](https://github.com/gotomicro/ego) 
 - [bytedance/sonic: 一个非常快速的JSON序列化和反序列化库](https://github.com/bytedance/sonic) 
