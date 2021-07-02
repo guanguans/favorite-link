@@ -114,6 +114,7 @@
 ### July 2, 2021 
 - [roseduan/rosedb: 一个 Go 语言实现的快速、稳定、内嵌的 k-v 数据库。](https://github.com/roseduan/rosedb) 
 - [solo-io/squash: 微服务调试器](https://github.com/solo-io/squash) 
+- [gookit/validate: Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。](https://github.com/gookit/validate) 
 ### June 30, 2021 
 - [spencerwooo/onedrive-vercel-index: onedrive-cf-index 的小弟，基本一样，只是由 Next.js 和 Vercel 提供支持。](https://github.com/spencerwooo/onedrive-vercel-index) 
 - [spencerwooo/onedrive-cf-index: 🏵 可能是最好看的 OneDrive 索引！ 由 Cloudflare Workers 提供支持。](https://github.com/spencerwooo/onedrive-cf-index) 
