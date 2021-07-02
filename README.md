@@ -116,6 +116,7 @@
 - [solo-io/squash: 微服务调试器](https://github.com/solo-io/squash) 
 - [gookit/validate: Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。](https://github.com/gookit/validate) 
 - [seccome/Ehoney: Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统](https://github.com/seccome/Ehoney) 
+- [lesismal/nbio: 用 Go 编写的高性能、非阻塞、事件驱动、易于使用的网络框架，支持 TLS/HTTP 1.X/Websocket。](https://github.com/lesismal/nbio) 
 ### June 30, 2021 
 - [spencerwooo/onedrive-vercel-index: onedrive-cf-index 的小弟，基本一样，只是由 Next.js 和 Vercel 提供支持。](https://github.com/spencerwooo/onedrive-vercel-index) 
 - [spencerwooo/onedrive-cf-index: 🏵 可能是最好看的 OneDrive 索引！ 由 Cloudflare Workers 提供支持。](https://github.com/spencerwooo/onedrive-cf-index) 
