@@ -120,6 +120,7 @@
 - [wiretrustee/wiretrustee: 将您的设备连接到单个安全的基于 WireGuard 的网状网络中。](https://github.com/wiretrustee/wiretrustee) 
 - [clouDr-f2e/rubick: 📦 媲美utools的开源工具箱，自由集成丰富插件，utools生态插件微改动即可无差异化使用。](https://github.com/clouDr-f2e/rubick) 
 - [segmentio/ksuid: K可排序的全局唯一id](https://github.com/segmentio/ksuid) 
+- [TeXitoi/structopt: 通过定义结构来解析命令行参数。](https://github.com/TeXitoi/structopt) 
 ### June 30, 2021 
 - [spencerwooo/onedrive-vercel-index: onedrive-cf-index 的小弟，基本一样，只是由 Next.js 和 Vercel 提供支持。](https://github.com/spencerwooo/onedrive-vercel-index) 
 - [spencerwooo/onedrive-cf-index: 🏵 可能是最好看的 OneDrive 索引！ 由 Cloudflare Workers 提供支持。](https://github.com/spencerwooo/onedrive-cf-index) 
