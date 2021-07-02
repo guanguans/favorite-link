@@ -123,6 +123,7 @@
 - [TeXitoi/structopt: 通过定义结构来解析命令行参数。](https://github.com/TeXitoi/structopt) 
 - [aramk/crayon-syntax-highlighter: 语法荧光笔支持多种语言、主题、字体、从 URL、本地文件或帖子文本突出显示。](https://github.com/aramk/crayon-syntax-highlighter) 
 - [inancgumus/learngo: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes](https://github.com/inancgumus/learngo) 
+- [rocky-git/E-admin: E-admin是一个基于Element Plus开发而成后台系统构建工具，无需关注页面模板JavaScript，只用php代码即可快速构建出一个功能完善的后台系统。](https://github.com/rocky-git/E-admin) 
 ### June 30, 2021 
 - [spencerwooo/onedrive-vercel-index: onedrive-cf-index 的小弟，基本一样，只是由 Next.js 和 Vercel 提供支持。](https://github.com/spencerwooo/onedrive-vercel-index) 
 - [spencerwooo/onedrive-cf-index: 🏵 可能是最好看的 OneDrive 索引！ 由 Cloudflare Workers 提供支持。](https://github.com/spencerwooo/onedrive-cf-index) 
