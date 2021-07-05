@@ -115,6 +115,7 @@
 ### July 5, 2021 
 - [alda-lang/alda: 一种为音乐家设计的音乐程序语言。](https://github.com/alda-lang/alda) 
 - [jawira/case-converter: 在 13 种命名约定之间转换字符串：Snake case、Camel case、Kebab case、Pascal case、Ada case、Train case、Cobol case、Macro case、Upper case、Lower case、Title case、Sentence case 和 Dot notation。](https://github.com/jawira/case-converter) 
+- [go-ego/riot: 开源、分布式、简单高效的搜索引擎](https://github.com/go-ego/riot) 
 ### July 2, 2021 
 - [roseduan/rosedb: 一个 Go 语言实现的快速、稳定、内嵌的 k-v 数据库。](https://github.com/roseduan/rosedb) 
 - [solo-io/squash: 微服务调试器](https://github.com/solo-io/squash) 
