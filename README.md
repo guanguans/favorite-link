@@ -116,6 +116,7 @@
 ### July 6, 2021 
 - [lanyulei/fiy: 配置管理数据库，即CMDB。](https://github.com/lanyulei/fiy) 
 - [jianfengye/collection: go collection package for fasting coding](https://github.com/jianfengye/collection) 
+- [guoshijiang/cryptography: 人人都能看懂的密码学](https://github.com/guoshijiang/cryptography) 
 ### July 5, 2021 
 - [alda-lang/alda: 一种为音乐家设计的音乐程序语言。](https://github.com/alda-lang/alda) 
 - [jawira/case-converter: 在 13 种命名约定之间转换字符串：Snake case、Camel case、Kebab case、Pascal case、Ada case、Train case、Cobol case、Macro case、Upper case、Lower case、Title case、Sentence case 和 Dot notation。](https://github.com/jawira/case-converter) 
