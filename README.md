@@ -118,6 +118,7 @@
 ### July 8, 2021 
 - [nakabonne/tstorage: 一个快速的时间序列数据存储库](https://github.com/nakabonne/tstorage) 
 - [GrahamCampbell/Laravel-Exceptions: 为 Laravel 提供强大的错误响应系统](https://github.com/GrahamCampbell/Laravel-Exceptions) 
+- [kean/Pulse: 适用于 Apple 平台的记录器和网络检查器](https://github.com/kean/Pulse) 
 ### July 7, 2021 
 - [philchia/agollo: agollo 是携程 apollo 配置中心的 golang 客户端🚀](https://github.com/philchia/agollo) 
 - [tuupola/ksuid: PHP 的 K-Sortable 全局唯一 ID](https://github.com/tuupola/ksuid) 
