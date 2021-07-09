@@ -118,6 +118,7 @@
 
 ### July 9, 2021 
 - [loilo/Fuse: 基于 Bitap 算法的 PHP 模糊搜索](https://github.com/loilo/Fuse) 
+- [jondot/goweight: 分析 Go 二进制文件大小并排除故障的工具。](https://github.com/jondot/goweight) 
 ### July 8, 2021 
 - [nakabonne/tstorage: 一个快速的时间序列数据存储库](https://github.com/nakabonne/tstorage) 
 - [GrahamCampbell/Laravel-Exceptions: 为 Laravel 提供强大的错误响应系统](https://github.com/GrahamCampbell/Laravel-Exceptions) 
