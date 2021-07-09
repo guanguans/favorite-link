@@ -115,6 +115,9 @@
 
 
 
+
+### July 9, 2021 
+- [loilo/Fuse: 基于 Bitap 算法的 PHP 模糊搜索](https://github.com/loilo/Fuse) 
 ### July 8, 2021 
 - [nakabonne/tstorage: 一个快速的时间序列数据存储库](https://github.com/nakabonne/tstorage) 
 - [GrahamCampbell/Laravel-Exceptions: 为 Laravel 提供强大的错误响应系统](https://github.com/GrahamCampbell/Laravel-Exceptions) 
