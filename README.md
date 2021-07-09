@@ -122,6 +122,7 @@
 - [alisen39/TrWebOCR: 开源易用的中文离线OCR](https://github.com/alisen39/TrWebOCR) 
 - [ascsoftw/tall-crud-generator: 使用 TALL Stack 生成 CRUD 文件的 Laravel 包](https://github.com/ascsoftw/tall-crud-generator) 
 - [golang/oauth2: Go OAuth2](https://github.com/golang/oauth2) 
+- [PHPSocialNetwork/phpfastcache: 一个高性能的后端缓存系统。 它旨在通过减轻数据库负载来加速动态 Web 应用程序。](https://github.com/PHPSocialNetwork/phpfastcache) 
 ### July 8, 2021 
 - [nakabonne/tstorage: 一个快速的时间序列数据存储库](https://github.com/nakabonne/tstorage) 
 - [GrahamCampbell/Laravel-Exceptions: 为 Laravel 提供强大的错误响应系统](https://github.com/GrahamCampbell/Laravel-Exceptions) 
