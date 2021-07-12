@@ -119,6 +119,7 @@
 
 ### July 12, 2021 
 - [spatie/laravel-markdown-blade-component: 一个功能齐全的 Blade 组件，用于呈现 Markdown 和突出显示代码片段](https://github.com/spatie/laravel-markdown-blade-component) 
+- [caddyserver/certmagic: 任何 Go 程序的自动 HTTPS：完全托管的 TLS 证书颁发和更新](https://github.com/caddyserver/certmagic) 
 ### July 9, 2021 
 - [loilo/Fuse: 基于 Bitap 算法的 PHP 模糊搜索](https://github.com/loilo/Fuse) 
 - [jondot/goweight: 分析 Go 二进制文件大小并排除故障的工具。](https://github.com/jondot/goweight) 
