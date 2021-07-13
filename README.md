@@ -121,6 +121,7 @@
 ### July 13, 2021 
 - [Incenteev/emoji-pattern: PHP regexp 模式匹配 Unicode 表情符号](https://github.com/Incenteev/emoji-pattern) 
 - [kubernetes-sigs/krew: 📦 查找并安装kubectl插件](https://github.com/kubernetes-sigs/krew) 
+- [bndw/wifi-card: 打印一个连接到你的 WiFi 的二维码](https://github.com/bndw/wifi-card) 
 ### July 12, 2021 
 - [spatie/laravel-markdown-blade-component: 一个功能齐全的 Blade 组件，用于呈现 Markdown 和突出显示代码片段](https://github.com/spatie/laravel-markdown-blade-component) 
 - [caddyserver/certmagic: 任何 Go 程序的自动 HTTPS：完全托管的 TLS 证书颁发和更新](https://github.com/caddyserver/certmagic) 
