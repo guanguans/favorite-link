@@ -126,6 +126,7 @@
 - [earthly/earthly: 为容器时代构建自动化](https://github.com/earthly/earthly) 
 - [slog-rs/slog: Rust 的结构化、上下文、可扩展、可组合的日志记录](https://github.com/slog-rs/slog) 
 - [tuteng/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) 
+- [givanz/VvvebJs: 拖放网站构建器 javascript 库。](https://github.com/givanz/VvvebJs) 
 ### July 13, 2021 
 - [Incenteev/emoji-pattern: PHP regexp 模式匹配 Unicode 表情符号](https://github.com/Incenteev/emoji-pattern) 
 - [kubernetes-sigs/krew: 📦 查找并安装kubectl插件](https://github.com/kubernetes-sigs/krew) 
