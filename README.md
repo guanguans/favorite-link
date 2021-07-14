@@ -122,6 +122,7 @@
 ### July 14, 2021 
 - [ory/kratos: 下一代身份服务器（想想Auth0、Okta、Firebase），具有身份验证、MFA、FIDO2、配置文件管理、身份模式、社会登录、注册、帐户恢复、服务到服务和物联网身份验证。可以作为OAuth2/OpenID连接提供程序工作。](https://github.com/ory/kratos) 
 - [openreplay/openreplay: 📺 OpenReplay 是对开发人员友好的开源会话重放。](https://github.com/openreplay/openreplay) 
+- [dankinder/httpmock: Go 中的轻量级 HTTP 模拟](https://github.com/dankinder/httpmock) 
 ### July 13, 2021 
 - [Incenteev/emoji-pattern: PHP regexp 模式匹配 Unicode 表情符号](https://github.com/Incenteev/emoji-pattern) 
 - [kubernetes-sigs/krew: 📦 查找并安装kubectl插件](https://github.com/kubernetes-sigs/krew) 
