@@ -124,6 +124,7 @@
 - [openreplay/openreplay: 📺 OpenReplay 是对开发人员友好的开源会话重放。](https://github.com/openreplay/openreplay) 
 - [dankinder/httpmock: Go 中的轻量级 HTTP 模拟](https://github.com/dankinder/httpmock) 
 - [earthly/earthly: 为容器时代构建自动化](https://github.com/earthly/earthly) 
+- [slog-rs/slog: Rust 的结构化、上下文、可扩展、可组合的日志记录](https://github.com/slog-rs/slog) 
 ### July 13, 2021 
 - [Incenteev/emoji-pattern: PHP regexp 模式匹配 Unicode 表情符号](https://github.com/Incenteev/emoji-pattern) 
 - [kubernetes-sigs/krew: 📦 查找并安装kubectl插件](https://github.com/kubernetes-sigs/krew) 
