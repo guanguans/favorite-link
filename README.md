@@ -124,6 +124,7 @@
 - [projectdiscovery/chaos-client: Go 客户端与 Chaos DNS API 通信。](https://github.com/projectdiscovery/chaos-client) 
 - [humbug/php-scoper: PHP-Scoper 是一种工具，可以将任何代码体（包括所有依赖项（例如供应商目录））移动到新的独特命名空间。](https://github.com/humbug/php-scoper) 
 - [go-gorm/dbresolver: 多个数据库，GORM的读写分离](https://github.com/go-gorm/dbresolver) 
+- [redbearder/The-Site-Reliability-Workbook-CHS: 站点可靠性工作手册 中文版](https://github.com/redbearder/The-Site-Reliability-Workbook-CHS) 
 ### July 14, 2021 
 - [ory/kratos: 下一代身份服务器（想想Auth0、Okta、Firebase），具有身份验证、MFA、FIDO2、配置文件管理、身份模式、社会登录、注册、帐户恢复、服务到服务和物联网身份验证。可以作为OAuth2/OpenID连接提供程序工作。](https://github.com/ory/kratos) 
 - [openreplay/openreplay: 📺 OpenReplay 是对开发人员友好的开源会话重放。](https://github.com/openreplay/openreplay) 
