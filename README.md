@@ -129,6 +129,7 @@
 - [dstotijn/hetty: Hetty 是一个用于安全研究的 HTTP 工具包。](https://github.com/dstotijn/hetty) 
 - [hahwul/WebHackersWeapons: ⚔️ 网络黑客的武器 / 网络黑客使用的一组很酷的工具。](https://github.com/hahwul/WebHackersWeapons) 
 - [cloudwego/kitex: Kitex 字节跳动内部的 Golang 微服务 RPC 框架，具有高性能、强可扩展的特点，针对字节内部做了定制扩展。](https://github.com/cloudwego/kitex) 
+- [cloudwego/netpoll: 字节跳动开发的高性能非阻塞I/O网络框架，专注于RPC场景。](https://github.com/cloudwego/netpoll) 
 ### July 15, 2021 
 - [projectdiscovery/chaos-client: Go 客户端与 Chaos DNS API 通信。](https://github.com/projectdiscovery/chaos-client) 
 - [humbug/php-scoper: PHP-Scoper 是一种工具，可以将任何代码体（包括所有依赖项（例如供应商目录））移动到新的独特命名空间。](https://github.com/humbug/php-scoper) 
