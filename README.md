@@ -126,6 +126,7 @@
 - [ajthinking/archetype: PHP和Laravel的快速应用开发框架](https://github.com/ajthinking/archetype) 
 - [zikula/core: Zikula Core 是一个应用程序框架，它扩展了 Symfony 5.x 并包括促进动态模块化开发范式和基于 Twig 的主题系统的技术，允许快速的网站和应用程序开发。](https://github.com/zikula/core) 
 - [edamov/pushok: Pushok 是一个简单的 PHP 库，用于向 APNs 发送推送通知。](https://github.com/edamov/pushok) 
+- [dstotijn/hetty: Hetty 是一个用于安全研究的 HTTP 工具包。](https://github.com/dstotijn/hetty) 
 ### July 15, 2021 
 - [projectdiscovery/chaos-client: Go 客户端与 Chaos DNS API 通信。](https://github.com/projectdiscovery/chaos-client) 
 - [humbug/php-scoper: PHP-Scoper 是一种工具，可以将任何代码体（包括所有依赖项（例如供应商目录））移动到新的独特命名空间。](https://github.com/humbug/php-scoper) 
