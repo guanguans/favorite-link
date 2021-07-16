@@ -123,6 +123,7 @@
 
 ### July 16, 2021 
 - [aquasecurity/trivy: 扫描容器映像、文件系统和 Git 存储库中的漏洞以及配置问题](https://github.com/aquasecurity/trivy) 
+- [ajthinking/archetype: PHP和Laravel的快速应用开发框架](https://github.com/ajthinking/archetype) 
 ### July 15, 2021 
 - [projectdiscovery/chaos-client: Go 客户端与 Chaos DNS API 通信。](https://github.com/projectdiscovery/chaos-client) 
 - [humbug/php-scoper: PHP-Scoper 是一种工具，可以将任何代码体（包括所有依赖项（例如供应商目录））移动到新的独特命名空间。](https://github.com/humbug/php-scoper) 
