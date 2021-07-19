@@ -127,6 +127,7 @@
 - [mkideal/cli: CLI - 使用 go 构建命令行应用程序的包](https://github.com/mkideal/cli) 
 - [MarvinJWendt/testza: Go的全功能测试框架！ 断言、模拟、输入测试、输出捕获等等！ 🍕](https://github.com/MarvinJWendt/testza) 
 - [release-drafter/release-drafter: 当pull请求合并到master中时，起草下一个发行说明。](https://github.com/release-drafter/release-drafter) 
+- [edalzell/statamic-blade: 通过 Blade 指令访问您的 Statamic 数据，目前支持 @bard、@collection 和 @Globalset](https://github.com/edalzell/statamic-blade) 
 ### July 16, 2021 
 - [aquasecurity/trivy: 扫描容器映像、文件系统和 Git 存储库中的漏洞以及配置问题](https://github.com/aquasecurity/trivy) 
 - [ajthinking/archetype: PHP和Laravel的快速应用开发框架](https://github.com/ajthinking/archetype) 
