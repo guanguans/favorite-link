@@ -125,6 +125,7 @@
 ### July 19, 2021 
 - [probot/probot: 🤖 用于构建 GitHub 应用程序以自动化和改进您的工作流程的框架](https://github.com/probot/probot) 
 - [mkideal/cli: CLI - 使用 go 构建命令行应用程序的包](https://github.com/mkideal/cli) 
+- [MarvinJWendt/testza: Go的全功能测试框架！ 断言、模拟、输入测试、输出捕获等等！ 🍕](https://github.com/MarvinJWendt/testza) 
 ### July 16, 2021 
 - [aquasecurity/trivy: 扫描容器映像、文件系统和 Git 存储库中的漏洞以及配置问题](https://github.com/aquasecurity/trivy) 
 - [ajthinking/archetype: PHP和Laravel的快速应用开发框架](https://github.com/ajthinking/archetype) 
