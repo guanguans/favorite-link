@@ -128,6 +128,7 @@
 - [suvera/winter-boot: Spring Boot 风格 - PHP8 框架。 简单的依赖注入和简单的面向方面的魔法，只需注释（属性）。](https://github.com/suvera/winter-boot) 
 - [zhenghaoz/gorse: 一个用 Go 编写的开源推荐系统服务](https://github.com/zhenghaoz/gorse) 
 - [openresty/openresty-systemtap-toolkit: 基于 SystemTap 的 OpenResty 实时分析和诊断工具(包括 NGINX、 LuaJIT、 ngx _ lua 等)](https://github.com/openresty/openresty-systemtap-toolkit) 
+- [google/uuid: 基于 RFC 4122 和 DCE 1.1：身份验证和安全服务的 UUID 的 Go 包。](https://github.com/google/uuid) 
 ### July 19, 2021 
 - [probot/probot: 🤖 用于构建 GitHub 应用程序以自动化和改进您的工作流程的框架](https://github.com/probot/probot) 
 - [mkideal/cli: CLI - 使用 go 构建命令行应用程序的包](https://github.com/mkideal/cli) 
