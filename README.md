@@ -127,6 +127,7 @@
 ### July 21, 2021 
 - [varbhat/torpar: Torrent Paradise 的 TUI 客户端](https://github.com/varbhat/torpar) 
 - [EgeBalci/sgn: Shikata ga nai 编码器移植到 go 中，并进行了多项改进](https://github.com/EgeBalci/sgn) 
+- [nhooyr/websocket: 用于 Go 的最小和惯用的 WebSocket 库](https://github.com/nhooyr/websocket) 
 ### July 20, 2021 
 - [alexellis/arkade: 开源 Kubernetes 市场](https://github.com/alexellis/arkade) 
 - [suvera/winter-boot: Spring Boot 风格 - PHP8 框架。 简单的依赖注入和简单的面向方面的魔法，只需注释（属性）。](https://github.com/suvera/winter-boot) 
