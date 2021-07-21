@@ -130,6 +130,7 @@
 - [nhooyr/websocket: 用于 Go 的最小和惯用的 WebSocket 库](https://github.com/nhooyr/websocket) 
 - [hashicorp/hcl: HCL 是 HashiCorp 配置语言。](https://github.com/hashicorp/hcl) 
 - [typesense/typesense: 快速、容错、模糊的搜索引擎，用于构建愉快的搜索体验。 something Algolia 的开源替代品，ElasticSearch 的易用替代品。](https://github.com/typesense/typesense) 
+- [typesense/typesense-php: Typesense API 的官方 PHP 客户端](https://github.com/typesense/typesense-php) 
 ### July 20, 2021 
 - [alexellis/arkade: 开源 Kubernetes 市场](https://github.com/alexellis/arkade) 
 - [suvera/winter-boot: Spring Boot 风格 - PHP8 框架。 简单的依赖注入和简单的面向方面的魔法，只需注释（属性）。](https://github.com/suvera/winter-boot) 
