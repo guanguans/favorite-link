@@ -124,6 +124,9 @@
 
 
 
+
+### July 22, 2021 
+- [shadow1ng/fscan: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。](https://github.com/shadow1ng/fscan) 
 ### July 21, 2021 
 - [varbhat/torpar: Torrent Paradise 的 TUI 客户端](https://github.com/varbhat/torpar) 
 - [EgeBalci/sgn: Shikata ga nai 编码器移植到 go 中，并进行了多项改进](https://github.com/EgeBalci/sgn) 
