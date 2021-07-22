@@ -130,6 +130,7 @@
 - [yedf/dtm: 🔥go语言分布式事务管理器 ](https://github.com/yedf/dtm) 
 - [getgort/gort: Gort 是一个从头开始为聊天机器人设计的聊天机器人框架。](https://github.com/getgort/gort) 
 - [livekit/livekit-server: 基于 WebRTC 的分布式音频/视频室](https://github.com/livekit/livekit-server) 
+- [indes/flowerss-bot: 一个支持应用内阅读的 Telegram RSS Bot](https://github.com/indes/flowerss-bot) 
 ### July 21, 2021 
 - [varbhat/torpar: Torrent Paradise 的 TUI 客户端](https://github.com/varbhat/torpar) 
 - [EgeBalci/sgn: Shikata ga nai 编码器移植到 go 中，并进行了多项改进](https://github.com/EgeBalci/sgn) 
