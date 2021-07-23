@@ -129,6 +129,7 @@
 ### July 23, 2021 
 - [theme-nexmoe/hexo-theme-nexmoe: 🔥 一个比较特别的 Hexo 主题](https://github.com/theme-nexmoe/hexo-theme-nexmoe) 
 - [swc-project/swc: Swc 是一个用 rust 编写的超快的编译器; 使用现代标准和打字稿生成广泛支持的 javascript。](https://github.com/swc-project/swc) 
+- [misskey-dev/misskey: 🌎 星际通讯平台🚀](https://github.com/misskey-dev/misskey) 
 ### July 22, 2021 
 - [shadow1ng/fscan: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。](https://github.com/shadow1ng/fscan) 
 - [yedf/dtm: 🔥go语言分布式事务管理器 ](https://github.com/yedf/dtm) 
