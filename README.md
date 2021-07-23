@@ -133,6 +133,7 @@
 - [laymonage/giscus: 由 GitHub 讨论提供支持的评论系统。 💬💎](https://github.com/laymonage/giscus) 
 - [cloudfoundry/go-diodes: 二极管是通过原子操作的环形缓冲器。](https://github.com/cloudfoundry/go-diodes) 
 - [esrrhs/spp: 简单强大的多协议双向代理工具](https://github.com/esrrhs/spp) 
+- [KyleBanks/depth: 可视化 Go 依赖树](https://github.com/KyleBanks/depth) 
 ### July 22, 2021 
 - [shadow1ng/fscan: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。](https://github.com/shadow1ng/fscan) 
 - [yedf/dtm: 🔥go语言分布式事务管理器 ](https://github.com/yedf/dtm) 
