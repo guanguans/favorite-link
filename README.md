@@ -139,6 +139,7 @@
 - [davecheney/httpstat: 就像 curl -v，带有颜色。](https://github.com/davecheney/httpstat) 
 - [alecthomas/chroma: 纯 Go 中的通用语法荧光笔](https://github.com/alecthomas/chroma) 
 - [wangbjun/catya: 一个开源的虎牙直播观看辅助工具](https://github.com/wangbjun/catya) 
+- [hlmd/Postman-cn: Postman汉化中文版](https://github.com/hlmd/Postman-cn) 
 ### July 23, 2021 
 - [theme-nexmoe/hexo-theme-nexmoe: 🔥 一个比较特别的 Hexo 主题](https://github.com/theme-nexmoe/hexo-theme-nexmoe) 
 - [swc-project/swc: Swc 是一个用 rust 编写的超快的编译器; 使用现代标准和打字稿生成广泛支持的 javascript。](https://github.com/swc-project/swc) 
