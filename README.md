@@ -131,6 +131,7 @@
 - [gedoor/legado: 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具](https://github.com/gedoor/legado) 
 - [tidwall/tile38: 实时地理空间和地理信息](https://github.com/tidwall/tile38) 
 - [serde-rs/serde: Rust 的序列化框架](https://github.com/serde-rs/serde) 
+- [reacherhq/check-if-email-exists: 检查电子邮件地址是否存在而不发送任何电子邮件，用 Rust 编写。](https://github.com/reacherhq/check-if-email-exists) 
 ### July 23, 2021 
 - [theme-nexmoe/hexo-theme-nexmoe: 🔥 一个比较特别的 Hexo 主题](https://github.com/theme-nexmoe/hexo-theme-nexmoe) 
 - [swc-project/swc: Swc 是一个用 rust 编写的超快的编译器; 使用现代标准和打字稿生成广泛支持的 javascript。](https://github.com/swc-project/swc) 
