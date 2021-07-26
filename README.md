@@ -136,6 +136,7 @@
 - [HeiSir2014/M3U8-Downloader: M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。](https://github.com/HeiSir2014/M3U8-Downloader) 
 - [redcode-labs/Neurax: 构造自扩展二进制文件的框架](https://github.com/redcode-labs/Neurax) 
 - [knuckleswtf/scribe: 从你的 Laravel 代码库为人类生成 API 文档。✍](https://github.com/knuckleswtf/scribe) 
+- [davecheney/httpstat: 就像 curl -v，带有颜色。](https://github.com/davecheney/httpstat) 
 ### July 23, 2021 
 - [theme-nexmoe/hexo-theme-nexmoe: 🔥 一个比较特别的 Hexo 主题](https://github.com/theme-nexmoe/hexo-theme-nexmoe) 
 - [swc-project/swc: Swc 是一个用 rust 编写的超快的编译器; 使用现代标准和打字稿生成广泛支持的 javascript。](https://github.com/swc-project/swc) 
