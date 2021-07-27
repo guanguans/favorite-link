@@ -131,6 +131,7 @@
 ### July 27, 2021 
 - [Benjacho/belongs-to-many-field-nova: Belongs To Many field Laravel nova 表示字段中的多对多关系。](https://github.com/Benjacho/belongs-to-many-field-nova) 
 - [open-telemetry/opentelemetry-collector: Openelementtry 收集器](https://github.com/open-telemetry/opentelemetry-collector) 
+- [open-telemetry/opentelemetry-php: OpenTelemetry PHP 库](https://github.com/open-telemetry/opentelemetry-php) 
 ### July 26, 2021 
 - [gedoor/legado: 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具](https://github.com/gedoor/legado) 
 - [tidwall/tile38: 实时地理空间和地理信息](https://github.com/tidwall/tile38) 
