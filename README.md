@@ -135,6 +135,7 @@
 - [s9e/TextFormatter: 文本格式库，通过插件支持 BBCode、HTML 和其他标记。 处理表情符号、审查文字、自动嵌入媒体等。](https://github.com/s9e/TextFormatter) 
 - [spatie/url-signer: 创建和验证具有有限生命周期的签名 URL](https://github.com/spatie/url-signer) 
 - [phayes/geoPHP: PHP 中的高级几何操作](https://github.com/phayes/geoPHP) 
+- [swisnl/laravel-fulltext: 全文索引和搜索 Laravel](https://github.com/swisnl/laravel-fulltext) 
 ### July 27, 2021 
 - [Benjacho/belongs-to-many-field-nova: Belongs To Many field Laravel nova 表示字段中的多对多关系。](https://github.com/Benjacho/belongs-to-many-field-nova) 
 - [open-telemetry/opentelemetry-collector: Openelementtry 收集器](https://github.com/open-telemetry/opentelemetry-collector) 
