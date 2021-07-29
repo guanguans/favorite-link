@@ -129,6 +129,9 @@
 
 
 
+
+### July 29, 2021 
+- [google/go-cloud: Go云开发工具包（Go CDK）：用于在Go中开发开放云的库和工具。](https://github.com/google/go-cloud) 
 ### July 28, 2021 
 - [Anonymous-ghost/AttackWebFrameworkTools: 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。](https://github.com/Anonymous-ghost/AttackWebFrameworkTools) 
 - [lizhichao/one-ck: 用于clickhouse的php tcp客户端](https://github.com/lizhichao/one-ck) 
