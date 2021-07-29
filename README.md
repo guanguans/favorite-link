@@ -135,6 +135,7 @@
 - [amirgamil/apollo: 一个 Unix 风格的个人搜索引擎和网络爬虫，用于您的数字足迹。](https://github.com/amirgamil/apollo) 
 - [kubernetes-sigs/sig-storage-local-static-provisioner: 本地卷的静态提供者](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) 
 - [colinmarc/hdfs: HDFS 的本地 go 客户端](https://github.com/colinmarc/hdfs) 
+- [mhinz/vim-startify: 🔗 精美的 Vim 启动屏幕。](https://github.com/mhinz/vim-startify) 
 ### July 28, 2021 
 - [Anonymous-ghost/AttackWebFrameworkTools: 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。](https://github.com/Anonymous-ghost/AttackWebFrameworkTools) 
 - [lizhichao/one-ck: 用于clickhouse的php tcp客户端](https://github.com/lizhichao/one-ck) 
