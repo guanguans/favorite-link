@@ -135,6 +135,7 @@
 - [shetabit/visitor: 与访客合作并检索其信息的laravel软件包](https://github.com/shetabit/visitor) 
 - [arismelachroinos/lscript: LAZY 脚本将使您的生活更轻松，当然也更快。](https://github.com/arismelachroinos/lscript) 
 - [Okipa/laravel-table: 从 Eloquent 模型生成表。](https://github.com/Okipa/laravel-table) 
+- [moul/golang-repo-template: 😄 golang-repo-template](https://github.com/moul/golang-repo-template) 
 ### July 29, 2021 
 - [google/go-cloud: Go云开发工具包（Go CDK）：用于在Go中开发开放云的库和工具。](https://github.com/google/go-cloud) 
 - [amirgamil/apollo: 一个 Unix 风格的个人搜索引擎和网络爬虫，用于您的数字足迹。](https://github.com/amirgamil/apollo) 
