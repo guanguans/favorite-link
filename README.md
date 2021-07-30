@@ -137,6 +137,7 @@
 - [Okipa/laravel-table: 从 Eloquent 模型生成表。](https://github.com/Okipa/laravel-table) 
 - [moul/golang-repo-template: 😄 golang-repo-template](https://github.com/moul/golang-repo-template) 
 - [artisansdk/ratelimiter: 一个漏桶速率限制器和相应的中间件，具有与 Laravel 兼容的路由级粒度。](https://github.com/artisansdk/ratelimiter) 
+- [PHP-DI/Invoker: 通用且可扩展的可调用调用程序](https://github.com/PHP-DI/Invoker) 
 ### July 29, 2021 
 - [google/go-cloud: Go云开发工具包（Go CDK）：用于在Go中开发开放云的库和工具。](https://github.com/google/go-cloud) 
 - [amirgamil/apollo: 一个 Unix 风格的个人搜索引擎和网络爬虫，用于您的数字足迹。](https://github.com/amirgamil/apollo) 
