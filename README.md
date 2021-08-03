@@ -135,6 +135,7 @@
 
 ### August 3, 2021 
 - [hakluke/hakrawler: 简单、快速的网络爬虫，旨在轻松、快速地发现网络应用程序中的端点和资产](https://github.com/hakluke/hakrawler) 
+- [mitchellh/go-ps: 从 Go (golang) 查找、列出和检查进程。](https://github.com/mitchellh/go-ps) 
 ### August 2, 2021 
 - [stechstudio/laravel-zipstream: 即时轻松创建 Zip 文件并提供流式下载](https://github.com/stechstudio/laravel-zipstream) 
 - [bilfeldt/laravel-http-client-logger: Laravel HTTP 客户端的记录器](https://github.com/bilfeldt/laravel-http-client-logger) 
