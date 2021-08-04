@@ -137,6 +137,7 @@
 ### August 4, 2021 
 - [awake1t/linglong: 一款甲方资产巡航扫描系统。系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示](https://github.com/awake1t/linglong) 
 - [microsoft/ML-For-Beginners: 12 周，25 节课，50 个测验，适合所有人的经典机器学习](https://github.com/microsoft/ML-For-Beginners) 
+- [benmanns/goworker: goworker 是基于 Go 的后台工作线程，其运行速度比基于 Ruby 的工作线程快 10 到 100,000* 倍。](https://github.com/benmanns/goworker) 
 ### August 3, 2021 
 - [hakluke/hakrawler: 简单、快速的网络爬虫，旨在轻松、快速地发现网络应用程序中的端点和资产](https://github.com/hakluke/hakrawler) 
 - [mitchellh/go-ps: 从 Go (golang) 查找、列出和检查进程。](https://github.com/mitchellh/go-ps) 
