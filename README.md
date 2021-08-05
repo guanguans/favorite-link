@@ -139,6 +139,7 @@
 - [go-gl/mathgl: 纯Go 3D数学库。](https://github.com/go-gl/mathgl) 
 - [matryer/xbar: 将任何脚本或程序的输出放入 macOS 菜单栏（BitBar 重启）](https://github.com/matryer/xbar) 
 - [mwitkow/go-proto-validators: 从 .proto 注释生成消息验证器。](https://github.com/mwitkow/go-proto-validators) 
+- [adonovan/gopl.io: 来自“Go编程语言”的示例程序](https://github.com/adonovan/gopl.io) 
 ### August 4, 2021 
 - [awake1t/linglong: 一款甲方资产巡航扫描系统。系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示](https://github.com/awake1t/linglong) 
 - [microsoft/ML-For-Beginners: 12 周，25 节课，50 个测验，适合所有人的经典机器学习](https://github.com/microsoft/ML-For-Beginners) 
