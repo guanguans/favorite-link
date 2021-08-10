@@ -141,6 +141,7 @@
 - [babenkoivan/elastic-scout-driver: Laravel Scout 的 Elasticsearch 驱动程序](https://github.com/babenkoivan/elastic-scout-driver) 
 - [goflyfox/gtoken: 基于gf框架的token插件，通过服务端验证方式实现token认证；](https://github.com/goflyfox/gtoken) 
 - [Ne0nd0g/go-shellcode: go-shellcode 是 Windows Shellcode 运行程序和支持实用程序的存储库。 应用程序使用各种 API 调用或技术加载和执行 Shellcode。](https://github.com/Ne0nd0g/go-shellcode) 
+- [denisbrodbeck/machineid: 获取任何主机的唯一机器 ID（无管理员权限）](https://github.com/denisbrodbeck/machineid) 
 ### August 9, 2021 
 - [togettoyou/super-signature: iOS重签名应用(iOS超级签名、蒲公英ios内测分发)](https://github.com/togettoyou/super-signature) 
 - [nyaruka/phonenumbers: Google 的 libphonenumber 库的 GoLang 端口](https://github.com/nyaruka/phonenumbers) 
