@@ -136,6 +136,9 @@
 
 
 
+
+### August 10, 2021 
+- [babenkoivan/elastic-scout-driver: Laravel Scout 的 Elasticsearch 驱动程序](https://github.com/babenkoivan/elastic-scout-driver) 
 ### August 9, 2021 
 - [togettoyou/super-signature: iOS重签名应用(iOS超级签名、蒲公英ios内测分发)](https://github.com/togettoyou/super-signature) 
 - [nyaruka/phonenumbers: Google 的 libphonenumber 库的 GoLang 端口](https://github.com/nyaruka/phonenumbers) 
