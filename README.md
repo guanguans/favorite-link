@@ -144,6 +144,7 @@
 - [archtechx/laravel-pages: 通过创建 Markdown 或 Blade 文件，轻松向 Laravel 应用添加路由](https://github.com/archtechx/laravel-pages) 
 - [cerbero90/lazy-json-pages: 🐼 框架无关包，使用异步 HTTP 请求和 PHP 生成器将分页的 JSON API 项加载到 Laravel 延迟集合中。](https://github.com/cerbero90/lazy-json-pages) 
 - [zricethezav/gitleaks: 使用正则表达式和熵扫描 git repos（或文件）以获取秘密 🔑](https://github.com/zricethezav/gitleaks) 
+- [aikuyun/iterm2-zmodem: 在 Mac 下，实现与服务器进行便捷的文件上传和下载操作](https://github.com/aikuyun/iterm2-zmodem) 
 ### August 10, 2021 
 - [babenkoivan/elastic-scout-driver: Laravel Scout 的 Elasticsearch 驱动程序](https://github.com/babenkoivan/elastic-scout-driver) 
 - [goflyfox/gtoken: 基于gf框架的token插件，通过服务端验证方式实现token认证；](https://github.com/goflyfox/gtoken) 
