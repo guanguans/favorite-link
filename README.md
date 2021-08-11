@@ -142,6 +142,7 @@
 - [NoiseByNorthwest/php-spx: 带有内置 Web UI 的简单直接的 PHP 分析扩展](https://github.com/NoiseByNorthwest/php-spx) 
 - [Ne0nd0g/merlin: Merlin 是一个用 golang 编写的跨平台后开发 HTTP/2 命令和控制服务器和代理。](https://github.com/Ne0nd0g/merlin) 
 - [archtechx/laravel-pages: 通过创建 Markdown 或 Blade 文件，轻松向 Laravel 应用添加路由](https://github.com/archtechx/laravel-pages) 
+- [cerbero90/lazy-json-pages: 🐼 框架无关包，使用异步 HTTP 请求和 PHP 生成器将分页的 JSON API 项加载到 Laravel 延迟集合中。](https://github.com/cerbero90/lazy-json-pages) 
 ### August 10, 2021 
 - [babenkoivan/elastic-scout-driver: Laravel Scout 的 Elasticsearch 驱动程序](https://github.com/babenkoivan/elastic-scout-driver) 
 - [goflyfox/gtoken: 基于gf框架的token插件，通过服务端验证方式实现token认证；](https://github.com/goflyfox/gtoken) 
