@@ -142,6 +142,7 @@
 
 ### August 17, 2021 
 - [svenluijten/artisan-view: 👀 通过 artisan 管理你在 Laravel 项目中的视图](https://github.com/svenluijten/artisan-view) 
+- [XAMPPRocky/tokei: 快速计算您的代码。](https://github.com/XAMPPRocky/tokei) 
 ### August 16, 2021 
 - [silently9527/Toolkit: 程序员常用的工具集Idea插件，帮助开发人员提升效率](https://github.com/silently9527/Toolkit) 
 - [sanity-io/litter: Litter 是一个用于 Go 数据结构的漂亮的打印机库，用于帮助调试和测试。](https://github.com/sanity-io/litter) 
