@@ -140,6 +140,9 @@
 
 
 
+
+### August 19, 2021 
+- [symfony/mailer: Mailer 组件帮助发送电子邮件](https://github.com/symfony/mailer) 
 ### August 17, 2021 
 - [svenluijten/artisan-view: 👀 通过 artisan 管理你在 Laravel 项目中的视图](https://github.com/svenluijten/artisan-view) 
 - [XAMPPRocky/tokei: 快速计算您的代码。](https://github.com/XAMPPRocky/tokei) 
