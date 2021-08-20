@@ -144,6 +144,7 @@
 
 ### August 20, 2021 
 - [desertbit/grumble: 强大的现代 CLI 和 SHELL](https://github.com/desertbit/grumble) 
+- [praetorian-inc/gokart: 用于保护 Go 代码的静态分析工具](https://github.com/praetorian-inc/gokart) 
 ### August 19, 2021 
 - [symfony/mailer: Mailer 组件帮助发送电子邮件](https://github.com/symfony/mailer) 
 - [funny/link: Go语言网络层脚手架](https://github.com/funny/link) 
