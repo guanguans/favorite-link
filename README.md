@@ -143,6 +143,9 @@
 
 
 
+
+### August 24, 2021 
+- [golang-design/go2generics: Go 语言泛型的代码示例（基于类型参数和类型集）](https://github.com/golang-design/go2generics) 
 ### August 23, 2021 
 - [cristalhq/base64: Go 的更快 base64 编码](https://github.com/cristalhq/base64) 
 - [go-ozzo/ozzo-routing: 一个极快的 Go (golang) HTTP 路由器，支持正则表达式路由匹配。 完全支持构建 RESTful API。](https://github.com/go-ozzo/ozzo-routing) 
