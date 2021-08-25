@@ -151,6 +151,7 @@
 - [judwhite/go-svc: 适用于 Linux 的 Windows 服务包装器。](https://github.com/judwhite/go-svc) 
 - [0xERR0R/blocky: 快速轻量的 DNS 代理作为具有许多功能的本地网络的广告拦截器](https://github.com/0xERR0R/blocky) 
 - [eastlakeside/awesome-productivity-cn: 绝妙的个人生产力](https://github.com/eastlakeside/awesome-productivity-cn) 
+- [mouyong/translate: 集成百度翻译、有道云翻译、谷歌翻译、金山词霸翻译](https://github.com/mouyong/translate) 
 ### August 24, 2021 
 - [golang-design/go2generics: Go 语言泛型的代码示例（基于类型参数和类型集）](https://github.com/golang-design/go2generics) 
 - [butschster/ray-server: Ray server是一款基于Laravel构建的漂亮、轻量级php应用程序，可帮助您调试应用程序。](https://github.com/butschster/ray-server) 
