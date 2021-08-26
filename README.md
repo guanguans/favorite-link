@@ -150,6 +150,7 @@
 - [protonemedia/laravel-analytics-event-tracking: Laravel软件包可轻松将事件发送到Google Analytics](https://github.com/protonemedia/laravel-analytics-event-tracking) 
 - [kirschbaum-development/laravel-queue-batch-retry: 使用自定义过滤器批量重试失败作业的包。](https://github.com/kirschbaum-development/laravel-queue-batch-retry) 
 - [brainfoolong/cryptojs-aes-php: CryptoJS 3.x AES 加密/解密在客户端使用 Javascript 和在服务器端使用 PHP](https://github.com/brainfoolong/cryptojs-aes-php) 
+- [gabrielelana/byte-units: Library to parse, format and convert byte units](https://github.com/gabrielelana/byte-units) 
 ### August 25, 2021 
 - [darsyn/ip: IPv4和 IPv6地址的不变值对象，包括 helper 方法和 Doctrine 支持。](https://github.com/darsyn/ip) 
 - [illuminate/conditionable: 可设置条件的包。](https://github.com/illuminate/conditionable) 
