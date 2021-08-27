@@ -151,6 +151,7 @@
 - [Ne-Lexa/php-zip: PhpZip 是一个用于扩展 ZIP 档案工作的 php 库。](https://github.com/Ne-Lexa/php-zip) 
 - [seisman/how-to-write-makefile: 跟我一起写Makefile重制版](https://github.com/seisman/how-to-write-makefile) 
 - [flamego/flamego: 一个奇妙的模块化Go web框架，包含依赖注入](https://github.com/flamego/flamego) 
+- [gitsrc/IceFireDB: 基于 Raft 和 Redis 协议的分布式磁盘存储数据库。](https://github.com/gitsrc/IceFireDB) 
 ### August 26, 2021 
 - [protonemedia/laravel-analytics-event-tracking: Laravel软件包可轻松将事件发送到Google Analytics](https://github.com/protonemedia/laravel-analytics-event-tracking) 
 - [kirschbaum-development/laravel-queue-batch-retry: 使用自定义过滤器批量重试失败作业的包。](https://github.com/kirschbaum-development/laravel-queue-batch-retry) 
