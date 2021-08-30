@@ -147,6 +147,9 @@
 
 
 
+
+### August 30, 2021 
+- [whsv26/functional: PHP 函数式编程库。 Monads，常用函数和泛型集合。](https://github.com/whsv26/functional) 
 ### August 27, 2021 
 - [Ne-Lexa/php-zip: PhpZip 是一个用于扩展 ZIP 档案工作的 php 库。](https://github.com/Ne-Lexa/php-zip) 
 - [seisman/how-to-write-makefile: 跟我一起写Makefile重制版](https://github.com/seisman/how-to-write-makefile) 
