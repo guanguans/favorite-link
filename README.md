@@ -153,6 +153,7 @@
 - [glauth/glauth: 用于开发、家庭使用或 CI 的轻量级 LDAP 服务器](https://github.com/glauth/glauth) 
 - [maaslalani/slides: 基于终端的演示工具](https://github.com/maaslalani/slides) 
 - [zu1k/copy-translator: 复制翻译器，使用 DeepL api](https://github.com/zu1k/copy-translator) 
+- [knadh/listmonk: 具有现代仪表板的高性能、自托管时事通讯和邮件列表管理器。 单个二进制应用程序。](https://github.com/knadh/listmonk) 
 ### August 27, 2021 
 - [Ne-Lexa/php-zip: PhpZip 是一个用于扩展 ZIP 档案工作的 php 库。](https://github.com/Ne-Lexa/php-zip) 
 - [seisman/how-to-write-makefile: 跟我一起写Makefile重制版](https://github.com/seisman/how-to-write-makefile) 
