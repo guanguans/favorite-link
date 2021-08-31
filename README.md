@@ -154,6 +154,7 @@
 - [jackc/pgx: 用于 Go 的 PostgreSQL 驱动程序和工具包](https://github.com/jackc/pgx) 
 - [shopsys/monorepo-tools: [只读] 用于从现有包构建和拆分单体存储库的工具（其历史记录不变）。 这个包用于拆分我们的 monorepo，我们按原样与我们的社区共享。](https://github.com/shopsys/monorepo-tools) 
 - [korfuri/awesome-monorepo: 精选的 Monorepo 工具、软件和架构列表。](https://github.com/korfuri/awesome-monorepo) 
+- [symplify/monorepo-split-github-action: Monorepo Split 的 Github Action](https://github.com/symplify/monorepo-split-github-action) 
 ### August 30, 2021 
 - [whsv26/functional: PHP 函数式编程库。 Monads，常用函数和泛型集合。](https://github.com/whsv26/functional) 
 - [glauth/glauth: 用于开发、家庭使用或 CI 的轻量级 LDAP 服务器](https://github.com/glauth/glauth) 
