@@ -150,6 +150,9 @@
 
 
 
+
+### September 2, 2021 
+- [idoubi/sql2struct: 使用sql生成golang结构的开发人员友好工具](https://github.com/idoubi/sql2struct) 
 ### September 1, 2021 
 - [gohouse/converter: mysql表结构自动生成golang struct](https://github.com/gohouse/converter) 
 - [elliotchance/orderedmap: Go 中的有序映射，对 Set、Get、Delete 和 Len 进行分摊 O(1)。](https://github.com/elliotchance/orderedmap) 
