@@ -154,6 +154,7 @@
 
 ### September 3, 2021 
 - [EnixCoda/Gitako: 🐙 Chrome & Firefox & Edge 上的 GitHub 文件树扩展](https://github.com/EnixCoda/Gitako) 
+- [hound-search/hound: 闪电般快速的代码搜索变得很容易](https://github.com/hound-search/hound) 
 ### September 2, 2021 
 - [idoubi/sql2struct: 使用sql生成golang结构的开发人员友好工具](https://github.com/idoubi/sql2struct) 
 ### September 1, 2021 
