@@ -157,6 +157,7 @@
 - [ryangjchandler/computed-properties: 一个小包，用于向任何 PHP 类添加计算属性。 🐘](https://github.com/ryangjchandler/computed-properties) 
 - [shengxinjing/self-employed-workbook: 写给自己的程序员自由职业工作手册](https://github.com/shengxinjing/self-employed-workbook) 
 - [mathaou/termdbms: 用于查看和（最终）编辑数据库文件的 TUI。 目前仅支持 SQLite。 MySQL 支持将很快添加。](https://github.com/mathaou/termdbms) 
+- [lampager/lampager-laravel: Laravel 的快速分页](https://github.com/lampager/lampager-laravel) 
 ### September 3, 2021 
 - [EnixCoda/Gitako: 🐙 Chrome & Firefox & Edge 上的 GitHub 文件树扩展](https://github.com/EnixCoda/Gitako) 
 - [hound-search/hound: 闪电般快速的代码搜索变得很容易](https://github.com/hound-search/hound) 
