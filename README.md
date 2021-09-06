@@ -155,6 +155,7 @@
 
 ### September 6, 2021 
 - [ryangjchandler/computed-properties: 一个小包，用于向任何 PHP 类添加计算属性。 🐘](https://github.com/ryangjchandler/computed-properties) 
+- [shengxinjing/self-employed-workbook: 写给自己的程序员自由职业工作手册](https://github.com/shengxinjing/self-employed-workbook) 
 ### September 3, 2021 
 - [EnixCoda/Gitako: 🐙 Chrome & Firefox & Edge 上的 GitHub 文件树扩展](https://github.com/EnixCoda/Gitako) 
 - [hound-search/hound: 闪电般快速的代码搜索变得很容易](https://github.com/hound-search/hound) 
