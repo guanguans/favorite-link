@@ -153,6 +153,9 @@
 
 
 
+
+### September 7, 2021 
+- [Intervention/mimesniffer:用于检测给定内容的 mime 类型的库](https://github.com/Intervention/mimesniffer) 
 ### September 6, 2021 
 - [ryangjchandler/computed-properties: 一个小包，用于向任何 PHP 类添加计算属性。 🐘](https://github.com/ryangjchandler/computed-properties) 
 - [shengxinjing/self-employed-workbook: 写给自己的程序员自由职业工作手册](https://github.com/shengxinjing/self-employed-workbook) 
