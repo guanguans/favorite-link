@@ -158,6 +158,7 @@
 - [Intervention/mimesniffer:用于检测给定内容的 mime 类型的库](https://github.com/Intervention/mimesniffer) 
 - [roseduan/algo-learn: 学习数据结构与算法的代码示例，目前提供 Java、Python、Go 三种语言支持](https://github.com/roseduan/algo-learn) 
 - [schollz/find3: 高精度室内定位框架，版本3。](https://github.com/schollz/find3) 
+- [lepikhinb/laravel-fluent：该包提供了一种富有表现力的“流畅”方式来定义模型属性。 它会在运行时自动构建强制转换，并将本机自动完成功能添加到模型的属性中。](https://github.com/lepikhinb/laravel-fluent) 
 ### September 6, 2021 
 - [ryangjchandler/computed-properties: 一个小包，用于向任何 PHP 类添加计算属性。 🐘](https://github.com/ryangjchandler/computed-properties) 
 - [shengxinjing/self-employed-workbook: 写给自己的程序员自由职业工作手册](https://github.com/shengxinjing/self-employed-workbook) 
