@@ -157,6 +157,7 @@
 
 ### September 8, 2021 
 - [lima-vm/lima: macOS 上的 Linux 虚拟机](https://github.com/lima-vm/lima) 
+- [go-gorm/gen: 基于 GORM 的代码生成器](https://github.com/go-gorm/gen) 
 ### September 7, 2021 
 - [Intervention/mimesniffer:用于检测给定内容的 mime 类型的库](https://github.com/Intervention/mimesniffer) 
 - [roseduan/algo-learn: 学习数据结构与算法的代码示例，目前提供 Java、Python、Go 三种语言支持](https://github.com/roseduan/algo-learn) 
