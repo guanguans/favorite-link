@@ -165,6 +165,7 @@
 - [mvdan/sh: 支持 bash 的 shell 解析器、格式化器和解释器； 包括 shfmt](https://github.com/mvdan/sh) 
 - [inbucket/inbucket: 内置 SMTP、POP3、RESTful 服务器的一次性 webmail 服务器（类似于 Mailinator）； 不需要数据库。](https://github.com/inbucket/inbucket) 
 - [inconshreveable/go-update: 构建自更新 Golang 程序](https://github.com/inconshreveable/go-update) 
+- [matomo-org/device-detector: 通用设备检测库将解析任何用户代理并检测浏览器、操作系统、使用的设备（台式机、平板电脑、手机、电视、汽车、控制台等）、品牌和型号。](https://github.com/matomo-org/device-detector) 
 ### September 8, 2021 
 - [lima-vm/lima: macOS 上的 Linux 虚拟机](https://github.com/lima-vm/lima) 
 - [go-gorm/gen: 基于 GORM 的代码生成器](https://github.com/go-gorm/gen) 
