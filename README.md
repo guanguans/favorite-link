@@ -160,6 +160,7 @@
 - [smol-rs/event-listener: 通知异步任务或线程](https://github.com/smol-rs/event-listener) 
 - [nats-io/nats.go: 用于NATS的Golang客户端，云本地消息传递系统。](https://github.com/nats-io/nats.go) 
 - [miguelmota/ethereum-development-with-go-book: 📖 使用Go（golang）开发以太坊的小指南](https://github.com/miguelmota/ethereum-development-with-go-book) 
+- [yanfeizhang/coder-kung-fu: 开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu) 
 ### September 8, 2021 
 - [lima-vm/lima: macOS 上的 Linux 虚拟机](https://github.com/lima-vm/lima) 
 - [go-gorm/gen: 基于 GORM 的代码生成器](https://github.com/go-gorm/gen) 
