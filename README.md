@@ -164,6 +164,7 @@
 - [Narasimha1997/ratelimiter: 基于 Sliding-Window 速率限制器算法的 Golang 并发速率限制器库。](https://github.com/Narasimha1997/ratelimiter) 
 - [mvdan/sh: 支持 bash 的 shell 解析器、格式化器和解释器； 包括 shfmt](https://github.com/mvdan/sh) 
 - [inbucket/inbucket: 内置 SMTP、POP3、RESTful 服务器的一次性 webmail 服务器（类似于 Mailinator）； 不需要数据库。](https://github.com/inbucket/inbucket) 
+- [inconshreveable/go-update: 构建自更新 Golang 程序](https://github.com/inconshreveable/go-update) 
 ### September 8, 2021 
 - [lima-vm/lima: macOS 上的 Linux 虚拟机](https://github.com/lima-vm/lima) 
 - [go-gorm/gen: 基于 GORM 的代码生成器](https://github.com/go-gorm/gen) 
