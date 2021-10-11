@@ -155,6 +155,9 @@
 
 
 
+
+### October 11, 2021 
+- [smol-rs/event-listener: 通知异步任务或线程](https://github.com/smol-rs/event-listener) 
 ### September 8, 2021 
 - [lima-vm/lima: macOS 上的 Linux 虚拟机](https://github.com/lima-vm/lima) 
 - [go-gorm/gen: 基于 GORM 的代码生成器](https://github.com/go-gorm/gen) 
