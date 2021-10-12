@@ -159,6 +159,7 @@
 
 ### October 12, 2021 
 - [New Link: feiyangqingyun/QWidgetDemo: Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用。](https://github.com/feiyangqingyun/QWidgetDemo) 
+- [anncwb/vue-vben-admin: Vue Vben Admin 是一个免费开源的中后台模版。](https://github.com/anncwb/vue-vben-admin) 
 ### October 11, 2021 
 - [smol-rs/event-listener: 通知异步任务或线程](https://github.com/smol-rs/event-listener) 
 - [nats-io/nats.go: 用于NATS的Golang客户端，云本地消息传递系统。](https://github.com/nats-io/nats.go) 
