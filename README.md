@@ -163,6 +163,7 @@
 - [fosscord/fosscord: Fosscord 是一个免费的开源自托管 Discord 兼容聊天、语音和视频平台](https://github.com/fosscord/fosscord) 
 - [hteen/apple-store-helper: Apple Store iPhone预约助手](https://github.com/hteen/apple-store-helper) 
 - [openscrm/api-server: OpenSCRM是一套基于Go和React的超高质量企业微信私域流量管理系统 。](https://github.com/openscrm/api-server) 
+- [TencentLexiang/lxapi-sdk: 腾讯乐享开放接口sdk](https://github.com/TencentLexiang/lxapi-sdk) 
 ### October 12, 2021 
 - [New Link: feiyangqingyun/QWidgetDemo: Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用。](https://github.com/feiyangqingyun/QWidgetDemo) 
 - [anncwb/vue-vben-admin: Vue Vben Admin 是一个免费开源的中后台模版。](https://github.com/anncwb/vue-vben-admin) 
