@@ -164,6 +164,7 @@
 - [ddosify/ddosify: 用 Golang 编写的高性能负载测试工具。](https://github.com/ddosify/ddosify) 
 - [xuedingmiaojun/wxappUnpacker: 小程序反编译(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker) 
 - [yangyiRunning/Beijing-House: 面向北京码农同胞的从0开始的买房踩盘实录](https://github.com/yangyiRunning/Beijing-House) 
+- [lpilp/phpsm2sm3sm4: php版本的国密sm2的签名算法，sm3的hash, sm4的ecb加解密](https://github.com/lpilp/phpsm2sm3sm4) 
 ### October 13, 2021 
 - [xyTom/Url-Shorten-Worker: 使用 Cloudflare worker 创建的 URL Shortener](https://github.com/xyTom/Url-Shorten-Worker) 
 - [fosscord/fosscord: Fosscord 是一个免费的开源自托管 Discord 兼容聊天、语音和视频平台](https://github.com/fosscord/fosscord) 
