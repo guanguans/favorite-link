@@ -161,6 +161,7 @@
 
 ### October 14, 2021 
 - [FASTSHIFT/X-TRACK: 开源GPS自行车码表。](https://github.com/FASTSHIFT/X-TRACK) 
+- [ddosify/ddosify: 用 Golang 编写的高性能负载测试工具。](https://github.com/ddosify/ddosify) 
 ### October 13, 2021 
 - [xyTom/Url-Shorten-Worker: 使用 Cloudflare worker 创建的 URL Shortener](https://github.com/xyTom/Url-Shorten-Worker) 
 - [fosscord/fosscord: Fosscord 是一个免费的开源自托管 Discord 兼容聊天、语音和视频平台](https://github.com/fosscord/fosscord) 
