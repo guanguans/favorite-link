@@ -164,6 +164,7 @@
 - [phar-io/version: 用于处理版本信息和约束的库](https://github.com/phar-io/version) 
 - [revoltphp/event-loop: REVERSE是并发PHP应用程序的可靠事件循环。](https://github.com/revoltphp/event-loop) 
 - [HTMLMin/Laravel-HTMLMin: 适用于 Laravel 5、6 和 7 的简单 HTML 缩小器。](https://github.com/HTMLMin/Laravel-HTMLMin) 
+- [alexanderpas/php-http-enum](https://github.com/alexanderpas/php-http-enum) 
 ### October 14, 2021 
 - [FASTSHIFT/X-TRACK: 开源GPS自行车码表。](https://github.com/FASTSHIFT/X-TRACK) 
 - [ddosify/ddosify: 用 Golang 编写的高性能负载测试工具。](https://github.com/ddosify/ddosify) 
