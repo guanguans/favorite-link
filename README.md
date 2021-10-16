@@ -162,6 +162,7 @@
 
 ### October 16, 2021 
 - [phar-io/version: 用于处理版本信息和约束的库](https://github.com/phar-io/version) 
+- [revoltphp/event-loop: REVERSE是并发PHP应用程序的可靠事件循环。](https://github.com/revoltphp/event-loop) 
 ### October 14, 2021 
 - [FASTSHIFT/X-TRACK: 开源GPS自行车码表。](https://github.com/FASTSHIFT/X-TRACK) 
 - [ddosify/ddosify: 用 Golang 编写的高性能负载测试工具。](https://github.com/ddosify/ddosify) 
