@@ -167,6 +167,7 @@
 - [go-openapi/spec: openapi 规范对象模型](https://github.com/go-openapi/spec) 
 - [pinkhello/go-starter: Go 服务框架脚手架. 整合 echo、swag、viper、nsq、logrus、fx、xorm、cobra 等第三方库](https://github.com/pinkhello/go-starter) 
 - [Kagami/go-face: 🔍使用Go进行人脸识别](https://github.com/Kagami/go-face) 
+- [ikatyang/emoji-cheat-sheet: markdown 表情符号备忘单](https://github.com/ikatyang/emoji-cheat-sheet) 
 ### October 16, 2021 
 - [phar-io/version: 用于处理版本信息和约束的库](https://github.com/phar-io/version) 
 - [revoltphp/event-loop: REVERSE是并发PHP应用程序的可靠事件循环。](https://github.com/revoltphp/event-loop) 
