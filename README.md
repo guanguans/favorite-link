@@ -164,6 +164,7 @@
 ### October 18, 2021 
 - [whyour/qinglong: 定时任务管理面板](https://github.com/whyour/qinglong) 
 - [kitabisa/teler: 实时 HTTP 入侵检测](https://github.com/kitabisa/teler) 
+- [go-openapi/spec: openapi 规范对象模型](https://github.com/go-openapi/spec) 
 ### October 16, 2021 
 - [phar-io/version: 用于处理版本信息和约束的库](https://github.com/phar-io/version) 
 - [revoltphp/event-loop: REVERSE是并发PHP应用程序的可靠事件循环。](https://github.com/revoltphp/event-loop) 
