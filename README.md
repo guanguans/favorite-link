@@ -164,6 +164,7 @@
 
 ### October 20, 2021 
 - [khs1994-docker/lnmp:  使用 Docker Compose 快速搭建 LNMP 环境](https://github.com/khs1994-docker/lnmp) 
+- [spatie/laravel-site-search: 通过抓取您的网站创建全文搜索索引](https://github.com/spatie/laravel-site-search) 
 ### October 18, 2021 
 - [whyour/qinglong: 定时任务管理面板](https://github.com/whyour/qinglong) 
 - [kitabisa/teler: 实时 HTTP 入侵检测](https://github.com/kitabisa/teler) 
