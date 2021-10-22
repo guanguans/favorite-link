@@ -163,6 +163,9 @@
 
 
 
+
+### October 22, 2021 
+- [rinvex/laravel-attributes: Rinvex Attributes是一个健壮、智能和集成的实体属性值模型（EAV）实现。](https://github.com/rinvex/laravel-attributes) 
 ### October 21, 2021 
 - [rabbit-tcp/README_ZH.MD :这个项目用来承载并转发 TCP 流量，并在转发时对流量进行分拆与重组。](https://github.com/ihciah/rabbit-tcp/blob/master/README_ZH.MD) 
 - [go-pay/gopay: 微信、支付宝、PayPal 的Go版本SDK。](https://github.com/go-pay/gopay) 
