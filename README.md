@@ -164,6 +164,9 @@
 
 
 
+
+### October 24, 2021 
+- [jackluo2012/datacenter: 数据中台系统，基于go-zero框架](https://github.com/jackluo2012/datacenter) 
 ### October 22, 2021 
 - [rinvex/laravel-attributes: Rinvex Attributes是一个健壮、智能和集成的实体属性值模型（EAV）实现。](https://github.com/rinvex/laravel-attributes) 
 - [MyIntervals/emogrifier: 将 CSS 样式转换为 HTML 代码中的内联样式属性。](https://github.com/MyIntervals/emogrifier) 
