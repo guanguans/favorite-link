@@ -168,6 +168,7 @@
 
 ### October 25, 2021 
 - [squatto/alfred-imessage-2fa: iMessage 2FA Workflow for Alfred](https://github.com/squatto/alfred-imessage-2fa) 
+- [fnproject/fn: 本地容器、与云无关的无服务器平台。](https://github.com/fnproject/fn) 
 ### October 24, 2021 
 - [jackluo2012/datacenter: 数据中台系统，基于go-zero框架](https://github.com/jackluo2012/datacenter) 
 - [soywod/himalaya: 📫 CLI 电子邮件客户端](https://github.com/soywod/himalaya) 
