@@ -171,6 +171,7 @@
 - [rfyiamcool/go-netflow: go netflow，捕获进程进/出流量，类似于c Nethogs。](https://github.com/rfyiamcool/go-netflow) 
 - [KubeOperator/KubePi: KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板](https://github.com/KubeOperator/KubePi) 
 - [onsi/ginkgo: Go 的 BDD 测试框架](https://github.com/onsi/ginkgo) 
+- [go-playground/pool: 🚤 一个有限的消费者 goroutine 或无限的 goroutine 池，以便更容易地处理和取消 goroutine](https://github.com/go-playground/pool) 
 ### October 25, 2021 
 - [squatto/alfred-imessage-2fa: iMessage 2FA Workflow for Alfred](https://github.com/squatto/alfred-imessage-2fa) 
 - [fnproject/fn: 本地容器、与云无关的无服务器平台。](https://github.com/fnproject/fn) 
