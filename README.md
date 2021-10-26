@@ -177,6 +177,7 @@
 - [ankurk91/laravel-eloquent-relationships:  这个包为 Laravel 中的 Eloquent 添加了一些缺失的关系](https://github.com/ankurk91/laravel-eloquent-relationships) 
 - [chelout/laravel-relationship-events: 缺少 Laravel 的关系事件](https://github.com/chelout/laravel-relationship-events) 
 - [staudenmeir/belongs-to-through: Laravel Eloquent BelongsToThrough 关系](https://github.com/staudenmeir/belongs-to-through) 
+- [kitloong/eloquent-power-joins-with-compoships: 这个包是一个 Eloquent Power Joins 扩展，用于支持 Compoships。](https://github.com/kitloong/eloquent-power-joins-with-compoships) 
 ### October 25, 2021 
 - [squatto/alfred-imessage-2fa: iMessage 2FA Workflow for Alfred](https://github.com/squatto/alfred-imessage-2fa) 
 - [fnproject/fn: 本地容器、与云无关的无服务器平台。](https://github.com/fnproject/fn) 
