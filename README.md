@@ -175,6 +175,7 @@
 - [knative/eventing: Knative 事件绑定和交付的开源规范和实现](https://github.com/knative/eventing) 
 - [onsi/gomega: Gomega 是一个匹配器/断言库。](https://github.com/onsi/gomega) 
 - [ankurk91/laravel-eloquent-relationships:  这个包为 Laravel 中的 Eloquent 添加了一些缺失的关系](https://github.com/ankurk91/laravel-eloquent-relationships) 
+- [chelout/laravel-relationship-events: 缺少 Laravel 的关系事件](https://github.com/chelout/laravel-relationship-events) 
 ### October 25, 2021 
 - [squatto/alfred-imessage-2fa: iMessage 2FA Workflow for Alfred](https://github.com/squatto/alfred-imessage-2fa) 
 - [fnproject/fn: 本地容器、与云无关的无服务器平台。](https://github.com/fnproject/fn) 
