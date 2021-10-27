@@ -173,6 +173,7 @@
 - [tylertreat/comcast: 模拟糟糕的网络连接，以便您可以构建更好的系统。](https://github.com/tylertreat/comcast) 
 - [hyperjumptech/grule-rule-engine: Grule 是 Go (Golang) 编程语言的规则引擎库。](https://github.com/hyperjumptech/grule-rule-engine) 
 - [xxjwxc/caoguo: golang,微信小程序,电商系统](https://github.com/xxjwxc/caoguo) 
+- [getcandy/candy-api: GetCandy电子商务API](https://github.com/getcandy/candy-api) 
 ### October 26, 2021 
 - [rfyiamcool/go-netflow: go netflow，捕获进程进/出流量，类似于c Nethogs。](https://github.com/rfyiamcool/go-netflow) 
 - [KubeOperator/KubePi: KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板](https://github.com/KubeOperator/KubePi) 
