@@ -167,6 +167,9 @@
 
 
 
+
+### October 27, 2021 
+- [atongen/gosaic: 创建您自己的图像马赛克。](https://github.com/atongen/gosaic) 
 ### October 26, 2021 
 - [rfyiamcool/go-netflow: go netflow，捕获进程进/出流量，类似于c Nethogs。](https://github.com/rfyiamcool/go-netflow) 
 - [KubeOperator/KubePi: KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板](https://github.com/KubeOperator/KubePi) 
