@@ -171,6 +171,7 @@
 
 ### October 28, 2021 
 - [michaeldyrynda/laravel-efficient-uuid: Laravel 高效的 UUID](https://github.com/michaeldyrynda/laravel-efficient-uuid) 
+- [ZJDoc/GitGuide: 版本管理操作规范、工具以及托管平台使用](https://github.com/ZJDoc/GitGuide#%E8%AE%B8%E5%8F%AF%E8%AF%81) 
 ### October 27, 2021 
 - [atongen/gosaic: 创建您自己的图像马赛克。](https://github.com/atongen/gosaic) 
 - [tylertreat/comcast: 模拟糟糕的网络连接，以便您可以构建更好的系统。](https://github.com/tylertreat/comcast) 
