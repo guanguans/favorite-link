@@ -176,6 +176,7 @@
 - [arl/gitmux: 💻 Git 在你的 tmux 状态栏中](https://github.com/arl/gitmux) 
 - [nakagami/firebirdsql: 用于 Go (golang) 的 Firebird RDBMS sql 驱动程序](https://github.com/nakagami/firebirdsql) 
 - [qustavo/sqlhooks: 将钩子附加到任何数据库/sql驱动程序](https://github.com/qustavo/sqlhooks) 
+- [gosimple/slug: 支持多种语言的 URL 友好 slugify。](https://github.com/gosimple/slug) 
 ### October 29, 2021 
 - [vishvananda/netlink: 简单的 netlink 库。](https://github.com/vishvananda/netlink) 
 - [go-zookeeper/zk: 用于 Go 的本地 ZooKeeper 客户端](https://github.com/go-zookeeper/zk) 
