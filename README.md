@@ -178,6 +178,7 @@
 - [qustavo/sqlhooks: 将钩子附加到任何数据库/sql驱动程序](https://github.com/qustavo/sqlhooks) 
 - [gosimple/slug: 支持多种语言的 URL 友好 slugify。](https://github.com/gosimple/slug) 
 - [jeremykendall/php-domain-parser: PHP实现的基于公共后缀列表的域解析](https://github.com/jeremykendall/php-domain-parser) 
+- [jeremykendall/query-auth: REST API 查询身份验证的签名生成和验证](https://github.com/jeremykendall/query-auth) 
 ### October 29, 2021 
 - [vishvananda/netlink: 简单的 netlink 库。](https://github.com/vishvananda/netlink) 
 - [go-zookeeper/zk: 用于 Go 的本地 ZooKeeper 客户端](https://github.com/go-zookeeper/zk) 
