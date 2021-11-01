@@ -173,6 +173,7 @@
 
 ### November 1, 2021 
 - [yiisoft/yii-runner-roadrunner: 该软件包包含使用 RoadRunner 运行 Yii3 应用程序的引导程序。](https://github.com/yiisoft/yii-runner-roadrunner) 
+- [arl/gitmux: 💻 Git 在你的 tmux 状态栏中](https://github.com/arl/gitmux) 
 ### October 29, 2021 
 - [vishvananda/netlink: 简单的 netlink 库。](https://github.com/vishvananda/netlink) 
 - [go-zookeeper/zk: 用于 Go 的本地 ZooKeeper 客户端](https://github.com/go-zookeeper/zk) 
