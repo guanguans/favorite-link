@@ -174,6 +174,7 @@
 
 ### November 2, 2021 
 - [donjan-deng/hyperf-casbin: 适配 Hyperf 的开源访问控制框架Casbin](https://github.com/donjan-deng/hyperf-casbin) 
+- [kevinburke/nacl: NaCL API 集的纯 Go 实现](https://github.com/kevinburke/nacl) 
 ### November 1, 2021 
 - [yiisoft/yii-runner-roadrunner: 该软件包包含使用 RoadRunner 运行 Yii3 应用程序的引导程序。](https://github.com/yiisoft/yii-runner-roadrunner) 
 - [arl/gitmux: 💻 Git 在你的 tmux 状态栏中](https://github.com/arl/gitmux) 
