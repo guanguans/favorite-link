@@ -172,6 +172,9 @@
 
 
 
+
+### November 3, 2021 
+- [Rust-Coding-Guidelines/rust-coding-guidelines-zh: Rust 编码规范 中文版 （非官方）](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) 
 ### November 2, 2021 
 - [donjan-deng/hyperf-casbin: 适配 Hyperf 的开源访问控制框架Casbin](https://github.com/donjan-deng/hyperf-casbin) 
 - [kevinburke/nacl: NaCL API 集的纯 Go 实现](https://github.com/kevinburke/nacl) 
