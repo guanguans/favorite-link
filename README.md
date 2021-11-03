@@ -182,6 +182,7 @@
 - [MangoDB-io/MangoDB: 一个真正的开源 MongoDB 替代品](https://github.com/MangoDB-io/MangoDB) 
 - [hexops/valast: 将Go值转换为其AST](https://github.com/hexops/valast) 
 - [wimpysworld/quickemu: 快速创建和运行优化的 Windows、macOS 和 Linux 桌面虚拟机。](https://github.com/wimpysworld/quickemu) 
+- [googleapis/google-auth-library-php: 用于 PHP 的 Google 身份验证库](https://github.com/googleapis/google-auth-library-php) 
 ### November 2, 2021 
 - [donjan-deng/hyperf-casbin: 适配 Hyperf 的开源访问控制框架Casbin](https://github.com/donjan-deng/hyperf-casbin) 
 - [kevinburke/nacl: NaCL API 集的纯 Go 实现](https://github.com/kevinburke/nacl) 
