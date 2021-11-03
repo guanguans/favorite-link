@@ -179,6 +179,7 @@
 - [cockroachdb/errors: Go错误库，可通过网络进行错误移植](https://github.com/cockroachdb/errors) 
 - [MoyuScript/bilibili-api: 哔哩哔哩的API调用模块](https://github.com/MoyuScript/bilibili-api) 
 - [capnproto/go-capnproto2: 用于 Go 的 Cap'n Proto 库和代码生成器](https://github.com/capnproto/go-capnproto2) 
+- [MangoDB-io/MangoDB: 一个真正的开源 MongoDB 替代品](https://github.com/MangoDB-io/MangoDB) 
 ### November 2, 2021 
 - [donjan-deng/hyperf-casbin: 适配 Hyperf 的开源访问控制框架Casbin](https://github.com/donjan-deng/hyperf-casbin) 
 - [kevinburke/nacl: NaCL API 集的纯 Go 实现](https://github.com/kevinburke/nacl) 
