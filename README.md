@@ -177,6 +177,7 @@
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh: Rust 编码规范 中文版 （非官方）](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) 
 - [cch123/elasticsql: 在 golang(go) 中将 sql 转换为 elasticsearch DSL](https://github.com/cch123/elasticsql) 
 - [cockroachdb/errors: Go错误库，可通过网络进行错误移植](https://github.com/cockroachdb/errors) 
+- [MoyuScript/bilibili-api: 哔哩哔哩的API调用模块](https://github.com/MoyuScript/bilibili-api) 
 ### November 2, 2021 
 - [donjan-deng/hyperf-casbin: 适配 Hyperf 的开源访问控制框架Casbin](https://github.com/donjan-deng/hyperf-casbin) 
 - [kevinburke/nacl: NaCL API 集的纯 Go 实现](https://github.com/kevinburke/nacl) 
