@@ -176,6 +176,7 @@
 
 ### November 4, 2021 
 - [chai2010/ugo-compiler-book: 从头开发一个迷你Go语言编译器(开发中)](https://github.com/chai2010/ugo-compiler-book) 
+- [stevegrunwell/asimov: 从 Apple Time Machine 备份中自动排除开发依赖项](https://github.com/stevegrunwell/asimov) 
 ### November 3, 2021 
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh: Rust 编码规范 中文版 （非官方）](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) 
 - [cch123/elasticsql: 在 golang(go) 中将 sql 转换为 elasticsearch DSL](https://github.com/cch123/elasticsql) 
