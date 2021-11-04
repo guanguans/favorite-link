@@ -180,6 +180,7 @@
 - [xcodebuild/iProxy: 💎 跨平台Web调试代理（LightProxy的fork）](https://github.com/xcodebuild/iProxy) 
 - [emicklei/go-restful: 使用 Go 构建 REST 风格的 Web 服务的包](https://github.com/emicklei/go-restful) 
 - [wilsonmar/mac-setup: 🚀 自动安装、配置和运行几个堆栈中最流行的程序，以便在 Mac 和云端离线工作。](https://github.com/wilsonmar/mac-setup) 
+- [mlanin/laravel-api-debugger: 轻松调试您的 JSON API。](https://github.com/mlanin/laravel-api-debugger) 
 ### November 3, 2021 
 - [Rust-Coding-Guidelines/rust-coding-guidelines-zh: Rust 编码规范 中文版 （非官方）](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh) 
 - [cch123/elasticsql: 在 golang(go) 中将 sql 转换为 elasticsearch DSL](https://github.com/cch123/elasticsql) 
