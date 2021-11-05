@@ -184,6 +184,7 @@
 - [keycastr/keycastr: KeyCastr，一个开源的击键可视化工具。](https://github.com/keycastr/keycastr) 
 - [bufbuild/buf: 使用协议缓冲区的新方法。](https://github.com/bufbuild/buf) 
 - [TheNorthMemory/easyalipay: 支付宝 OpenAPI 的Guzzle HttpClient封装组合， 内置 请求签名 和 应答验签 两个middlewares中间件，创新性地实现了链式面向对象同步/异步调用远程接口。](https://github.com/TheNorthMemory/easyalipay) 
+- [TheNorthMemory/wechatpay-php: 微信支付 APIv2&APIv3 的Guzzle HttpClient封装组合， APIv2已内置请求数据签名及XML转换器，应答做了数据签名验签](https://github.com/TheNorthMemory/wechatpay-php) 
 ### November 4, 2021 
 - [chai2010/ugo-compiler-book: 从头开发一个迷你Go语言编译器(开发中)](https://github.com/chai2010/ugo-compiler-book) 
 - [stevegrunwell/asimov: 从 Apple Time Machine 备份中自动排除开发依赖项](https://github.com/stevegrunwell/asimov) 
