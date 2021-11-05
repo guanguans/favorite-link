@@ -181,6 +181,7 @@
 - [maxogden/menubar: 使用 Electron 创建菜单栏桌面应用程序的高级方法。](https://github.com/maxogden/menubar) 
 - [turbot/steampipe: 使用 SQL 即时查询您的云服务(AWS、 Azure、 GCP 等)。](https://github.com/turbot/steampipe) 
 - [asticode/go-astisub: 在 GO 中操纵字幕(. srt，. ssa/. ass，. stl，. ttml，. vtt (webvtt) ，teletext 等)](https://github.com/asticode/go-astisub) 
+- [keycastr/keycastr: KeyCastr，一个开源的击键可视化工具。](https://github.com/keycastr/keycastr) 
 ### November 4, 2021 
 - [chai2010/ugo-compiler-book: 从头开发一个迷你Go语言编译器(开发中)](https://github.com/chai2010/ugo-compiler-book) 
 - [stevegrunwell/asimov: 从 Apple Time Machine 备份中自动排除开发依赖项](https://github.com/stevegrunwell/asimov) 
