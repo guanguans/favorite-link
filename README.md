@@ -178,6 +178,7 @@
 
 ### November 8, 2021 
 - [mmarkdown/mmark: Mmark：面向 IETF 的 Go 中强大的 markdown 处理器](https://github.com/mmarkdown/mmark) 
+- [davidschlachter/embedded-struct-visualizer: 在 Go 项目中可视化嵌入结构图的工具](https://github.com/davidschlachter/embedded-struct-visualizer) 
 ### November 5, 2021 
 - [johannesjo/super-productivity: 与 Jira、Github 和 Gitlab 集成的程序员和其他数字工作者的待办事项列表和时间跟踪器](https://github.com/johannesjo/super-productivity) 
 - [electron-userland/electron-forge: 用于创建、发布和安装现代 Electron 应用程序的完整工具](https://github.com/electron-userland/electron-forge) 
