@@ -181,6 +181,7 @@
 - [davidschlachter/embedded-struct-visualizer: 在 Go 项目中可视化嵌入结构图的工具](https://github.com/davidschlachter/embedded-struct-visualizer) 
 - [laracademy/generators: 取您的数据库表并基于该表结构生成模型。](https://github.com/laracademy/generators) 
 - [forkcms/forkcms: Fork 是一个使用 Symfony 组件的易于使用的开源 CMS。](https://github.com/forkcms/forkcms) 
+- [gosuri/uilive: uilive 是一个实时更新终端输出的 go 库](https://github.com/gosuri/uilive) 
 ### November 5, 2021 
 - [johannesjo/super-productivity: 与 Jira、Github 和 Gitlab 集成的程序员和其他数字工作者的待办事项列表和时间跟踪器](https://github.com/johannesjo/super-productivity) 
 - [electron-userland/electron-forge: 用于创建、发布和安装现代 Electron 应用程序的完整工具](https://github.com/electron-userland/electron-forge) 
