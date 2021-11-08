@@ -183,6 +183,7 @@
 - [forkcms/forkcms: Fork 是一个使用 Symfony 组件的易于使用的开源 CMS。](https://github.com/forkcms/forkcms) 
 - [gosuri/uilive: uilive 是一个实时更新终端输出的 go 库](https://github.com/gosuri/uilive) 
 - [cyfdecyf/cow: 用 Go 编写的 HTTP 代理。 COW 可以自动识别被阻止的站点并使用父代理访问。](https://github.com/cyfdecyf/cow) 
+- [PHPFluent/Callback: 允许您以更动态的方式执行回调。](https://github.com/PHPFluent/Callback) 
 ### November 5, 2021 
 - [johannesjo/super-productivity: 与 Jira、Github 和 Gitlab 集成的程序员和其他数字工作者的待办事项列表和时间跟踪器](https://github.com/johannesjo/super-productivity) 
 - [electron-userland/electron-forge: 用于创建、发布和安装现代 Electron 应用程序的完整工具](https://github.com/electron-userland/electron-forge) 
