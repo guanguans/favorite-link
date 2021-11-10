@@ -187,6 +187,7 @@
 - [Laravel-Lang/laravel-lang-publisher: 来自 Laravel-Lang/lang 的 Laravel 框架、Jetstream、Fortify、Cashier、Spark 和 Nova 的发布者 lang 文件](https://github.com/Laravel-Lang/laravel-lang-publisher) 
 - [TheDragonCode/support: 支持包是用于项目的助手和工具的集合。](https://github.com/TheDragonCode/support) 
 - [TheDragonCode/pretty-array: 简单地将数组转换为漂亮的视图](https://github.com/TheDragonCode/pretty-array) 
+- [coderit666/GoGuide: 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识](https://github.com/coderit666/GoGuide) 
 ### November 9, 2021 
 - [SPX372928/MyIPTV: 标准协议移动直播源](https://github.com/SPX372928/MyIPTV) 
 - [LianjiaTech/lightning: Lightning 是一个 binlog 解析工具。 它可以生成原始 SQL 或闪回 SQL。](https://github.com/LianjiaTech/lightning) 
