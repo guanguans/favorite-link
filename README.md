@@ -185,6 +185,7 @@
 - [botpress/botpress: 🤖 可靠地理解文本和自动化对话的开发工具。 内置 NLU。 在任何消息传递渠道（Slack、MS Teams、网站、Telegram 等）上连接和部署。](https://github.com/botpress/botpress) 
 - [reindert-vetter/api-version-control: 以优雅的方式管理端点版本的 Laravel 包](https://github.com/reindert-vetter/api-version-control) 
 - [Laravel-Lang/laravel-lang-publisher: 来自 Laravel-Lang/lang 的 Laravel 框架、Jetstream、Fortify、Cashier、Spark 和 Nova 的发布者 lang 文件](https://github.com/Laravel-Lang/laravel-lang-publisher) 
+- [TheDragonCode/support: 支持包是用于项目的助手和工具的集合。](https://github.com/TheDragonCode/support) 
 ### November 9, 2021 
 - [SPX372928/MyIPTV: 标准协议移动直播源](https://github.com/SPX372928/MyIPTV) 
 - [LianjiaTech/lightning: Lightning 是一个 binlog 解析工具。 它可以生成原始 SQL 或闪回 SQL。](https://github.com/LianjiaTech/lightning) 
