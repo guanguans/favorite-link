@@ -187,6 +187,7 @@
 - [romanzipp/Laravel-SEO: SEO包实现了最大程度的定制和灵活性](https://github.com/romanzipp/Laravel-SEO) 
 - [mohae/deepcopy: 深度复制事物](https://github.com/mohae/deepcopy) 
 - [touhidurabir/command-validator: 一个简单的 laravel 包，用于验证控制台命令参数和选项。](https://github.com/touhidurabir/command-validator) 
+- [flugg/laravel-responder: 用于构建 API 响应的 Laravel Fractal 包，为您提供 Fractal 的强大功能和 Laravel 的优雅。](https://github.com/flugg/laravel-responder) 
 ### November 10, 2021 
 - [ineo6/hosts: GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。](https://github.com/ineo6/hosts) 
 - [wailsapp/wails: 使用 Go 和 Web 技术创建桌面应用程序。](https://github.com/wailsapp/wails) 
