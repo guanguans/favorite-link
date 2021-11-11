@@ -185,6 +185,7 @@
 - [orlangure/gnomock: 无需使用临时 Docker 容器编写模拟即可测试您的代码 📦 只需几行代码即可设置流行的服务 ⏱️ 没有 bash，没有 yaml，只有代码 💻](https://github.com/orlangure/gnomock) 
 - [ycd/dstp: 🧪 对您的网站运行常见的网络测试。](https://github.com/ycd/dstp) 
 - [romanzipp/Laravel-SEO: SEO包实现了最大程度的定制和灵活性](https://github.com/romanzipp/Laravel-SEO) 
+- [mohae/deepcopy: 深度复制事物](https://github.com/mohae/deepcopy) 
 ### November 10, 2021 
 - [ineo6/hosts: GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。](https://github.com/ineo6/hosts) 
 - [wailsapp/wails: 使用 Go 和 Web 技术创建桌面应用程序。](https://github.com/wailsapp/wails) 
