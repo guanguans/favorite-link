@@ -181,6 +181,7 @@
 
 ### November 11, 2021 
 - [michael-rubel/laravel-formatters: 可用于在 Laravel 应用程序中标准化数据格式的类集合。](https://github.com/michael-rubel/laravel-formatters) 
+- [rakyll/statik: 将文件嵌入到 Go 可执行文件中](https://github.com/rakyll/statik) 
 ### November 10, 2021 
 - [ineo6/hosts: GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。](https://github.com/ineo6/hosts) 
 - [wailsapp/wails: 使用 Go 和 Web 技术创建桌面应用程序。](https://github.com/wailsapp/wails) 
