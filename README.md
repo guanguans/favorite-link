@@ -184,6 +184,7 @@
 ### November 15, 2021 
 - [touhidurabir/laravel-model-sanitize: 一个 Laravel 包，用于处理模型数据的清理过程以创建/更新模型记录。](https://github.com/touhidurabir/laravel-model-sanitize) 
 - [roblesterjr04/EloquentSalesForce: 使用 Laravel Eloquent 模型结构的 SalesForce 包。](https://github.com/roblesterjr04/EloquentSalesForce) 
+- [lwch/natpass: 新一代NAT内网穿透+shell+vnc工具](https://github.com/lwch/natpass) 
 ### November 12, 2021 
 - [leproxy/leproxy: LeProxy 是适合所有人的 HTTP/SOCKS 代理服务器！](https://github.com/leproxy/leproxy) 
 - [go-bindata/go-bindata: 将数据文件转成go代码。](https://github.com/go-bindata/go-bindata) 
