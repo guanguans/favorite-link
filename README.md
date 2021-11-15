@@ -186,6 +186,7 @@
 - [roblesterjr04/EloquentSalesForce: 使用 Laravel Eloquent 模型结构的 SalesForce 包。](https://github.com/roblesterjr04/EloquentSalesForce) 
 - [lwch/natpass: 新一代NAT内网穿透+shell+vnc工具](https://github.com/lwch/natpass) 
 - [slackhq/nebula: 一个可扩展的覆盖网络工具，专注于性能、简单性和安全性](https://github.com/slackhq/nebula) 
+- [manifoldco/promptui: 命令行应用程序的交互式提示](https://github.com/manifoldco/promptui) 
 ### November 12, 2021 
 - [leproxy/leproxy: LeProxy 是适合所有人的 HTTP/SOCKS 代理服务器！](https://github.com/leproxy/leproxy) 
 - [go-bindata/go-bindata: 将数据文件转成go代码。](https://github.com/go-bindata/go-bindata) 
