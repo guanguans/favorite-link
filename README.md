@@ -181,6 +181,9 @@
 
 
 
+
+### November 16, 2021 
+- [spatie/laravel-health: 检查 Laravel 应用程序的健康状况](https://github.com/spatie/laravel-health) 
 ### November 15, 2021 
 - [touhidurabir/laravel-model-sanitize: 一个 Laravel 包，用于处理模型数据的清理过程以创建/更新模型记录。](https://github.com/touhidurabir/laravel-model-sanitize) 
 - [roblesterjr04/EloquentSalesForce: 使用 Laravel Eloquent 模型结构的 SalesForce 包。](https://github.com/roblesterjr04/EloquentSalesForce) 
