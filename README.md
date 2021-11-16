@@ -185,6 +185,7 @@
 ### November 16, 2021 
 - [spatie/laravel-health: 检查 Laravel 应用程序的健康状况](https://github.com/spatie/laravel-health) 
 - [envoyproxy/protoc-gen-validate: 用于生成多语言消息验证器的 protoc 插件](https://github.com/envoyproxy/protoc-gen-validate) 
+- [qoomon/docker-host: 将所有流量转发到本地 docker 主机或任何其他主机的 docker sidecar 容器](https://github.com/qoomon/docker-host) 
 ### November 15, 2021 
 - [touhidurabir/laravel-model-sanitize: 一个 Laravel 包，用于处理模型数据的清理过程以创建/更新模型记录。](https://github.com/touhidurabir/laravel-model-sanitize) 
 - [roblesterjr04/EloquentSalesForce: 使用 Laravel Eloquent 模型结构的 SalesForce 包。](https://github.com/roblesterjr04/EloquentSalesForce) 
