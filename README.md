@@ -182,6 +182,9 @@
 
 
 
+
+### November 17, 2021 
+- [AppFlowy-IO/appflowy: AppFlowy 是 Notion 的开源替代品。 您负责您的数据和自定义。 使用 Flutter 和 Rust 构建。](https://github.com/AppFlowy-IO/appflowy) 
 ### November 16, 2021 
 - [spatie/laravel-health: 检查 Laravel 应用程序的健康状况](https://github.com/spatie/laravel-health) 
 - [envoyproxy/protoc-gen-validate: 用于生成多语言消息验证器的 protoc 插件](https://github.com/envoyproxy/protoc-gen-validate) 
