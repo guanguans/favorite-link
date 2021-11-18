@@ -186,6 +186,7 @@
 
 ### November 18, 2021 
 - [brick/phonenumber: PHP 电话号码库](https://github.com/brick/phonenumber) 
+- [sql2builder/sql2builder.github.io:  将传统SQL转换为Laravel查询生成器。](https://github.com/sql2builder/sql2builder.github.io) 
 ### November 17, 2021 
 - [AppFlowy-IO/appflowy: AppFlowy 是 Notion 的开源替代品。 您负责您的数据和自定义。 使用 Flutter 和 Rust 构建。](https://github.com/AppFlowy-IO/appflowy) 
 - [archtechx/money: 一个用于处理金钱的简单包。](https://github.com/archtechx/money) 
