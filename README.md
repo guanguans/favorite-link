@@ -192,6 +192,7 @@
 - [prest/prest: 在任何现有或新的 Postgres 应用程序上简化和加速开发、即时、实时、高性能](https://github.com/prest/prest) 
 - [traefik/whoami: 将操作系统信息和HTTP请求打印到输出的微型Go Web服务器](https://github.com/traefik/whoami) 
 - [Nyholm/dsn: 将 DSN 字符串解析为值对象，使它们更易于使用、传递和操作。](https://github.com/Nyholm/dsn) 
+- [mad-web/laravel-enum: Laravel 的优雅枚举实现](https://github.com/mad-web/laravel-enum) 
 ### November 18, 2021 
 - [brick/phonenumber: PHP 电话号码库](https://github.com/brick/phonenumber) 
 - [sql2builder/sql2builder.github.io:  将传统SQL转换为Laravel查询生成器。](https://github.com/sql2builder/sql2builder.github.io) 
