@@ -188,6 +188,7 @@
 ### November 19, 2021 
 - [chinleung/laravel-multilingual-routes: 在 Laravel 应用程序中处理多语言路由的包。](https://github.com/chinleung/laravel-multilingual-routes) 
 - [mutagen-io/mutagen: 用于远程开发的快速文件同步和网络转发](https://github.com/mutagen-io/mutagen) 
+- [roberto-butti/50-drops-of-php: 开源免费电子书，收集了一些有用的、未知的、被低估的 PHP 函数或在 PHP 日常使用中发现、使用、学习的东西。](https://github.com/roberto-butti/50-drops-of-php) 
 ### November 18, 2021 
 - [brick/phonenumber: PHP 电话号码库](https://github.com/brick/phonenumber) 
 - [sql2builder/sql2builder.github.io:  将传统SQL转换为Laravel查询生成器。](https://github.com/sql2builder/sql2builder.github.io) 
