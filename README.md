@@ -184,6 +184,9 @@
 
 
 
+
+### November 19, 2021 
+- [chinleung/laravel-multilingual-routes: 在 Laravel 应用程序中处理多语言路由的包。](https://github.com/chinleung/laravel-multilingual-routes) 
 ### November 18, 2021 
 - [brick/phonenumber: PHP 电话号码库](https://github.com/brick/phonenumber) 
 - [sql2builder/sql2builder.github.io:  将传统SQL转换为Laravel查询生成器。](https://github.com/sql2builder/sql2builder.github.io) 
