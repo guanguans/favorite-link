@@ -188,6 +188,7 @@
 
 ### November 22, 2021 
 - [rawilk/laravel-form-components: 为 Tailwind 和 Livewire 构建的表单组件。](https://github.com/rawilk/laravel-form-components) 
+- [foxsen/archbase: 教科书《计算机体系结构基础》](https://github.com/foxsen/archbase) 
 ### November 19, 2021 
 - [chinleung/laravel-multilingual-routes: 在 Laravel 应用程序中处理多语言路由的包。](https://github.com/chinleung/laravel-multilingual-routes) 
 - [mutagen-io/mutagen: 用于远程开发的快速文件同步和网络转发](https://github.com/mutagen-io/mutagen) 
