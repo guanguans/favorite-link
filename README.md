@@ -189,6 +189,7 @@
 
 ### November 23, 2021 
 - [youfou/wxpy: 微信机器人 / 可能是最优雅的微信个人号 API ✨✨](https://github.com/youfou/wxpy) 
+- [volatiletech/sqlboiler: 生成一个适合您的数据库模式的Go ORM。](https://github.com/volatiletech/sqlboiler) 
 ### November 22, 2021 
 - [rawilk/laravel-form-components: 为 Tailwind 和 Livewire 构建的表单组件。](https://github.com/rawilk/laravel-form-components) 
 - [foxsen/archbase: 教科书《计算机体系结构基础》](https://github.com/foxsen/archbase) 
