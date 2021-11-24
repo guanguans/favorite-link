@@ -191,6 +191,7 @@
 ### November 24, 2021 
 - [clue/framework-x: Framework X – 简单快速的微型框架，用于构建可在任何地方运行的响应式 Web 应用程序。](https://github.com/clue/framework-x) 
 - [thockin/go-build-template: Go 应用模板构建环境](https://github.com/thockin/go-build-template) 
+- [78/xxfpm: 跨平台FastCGI进程管理器，可用作php的进程管理。](https://github.com/78/xxfpm) 
 ### November 23, 2021 
 - [youfou/wxpy: 微信机器人 / 可能是最优雅的微信个人号 API ✨✨](https://github.com/youfou/wxpy) 
 - [volatiletech/sqlboiler: 生成一个适合您的数据库模式的Go ORM。](https://github.com/volatiletech/sqlboiler) 
