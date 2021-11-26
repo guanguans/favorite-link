@@ -194,6 +194,7 @@
 - [ktr0731/go-fuzzyfinder: 类似 fzf 的模糊查找器作为 Go 库](https://github.com/ktr0731/go-fuzzyfinder) 
 - [ahmetb/govvv: “go build”包装器将版本信息添加到 Golang 应用程序](https://github.com/ahmetb/govvv) 
 - [99designs/gqlgen: go生成基于graphql的服务器库](https://github.com/99designs/gqlgen) 
+- [a-h/generate:从 JSON 模式生成 Go (golang) 结构。](https://github.com/a-h/generate) 
 ### November 25, 2021 
 - [goplus/gox: Go 语言的代码生成器](https://github.com/goplus/gox) 
 - [davidwernhart/AlDente: 限制最大充电百分比的 macOS 工具](https://github.com/davidwernhart/AlDente) 
