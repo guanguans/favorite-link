@@ -190,6 +190,9 @@
 
 
 
+
+### November 29, 2021 
+- [CuyZ/Valinor: 有助于将任何输入映射到强类型值对象结构的 PHP 库。](https://github.com/CuyZ/Valinor) 
 ### November 26, 2021 
 - [ktr0731/go-fuzzyfinder: 类似 fzf 的模糊查找器作为 Go 库](https://github.com/ktr0731/go-fuzzyfinder) 
 - [ahmetb/govvv: “go build”包装器将版本信息添加到 Golang 应用程序](https://github.com/ahmetb/govvv) 
