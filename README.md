@@ -193,6 +193,7 @@
 
 ### November 29, 2021 
 - [CuyZ/Valinor: 有助于将任何输入映射到强类型值对象结构的 PHP 库。](https://github.com/CuyZ/Valinor) 
+- [wxbool/video-srt-windows: 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。](https://github.com/wxbool/video-srt-windows) 
 ### November 26, 2021 
 - [ktr0731/go-fuzzyfinder: 类似 fzf 的模糊查找器作为 Go 库](https://github.com/ktr0731/go-fuzzyfinder) 
 - [ahmetb/govvv: “go build”包装器将版本信息添加到 Golang 应用程序](https://github.com/ahmetb/govvv) 
