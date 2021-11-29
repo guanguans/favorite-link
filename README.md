@@ -197,6 +197,7 @@
 - [egoist/bget: 从 GitHub Releases 以交互方式下载和安装二进制文件。](https://github.com/egoist/bget) 
 - [HyNetwork/hysteria: Hysteria 是一种功能丰富的网络实用程序，针对质量较差的网络进行了优化（例如卫星连接、拥挤的公共 Wi-Fi、从中国连接到国外的服务器）](https://github.com/HyNetwork/hysteria) 
 - [oasis-engine/engine: Oasis Engine 是一个网络优先和移动优先的高性能实时开发平台。](https://github.com/oasis-engine/engine) 
+- [uber-go/tally: 具有快速缓冲指标和第三方报告器的 Go 指标界面  资源许可证](https://github.com/uber-go/tally) 
 ### November 26, 2021 
 - [ktr0731/go-fuzzyfinder: 类似 fzf 的模糊查找器作为 Go 库](https://github.com/ktr0731/go-fuzzyfinder) 
 - [ahmetb/govvv: “go build”包装器将版本信息添加到 Golang 应用程序](https://github.com/ahmetb/govvv) 
