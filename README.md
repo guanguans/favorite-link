@@ -191,6 +191,9 @@
 
 
 
+
+### November 30, 2021 
+- [bamarni/composer-bin-plugin: 您的 bin 依赖项没有冲突](https://github.com/bamarni/composer-bin-plugin) 
 ### November 29, 2021 
 - [CuyZ/Valinor: 有助于将任何输入映射到强类型值对象结构的 PHP 库。](https://github.com/CuyZ/Valinor) 
 - [wxbool/video-srt-windows: 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。](https://github.com/wxbool/video-srt-windows) 
