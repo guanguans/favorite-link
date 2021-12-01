@@ -192,6 +192,9 @@
 
 
 
+
+### December 1, 2021 
+- [VKCOM/kphp: KPHP—一个PHP编译器](https://github.com/VKCOM/kphp) 
 ### November 30, 2021 
 - [bamarni/composer-bin-plugin: 您的 bin 依赖项没有冲突](https://github.com/bamarni/composer-bin-plugin) 
 ### November 29, 2021 
