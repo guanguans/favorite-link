@@ -197,6 +197,7 @@
 - [VKCOM/kphp: KPHP—一个PHP编译器](https://github.com/VKCOM/kphp) 
 - [composer/pcre: PCRE 包装库，提供类型安全的 preg_* 替换。](https://github.com/composer/pcre) 
 - [php-parallel-lint/PHP-Console-Highlighter: 在终端中突出显示 PHP 代码](https://github.com/php-parallel-lint/PHP-Console-Highlighter) 
+- [IceWhaleTech/CasaOS: CasaOS - 一个简单、易用、优雅的开源家庭云系统。](https://github.com/IceWhaleTech/CasaOS) 
 ### November 30, 2021 
 - [bamarni/composer-bin-plugin: 您的 bin 依赖项没有冲突](https://github.com/bamarni/composer-bin-plugin) 
 ### November 29, 2021 
