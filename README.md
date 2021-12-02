@@ -193,6 +193,9 @@
 
 
 
+
+### December 2, 2021 
+- [lihaoyun6/PD-Runner: Parallels Desktop 的 VM 启动器](https://github.com/lihaoyun6/PD-Runner) 
 ### December 1, 2021 
 - [VKCOM/kphp: KPHP—一个PHP编译器](https://github.com/VKCOM/kphp) 
 - [composer/pcre: PCRE 包装库，提供类型安全的 preg_* 替换。](https://github.com/composer/pcre) 
