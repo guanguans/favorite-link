@@ -197,6 +197,7 @@
 
 ### December 3, 2021 
 - [integrii/flaggy: 使用子命令、位置值和任何位置的标志的惯用 Go 输入解析。](https://github.com/integrii/flaggy) 
+- [PuerkitoBio/goquery: goquery 为 Go 语言带来了类似于 jQuery 的语法和一组功能。](https://github.com/PuerkitoBio/goquery) 
 ### December 2, 2021 
 - [lihaoyun6/PD-Runner: Parallels Desktop 的 VM 启动器](https://github.com/lihaoyun6/PD-Runner) 
 - [withfig/autocomplete: Fig 为您的终端添加了自动完成功能。](https://github.com/withfig/autocomplete) 
