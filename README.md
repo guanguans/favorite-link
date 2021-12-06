@@ -198,6 +198,7 @@
 
 ### December 6, 2021 
 - [sindresorhus/Actions: ⚙️ 加速你的捷径](https://github.com/sindresorhus/Actions) 
+- [DATA-DOG/go-sqlmock: golang的Sql模拟驱动程序来测试数据库交互](https://github.com/DATA-DOG/go-sqlmock) 
 ### December 3, 2021 
 - [integrii/flaggy: 使用子命令、位置值和任何位置的标志的惯用 Go 输入解析。](https://github.com/integrii/flaggy) 
 - [PuerkitoBio/goquery: goquery 为 Go 语言带来了类似于 jQuery 的语法和一组功能。](https://github.com/PuerkitoBio/goquery) 
