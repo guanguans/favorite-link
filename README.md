@@ -199,6 +199,7 @@
 
 ### December 7, 2021 
 - [sebdesign/blade-sql-formatter: 在 Laravel 视图中显示格式化的 SQL 查询](https://github.com/sebdesign/blade-sql-formatter) 
+- [lanceliao/china-holiday-calender: 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅](https://github.com/lanceliao/china-holiday-calender) 
 ### December 6, 2021 
 - [sindresorhus/Actions: ⚙️ 加速你的捷径](https://github.com/sindresorhus/Actions) 
 - [DATA-DOG/go-sqlmock: golang的Sql模拟驱动程序来测试数据库交互](https://github.com/DATA-DOG/go-sqlmock) 
