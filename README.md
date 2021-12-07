@@ -196,6 +196,9 @@
 
 
 
+
+### December 7, 2021 
+- [sebdesign/blade-sql-formatter: 在 Laravel 视图中显示格式化的 SQL 查询](https://github.com/sebdesign/blade-sql-formatter) 
 ### December 6, 2021 
 - [sindresorhus/Actions: ⚙️ 加速你的捷径](https://github.com/sindresorhus/Actions) 
 - [DATA-DOG/go-sqlmock: golang的Sql模拟驱动程序来测试数据库交互](https://github.com/DATA-DOG/go-sqlmock) 
