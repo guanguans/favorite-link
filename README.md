@@ -200,6 +200,7 @@
 
 ### December 8, 2021 
 - [pwxcoo/chinese-xinhua: 中华新华字典数据库。包括歇后语，成语，词语，汉字。](https://github.com/pwxcoo/chinese-xinhua) 
+- [Nyholm/SuperSlim: 一个小而超快速的微服务框架](https://github.com/Nyholm/SuperSlim) 
 ### December 7, 2021 
 - [sebdesign/blade-sql-formatter: 在 Laravel 视图中显示格式化的 SQL 查询](https://github.com/sebdesign/blade-sql-formatter) 
 - [lanceliao/china-holiday-calender: 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅](https://github.com/lanceliao/china-holiday-calender) 
