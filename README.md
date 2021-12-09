@@ -202,6 +202,7 @@
 ### December 9, 2021 
 - [goburrow/modbus: Go(golang)中modbus协议的容错实现](https://github.com/goburrow/modbus) 
 - [spf13/cast: 在 Go 中安全且轻松地从一种类型转换为另一种类型](https://github.com/spf13/cast) 
+- [Laravel-Backpack/LogManager: 使用 Backpack 预览、下载和删除 Laravel 日志文件的界面。](https://github.com/Laravel-Backpack/LogManager) 
 ### December 8, 2021 
 - [pwxcoo/chinese-xinhua: 中华新华字典数据库。包括歇后语，成语，词语，汉字。](https://github.com/pwxcoo/chinese-xinhua) 
 - [Nyholm/SuperSlim: 一个小而超快速的微服务框架](https://github.com/Nyholm/SuperSlim) 
