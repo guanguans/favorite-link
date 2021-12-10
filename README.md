@@ -199,6 +199,9 @@
 
 
 
+
+### December 10, 2021 
+- [polyfloyd/go-errorlint: 一个源代码 linter，可用于查找会导致 Go 的错误包装方案出现问题的代码](https://github.com/polyfloyd/go-errorlint) 
 ### December 9, 2021 
 - [goburrow/modbus: Go(golang)中modbus协议的容错实现](https://github.com/goburrow/modbus) 
 - [spf13/cast: 在 Go 中安全且轻松地从一种类型转换为另一种类型](https://github.com/spf13/cast) 
