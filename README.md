@@ -209,6 +209,7 @@
 - [batchcorp/plumber: 用于与 Kafka、RabbitMQ 和其他消息系统进行交互。](https://github.com/batchcorp/plumber) 
 - [qax-os/goreporter: 一个 Golang 工具，可以进行静态分析、单元测试、代码审查和生成代码质量报告。](https://github.com/qax-os/goreporter) 
 - [v2er-app/iOS: V2er.iOS源码](https://github.com/v2er-app/iOS) 
+- [nicolashery/mac-dev-setup: 在 macOS 上设置开发环境的初学者指南](https://github.com/nicolashery/mac-dev-setup) 
 ### December 13, 2021 
 - [tilt-dev/tilt: 将开发环境定义为代码。用于Kubernetes上的微服务应用程序。](https://github.com/tilt-dev/tilt) 
 - [rsocket/rsocket-go: rsocket-go 实现](https://github.com/rsocket/rsocket-go) 
