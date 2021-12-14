@@ -205,6 +205,7 @@
 
 ### December 14, 2021 
 - [phake/phake: PHP 模拟框架](https://github.com/phake/phake) 
+- [spatie/cpu-load-health-check: 用于监控 CPU 负载的 Laravel 健康检查](https://github.com/spatie/cpu-load-health-check) 
 ### December 13, 2021 
 - [tilt-dev/tilt: 将开发环境定义为代码。用于Kubernetes上的微服务应用程序。](https://github.com/tilt-dev/tilt) 
 - [rsocket/rsocket-go: rsocket-go 实现](https://github.com/rsocket/rsocket-go) 
