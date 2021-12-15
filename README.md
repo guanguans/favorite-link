@@ -211,6 +211,7 @@
 - [mowangjuanzi/mysql-chinese-doc: mysql中文文档](https://github.com/mowangjuanzi/mysql-chinese-doc) 
 - [kuaifan/dootask: DooTask是一款轻量级的开源在线项目任务管理工具](https://github.com/kuaifan/dootask) 
 - [povils/phpmnd: PHP 幻数检测器](https://github.com/povils/phpmnd) 
+- [friends-of-reactphp/mysql: 用于 ReactPHP 的异步 MySQL 数据库客户端。](https://github.com/friends-of-reactphp/mysql) 
 ### December 14, 2021 
 - [phake/phake: PHP 模拟框架](https://github.com/phake/phake) 
 - [spatie/cpu-load-health-check: 用于监控 CPU 负载的 Laravel 健康检查](https://github.com/spatie/cpu-load-health-check) 
