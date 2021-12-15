@@ -207,6 +207,7 @@
 ### December 15, 2021 
 - [JieAnthony/laravel-octane-workerman](https://github.com/JieAnthony/laravel-octane-workerman) 
 - [tomarrell/wrapcheck: 一个简单的 Go linter，用于检查来自外部包的错误是否在返回期间被包装，以帮助在调试期间识别错误源。](https://github.com/tomarrell/wrapcheck) 
+- [mosn/holmes: 自我感知的 Golang 配置文件转储程序](https://github.com/mosn/holmes) 
 ### December 14, 2021 
 - [phake/phake: PHP 模拟框架](https://github.com/phake/phake) 
 - [spatie/cpu-load-health-check: 用于监控 CPU 负载的 Laravel 健康检查](https://github.com/spatie/cpu-load-health-check) 
