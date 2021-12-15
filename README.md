@@ -210,6 +210,7 @@
 - [mosn/holmes: 自我感知的 Golang 配置文件转储程序](https://github.com/mosn/holmes) 
 - [mowangjuanzi/mysql-chinese-doc: mysql中文文档](https://github.com/mowangjuanzi/mysql-chinese-doc) 
 - [kuaifan/dootask: DooTask是一款轻量级的开源在线项目任务管理工具](https://github.com/kuaifan/dootask) 
+- [povils/phpmnd: PHP 幻数检测器](https://github.com/povils/phpmnd) 
 ### December 14, 2021 
 - [phake/phake: PHP 模拟框架](https://github.com/phake/phake) 
 - [spatie/cpu-load-health-check: 用于监控 CPU 负载的 Laravel 健康检查](https://github.com/spatie/cpu-load-health-check) 
