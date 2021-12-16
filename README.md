@@ -210,6 +210,7 @@
 - [jolestar/go-commons-pool: golang 的通用对象池](https://github.com/jolestar/go-commons-pool) 
 - [DataDog/datadog-agent: 数据狗代理](https://github.com/DataDog/datadog-agent) 
 - [Jhnbrn90/LaravelPackage.com: LaravelPackage.com 的文档：学习按照此开放文档从头开始创建 Laravel 特定的 PHP 包。](https://github.com/Jhnbrn90/LaravelPackage.com) 
+- [andreaselia/laravel-api-to-postman: 从 Laravel API 自动生成 Postman 集合](https://github.com/andreaselia/laravel-api-to-postman) 
 ### December 15, 2021 
 - [JieAnthony/laravel-octane-workerman](https://github.com/JieAnthony/laravel-octane-workerman) 
 - [tomarrell/wrapcheck: 一个简单的 Go linter，用于检查来自外部包的错误是否在返回期间被包装，以帮助在调试期间识别错误源。](https://github.com/tomarrell/wrapcheck) 
