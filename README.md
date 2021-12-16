@@ -209,6 +209,7 @@
 - [ssssssss-team/spider-flow: 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。](https://github.com/ssssssss-team/spider-flow) 
 - [jolestar/go-commons-pool: golang 的通用对象池](https://github.com/jolestar/go-commons-pool) 
 - [DataDog/datadog-agent: 数据狗代理](https://github.com/DataDog/datadog-agent) 
+- [Jhnbrn90/LaravelPackage.com: LaravelPackage.com 的文档：学习按照此开放文档从头开始创建 Laravel 特定的 PHP 包。](https://github.com/Jhnbrn90/LaravelPackage.com) 
 ### December 15, 2021 
 - [JieAnthony/laravel-octane-workerman](https://github.com/JieAnthony/laravel-octane-workerman) 
 - [tomarrell/wrapcheck: 一个简单的 Go linter，用于检查来自外部包的错误是否在返回期间被包装，以帮助在调试期间识别错误源。](https://github.com/tomarrell/wrapcheck) 
