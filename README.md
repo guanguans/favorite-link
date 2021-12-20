@@ -211,6 +211,7 @@
 - [zyedidia/generic: 用 Go 编写的通用数据结构的实验性集合。](https://github.com/zyedidia/generic) 
 - [nikgalushko/fx: Fx 是一个有用的函数式编程助手。](https://github.com/nikgalushko/fx) 
 - [iancoleman/strcase: 用于转换为 snake_case 或 CamelCase 的 golang 包](https://github.com/iancoleman/strcase) 
+- [johnnymast/morsecode: 莫尔斯电码消息进行编码或解码](https://github.com/johnnymast/morsecode) 
 ### December 17, 2021 
 - [spatie/laravel-comments: 将评论和反应与 Eloquent 模型相关联](https://github.com/spatie/laravel-comments) 
 ### December 16, 2021 
