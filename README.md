@@ -212,6 +212,7 @@
 ### December 22, 2021 
 - [ionic-team/capacitor: 为 iOS、Android 和 Web 构建跨平台的原生渐进式 Web 应用程序](https://github.com/ionic-team/capacitor) 
 - [itimofeev/go-saga: saga 模式的 Go lang 实现](https://github.com/itimofeev/go-saga) 
+- [d4l3k/go-pry: Go 的交互式 REPL，允许您随时插入代码。](https://github.com/d4l3k/go-pry) 
 ### December 21, 2021 
 - [BitOne/php-meminfo: PHP 扩展以了解内存使用情况](https://github.com/BitOne/php-meminfo) 
 - [karam-mustafa/laravel-geographical-calculator: laravel 包帮助你实现地理计算，有几种算法可以帮助你处理坐标和距离。](https://github.com/karam-mustafa/laravel-geographical-calculator) 
