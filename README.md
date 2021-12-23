@@ -214,6 +214,7 @@
 - [wader/fq: 二进制格式的 jq](https://github.com/wader/fq) 
 - [lysu/go-saga: 在 Go 中实现 saga-pattern，另一种分发事务的方式。](https://github.com/lysu/go-saga) 
 - [erdemkeren/laravel-otp: 一个 laravel 包，用一次性密码保护你的路线（otp）](https://github.com/erdemkeren/laravel-otp) 
+- [codezero-be/laravel-localized-routes: 在 Laravel 应用程序中设置和使用本地化路由的便捷方式。](https://github.com/codezero-be/laravel-localized-routes) 
 ### December 22, 2021 
 - [ionic-team/capacitor: 为 iOS、Android 和 Web 构建跨平台的原生渐进式 Web 应用程序](https://github.com/ionic-team/capacitor) 
 - [itimofeev/go-saga: saga 模式的 Go lang 实现](https://github.com/itimofeev/go-saga) 
