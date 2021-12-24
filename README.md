@@ -210,6 +210,9 @@
 
 
 
+
+### December 24, 2021 
+- [GoogleCloudPlatform/terraformer: 一个 CLI 工具，可根据现有基础架构（反向 Terraform）生成 tf/json 和 tfstate 文件。](https://github.com/GoogleCloudPlatform/terraformer) 
 ### December 23, 2021 
 - [wader/fq: 二进制格式的 jq](https://github.com/wader/fq) 
 - [lysu/go-saga: 在 Go 中实现 saga-pattern，另一种分发事务的方式。](https://github.com/lysu/go-saga) 
