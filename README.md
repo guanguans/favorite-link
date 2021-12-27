@@ -216,6 +216,7 @@
 - [loov/goda: Go 依赖分析工具包](https://github.com/loov/goda) 
 - [prabhatsharma/zinc: 一种轻量级的弹性搜索替代方案，需要最少的资源，用 Go 编写。](https://github.com/prabhatsharma/zinc) 
 - [tidwall/btree: Go的B树实现](https://github.com/tidwall/btree) 
+- [spf13/pflag: 替换Go的flag包，实现POSIX/GNU风格——flags。](https://github.com/spf13/pflag) 
 ### December 24, 2021 
 - [GoogleCloudPlatform/terraformer: 一个 CLI 工具，可根据现有基础架构（反向 Terraform）生成 tf/json 和 tfstate 文件。](https://github.com/GoogleCloudPlatform/terraformer) 
 - [mix-go/xdi: DI, IoC container / DI、IoC 容器](https://github.com/mix-go/xdi) 
