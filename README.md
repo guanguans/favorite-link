@@ -211,6 +211,9 @@
 
 
 
+
+### December 27, 2021 
+- [loov/goda: Go 依赖分析工具包](https://github.com/loov/goda) 
 ### December 24, 2021 
 - [GoogleCloudPlatform/terraformer: 一个 CLI 工具，可根据现有基础架构（反向 Terraform）生成 tf/json 和 tfstate 文件。](https://github.com/GoogleCloudPlatform/terraformer) 
 - [mix-go/xdi: DI, IoC container / DI、IoC 容器](https://github.com/mix-go/xdi) 
