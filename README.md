@@ -218,6 +218,7 @@
 - [tidwall/btree: Go的B树实现](https://github.com/tidwall/btree) 
 - [spf13/pflag: 替换Go的flag包，实现POSIX/GNU风格——flags。](https://github.com/spf13/pflag) 
 - [bitleak/lmstfy: 在基于Redis存储的Golang中实现任务队列](https://github.com/bitleak/lmstfy) 
+- [buger/goterm: Go中的高级终端输出](https://github.com/buger/goterm) 
 ### December 24, 2021 
 - [GoogleCloudPlatform/terraformer: 一个 CLI 工具，可根据现有基础架构（反向 Terraform）生成 tf/json 和 tfstate 文件。](https://github.com/GoogleCloudPlatform/terraformer) 
 - [mix-go/xdi: DI, IoC container / DI、IoC 容器](https://github.com/mix-go/xdi) 
