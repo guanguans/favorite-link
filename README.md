@@ -212,6 +212,9 @@
 
 
 
+
+### December 28, 2021 
+- [tuna/freedns-go: 针对中国用户优化的 DNS 服务器。](https://github.com/tuna/freedns-go) 
 ### December 27, 2021 
 - [loov/goda: Go 依赖分析工具包](https://github.com/loov/goda) 
 - [prabhatsharma/zinc: 一种轻量级的弹性搜索替代方案，需要最少的资源，用 Go 编写。](https://github.com/prabhatsharma/zinc) 
