@@ -218,6 +218,7 @@
 - [floyernick/Data-Structures-and-Algorithms: Go中的数据结构和算法实现](https://github.com/floyernick/Data-Structures-and-Algorithms) 
 - [ChimeraCoder/gojson: 从示例 JSON 自动生成 Go (golang) 结构定义](https://github.com/ChimeraCoder/gojson) 
 - [gravitational/teleport: Teleport 是访问所有基础设施的最简单、最安全的方式。 Teleport 是一种身份感知、多协议访问代理](https://github.com/gravitational/teleport) 
+- [rs/zerolog: 零分配 JSON 记录器](https://github.com/rs/zerolog) 
 ### December 28, 2021 
 - [tuna/freedns-go: 针对中国用户优化的 DNS 服务器。](https://github.com/tuna/freedns-go) 
 - [cloudflare/quiche: 🥧 QUIC 传输协议和 HTTP/3 的美味实现](https://github.com/cloudflare/quiche) 
