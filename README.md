@@ -220,6 +220,7 @@
 - [gravitational/teleport: Teleport 是访问所有基础设施的最简单、最安全的方式。 Teleport 是一种身份感知、多协议访问代理](https://github.com/gravitational/teleport) 
 - [rs/zerolog: 零分配 JSON 记录器](https://github.com/rs/zerolog) 
 - [spf13/afero: Go 的文件系统抽象系统](https://github.com/spf13/afero) 
+- [casdoor/casdoor: 一个UI优先的集中认证/单点登录（SSO）平台，支持OAuth 2.0/OIDC和SAML](https://github.com/casdoor/casdoor) 
 ### December 28, 2021 
 - [tuna/freedns-go: 针对中国用户优化的 DNS 服务器。](https://github.com/tuna/freedns-go) 
 - [cloudflare/quiche: 🥧 QUIC 传输协议和 HTTP/3 的美味实现](https://github.com/cloudflare/quiche) 
