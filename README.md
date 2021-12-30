@@ -214,6 +214,9 @@
 
 
 
+
+### December 30, 2021 
+- [uptrace/uptrace: 使用 OpenTelemetry 和 ClickHouse 进行分布式跟踪](https://github.com/uptrace/uptrace) 
 ### December 29, 2021 
 - [floyernick/Data-Structures-and-Algorithms: Go中的数据结构和算法实现](https://github.com/floyernick/Data-Structures-and-Algorithms) 
 - [ChimeraCoder/gojson: 从示例 JSON 自动生成 Go (golang) 结构定义](https://github.com/ChimeraCoder/gojson) 
