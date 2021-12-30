@@ -220,6 +220,7 @@
 - [spatie/laravel-route-discovery: 在 Laravel 应用程序中自动发现路由](https://github.com/spatie/laravel-route-discovery) 
 - [sunface/rust-course: Rust语言圣经](https://github.com/sunface/rust-course) 
 - [lukeraymonddowning/Tupper: A simple, no-nonsense IoC Container written in PHP for Dependency Injection](https://github.com/lukeraymonddowning/Tupper) 
+- [lukeraymonddowning/Tupper: 一个用 PHP 编写的用于依赖注入的简单、严肃的 IoC 容器](https://github.com/lukeraymonddowning/Tupper) 
 ### December 29, 2021 
 - [floyernick/Data-Structures-and-Algorithms: Go中的数据结构和算法实现](https://github.com/floyernick/Data-Structures-and-Algorithms) 
 - [ChimeraCoder/gojson: 从示例 JSON 自动生成 Go (golang) 结构定义](https://github.com/ChimeraCoder/gojson) 
