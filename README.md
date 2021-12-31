@@ -220,6 +220,7 @@
 - [kingflamez/laravelrave: 使用 Laravel 轻松实现 Flutterwave Rave 支付网关](https://github.com/kingflamez/laravelrave) 
 - [akaunting/laravel-money: Laravel 的货币格式和转换包](https://github.com/akaunting/laravel-money) 
 - [akaunting/laravel-setting: Laravel 的持久化设置包](https://github.com/akaunting/laravel-setting) 
+- [tomcraven/goga: Golang 遗传算法](https://github.com/tomcraven/goga) 
 ### December 30, 2021 
 - [uptrace/uptrace: 使用 OpenTelemetry 和 ClickHouse 进行分布式跟踪](https://github.com/uptrace/uptrace) 
 - [spatie/laravel-route-discovery: 在 Laravel 应用程序中自动发现路由](https://github.com/spatie/laravel-route-discovery) 
