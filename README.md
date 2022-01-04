@@ -222,6 +222,7 @@
 - [phith0n/zkar: ZKar 是 Go 中的 Java 序列化协议分析工具。](https://github.com/phith0n/zkar) 
 - [kyoh86/richgo: 用文本装饰丰富 `go test` 输出。](https://github.com/kyoh86/richgo) 
 - [mojocn/base64Captcha: base64 图像字符串的验证码](https://github.com/mojocn/base64Captcha) 
+- [sj-i/php-cast: 具有隐式弱模式转换行为的显式转换](https://github.com/sj-i/php-cast) 
 ### December 31, 2021 
 - [kingflamez/laravelrave: 使用 Laravel 轻松实现 Flutterwave Rave 支付网关](https://github.com/kingflamez/laravelrave) 
 - [akaunting/laravel-money: Laravel 的货币格式和转换包](https://github.com/akaunting/laravel-money) 
