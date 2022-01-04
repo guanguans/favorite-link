@@ -224,6 +224,7 @@
 - [mojocn/base64Captcha: base64 图像字符串的验证码](https://github.com/mojocn/base64Captcha) 
 - [sj-i/php-cast: 具有隐式弱模式转换行为的显式转换](https://github.com/sj-i/php-cast) 
 - [peter279k/simple-container: 这是一个简单的容器，帮助开发人员轻松地注入特定的类！](https://github.com/peter279k/simple-container) 
+- [sj-i/typist: 强制执行局部变量类型的 PHP 库。](https://github.com/sj-i/typist) 
 ### December 31, 2021 
 - [kingflamez/laravelrave: 使用 Laravel 轻松实现 Flutterwave Rave 支付网关](https://github.com/kingflamez/laravelrave) 
 - [akaunting/laravel-money: Laravel 的货币格式和转换包](https://github.com/akaunting/laravel-money) 
