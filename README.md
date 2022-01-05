@@ -222,6 +222,7 @@
 - [ulule/limiter: Go 的死简单速率限制中间件。](https://github.com/ulule/limiter) 
 - [iyear/pure-live-core: 让直播回归纯粹](https://github.com/iyear/pure-live-core) 
 - [shmilylty/netspy: netspy是一款快速探测内网可达网段工具](https://github.com/shmilylty/netspy) 
+- [michaeldyrynda/laravel-cascade-soft-deletes: 实现软删除的 Eloquent 模型的级联删除](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes) 
 ### January 4, 2022 
 - [KenmyZhang/aliyun-communicate: 短信验证码服务](https://github.com/KenmyZhang/aliyun-communicate) 
 - [phith0n/zkar: ZKar 是 Go 中的 Java 序列化协议分析工具。](https://github.com/phith0n/zkar) 
