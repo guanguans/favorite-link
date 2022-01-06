@@ -221,6 +221,7 @@
 
 ### January 6, 2022 
 - [octobox/octobox: 📮解开你的 GitHub 通知](https://github.com/octobox/octobox) 
+- [kevwan/stream: 流程应用程序接口。](https://github.com/kevwan/stream) 
 ### January 5, 2022 
 - [ulule/limiter: Go 的死简单速率限制中间件。](https://github.com/ulule/limiter) 
 - [iyear/pure-live-core: 让直播回归纯粹](https://github.com/iyear/pure-live-core) 
