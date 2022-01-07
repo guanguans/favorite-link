@@ -222,6 +222,7 @@
 
 ### January 7, 2022 
 - [pionl/laravel-chunk-upload: 支持多个提供程序的块上传的基本实现，例如 jQuery-file-upload、pupload、DropZone 和 resumable.js](https://github.com/pionl/laravel-chunk-upload) 
+- [returntocorp/semgrep: 多种语言的轻量级静态分析。](https://github.com/returntocorp/semgrep) 
 ### January 6, 2022 
 - [octobox/octobox: 📮解开你的 GitHub 通知](https://github.com/octobox/octobox) 
 - [kevwan/stream: 流程应用程序接口。](https://github.com/kevwan/stream) 
