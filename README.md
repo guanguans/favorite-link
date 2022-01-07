@@ -227,6 +227,7 @@
 - [alecthomas/participle: Go 的解析器库](https://github.com/alecthomas/participle) 
 - [rezaamini-ir/migrator: Migrator 是 Laravel 的 GUI 迁移管理器。](https://github.com/rezaamini-ir/migrator) 
 - [staudenmeir/laravel-cte: Laravel 查询常用表表达式](https://github.com/staudenmeir/laravel-cte) 
+- [staudenmeir/laravel-adjacency-list: 递归 Laravel Eloquent 与 CTE 的关系](https://github.com/staudenmeir/laravel-adjacency-list) 
 ### January 6, 2022 
 - [octobox/octobox: 📮解开你的 GitHub 通知](https://github.com/octobox/octobox) 
 - [kevwan/stream: 流程应用程序接口。](https://github.com/kevwan/stream) 
