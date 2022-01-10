@@ -225,6 +225,7 @@
 ### January 10, 2022 
 - [viewi/viewi: 使用 PHP 构建全栈和完全反应式用户界面的强大工具](https://github.com/viewi/viewi) 
 - [matcornic/hermes: Golang 包，可生成干净、响应迅速的 HTML 电子邮件以发送交易邮件](https://github.com/matcornic/hermes) 
+- [RussellLuo/slidingwindow: 用于分布式速率限制的滑动窗口算法的 Golang 实现。](https://github.com/RussellLuo/slidingwindow) 
 ### January 8, 2022 
 - [xroche/httrack: 将网站复制到您的计算机](https://github.com/xroche/httrack) 
 - [znck/grammarly: 非官方语法 VS 代码扩展](https://github.com/znck/grammarly) 
