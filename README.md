@@ -229,6 +229,7 @@
 - [malukenho/mcbumpface: 🍂 一个同步 `composer.lock` 和 `composer.json` 版本的简单工具，可以更快地解决包依赖关系](https://github.com/malukenho/mcbumpface) 
 - [rocketlaunchr/dataframe-go: Go 的 DataFrames：用于统计、机器学习和数据操作/探索](https://github.com/rocketlaunchr/dataframe-go) 
 - [alpacahq/marketstore: 金融时间序列数据的 DataFrame 服务器](https://github.com/alpacahq/marketstore) 
+- [aliyilmaz/policyMaker:  该软件包用于为服务器软件创建自定义访问策略。 支持 Apache、Microsoft ISS、LiteSpeed 和 Nginx 软件。](https://github.com/aliyilmaz/policyMaker) 
 ### January 10, 2022 
 - [viewi/viewi: 使用 PHP 构建全栈和完全反应式用户界面的强大工具](https://github.com/viewi/viewi) 
 - [matcornic/hermes: Golang 包，可生成干净、响应迅速的 HTML 电子邮件以发送交易邮件](https://github.com/matcornic/hermes) 
