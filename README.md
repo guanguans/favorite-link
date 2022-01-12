@@ -227,6 +227,7 @@
 ### January 12, 2022 
 - [segmentio/asm: Go 库提供优化的算法以利用现代 CPU 的特性](https://github.com/segmentio/asm) 
 - [canbez/dcat-theme: Dcat admin 主题插件](https://github.com/canbez/dcat-theme) 
+- [rhysd/gocaml: 🐫 使用 Go 和 LLVM 的实用静态类型函数式编程语言实现](https://github.com/rhysd/gocaml) 
 ### January 11, 2022 
 - [samlitowitz/php-memory: 一个与 PHP 内存限制交互的库](https://github.com/samlitowitz/php-memory) 
 - [michaeldyrynda/founder: Laravel 入门应用](https://github.com/michaeldyrynda/founder) 
