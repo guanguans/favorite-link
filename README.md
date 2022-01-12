@@ -231,6 +231,7 @@
 - [lanyi1998/DNSlog-GO: DNSLog-GO 是一款golang编写的监控 DNS 解析记录的工具，自带WEB界面](https://github.com/lanyi1998/DNSlog-GO) 
 - [go-workflow/go-workflow: go版本极简工作流引擎](https://github.com/go-workflow/go-workflow) 
 - [ory/ladon: 访问控制策略的 SDK](https://github.com/ory/ladon) 
+- [vardius/go-api-boilerplate: 使用最佳实践 DDD CQRS ES gRPC 的 Go Server/API 样板](https://github.com/vardius/go-api-boilerplate) 
 ### January 11, 2022 
 - [samlitowitz/php-memory: 一个与 PHP 内存限制交互的库](https://github.com/samlitowitz/php-memory) 
 - [michaeldyrynda/founder: Laravel 入门应用](https://github.com/michaeldyrynda/founder) 
