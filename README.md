@@ -231,6 +231,7 @@
 - [hashicorp/raft: Raft 共识协议的 Golang 实现](https://github.com/hashicorp/raft) 
 - [pirsch-analytics/pirsch: Pirsch 是适用于 Go 的嵌入式、服务器端、无 cookie 和以隐私为重点的分析解决方案。](https://github.com/pirsch-analytics/pirsch) 
 - [AlexAkulov/clickhouse-backup: 通过云存储支持轻松进行 ClickHouse 备份和恢复的工具](https://github.com/AlexAkulov/clickhouse-backup) 
+- [charmbracelet/wish: 制作SSH应用程序，就像那样！💫](https://github.com/charmbracelet/wish) 
 ### January 12, 2022 
 - [segmentio/asm: Go 库提供优化的算法以利用现代 CPU 的特性](https://github.com/segmentio/asm) 
 - [canbez/dcat-theme: Dcat admin 主题插件](https://github.com/canbez/dcat-theme) 
