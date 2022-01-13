@@ -228,6 +228,7 @@
 ### January 13, 2022 
 - [spatie/laravel-signal-aware-command: 在artisan命令中处理信号](https://github.com/spatie/laravel-signal-aware-command) 
 - [diglactic/laravel-breadcrumbs: Laravel Breadcrumbs - 一种简单的 Laravel 风格的创建面包屑的方法。](https://github.com/diglactic/laravel-breadcrumbs) 
+- [hashicorp/raft: Raft 共识协议的 Golang 实现](https://github.com/hashicorp/raft) 
 ### January 12, 2022 
 - [segmentio/asm: Go 库提供优化的算法以利用现代 CPU 的特性](https://github.com/segmentio/asm) 
 - [canbez/dcat-theme: Dcat admin 主题插件](https://github.com/canbez/dcat-theme) 
