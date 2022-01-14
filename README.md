@@ -231,6 +231,7 @@
 - [optiv/Ivy: Ivy 是一个有效载荷创建框架，用于直接在内存中执行任意 VBA（宏）源代码。 ](https://github.com/optiv/Ivy) 
 - [etcd-io/bbolt: Go 的嵌入式键/值数据库。](https://github.com/etcd-io/bbolt) 
 - [Jeiwan/blockchain_go: Golang 中的简化区块链实现](https://github.com/Jeiwan/blockchain_go) 
+- [ivbeg/awesome-status-pages: 很棒的状态页面列表，开源软件、在线服务和主要互联网公司的公共状态页面](https://github.com/ivbeg/awesome-status-pages) 
 ### January 13, 2022 
 - [spatie/laravel-signal-aware-command: 在artisan命令中处理信号](https://github.com/spatie/laravel-signal-aware-command) 
 - [diglactic/laravel-breadcrumbs: Laravel Breadcrumbs - 一种简单的 Laravel 风格的创建面包屑的方法。](https://github.com/diglactic/laravel-breadcrumbs) 
