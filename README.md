@@ -232,6 +232,7 @@
 - [jszwec/csvutil: csvutil 在 CSV 和 Go (golang) 值之间提供快速且惯用的映射。](https://github.com/jszwec/csvutil) 
 - [tdewolff/canvas: Go 中的 Cairo：矢量到光栅、SVG、PDF、EPS、WASM、OpenGL、Gio 等。](https://github.com/tdewolff/canvas) 
 - [one-key-hidpi/README-zh.md: 一键开启 macOS HiDPI](https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md) 
+- [gin-contrib/sessions: 用于会话管理的Gin中间件](https://github.com/gin-contrib/sessions) 
 ### January 14, 2022 
 - [spatie/laravel-csp: 在 Laravel 应用程序中设置内容安全策略标头](https://github.com/spatie/laravel-csp) 
 - [optiv/Ivy: Ivy 是一个有效载荷创建框架，用于直接在内存中执行任意 VBA（宏）源代码。 ](https://github.com/optiv/Ivy) 
