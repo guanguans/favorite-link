@@ -234,6 +234,7 @@
 - [one-key-hidpi/README-zh.md: 一键开启 macOS HiDPI](https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md) 
 - [gin-contrib/sessions: 用于会话管理的Gin中间件](https://github.com/gin-contrib/sessions) 
 - [DarkCoderSc/PowerRemoteDesktop: 远程桌面完全在PowerShell中编码。](https://github.com/DarkCoderSc/PowerRemoteDesktop) 
+- [alyssaxuu/omni: 提高生产力的多合一工具⌨️](https://github.com/alyssaxuu/omni) 
 ### January 14, 2022 
 - [spatie/laravel-csp: 在 Laravel 应用程序中设置内容安全策略标头](https://github.com/spatie/laravel-csp) 
 - [optiv/Ivy: Ivy 是一个有效载荷创建框架，用于直接在内存中执行任意 VBA（宏）源代码。 ](https://github.com/optiv/Ivy) 
