@@ -230,6 +230,7 @@
 ### January 17, 2022 
 - [iotexproject/iotex-core: Go中IoTeX区块链协议的正式实施。](https://github.com/iotexproject/iotex-core) 
 - [jszwec/csvutil: csvutil 在 CSV 和 Go (golang) 值之间提供快速且惯用的映射。](https://github.com/jszwec/csvutil) 
+- [tdewolff/canvas: Go 中的 Cairo：矢量到光栅、SVG、PDF、EPS、WASM、OpenGL、Gio 等。](https://github.com/tdewolff/canvas) 
 ### January 14, 2022 
 - [spatie/laravel-csp: 在 Laravel 应用程序中设置内容安全策略标头](https://github.com/spatie/laravel-csp) 
 - [optiv/Ivy: Ivy 是一个有效载荷创建框架，用于直接在内存中执行任意 VBA（宏）源代码。 ](https://github.com/optiv/Ivy) 
