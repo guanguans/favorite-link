@@ -226,6 +226,9 @@
 
 
 
+
+### January 17, 2022 
+- [iotexproject/iotex-core: Go中IoTeX区块链协议的正式实施。](https://github.com/iotexproject/iotex-core) 
 ### January 14, 2022 
 - [spatie/laravel-csp: 在 Laravel 应用程序中设置内容安全策略标头](https://github.com/spatie/laravel-csp) 
 - [optiv/Ivy: Ivy 是一个有效载荷创建框架，用于直接在内存中执行任意 VBA（宏）源代码。 ](https://github.com/optiv/Ivy) 
