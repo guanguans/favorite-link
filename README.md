@@ -236,6 +236,7 @@
 - [open-falcon/falcon-plus: 一个开源的企业级监控系统。](https://github.com/open-falcon/falcon-plus) 
 - [googleapis/api-linter: 协议缓冲区中定义的 API 的 linter。](https://github.com/googleapis/api-linter) 
 - [sivan/heti: 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。](https://github.com/sivan/heti) 
+- [youyingxiang/laravel-plugin: 基于laravel的插件机制](https://github.com/youyingxiang/laravel-plugin) 
 ### January 17, 2022 
 - [iotexproject/iotex-core: Go中IoTeX区块链协议的正式实施。](https://github.com/iotexproject/iotex-core) 
 - [jszwec/csvutil: csvutil 在 CSV 和 Go (golang) 值之间提供快速且惯用的映射。](https://github.com/jszwec/csvutil) 
