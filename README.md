@@ -231,6 +231,7 @@
 ### January 18, 2022 
 - [mattkingshott/snowflake: 用于创建 Twitter 雪花标识符的包](https://github.com/mattkingshott/snowflake) 
 - [mattkingshott/waterfall: 批量执行级联删除以缓解数据库压力的包](https://github.com/mattkingshott/waterfall) 
+- [mattkingshott/elevate: 一个为各种 Laravel 组件提供宏函数库的包。](https://github.com/mattkingshott/elevate) 
 ### January 17, 2022 
 - [iotexproject/iotex-core: Go中IoTeX区块链协议的正式实施。](https://github.com/iotexproject/iotex-core) 
 - [jszwec/csvutil: csvutil 在 CSV 和 Go (golang) 值之间提供快速且惯用的映射。](https://github.com/jszwec/csvutil) 
