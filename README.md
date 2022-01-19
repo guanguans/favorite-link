@@ -231,6 +231,7 @@
 
 ### January 19, 2022 
 - [CodisLabs/codis: 基于代理的 Redis 集群解决方案，支持管道和动态扩展](https://github.com/CodisLabs/codis) 
+- [everFinance/goar: 用 Go 实现的 Arweave http 客户端和钱包](https://github.com/everFinance/goar) 
 ### January 18, 2022 
 - [mattkingshott/snowflake: 用于创建 Twitter 雪花标识符的包](https://github.com/mattkingshott/snowflake) 
 - [mattkingshott/waterfall: 批量执行级联删除以缓解数据库压力的包](https://github.com/mattkingshott/waterfall) 
