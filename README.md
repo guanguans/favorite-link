@@ -232,6 +232,7 @@
 
 ### January 20, 2022 
 - [CanerErgez/laravel-state-machine: 简单的 Laravel 状态机系统](https://github.com/CanerErgez/laravel-state-machine) 
+- [KurtBestor/Hitomi-Downloader: 🍰 桌面实用程序，用于从各种网站下载图像/视频/音乐/文本等。](https://github.com/KurtBestor/Hitomi-Downloader) 
 ### January 19, 2022 
 - [CodisLabs/codis: 基于代理的 Redis 集群解决方案，支持管道和动态扩展](https://github.com/CodisLabs/codis) 
 - [everFinance/goar: 用 Go 实现的 Arweave http 客户端和钱包](https://github.com/everFinance/goar) 
