@@ -239,6 +239,7 @@
 - [dflydev/dflydev-finite-state-machine:  又一个有限状态机实现](https://github.com/dflydev/dflydev-finite-state-machine) 
 - [io-developer/php-whois: PHP WHOIS 提供域和 ASN 路由的解析和原始 whois 查找。 ](https://github.com/io-developer/php-whois) 
 - [llir/llvm: 用于在纯 Go 中与 LLVM IR 交互的库。](https://github.com/llir/llvm) 
+- [tetratelabs/wazero: wazero 允许您运行具有零平台依赖性的 WebAssembly 模块](https://github.com/tetratelabs/wazero) 
 ### January 20, 2022 
 - [CanerErgez/laravel-state-machine: 简单的 Laravel 状态机系统](https://github.com/CanerErgez/laravel-state-machine) 
 - [KurtBestor/Hitomi-Downloader: 🍰 桌面实用程序，用于从各种网站下载图像/视频/音乐/文本等。](https://github.com/KurtBestor/Hitomi-Downloader) 
