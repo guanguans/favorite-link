@@ -230,6 +230,9 @@
 
 
 
+
+### January 21, 2022 
+- [dflydev/dflydev-dot-access-data: 给定一个表示配置的深层数据结构，通过点符号访问配置。](https://github.com/dflydev/dflydev-dot-access-data) 
 ### January 20, 2022 
 - [CanerErgez/laravel-state-machine: 简单的 Laravel 状态机系统](https://github.com/CanerErgez/laravel-state-machine) 
 - [KurtBestor/Hitomi-Downloader: 🍰 桌面实用程序，用于从各种网站下载图像/视频/音乐/文本等。](https://github.com/KurtBestor/Hitomi-Downloader) 
