@@ -244,6 +244,7 @@
 - [glhd/laravel-dumper: 使用特定于Laravel的改进升级dd（）](https://github.com/glhd/laravel-dumper) 
 - [iancoleman/orderedmap: orderedmap 是一个 golang 映射，其中的键保持添加的顺序。](https://github.com/iancoleman/orderedmap) 
 - [goal-web/querybuilder: 一个像 Laravel 那样好用的查询构造器。](https://github.com/goal-web/querybuilder) 
+- [Sammyjo20/Saloon: 一个 Laravel/PHP 包，可让您以美观、标准化的语法编写 API 集成。](https://github.com/Sammyjo20/Saloon) 
 ### January 20, 2022 
 - [CanerErgez/laravel-state-machine: 简单的 Laravel 状态机系统](https://github.com/CanerErgez/laravel-state-machine) 
 - [KurtBestor/Hitomi-Downloader: 🍰 桌面实用程序，用于从各种网站下载图像/视频/音乐/文本等。](https://github.com/KurtBestor/Hitomi-Downloader) 
