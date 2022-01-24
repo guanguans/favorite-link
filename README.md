@@ -238,6 +238,7 @@
 - [containers/podman: Podman（POD MANager）是一种用于管理容器和镜像、安装到这些容器中的卷以及由容器组组成的 pod 的工具。](https://github.com/containers/podman) 
 - [cockroachdb/apd: Go 的任意精度小数](https://github.com/cockroachdb/apd) 
 - [up9inc/mizu: Kubernetes 的 API 流量查看器使您能够查看微服务之间的所有 API 通信。 想想为 Kubernetes 重新发明的 TCPDump 和 Wireshark](https://github.com/up9inc/mizu) 
+- [montanaflynn/stats: 一个经过良好测试且全面的 Golang 统计库包，没有依赖项。](https://github.com/montanaflynn/stats) 
 ### January 21, 2022 
 - [dflydev/dflydev-dot-access-data: 给定一个表示配置的深层数据结构，通过点符号访问配置。](https://github.com/dflydev/dflydev-dot-access-data) 
 - [dflydev/git-subsplit: 自动化和简化管理单向只读子树拆分的过程。](https://github.com/dflydev/git-subsplit) 
