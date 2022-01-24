@@ -235,6 +235,7 @@
 ### January 24, 2022 
 - [weaveworks/ignite: Weave Ignite 是一个开源虚拟机 (VM) 管理器，具有容器 UX 和内置 GitOps 管理。](https://github.com/weaveworks/ignite) 
 - [tmdh/laravel-kit: 一个桌面 Laravel 管理面板应用](https://github.com/tmdh/laravel-kit) 
+- [containers/podman: Podman（POD MANager）是一种用于管理容器和镜像、安装到这些容器中的卷以及由容器组组成的 pod 的工具。](https://github.com/containers/podman) 
 ### January 21, 2022 
 - [dflydev/dflydev-dot-access-data: 给定一个表示配置的深层数据结构，通过点符号访问配置。](https://github.com/dflydev/dflydev-dot-access-data) 
 - [dflydev/git-subsplit: 自动化和简化管理单向只读子树拆分的过程。](https://github.com/dflydev/git-subsplit) 
