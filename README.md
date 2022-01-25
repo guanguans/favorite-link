@@ -238,6 +238,7 @@
 - [mk-j/PHP_XLSXWriter: Lightwight XLSX Excel电子表格编写器（PHP）](https://github.com/mk-j/PHP_XLSXWriter) 
 - [ariga/atlas: 数据库工具包](https://github.com/ariga/atlas) 
 - [cespare/xxhash: 64 位 xxHash 算法 (XXH64) 的 Go 实现](https://github.com/cespare/xxhash) 
+- [Hi-Folks/rando-php: RandoPhp 是一个开源库，它实现了随机生成器（整数、字符、字节、序列、布尔值）并从数组中获取随机样本](https://github.com/Hi-Folks/rando-php) 
 ### January 24, 2022 
 - [weaveworks/ignite: Weave Ignite 是一个开源虚拟机 (VM) 管理器，具有容器 UX 和内置 GitOps 管理。](https://github.com/weaveworks/ignite) 
 - [tmdh/laravel-kit: 一个桌面 Laravel 管理面板应用](https://github.com/tmdh/laravel-kit) 
