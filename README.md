@@ -239,6 +239,7 @@
 - [qifengzhang007/GinSkeleton: 基于go语言gin框架封装的web项目骨架](https://github.com/qifengzhang007/GinSkeleton) 
 - [akaunting/laravel-apexcharts: Laravel 的 ApexCharts 包](https://github.com/akaunting/laravel-apexcharts) 
 - [icloud-photos-downloader/icloud_photos_downloader: 从 iCloud 下载照片的命令行工具](https://github.com/icloud-photos-downloader/icloud_photos_downloader) 
+- [mohammad-fouladgar/eloquent-builder: 这个包为 Laravel 或 Lumen 模型提供了一个基于传入请求的高级过滤器。](https://github.com/mohammad-fouladgar/eloquent-builder) 
 ### January 26, 2022 
 - [maize-tech/laravel-helpers: 这个存储库包含一些对大多数使用 Laravel 的应用程序有用的帮助器](https://github.com/maize-tech/laravel-helpers) 
 - [DarthSim/overmind: Overmind 是基于 Procfile 的应用程序和 tmux 的进程管理器。](https://github.com/DarthSim/overmind) 
