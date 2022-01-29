@@ -240,6 +240,7 @@
 ### January 29, 2022 
 - [go-piv/piv-go: YubiKeys的密钥和证书，用Go语言编写](https://github.com/go-piv/piv-go) 
 - [charmbracelet/soft-serve: 一个美味的、可自我托管的命令行Git服务器](https://github.com/charmbracelet/soft-serve) 
+- [aphiria/aphiria: 一个简单、可扩展的PHP REST API框架](https://github.com/aphiria/aphiria) 
 ### January 28, 2022 
 - [klauspost/readahead: Go 阅读器的异步预读](https://github.com/klauspost/readahead) 
 - [ajimoti/cache-duration: 一种生成 PHP 缓存时间的可读且流畅的方式。](https://github.com/ajimoti/cache-duration) 
