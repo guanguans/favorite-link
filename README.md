@@ -237,6 +237,9 @@
 
 
 
+
+### January 31, 2022 
+- [orlangure/gocovsh: Go Coverage in Shell：一个从命令行探索Go Coverage报告的工具。](https://github.com/orlangure/gocovsh) 
 ### January 29, 2022 
 - [go-piv/piv-go: YubiKeys的密钥和证书，用Go语言编写](https://github.com/go-piv/piv-go) 
 - [charmbracelet/soft-serve: 一个美味的、可自我托管的命令行Git服务器](https://github.com/charmbracelet/soft-serve) 
