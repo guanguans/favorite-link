@@ -238,6 +238,9 @@
 
 
 
+
+### February 1, 2022 
+- [raitonoberu/sptlrx: 在你的终端中的Spotify歌词。](https://github.com/raitonoberu/sptlrx) 
 ### January 31, 2022 
 - [orlangure/gocovsh: Go Coverage in Shell：一个从命令行探索Go Coverage报告的工具。](https://github.com/orlangure/gocovsh) 
 ### January 29, 2022 
