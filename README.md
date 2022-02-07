@@ -239,6 +239,9 @@
 
 
 
+
+### February 7, 2022 
+- [42wim/matterbridge: 在mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk和更多的REST API之间搭建桥梁](https://github.com/42wim/matterbridge) 
 ### February 1, 2022 
 - [raitonoberu/sptlrx: 在你的终端中的Spotify歌词。](https://github.com/raitonoberu/sptlrx) 
 - [mritd/gitflow-toolkit: 一个用于GitFlow的简单工具包。](https://github.com/mritd/gitflow-toolkit) 
