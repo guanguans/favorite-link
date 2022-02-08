@@ -251,6 +251,7 @@
 - [Hi-Folks/statistics: 提供计算数字数据的数学统计功能的PHP包。](https://github.com/Hi-Folks/statistics) 
 - [EventSaucePHP/ObjectHydrator: 这是一个将结构化请求数据（例如：解码的 JSON）转换为复杂对象结构的实用程序。 此实用程序的预期用途是接收请求数据并将其转换为命令或查询对象。](https://github.com/EventSaucePHP/ObjectHydrator) 
 - [php-mqtt/client: 一个用PHP编写的MQTT客户端。](https://github.com/php-mqtt/client) 
+- [cortesi/modd: 一个灵活的开发者工具，可以运行进程并对文件系统的变化做出反应](https://github.com/cortesi/modd) 
 ### February 7, 2022 
 - [42wim/matterbridge: 在mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk和更多的REST API之间搭建桥梁](https://github.com/42wim/matterbridge) 
 - [nicoverbruggen/phpmon: 轻量级，原生的Mac菜单栏应用程序，与Laravel Valet互动。](https://github.com/nicoverbruggen/phpmon) 
