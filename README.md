@@ -246,6 +246,7 @@
 - [huandu/go-sqlbuilder: 一个灵活而强大的SQL字符串生成器库和一个零配置的ORM。](https://github.com/huandu/go-sqlbuilder) 
 - [antecedent/patchwork: PHP 的方法重定义（猴子补丁）功能。](https://github.com/antecedent/patchwork) 
 - [roach-php/core: 完整的 PHP 网页抓取工具包。](https://github.com/roach-php/core) 
+- [Hi-Folks/gh-actions-yaml-generator: Ghygen是一个GitHub Actions配置器，适用于你的PHP / Laravel项目。](https://github.com/Hi-Folks/gh-actions-yaml-generator) 
 ### February 7, 2022 
 - [42wim/matterbridge: 在mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk和更多的REST API之间搭建桥梁](https://github.com/42wim/matterbridge) 
 - [nicoverbruggen/phpmon: 轻量级，原生的Mac菜单栏应用程序，与Laravel Valet互动。](https://github.com/nicoverbruggen/phpmon) 
