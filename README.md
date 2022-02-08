@@ -249,6 +249,7 @@
 - [Hi-Folks/gh-actions-yaml-generator: Ghygen是一个GitHub Actions配置器，适用于你的PHP / Laravel项目。](https://github.com/Hi-Folks/gh-actions-yaml-generator) 
 - [Hi-Folks/lara-lens: 用于显示诊断的Laravel包（配置、数据库、http连接...）。](https://github.com/Hi-Folks/lara-lens) 
 - [Hi-Folks/statistics: 提供计算数字数据的数学统计功能的PHP包。](https://github.com/Hi-Folks/statistics) 
+- [EventSaucePHP/ObjectHydrator: 这是一个将结构化请求数据（例如：解码的 JSON）转换为复杂对象结构的实用程序。 此实用程序的预期用途是接收请求数据并将其转换为命令或查询对象。](https://github.com/EventSaucePHP/ObjectHydrator) 
 ### February 7, 2022 
 - [42wim/matterbridge: 在mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk和更多的REST API之间搭建桥梁](https://github.com/42wim/matterbridge) 
 - [nicoverbruggen/phpmon: 轻量级，原生的Mac菜单栏应用程序，与Laravel Valet互动。](https://github.com/nicoverbruggen/phpmon) 
