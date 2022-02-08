@@ -243,6 +243,7 @@
 
 ### February 8, 2022 
 - [opendialogai/core: OpenDialog是一个帮助你设计、开发、部署和管理聊天机器人的平台--或者我们喜欢称之为对话式应用程序。](https://github.com/opendialogai/core) 
+- [huandu/go-sqlbuilder: 一个灵活而强大的SQL字符串生成器库和一个零配置的ORM。](https://github.com/huandu/go-sqlbuilder) 
 ### February 7, 2022 
 - [42wim/matterbridge: 在mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk和更多的REST API之间搭建桥梁](https://github.com/42wim/matterbridge) 
 - [nicoverbruggen/phpmon: 轻量级，原生的Mac菜单栏应用程序，与Laravel Valet互动。](https://github.com/nicoverbruggen/phpmon) 
