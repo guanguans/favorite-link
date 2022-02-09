@@ -246,6 +246,7 @@
 - [ryangjchandler/laravel-uuid: 一个用于向Eloquent模型添加UUIDs的小包。](https://github.com/ryangjchandler/laravel-uuid) 
 - [spewerspew/spew: 为Go数据结构实施深度漂亮打印机，以帮助调试。](https://github.com/spewerspew/spew) 
 - [prolic/PhpDisruptor: 高性能线程间消息传递库](https://github.com/prolic/PhpDisruptor) 
+- [smarty-prototypes/go-disruptor: 将LMAX Disruptor移植到Go语言。](https://github.com/smarty-prototypes/go-disruptor) 
 ### February 8, 2022 
 - [opendialogai/core: OpenDialog是一个帮助你设计、开发、部署和管理聊天机器人的平台--或者我们喜欢称之为对话式应用程序。](https://github.com/opendialogai/core) 
 - [huandu/go-sqlbuilder: 一个灵活而强大的SQL字符串生成器库和一个零配置的ORM。](https://github.com/huandu/go-sqlbuilder) 
