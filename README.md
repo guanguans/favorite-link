@@ -253,6 +253,7 @@
 - [bestony/mbdpay: 面包多支付(mbd.pub) PHP SDK](https://github.com/bestony/mbdpay) 
 - [google/go-querystring: go-querystring 是 Go 库，用于将结构编码为 URL 查询字符串。](https://github.com/google/go-querystring) 
 - [kbjr/Git.php: 一个PHP的git库](https://github.com/kbjr/Git.php) 
+- [cebe/php-openapi: 读取和写入OpenAPI yaml/json文件，并使内容可以在PHP对象中访问。](https://github.com/cebe/php-openapi) 
 ### February 10, 2022 
 - [hammerstonedev/sidecar: 从你的Laravel应用程序中部署和执行AWS Lambda函数。](https://github.com/hammerstonedev/sidecar) 
 - [stefanzweifel/sidecar-browsershot: 一个Sidecar函数，用于在Lambda上运行Browsershot。](https://github.com/stefanzweifel/sidecar-browsershot) 
