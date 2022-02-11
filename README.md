@@ -249,6 +249,7 @@
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
 - [Ecodev/graphql-upload: 一个PSR-15中间件，支持GraphQL中的文件上传](https://github.com/Ecodev/graphql-upload) 
 - [neoshiftlab/tree: 这个包提供了一个树形结构。](https://github.com/neoshiftlab/tree) 
+- [fluent/fluent-logger-php: 一个用于Fluentd的结构化日志记录器（PHP）](https://github.com/fluent/fluent-logger-php) 
 ### February 10, 2022 
 - [hammerstonedev/sidecar: 从你的Laravel应用程序中部署和执行AWS Lambda函数。](https://github.com/hammerstonedev/sidecar) 
 - [stefanzweifel/sidecar-browsershot: 一个Sidecar函数，用于在Lambda上运行Browsershot。](https://github.com/stefanzweifel/sidecar-browsershot) 
