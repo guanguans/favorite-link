@@ -247,6 +247,7 @@
 ### February 11, 2022 
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
+- [Ecodev/graphql-upload: 一个PSR-15中间件，支持GraphQL中的文件上传](https://github.com/Ecodev/graphql-upload) 
 ### February 10, 2022 
 - [hammerstonedev/sidecar: 从你的Laravel应用程序中部署和执行AWS Lambda函数。](https://github.com/hammerstonedev/sidecar) 
 - [stefanzweifel/sidecar-browsershot: 一个Sidecar函数，用于在Lambda上运行Browsershot。](https://github.com/stefanzweifel/sidecar-browsershot) 
