@@ -243,6 +243,9 @@
 
 
 
+
+### February 11, 2022 
+- [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 ### February 10, 2022 
 - [hammerstonedev/sidecar: 从你的Laravel应用程序中部署和执行AWS Lambda函数。](https://github.com/hammerstonedev/sidecar) 
 - [stefanzweifel/sidecar-browsershot: 一个Sidecar函数，用于在Lambda上运行Browsershot。](https://github.com/stefanzweifel/sidecar-browsershot) 
