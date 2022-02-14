@@ -252,6 +252,7 @@
 - [spatie/github-actions-watcher: 一个CLI工具，可以实时查看你所有GitHub行动工作流程的状态](https://github.com/spatie/github-actions-watcher) 
 - [nats-io/nats-streaming-server: NATS流媒体系统服务器](https://github.com/nats-io/nats-streaming-server) 
 - [projectdiscovery/dnsx: dnsx是一个快速和多用途的DNS工具包，允许运行多个你选择的DNS查询，并有一个用户提供的解析器列表](https://github.com/projectdiscovery/dnsx) 
+- [Code-Hex/pget: 最快的文件下载客户端](https://github.com/Code-Hex/pget) 
 ### February 11, 2022 
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
