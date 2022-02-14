@@ -247,6 +247,7 @@
 
 ### February 14, 2022 
 - [sun0225SUN/Awesome-Love-Code: 表白代码收藏馆，谁说程序猿不懂浪漫。](https://github.com/sun0225SUN/Awesome-Love-Code) 
+- [ARCANEDEV/Support: 支持包是一个用于ARCANEDEV + Laravel项目的助手和工具集合。](https://github.com/ARCANEDEV/Support) 
 ### February 11, 2022 
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
