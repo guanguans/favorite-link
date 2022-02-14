@@ -256,6 +256,7 @@
 - [jorenvh/laravel-share: Laravel 生成社交分享链接的可选包。](https://github.com/jorenvh/laravel-share) 
 - [ttacon/libphonenumber: 谷歌的libphonenumber的golang端口](https://github.com/ttacon/libphonenumber) 
 - [jasonmccreary/laravel-test-assertions: 一组在测试Laravel应用程序时有用的断言.](https://github.com/jasonmccreary/laravel-test-assertions) 
+- [GeneaLabs/laravel-pivot-events：此包为 BelongsToMany 和 MorphToMany 关系上的 sync()、attach()、detach() 或 updateExistingPivot() 方法引入了新的 eloquent 事件。](https://github.com/GeneaLabs/laravel-pivot-events) 
 ### February 11, 2022 
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
