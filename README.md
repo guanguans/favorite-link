@@ -260,6 +260,7 @@
 - [GeneaLabs/laravel-messenger: 提供一个落地的、应用范围内的警报功能，以响应用户的行动，向他们显示各种类型的警报和通知。](https://github.com/GeneaLabs/laravel-messenger) 
 - [GeneaLabs/laravel-governor: 在你的Laravel应用程序中用基于角色的细化权限来管理授权。](https://github.com/GeneaLabs/laravel-governor) 
 - [ARCANEDEV/LaravelSettings: 📂 这个包允许你持久化 Laravel 项目的配置/设置。](https://github.com/ARCANEDEV/LaravelSettings) 
+- [soketi/soketi: 只是另一个简单、快速、有弹性的开源WebSockets服务器。](https://github.com/soketi/soketi) 
 ### February 11, 2022 
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
