@@ -258,6 +258,7 @@
 - [jasonmccreary/laravel-test-assertions: 一组在测试Laravel应用程序时有用的断言.](https://github.com/jasonmccreary/laravel-test-assertions) 
 - [GeneaLabs/laravel-pivot-events：此包为 BelongsToMany 和 MorphToMany 关系上的 sync()、attach()、detach() 或 updateExistingPivot() 方法引入了新的 eloquent 事件。](https://github.com/GeneaLabs/laravel-pivot-events) 
 - [GeneaLabs/laravel-messenger: 提供一个落地的、应用范围内的警报功能，以响应用户的行动，向他们显示各种类型的警报和通知。](https://github.com/GeneaLabs/laravel-messenger) 
+- [GeneaLabs/laravel-governor: 在你的Laravel应用程序中用基于角色的细化权限来管理授权。](https://github.com/GeneaLabs/laravel-governor) 
 ### February 11, 2022 
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau) 
 - [worksome/envy: 保持你的.env.example文件是最新的](https://github.com/worksome/envy) 
