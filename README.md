@@ -245,6 +245,9 @@
 
 
 
+
+### February 15, 2022 
+- [ryangjchandler/laravel-json-settings: 将您的 Laravel 应用程序设置存储在磁盘上的 JSON 文件中。 ⚙️](https://github.com/ryangjchandler/laravel-json-settings) 
 ### February 14, 2022 
 - [sun0225SUN/Awesome-Love-Code: 表白代码收藏馆，谁说程序猿不懂浪漫。](https://github.com/sun0225SUN/Awesome-Love-Code) 
 - [ARCANEDEV/Support: 支持包是一个用于ARCANEDEV + Laravel项目的助手和工具集合。](https://github.com/ARCANEDEV/Support) 
