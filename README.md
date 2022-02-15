@@ -252,6 +252,7 @@
 - [leMaur/eloquent-publishing: 轻松使您的雄辩模型可发布。](https://github.com/leMaur/eloquent-publishing) 
 - [Jxckaroo/laravel-state-machine: 一个简单的 laravel 状态机，用于处理模型转换，基于预定义的规则列表。](https://github.com/Jxckaroo/laravel-state-machine) 
 - [lithammer/shortuuid: 🍄 简洁、明确和 URL 安全的 UUID 的生成器库](https://github.com/lithammer/shortuuid) 
+- [lithammer/fuzzysearch: 🐷 Go 中微小而快速的模糊搜索](https://github.com/lithammer/fuzzysearch) 
 ### February 14, 2022 
 - [sun0225SUN/Awesome-Love-Code: 表白代码收藏馆，谁说程序猿不懂浪漫。](https://github.com/sun0225SUN/Awesome-Love-Code) 
 - [ARCANEDEV/Support: 支持包是一个用于ARCANEDEV + Laravel项目的助手和工具集合。](https://github.com/ARCANEDEV/Support) 
