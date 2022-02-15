@@ -254,6 +254,7 @@
 - [lithammer/shortuuid: 🍄 简洁、明确和 URL 安全的 UUID 的生成器库](https://github.com/lithammer/shortuuid) 
 - [lithammer/fuzzysearch: 🐷 Go 中微小而快速的模糊搜索](https://github.com/lithammer/fuzzysearch) 
 - [glhd/gretel: 童话故事中的 Laravel 面包屑](https://github.com/glhd/gretel) 
+- [alecthomas/inject: Go的guice式依赖注入。](https://github.com/alecthomas/inject) 
 ### February 14, 2022 
 - [sun0225SUN/Awesome-Love-Code: 表白代码收藏馆，谁说程序猿不懂浪漫。](https://github.com/sun0225SUN/Awesome-Love-Code) 
 - [ARCANEDEV/Support: 支持包是一个用于ARCANEDEV + Laravel项目的助手和工具集合。](https://github.com/ARCANEDEV/Support) 
