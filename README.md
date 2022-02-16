@@ -250,6 +250,7 @@
 ### February 16, 2022 
 - [seiflotfy/cuckoofilter: Cuckoo 过滤器](https://github.com/seiflotfy/cuckoofilter) 
 - [agiledragon/gomonkey: gomonkey 是一个让单元测试中的猴子补丁变得简单的库](https://github.com/agiledragon/gomonkey) 
+- [elliotchance/dingo: 🐺 Go 的简单、快速和类型安全的依赖注入。](https://github.com/elliotchance/dingo) 
 ### February 15, 2022 
 - [ryangjchandler/laravel-json-settings: 将您的 Laravel 应用程序设置存储在磁盘上的 JSON 文件中。 ⚙️](https://github.com/ryangjchandler/laravel-json-settings) 
 - [GeneaLabs/laravel-mixpanel: 直观的插入式分析。](https://github.com/GeneaLabs/laravel-mixpanel) 
