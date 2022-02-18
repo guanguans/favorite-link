@@ -258,6 +258,7 @@
 - [otiai10/ocrserver: 一个简单的 OCR API 服务器](https://github.com/otiai10/ocrserver) 
 - [otiai10/gosseract: 使用 Tesseract c + + 库实现了光学字符识别的 Go 包](https://github.com/otiai10/gosseract) 
 - [LaravelLegends/pt-br-validator: 该库为 Laravel 添加了巴西验证](https://github.com/LaravelLegends/pt-br-validator) 
+- [codedge/laravel-selfupdater: 这个包提供了一些基本的方法来为你的 Laravel 应用程序实现自我更新功能。](https://github.com/codedge/laravel-selfupdater) 
 ### February 17, 2022 
 - [dcasia/collapsible-resource-manager: 带有可折叠组的自定义侧边栏菜单](https://github.com/dcasia/collapsible-resource-manager) 
 - [AnonymousAAArdvark/qi: 用中文编写的轻量级快速编程语言。](https://github.com/AnonymousAAArdvark/qi) 
