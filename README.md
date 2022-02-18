@@ -254,6 +254,7 @@
 - [Seldaek/signal-handler: 简单的 unix 信号处理程序，在 Windows 上静默失败，便于跨平台开发](https://github.com/Seldaek/signal-handler) 
 - [Evertras/go-interface-examples：使用 Go 接口编写更清晰、更可测试的代码的一些示例。](https://github.com/Evertras/go-interface-examples) 
 - [alecthomas/kong: Kong 是 Go 的命令行解析器](https://github.com/alecthomas/kong) 
+- [alecthomas/kingpin: Go (golang) 命令行和标志解析器](https://github.com/alecthomas/kingpin) 
 ### February 17, 2022 
 - [dcasia/collapsible-resource-manager: 带有可折叠组的自定义侧边栏菜单](https://github.com/dcasia/collapsible-resource-manager) 
 - [AnonymousAAArdvark/qi: 用中文编写的轻量级快速编程语言。](https://github.com/AnonymousAAArdvark/qi) 
