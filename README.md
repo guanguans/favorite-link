@@ -255,6 +255,7 @@
 - [Evertras/go-interface-examples：使用 Go 接口编写更清晰、更可测试的代码的一些示例。](https://github.com/Evertras/go-interface-examples) 
 - [alecthomas/kong: Kong 是 Go 的命令行解析器](https://github.com/alecthomas/kong) 
 - [alecthomas/kingpin: Go (golang) 命令行和标志解析器](https://github.com/alecthomas/kingpin) 
+- [otiai10/ocrserver: 一个简单的 OCR API 服务器](https://github.com/otiai10/ocrserver) 
 ### February 17, 2022 
 - [dcasia/collapsible-resource-manager: 带有可折叠组的自定义侧边栏菜单](https://github.com/dcasia/collapsible-resource-manager) 
 - [AnonymousAAArdvark/qi: 用中文编写的轻量级快速编程语言。](https://github.com/AnonymousAAArdvark/qi) 
