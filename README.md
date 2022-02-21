@@ -254,6 +254,7 @@
 - [Mrs4s/go-cqhttp: cqhttp的golang实现，轻量、原生跨平台.](https://github.com/Mrs4s/go-cqhttp) 
 - [Mrs4s/MiraiGo: qq协议的golang实现, 移植于mirai](https://github.com/Mrs4s/MiraiGo) 
 - [myokyawhtun/PDFMerger: PDFMerger 与 PHP 5、PHP 7 和 PHP 8 兼容](https://github.com/myokyawhtun/PDFMerger) 
+- [freshbitsweb/laravel-log-enhancer: 通过向 laravel 日志中添加更多数据来简化调试](https://github.com/freshbitsweb/laravel-log-enhancer) 
 ### February 18, 2022 
 - [roach-php/laravel: 用于 Roach 的 Laravel 适配器，用于 PHP 的完整 Web 抓取工具包。](https://github.com/roach-php/laravel) 
 - [Seldaek/signal-handler: 简单的 unix 信号处理程序，在 Windows 上静默失败，便于跨平台开发](https://github.com/Seldaek/signal-handler) 
