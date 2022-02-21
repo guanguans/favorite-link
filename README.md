@@ -263,6 +263,7 @@
 - [JackieDo/Laravel-Log-Reader: Laravel 的日志阅读器和管理工具](https://github.com/JackieDo/Laravel-Log-Reader) 
 - [mtownsend5512/response-xml: Laravel 的 Response 类缺少 XML 支持。](https://github.com/mtownsend5512/response-xml) 
 - [crazybooot/base64-validation: Laravel 的 base64 验证规则集](https://github.com/crazybooot/base64-validation) 
+- [hoverwinter/HIT-OSLab: S - 哈工大《操作系统》实验](https://github.com/hoverwinter/HIT-OSLab) 
 ### February 18, 2022 
 - [roach-php/laravel: 用于 Roach 的 Laravel 适配器，用于 PHP 的完整 Web 抓取工具包。](https://github.com/roach-php/laravel) 
 - [Seldaek/signal-handler: 简单的 unix 信号处理程序，在 Windows 上静默失败，便于跨平台开发](https://github.com/Seldaek/signal-handler) 
