@@ -260,6 +260,7 @@
 - [inspector-apm/inspector-laravel: 将你的 Laravel 应用程序连接到 Inspector。](https://github.com/inspector-apm/inspector-laravel) 
 - [babenkoivan/elastic-adapter: 官方 PHP Elasticsearch 客户端的适配器](https://github.com/babenkoivan/elastic-adapter) 
 - [mohorev/yii2-upload-behavior: Yii 2 的文件/图像上传行为](https://github.com/mohorev/yii2-upload-behavior) 
+- [JackieDo/Laravel-Log-Reader: Laravel 的日志阅读器和管理工具](https://github.com/JackieDo/Laravel-Log-Reader) 
 ### February 18, 2022 
 - [roach-php/laravel: 用于 Roach 的 Laravel 适配器，用于 PHP 的完整 Web 抓取工具包。](https://github.com/roach-php/laravel) 
 - [Seldaek/signal-handler: 简单的 unix 信号处理程序，在 Windows 上静默失败，便于跨平台开发](https://github.com/Seldaek/signal-handler) 
