@@ -253,6 +253,7 @@
 
 ### February 22, 2022 
 - [shimohq/mogo: Clickhouse 的轻量级网络日志可视化分析平台。](https://github.com/shimohq/mogo) 
+- [spatie/laravel-visit: 在你的 Laravel 应用中快速访问任何路由](https://github.com/spatie/laravel-visit) 
 ### February 21, 2022 
 - [Mrs4s/go-cqhttp: cqhttp的golang实现，轻量、原生跨平台.](https://github.com/Mrs4s/go-cqhttp) 
 - [Mrs4s/MiraiGo: qq协议的golang实现, 移植于mirai](https://github.com/Mrs4s/MiraiGo) 
