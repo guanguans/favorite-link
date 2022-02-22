@@ -256,6 +256,7 @@
 - [spatie/laravel-visit: 在你的 Laravel 应用中快速访问任何路由](https://github.com/spatie/laravel-visit) 
 - [martinvonz/jj: 一个与 Git 兼容的 DVCS，既简单又强大](https://github.com/martinvonz/jj) 
 - [archtechx/enums: 使 PHP 枚举更可爱的助手。](https://github.com/archtechx/enums) 
+- [GuoYaxiang/craftinginterpreters_zh: 手撸解释器教程](https://github.com/GuoYaxiang/craftinginterpreters_zh) 
 ### February 21, 2022 
 - [Mrs4s/go-cqhttp: cqhttp的golang实现，轻量、原生跨平台.](https://github.com/Mrs4s/go-cqhttp) 
 - [Mrs4s/MiraiGo: qq协议的golang实现, 移植于mirai](https://github.com/Mrs4s/MiraiGo) 
