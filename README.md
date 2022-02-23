@@ -251,6 +251,9 @@
 
 
 
+
+### February 23, 2022 
+- [mehdi-fathi/eloquent-filter: Eloquent Filter是一个通过查询字符串过滤模型数据的包。易于使用，完全动态。](https://github.com/mehdi-fathi/eloquent-filter) 
 ### February 22, 2022 
 - [shimohq/mogo: Clickhouse 的轻量级网络日志可视化分析平台。](https://github.com/shimohq/mogo) 
 - [spatie/laravel-visit: 在你的 Laravel 应用中快速访问任何路由](https://github.com/spatie/laravel-visit) 
