@@ -257,6 +257,7 @@
 - [YaoApp/yao: Yao 一个用于创建 Web 服务和仪表板的低代码引擎。](https://github.com/YaoApp/yao) 
 - [dave/dst: 装饰语法树 - 以完美的保真度操纵 Go 源代码。](https://github.com/dave/dst) 
 - [target/goalert: 开源待命安排、自动升级和通知，因此您不会错过任何重要警报](https://github.com/target/goalert) 
+- [mroth/weightedrand: Go 的快速加权随机选择。](https://github.com/mroth/weightedrand) 
 ### February 22, 2022 
 - [shimohq/mogo: Clickhouse 的轻量级网络日志可视化分析平台。](https://github.com/shimohq/mogo) 
 - [spatie/laravel-visit: 在你的 Laravel 应用中快速访问任何路由](https://github.com/spatie/laravel-visit) 
