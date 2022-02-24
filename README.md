@@ -261,6 +261,7 @@
 - [google/mtail: 从应用程序日志中提取内部监控数据以收集到时间序列数据库中](https://github.com/google/mtail) 
 - [Insolita/yii2-array-structure-validator: 验证复杂的数组结构](https://github.com/Insolita/yii2-array-structure-validator) 
 - [bramus/router: 一个轻量级且简单的面向对象的 PHP 路由器](https://github.com/bramus/router) 
+- [CosmosContracts/juno: 可互操作智能合约的开源平台](https://github.com/CosmosContracts/juno) 
 ### February 23, 2022 
 - [mehdi-fathi/eloquent-filter: Eloquent Filter是一个通过查询字符串过滤模型数据的包。易于使用，完全动态。](https://github.com/mehdi-fathi/eloquent-filter) 
 - [YaoApp/yao: Yao 一个用于创建 Web 服务和仪表板的低代码引擎。](https://github.com/YaoApp/yao) 
