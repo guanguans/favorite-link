@@ -268,6 +268,7 @@
 - [leafo/lessphp: 用 PHP 编写的 LESS 编译器](https://github.com/leafo/lessphp) 
 - [leafo/scssphp: 用 PHP 编写的 SCSS 编译器](https://github.com/leafo/scssphp) 
 - [ircmaxell/filterus: 一个简单的 PHP 过滤库](https://github.com/ircmaxell/filterus) 
+- [icewind1991/SMB: smbclient 的 PHP 包装器](https://github.com/icewind1991/SMB) 
 ### February 23, 2022 
 - [mehdi-fathi/eloquent-filter: Eloquent Filter是一个通过查询字符串过滤模型数据的包。易于使用，完全动态。](https://github.com/mehdi-fathi/eloquent-filter) 
 - [YaoApp/yao: Yao 一个用于创建 Web 服务和仪表板的低代码引擎。](https://github.com/YaoApp/yao) 
