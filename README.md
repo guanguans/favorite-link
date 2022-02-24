@@ -266,6 +266,7 @@
 - [liran-co/laravel-notification-subscriptions: Laravel 通知的订阅管理。](https://github.com/liran-co/laravel-notification-subscriptions) 
 - [hoaproject/Compiler: 该库允许操作 LL(1) 和 LL(k) 编译器。 最后一种提供了专门的语法描述语言：PP语言。](https://github.com/hoaproject/Compiler) 
 - [leafo/lessphp: 用 PHP 编写的 LESS 编译器](https://github.com/leafo/lessphp) 
+- [leafo/scssphp: 用 PHP 编写的 SCSS 编译器](https://github.com/leafo/scssphp) 
 ### February 23, 2022 
 - [mehdi-fathi/eloquent-filter: Eloquent Filter是一个通过查询字符串过滤模型数据的包。易于使用，完全动态。](https://github.com/mehdi-fathi/eloquent-filter) 
 - [YaoApp/yao: Yao 一个用于创建 Web 服务和仪表板的低代码引擎。](https://github.com/YaoApp/yao) 
