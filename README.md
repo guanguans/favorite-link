@@ -263,6 +263,7 @@
 - [bramus/router: 一个轻量级且简单的面向对象的 PHP 路由器](https://github.com/bramus/router) 
 - [CosmosContracts/juno: 可互操作智能合约的开源平台](https://github.com/CosmosContracts/juno) 
 - [mr-tron/base58: 在 golang 上快速实现 base58 编码。](https://github.com/mr-tron/base58) 
+- [liran-co/laravel-notification-subscriptions: Laravel 通知的订阅管理。](https://github.com/liran-co/laravel-notification-subscriptions) 
 ### February 23, 2022 
 - [mehdi-fathi/eloquent-filter: Eloquent Filter是一个通过查询字符串过滤模型数据的包。易于使用，完全动态。](https://github.com/mehdi-fathi/eloquent-filter) 
 - [YaoApp/yao: Yao 一个用于创建 Web 服务和仪表板的低代码引擎。](https://github.com/YaoApp/yao) 
