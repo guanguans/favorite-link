@@ -253,6 +253,9 @@
 
 
 
+
+### February 25, 2022 
+- [BinarCode/laravel-restify: 使用 Laravel 制作强大的 JSON:API 兼容的 Rest API 的最快方法。](https://github.com/BinarCode/laravel-restify) 
 ### February 24, 2022 
 - [rinvex/cortex: Rinvex Cortex 是企业解决方案的坚实基础，它提供了一个灵活且可扩展的架构，用于构建具有内容管理、主题视图、应用程序模块等的多语言、多租户应用程序。](https://github.com/rinvex/cortex) 
 - [oz/tz: 一个时区助手](https://github.com/oz/tz) 
