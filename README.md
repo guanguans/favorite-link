@@ -259,6 +259,7 @@
 - [schappim/macOCR: 将屏幕上的任何文本放入剪贴板。](https://github.com/schappim/macOCR) 
 - [go-ozzo/ozzo-validation: 一个惯用的 Go (golang) 验证包。](https://github.com/go-ozzo/ozzo-validation) 
 - [go-ozzo/ozzo-di: 一个实现依赖注入容器的 Go 包](https://github.com/go-ozzo/ozzo-di) 
+- [aceld/libevent: <Libevent深入浅出>本书要求有一定的服务并发编程基础，了解select和epoll等多路I/O复用机制。](https://github.com/aceld/libevent) 
 ### February 24, 2022 
 - [rinvex/cortex: Rinvex Cortex 是企业解决方案的坚实基础，它提供了一个灵活且可扩展的架构，用于构建具有内容管理、主题视图、应用程序模块等的多语言、多租户应用程序。](https://github.com/rinvex/cortex) 
 - [oz/tz: 一个时区助手](https://github.com/oz/tz) 
