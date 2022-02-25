@@ -262,6 +262,7 @@
 - [aceld/libevent: <Libevent深入浅出>本书要求有一定的服务并发编程基础，了解select和epoll等多路I/O复用机制。](https://github.com/aceld/libevent) 
 - [ofabry/go-callvis: 使用 Graphviz 可视化 Go 程序的调用图](https://github.com/ofabry/go-callvis) 
 - [nacos-group/nacos-sdk-go: Golang 中的 Nacos 客户端](https://github.com/nacos-group/nacos-sdk-go) 
+- [blugelabs/bluge: Go 的索引库](https://github.com/blugelabs/bluge) 
 ### February 24, 2022 
 - [rinvex/cortex: Rinvex Cortex 是企业解决方案的坚实基础，它提供了一个灵活且可扩展的架构，用于构建具有内容管理、主题视图、应用程序模块等的多语言、多租户应用程序。](https://github.com/rinvex/cortex) 
 - [oz/tz: 一个时区助手](https://github.com/oz/tz) 
