@@ -259,6 +259,7 @@
 - [Laravel-Backpack/LangFileManager: 用于编辑 Laravel 语言文件的快速界面，适用于 Backpack。](https://github.com/Laravel-Backpack/LangFileManager) 
 - [sanmai/later: 稍后: 一个延迟的对象管理器。不需要回调](https://github.com/sanmai/later) 
 - [OndraM/ci-detector: 检测持续集成环境并获取当前构建的信息](https://github.com/OndraM/ci-detector) 
+- [rindow/rindow-neuralnetworks: 用于 PHP 机器学习的神经网络库](https://github.com/rindow/rindow-neuralnetworks) 
 ### February 25, 2022 
 - [BinarCode/laravel-restify: 使用 Laravel 制作强大的 JSON:API 兼容的 Rest API 的最快方法。](https://github.com/BinarCode/laravel-restify) 
 - [schappim/macOCR: 将屏幕上的任何文本放入剪贴板。](https://github.com/schappim/macOCR) 
