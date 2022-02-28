@@ -254,6 +254,9 @@
 
 
 
+
+### February 28, 2022 
+- [Laravel-Backpack/LangFileManager: 用于编辑 Laravel 语言文件的快速界面，适用于 Backpack。](https://github.com/Laravel-Backpack/LangFileManager) 
 ### February 25, 2022 
 - [BinarCode/laravel-restify: 使用 Laravel 制作强大的 JSON:API 兼容的 Rest API 的最快方法。](https://github.com/BinarCode/laravel-restify) 
 - [schappim/macOCR: 将屏幕上的任何文本放入剪贴板。](https://github.com/schappim/macOCR) 
