@@ -262,6 +262,7 @@
 - [rindow/rindow-neuralnetworks: 用于 PHP 机器学习的神经网络库](https://github.com/rindow/rindow-neuralnetworks) 
 - [getlantern/systray: Systemray 是一个跨平台的 Go 库，用于在通知区域放置图标和菜单。](https://github.com/getlantern/systray) 
 - [s9e/RegexpBuilder: S9e RegexpBuilder 是一个单用途的库，它生成与字符串列表匹配的正则表达式。](https://github.com/s9e/RegexpBuilder) 
+- [zencodex/package-make: 创建 PHP 或 laravel 软件包/插件，你可以用许多独立的 laravel 软件包管理大型项目。](https://github.com/zencodex/package-make) 
 ### February 25, 2022 
 - [BinarCode/laravel-restify: 使用 Laravel 制作强大的 JSON:API 兼容的 Rest API 的最快方法。](https://github.com/BinarCode/laravel-restify) 
 - [schappim/macOCR: 将屏幕上的任何文本放入剪贴板。](https://github.com/schappim/macOCR) 
