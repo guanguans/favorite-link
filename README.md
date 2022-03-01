@@ -260,6 +260,7 @@
 - [Torann/laravel-currency: 这为 Laravel 提供了使用最新汇率的货币格式和转换等货币功能。](https://github.com/Torann/laravel-currency) 
 - [maize-tech/laravel-encryptable: 通过有说服力的查询轻松地匿名敏感数据](https://github.com/maize-tech/laravel-encryptable) 
 - [tray-labs/laravel-influxdb: 在 Laravel 中使用 InfluxDB 的 Lib](https://github.com/tray-labs/laravel-influxdb) 
+- [woai3c/MIT6.828: 实现一个操作系统内核](https://github.com/woai3c/MIT6.828) 
 ### February 28, 2022 
 - [Laravel-Backpack/LangFileManager: 用于编辑 Laravel 语言文件的快速界面，适用于 Backpack。](https://github.com/Laravel-Backpack/LangFileManager) 
 - [sanmai/later: 稍后: 一个延迟的对象管理器。不需要回调](https://github.com/sanmai/later) 
