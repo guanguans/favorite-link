@@ -256,6 +256,9 @@
 
 
 
+
+### March 2, 2022 
+- [mgechev/revive: 🔥 ~ 6 倍更快、更严格、可配置、可扩展且美观的 golint 替代品](https://github.com/mgechev/revive) 
 ### March 1, 2022 
 - [Torann/laravel-currency: 这为 Laravel 提供了使用最新汇率的货币格式和转换等货币功能。](https://github.com/Torann/laravel-currency) 
 - [maize-tech/laravel-encryptable: 通过有说服力的查询轻松地匿名敏感数据](https://github.com/maize-tech/laravel-encryptable) 
