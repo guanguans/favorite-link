@@ -261,6 +261,7 @@
 - [mgechev/revive: 🔥 ~ 6 倍更快、更严格、可配置、可扩展且美观的 golint 替代品](https://github.com/mgechev/revive) 
 - [chenjiandongx/sniffer: 🤒 现代替代网络流量嗅探器。](https://github.com/chenjiandongx/sniffer) 
 - [MasterRO94/laravel-mail-viewer: 轻松登录和查看浏览器发出的电子邮件。](https://github.com/MasterRO94/laravel-mail-viewer) 
+- [spatie/laravel-varnish: 这个包提供了一种在 Laravel 中使用 Varnish 4（或 5）的简单方法](https://github.com/spatie/laravel-varnish) 
 ### March 1, 2022 
 - [Torann/laravel-currency: 这为 Laravel 提供了使用最新汇率的货币格式和转换等货币功能。](https://github.com/Torann/laravel-currency) 
 - [maize-tech/laravel-encryptable: 通过有说服力的查询轻松地匿名敏感数据](https://github.com/maize-tech/laravel-encryptable) 
