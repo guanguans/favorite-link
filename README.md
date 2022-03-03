@@ -261,6 +261,7 @@
 ### March 3, 2022 
 - [tianmingyun/MasterBitcoin2CN: 《精通区块链编程第二版》](https://github.com/tianmingyun/MasterBitcoin2CN) 
 - [smallnest/dive-to-gosync-workshop: 深入Go并发编程研讨课](https://github.com/smallnest/dive-to-gosync-workshop) 
+- [nicksnyder/go-i18n: 将你的 Go 程序翻译成多种语言。](https://github.com/nicksnyder/go-i18n) 
 ### March 2, 2022 
 - [mgechev/revive: 🔥 ~ 6 倍更快、更严格、可配置、可扩展且美观的 golint 替代品](https://github.com/mgechev/revive) 
 - [chenjiandongx/sniffer: 🤒 现代替代网络流量嗅探器。](https://github.com/chenjiandongx/sniffer) 
