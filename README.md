@@ -266,6 +266,7 @@
 - [sroze/messenger-enqueue-transport: 使用带 Symfony 的 Messenger 组件的 Enqueue。](https://github.com/sroze/messenger-enqueue-transport) 
 - [Soft/iter: iter 是 Go 的通用迭代器库](https://github.com/Soft/iter) 
 - [bnkamalesh/goapp: 构建和开发 Go Web 应用程序/服务的自以为是的指南](https://github.com/bnkamalesh/goapp) 
+- [BrainMaestro/envman: 轻松管理您的 .env 配置](https://github.com/BrainMaestro/envman) 
 ### March 4, 2022 
 - [samber/lo: 💥 基于 Go 1.18+ 泛型（map、filter、contains、find...）的 Lodash 风格的 Go 库](https://github.com/samber/lo) 
 - [oschwald/geoip2-golang: 用于 Go 的非官方 MaxMind GeoIP2 阅读器](https://github.com/oschwald/geoip2-golang) 
