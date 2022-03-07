@@ -259,6 +259,9 @@
 
 
 
+
+### March 7, 2022 
+- [JackonYang/money-maker-apps: 我认为有赚钱能力的开源小程序、个人网站](https://github.com/JackonYang/money-maker-apps) 
 ### March 4, 2022 
 - [samber/lo: 💥 基于 Go 1.18+ 泛型（map、filter、contains、find...）的 Lodash 风格的 Go 库](https://github.com/samber/lo) 
 - [oschwald/geoip2-golang: 用于 Go 的非官方 MaxMind GeoIP2 阅读器](https://github.com/oschwald/geoip2-golang) 
