@@ -268,6 +268,7 @@
 - [antihax/optional: go的可选参数](https://github.com/antihax/optional) 
 - [Dgame/php-optional: 类似 Rust 的 PHP 可选类型](https://github.com/Dgame/php-optional) 
 - [markphelps/optional: Optional 是可选 Go 类型的库](https://github.com/markphelps/optional) 
+- [prometheus/alertmanager: Alertmanager 处理由 Prometheus 服务器等客户端应用程序发送的警报。 ](https://github.com/prometheus/alertmanager) 
 ### March 7, 2022 
 - [JackonYang/money-maker-apps: 我认为有赚钱能力的开源小程序、个人网站](https://github.com/JackonYang/money-maker-apps) 
 - [samber/lo: 💥 基于 Go 1.18+ 泛型（map、filter、contains、find...）的 Lodash 风格的 Go 库](https://github.com/samber/lo) 
