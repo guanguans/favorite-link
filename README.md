@@ -263,6 +263,7 @@
 
 ### March 8, 2022 
 - [JustSteveKing/LaravelPostcodes: postcodes.io 的服务包装器](https://github.com/JustSteveKing/LaravelPostcodes) 
+- [carloswph/configurable: 可配置的接口，它的抽象类实现和一个 trait (很快)。](https://github.com/carloswph/configurable) 
 ### March 7, 2022 
 - [JackonYang/money-maker-apps: 我认为有赚钱能力的开源小程序、个人网站](https://github.com/JackonYang/money-maker-apps) 
 - [samber/lo: 💥 基于 Go 1.18+ 泛型（map、filter、contains、find...）的 Lodash 风格的 Go 库](https://github.com/samber/lo) 
