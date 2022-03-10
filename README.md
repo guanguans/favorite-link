@@ -266,6 +266,7 @@
 ### March 10, 2022 
 - [TomWright/dasel: 使用一个工具从 JSON、 TOML、 YAML、 XML 和 CSV 文件中选择、放置和删除数据。支持格式间的转换，可以作为 Go 包使用。](https://github.com/TomWright/dasel) 
 - [broadway/broadway: 用于创建 CQRS 和事件源应用程序的基础架构和测试帮助程序。](https://github.com/broadway/broadway) 
+- [php-fp/php-fp-maybe: PHP 中 Maybe monad 的实现。](https://github.com/php-fp/php-fp-maybe) 
 ### March 9, 2022 
 - [karminski/pineapple: pineapple lang 是一个简单的编程语言 demo. 它包含了个手写的递归下降解析器和一个简单的解释器](https://github.com/karminski/pineapple) 
 - [YianAndCode/pineapple-php: pineapple lang 是一个简单的编程语言 demo。它包含了个手写的递归下降解析器和一个简单的解释器。](https://github.com/YianAndCode/pineapple-php) 
