@@ -264,6 +264,9 @@
 
 
 
+
+### March 14, 2022 
+- [guregu/dynamo: 用于 Go 的富有表现力的 DynamoDB 库](https://github.com/guregu/dynamo) 
 ### March 11, 2022 
 - [tenantcloud/laravel-boolean-softdeletes](https://github.com/tenantcloud/laravel-boolean-softdeletes) 
 - [disintegration/gift: Go 图像过滤工具包](https://github.com/disintegration/gift) 
