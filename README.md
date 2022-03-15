@@ -265,6 +265,9 @@
 
 
 
+
+### March 15, 2022 
+- [phpjuice/opencf: 基于（加权斜率、余弦、加权余弦）评级的协同过滤方案的PHP实现。](https://github.com/phpjuice/opencf) 
 ### March 14, 2022 
 - [guregu/dynamo: 用于 Go 的富有表现力的 DynamoDB 库](https://github.com/guregu/dynamo) 
 - [bakame-php/http-structured-fields: PHP 中 HTTP 操作的结构化字段值](https://github.com/bakame-php/http-structured-fields) 
