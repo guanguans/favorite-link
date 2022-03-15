@@ -270,6 +270,7 @@
 - [phpjuice/opencf: 基于（加权斜率、余弦、加权余弦）评级的协同过滤方案的PHP实现。](https://github.com/phpjuice/opencf) 
 - [rule110-io/surge: Surge 是一款 p2p 文件共享应用程序，旨在利用区块链技术实现 100% 匿名文件传输。 Surge 是端到端加密、去中心化和开源的。](https://github.com/rule110-io/surge) 
 - [btelle/ethereum-php: 以太坊 API 的 PHP 接口](https://github.com/btelle/ethereum-php) 
+- [btelle/ethereum-php: 以太坊 API 的 PHP 接口](https://github.com/btelle/ethereum-php) 
 ### March 14, 2022 
 - [guregu/dynamo: 用于 Go 的富有表现力的 DynamoDB 库](https://github.com/guregu/dynamo) 
 - [bakame-php/http-structured-fields: PHP 中 HTTP 操作的结构化字段值](https://github.com/bakame-php/http-structured-fields) 
