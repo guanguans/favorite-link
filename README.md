@@ -271,6 +271,7 @@
 
 ### March 18, 2022 
 - [xiaoxuan6/laravel-ali-green: laravel 阿里鉴黄包括文本、图片、视频，关键词文本检测以及对图片涉黄、暴恐、敏感检测、广告、二维码视频色情、暴恐涉政视频等](https://github.com/xiaoxuan6/laravel-ali-green) 
+- [uptrace/go-clickhouse: Go 的 ClickHouse 客户端](https://github.com/uptrace/go-clickhouse) 
 ### March 17, 2022 
 - [gzuidhof/tygo: 从 Golang 源代码生成 Typescript 类型](https://github.com/gzuidhof/tygo) 
 - [coduo/php-matcher: 将 JSON/PlainText/XML 等数据结构与可读模式匹配的最简单方法。 沙盒：](https://github.com/coduo/php-matcher) 
