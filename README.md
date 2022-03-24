@@ -280,6 +280,7 @@
 - [chrusty/protoc-gen-jsonschema: Protobuf到JSON模式编译器](https://github.com/chrusty/protoc-gen-jsonschema) 
 - [colinodell/indentation: 用于检测和操作字符串和文件缩进的 PHP 库](https://github.com/colinodell/indentation) 
 - [smalot/cups-ipp: IPP-PHP 客户端 API 的 CUPS 实现](https://github.com/smalot/cups-ipp) 
+- [anlutro/laravel-settings: Laravel 中的持久化设置](https://github.com/anlutro/laravel-settings) 
 ### March 23, 2022 
 - [nawarian/raylib-ffi: 使用 FFI 的用于 PHP 的 Raylib 绑定。](https://github.com/nawarian/raylib-ffi) 
 ### March 22, 2022 
