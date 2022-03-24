@@ -276,6 +276,7 @@
 
 ### March 24, 2022 
 - [spatie/laravel-http-logger: 在 Laravel 应用程序中记录 HTTP 请求](https://github.com/spatie/laravel-http-logger) 
+- [sairson/Yasso: 强大的内网渗透辅助工具集](https://github.com/sairson/Yasso) 
 ### March 23, 2022 
 - [nawarian/raylib-ffi: 使用 FFI 的用于 PHP 的 Raylib 绑定。](https://github.com/nawarian/raylib-ffi) 
 ### March 22, 2022 
