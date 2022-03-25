@@ -281,6 +281,7 @@
 - [onflow/cadence: Cadence，面向资源的智能合约编程语言🏃‍♂️](https://github.com/onflow/cadence) 
 - [hidehalo/nanoid-php: PHP 实现 Nanoid，安全 url 友好的唯一 ID 生成器](https://github.com/hidehalo/nanoid-php) 
 - [brittonhayes/pillager: 用 Go 掠夺敏感信息的文件系统。](https://github.com/brittonhayes/pillager) 
+- [ai/nanoid: 一个微型的(130字节) ，安全的，url 友好的，独特的 JavaScript 字符串 ID 生成器](https://github.com/ai/nanoid) 
 ### March 24, 2022 
 - [spatie/laravel-http-logger: 在 Laravel 应用程序中记录 HTTP 请求](https://github.com/spatie/laravel-http-logger) 
 - [sairson/Yasso: 强大的内网渗透辅助工具集](https://github.com/sairson/Yasso) 
