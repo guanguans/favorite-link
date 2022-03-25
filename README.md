@@ -274,6 +274,9 @@
 
 
 
+
+### March 25, 2022 
+- [charlieuki/receipt-printer: 用于集成 ECS/POS 打印驱动程序的 Laravel 包](https://github.com/charlieuki/receipt-printer) 
 ### March 24, 2022 
 - [spatie/laravel-http-logger: 在 Laravel 应用程序中记录 HTTP 请求](https://github.com/spatie/laravel-http-logger) 
 - [sairson/Yasso: 强大的内网渗透辅助工具集](https://github.com/sairson/Yasso) 
