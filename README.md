@@ -14,6 +14,7 @@
 - [Bytom/bytom: Bytom 协议的官方 Go 实现](https://github.com/Bytom/bytom) 
 - [fortytw2/leaktest: Goroutine 漏洞检测器](https://github.com/fortytw2/leaktest) 
 - [lib/pq: 用于数据库/sql 的纯 Go Postgres 驱动程序](https://github.com/lib/pq) 
+- [decomp/decomp: 反编译管道的组件。](https://github.com/decomp/decomp) 
 ### March 26, 2022 
 - [Textalk/websocket-php: PHP中的WebSocket客户端和服务器](https://github.com/Textalk/websocket-php) 
 ### March 25, 2022 
