@@ -16,6 +16,7 @@
 - [octeep/wireproxy: Wireguard客户端，将自身暴露为socks5代理](https://github.com/octeep/wireproxy) 
 - [elliotchance/pie: 用于处理切片和映射的实用程序库，专注于类型安全和性能。](https://github.com/elliotchance/pie) 
 - [yoanbernabeu/Cronify: 简单地监测你的Cron](https://github.com/yoanbernabeu/Cronify) 
+- [imTigger/laravel-job-status: 添加跟踪作业进度、状态和分派到队列的结果的能力。](https://github.com/imTigger/laravel-job-status/tree/master) 
 ### March 28, 2022 
 - [Bytom/bytom: Bytom 协议的官方 Go 实现](https://github.com/Bytom/bytom) 
 - [fortytw2/leaktest: Goroutine 漏洞检测器](https://github.com/fortytw2/leaktest) 
