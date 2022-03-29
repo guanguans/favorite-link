@@ -14,6 +14,7 @@
 ### March 29, 2022 
 - [jurosh/php-pdf-merge: PHP 的 PDF 合并库](https://github.com/jurosh/php-pdf-merge) 
 - [octeep/wireproxy: Wireguard客户端，将自身暴露为socks5代理](https://github.com/octeep/wireproxy) 
+- [elliotchance/pie: 用于处理切片和映射的实用程序库，专注于类型安全和性能。](https://github.com/elliotchance/pie) 
 ### March 28, 2022 
 - [Bytom/bytom: Bytom 协议的官方 Go 实现](https://github.com/Bytom/bytom) 
 - [fortytw2/leaktest: Goroutine 漏洞检测器](https://github.com/fortytw2/leaktest) 
