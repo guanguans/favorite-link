@@ -14,6 +14,7 @@
 
 ### March 30, 2022 
 - [flower-corp/lotusdb: 快速 k/v 存储兼容 lsm 树和 b + 树，灵感来自 SLM-DB 在 USENIX FAST’19。](https://github.com/flower-corp/lotusdb) 
+- [go-redis/cache: 带有 Redis 后端的 Golang 缓存库](https://github.com/go-redis/cache) 
 ### March 29, 2022 
 - [jurosh/php-pdf-merge: PHP 的 PDF 合并库](https://github.com/jurosh/php-pdf-merge) 
 - [octeep/wireproxy: Wireguard客户端，将自身暴露为socks5代理](https://github.com/octeep/wireproxy) 
