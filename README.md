@@ -18,6 +18,7 @@
 - [archtechx/jobpipeline: 将任何一系列工作变成 Laravel 监听器。](https://github.com/archtechx/jobpipeline) 
 - [arthurkushman/php-wss: Web-socket 服务器/客户端](https://github.com/arthurkushman/php-wss) 
 - [andersao/laravel-validator: Laravel 验证服务](https://github.com/andersao/laravel-validator) 
+- [Pullword-永久免费的基于深度学习的中文在线分词API](http://www.pullword.com/) 
 ### March 30, 2022 
 - [flower-corp/lotusdb: 快速 k/v 存储兼容 lsm 树和 b + 树，灵感来自 SLM-DB 在 USENIX FAST’19。](https://github.com/flower-corp/lotusdb) 
 - [go-redis/cache: 带有 Redis 后端的 Golang 缓存库](https://github.com/go-redis/cache) 
