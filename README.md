@@ -19,6 +19,7 @@
 - [matryer/moq: go generate 的接口模拟工具](https://github.com/matryer/moq) 
 - [fruitcake/php-cors: 用于 Symfony/Laravel 请求的 CORS（跨源资源共享）](https://github.com/fruitcake/php-cors) 
 - [voku/portable-ascii: 🔡 可移植的 ASCII 库 - PHP 的性能优化（ascii）字符串函数。](https://github.com/voku/portable-ascii) 
+- [phpWhois/phpWhois: phpWhois 通用存储库](https://github.com/phpWhois/phpWhois) 
 ### March 31, 2022 
 - [attackercan/regexp-security-cheatsheet: 正则表达式安全备忘单](https://github.com/attackercan/regexp-security-cheatsheet) 
 - [archtechx/jobpipeline: 将任何一系列工作变成 Laravel 监听器。](https://github.com/archtechx/jobpipeline) 
