@@ -19,6 +19,7 @@
 - [projectdiscovery/nuclei: 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。](https://github.com/projectdiscovery/nuclei) 
 - [myzhan/boomer: 一个更好的 Locust 负载生成器，用 golang 编写。](https://github.com/myzhan/boomer) 
 - [qzfzz/php7-extension-dev-book: 《PHP扩展开发及内核应用》](https://github.com/qzfzz/php7-extension-dev-book) 
+- [Wilfred/difftastic: Difftastic 是一个实验性的差异工具，可以根据文件的语法比较文件。](https://github.com/Wilfred/difftastic) 
 ### April 1, 2022 
 - [dagger/dagger: 用于 CI/CD 管道的便携式开发工具包](https://github.com/dagger/dagger) 
 - [matryer/moq: go generate 的接口模拟工具](https://github.com/matryer/moq) 
