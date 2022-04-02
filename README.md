@@ -14,6 +14,9 @@
 
 
 
+
+### April 2, 2022 
+- [projectdiscovery/nuclei: 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。](https://github.com/projectdiscovery/nuclei) 
 ### April 1, 2022 
 - [dagger/dagger: 用于 CI/CD 管道的便携式开发工具包](https://github.com/dagger/dagger) 
 - [matryer/moq: go generate 的接口模拟工具](https://github.com/matryer/moq) 
