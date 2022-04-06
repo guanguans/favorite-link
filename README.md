@@ -30,6 +30,7 @@
 - [swayok/alternative-laravel-cache: 替换 Laravel 的 redis 和文件缓存存储，正确实现标签的想法](https://github.com/swayok/alternative-laravel-cache) 
 - [geekcom/validator-docs: 使用 Laravel 验证 CPF、CNPJ、CNH、NIS、选举人头衔和国民健康卡。](https://github.com/geekcom/validator-docs) 
 - [seancheung/history: Laravel 的Eloquent模型历史跟踪](https://github.com/seancheung/history) 
+- [sajya/server: @laravel 框架的 JSON-RPC 2.0 API 服务器](https://github.com/sajya/server) 
 ### April 2, 2022 
 - [projectdiscovery/nuclei: 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。](https://github.com/projectdiscovery/nuclei) 
 - [myzhan/boomer: 一个更好的 Locust 负载生成器，用 golang 编写。](https://github.com/myzhan/boomer) 
