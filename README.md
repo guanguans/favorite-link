@@ -25,6 +25,7 @@
 - [nsnikhil/go-datastructures: 该项目旨在将众所周知和常用的数据结构移植/构建到 GO。](https://github.com/nsnikhil/go-datastructures) 
 - [akaunting/laravel-language: Laravel 的语言切换器包](https://github.com/akaunting/laravel-language) 
 - [Laravel-Backpack/Settings: Backpack 的应用程序设置界面](https://github.com/Laravel-Backpack/Settings) 
+- [gmponos/guzzle-log-middleware: 自动记录请求和响应的 Guzzle 中间件](https://github.com/gmponos/guzzle-log-middleware) 
 ### April 2, 2022 
 - [projectdiscovery/nuclei: 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。](https://github.com/projectdiscovery/nuclei) 
 - [myzhan/boomer: 一个更好的 Locust 负载生成器，用 golang 编写。](https://github.com/myzhan/boomer) 
