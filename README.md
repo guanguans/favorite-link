@@ -18,6 +18,7 @@
 
 ### April 6, 2022 
 - [Hansimov/csapp: 《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料](https://github.com/Hansimov/csapp) 
+- [kitar/laravel-dynamodb: 基于 DynamoDB 的 Eloquent 模型和 Laravel 查询构建器。](https://github.com/kitar/laravel-dynamodb) 
 ### April 2, 2022 
 - [projectdiscovery/nuclei: 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。](https://github.com/projectdiscovery/nuclei) 
 - [myzhan/boomer: 一个更好的 Locust 负载生成器，用 golang 编写。](https://github.com/myzhan/boomer) 
