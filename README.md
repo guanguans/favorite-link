@@ -28,6 +28,7 @@
 - [gmponos/guzzle-log-middleware: 自动记录请求和响应的 Guzzle 中间件](https://github.com/gmponos/guzzle-log-middleware) 
 - [obiefy/api-response: 简单易用的 Laravel API 响应包装器。](https://github.com/obiefy/api-response) 
 - [swayok/alternative-laravel-cache: 替换 Laravel 的 redis 和文件缓存存储，正确实现标签的想法](https://github.com/swayok/alternative-laravel-cache) 
+- [geekcom/validator-docs: 使用 Laravel 验证 CPF、CNPJ、CNH、NIS、选举人头衔和国民健康卡。](https://github.com/geekcom/validator-docs) 
 ### April 2, 2022 
 - [projectdiscovery/nuclei: 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。](https://github.com/projectdiscovery/nuclei) 
 - [myzhan/boomer: 一个更好的 Locust 负载生成器，用 golang 编写。](https://github.com/myzhan/boomer) 
