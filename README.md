@@ -23,6 +23,7 @@
 - [lavary/crunz: 基于 PHP 的作业调度程序](https://github.com/lavary/crunz) 
 - [ucan-lab/laravel-dacapo: Laravel 迁移支持工具，始终在 schema.yml 上生成最新的迁移文件](https://github.com/ucan-lab/laravel-dacapo) 
 - [Askedio/laravel-soft-cascade: 使用 Laravel SoftDeletes 时的级联删除和恢复](https://github.com/Askedio/laravel-soft-cascade) 
+- [LaravelCollective/annotations: Laravel 框架的路由和事件注解](https://github.com/LaravelCollective/annotations) 
 ### April 7, 2022 
 - [GrahamCampbell/Result-Type: 结果类型的实现](https://github.com/GrahamCampbell/Result-Type) 
 - [hi-frameork/c-workerman: workerman C扩展版](https://github.com/hi-frameork/c-workerman) 
