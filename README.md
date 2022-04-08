@@ -21,6 +21,7 @@
 ### April 8, 2022 
 - [lonquan/easy-lark: 飞书开放平台 PHP SDK](https://github.com/lonquan/easy-lark) 
 - [lavary/crunz: 基于 PHP 的作业调度程序](https://github.com/lavary/crunz) 
+- [ucan-lab/laravel-dacapo: Laravel 迁移支持工具，始终在 schema.yml 上生成最新的迁移文件](https://github.com/ucan-lab/laravel-dacapo) 
 ### April 7, 2022 
 - [GrahamCampbell/Result-Type: 结果类型的实现](https://github.com/GrahamCampbell/Result-Type) 
 - [hi-frameork/c-workerman: workerman C扩展版](https://github.com/hi-frameork/c-workerman) 
