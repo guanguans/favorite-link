@@ -20,6 +20,7 @@
 
 ### April 8, 2022 
 - [lonquan/easy-lark: 飞书开放平台 PHP SDK](https://github.com/lonquan/easy-lark) 
+- [lavary/crunz: 基于 PHP 的作业调度程序](https://github.com/lavary/crunz) 
 ### April 7, 2022 
 - [GrahamCampbell/Result-Type: 结果类型的实现](https://github.com/GrahamCampbell/Result-Type) 
 - [hi-frameork/c-workerman: workerman C扩展版](https://github.com/hi-frameork/c-workerman) 
