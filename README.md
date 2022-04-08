@@ -26,6 +26,7 @@
 - [LaravelCollective/annotations: Laravel 框架的路由和事件注解](https://github.com/LaravelCollective/annotations) 
 - [amphp/byte-stream: 基于 Amp 的 PHP 无阻塞流抽象。](https://github.com/amphp/byte-stream) 
 - [kossa/laradminator: 将 Adminator 集成到 Laravel ](https://github.com/kossa/laradminator) 
+- [shuax/chrome_plus: Chrome 增强软件](https://github.com/shuax/chrome_plus) 
 ### April 7, 2022 
 - [GrahamCampbell/Result-Type: 结果类型的实现](https://github.com/GrahamCampbell/Result-Type) 
 - [hi-frameork/c-workerman: workerman C扩展版](https://github.com/hi-frameork/c-workerman) 
