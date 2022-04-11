@@ -23,6 +23,7 @@
 - [amphp/websocket-client: 基于 Amp 的 PHP 异步 WebSocket 客户端。](https://github.com/amphp/websocket-client) 
 - [amphp/http-server-router: Amp 的 HTTP 服务器的路由器。](https://github.com/amphp/http-server-router) 
 - [dlvhdr/gh-dash: gh cli 扩展以显示 PR 和问题的仪表板 - 可通过漂亮的 UI 进行配置。](https://github.com/dlvhdr/gh-dash) 
+- [go-goyave/goyave: 🍐 优雅的 Golang REST API 框架](https://github.com/go-goyave/goyave) 
 ### April 8, 2022 
 - [lonquan/easy-lark: 飞书开放平台 PHP SDK](https://github.com/lonquan/easy-lark) 
 - [lavary/crunz: 基于 PHP 的作业调度程序](https://github.com/lavary/crunz) 
