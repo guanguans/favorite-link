@@ -26,6 +26,7 @@
 - [go-goyave/goyave: 🍐 优雅的 Golang REST API 框架](https://github.com/go-goyave/goyave) 
 - [josephburnett/jd: JSON 差异和补丁](https://github.com/josephburnett/jd) 
 - [php-flasher/php-flasher: 🔔 Flasher 是一个功能强大且灵活的 Flash 通知系统，适用于 PHP、Laravel、Symfony](https://github.com/php-flasher/php-flasher) 
+- [smallnest/soar: SQL Optimizer And Rewriter. Fork自XiaoMi/soar, 精简代码以适合作为库引用](https://github.com/smallnest/soar) 
 ### April 8, 2022 
 - [lonquan/easy-lark: 飞书开放平台 PHP SDK](https://github.com/lonquan/easy-lark) 
 - [lavary/crunz: 基于 PHP 的作业调度程序](https://github.com/lavary/crunz) 
