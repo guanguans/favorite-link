@@ -26,6 +26,7 @@
 - [adnanh/webhook: webhook 是一个轻量级的传入 webhook 服务器，用于运行 shell 命令](https://github.com/adnanh/webhook) 
 - [yl2chen/cidranger: 在 Golang 快速查找 CIDR 的 IP](https://github.com/yl2chen/cidranger) 
 - [asseco-voice/laravel-custom-fields: 可扩展的 Laravel 模型，不需要额外的数据库属性](https://github.com/asseco-voice/laravel-custom-fields) 
+- [MacsiDigital/laravel-api-client: 用于构建 API 客户端的 Laravel 包](https://github.com/MacsiDigital/laravel-api-client) 
 ### April 11, 2022 
 - [amphp/websocket-client: 基于 Amp 的 PHP 异步 WebSocket 客户端。](https://github.com/amphp/websocket-client) 
 - [amphp/http-server-router: Amp 的 HTTP 服务器的路由器。](https://github.com/amphp/http-server-router) 
