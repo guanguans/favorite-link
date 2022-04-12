@@ -22,6 +22,7 @@
 
 ### April 12, 2022 
 - [hanneskod/libmergepdf: 合并多个 pdf 文件的 PHP 库](https://github.com/hanneskod/libmergepdf) 
+- [rime/squirrel: 【鼠鬚管】Rime for macOS](https://github.com/rime/squirrel) 
 ### April 11, 2022 
 - [amphp/websocket-client: 基于 Amp 的 PHP 异步 WebSocket 客户端。](https://github.com/amphp/websocket-client) 
 - [amphp/http-server-router: Amp 的 HTTP 服务器的路由器。](https://github.com/amphp/http-server-router) 
