@@ -23,6 +23,7 @@
 
 ### April 13, 2022 
 - [Shopify/shopify-php-api: 这个库提供支持PHP Shopify应用](https://github.com/Shopify/shopify-php-api) 
+- [klauspost/cpuid: Go 的 CPU 功能识别](https://github.com/klauspost/cpuid) 
 ### April 12, 2022 
 - [hanneskod/libmergepdf: 合并多个 pdf 文件的 PHP 库](https://github.com/hanneskod/libmergepdf) 
 - [rime/squirrel: 【鼠鬚管】Rime for macOS](https://github.com/rime/squirrel) 
