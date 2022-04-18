@@ -26,6 +26,7 @@
 
 ### April 18, 2022 
 - [yuque-helper/yuque2book: 将你的语雀文档导出的工具](https://github.com/yuque-helper/yuque2book) 
+- [antonmedv/fx: 终端 JSON 查看器](https://github.com/antonmedv/fx) 
 ### April 15, 2022 
 - [huangz1990/redis-command-mindmap: Redis 命令脑图](https://github.com/huangz1990/redis-command-mindmap) 
 ### April 14, 2022 
