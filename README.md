@@ -33,6 +33,7 @@
 - [colinodell/cookiecache: PHP 的分布式 PSR-16 缓存实现，使用浏览器 cookie 存储数据](https://github.com/colinodell/cookiecache) 
 - [maxmind/geoipupdate: GeoIP 更新客户端代码](https://github.com/maxmind/geoipupdate) 
 - [reactphp/dns: ReactPHP 的异步 DNS 解析器。](https://github.com/reactphp/dns) 
+- [Roboroads/laravel-tinker: 添加一种编写 php 并直接在 Laravel 的 Artisan Tinker 中运行的方法。](https://github.com/Roboroads/laravel-tinker) 
 ### April 18, 2022 
 - [yuque-helper/yuque2book: 将你的语雀文档导出的工具](https://github.com/yuque-helper/yuque2book) 
 - [antonmedv/fx: 终端 JSON 查看器](https://github.com/antonmedv/fx) 
