@@ -34,6 +34,7 @@
 - [maxmind/geoipupdate: GeoIP 更新客户端代码](https://github.com/maxmind/geoipupdate) 
 - [reactphp/dns: ReactPHP 的异步 DNS 解析器。](https://github.com/reactphp/dns) 
 - [Roboroads/laravel-tinker: 添加一种编写 php 并直接在 Laravel 的 Artisan Tinker 中运行的方法。](https://github.com/Roboroads/laravel-tinker) 
+- [kylekatarnls/business-time: Carbon mixin 处理工作日和营业时间](https://github.com/kylekatarnls/business-time) 
 ### April 18, 2022 
 - [yuque-helper/yuque2book: 将你的语雀文档导出的工具](https://github.com/yuque-helper/yuque2book) 
 - [antonmedv/fx: 终端 JSON 查看器](https://github.com/antonmedv/fx) 
