@@ -29,6 +29,7 @@
 - [VirgilClyne/iRingo: 解锁完整的 Apple功能和集成服务](https://github.com/VirgilClyne/iRingo) 
 - [adjust/rmq: 用 Go 编写并由 Redis 支持的消息队列系统](https://github.com/adjust/rmq) 
 - [cristalhq/jwt: 用于 Go 的安全、简单和快速的 JSON Web 令牌](https://github.com/cristalhq/jwt) 
+- [geekan/HowToLiveLonger: 程序员延寿指南](https://github.com/geekan/HowToLiveLonger) 
 ### April 18, 2022 
 - [yuque-helper/yuque2book: 将你的语雀文档导出的工具](https://github.com/yuque-helper/yuque2book) 
 - [antonmedv/fx: 终端 JSON 查看器](https://github.com/antonmedv/fx) 
