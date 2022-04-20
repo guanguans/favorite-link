@@ -30,6 +30,7 @@
 - [goreleaser/nfpm: 一个用 Go 编写的简单 deb、rpm 和 apk 打包器](https://github.com/goreleaser/nfpm) 
 - [swiftyapp/swifty: 🔑 免费离线密码管理器](https://github.com/swiftyapp/swifty) 
 - [EndBug/add-and-commit: 自动将工作流程中所做的更改直接提交到您的存储库](https://github.com/EndBug/add-and-commit) 
+- [hashicorp/memberlist: 用于基于 gossip 的成员资格和故障检测的 Golang 包](https://github.com/hashicorp/memberlist) 
 ### April 19, 2022 
 - [VirgilClyne/iRingo: 解锁完整的 Apple功能和集成服务](https://github.com/VirgilClyne/iRingo) 
 - [adjust/rmq: 用 Go 编写并由 Redis 支持的消息队列系统](https://github.com/adjust/rmq) 
