@@ -25,6 +25,9 @@
 
 
 
+
+### April 20, 2022 
+- [goreleaser/nfpm: 一个用 Go 编写的简单 deb、rpm 和 apk 打包器](https://github.com/goreleaser/nfpm) 
 ### April 19, 2022 
 - [VirgilClyne/iRingo: 解锁完整的 Apple功能和集成服务](https://github.com/VirgilClyne/iRingo) 
 - [adjust/rmq: 用 Go 编写并由 Redis 支持的消息队列系统](https://github.com/adjust/rmq) 
