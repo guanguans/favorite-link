@@ -29,6 +29,7 @@
 
 ### April 21, 2022 
 - [coteditor/CotEditor: macOS 的轻量级纯文本编辑器](https://github.com/coteditor/CotEditor) 
+- [silan-liu/virtual-machine: 动手实现一个虚拟机](https://github.com/silan-liu/virtual-machine) 
 ### April 20, 2022 
 - [goreleaser/nfpm: 一个用 Go 编写的简单 deb、rpm 和 apk 打包器](https://github.com/goreleaser/nfpm) 
 - [swiftyapp/swifty: 🔑 免费离线密码管理器](https://github.com/swiftyapp/swifty) 
