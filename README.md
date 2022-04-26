@@ -33,6 +33,7 @@
 
 ### April 26, 2022 
 - [loophp/nix-shell: 用于 PHP 开发的 Nix shell](https://github.com/loophp/nix-shell) 
+- [tonysm/tailwindcss-laravel: 这个包为 Laravel 应用程序包装了 Tailwind CSS 框架的独立可执行版本。](https://github.com/tonysm/tailwindcss-laravel) 
 ### April 25, 2022 
 - [glebarez/cero: 从任意主机的 SSL 证书中抓取域名](https://github.com/glebarez/cero) 
 - [polarismesh/polaris: 服务发现和治理](https://github.com/polarismesh/polaris) 
