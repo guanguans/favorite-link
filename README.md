@@ -34,6 +34,7 @@
 
 ### April 27, 2022 
 - [trufflesecurity/trufflehog: 到处查找凭据](https://github.com/trufflesecurity/trufflehog) 
+- [vearne/gin-timeout: Gin 框架的超时中间件](https://github.com/vearne/gin-timeout) 
 ### April 26, 2022 
 - [loophp/nix-shell: 用于 PHP 开发的 Nix shell](https://github.com/loophp/nix-shell) 
 - [tonysm/tailwindcss-laravel: 这个包为 Laravel 应用程序包装了 Tailwind CSS 框架的独立可执行版本。](https://github.com/tonysm/tailwindcss-laravel) 
