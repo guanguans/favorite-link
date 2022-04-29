@@ -37,6 +37,7 @@
 ### April 29, 2022 
 - [Edujugon/PushNotification: PHP 和 Laravel 包用于向 Android 和 IOS 设备发送推送通知。](https://github.com/Edujugon/PushNotification) 
 - [vadimcn/vscode-lldb: 基于 LLDB 的 VSCode 的本地调试器扩展](https://github.com/vadimcn/vscode-lldb) 
+- [go-redis/redismock: Redis 客户端 Mock](https://github.com/go-redis/redismock) 
 ### April 28, 2022 
 - [bsm/redislock: 使用 Redis 简化分布式锁定实现](https://github.com/bsm/redislock) 
 ### April 27, 2022 
