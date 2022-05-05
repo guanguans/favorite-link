@@ -40,6 +40,7 @@
 - [pulkitjalan/google-apiclient: 支持云平台和 Laravel 的 Google api php 客户端包装器](https://github.com/pulkitjalan/google-apiclient) 
 - [sjlleo/netflix-verify: 流媒体NetFlix解锁检测脚本](https://github.com/sjlleo/netflix-verify) 
 - [dexidp/dex: 具有可插拔连接器的 OpenID Connect (OIDC) 身份和 OAuth 2.0 提供程序](https://github.com/dexidp/dex) 
+- [CareyWang/MyUrls: 你自己的网址缩短服务](https://github.com/CareyWang/MyUrls) 
 ### April 29, 2022 
 - [Edujugon/PushNotification: PHP 和 Laravel 包用于向 Android 和 IOS 设备发送推送通知。](https://github.com/Edujugon/PushNotification) 
 - [vadimcn/vscode-lldb: 基于 LLDB 的 VSCode 的本地调试器扩展](https://github.com/vadimcn/vscode-lldb) 
