@@ -47,6 +47,7 @@
 - [delight-im/PHP-Auth: PHP 的身份验证。 简单、轻便且安全。](https://github.com/delight-im/PHP-Auth) 
 - [lcvvvv/kscan: Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。](https://github.com/lcvvvv/kscan) 
 - [chevere/xr: PHP 的轻量级远程调试工具](https://github.com/chevere/xr) 
+- [sjwhitworth/golearn: Go 机器学习](https://github.com/sjwhitworth/golearn) 
 ### April 29, 2022 
 - [Edujugon/PushNotification: PHP 和 Laravel 包用于向 Android 和 IOS 设备发送推送通知。](https://github.com/Edujugon/PushNotification) 
 - [vadimcn/vscode-lldb: 基于 LLDB 的 VSCode 的本地调试器扩展](https://github.com/vadimcn/vscode-lldb) 
