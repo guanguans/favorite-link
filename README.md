@@ -44,6 +44,7 @@
 - [replicate/cog: 机器学习容器](https://github.com/replicate/cog) 
 - [alphadose/ZenQ: 一个线程安全的队列，比 golang 的原生通道更快，资源效率更高](https://github.com/alphadose/ZenQ) 
 - [eypsilon/browser-reload: 自动刷新/重新加载浏览器](https://github.com/eypsilon/browser-reload) 
+- [delight-im/PHP-Auth: PHP 的身份验证。 简单、轻便且安全。](https://github.com/delight-im/PHP-Auth) 
 ### April 29, 2022 
 - [Edujugon/PushNotification: PHP 和 Laravel 包用于向 Android 和 IOS 设备发送推送通知。](https://github.com/Edujugon/PushNotification) 
 - [vadimcn/vscode-lldb: 基于 LLDB 的 VSCode 的本地调试器扩展](https://github.com/vadimcn/vscode-lldb) 
