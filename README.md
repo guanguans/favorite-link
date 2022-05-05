@@ -50,6 +50,7 @@
 - [sjwhitworth/golearn: Go 机器学习](https://github.com/sjwhitworth/golearn) 
 - [dsnet/try: Go 中的简化错误处理](https://github.com/dsnet/try) 
 - [dsnet/compress: 压缩相关的 Go 包的集合。](https://github.com/dsnet/compress) 
+- [chevere/chevere: 现代 PHP 的高质量库](https://github.com/chevere/chevere) 
 ### April 29, 2022 
 - [Edujugon/PushNotification: PHP 和 Laravel 包用于向 Android 和 IOS 设备发送推送通知。](https://github.com/Edujugon/PushNotification) 
 - [vadimcn/vscode-lldb: 基于 LLDB 的 VSCode 的本地调试器扩展](https://github.com/vadimcn/vscode-lldb) 
