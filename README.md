@@ -35,6 +35,9 @@
 
 
 
+
+### May 6, 2022 
+- [andreapollastri/cipi: 像专业人士一样安装和管理您的服务器！ 使用 Cipi，您无需成为系统管理员即可部署和管理由云 VPS 提供支持的网站和 PHP 应用程序。](https://github.com/andreapollastri/cipi) 
 ### May 5, 2022 
 - [pulkitjalan/geoip: 带有 Laravel 支持的 Geoip 包装器](https://github.com/pulkitjalan/geoip) 
 - [pulkitjalan/google-apiclient: 支持云平台和 Laravel 的 Google api php 客户端包装器](https://github.com/pulkitjalan/google-apiclient) 
