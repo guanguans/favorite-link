@@ -39,6 +39,7 @@
 
 ### May 7, 2022 
 - [zee-editor/zee: 用 Rust 编写的用于终端的现代文本编辑器](https://github.com/zee-editor/zee) 
+- [mit-pdos/biscuit: Biscuit 是用于 x86-64 CPU 的 Go 中的单片 POSIX 子集操作系统内核。](https://github.com/mit-pdos/biscuit) 
 ### May 6, 2022 
 - [andreapollastri/cipi: 像专业人士一样安装和管理您的服务器！ 使用 Cipi，您无需成为系统管理员即可部署和管理由云 VPS 提供支持的网站和 PHP 应用程序。](https://github.com/andreapollastri/cipi) 
 ### May 5, 2022 
