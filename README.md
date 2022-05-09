@@ -41,6 +41,7 @@
 ### May 9, 2022 
 - [XZB-1248/Spark: Spark是一个基于网页UI、跨平台以及多功能的远程控制和监控工具，可以通过浏览器，随时随地监控和控制你的所有设备。](https://github.com/XZB-1248/Spark) 
 - [Buzz2d0/xssfinder: XSS discovery tool](https://github.com/Buzz2d0/xssfinder) 
+- [muesli/termenv: 为您的终端应用程序提供高级 ANSI 样式和颜色支持](https://github.com/muesli/termenv) 
 ### May 7, 2022 
 - [zee-editor/zee: 用 Rust 编写的用于终端的现代文本编辑器](https://github.com/zee-editor/zee) 
 - [mit-pdos/biscuit: Biscuit 是用于 x86-64 CPU 的 Go 中的单片 POSIX 子集操作系统内核。](https://github.com/mit-pdos/biscuit) 
