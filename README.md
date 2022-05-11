@@ -39,6 +39,9 @@
 
 
 
+
+### May 11, 2022 
+- [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
 - [chrislim2888/IP2Location-PHP-Module: 该模块是一个PHP模块，可以让用户查找国家、地区、城市、坐标、邮政编码、ISP、域名、时区、连接速度、IDD代码、区号、气象站代码、气象站名称、手机、 任何 IP 地址或主机名源自的使用类型、地址类型、IAB 类别等。](https://github.com/chrislim2888/IP2Location-PHP-Module) 
 ### May 9, 2022 
