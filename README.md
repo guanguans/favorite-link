@@ -49,6 +49,7 @@
 - [heimdalr/dag: golang 中的另一个有向无环图 (DAG) 实现。](https://github.com/heimdalr/dag) 
 - [bits-and-blooms/bitset: Go包实现位集](https://github.com/bits-and-blooms/bitset) 
 - [jaem3l/unfuck: 解开供应商代码并搞砸你自己的库](https://github.com/jaem3l/unfuck) 
+- [kidoman/embd: Go 中的嵌入式编程框架](https://github.com/kidoman/embd) 
 ### May 11, 2022 
 - [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
