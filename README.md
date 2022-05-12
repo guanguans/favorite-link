@@ -47,6 +47,7 @@
 - [luk4z7/go-concurrency-guide: Go 中的实用并发指南，按通道通信，模式](https://github.com/luk4z7/go-concurrency-guide) 
 - [goombaio/dag: golang中的DAG有向无环图实现。](https://github.com/goombaio/dag) 
 - [heimdalr/dag: golang 中的另一个有向无环图 (DAG) 实现。](https://github.com/heimdalr/dag) 
+- [bits-and-blooms/bitset: Go包实现位集](https://github.com/bits-and-blooms/bitset) 
 ### May 11, 2022 
 - [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
