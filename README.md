@@ -45,6 +45,7 @@
 - [confetti-framework/confetti: Confetti 是一个具有表现力、优雅语法的 Web 应用程序框架。](https://github.com/confetti-framework/confetti) 
 - [aerogo/aero: 🚄 Go 的高性能 Web 服务器。](https://github.com/aerogo/aero) 
 - [luk4z7/go-concurrency-guide: Go 中的实用并发指南，按通道通信，模式](https://github.com/luk4z7/go-concurrency-guide) 
+- [goombaio/dag: golang中的DAG有向无环图实现。](https://github.com/goombaio/dag) 
 ### May 11, 2022 
 - [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
