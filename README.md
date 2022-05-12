@@ -40,6 +40,9 @@
 
 
 
+
+### May 12, 2022 
+- [confetti-framework/confetti: Confetti 是一个具有表现力、优雅语法的 Web 应用程序框架。](https://github.com/confetti-framework/confetti) 
 ### May 11, 2022 
 - [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
