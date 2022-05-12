@@ -51,6 +51,7 @@
 - [jaem3l/unfuck: 解开供应商代码并搞砸你自己的库](https://github.com/jaem3l/unfuck) 
 - [kidoman/embd: Go 中的嵌入式编程框架](https://github.com/kidoman/embd) 
 - [rueian/rueidis: 一个快速的 Golang Redis RESP3 客户端，支持客户端缓存、自动流水线、RedisJSON、RedisBloom、RediSearch、RedisAI、RedisGears 等。](https://github.com/rueian/rueidis) 
+- [benjamin-smith/php-ipify: ipify 的 PHP 客户端库：一个简单的 IP 地址 API。](https://github.com/benjamin-smith/php-ipify) 
 ### May 11, 2022 
 - [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
