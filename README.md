@@ -53,6 +53,7 @@
 - [rueian/rueidis: 一个快速的 Golang Redis RESP3 客户端，支持客户端缓存、自动流水线、RedisJSON、RedisBloom、RediSearch、RedisAI、RedisGears 等。](https://github.com/rueian/rueidis) 
 - [benjamin-smith/php-ipify: ipify 的 PHP 客户端库：一个简单的 IP 地址 API。](https://github.com/benjamin-smith/php-ipify) 
 - [kylekatarnls/update-helper: Composer 插件在更新时发出警告，建议迁移过程](https://github.com/kylekatarnls/update-helper) 
+- [php-cache/simple-cache-bridge: 将 PSR-6 转换为 SimpleCache 的桥梁](https://github.com/php-cache/simple-cache-bridge) 
 ### May 11, 2022 
 - [davidcole1340/ext-php-rs: 用于 Zend API 的绑定，以便在 Rust 中本地构建 PHP 扩展。](https://github.com/davidcole1340/ext-php-rs) 
 ### May 10, 2022 
