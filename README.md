@@ -47,6 +47,7 @@
 - [nunomaduro/laravel-mojito: 一个用于隔离测试 Laravel 视图的轻量级包](https://github.com/nunomaduro/laravel-mojito) 
 - [hashicorp/yamux: Golang连接多路复用库](https://github.com/hashicorp/yamux) 
 - [flow-php/etl: PHP - ETL (Extract Transform Load) data processing library](https://github.com/flow-php/etl) 
+- [hhvm/hsl: Hack 标准库](https://github.com/hhvm/hsl) 
 ### May 12, 2022 
 - [confetti-framework/confetti: Confetti 是一个具有表现力、优雅语法的 Web 应用程序框架。](https://github.com/confetti-framework/confetti) 
 - [aerogo/aero: 🚄 Go 的高性能 Web 服务器。](https://github.com/aerogo/aero) 
