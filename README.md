@@ -48,6 +48,7 @@
 - [hashicorp/yamux: Golang连接多路复用库](https://github.com/hashicorp/yamux) 
 - [flow-php/etl: PHP - ETL (Extract Transform Load) data processing library](https://github.com/flow-php/etl) 
 - [hhvm/hsl: Hack 标准库](https://github.com/hhvm/hsl) 
+- [square/laravel-hyrule: 面向对象的、可组合的、流畅的 API，用于在 Laravel 中编写验证](https://github.com/square/laravel-hyrule) 
 ### May 12, 2022 
 - [confetti-framework/confetti: Confetti 是一个具有表现力、优雅语法的 Web 应用程序框架。](https://github.com/confetti-framework/confetti) 
 - [aerogo/aero: 🚄 Go 的高性能 Web 服务器。](https://github.com/aerogo/aero) 
