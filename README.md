@@ -42,6 +42,9 @@
 
 
 
+
+### May 16, 2022 
+- [IvanGrigorov/VMValidator: 这是 PHP 模型的简单属性验证，基于 PHP 8中提供的新特性](https://github.com/IvanGrigorov/VMValidator) 
 ### May 13, 2022 
 - [vx3r/wg-gen-web: 简单的基于 Web 的 WireGuard 配置生成器。](https://github.com/vx3r/wg-gen-web) 
 - [nunomaduro/laravel-mojito: 一个用于隔离测试 Laravel 视图的轻量级包](https://github.com/nunomaduro/laravel-mojito) 
