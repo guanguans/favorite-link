@@ -49,6 +49,7 @@
 - [mattiasgeniar/php-percentages: 一个使用百分比的 PHP 包](https://github.com/mattiasgeniar/php-percentages) 
 - [lni/dragonboat: Go 中功能完整且高性能的多组 Raft 库。](https://github.com/lni/dragonboat) 
 - [matchish/laravel-scout-elasticsearch: 使用 ElasticSearch 和 Laravel Scout 在多个模型中搜索](https://github.com/matchish/laravel-scout-elasticsearch) 
+- [Khan/genqlient: 一个真正类型安全的 Go GraphQL 客户端](https://github.com/Khan/genqlient) 
 ### May 16, 2022 
 - [IvanGrigorov/VMValidator: 这是 PHP 模型的简单属性验证，基于 PHP 8中提供的新特性](https://github.com/IvanGrigorov/VMValidator) 
 - [brick/date-time: PHP 的日期和时间库](https://github.com/brick/date-time) 
