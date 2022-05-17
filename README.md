@@ -46,6 +46,7 @@
 
 ### May 17, 2022 
 - [mattiasgeniar/phpunit-query-count-assertions: PHPUnit 的自定义断言，允许您计算测试中使用的 SQL 查询的数量。](https://github.com/mattiasgeniar/phpunit-query-count-assertions) 
+- [mattiasgeniar/php-percentages: 一个使用百分比的 PHP 包](https://github.com/mattiasgeniar/php-percentages) 
 ### May 16, 2022 
 - [IvanGrigorov/VMValidator: 这是 PHP 模型的简单属性验证，基于 PHP 8中提供的新特性](https://github.com/IvanGrigorov/VMValidator) 
 - [brick/date-time: PHP 的日期和时间库](https://github.com/brick/date-time) 
