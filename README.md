@@ -51,6 +51,7 @@
 - [flowjs/flow-php-server: flow.js php 服务器库，验证上传的块并将所有块安全地合并到一个文件中](https://github.com/flowjs/flow-php-server) 
 - [drud/ddev: 本地PHP开发环境系统](https://github.com/drud/ddev) 
 - [friendica/friendica: Friendica通讯平台](https://github.com/friendica/friendica) 
+- [malwaredllc/minicache: 具有客户端一致哈希、分布式领导者选举和动态节点发现的分布式缓存。 支持使用 mTLS 保护的 HTTP/gRPC 接口。](https://github.com/malwaredllc/minicache) 
 ### May 17, 2022 
 - [mattiasgeniar/phpunit-query-count-assertions: PHPUnit 的自定义断言，允许您计算测试中使用的 SQL 查询的数量。](https://github.com/mattiasgeniar/phpunit-query-count-assertions) 
 - [mattiasgeniar/php-percentages: 一个使用百分比的 PHP 包](https://github.com/mattiasgeniar/php-percentages) 
