@@ -53,6 +53,7 @@
 - [friendica/friendica: Friendica通讯平台](https://github.com/friendica/friendica) 
 - [malwaredllc/minicache: 具有客户端一致哈希、分布式领导者选举和动态节点发现的分布式缓存。 支持使用 mTLS 保护的 HTTP/gRPC 接口。](https://github.com/malwaredllc/minicache) 
 - [newpanjing/gofound: o语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现](https://github.com/newpanjing/gofound) 
+- [zhukovaskychina/xmysql-server: 基于Golang实现的mysql数据库](https://github.com/zhukovaskychina/xmysql-server) 
 ### May 17, 2022 
 - [mattiasgeniar/phpunit-query-count-assertions: PHPUnit 的自定义断言，允许您计算测试中使用的 SQL 查询的数量。](https://github.com/mattiasgeniar/phpunit-query-count-assertions) 
 - [mattiasgeniar/php-percentages: 一个使用百分比的 PHP 包](https://github.com/mattiasgeniar/php-percentages) 
