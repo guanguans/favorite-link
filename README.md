@@ -54,6 +54,7 @@
 - [distribworks/dkron: 分布式、容错作业调度系统 ](https://github.com/distribworks/dkron) 
 - [OldSmokeGun/go-scaffold: Go 开发基础脚手架](https://github.com/OldSmokeGun/go-scaffold) 
 - [devcoder-xyz/php-dotenv: 解析 .env 文件](https://github.com/devcoder-xyz/php-dotenv) 
+- [christofferok/laravel-emojione: Laravel软件包，便于使用EmojiOne的华丽表情符号](https://github.com/christofferok/laravel-emojione) 
 ### May 18, 2022 
 - [roelofjan-elsinga/aloia-cms: Laravel 的嵌入式平面文件 CMS。](https://github.com/roelofjan-elsinga/aloia-cms) 
 - [rzashakeri/beautify-github-profile: 这个存储库可以帮助你拥有一个更漂亮、更有吸引力的 github 个人资料，并且你可以访问一组工具和指南来美化你的 github 个人资料。 🚩](https://github.com/rzashakeri/beautify-github-profile) 
