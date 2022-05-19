@@ -58,6 +58,7 @@
 - [DirectoryTree/LdapRecord-Laravel: 面向 Laravel 的多域 LDAP 认证与管理。](https://github.com/DirectoryTree/LdapRecord-Laravel) 
 - [qirolab/laravel-reactions: Laravel 反应包，用于在 Eloquent 模型上实现反应（例如：喜欢、不喜欢、爱、情感等）。](https://github.com/qirolab/laravel-reactions) 
 - [atombender/go-jsonschema: 从 JSON Schema 定义生成 Go 数据类型的工具。](https://github.com/atombender/go-jsonschema) 
+- [hellodigua/code996: code996 是一个分析工具，它可以统计 Git 项目的 commit 时间分布，进而推导出这个项目的编码工作强度。](https://github.com/hellodigua/code996) 
 ### May 18, 2022 
 - [roelofjan-elsinga/aloia-cms: Laravel 的嵌入式平面文件 CMS。](https://github.com/roelofjan-elsinga/aloia-cms) 
 - [rzashakeri/beautify-github-profile: 这个存储库可以帮助你拥有一个更漂亮、更有吸引力的 github 个人资料，并且你可以访问一组工具和指南来美化你的 github 个人资料。 🚩](https://github.com/rzashakeri/beautify-github-profile) 
