@@ -49,6 +49,7 @@
 
 ### May 20, 2022 
 - [stephenjude/laravel-wallet: Laravel 的一个简单的钱包实现。](https://github.com/stephenjude/laravel-wallet) 
+- [wire-elements/spotlight: Livewire 组件，为您的 Laravel 应用程序带来类似 Spotlight/Alfred 的功能。](https://github.com/wire-elements/spotlight) 
 ### May 19, 2022 
 - [rinvex/laravel-support: 各种 Rinvex 软件包所需的 Rinvex 通用支持助手、合同和特征。](https://github.com/rinvex/laravel-support) 
 - [infrahq/infra: 基础架构的单点登录](https://github.com/infrahq/infra) 
