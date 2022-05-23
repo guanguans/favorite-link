@@ -54,6 +54,7 @@
 - [thephpleague/period: PHP的时间范围API](https://github.com/thephpleague/period) 
 - [publicsuffix/list: 公共后缀列表](https://github.com/publicsuffix/list) 
 - [sharkdp/fd: 一个简单、快速和用户友好的替代“查找”](https://github.com/sharkdp/fd) 
+- [orchestral/parser: Laravel 和 PHP 的 XML 文档解析器](https://github.com/orchestral/parser) 
 ### May 20, 2022 
 - [stephenjude/laravel-wallet: Laravel 的一个简单的钱包实现。](https://github.com/stephenjude/laravel-wallet) 
 - [wire-elements/spotlight: Livewire 组件，为您的 Laravel 应用程序带来类似 Spotlight/Alfred 的功能。](https://github.com/wire-elements/spotlight) 
