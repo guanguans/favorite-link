@@ -48,6 +48,9 @@
 
 
 
+
+### May 24, 2022 
+- [cirruslabs/tart: Apple Silicon 上的 macOS VM 用于 CI 和其他自动化](https://github.com/cirruslabs/tart) 
 ### May 23, 2022 
 - [elegantweb/sanitizer: PHP 和 Laravel 框架的清理库。](https://github.com/elegantweb/sanitizer) 
 - [thephpleague/container: 小而强大的依赖注入容器](https://github.com/thephpleague/container) 
