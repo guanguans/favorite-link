@@ -58,6 +58,7 @@
 - [commerceguys/tax: PHP 5.5+ 税务库。](https://github.com/commerceguys/tax) 
 - [commerceguys/pricing: 用于处理价格的 PHP 5.4+ 库。](https://github.com/commerceguys/pricing) 
 - [nsf/termbox-go: 纯 Go termbox 实现](https://github.com/nsf/termbox-go) 
+- [devfeel/mapper: 一个简单易用的自动映射器映射到结构、结构到映射、结构到结构、切片到切片、映射到切片、映射到 json 的工具。](https://github.com/devfeel/mapper) 
 ### May 23, 2022 
 - [elegantweb/sanitizer: PHP 和 Laravel 框架的清理库。](https://github.com/elegantweb/sanitizer) 
 - [thephpleague/container: 小而强大的依赖注入容器](https://github.com/thephpleague/container) 
