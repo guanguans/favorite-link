@@ -55,6 +55,7 @@
 - [gin-gonic/contrib: 社区创建的中间件集合](https://github.com/gin-gonic/contrib) 
 - [worksome/request-factories: 在 Laravel 中测试表单请求，没有所有样板。](https://github.com/worksome/request-factories) 
 - [ossf/allstar: 用于设置和执行安全策略的 GitHub 应用程序](https://github.com/ossf/allstar) 
+- [commerceguys/tax: PHP 5.5+ 税务库。](https://github.com/commerceguys/tax) 
 ### May 23, 2022 
 - [elegantweb/sanitizer: PHP 和 Laravel 框架的清理库。](https://github.com/elegantweb/sanitizer) 
 - [thephpleague/container: 小而强大的依赖注入容器](https://github.com/thephpleague/container) 
