@@ -52,6 +52,7 @@
 ### May 24, 2022 
 - [cirruslabs/tart: Apple Silicon 上的 macOS VM 用于 CI 和其他自动化](https://github.com/cirruslabs/tart) 
 - [crxjs/chrome-extension-tools: Chrome 扩展的捆绑器配置可能非常复杂。 这个插件使它变得简单。](https://github.com/crxjs/chrome-extension-tools) 
+- [gin-gonic/contrib: 社区创建的中间件集合](https://github.com/gin-gonic/contrib) 
 ### May 23, 2022 
 - [elegantweb/sanitizer: PHP 和 Laravel 框架的清理库。](https://github.com/elegantweb/sanitizer) 
 - [thephpleague/container: 小而强大的依赖注入容器](https://github.com/thephpleague/container) 
