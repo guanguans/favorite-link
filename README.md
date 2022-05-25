@@ -54,6 +54,7 @@
 - [ansh/bionic-reading: 任何网站上的仿生阅读 Chrome 扩展程序！](https://github.com/ansh/bionic-reading) 
 - [intel-go/cpuid: 用于 Go 编程语言的英特尔 CPUID 库](https://github.com/intel-go/cpuid) 
 - [trustwallet/assets: 全面、最新的数千条信息集合（！）加密令牌的。](https://github.com/trustwallet/assets) 
+- [inbucket/inbucket: 内置 SMTP、POP3、RESTful 服务器的一次性网络邮件服务器（类似于 Mailinator）； 不需要数据库。](https://github.com/inbucket/inbucket) 
 ### May 24, 2022 
 - [cirruslabs/tart: Apple Silicon 上的 macOS VM 用于 CI 和其他自动化](https://github.com/cirruslabs/tart) 
 - [crxjs/chrome-extension-tools: Chrome 扩展的捆绑器配置可能非常复杂。 这个插件使它变得简单。](https://github.com/crxjs/chrome-extension-tools) 
