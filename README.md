@@ -50,6 +50,9 @@
 
 
 
+
+### May 26, 2022 
+- [laravel/cashier-paddle: Cashier Paddle 为 Paddle 的订阅计费服务提供了一个富有表现力、流畅的界面。](https://github.com/laravel/cashier-paddle) 
 ### May 25, 2022 
 - [ansh/bionic-reading: 任何网站上的仿生阅读 Chrome 扩展程序！](https://github.com/ansh/bionic-reading) 
 - [intel-go/cpuid: 用于 Go 编程语言的英特尔 CPUID 库](https://github.com/intel-go/cpuid) 
