@@ -55,6 +55,7 @@
 ### May 27, 2022 
 - [kevinyan815/gocookbook: Golang开发手记](https://github.com/kevinyan815/gocookbook) 
 - [authzed/spicedb: SpiceDB：受 Google Zanzibar 启发的开源权限数据库](https://github.com/authzed/spicedb) 
+- [ambengers/kinetic: 一个向 Inertia.js Laravel 适配器添加类似 view-composer 功能的包。](https://github.com/ambengers/kinetic) 
 ### May 26, 2022 
 - [laravel/cashier-paddle: Cashier Paddle 为 Paddle 的订阅计费服务提供了一个富有表现力、流畅的界面。](https://github.com/laravel/cashier-paddle) 
 - [cayleygraph/cayley: 一个开源的图形数据库](https://github.com/cayleygraph/cayley) 
