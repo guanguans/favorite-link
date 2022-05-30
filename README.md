@@ -56,6 +56,7 @@
 ### May 30, 2022 
 - [github/github-elements: GitHub 的 Web 组件集合。](https://github.com/github/github-elements) 
 - [hasinhayder/hydra: Hydra 是一个零配置 API 样板，带有 Laravel 9x + Laravel Sanctum，它带有一个开箱即用的优秀用户和角色管理 API](https://github.com/hasinhayder/hydra) 
+- [gammazero/workerpool: 并发限制 goroutine 池](https://github.com/gammazero/workerpool) 
 ### May 27, 2022 
 - [kevinyan815/gocookbook: Golang开发手记](https://github.com/kevinyan815/gocookbook) 
 - [authzed/spicedb: SpiceDB：受 Google Zanzibar 启发的开源权限数据库](https://github.com/authzed/spicedb) 
