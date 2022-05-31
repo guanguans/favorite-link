@@ -61,6 +61,7 @@
 - [brimstone/go-shellcode: 将 shellcode 加载到新进程中](https://github.com/brimstone/go-shellcode) 
 - [integrations/terraform-provider-github: Terraform GitHub 提供者](https://github.com/integrations/terraform-provider-github) 
 - [jaeles-project/jaeles: 用于自动化 Web 应用程序测试的瑞士军刀](https://github.com/jaeles-project/jaeles) 
+- [timescale/promscale: 由 SQL 支持并基于 PostgreSQL 和 TimescaleDB 构建的指标和跟踪的统一可观察性后端🚀](https://github.com/timescale/promscale) 
 ### May 30, 2022 
 - [github/github-elements: GitHub 的 Web 组件集合。](https://github.com/github/github-elements) 
 - [hasinhayder/hydra: Hydra 是一个零配置 API 样板，带有 Laravel 9x + Laravel Sanctum，它带有一个开箱即用的优秀用户和角色管理 API](https://github.com/hasinhayder/hydra) 
