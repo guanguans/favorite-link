@@ -59,6 +59,7 @@
 - [laravel/vite-plugin: Vite 的 Laravel 插件。](https://github.com/laravel/vite-plugin) 
 - [samber/mo: 🦄 Monads 和流行的 FP 抽象，由 Go 1.18+ 泛型（Option、Result、Either...）提供支持](https://github.com/samber/mo) 
 - [ilyakaznacheev/cleanenv: 简洁的 Golang 环境配置阅读器](https://github.com/ilyakaznacheev/cleanenv) 
+- [livebud/bud: Go 的全栈 Web 框架](https://github.com/livebud/bud) 
 ### May 31, 2022 
 - [refraction-networking/utls: Go 标准 TLS 库的分支，提供对 ClientHello 的低级访问以进行模仿。](https://github.com/refraction-networking/utls) 
 - [bjdgyc/anylink: ](https://github.com/bjdgyc/anylink) 
