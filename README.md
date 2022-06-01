@@ -54,6 +54,9 @@
 
 
 
+
+### June 1, 2022 
+- [laravel/vite-plugin: Vite 的 Laravel 插件。](https://github.com/laravel/vite-plugin) 
 ### May 31, 2022 
 - [refraction-networking/utls: Go 标准 TLS 库的分支，提供对 ClientHello 的低级访问以进行模仿。](https://github.com/refraction-networking/utls) 
 - [bjdgyc/anylink: ](https://github.com/bjdgyc/anylink) 
