@@ -60,6 +60,7 @@
 - [ArtalkJS/Artalk: Golang 自托管评论系统](https://github.com/ArtalkJS/Artalk) 
 - [ArtalkJS/ArtalkGo: 🗃 Artalk 评论系统后端程序](https://github.com/ArtalkJS/ArtalkGo) 
 - [ryangjchandler/trunk: 用 PHP 编写的 PHP 解释器。](https://github.com/ryangjchandler/trunk) 
+- [joselfonseca/laravel-api: Laravel API starter Kit 将为您提供制作每个人都会喜欢的 API 的工具](https://github.com/joselfonseca/laravel-api) 
 ### June 1, 2022 
 - [laravel/vite-plugin: Vite 的 Laravel 插件。](https://github.com/laravel/vite-plugin) 
 - [samber/mo: 🦄 Monads 和流行的 FP 抽象，由 Go 1.18+ 泛型（Option、Result、Either...）提供支持](https://github.com/samber/mo) 
