@@ -64,6 +64,7 @@
 - [thephpleague/tactician: 个小而灵活的命令模式实现](https://github.com/thephpleague/tactician) 
 - [peak/s5cmd: 并行 S3 和本地文件系统执行工具。](https://github.com/peak/s5cmd) 
 - [git-lfs/git-lfs: 用于对大文件进行版本控制的 Git 扩展](https://github.com/git-lfs/git-lfs) 
+- [abiosoft/colima: macOS（和 Linux）上的容器运行时，只需最少的设置](https://github.com/abiosoft/colima) 
 ### June 1, 2022 
 - [laravel/vite-plugin: Vite 的 Laravel 插件。](https://github.com/laravel/vite-plugin) 
 - [samber/mo: 🦄 Monads 和流行的 FP 抽象，由 Go 1.18+ 泛型（Option、Result、Either...）提供支持](https://github.com/samber/mo) 
