@@ -58,6 +58,7 @@
 
 ### June 2, 2022 
 - [ArtalkJS/Artalk: Golang 自托管评论系统](https://github.com/ArtalkJS/Artalk) 
+- [ArtalkJS/ArtalkGo: 🗃 Artalk 评论系统后端程序](https://github.com/ArtalkJS/ArtalkGo) 
 ### June 1, 2022 
 - [laravel/vite-plugin: Vite 的 Laravel 插件。](https://github.com/laravel/vite-plugin) 
 - [samber/mo: 🦄 Monads 和流行的 FP 抽象，由 Go 1.18+ 泛型（Option、Result、Either...）提供支持](https://github.com/samber/mo) 
