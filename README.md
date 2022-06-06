@@ -59,6 +59,7 @@
 
 ### June 6, 2022 
 - [cesargb/laravel-magiclink: 创建链接以在 Laravel 中进行身份验证，无需密码或获取私有内容](https://github.com/cesargb/laravel-magiclink) 
+- [kra8/laravel-snowflake: 这个 Laravel 包生成 64 位标识符，就像 Twitter 中的雪花一样。](https://github.com/kra8/laravel-snowflake) 
 ### June 2, 2022 
 - [ArtalkJS/Artalk: Golang 自托管评论系统](https://github.com/ArtalkJS/Artalk) 
 - [ArtalkJS/ArtalkGo: 🗃 Artalk 评论系统后端程序](https://github.com/ArtalkJS/ArtalkGo) 
