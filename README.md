@@ -62,6 +62,7 @@
 - [p-chess/chess: Chess 是一个 PHP 国际象棋库](https://github.com/p-chess/chess) 
 - [StarCrossPortal/QingTing: 蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流](https://github.com/StarCrossPortal/QingTing) 
 - [crunzphp/crunz: 基于 PHP 的作业调度程序](https://github.com/crunzphp/crunz) 
+- [rectorphp/rector-laravel: Laravel 的 Rector 升级规则](https://github.com/rectorphp/rector-laravel) 
 ### June 6, 2022 
 - [cesargb/laravel-magiclink: 创建链接以在 Laravel 中进行身份验证，无需密码或获取私有内容](https://github.com/cesargb/laravel-magiclink) 
 - [kra8/laravel-snowflake: 这个 Laravel 包生成 64 位标识符，就像 Twitter 中的雪花一样。](https://github.com/kra8/laravel-snowflake) 
