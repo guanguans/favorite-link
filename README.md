@@ -58,6 +58,9 @@
 
 
 
+
+### June 8, 2022 
+- [getcandy/getcandy: GetCandy 是一个为 Laravel 带来类似于 Shopify 和其他电子商务平台的功能的包。](https://github.com/getcandy/getcandy) 
 ### June 7, 2022 
 - [p-chess/chess: Chess 是一个 PHP 国际象棋库](https://github.com/p-chess/chess) 
 - [StarCrossPortal/QingTing: 蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流](https://github.com/StarCrossPortal/QingTing) 
