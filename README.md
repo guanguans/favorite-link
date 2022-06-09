@@ -59,6 +59,9 @@
 
 
 
+
+### June 9, 2022 
+- [nnjeim/world: 一个 Laravel 包，提供国家、州、城市、货币、时区和语言的列表。](https://github.com/nnjeim/world) 
 ### June 8, 2022 
 - [getcandy/getcandy: GetCandy 是一个为 Laravel 带来类似于 Shopify 和其他电子商务平台的功能的包。](https://github.com/getcandy/getcandy) 
 - [dhamith93/SyMon: 一个简单的系统监控和警报工具，用于监控服务器硬件统计信息。](https://github.com/dhamith93/SyMon) 
