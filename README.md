@@ -66,6 +66,7 @@
 - [knadh/koanf: Go 的简单、轻量级、可扩展的配置管理库。 支持 JSON、TOML、YAML、env、命令行、文件、S3 等。替代 viper。](https://github.com/knadh/koanf) 
 - [BurntSushi/toml: 带有反射的 Golang 的 TOML 解析器。](https://github.com/BurntSushi/toml) 
 - [phpDocumentor/Reflection: 反射库为 PHP 项目做静态分析](https://github.com/phpDocumentor/Reflection) 
+- [funson86/funboot: 基于Yii2的Saas快速开发平台，内置多商户并内置商城、论坛、CMS等子系统。](https://github.com/funson86/funboot) 
 ### June 8, 2022 
 - [getcandy/getcandy: GetCandy 是一个为 Laravel 带来类似于 Shopify 和其他电子商务平台的功能的包。](https://github.com/getcandy/getcandy) 
 - [dhamith93/SyMon: 一个简单的系统监控和警报工具，用于监控服务器硬件统计信息。](https://github.com/dhamith93/SyMon) 
