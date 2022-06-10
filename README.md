@@ -63,6 +63,7 @@
 
 ### June 10, 2022 
 - [creack/pty: Go 的 PTY 接口](https://github.com/creack/pty) 
+- [anqiansong/github-compare: 用于终端的 GitHub 存储库统计命令行工具](https://github.com/anqiansong/github-compare) 
 ### June 9, 2022 
 - [nnjeim/world: 一个 Laravel 包，提供国家、州、城市、货币、时区和语言的列表。](https://github.com/nnjeim/world) 
 - [Lecturize/Laravel-Addresses: Laravel 的简单地址和联系人管理。](https://github.com/Lecturize/Laravel-Addresses) 
