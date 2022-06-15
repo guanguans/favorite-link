@@ -71,6 +71,7 @@
 - [chyroc/lark: 飞书/Lark Open API Go SDK](https://github.com/chyroc/lark) 
 - [l3aro/pipeline-query-collection: 用于 Laravel 管道的查询数据库集合](https://github.com/l3aro/pipeline-query-collection) 
 - [ScoLib/bankcard: 根据银行卡号识别所属银行以及卡类型](https://github.com/ScoLib/bankcard) 
+- [lbbniu/prizeDraw: 抽奖算法整理](https://github.com/lbbniu/prizeDraw) 
 ### June 14, 2022 
 - [mmcloughlin/globe: Golang 的全球线框可视化](https://github.com/mmcloughlin/globe) 
 - [wxbool/video-srt-windows: 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。](https://github.com/wxbool/video-srt-windows) 
