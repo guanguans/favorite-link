@@ -63,6 +63,9 @@
 
 
 
+
+### June 15, 2022 
+- [nlpodyssey/spago: Go 中的自包含机器学习和自然语言处理库](https://github.com/nlpodyssey/spago) 
 ### June 14, 2022 
 - [mmcloughlin/globe: Golang 的全球线框可视化](https://github.com/mmcloughlin/globe) 
 - [wxbool/video-srt-windows: 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。](https://github.com/wxbool/video-srt-windows) 
