@@ -73,6 +73,7 @@
 - [atkrad/wait4x: Wait4X 允许您等待端口或服务进入请求状态。](https://github.com/atkrad/wait4x) 
 - [awssat/laravel-visits: Laravel Visits 是一个计数器，可以附加到任何模型上，以使用 Redis 或 Eloquent 跟踪其访问。 （带有标签、IP 保护和缓存）](https://github.com/awssat/laravel-visits) 
 - [OctopyID/LaraPersonate: 以其他用户身份快速登录](https://github.com/OctopyID/LaraPersonate) 
+- [usernotnull/tall-toasts: Laravel TALL 堆栈的 Toast 通知库。 您可以从后端或前端推送通知](https://github.com/usernotnull/tall-toasts) 
 ### June 15, 2022 
 - [nlpodyssey/spago: Go 中的自包含机器学习和自然语言处理库](https://github.com/nlpodyssey/spago) 
 - [line/garr: 高性能、线程安全、无锁 Go 数据结构的集合](https://github.com/line/garr) 
