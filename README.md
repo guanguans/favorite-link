@@ -69,6 +69,7 @@
 - [mouadziani/xstate: 一个轻量级的状态机库，用于处理 PHP 对象的任何复杂行为](https://github.com/mouadziani/xstate) 
 - [thephpleague/config: 用于 PHP 应用程序的简单而富有表现力的基于模式的配置库](https://github.com/thephpleague/config) 
 - [wallarm/gotestwaf: Golang 中的一个开源项目，用于测试不同的 Web 应用程序防火墙 (WAF) 的检测逻辑和绕过](https://github.com/wallarm/gotestwaf) 
+- [google/cel-go: 快速、便携、非图灵完整的表达式评估，带有渐进式输入 (Go)](https://github.com/google/cel-go) 
 ### June 15, 2022 
 - [nlpodyssey/spago: Go 中的自包含机器学习和自然语言处理库](https://github.com/nlpodyssey/spago) 
 - [line/garr: 高性能、线程安全、无锁 Go 数据结构的集合](https://github.com/line/garr) 
