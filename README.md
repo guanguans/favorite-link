@@ -78,6 +78,7 @@
 - [alphadose/itogami: 快速且内存高效的 goroutine 池](https://github.com/alphadose/itogami) 
 - [adhocore/php-json-fixer: 修复截断的 JSON 数据](https://github.com/adhocore/php-json-fixer) 
 - [DavidBadura/Fixtures: 用于加载 yaml、json 或 php 固定装置的库。 易于扩展，解决对象依赖性并验证对象。](https://github.com/DavidBadura/Fixtures) 
+- [adhocore/gronx: 轻量级、快速且无依赖的 Cron 表达式解析器（到期检查器）、任务调度程序和/或 Golang 守护程序（在 v1.13 及更高版本上测试）和独立使用](https://github.com/adhocore/gronx) 
 ### June 16, 2022 
 - [mouadziani/xstate: 一个轻量级的状态机库，用于处理 PHP 对象的任何复杂行为](https://github.com/mouadziani/xstate) 
 - [thephpleague/config: 用于 PHP 应用程序的简单而富有表现力的基于模式的配置库](https://github.com/thephpleague/config) 
