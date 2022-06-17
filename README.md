@@ -70,6 +70,7 @@
 - [tw93/MiaoYan: ⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷](https://github.com/tw93/MiaoYan) 
 - [goccy/go-reflect: Go 的零分配反射库](https://github.com/goccy/go-reflect) 
 - [alibaba/IOC-golang: 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。](https://github.com/alibaba/IOC-golang) 
+- [bytedance/go-querystring-parser: 一个 golang 查询字符串解析器](https://github.com/bytedance/go-querystring-parser) 
 ### June 16, 2022 
 - [mouadziani/xstate: 一个轻量级的状态机库，用于处理 PHP 对象的任何复杂行为](https://github.com/mouadziani/xstate) 
 - [thephpleague/config: 用于 PHP 应用程序的简单而富有表现力的基于模式的配置库](https://github.com/thephpleague/config) 
