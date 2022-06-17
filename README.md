@@ -77,6 +77,7 @@
 - [tjfoc/gmsm: Go语言的国密SM2/SM3/SM4算法库](https://github.com/tjfoc/gmsm) 
 - [alphadose/itogami: 快速且内存高效的 goroutine 池](https://github.com/alphadose/itogami) 
 - [adhocore/php-json-fixer: 修复截断的 JSON 数据](https://github.com/adhocore/php-json-fixer) 
+- [DavidBadura/Fixtures: 用于加载 yaml、json 或 php 固定装置的库。 易于扩展，解决对象依赖性并验证对象。](https://github.com/DavidBadura/Fixtures) 
 ### June 16, 2022 
 - [mouadziani/xstate: 一个轻量级的状态机库，用于处理 PHP 对象的任何复杂行为](https://github.com/mouadziani/xstate) 
 - [thephpleague/config: 用于 PHP 应用程序的简单而富有表现力的基于模式的配置库](https://github.com/thephpleague/config) 
