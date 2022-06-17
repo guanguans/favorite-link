@@ -76,6 +76,7 @@
 - [chefhasteeth/pipeline: Laravel 的增压管道。](https://github.com/chefhasteeth/pipeline) 
 - [tjfoc/gmsm: Go语言的国密SM2/SM3/SM4算法库](https://github.com/tjfoc/gmsm) 
 - [alphadose/itogami: 快速且内存高效的 goroutine 池](https://github.com/alphadose/itogami) 
+- [adhocore/php-json-fixer: 修复截断的 JSON 数据](https://github.com/adhocore/php-json-fixer) 
 ### June 16, 2022 
 - [mouadziani/xstate: 一个轻量级的状态机库，用于处理 PHP 对象的任何复杂行为](https://github.com/mouadziani/xstate) 
 - [thephpleague/config: 用于 PHP 应用程序的简单而富有表现力的基于模式的配置库](https://github.com/thephpleague/config) 
