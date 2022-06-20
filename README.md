@@ -71,6 +71,7 @@
 - [brozot/Laravel-FCM: Laravel-FCM 是一个易于使用的包，可与 Laravel 和 Lumen 一起使用，用于通过 Firebase Cloud Messaging (FCM) 发送推送通知。](https://github.com/brozot/Laravel-FCM) 
 - [Webklex/laravel-pdfmerger: 一个包含“合并”功能的 FPDI PDF Laravel 包装器](https://github.com/Webklex/laravel-pdfmerger) 
 - [lee-to/moonshine: Laravel 框架的管理面板](https://github.com/lee-to/moonshine) 
+- [chareice/laravel-eloquent-fsm: 有限状态机与 laravel 雄辩模型一起工作](https://github.com/chareice/laravel-eloquent-fsm) 
 ### June 17, 2022 
 - [tw93/MiaoYan: ⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷](https://github.com/tw93/MiaoYan) 
 - [goccy/go-reflect: Go 的零分配反射库](https://github.com/goccy/go-reflect) 
