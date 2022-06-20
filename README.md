@@ -73,6 +73,7 @@
 - [lee-to/moonshine: Laravel 框架的管理面板](https://github.com/lee-to/moonshine) 
 - [chareice/laravel-eloquent-fsm: 有限状态机与 laravel 雄辩模型一起工作](https://github.com/chareice/laravel-eloquent-fsm) 
 - [Licoy/fetch-github-hosts: 🌏 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~](https://github.com/Licoy/fetch-github-hosts) 
+- [mostafaznv/laracache: LaraCache 是一个基于 ORM 的 Laravel 包，用于基于模型查询创建、更新和管理缓存项](https://github.com/mostafaznv/laracache) 
 ### June 17, 2022 
 - [tw93/MiaoYan: ⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷](https://github.com/tw93/MiaoYan) 
 - [goccy/go-reflect: Go 的零分配反射库](https://github.com/goccy/go-reflect) 
