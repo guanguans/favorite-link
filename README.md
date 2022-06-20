@@ -66,6 +66,9 @@
 
 
 
+
+### June 20, 2022 
+- [brozot/Laravel-FCM: Laravel-FCM 是一个易于使用的包，可与 Laravel 和 Lumen 一起使用，用于通过 Firebase Cloud Messaging (FCM) 发送推送通知。](https://github.com/brozot/Laravel-FCM) 
 ### June 17, 2022 
 - [tw93/MiaoYan: ⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷](https://github.com/tw93/MiaoYan) 
 - [goccy/go-reflect: Go 的零分配反射库](https://github.com/goccy/go-reflect) 
