@@ -75,6 +75,7 @@
 - [thedevsaddam/gojsonq: 一个简单的 Go 包，用于查询 JSON/YAML/XML/CSV 数据](https://github.com/thedevsaddam/gojsonq) 
 - [nahid/talk: Talk 是一个实时用户消息和聊天系统 Laravel。](https://github.com/nahid/talk) 
 - [laravel-json-api/laravel: 在您的 Laravel 应用程序中实现功能丰富的 JSON:API 兼容 API。 立即构建您的下一个符合标准的 API。](https://github.com/laravel-json-api/laravel) 
+- [PrinsFrank/standards: PHP 枚举标准的集合：ISO3166、ISO4217、ISO639...](https://github.com/PrinsFrank/standards) 
 ### June 20, 2022 
 - [brozot/Laravel-FCM: Laravel-FCM 是一个易于使用的包，可与 Laravel 和 Lumen 一起使用，用于通过 Firebase Cloud Messaging (FCM) 发送推送通知。](https://github.com/brozot/Laravel-FCM) 
 - [Webklex/laravel-pdfmerger: 一个包含“合并”功能的 FPDI PDF Laravel 包装器](https://github.com/Webklex/laravel-pdfmerger) 
