@@ -73,6 +73,7 @@
 - [caarlos0/log: 多彩的 CLI 记录器](https://github.com/caarlos0/log) 
 - [edoardottt/cariddi: 获取域列表、抓取 url 并扫描端点、机密、api 密钥、文件扩展名、令牌等](https://github.com/edoardottt/cariddi) 
 - [ysmood/gotrace: 用于监控运行时 goroutine 堆栈的库](https://github.com/ysmood/gotrace) 
+- [redpanda-data/console: Redpanda 控制台是一个开发人员友好的 UI，用于管理您的 Kafka/Redpanda 工作负载。](https://github.com/redpanda-data/console) 
 ### June 21, 2022 
 - [antonioribeiro/tracker: Laravel 数据追踪器](https://github.com/antonioribeiro/tracker) 
 - [antonioribeiro/firewall: Laravel 应用程序的防火墙软件包](https://github.com/antonioribeiro/firewall) 
