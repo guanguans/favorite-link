@@ -73,6 +73,7 @@
 ### June 23, 2022 
 - [rogpeppe/go-internal: 从标准库中提取的选定 Go 内部包](https://github.com/rogpeppe/go-internal) 
 - [cornelk/hashmap: 一个 Golang 无锁线程安全 HashMap，针对最快的读取访问进行了优化。](https://github.com/cornelk/hashmap) 
+- [akaunting/laravel-mutable-observer: Laravel 的可变观察者包](https://github.com/akaunting/laravel-mutable-observer) 
 ### June 22, 2022 
 - [caarlos0/log: 多彩的 CLI 记录器](https://github.com/caarlos0/log) 
 - [edoardottt/cariddi: 获取域列表、抓取 url 并扫描端点、机密、api 密钥、文件扩展名、令牌等](https://github.com/edoardottt/cariddi) 
