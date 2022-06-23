@@ -69,6 +69,9 @@
 
 
 
+
+### June 23, 2022 
+- [rogpeppe/go-internal: 从标准库中提取的选定 Go 内部包](https://github.com/rogpeppe/go-internal) 
 ### June 22, 2022 
 - [caarlos0/log: 多彩的 CLI 记录器](https://github.com/caarlos0/log) 
 - [edoardottt/cariddi: 获取域列表、抓取 url 并扫描端点、机密、api 密钥、文件扩展名、令牌等](https://github.com/edoardottt/cariddi) 
