@@ -76,6 +76,7 @@
 - [h2non/filetype: 快速、无依赖的 Go 包，用于根据幻数标头签名推断二进制文件类型](https://github.com/h2non/filetype) 
 - [donng/Play-with-Data-Structures: 「玩转数据结构」课程的 Go 语言实现版本](https://github.com/donng/Play-with-Data-Structures) 
 - [huandu/go-tls: 为 Go 1.7+ 实现线程本地存储 (TLS) 的更安全的方法。](https://github.com/huandu/go-tls) 
+- [lamoda/gonkey: Gonkey - 测试自动化工具](https://github.com/lamoda/gonkey) 
 ### June 23, 2022 
 - [rogpeppe/go-internal: 从标准库中提取的选定 Go 内部包](https://github.com/rogpeppe/go-internal) 
 - [cornelk/hashmap: 一个 Golang 无锁线程安全 HashMap，针对最快的读取访问进行了优化。](https://github.com/cornelk/hashmap) 
