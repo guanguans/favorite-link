@@ -79,6 +79,7 @@
 - [VinGarcia/ksql: 一个简单而强大的 Golang SQL 库](https://github.com/VinGarcia/ksql) 
 - [sachaos/viddy: 👀现代手表命令。 时间机器和寻呼机等](https://github.com/sachaos/viddy) 
 - [raycast/extensions: 扩展 Raycast 所需的一切。](https://github.com/raycast/extensions) 
+- [dive-be/laravel-dry-requests: 如果您正常执行请求，请检查您的请求是否会通过验证](https://github.com/dive-be/laravel-dry-requests) 
 ### June 24, 2022 
 - [maaslalani/crow: 文件更改时运行命令。](https://github.com/maaslalani/crow) 
 - [h2non/filetype: 快速、无依赖的 Go 包，用于根据幻数标头签名推断二进制文件类型](https://github.com/h2non/filetype) 
