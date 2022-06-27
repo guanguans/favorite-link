@@ -78,6 +78,7 @@
 - [z7zmey/php-parser: 用 Go 编写的 PHP 解析器](https://github.com/z7zmey/php-parser) 
 - [VinGarcia/ksql: 一个简单而强大的 Golang SQL 库](https://github.com/VinGarcia/ksql) 
 - [sachaos/viddy: 👀现代手表命令。 时间机器和寻呼机等](https://github.com/sachaos/viddy) 
+- [raycast/extensions: 扩展 Raycast 所需的一切。](https://github.com/raycast/extensions) 
 ### June 24, 2022 
 - [maaslalani/crow: 文件更改时运行命令。](https://github.com/maaslalani/crow) 
 - [h2non/filetype: 快速、无依赖的 Go 包，用于根据幻数标头签名推断二进制文件类型](https://github.com/h2non/filetype) 
