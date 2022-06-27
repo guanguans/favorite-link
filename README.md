@@ -71,6 +71,9 @@
 
 
 
+
+### June 27, 2022 
+- [suborbital/sat: 微型快速 WebAssembly 边缘计算服务器](https://github.com/suborbital/sat) 
 ### June 24, 2022 
 - [maaslalani/crow: 文件更改时运行命令。](https://github.com/maaslalani/crow) 
 - [h2non/filetype: 快速、无依赖的 Go 包，用于根据幻数标头签名推断二进制文件类型](https://github.com/h2non/filetype) 
