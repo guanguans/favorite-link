@@ -75,6 +75,7 @@
 ### June 27, 2022 
 - [suborbital/sat: 微型快速 WebAssembly 边缘计算服务器](https://github.com/suborbital/sat) 
 - [lnx-search/lnx: ⚡ 超快，🌟 功能丰富的搜索。 lnx 是 tantivy 搜索引擎的适应性强、可容忍错字的部署。 站在巨人的肩膀上。](https://github.com/lnx-search/lnx) 
+- [z7zmey/php-parser: 用 Go 编写的 PHP 解析器](https://github.com/z7zmey/php-parser) 
 ### June 24, 2022 
 - [maaslalani/crow: 文件更改时运行命令。](https://github.com/maaslalani/crow) 
 - [h2non/filetype: 快速、无依赖的 Go 包，用于根据幻数标头签名推断二进制文件类型](https://github.com/h2non/filetype) 
