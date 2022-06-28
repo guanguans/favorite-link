@@ -79,6 +79,7 @@
 - [K-Phoen/rulerz: PHP中规范模式的强大实现](https://github.com/K-Phoen/rulerz) 
 - [yohang/Finite: 一个简单的 PHP 有限状态机](https://github.com/yohang/Finite) 
 - [bobthecow/Ruler: 现代 PHP 的简单无状态生产规则引擎](https://github.com/bobthecow/Ruler) 
+- [adjust/go-wrk: 用 Go 编写的小型重型 http/https 基准测试工具](https://github.com/adjust/go-wrk) 
 ### June 27, 2022 
 - [suborbital/sat: 微型快速 WebAssembly 边缘计算服务器](https://github.com/suborbital/sat) 
 - [lnx-search/lnx: ⚡ 超快，🌟 功能丰富的搜索。 lnx 是 tantivy 搜索引擎的适应性强、可容忍错字的部署。 站在巨人的肩膀上。](https://github.com/lnx-search/lnx) 
