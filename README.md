@@ -76,6 +76,7 @@
 
 ### June 29, 2022 
 - [用于Windows的Supervisor过程控制系统](https://github.com/alexsilva/supervisor) 
+- [lepikhinb/momentum-modal: Momentum Modal 是一个 Laravel 包，可让您为 Inertia 应用程序实现后端驱动的模态对话框。](https://github.com/lepikhinb/momentum-modal) 
 ### June 28, 2022 
 - [EasyDarwin/EasyDarwin: 高性能开源RTSP流媒体服务器，基于go语言研发](https://github.com/EasyDarwin/EasyDarwin) 
 - [c4milo/gsync: gSync 是一个基于 rsync 的库，用于将文件的增量更新发送到远程服务器。](https://github.com/c4milo/gsync) 
