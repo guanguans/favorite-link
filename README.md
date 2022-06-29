@@ -82,6 +82,7 @@
 - [issue9/identicon: Go 语言版 identicon 头像产生工具](https://github.com/issue9/identicon) 
 - [caixw/apidoc: RESTful API 文档生成工具，支持 Go、Java、Swift、JavaScript、Rust、PHP、Python、Typescript、Kotlin 和 Ruby 等大部分语言。](https://github.com/caixw/apidoc) 
 - [emirpasic/gods: GoDS（Go 数据结构）- 集合、列表、堆栈、地图、树、队列等等](https://github.com/emirpasic/gods) 
+- [PHP-Open-Source-Saver/jwt-auth:🔐 Laravel 和 Lumen 的 JSON Web 令牌认证](https://github.com/PHP-Open-Source-Saver/jwt-auth) 
 ### June 28, 2022 
 - [EasyDarwin/EasyDarwin: 高性能开源RTSP流媒体服务器，基于go语言研发](https://github.com/EasyDarwin/EasyDarwin) 
 - [c4milo/gsync: gSync 是一个基于 rsync 的库，用于将文件的增量更新发送到远程服务器。](https://github.com/c4milo/gsync) 
