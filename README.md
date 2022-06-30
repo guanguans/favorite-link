@@ -78,6 +78,7 @@
 ### June 30, 2022 
 - [timbray/quamina: Quamina 之家，Go 中的快速模式匹配库](https://github.com/timbray/quamina) 
 - [RobiNN1/phpCacheAdmin: Redis、Memcache(d) 和 OPCache 的 Web 仪表板。](https://github.com/RobiNN1/phpCacheAdmin) 
+- [asyncins/mist: 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法](https://github.com/asyncins/mist) 
 ### June 29, 2022 
 - [用于Windows的Supervisor过程控制系统](https://github.com/alexsilva/supervisor) 
 - [lepikhinb/momentum-modal: Momentum Modal 是一个 Laravel 包，可让您为 Inertia 应用程序实现后端驱动的模态对话框。](https://github.com/lepikhinb/momentum-modal) 
