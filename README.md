@@ -81,6 +81,7 @@
 - [asyncins/mist: 超高性能且不受时间回拨影响的全局唯一 ID 生成算法，薄雾算法](https://github.com/asyncins/mist) 
 - [mpyw/eloquent-has-by-non-dependent-subquery: 将 has() 和 whereHas() 约束转换为非依赖子查询。.](https://github.com/mpyw/eloquent-has-by-non-dependent-subquery) 
 - [pquerna/otp: Go 的 TOTP 库](https://github.com/pquerna/otp) 
+- [Spomky-Labs/otphp: 🔐 一个 PHP 库，用于根据 RFC 4226 (HOTP) 和 RFC 6238 (TOTP) 生成一次性密码](https://github.com/Spomky-Labs/otphp) 
 ### June 29, 2022 
 - [用于Windows的Supervisor过程控制系统](https://github.com/alexsilva/supervisor) 
 - [lepikhinb/momentum-modal: Momentum Modal 是一个 Laravel 包，可让您为 Inertia 应用程序实现后端驱动的模态对话框。](https://github.com/lepikhinb/momentum-modal) 
