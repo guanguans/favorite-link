@@ -89,6 +89,7 @@
 - [scottlerch/HostsFileEditor: 轻松编辑和管理 Windows 的主机文件](https://github.com/scottlerch/HostsFileEditor) 
 - [navidrome/navidrome: 🎧☁️ 与 Subsonic/Airsonic 兼容的现代音乐服务器和流媒体](https://github.com/navidrome/navidrome) 
 - [bvtterfly/lio: 使用 Laravel 轻松优化图像](https://github.com/bvtterfly/lio) 
+- [bvtterfly/laravel-circuit-breaker: laravel 断路器模式的简单实现](https://github.com/bvtterfly/laravel-circuit-breaker) 
 ### June 30, 2022 
 - [timbray/quamina: Quamina 之家，Go 中的快速模式匹配库](https://github.com/timbray/quamina) 
 - [RobiNN1/phpCacheAdmin: Redis、Memcache(d) 和 OPCache 的 Web 仪表板。](https://github.com/RobiNN1/phpCacheAdmin) 
