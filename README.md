@@ -80,6 +80,7 @@
 - [antonioribeiro/google2fa-laravel: 一次性密码验证包，兼容 Google Authenticator for Laravel](https://github.com/antonioribeiro/google2fa-laravel) 
 - [MacFJA/php-redisearch: RediSearch 的 PHP 客户端](https://github.com/MacFJA/php-redisearch) 
 - [msztorc/laravel-env: 从 CLI 管理 Laravel 环境变量](https://github.com/msztorc/laravel-env) 
+- [neonxp/MathExecutor: 简单的数学表达式解析器和计算器](https://github.com/neonxp/MathExecutor) 
 ### June 30, 2022 
 - [timbray/quamina: Quamina 之家，Go 中的快速模式匹配库](https://github.com/timbray/quamina) 
 - [RobiNN1/phpCacheAdmin: Redis、Memcache(d) 和 OPCache 的 Web 仪表板。](https://github.com/RobiNN1/phpCacheAdmin) 
