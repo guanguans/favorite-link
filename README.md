@@ -81,6 +81,7 @@
 - [MacFJA/php-redisearch: RediSearch 的 PHP 客户端](https://github.com/MacFJA/php-redisearch) 
 - [msztorc/laravel-env: 从 CLI 管理 Laravel 环境变量](https://github.com/msztorc/laravel-env) 
 - [neonxp/MathExecutor: 简单的数学表达式解析器和计算器](https://github.com/neonxp/MathExecutor) 
+- [zhangyunhao116/pdqsort: Go with 泛型(需要 Go1.18)中打破模式的快速排序。比内置的排序包快大约2倍 ~ 60倍。](https://github.com/zhangyunhao116/pdqsort) 
 ### June 30, 2022 
 - [timbray/quamina: Quamina 之家，Go 中的快速模式匹配库](https://github.com/timbray/quamina) 
 - [RobiNN1/phpCacheAdmin: Redis、Memcache(d) 和 OPCache 的 Web 仪表板。](https://github.com/RobiNN1/phpCacheAdmin) 
