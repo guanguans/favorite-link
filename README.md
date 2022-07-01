@@ -94,6 +94,7 @@
 - [bvtterfly/model-state-machine: Laravel 模型状态机](https://github.com/bvtterfly/model-state-machine) 
 - [bvtterfly/laravel-hashids: 这个包提供了一个 trait，它会在保存任何 Eloquent 模型时生成哈希值。](https://github.com/bvtterfly/laravel-hashids) 
 - [rubyist/circuitbreaker: Go中的断路器](https://github.com/rubyist/circuitbreaker) 
+- [ejsmont-artur/php-circuit-breaker: 断路器模式的 PHP 实现。](https://github.com/ejsmont-artur/php-circuit-breaker) 
 ### June 30, 2022 
 - [timbray/quamina: Quamina 之家，Go 中的快速模式匹配库](https://github.com/timbray/quamina) 
 - [RobiNN1/phpCacheAdmin: Redis、Memcache(d) 和 OPCache 的 Web 仪表板。](https://github.com/RobiNN1/phpCacheAdmin) 
