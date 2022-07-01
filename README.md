@@ -87,6 +87,7 @@
 - [burrowers/garble: 混淆 Go 构建](https://github.com/burrowers/garble) 
 - [buckket/go-blurhash: 纯 Go 中的 Blurhash 实现（解码/编码）](https://github.com/buckket/go-blurhash) 
 - [scottlerch/HostsFileEditor: 轻松编辑和管理 Windows 的主机文件](https://github.com/scottlerch/HostsFileEditor) 
+- [navidrome/navidrome: 🎧☁️ 与 Subsonic/Airsonic 兼容的现代音乐服务器和流媒体](https://github.com/navidrome/navidrome) 
 ### June 30, 2022 
 - [timbray/quamina: Quamina 之家，Go 中的快速模式匹配库](https://github.com/timbray/quamina) 
 - [RobiNN1/phpCacheAdmin: Redis、Memcache(d) 和 OPCache 的 Web 仪表板。](https://github.com/RobiNN1/phpCacheAdmin) 
