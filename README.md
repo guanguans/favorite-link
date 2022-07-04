@@ -81,6 +81,7 @@
 - [peter-tharwat/dashboard: 简单的阿拉伯语 Laravel 仪表板，具有基本设置和漂亮的布局。 让您轻松创建快速仪表板](https://github.com/peter-tharwat/dashboard) 
 - [bvtterfly/replay: 用于幂等性的 Laravel 中间件](https://github.com/bvtterfly/replay) 
 - [huichen/wukong: 高度可定制的全文搜索引擎](https://github.com/huichen/wukong) 
+- [minio/sha256-simd: 使用 AVX512、适用于 x86 的 SHA 扩展和适用于 ARM 的 ARM64 在纯 Go 中加速 SHA256 计算。](https://github.com/minio/sha256-simd) 
 ### July 1, 2022 
 - [antonioribeiro/google2fa-laravel: 一次性密码验证包，兼容 Google Authenticator for Laravel](https://github.com/antonioribeiro/google2fa-laravel) 
 - [MacFJA/php-redisearch: RediSearch 的 PHP 客户端](https://github.com/MacFJA/php-redisearch) 
