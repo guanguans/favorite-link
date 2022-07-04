@@ -79,6 +79,7 @@
 
 ### July 4, 2022 
 - [peter-tharwat/dashboard: 简单的阿拉伯语 Laravel 仪表板，具有基本设置和漂亮的布局。 让您轻松创建快速仪表板](https://github.com/peter-tharwat/dashboard) 
+- [bvtterfly/replay: 用于幂等性的 Laravel 中间件](https://github.com/bvtterfly/replay) 
 ### July 1, 2022 
 - [antonioribeiro/google2fa-laravel: 一次性密码验证包，兼容 Google Authenticator for Laravel](https://github.com/antonioribeiro/google2fa-laravel) 
 - [MacFJA/php-redisearch: RediSearch 的 PHP 客户端](https://github.com/MacFJA/php-redisearch) 
