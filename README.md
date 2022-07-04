@@ -82,6 +82,7 @@
 - [bvtterfly/replay: 用于幂等性的 Laravel 中间件](https://github.com/bvtterfly/replay) 
 - [huichen/wukong: 高度可定制的全文搜索引擎](https://github.com/huichen/wukong) 
 - [minio/sha256-simd: 使用 AVX512、适用于 x86 的 SHA 扩展和适用于 ARM 的 ARM64 在纯 Go 中加速 SHA256 计算。](https://github.com/minio/sha256-simd) 
+- [legougames/slice_map: slice_map 旨在提高您需要在内存中保存大型地图的情况下的性能。](https://github.com/legougames/slice_map) 
 ### July 1, 2022 
 - [antonioribeiro/google2fa-laravel: 一次性密码验证包，兼容 Google Authenticator for Laravel](https://github.com/antonioribeiro/google2fa-laravel) 
 - [MacFJA/php-redisearch: RediSearch 的 PHP 客户端](https://github.com/MacFJA/php-redisearch) 
