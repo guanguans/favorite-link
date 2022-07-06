@@ -78,6 +78,9 @@
 
 
 
+
+### July 6, 2022 
+- [datomatic/laravel-enum-helper: 这是基于 Laravel 框架的 datomatic/enum-helper 包的扩展。 该包包含一个 LaravelEnumHelper 特征，该特征扩展了 EnumInvokable、EnumFroms、EnumNames、EnumValues、EnumEquality、EnumDescription 并添加动态方法以返回翻译或“属性”方法和相关辅助方法。](https://github.com/datomatic/laravel-enum-helper) 
 ### July 5, 2022 
 - [hubojing/C-Language-Games: C语言经典小游戏。](https://github.com/hubojing/C-Language-Games) 
 - [rvflash/elapsed: Golang 包以人类可读的格式返回自给定时间以来经过的时间](https://github.com/rvflash/elapsed) 
