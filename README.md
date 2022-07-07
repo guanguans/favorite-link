@@ -82,6 +82,7 @@
 
 ### July 7, 2022 
 - [juzeon/fast-mail-bomber: 快速、多线程、高效且易于使用的邮件轰炸/垃圾邮件工具。 通过不同提供商托管的邮递员服务发送邮件。](https://github.com/juzeon/fast-mail-bomber) 
+- [hansott/psr7-cookies: 🍪 为 PSR-7 消息烘焙 cookie](https://github.com/hansott/psr7-cookies) 
 ### July 6, 2022 
 - [datomatic/laravel-enum-helper: 这是基于 Laravel 框架的 datomatic/enum-helper 包的扩展。 该包包含一个 LaravelEnumHelper 特征，该特征扩展了 EnumInvokable、EnumFroms、EnumNames、EnumValues、EnumEquality、EnumDescription 并添加动态方法以返回翻译或“属性”方法和相关辅助方法。](https://github.com/datomatic/laravel-enum-helper) 
 - [datomatic/enum-helper: Simple opinionated framework agnostic PHP 8.1 enum helper](https://github.com/datomatic/enum-helper#descriptions-and-translations) 
