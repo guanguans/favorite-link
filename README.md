@@ -80,6 +80,9 @@
 
 
 
+
+### July 8, 2022 
+- [Jarred-Sumner/bun: 令人难以置信的快速 JavaScript 运行时、捆绑器、转译器和包管理器 - 合二为一。](https://github.com/Jarred-Sumner/bun) 
 ### July 7, 2022 
 - [juzeon/fast-mail-bomber: 快速、多线程、高效且易于使用的邮件轰炸/垃圾邮件工具。 通过不同提供商托管的邮递员服务发送邮件。](https://github.com/juzeon/fast-mail-bomber) 
 - [hansott/psr7-cookies: 🍪 为 PSR-7 消息烘焙 cookie](https://github.com/hansott/psr7-cookies) 
