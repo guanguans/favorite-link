@@ -89,6 +89,7 @@
 - [cloudflare/gokey: Go 中一个简单的无保险库密码管理器](https://github.com/cloudflare/gokey) 
 - [php-fig/http-message-util: PSR Http Message Util](https://github.com/php-fig/http-message-util) 
 - [dapr/go-sdk: Dapr SDK for go](https://github.com/dapr/go-sdk) 
+- [xtaci/smux: 一个内存使用最少的 golang 流多路复用库](https://github.com/xtaci/smux) 
 ### July 12, 2022 
 - [shadowscatcher/shodan: 又一个 Shodan.io 客户端](https://github.com/shadowscatcher/shodan) 
 - [ns3777k/go-shodan: Shodan API 客户端](https://github.com/ns3777k/go-shodan) 
