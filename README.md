@@ -95,6 +95,7 @@
 - [MarkBaker/PHPMatrix: 用于处理矩阵的 PHP 类](https://github.com/MarkBaker/PHPMatrix) 
 - [protonemedia/laravel-eloquent-scope-as-select: 停止在 PHP 中重复 Eloquent 查询范围和约束。 此包允许您通过将查询范围和约束添加为子查询来重用它们。](https://github.com/protonemedia/laravel-eloquent-scope-as-select) 
 - [midoks/mdserver-web: 简单的 Linux 面板](https://github.com/midoks/mdserver-web) 
+- [protonemedia/laravel-eloquent-where-not:  这个 Laravel 包允许你翻转/反转 Eloquent 范围，或者实际上是任何查询约束。](https://github.com/protonemedia/laravel-eloquent-where-not) 
 ### July 12, 2022 
 - [shadowscatcher/shodan: 又一个 Shodan.io 客户端](https://github.com/shadowscatcher/shodan) 
 - [ns3777k/go-shodan: Shodan API 客户端](https://github.com/ns3777k/go-shodan) 
