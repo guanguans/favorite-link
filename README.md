@@ -90,6 +90,7 @@
 - [php-fig/http-message-util: PSR Http Message Util](https://github.com/php-fig/http-message-util) 
 - [dapr/go-sdk: Dapr SDK for go](https://github.com/dapr/go-sdk) 
 - [xtaci/smux: 一个内存使用最少的 golang 流多路复用库](https://github.com/xtaci/smux) 
+- [giggsey/Locale: 提供最新 CLDR 的库。 主要作为 libphonenumber-for-php 的要求。](https://github.com/giggsey/Locale) 
 ### July 12, 2022 
 - [shadowscatcher/shodan: 又一个 Shodan.io 客户端](https://github.com/shadowscatcher/shodan) 
 - [ns3777k/go-shodan: Shodan API 客户端](https://github.com/ns3777k/go-shodan) 
