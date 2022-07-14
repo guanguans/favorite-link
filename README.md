@@ -91,6 +91,7 @@
 - [regnerisch/sets: 用于类型安全 PHP 数组的简单库](https://github.com/regnerisch/sets) 
 - [invopop/jsonschema: 从 Go 类型生成 JSON 模式](https://github.com/invopop/jsonschema) 
 - [smallnest/gen: 将数据库转换为 gorm 结构和 RESTful api](https://github.com/smallnest/gen) 
+- [coder/coder: 基础架构上的远程开发环境](https://github.com/coder/coder) 
 ### July 13, 2022 
 - [pocketbase/pocketbase: 在1个文件中开放源代码实时后端](https://github.com/pocketbase/pocketbase) 
 - [cloudflare/gokey: Go 中一个简单的无保险库密码管理器](https://github.com/cloudflare/gokey) 
