@@ -87,6 +87,7 @@
 
 ### July 14, 2022 
 - [aschmelyun/docker-compose-laravel: 用于本地 Laravel 开发的 docker-compose 工作流程](https://github.com/aschmelyun/docker-compose-laravel) 
+- [regnerisch/laravel-beyond: Laravel 包将您的 Laravel 应用程序转换为 DDD（受 Laravel 的启发，超越了 Spatie 的 CRUD）](https://github.com/regnerisch/laravel-beyond) 
 ### July 13, 2022 
 - [pocketbase/pocketbase: 在1个文件中开放源代码实时后端](https://github.com/pocketbase/pocketbase) 
 - [cloudflare/gokey: Go 中一个简单的无保险库密码管理器](https://github.com/cloudflare/gokey) 
