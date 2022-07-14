@@ -92,6 +92,7 @@
 - [invopop/jsonschema: 从 Go 类型生成 JSON 模式](https://github.com/invopop/jsonschema) 
 - [smallnest/gen: 将数据库转换为 gorm 结构和 RESTful api](https://github.com/smallnest/gen) 
 - [coder/coder: 基础架构上的远程开发环境](https://github.com/coder/coder) 
+- [google/sqlcommenter-php: sqlcommenter 是一个插件/中间件/包装器，用于增加来自 laravel 的 SQL 语句的注释，以后可以使用这些注释将用户代码与 SQL 语句相关联。](https://github.com/google/sqlcommenter-php) 
 ### July 13, 2022 
 - [pocketbase/pocketbase: 在1个文件中开放源代码实时后端](https://github.com/pocketbase/pocketbase) 
 - [cloudflare/gokey: Go 中一个简单的无保险库密码管理器](https://github.com/cloudflare/gokey) 
