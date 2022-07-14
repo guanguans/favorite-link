@@ -93,6 +93,7 @@
 - [smallnest/gen: 将数据库转换为 gorm 结构和 RESTful api](https://github.com/smallnest/gen) 
 - [coder/coder: 基础架构上的远程开发环境](https://github.com/coder/coder) 
 - [google/sqlcommenter-php: sqlcommenter 是一个插件/中间件/包装器，用于增加来自 laravel 的 SQL 语句的注释，以后可以使用这些注释将用户代码与 SQL 语句相关联。](https://github.com/google/sqlcommenter-php) 
+- [vpominchuk/laravel-mysql-use-index-scope: 一个超级简单的包，允许使用 MySQL 'USE INDEX' 和 'FORCE INDEX' 语句。](https://github.com/vpominchuk/laravel-mysql-use-index-scope) 
 ### July 13, 2022 
 - [pocketbase/pocketbase: 在1个文件中开放源代码实时后端](https://github.com/pocketbase/pocketbase) 
 - [cloudflare/gokey: Go 中一个简单的无保险库密码管理器](https://github.com/cloudflare/gokey) 
