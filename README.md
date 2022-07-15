@@ -85,6 +85,9 @@
 
 
 
+
+### July 15, 2022 
+- [mpociot/versionable: Laravel 模型版本控制变得简单](https://github.com/mpociot/versionable) 
 ### July 14, 2022 
 - [aschmelyun/docker-compose-laravel: 用于本地 Laravel 开发的 docker-compose 工作流程](https://github.com/aschmelyun/docker-compose-laravel) 
 - [regnerisch/laravel-beyond: Laravel 包将您的 Laravel 应用程序转换为 DDD（受 Laravel 的启发，超越了 Spatie 的 CRUD）](https://github.com/regnerisch/laravel-beyond) 
