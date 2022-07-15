@@ -88,6 +88,7 @@
 
 ### July 15, 2022 
 - [mpociot/versionable: Laravel 模型版本控制变得简单](https://github.com/mpociot/versionable) 
+- [WildsideUK/Laravel-Userstamps: Laravel Userstamps 提供了一个 Eloquent trait，它自动维护模型上的 `created_by` 和 `updated_by` 列，由应用程序中当前经过身份验证的用户填充。](https://github.com/WildsideUK/Laravel-Userstamps) 
 ### July 14, 2022 
 - [aschmelyun/docker-compose-laravel: 用于本地 Laravel 开发的 docker-compose 工作流程](https://github.com/aschmelyun/docker-compose-laravel) 
 - [regnerisch/laravel-beyond: Laravel 包将您的 Laravel 应用程序转换为 DDD（受 Laravel 的启发，超越了 Spatie 的 CRUD）](https://github.com/regnerisch/laravel-beyond) 
