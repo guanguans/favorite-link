@@ -90,6 +90,7 @@
 - [mpociot/versionable: Laravel 模型版本控制变得简单](https://github.com/mpociot/versionable) 
 - [WildsideUK/Laravel-Userstamps: Laravel Userstamps 提供了一个 Eloquent trait，它自动维护模型上的 `created_by` 和 `updated_by` 列，由应用程序中当前经过身份验证的用户填充。](https://github.com/WildsideUK/Laravel-Userstamps) 
 - [CECTC/dbpack: 分布式事务、读写拆分和分片的数据库代理！](https://github.com/CECTC/dbpack) 
+- [stayallive/laravel-eloquent-observable: 直接在模型上即时注册 Eloquent 模型事件监听器。](https://github.com/stayallive/laravel-eloquent-observable) 
 ### July 14, 2022 
 - [aschmelyun/docker-compose-laravel: 用于本地 Laravel 开发的 docker-compose 工作流程](https://github.com/aschmelyun/docker-compose-laravel) 
 - [regnerisch/laravel-beyond: Laravel 包将您的 Laravel 应用程序转换为 DDD（受 Laravel 的启发，超越了 Spatie 的 CRUD）](https://github.com/regnerisch/laravel-beyond) 
