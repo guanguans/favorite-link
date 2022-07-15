@@ -92,6 +92,7 @@
 - [CECTC/dbpack: 分布式事务、读写拆分和分片的数据库代理！](https://github.com/CECTC/dbpack) 
 - [stayallive/laravel-eloquent-observable: 直接在模型上即时注册 Eloquent 模型事件监听器。](https://github.com/stayallive/laravel-eloquent-observable) 
 - [litesaml/lightsaml: 轻量级 SAML 实现基本的 SAML 2.0 数据模型类](https://github.com/litesaml/lightsaml) 
+- [chenyahui/AnnotatedCode: 知名开源代码库的注释版：C++、Golang等](https://github.com/chenyahui/AnnotatedCode) 
 ### July 14, 2022 
 - [aschmelyun/docker-compose-laravel: 用于本地 Laravel 开发的 docker-compose 工作流程](https://github.com/aschmelyun/docker-compose-laravel) 
 - [regnerisch/laravel-beyond: Laravel 包将您的 Laravel 应用程序转换为 DDD（受 Laravel 的启发，超越了 Spatie 的 CRUD）](https://github.com/regnerisch/laravel-beyond) 
