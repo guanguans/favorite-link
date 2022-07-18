@@ -92,6 +92,7 @@
 - [nox7/async-php-8-io-http: PHP Fibers - 没有外部依赖的异步示例](https://github.com/nox7/async-php-8-io-http) 
 - [mingcheng/socks5lb: 一个简单的socks5代理负载均衡和透明代理](https://github.com/mingcheng/socks5lb) 
 - [loov/lensm: Go 汇编和源代码查看器](https://github.com/loov/lensm) 
+- [wp-graphql/wp-graphql-jwt-authentication: 使用 JWT（JSON Web 令牌）对 WPGraphQL 进行身份验证](https://github.com/wp-graphql/wp-graphql-jwt-authentication) 
 ### July 15, 2022 
 - [mpociot/versionable: Laravel 模型版本控制变得简单](https://github.com/mpociot/versionable) 
 - [WildsideUK/Laravel-Userstamps: Laravel Userstamps 提供了一个 Eloquent trait，它自动维护模型上的 `created_by` 和 `updated_by` 列，由应用程序中当前经过身份验证的用户填充。](https://github.com/WildsideUK/Laravel-Userstamps) 
