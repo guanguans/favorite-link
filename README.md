@@ -92,6 +92,7 @@
 - [tigoCaval/recommendation-algorithm: 协同过滤推荐系统。 使用协同过滤的推荐算法。 主题：排序算法、欧几里得距离算法、斜率一算法、过滤协同。](https://github.com/tigoCaval/recommendation-algorithm) 
 - [StackExchange/blackbox: 在 Git/Mercurial/Subversion 中安全地存储机密](https://github.com/StackExchange/blackbox) 
 - [yomorun/yomo: 🦖 Serverless Streaming Framework 用于低延迟地理分布式系统和实时协作应用程序](https://github.com/yomorun/yomo) 
+- [prprprus/scheduler: scheduler 是 Go 语言实现的作业调度工具包。](https://github.com/prprprus/scheduler) 
 ### July 18, 2022 
 - [dominikbraun/graph: 用于创建图形数据结构并对其执行操作的通用库。 它支持不同类型的图，例如有向图、无环图或树。](https://github.com/dominikbraun/graph) 
 - [nox7/async-php-8-io-http: PHP Fibers - 没有外部依赖的异步示例](https://github.com/nox7/async-php-8-io-http) 
