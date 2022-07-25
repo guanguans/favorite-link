@@ -101,6 +101,7 @@
 - [appleboy/gofight: 在 Golang 编写的测试 API 处理程序。](https://github.com/appleboy/gofight) 
 - [stevebauman/showcode: 创建漂亮的代码图像。](https://github.com/stevebauman/showcode) 
 - [stevebauman/purify: Laravel 的 HTML 净化器/消毒器](https://github.com/stevebauman/purify) 
+- [stevebauman/location: 通过 IP 地址检测用户位置。](https://github.com/stevebauman/location) 
 ### July 22, 2022 
 - [ignite/cli: Ignite CLI 是在主权和安全的区块链上构建、启动和维护任何加密应用程序的一体化平台](https://github.com/ignite/cli) 
 ### July 21, 2022 
