@@ -94,6 +94,7 @@
 
 ### July 25, 2022 
 - [jashkenas/underscore: JavaScript的实用程序](https://github.com/jashkenas/underscore) 
+- [maxmunzel/kvass: 个人键值存储](https://github.com/maxmunzel/kvass) 
 ### July 22, 2022 
 - [ignite/cli: Ignite CLI 是在主权和安全的区块链上构建、启动和维护任何加密应用程序的一体化平台](https://github.com/ignite/cli) 
 ### July 21, 2022 
