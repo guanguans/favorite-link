@@ -96,6 +96,7 @@
 - [jashkenas/underscore: JavaScript的实用程序](https://github.com/jashkenas/underscore) 
 - [maxmunzel/kvass: 个人键值存储](https://github.com/maxmunzel/kvass) 
 - [T-Regx/T-Regx: PHP 正则表达式符合现代标准。](https://github.com/T-Regx/T-Regx) 
+- [mileusna/useragent: 用户代理字符串的 Go/Golang 解析器](https://github.com/mileusna/useragent) 
 ### July 22, 2022 
 - [ignite/cli: Ignite CLI 是在主权和安全的区块链上构建、启动和维护任何加密应用程序的一体化平台](https://github.com/ignite/cli) 
 ### July 21, 2022 
