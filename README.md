@@ -92,6 +92,9 @@
 
 
 
+
+### July 26, 2022 
+- [Laragear/TwoFactor: 为所有用户提供开箱即用的双重身份验证。](https://github.com/Laragear/TwoFactor) 
 ### July 25, 2022 
 - [jashkenas/underscore: JavaScript的实用程序](https://github.com/jashkenas/underscore) 
 - [maxmunzel/kvass: 个人键值存储](https://github.com/maxmunzel/kvass) 
