@@ -96,6 +96,7 @@
 ### July 26, 2022 
 - [Laragear/TwoFactor: 为所有用户提供开箱即用的双重身份验证。](https://github.com/Laragear/TwoFactor) 
 - [segmentio/parquet-go: go 读/写 Parquet 文件的库](https://github.com/segmentio/parquet-go) 
+- [dragonflyoss/Dragonfly: Dragonfly 是一个基于 P2P 的智能图像和文件分发系统。](https://github.com/dragonflyoss/Dragonfly) 
 ### July 25, 2022 
 - [jashkenas/underscore: JavaScript的实用程序](https://github.com/jashkenas/underscore) 
 - [maxmunzel/kvass: 个人键值存储](https://github.com/maxmunzel/kvass) 
