@@ -98,6 +98,7 @@
 ### July 28, 2022 
 - [rinvex/laravel-categories: Rinvex Categorizable 是一个多态的 Laravel 包，用于类别管理。 您可以轻松地对任何有说服力的模型进行分类，并利用嵌套集的强大功能，以及开箱即用的 Sluggable 和 Translatable 模型的强大功能。](https://github.com/rinvex/laravel-categories) 
 - [superfly/litefs: 基于 FUSE 的文件系统，用于跨机器集群复制 SQLite 数据库](https://github.com/superfly/litefs) 
+- [lrsjng/h5ai: Apache httpd、lighttpd 和 nginx 的 HTTP Web 服务器索引。](https://github.com/lrsjng/h5ai) 
 ### July 27, 2022 
 - [tkuchiki/slp: (MySQL) 慢日志分析器](https://github.com/tkuchiki/slp) 
 ### July 26, 2022 
