@@ -100,6 +100,7 @@
 - [superfly/litefs: 基于 FUSE 的文件系统，用于跨机器集群复制 SQLite 数据库](https://github.com/superfly/litefs) 
 - [lrsjng/h5ai: Apache httpd、lighttpd 和 nginx 的 HTTP Web 服务器索引。](https://github.com/lrsjng/h5ai) 
 - [grafana/mimir: Grafana Mimir 为 Prometheus 提供水平可扩展、高可用、多租户、长期存储。](https://github.com/grafana/mimir) 
+- [TestsLing/aj-captcha-go: AJ-Captcha行为验证码的Go实现包](https://github.com/TestsLing/aj-captcha-go) 
 ### July 27, 2022 
 - [tkuchiki/slp: (MySQL) 慢日志分析器](https://github.com/tkuchiki/slp) 
 ### July 26, 2022 
