@@ -106,6 +106,7 @@
 - [eypsilon/Curler: Another one CURLs the dust](https://github.com/eypsilon/Curler) 
 - [mosn/holmes: mosn/holmes: 自我感知的 Golang 配置文件转储器](https://github.com/mosn/holmes) 
 - [babenkoivan/elastic-client: 与 Laravel 集成的官方 PHP Elasticsearch 客户端](https://github.com/babenkoivan/elastic-client) 
+- [cjmellor/approval: Approval 是一个 Laravel 包，它提供了一种在持久化新 Model 数据之前对其进行审批的简单方法。](https://github.com/cjmellor/approval) 
 ### July 28, 2022 
 - [rinvex/laravel-categories: Rinvex Categorizable 是一个多态的 Laravel 包，用于类别管理。 您可以轻松地对任何有说服力的模型进行分类，并利用嵌套集的强大功能，以及开箱即用的 Sluggable 和 Translatable 模型的强大功能。](https://github.com/rinvex/laravel-categories) 
 - [superfly/litefs: 基于 FUSE 的文件系统，用于跨机器集群复制 SQLite 数据库](https://github.com/superfly/litefs) 
