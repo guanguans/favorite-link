@@ -107,6 +107,7 @@
 - [szana8/laraflow: Laravel Eloquent 的状态机和工作流包](https://github.com/szana8/laraflow) 
 - [greycodee/wechat-backup: 微信聊天记录持久化备份本地硬盘，释放手机存储空间。](https://github.com/greycodee/wechat-backup) 
 - [protonemedia/laravel-splade: Inertia.js 的魔力与 Blade 的简单性](https://github.com/protonemedia/laravel-splade) 
+- [johannesboyne/gofakes3: 一个简单的假 AWS S3 对象存储（用于针对 AWS S3 API 的本地测试运行）](https://github.com/johannesboyne/gofakes3) 
 ### July 29, 2022 
 - [jnewmano/grpc-json-proxy: 类似 Postman 的工具的 gRPC 代理](https://github.com/jnewmano/grpc-json-proxy) 
 - [charmbracelet/gum: 迷人的 shell 脚本工具🎀](https://github.com/charmbracelet/gum) 
