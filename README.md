@@ -102,6 +102,7 @@
 - [rocboss/paopao-ce: gin+zinc+vue+ts 清新文艺微社区](https://github.com/rocboss/paopao-ce) 
 - [foo123/simple-captcha: 简单、基于图像的数学验证码](https://github.com/foo123/simple-captcha) 
 - [tuupola/slim-jwt-auth: PSR-7 和 PSR-15 JWT 认证中间件](https://github.com/tuupola/slim-jwt-auth) 
+- [wa-lang/wa: 🇨🇳 凹语言™ The Wa Programming Language](https://github.com/wa-lang/wa) 
 ### July 29, 2022 
 - [jnewmano/grpc-json-proxy: 类似 Postman 的工具的 gRPC 代理](https://github.com/jnewmano/grpc-json-proxy) 
 - [charmbracelet/gum: 迷人的 shell 脚本工具🎀](https://github.com/charmbracelet/gum) 
