@@ -109,6 +109,7 @@
 - [protonemedia/laravel-splade: Inertia.js 的魔力与 Blade 的简单性](https://github.com/protonemedia/laravel-splade) 
 - [johannesboyne/gofakes3: 一个简单的假 AWS S3 对象存储（用于针对 AWS S3 API 的本地测试运行）](https://github.com/johannesboyne/gofakes3) 
 - [hemanth/functional-programming-jargon: 来自函数式编程世界的简单术语！](https://github.com/hemanth/functional-programming-jargon) 
+- [meadsteve/php-curry: 🍛 用于 php 的函数柯里化](https://github.com/meadsteve/php-curry) 
 ### July 29, 2022 
 - [jnewmano/grpc-json-proxy: 类似 Postman 的工具的 gRPC 代理](https://github.com/jnewmano/grpc-json-proxy) 
 - [charmbracelet/gum: 迷人的 shell 脚本工具🎀](https://github.com/charmbracelet/gum) 
