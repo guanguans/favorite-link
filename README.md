@@ -96,6 +96,9 @@
 
 
 
+
+### August 1, 2022 
+- [rs/cors: Go net/http 可配置处理程序来处理 CORS 请求](https://github.com/rs/cors) 
 ### July 29, 2022 
 - [jnewmano/grpc-json-proxy: 类似 Postman 的工具的 gRPC 代理](https://github.com/jnewmano/grpc-json-proxy) 
 - [charmbracelet/gum: 迷人的 shell 脚本工具🎀](https://github.com/charmbracelet/gum) 
