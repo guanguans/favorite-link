@@ -100,6 +100,7 @@
 
 ### August 2, 2022 
 - [daveshanley/vacuum: Vacuum 是世界上最快的 OpenAPI 3、OpenAPI 2 / Swagger linter 和质量分析工具。](https://github.com/daveshanley/vacuum) 
+- [disksing/sao-gen-gen: 骚话生成器生成器](https://github.com/disksing/sao-gen-gen) 
 ### August 1, 2022 
 - [rs/cors: Go net/http 可配置处理程序来处理 CORS 请求](https://github.com/rs/cors) 
 - [rocboss/paopao-ce: gin+zinc+vue+ts 清新文艺微社区](https://github.com/rocboss/paopao-ce) 
