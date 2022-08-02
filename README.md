@@ -103,6 +103,7 @@
 - [disksing/sao-gen-gen: 骚话生成器生成器](https://github.com/disksing/sao-gen-gen) 
 - [BinarCode/laravel-stateless-session: 通过请求/响应标头进行 CSRF 验证和会话持久化。](https://github.com/BinarCode/laravel-stateless-session) 
 - [maruel/panicparse: 使您的应用程序崩溃（Golang）](https://github.com/maruel/panicparse) 
+- [Piwigo/Piwigo: 使用 Piwigo 管理您的照片，这是一款功能齐全的网络开源照片库应用程序。](https://github.com/Piwigo/Piwigo) 
 ### August 1, 2022 
 - [rs/cors: Go net/http 可配置处理程序来处理 CORS 请求](https://github.com/rs/cors) 
 - [rocboss/paopao-ce: gin+zinc+vue+ts 清新文艺微社区](https://github.com/rocboss/paopao-ce) 
