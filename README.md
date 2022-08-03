@@ -98,6 +98,9 @@
 
 
 
+
+### August 3, 2022 
+- [arp242/goatcounter: 简单的网络分析。 不跟踪个人数据。](https://github.com/arp242/goatcounter) 
 ### August 2, 2022 
 - [daveshanley/vacuum: Vacuum 是世界上最快的 OpenAPI 3、OpenAPI 2 / Swagger linter 和质量分析工具。](https://github.com/daveshanley/vacuum) 
 - [disksing/sao-gen-gen: 骚话生成器生成器](https://github.com/disksing/sao-gen-gen) 
