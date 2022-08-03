@@ -102,6 +102,7 @@
 ### August 3, 2022 
 - [arp242/goatcounter: 简单的网络分析。 不跟踪个人数据。](https://github.com/arp242/goatcounter) 
 - [kitabisa/mubeng: 一个难以置信的快速代理检查器和IP旋转器。](https://github.com/kitabisa/mubeng) 
+- [asg017/sqlite-lines: 用于逐行读取大文件（NDJSON、日志、txt 等）的 SQLite 扩展](https://github.com/asg017/sqlite-lines) 
 ### August 2, 2022 
 - [daveshanley/vacuum: Vacuum 是世界上最快的 OpenAPI 3、OpenAPI 2 / Swagger linter 和质量分析工具。](https://github.com/daveshanley/vacuum) 
 - [disksing/sao-gen-gen: 骚话生成器生成器](https://github.com/disksing/sao-gen-gen) 
