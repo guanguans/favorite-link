@@ -103,6 +103,7 @@
 ### August 4, 2022 
 - [spatie/security-advisories-health-check: Laravel Health 检查，检查 PHP 包的已知安全问题](https://github.com/spatie/security-advisories-health-check) 
 - [bokwoon95/sq: sq 是 Go 的类型安全数据映射器和查询构建器。](https://github.com/bokwoon95/sq) 
+- [CannibalVox/cgoparam: 快速、线程安全的 arena 分配器](https://github.com/CannibalVox/cgoparam) 
 ### August 3, 2022 
 - [arp242/goatcounter: 简单的网络分析。 不跟踪个人数据。](https://github.com/arp242/goatcounter) 
 - [kitabisa/mubeng: 一个难以置信的快速代理检查器和IP旋转器。](https://github.com/kitabisa/mubeng) 
