@@ -99,6 +99,9 @@
 
 
 
+
+### August 4, 2022 
+- [spatie/security-advisories-health-check: Laravel Health 检查，检查 PHP 包的已知安全问题](https://github.com/spatie/security-advisories-health-check) 
 ### August 3, 2022 
 - [arp242/goatcounter: 简单的网络分析。 不跟踪个人数据。](https://github.com/arp242/goatcounter) 
 - [kitabisa/mubeng: 一个难以置信的快速代理检查器和IP旋转器。](https://github.com/kitabisa/mubeng) 
