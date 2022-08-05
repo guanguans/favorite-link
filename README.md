@@ -100,6 +100,9 @@
 
 
 
+
+### August 5, 2022 
+- [Sammyjo20/laravel-haystack: 👩‍🌾 精美简单但功能强大的数据库驱动的工作链。](https://github.com/Sammyjo20/laravel-haystack) 
 ### August 4, 2022 
 - [spatie/security-advisories-health-check: Laravel Health 检查，检查 PHP 包的已知安全问题](https://github.com/spatie/security-advisories-health-check) 
 - [bokwoon95/sq: sq 是 Go 的类型安全数据映射器和查询构建器。](https://github.com/bokwoon95/sq) 
