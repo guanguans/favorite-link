@@ -105,6 +105,7 @@
 ### August 8, 2022 
 - [rlanvin/php-rrule: 用于 PHP 的轻量级和快速的重复日期库 (RFC 5545)](https://github.com/rlanvin/php-rrule) 
 - [tidbyt/pixlet: 为基于像素的显示器构建应用程序✨](https://github.com/tidbyt/pixlet) 
+- [nathan-osman/go-sunrise: nathan-osman/go-sunrise: 用于计算给定位置的日出和日落时间的包](https://github.com/nathan-osman/go-sunrise) 
 ### August 5, 2022 
 - [Sammyjo20/laravel-haystack: 👩‍🌾 精美简单但功能强大的数据库驱动的工作链。](https://github.com/Sammyjo20/laravel-haystack) 
 - [deepflowys/deepflow: DeepFlow 是面向云原生开发人员的自动化可观察性平台。](https://github.com/deepflowys/deepflow) 
