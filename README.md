@@ -108,6 +108,7 @@
 - [nathan-osman/go-sunrise: nathan-osman/go-sunrise: 用于计算给定位置的日出和日落时间的包](https://github.com/nathan-osman/go-sunrise) 
 - [DeGraciaMathieu/php-arguments-detector: 通过检查方法没有太多参数来控制方法的复杂性。](https://github.com/DeGraciaMathieu/php-arguments-detector) 
 - [DeGraciaMathieu/Manager: Laravel 框架中已有的 Manager 模式的实现](https://github.com/DeGraciaMathieu/Manager) 
+- [edwingeng/doublejump: 改进后的 Google 跳转一致性哈希](https://github.com/edwingeng/doublejump) 
 ### August 5, 2022 
 - [Sammyjo20/laravel-haystack: 👩‍🌾 精美简单但功能强大的数据库驱动的工作链。](https://github.com/Sammyjo20/laravel-haystack) 
 - [deepflowys/deepflow: DeepFlow 是面向云原生开发人员的自动化可观察性平台。](https://github.com/deepflowys/deepflow) 
