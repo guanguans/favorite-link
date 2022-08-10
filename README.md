@@ -111,6 +111,7 @@
 - [ApiGen/ApiGen: 为您的 PHP 项目准备好 PHP 7.1 的智能和简单文档](https://github.com/ApiGen/ApiGen) 
 - [hanneskod/classtools: 从文件系统中查找、提取和处理 php 类](https://github.com/hanneskod/classtools) 
 - [php-translation/extractor: 从源代码中提取翻译字符串](https://github.com/php-translation/extractor) 
+- [php-translation/translator: 翻译字符串的服务，例如 GoogleTranslate 和 BingTranslate](https://github.com/php-translation/translator) 
 ### August 9, 2022 
 - [alphadose/haxmap: 最快、内存效率最高的 golang 并发 hashmap](https://github.com/alphadose/haxmap) 
 - [huandu/skiplist: 快速且易于使用的 Go 跳过列表。](https://github.com/huandu/skiplist) 
