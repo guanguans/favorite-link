@@ -109,6 +109,7 @@
 
 ### August 15, 2022 
 - [tommy-muehle/go-mnd: Go 的幻数检测器。](https://github.com/tommy-muehle/go-mnd) 
+- [cybercog/laravel-optimus: 根据 Knuth 的整数哈希将您的内部 id 转换为模糊整数。](https://github.com/cybercog/laravel-optimus) 
 ### August 12, 2022 
 - [memphisdev/memphis-broker: 面向现代开发人员的强大消息传递平台](https://github.com/memphisdev/memphis-broker) 
 - [flanglet/kanzi-go: Go中的无损数据压缩](https://github.com/flanglet/kanzi-go) 
