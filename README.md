@@ -113,6 +113,7 @@
 - [dgryski/go-jump: go-jump: 跳转一致性哈希](https://github.com/dgryski/go-jump) 
 - [googleapis/release-please: 根据常规提交规范生成发布 PR](https://github.com/googleapis/release-please) 
 - [google-github-actions/release-please-action: 基于常规提交的自动发布](https://github.com/google-github-actions/release-please-action) 
+- [googleapis/repo-automation-bots: 一个用 Probot 构建的 GitHub 应用程序，它根据由常规提交.org 定义的语义版本提交提出发布。](https://github.com/googleapis/repo-automation-bots/tree/main/packages/release-please) 
 ### August 12, 2022 
 - [memphisdev/memphis-broker: 面向现代开发人员的强大消息传递平台](https://github.com/memphisdev/memphis-broker) 
 - [flanglet/kanzi-go: Go中的无损数据压缩](https://github.com/flanglet/kanzi-go) 
