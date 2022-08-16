@@ -110,6 +110,7 @@
 
 ### August 16, 2022 
 - [nareix/joy5: AV toolkit](https://github.com/nareix/joy5) 
+- [anishathalye/porcupine: 用 Go 编写的快速线性化检查器🔎](https://github.com/anishathalye/porcupine) 
 ### August 15, 2022 
 - [tommy-muehle/go-mnd: Go 的幻数检测器。](https://github.com/tommy-muehle/go-mnd) 
 - [cybercog/laravel-optimus: 根据 Knuth 的整数哈希将您的内部 id 转换为模糊整数。](https://github.com/cybercog/laravel-optimus) 
