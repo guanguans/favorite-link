@@ -108,6 +108,9 @@
 
 
 
+
+### August 17, 2022 
+- [go-eden/routine: 提供一些方便的API，包括Goid()、GetG()和LocalStorage，这是一个goroutine的本地存储，就像其他语言中的ThreadLocal一样。](https://github.com/go-eden/routine) 
 ### August 16, 2022 
 - [nareix/joy5: AV toolkit](https://github.com/nareix/joy5) 
 - [anishathalye/porcupine: 用 Go 编写的快速线性化检查器🔎](https://github.com/anishathalye/porcupine) 
