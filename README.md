@@ -109,6 +109,9 @@
 
 
 
+
+### August 18, 2022 
+- [codebyray/laravel-review-rateable: Laravel 6、7、8 和 9 的审查和评级系统](https://github.com/codebyray/laravel-review-rateable) 
 ### August 17, 2022 
 - [go-eden/routine: 提供一些方便的API，包括Goid()、GetG()和LocalStorage，这是一个goroutine的本地存储，就像其他语言中的ThreadLocal一样。](https://github.com/go-eden/routine) 
 - [hktalent/scan4all: 23种应用密码破解； 7000+网络指纹； 146种协议和90000+条规则端口扫描](https://github.com/hktalent/scan4all) 
