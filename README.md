@@ -113,6 +113,7 @@
 
 ### August 19, 2022 
 - [Lakr233/ActionBee: 一种可编程的纸板动作触发器](https://github.com/Lakr233/ActionBee) 
+- [nadar/php-composer-reader: 一个 PHP 库，用于读取和操作 composer.json 文件。](https://github.com/nadar/php-composer-reader) 
 ### August 18, 2022 
 - [codebyray/laravel-review-rateable: Laravel 6、7、8 和 9 的审查和评级系统](https://github.com/codebyray/laravel-review-rateable) 
 ### August 17, 2022 
