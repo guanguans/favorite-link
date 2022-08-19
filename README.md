@@ -118,6 +118,7 @@
 - [michael-rubel/laravel-enhanced-pipeline: 具有 DB 事务支持、事件和其他方法的 Laravel 管道](https://github.com/michael-rubel/laravel-enhanced-pipeline) 
 - [go-cmd/cmd: Go 中的非阻塞外部命令，具有流式输出和并发安全访问](https://github.com/go-cmd/cmd) 
 - [yenche123/podcast-together: 跟你的好友一起实时在线听播客！](https://github.com/yenche123/podcast-together) 
+- [ayntgl/discordo: 轻量级、安全且功能丰富的 Discord 终端客户端](https://github.com/ayntgl/discordo) 
 ### August 18, 2022 
 - [codebyray/laravel-review-rateable: Laravel 6、7、8 和 9 的审查和评级系统](https://github.com/codebyray/laravel-review-rateable) 
 ### August 17, 2022 
