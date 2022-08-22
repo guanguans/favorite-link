@@ -114,6 +114,7 @@
 
 ### August 22, 2022 
 - [recode-sh/cli: 一个 CLI，可在几秒钟内在您的云提供商帐户中创建远程开发环境](https://github.com/recode-sh/cli) 
+- [opcodesio/log-viewer: 用于 Laravel 应用程序的快速且易于使用的日志查看器](https://github.com/opcodesio/log-viewer) 
 ### August 19, 2022 
 - [Lakr233/ActionBee: 一种可编程的纸板动作触发器](https://github.com/Lakr233/ActionBee) 
 - [nadar/php-composer-reader: 一个 PHP 库，用于读取和操作 composer.json 文件。](https://github.com/nadar/php-composer-reader) 
