@@ -118,6 +118,7 @@
 - [forPelevin/gomoji: 在 Golang 中使用表情符号的有用功能](https://github.com/forPelevin/gomoji) 
 - [nahid/url-factory: UrlFactory 帮助您管理 URL。](https://github.com/nahid/url-factory) 
 - [yggdrasil-network/yggdrasil-go: 可扩展路由作为加密 IPv6 覆盖网络的实验](https://github.com/yggdrasil-network/yggdrasil-go) 
+- [ehids/ecapture: 使用 eBPF 捕获没有 CA 证书的 SSL/TLS 文本内容。 支持 Linux x86_64/Aarch64、Android(GKI) Aarch64。](https://github.com/ehids/ecapture) 
 ### August 19, 2022 
 - [Lakr233/ActionBee: 一种可编程的纸板动作触发器](https://github.com/Lakr233/ActionBee) 
 - [nadar/php-composer-reader: 一个 PHP 库，用于读取和操作 composer.json 文件。](https://github.com/nadar/php-composer-reader) 
