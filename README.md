@@ -118,6 +118,7 @@
 - [maptiler/tileserver-php: MBTiles 和 MapTiler 文件夹托管与 TileJSON、OGC WMTS、UTFGrid 交互和 Web 界面。](https://github.com/maptiler/tileserver-php) 
 - [BinarCode/laravel-mailator: Laravel 的电子邮件调度程序](https://github.com/BinarCode/laravel-mailator) 
 - [phayes/freeport: 获取一个可以使用的免费开放的 tcp 端口](https://github.com/phayes/freeport) 
+- [ManiruzzamanAkash/sanitizer: 清理和转义 PHP 应用程序中的每个值](https://github.com/ManiruzzamanAkash/sanitizer) 
 ### August 22, 2022 
 - [recode-sh/cli: 一个 CLI，可在几秒钟内在您的云提供商帐户中创建远程开发环境](https://github.com/recode-sh/cli) 
 - [opcodesio/log-viewer: 用于 Laravel 应用程序的快速且易于使用的日志查看器](https://github.com/opcodesio/log-viewer) 
