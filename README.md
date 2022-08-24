@@ -122,6 +122,7 @@
 - [statix-php/server: 一个围绕 PHP 内置服务器的面向对象的包装器。](https://github.com/statix-php/server) 
 - [Sairahcaz/laravel-xhprof: 简单的 XHProf 设置来分析你的 laravel 应用程序！](https://github.com/Sairahcaz/laravel-xhprof) 
 - [amenzhinsky/go-memexec: 从内存中运行代码](https://github.com/amenzhinsky/go-memexec) 
+- [helix-editor/helix: 后现代模态文本编辑器。](https://github.com/helix-editor/helix) 
 ### August 23, 2022 
 - [teamzac/laravel-tileserver: 将 XYZ 平铺服务器添加到 Laravel 应用程序](https://github.com/teamzac/laravel-tileserver#tileservertilesetzxypbf) 
 - [maptiler/tileserver-php: MBTiles 和 MapTiler 文件夹托管与 TileJSON、OGC WMTS、UTFGrid 交互和 Web 界面。](https://github.com/maptiler/tileserver-php) 
