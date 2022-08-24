@@ -116,6 +116,7 @@
 
 ### August 24, 2022 
 - [renoki-co/laravel-web3: 用于与以太坊区块链交互的 Web3 PHP API 客户端的 Laravel SDK 包装器。](https://github.com/renoki-co/laravel-web3) 
+- [laravelista/comments: Laravel 应用程序的原生注释。](https://github.com/laravelista/comments) 
 ### August 23, 2022 
 - [teamzac/laravel-tileserver: 将 XYZ 平铺服务器添加到 Laravel 应用程序](https://github.com/teamzac/laravel-tileserver#tileservertilesetzxypbf) 
 - [maptiler/tileserver-php: MBTiles 和 MapTiler 文件夹托管与 TileJSON、OGC WMTS、UTFGrid 交互和 Web 界面。](https://github.com/maptiler/tileserver-php) 
