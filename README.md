@@ -114,6 +114,9 @@
 
 
 
+
+### August 25, 2022 
+- [web-auth/cose-lib: Cose 密钥和算法支持](https://github.com/web-auth/cose-lib) 
 ### August 24, 2022 
 - [renoki-co/laravel-web3: 用于与以太坊区块链交互的 Web3 PHP API 客户端的 Laravel SDK 包装器。](https://github.com/renoki-co/laravel-web3) 
 - [laravelista/comments: Laravel 应用程序的原生注释。](https://github.com/laravelista/comments) 
