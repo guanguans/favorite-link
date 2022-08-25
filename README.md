@@ -118,6 +118,7 @@
 ### August 25, 2022 
 - [web-auth/cose-lib: Cose 密钥和算法支持](https://github.com/web-auth/cose-lib) 
 - [像 ~~grep~~ UBER，但是对于二进制文件](https://github.com/m4b/bingrep) 
+- [bitfumes/laravel-packer: 强大的命令行工具，加速您的包创建。](https://github.com/bitfumes/laravel-packer) 
 ### August 24, 2022 
 - [renoki-co/laravel-web3: 用于与以太坊区块链交互的 Web3 PHP API 客户端的 Laravel SDK 包装器。](https://github.com/renoki-co/laravel-web3) 
 - [laravelista/comments: Laravel 应用程序的原生注释。](https://github.com/laravelista/comments) 
