@@ -119,6 +119,7 @@
 ### August 26, 2022 
 - [etcd-io/gofail: go的故障点](https://github.com/etcd-io/gofail) 
 - [megaease/easeprobe: 用 Go 编写的一个简单、独立、轻量级的工具，可以执行健康/状态检查。](https://github.com/megaease/easeprobe) 
+- [atanunq/viu: 具有对 iTerm 和 Kitty 的本机支持的终端图像查看器](https://github.com/atanunq/viu) 
 ### August 25, 2022 
 - [web-auth/cose-lib: Cose 密钥和算法支持](https://github.com/web-auth/cose-lib) 
 - [像 ~~grep~~ UBER，但是对于二进制文件](https://github.com/m4b/bingrep) 
