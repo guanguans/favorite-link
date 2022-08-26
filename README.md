@@ -115,6 +115,9 @@
 
 
 
+
+### August 26, 2022 
+- [etcd-io/gofail: go的故障点](https://github.com/etcd-io/gofail) 
 ### August 25, 2022 
 - [web-auth/cose-lib: Cose 密钥和算法支持](https://github.com/web-auth/cose-lib) 
 - [像 ~~grep~~ UBER，但是对于二进制文件](https://github.com/m4b/bingrep) 
