@@ -123,6 +123,7 @@
 - [TwiN/gatus: 自动化服务健康仪表板](https://github.com/TwiN/gatus) 
 - [filecoin-project/lotus:Filecoin 协议的实现，用 Go 编写](https://github.com/filecoin-project/lotus) 
 - [ipfs/kubo: Go 中的 IPFS 实现](https://github.com/ipfs/kubo) 
+- [hwameistor/hwameistor: Hwameistor 是一个针对云本地有状态工作负载的 HA 本地存储系统。](https://github.com/hwameistor/hwameistor) 
 ### August 25, 2022 
 - [web-auth/cose-lib: Cose 密钥和算法支持](https://github.com/web-auth/cose-lib) 
 - [像 ~~grep~~ UBER，但是对于二进制文件](https://github.com/m4b/bingrep) 
