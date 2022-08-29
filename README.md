@@ -121,6 +121,7 @@
 - [adityatelange/hugo-PaperMod: 一个快速、干净、响应迅速的 Hugo 主题。](https://github.com/adityatelange/hugo-PaperMod) 
 - [aimeos/map: PHP 数组和集合变得简单](https://github.com/aimeos/map) 
 - [antoniomika/sish: 仅使用 SSH 连接到本地主机的 HTTP(S)/WS(S)/TCP 隧道。](https://github.com/antoniomika/sish) 
+- [DataDog/dd-trace-php: Datadog 跟踪 PHP 客户端](https://github.com/DataDog/dd-trace-php) 
 ### August 26, 2022 
 - [etcd-io/gofail: go的故障点](https://github.com/etcd-io/gofail) 
 - [megaease/easeprobe: 用 Go 编写的一个简单、独立、轻量级的工具，可以执行健康/状态检查。](https://github.com/megaease/easeprobe) 
