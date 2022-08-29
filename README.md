@@ -116,6 +116,9 @@
 
 
 
+
+### August 29, 2022 
+- [adityatelange/hugo-PaperMod: 一个快速、干净、响应迅速的 Hugo 主题。](https://github.com/adityatelange/hugo-PaperMod) 
 ### August 26, 2022 
 - [etcd-io/gofail: go的故障点](https://github.com/etcd-io/gofail) 
 - [megaease/easeprobe: 用 Go 编写的一个简单、独立、轻量级的工具，可以执行健康/状态检查。](https://github.com/megaease/easeprobe) 
