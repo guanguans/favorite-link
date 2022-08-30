@@ -117,6 +117,9 @@
 
 
 
+
+### August 30, 2022 
+- [kodeine/laravel-acl: Laravel 6+ 的轻量级基于角色的权限系统，内置 Auth 系统。](https://github.com/kodeine/laravel-acl) 
 ### August 29, 2022 
 - [adityatelange/hugo-PaperMod: 一个快速、干净、响应迅速的 Hugo 主题。](https://github.com/adityatelange/hugo-PaperMod) 
 - [aimeos/map: PHP 数组和集合变得简单](https://github.com/aimeos/map) 
