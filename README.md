@@ -125,6 +125,7 @@
 - [sonirico/parco: 🏇🏻 多面手，快速而小巧的二进制解析器和编译器生成器，由 Go 1.18+ 泛型提供支持](https://github.com/sonirico/parco) 
 - [deminy/swoole-by-examples: 通过例子学习 Swole](https://github.com/deminy/swoole-by-examples) 
 - [themsaid/laravel-langman: artisan控制台中的语言文件管理器。](https://github.com/themsaid/laravel-langman) 
+- [InfyOmLabs/generator-builder: Laravel 生成器 GUI 构建](https://github.com/InfyOmLabs/generator-builder) 
 ### August 30, 2022 
 - [kodeine/laravel-acl: Laravel 6+ 的轻量级基于角色的权限系统，内置 Auth 系统。](https://github.com/kodeine/laravel-acl) 
 - [willvincent/laravel-rateable: 提供一个 trait 以允许在你的 Laravel 6/7/8/9 应用程序中对多个模型进行评级](https://github.com/willvincent/laravel-rateable) 
