@@ -122,6 +122,7 @@
 
 ### September 1, 2022 
 - [knqyf263/go-plugin: 基于 WebAssembly 的插件系统](https://github.com/knqyf263/go-plugin) 
+- [chyroc/baiduyun-go: sdk for 百度云盘](https://github.com/chyroc/baiduyun-go) 
 ### August 31, 2022 
 - [evcc-io/evcc: evcc 是一个可扩展的 EV 充电控制器，在 Go 中实现了 PV 集成。](https://github.com/evcc-io/evcc) 
 - [losfair/mvsqlite: 在 FoundationDB 上运行的分布式 MVCC SQLite。](https://github.com/losfair/mvsqlite) 
