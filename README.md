@@ -132,6 +132,7 @@
 - [clue/php-sse-react: 流式传输，异步 HTML5 服务器发送事件服务器（又名 SSE 或 EventSource），构建在 ReactPHP 之上](https://github.com/clue/php-sse-react) 
 - [hhxsv5/php-sse: 一个简单高效的库，通过 PHP 实现 HTML5 的服务器发送事件，用于将事件从服务器实时推送到客户端，比 Websocket 更简单，而不是 AJAX 请求。](https://github.com/hhxsv5/php-sse) 
 - [licson/libSSE-php: 它是一个易于使用的面向对象的服务器发送事件库](https://github.com/licson/libSSE-php) 
+- [qruto/laravel-wave: 使用 SSE 进行无痛 Laravel 广播](https://github.com/qruto/laravel-wave) 
 ### September 5, 2022 
 - [adbario/php-dot-notation: 点符号访问 PHP 数组](https://github.com/adbario/php-dot-notation) 
 - [openspout/openspout: 以快速且可扩展的方式读写电子表格文件（CSV、XLSX 和 ODS）](https://github.com/openspout/openspout) 
