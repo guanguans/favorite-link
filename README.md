@@ -128,6 +128,7 @@
 - [dietercoopman/mailspfchecker: 一个 Laravel 包，用于检查是否可以以给定电子邮件地址的名义通过给定邮件服务器发送电子邮件](https://github.com/dietercoopman/mailspfchecker) 
 - [tpope/vim-unimpaired: Vim: 一对方便的括号映射](https://github.com/tpope/vim-unimpaired) 
 - [modstart-lib/ueditor-plus: 基于 UEditor 二次开发的富文本编辑器](https://github.com/modstart-lib/ueditor-plus) 
+- [prwnr/laravel-streamer: 基于 Redis Streams 的 Laravel 事件流包](https://github.com/prwnr/laravel-streamer) 
 ### September 5, 2022 
 - [adbario/php-dot-notation: 点符号访问 PHP 数组](https://github.com/adbario/php-dot-notation) 
 - [openspout/openspout: 以快速且可扩展的方式读写电子表格文件（CSV、XLSX 和 ODS）](https://github.com/openspout/openspout) 
