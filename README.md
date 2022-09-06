@@ -125,6 +125,7 @@
 
 ### September 6, 2022 
 - [lujjjh/gates: Go 的嵌入式语言。](https://github.com/lujjjh/gates) 
+- [dietercoopman/mailspfchecker: 一个 Laravel 包，用于检查是否可以以给定电子邮件地址的名义通过给定邮件服务器发送电子邮件](https://github.com/dietercoopman/mailspfchecker) 
 ### September 5, 2022 
 - [adbario/php-dot-notation: 点符号访问 PHP 数组](https://github.com/adbario/php-dot-notation) 
 - [openspout/openspout: 以快速且可扩展的方式读写电子表格文件（CSV、XLSX 和 ODS）](https://github.com/openspout/openspout) 
