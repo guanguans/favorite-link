@@ -129,6 +129,7 @@
 - [tpope/vim-unimpaired: Vim: 一对方便的括号映射](https://github.com/tpope/vim-unimpaired) 
 - [modstart-lib/ueditor-plus: 基于 UEditor 二次开发的富文本编辑器](https://github.com/modstart-lib/ueditor-plus) 
 - [prwnr/laravel-streamer: 基于 Redis Streams 的 Laravel 事件流包](https://github.com/prwnr/laravel-streamer) 
+- [clue/php-sse-react: 流式传输，异步 HTML5 服务器发送事件服务器（又名 SSE 或 EventSource），构建在 ReactPHP 之上](https://github.com/clue/php-sse-react) 
 ### September 5, 2022 
 - [adbario/php-dot-notation: 点符号访问 PHP 数组](https://github.com/adbario/php-dot-notation) 
 - [openspout/openspout: 以快速且可扩展的方式读写电子表格文件（CSV、XLSX 和 ODS）](https://github.com/openspout/openspout) 
