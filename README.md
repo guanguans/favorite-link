@@ -126,6 +126,7 @@
 
 ### September 7, 2022 
 - [calcinai/xero-php: Xero API 的 php 库，具有更干净的 OAuth 接口和类似 ORM 的抽象。](https://github.com/calcinai/xero-php) 
+- [beyondcode/livewire-devtools: 用于调试 Livewire 应用程序的 Chrome 和 Firefox DevTools 扩展](https://github.com/beyondcode/livewire-devtools) 
 ### September 6, 2022 
 - [lujjjh/gates: Go 的嵌入式语言。](https://github.com/lujjjh/gates) 
 - [dietercoopman/mailspfchecker: 一个 Laravel 包，用于检查是否可以以给定电子邮件地址的名义通过给定邮件服务器发送电子邮件](https://github.com/dietercoopman/mailspfchecker) 
