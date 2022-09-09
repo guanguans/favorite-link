@@ -129,6 +129,7 @@
 ### September 9, 2022 
 - [friends-of-reactphp/stomp: ReactPHP 的 STOMP 绑定。](https://github.com/friends-of-reactphp/stomp) 
 - [cweijan/vscode-office: 让VSCode支持预览PDF,Excel等格式, 并增加markdown所见即所得编辑器](https://github.com/cweijan/vscode-office) 
+- [revel/revel: Go 语言的高生产力、全栈 Web 框架。](https://github.com/revel/revel) 
 ### September 8, 2022 
 - [stomp-php/stomp-php: Stomp PHP客户端](https://github.com/stomp-php/stomp-php) 
 ### September 7, 2022 
