@@ -128,6 +128,9 @@
 
 
 
+
+### September 15, 2022 
+- [spatie/laravel-ciphersweet: 在 Laravel 项目中使用 Ciphersweet](https://github.com/spatie/laravel-ciphersweet) 
 ### September 14, 2022 
 - [bmpi-dev/invest-alchemy: 它可以从投资组合整体的角度评价交易策略的风险与收益](https://github.com/bmpi-dev/invest-alchemy) 
 - [crossoverJie/gscript: 💪🏻这是一种用 Go 编写的静态强类型语言。](https://github.com/crossoverJie/gscript) 
