@@ -132,6 +132,7 @@
 
 ### September 16, 2022 
 - [cerbero90/enum: 🎲 零依赖 PHP 库来增强枚举功能。](https://github.com/cerbero90/enum) 
+- [statikbe/laravel-cookie-consent: 在您的 Laravel 应用程序上显示 Cookie 同意模式](https://github.com/statikbe/laravel-cookie-consent) 
 ### September 15, 2022 
 - [spatie/laravel-ciphersweet: 在 Laravel 项目中使用 Ciphersweet](https://github.com/spatie/laravel-ciphersweet) 
 ### September 14, 2022 
