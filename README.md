@@ -135,6 +135,7 @@
 - [kartik-v/yii2-grid: 增强的 GridView 和 Yii Framework 2.0 的各种实用程序](https://github.com/kartik-v/yii2-grid) 
 - [使用简单 API 在 Go 中进行 2D 渲染。](https://github.com/fogleman/gg) 
 - [fogleman/gg: 使用简单 API 在 Go 中进行 2D 渲染。](https://github.com/fogleman/gg) 
+- [huandu/go-clone: 深入彻底地克隆任何 Go 数据结构。](https://github.com/huandu/go-clone) 
 ### September 16, 2022 
 - [cerbero90/enum: 🎲 零依赖 PHP 库来增强枚举功能。](https://github.com/cerbero90/enum) 
 - [statikbe/laravel-cookie-consent: 在您的 Laravel 应用程序上显示 Cookie 同意模式](https://github.com/statikbe/laravel-cookie-consent) 
