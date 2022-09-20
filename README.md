@@ -135,6 +135,7 @@
 
 ### September 20, 2022 
 - [rabbitmq/amqp091-go: RabbitMQ 团队维护的 AMQP 0-9-1 Go 客户端。](https://github.com/rabbitmq/amqp091-go) 
+- [tailscale/tailscale: 使用 WireGuard 和 2FA 的最简单、最安全的方法。](https://github.com/tailscale/tailscale) 
 ### September 19, 2022 
 - [laravel-labs/unfenced: Unleash your fenced code.](https://github.com/laravel-labs/unfenced) 
 - [sideshow/apns2: 使用 APNs HTTP/2 协议向 iOS、tvOS、Safari 和 OSX 应用程序发送推送通知。](https://github.com/sideshow/apns2) 
