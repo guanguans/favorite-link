@@ -139,6 +139,7 @@
 - [git-town/git-town: 通用的高级 Git 工作流支持！](https://github.com/git-town/git-town) 
 - [sensepost/gowitness: 一个使用 Chrome Headless 的 golang 网页截图工具](https://github.com/sensepost/gowitness) 
 - [hammer-tools/php-hammer: PHP Hammer 是一个与 Intellij IDEA / PhpStorm 兼容的检查和工具插件。](https://github.com/hammer-tools/php-hammer) 
+- [tekord/idea-php-laravel-plugin: 用于 PhpStorm / IntelliJ IDEA 的 Laravel 框架插件](https://github.com/tekord/idea-php-laravel-plugin) 
 ### September 20, 2022 
 - [rabbitmq/amqp091-go: RabbitMQ 团队维护的 AMQP 0-9-1 Go 客户端。](https://github.com/rabbitmq/amqp091-go) 
 - [tailscale/tailscale: 使用 WireGuard 和 2FA 的最简单、最安全的方法。](https://github.com/tailscale/tailscale) 
