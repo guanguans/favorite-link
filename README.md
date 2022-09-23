@@ -142,6 +142,7 @@
 - [Netflix/rend: 管理数据分块和 L1 / L2 缓存的 memcached 代理](https://github.com/Netflix/rend) 
 - [casbin/casnode: Go和React开发的一款开源论坛（BBS）软件](https://github.com/casbin/casnode) 
 - [php-http/guzzle7-adapter: Guzzle 7 适配器](https://github.com/php-http/guzzle7-adapter) 
+- [dragonflyoss/Dragonfly2: Dragonfly是一个基于P2P的智能图像和文件分发系统](https://github.com/dragonflyoss/Dragonfly2) 
 ### September 22, 2022 
 - [facebook/rocksdb: 一个为快速存储提供可嵌入、持久键值存储的库。](https://github.com/facebook/rocksdb) 
 - [arnaud-lb/php-memory-profiler:  PHP 的内存分析器。 帮助查找 PHP 脚本中的内存泄漏。](https://github.com/arnaud-lb/php-memory-profiler) 
