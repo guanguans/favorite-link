@@ -144,6 +144,7 @@
 - [php-http/guzzle7-adapter: Guzzle 7 适配器](https://github.com/php-http/guzzle7-adapter) 
 - [dragonflyoss/Dragonfly2: Dragonfly是一个基于P2P的智能图像和文件分发系统](https://github.com/dragonflyoss/Dragonfly2) 
 - [JonasBernard/FakeStandby: Android 应用程序，用于在保持应用程序运行的同时关闭屏幕。](https://github.com/JonasBernard/FakeStandby) 
+- [deckerst/aves: Aves 是一个图库和元数据浏览器应用程序](https://github.com/deckerst/aves) 
 ### September 22, 2022 
 - [facebook/rocksdb: 一个为快速存储提供可嵌入、持久键值存储的库。](https://github.com/facebook/rocksdb) 
 - [arnaud-lb/php-memory-profiler:  PHP 的内存分析器。 帮助查找 PHP 脚本中的内存泄漏。](https://github.com/arnaud-lb/php-memory-profiler) 
