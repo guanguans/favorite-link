@@ -149,6 +149,7 @@
 - [SimpleMobileTools/Simple-Gallery: SimpleMobileTools/Simple-Gallery: 一款高级应用程序，用于管理和编辑您的照片、视频、GIF，没有广告](https://github.com/SimpleMobileTools/Simple-Gallery) 
 - [linesoft2/open2share: 可以将打开（查看）文件转换为共享（发送）文件的 Android 应用程序。](https://github.com/linesoft2/open2share) 
 - [pppscn/SmsForwarder: 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机](https://github.com/pppscn/SmsForwarder) 
+- [Neamar/KISS: 闪电般快速、开源、< 200kb 的 Android 启动器](https://github.com/Neamar/KISS) 
 ### September 22, 2022 
 - [facebook/rocksdb: 一个为快速存储提供可嵌入、持久键值存储的库。](https://github.com/facebook/rocksdb) 
 - [arnaud-lb/php-memory-profiler:  PHP 的内存分析器。 帮助查找 PHP 脚本中的内存泄漏。](https://github.com/arnaud-lb/php-memory-profiler) 
