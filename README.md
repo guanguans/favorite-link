@@ -140,6 +140,7 @@
 
 ### September 27, 2022 
 - [kladskull/xEroS: Xero 是一种数字货币，允许随时随地向任何人进行即时付款。 Xero 完全用 PHP 编写，并遵循与比特币相同的技术设计。 Xero 使用 P2P 技术在没有中央服务器的情况下运行。](https://github.com/kladskull/xEroS) 
+- [glebarez/go-sqlite: 用于 Go 的纯 Go SQLite 驱动程序（嵌入 SQLite）](https://github.com/glebarez/go-sqlite) 
 ### September 26, 2022 
 - [webrtc-rs/webrtc: WebRTC 的纯 Rust 实现](https://github.com/webrtc-rs/webrtc) 
 - [rectorphp/php-parser-nodes-docs: PHP Parser 节点的可视化文档，帮助您学习 AST，如何创建和分析节点](https://github.com/rectorphp/php-parser-nodes-docs) 
