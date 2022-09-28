@@ -141,6 +141,7 @@
 
 ### September 28, 2022 
 - [optiv/Freeze: Freeze 是一个有效负载工具包，用于使用挂起的进程、直接系统调用和替代执行方法绕过 EDR](https://github.com/optiv/Freeze) 
+- [Permify/permify: Permify 是一个基于 Google Zanzibar 的开源授权服务和策略引擎。](https://github.com/Permify/permify) 
 ### September 27, 2022 
 - [kladskull/xEroS: Xero 是一种数字货币，允许随时随地向任何人进行即时付款。 Xero 完全用 PHP 编写，并遵循与比特币相同的技术设计。 Xero 使用 P2P 技术在没有中央服务器的情况下运行。](https://github.com/kladskull/xEroS) 
 - [glebarez/go-sqlite: 用于 Go 的纯 Go SQLite 驱动程序（嵌入 SQLite）](https://github.com/glebarez/go-sqlite) 
