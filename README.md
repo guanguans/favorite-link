@@ -139,6 +139,9 @@
 
 
 
+
+### September 29, 2022 
+- [wsdl2phpgenerator/wsdl2phpgenerator: 用于从 wsdl 文件生成 php 类的简单实用程序和类库。](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) 
 ### September 28, 2022 
 - [optiv/Freeze: Freeze 是一个有效负载工具包，用于使用挂起的进程、直接系统调用和替代执行方法绕过 EDR](https://github.com/optiv/Freeze) 
 - [Permify/permify: Permify 是一个基于 Google Zanzibar 的开源授权服务和策略引擎。](https://github.com/Permify/permify) 
