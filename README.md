@@ -144,6 +144,7 @@
 
 ### October 9, 2022 
 - [nfx/go-htmltable: 从 Go 中的 URL 中提取结构化的 HTML 表格数据，几乎没有外部依赖](https://github.com/nfx/go-htmltable) 
+- [fluxcd/flagger: 渐进式交付 Kubernetes 操作员（Canary、A/B 测试和蓝/绿部署）](https://github.com/fluxcd/flagger) 
 ### September 30, 2022 
 - [robinovitch61/wander: HashiCorp Nomad 的终端应用程序/TUI](https://github.com/robinovitch61/wander) 
 - [tonybaloney/vscode-pets: 在您的 VS Code 窗口中添加好玩的宠物🦀🐱🐶](https://github.com/tonybaloney/vscode-pets) 
