@@ -150,6 +150,7 @@
 - [go-yaml/yaml: 对 Go 语言的 YAML 支持。](https://github.com/go-yaml/yaml) 
 - [gocarina/gocsv: GoCSV包旨在为golang编程语言提供简单的CSV序列化和反序列化](https://github.com/gocarina/gocsv) 
 - [macronut/ghostcp: GhosTCP 是一个适用于 Windows 的程序，可保护 TCP 连接不受干扰。](https://github.com/macronut/ghostcp) 
+- [madneal/gshark: 轻松有效地扫描敏感信息。](https://github.com/madneal/gshark) 
 ### October 9, 2022 
 - [nfx/go-htmltable: 从 Go 中的 URL 中提取结构化的 HTML 表格数据，几乎没有外部依赖](https://github.com/nfx/go-htmltable) 
 - [fluxcd/flagger: 渐进式交付 Kubernetes 操作员（Canary、A/B 测试和蓝/绿部署）](https://github.com/fluxcd/flagger) 
