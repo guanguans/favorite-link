@@ -148,6 +148,7 @@
 - [zhanglun/lettura: 另一个 RSS 阅读器](https://github.com/zhanglun/lettura) 
 - [SigNoz/signoz: SigNoz 是一个开源 APM。 它可以帮助开发人员监控他们的应用程序并解决问题，它是 DataDog、NewRelic 等的开源替代品。](https://github.com/SigNoz/signoz) 
 - [go-yaml/yaml: 对 Go 语言的 YAML 支持。](https://github.com/go-yaml/yaml) 
+- [gocarina/gocsv: GoCSV包旨在为golang编程语言提供简单的CSV序列化和反序列化](https://github.com/gocarina/gocsv) 
 ### October 9, 2022 
 - [nfx/go-htmltable: 从 Go 中的 URL 中提取结构化的 HTML 表格数据，几乎没有外部依赖](https://github.com/nfx/go-htmltable) 
 - [fluxcd/flagger: 渐进式交付 Kubernetes 操作员（Canary、A/B 测试和蓝/绿部署）](https://github.com/fluxcd/flagger) 
