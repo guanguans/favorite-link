@@ -142,6 +142,9 @@
 
 
 
+
+### October 10, 2022 
+- [jxxghp/nas-tools: NAS媒体库资源归集、整理自动化工具](https://github.com/jxxghp/nas-tools) 
 ### October 9, 2022 
 - [nfx/go-htmltable: 从 Go 中的 URL 中提取结构化的 HTML 表格数据，几乎没有外部依赖](https://github.com/nfx/go-htmltable) 
 - [fluxcd/flagger: 渐进式交付 Kubernetes 操作员（Canary、A/B 测试和蓝/绿部署）](https://github.com/fluxcd/flagger) 
