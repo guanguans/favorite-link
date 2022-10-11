@@ -147,6 +147,7 @@
 ### October 11, 2022 
 - [devaslanphp/help-desk: 基于 Laravel 的开源帮助台](https://github.com/devaslanphp/help-desk) 
 - [praetorian-inc/fingerprintx: 用于在开放端口上发现服务的独立实用程序！](https://github.com/praetorian-inc/fingerprintx) 
+- [nahid/permit: 一个处理用户授权和 ACL 的 laravel 包](https://github.com/nahid/permit) 
 ### October 10, 2022 
 - [jxxghp/nas-tools: NAS媒体库资源归集、整理自动化工具](https://github.com/jxxghp/nas-tools) 
 - [zhanglun/lettura: 另一个 RSS 阅读器](https://github.com/zhanglun/lettura) 
