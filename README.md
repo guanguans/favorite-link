@@ -150,6 +150,7 @@
 - [lrstanley/bubblezone: BubbleTea 的辅助实用程序，可轻松跟踪鼠标事件](https://github.com/lrstanley/bubblezone) 
 - [zhangyunhao116/skipmap:skipmap 是一个基于 skip-list 的高性能、可扩展的并发排序图。](https://github.com/zhangyunhao116/skipmap) 
 - [zhangyunhao116/fastrand: Go 中最快的伪随机数生成器。 比 math/rand 快大约 2 到 200 倍。](https://github.com/zhangyunhao116/fastrand) 
+- [mitchellh/copystructure: Go (golang) 库，用于在 Go 中深度复制值。](https://github.com/mitchellh/copystructure) 
 ### October 11, 2022 
 - [devaslanphp/help-desk: 基于 Laravel 的开源帮助台](https://github.com/devaslanphp/help-desk) 
 - [praetorian-inc/fingerprintx: 用于在开放端口上发现服务的独立实用程序！](https://github.com/praetorian-inc/fingerprintx) 
