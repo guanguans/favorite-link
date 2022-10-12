@@ -147,6 +147,7 @@
 
 ### October 12, 2022 
 - [vmware-tanzu/kubeapps: 用于在 Kubernetes 集群中部署和管理应用程序的基于 Web 的 UI](https://github.com/vmware-tanzu/kubeapps) 
+- [lrstanley/bubblezone: BubbleTea 的辅助实用程序，可轻松跟踪鼠标事件](https://github.com/lrstanley/bubblezone) 
 ### October 11, 2022 
 - [devaslanphp/help-desk: 基于 Laravel 的开源帮助台](https://github.com/devaslanphp/help-desk) 
 - [praetorian-inc/fingerprintx: 用于在开放端口上发现服务的独立实用程序！](https://github.com/praetorian-inc/fingerprintx) 
