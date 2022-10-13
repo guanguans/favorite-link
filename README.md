@@ -152,6 +152,7 @@
 - [valyala/fasttemplate: 简单快速的 Go 模板引擎](https://github.com/valyala/fasttemplate) 
 - [VKCOM/php-parser: 用 Go 编写的 PHP 解析器](https://github.com/VKCOM/php-parser) 
 - [yourbasic/graph: 图算法和数据结构](https://github.com/yourbasic/graph) 
+- [jeremeamia/FunctionParser: 解析 PHP 函数/方法/闭包以获取代码](https://github.com/jeremeamia/FunctionParser) 
 ### October 12, 2022 
 - [vmware-tanzu/kubeapps: 用于在 Kubernetes 集群中部署和管理应用程序的基于 Web 的 UI](https://github.com/vmware-tanzu/kubeapps) 
 - [lrstanley/bubblezone: BubbleTea 的辅助实用程序，可轻松跟踪鼠标事件](https://github.com/lrstanley/bubblezone) 
