@@ -153,6 +153,7 @@
 - [VKCOM/php-parser: 用 Go 编写的 PHP 解析器](https://github.com/VKCOM/php-parser) 
 - [yourbasic/graph: 图算法和数据结构](https://github.com/yourbasic/graph) 
 - [jeremeamia/FunctionParser: 解析 PHP 函数/方法/闭包以获取代码](https://github.com/jeremeamia/FunctionParser) 
+- [codeshell/fpdm: 使用 FPDF 作者 Olivier 编写的 FPDM 类填充 PDF 表单（+multifile-filling-fix, +checkboxes）](https://github.com/codeshell/fpdm) 
 ### October 12, 2022 
 - [vmware-tanzu/kubeapps: 用于在 Kubernetes 集群中部署和管理应用程序的基于 Web 的 UI](https://github.com/vmware-tanzu/kubeapps) 
 - [lrstanley/bubblezone: BubbleTea 的辅助实用程序，可轻松跟踪鼠标事件](https://github.com/lrstanley/bubblezone) 
