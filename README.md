@@ -150,6 +150,7 @@
 ### October 14, 2022 
 - [laminas/laminas-stdlib: SPL 扩展、数组实用程序、错误处理程序等](https://github.com/laminas/laminas-stdlib) 
 - [thomasjohnkane/slow-query-notifier: 如果您的 Laravel 应用程序曾经运行过非常慢的数据库查询，则会收到通知](https://github.com/thomasjohnkane/slow-query-notifier) 
+- [nore-dev/fman: TUI 文件管理器](https://github.com/nore-dev/fman) 
 ### October 13, 2022 
 - [Corveda/PHPSandbox: 一个基于 PHP 的沙盒库，具有一整套配置和验证选项。](https://github.com/Corveda/PHPSandbox) 
 - [spaze/phpstan-disallowed-calls: PHPStan 规则检测不允许的方法和函数调用、常量、命名空间和超全局用法](https://github.com/spaze/phpstan-disallowed-calls) 
