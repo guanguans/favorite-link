@@ -163,6 +163,7 @@
 - [medic/cht-gateway: 用于 CHT 应用程序的 Android 短信网关应用程序](https://github.com/medic/cht-gateway) 
 - [lcobucci/clock: 另一个时钟抽象](https://github.com/lcobucci/clock) 
 - [bensadeh/tailspin: `tail -f` 的替代品](https://github.com/bensadeh/tailspin) 
+- [kelindar/column: Go 中带有位图索引的高性能列式内存存储](https://github.com/kelindar/column) 
 ### October 13, 2022 
 - [Corveda/PHPSandbox: 一个基于 PHP 的沙盒库，具有一整套配置和验证选项。](https://github.com/Corveda/PHPSandbox) 
 - [spaze/phpstan-disallowed-calls: PHPStan 规则检测不允许的方法和函数调用、常量、命名空间和超全局用法](https://github.com/spaze/phpstan-disallowed-calls) 
