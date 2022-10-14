@@ -152,6 +152,7 @@
 - [thomasjohnkane/slow-query-notifier: 如果您的 Laravel 应用程序曾经运行过非常慢的数据库查询，则会收到通知](https://github.com/thomasjohnkane/slow-query-notifier) 
 - [nore-dev/fman: TUI 文件管理器](https://github.com/nore-dev/fman) 
 - [ppz-pro/ppz.vscode: RDBMS（关系数据库管理系统）的 GUI](https://github.com/ppz-pro/ppz.vscode) 
+- [multiOTP/SMSGateway: 基于平面文件的 SMS 网关 PHP 类与开源 Android 应用程序一起使用](https://github.com/multiOTP/SMSGateway) 
 ### October 13, 2022 
 - [Corveda/PHPSandbox: 一个基于 PHP 的沙盒库，具有一整套配置和验证选项。](https://github.com/Corveda/PHPSandbox) 
 - [spaze/phpstan-disallowed-calls: PHPStan 规则检测不允许的方法和函数调用、常量、命名空间和超全局用法](https://github.com/spaze/phpstan-disallowed-calls) 
