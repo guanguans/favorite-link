@@ -155,6 +155,7 @@
 - [multiOTP/SMSGateway: 基于平面文件的 SMS 网关 PHP 类与开源 Android 应用程序一起使用](https://github.com/multiOTP/SMSGateway) 
 - [benwilkins/laravel-fcm-notification: Laravel FCM（Firebase 云消息传递）通知通道](https://github.com/benwilkins/laravel-fcm-notification) 
 - [laminas/laminas-hydrator: 将对象序列化为数组，反之亦然](https://github.com/laminas/laminas-hydrator) 
+- [mongodb-js/vscode: 直接从您的 VS Code 环境连接到 MongoDB ](https://github.com/mongodb-js/vscode) 
 ### October 13, 2022 
 - [Corveda/PHPSandbox: 一个基于 PHP 的沙盒库，具有一整套配置和验证选项。](https://github.com/Corveda/PHPSandbox) 
 - [spaze/phpstan-disallowed-calls: PHPStan 规则检测不允许的方法和函数调用、常量、命名空间和超全局用法](https://github.com/spaze/phpstan-disallowed-calls) 
