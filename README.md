@@ -157,6 +157,7 @@
 - [laminas/laminas-hydrator: 将对象序列化为数组，反之亦然](https://github.com/laminas/laminas-hydrator) 
 - [mongodb-js/vscode: 直接从您的 VS Code 环境连接到 MongoDB ](https://github.com/mongodb-js/vscode) 
 - [laminas/laminas-escaper: 安全地转义 HTML、HTML 属性、JavaScript、CSS 和 URL](https://github.com/laminas/laminas-escaper) 
+- [laminas/laminas-diactoros: PSR HTTP 消息实现](https://github.com/laminas/laminas-diactoros) 
 ### October 13, 2022 
 - [Corveda/PHPSandbox: 一个基于 PHP 的沙盒库，具有一整套配置和验证选项。](https://github.com/Corveda/PHPSandbox) 
 - [spaze/phpstan-disallowed-calls: PHPStan 规则检测不允许的方法和函数调用、常量、命名空间和超全局用法](https://github.com/spaze/phpstan-disallowed-calls) 
