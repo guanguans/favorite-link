@@ -156,6 +156,7 @@
 - [laravel-ready/license-server: 准备好使用 Laravel 的许可证服务器包。 为您的产品或服务添加许可系统。](https://github.com/laravel-ready/license-server) 
 - [laravel-ready/license-connector: License Connector 是 License Server 包的持续集成工具。](https://github.com/laravel-ready/license-connector) 
 - [laravel-ready/laravel-starter: Batteries included ready to use empty laravel starter project template.](https://github.com/laravel-ready/laravel-starter) 
+- [BluePointLilac/ContextMenuManager: 🖱️ 纯粹的Windows右键菜单管理程序](https://github.com/BluePointLilac/ContextMenuManager) 
 ### October 14, 2022 
 - [laminas/laminas-stdlib: SPL 扩展、数组实用程序、错误处理程序等](https://github.com/laminas/laminas-stdlib) 
 - [thomasjohnkane/slow-query-notifier: 如果您的 Laravel 应用程序曾经运行过非常慢的数据库查询，则会收到通知](https://github.com/thomasjohnkane/slow-query-notifier) 
