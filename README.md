@@ -151,6 +151,7 @@
 ### October 17, 2022 
 - [goproxy/goproxy: 一个极简的 Go 模块代理处理程序。](https://github.com/goproxy/goproxy) 
 - [dunglas/frankenphp: 现代 PHP 应用服务器](https://github.com/dunglas/frankenphp) 
+- [dunglas/mercure: 一种开放、简单、快速、可靠且省电的实时通信解决方案](https://github.com/dunglas/mercure) 
 ### October 14, 2022 
 - [laminas/laminas-stdlib: SPL 扩展、数组实用程序、错误处理程序等](https://github.com/laminas/laminas-stdlib) 
 - [thomasjohnkane/slow-query-notifier: 如果您的 Laravel 应用程序曾经运行过非常慢的数据库查询，则会收到通知](https://github.com/thomasjohnkane/slow-query-notifier) 
