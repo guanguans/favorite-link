@@ -158,6 +158,7 @@
 - [laravel-ready/laravel-starter: Batteries included ready to use empty laravel starter project template.](https://github.com/laravel-ready/laravel-starter) 
 - [BluePointLilac/ContextMenuManager: 🖱️ 纯粹的Windows右键菜单管理程序](https://github.com/BluePointLilac/ContextMenuManager) 
 - [tuneinsight/lattigo: Go 中基于格的同态加密库](https://github.com/tuneinsight/lattigo) 
+- [baonq-me/bgn: 使用 BGN 密码系统的椭圆曲线上的某种同态加密](https://github.com/baonq-me/bgn) 
 ### October 14, 2022 
 - [laminas/laminas-stdlib: SPL 扩展、数组实用程序、错误处理程序等](https://github.com/laminas/laminas-stdlib) 
 - [thomasjohnkane/slow-query-notifier: 如果您的 Laravel 应用程序曾经运行过非常慢的数据库查询，则会收到通知](https://github.com/thomasjohnkane/slow-query-notifier) 
