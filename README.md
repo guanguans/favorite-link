@@ -161,6 +161,7 @@
 - [HavocFramework/Havoc: Havoc 是由@C5pider 创建的现代且可延展的后开发命令和控制框架。](https://github.com/HavocFramework/Havoc) 
 - [zakaria-chahboun/cute: 极简美丽的 Go 打印（fmt 替代品）](https://github.com/zakaria-chahboun/cute) 
 - [mikestefanello/pagoda: Go 中快速、简单的全栈 Web 开发入门工具包](https://github.com/mikestefanello/pagoda) 
+- [LaravelRUS/SleepingOwlAdmin:  🦉 Laravel 的管理界面构建器（Laravel 管理员）](https://github.com/LaravelRUS/SleepingOwlAdmin) 
 ### October 17, 2022 
 - [goproxy/goproxy: 一个极简的 Go 模块代理处理程序。](https://github.com/goproxy/goproxy) 
 - [dunglas/frankenphp: 现代 PHP 应用服务器](https://github.com/dunglas/frankenphp) 
