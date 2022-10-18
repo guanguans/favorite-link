@@ -155,6 +155,7 @@
 - [moul/assh: 💻 让你的 ssh 客户端更智能](https://github.com/moul/assh) 
 - [nikolaydubina/go-cover-treemap: 🎄 Go 代码覆盖到 SVG 树形图](https://github.com/nikolaydubina/go-cover-treemap) 
 - [nikolaydubina/go-recipes: 🦩 Go 项目的工具](https://github.com/nikolaydubina/go-recipes) 
+- [laravel-shift/curl-converter: 将 `curl` 请求转换为 Laravel `Http` 请求的在线工具](https://github.com/laravel-shift/curl-converter) 
 ### October 17, 2022 
 - [goproxy/goproxy: 一个极简的 Go 模块代理处理程序。](https://github.com/goproxy/goproxy) 
 - [dunglas/frankenphp: 现代 PHP 应用服务器](https://github.com/dunglas/frankenphp) 
