@@ -163,6 +163,7 @@
 - [mikestefanello/pagoda: Go 中快速、简单的全栈 Web 开发入门工具包](https://github.com/mikestefanello/pagoda) 
 - [LaravelRUS/SleepingOwlAdmin:  🦉 Laravel 的管理界面构建器（Laravel 管理员）](https://github.com/LaravelRUS/SleepingOwlAdmin) 
 - [laradumps/laradumps: LaraDumps 是一个友好的应用程序，旨在提升你的 Laravel PHP 编码和调试体验。](https://github.com/laradumps/laradumps) 
+- [fruitcake/laravel-telescope-toolbar: 基于 Symfony Web Profiler 的 Laravel Telescope 工具栏。](https://github.com/fruitcake/laravel-telescope-toolbar) 
 ### October 17, 2022 
 - [goproxy/goproxy: 一个极简的 Go 模块代理处理程序。](https://github.com/goproxy/goproxy) 
 - [dunglas/frankenphp: 现代 PHP 应用服务器](https://github.com/dunglas/frankenphp) 
