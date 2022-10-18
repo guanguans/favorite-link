@@ -148,6 +148,9 @@
 
 
 
+
+### October 18, 2022 
+- [lob/lob-php: Lob API 的 PHP 客户端](https://github.com/lob/lob-php) 
 ### October 17, 2022 
 - [goproxy/goproxy: 一个极简的 Go 模块代理处理程序。](https://github.com/goproxy/goproxy) 
 - [dunglas/frankenphp: 现代 PHP 应用服务器](https://github.com/dunglas/frankenphp) 
