@@ -152,6 +152,7 @@
 
 ### October 19, 2022 
 - [butschster/LaravelMetaTags: 在 Laravel 项目中管理 SEO 元标签的最强大和可扩展的工具](https://github.com/butschster/LaravelMetaTags) 
+- [butschster/CronExpressionGenerator: 基于php8构建的cron表达式生成器](https://github.com/butschster/CronExpressionGenerator) 
 ### October 18, 2022 
 - [lob/lob-php: Lob API 的 PHP 客户端](https://github.com/lob/lob-php) 
 - [imdario/zas: Golang 中最简单的静态网站生成器。](https://github.com/imdario/zas) 
