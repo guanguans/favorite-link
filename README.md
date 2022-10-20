@@ -158,6 +158,7 @@
 - [oklog/run: 管理 goroutine 生命周期的通用机制](https://github.com/oklog/run) 
 - [ibrunotome/laravel-api-templates: 使用不同结构的 Laravel API 入门工具包集合。](https://github.com/ibrunotome/laravel-api-templates) 
 - [timacdonald/json-api: Laravel 的 JSON:API 资源](https://github.com/timacdonald/json-api) 
+- [josiasmontag/laravel-recaptchav3: 用于 Google 的 Recaptcha V3 的 Laravel 包](https://github.com/josiasmontag/laravel-recaptchav3) 
 ### October 19, 2022 
 - [butschster/LaravelMetaTags: 在 Laravel 项目中管理 SEO 元标签的最强大和可扩展的工具](https://github.com/butschster/LaravelMetaTags) 
 - [butschster/CronExpressionGenerator: 基于php8构建的cron表达式生成器](https://github.com/butschster/CronExpressionGenerator) 
