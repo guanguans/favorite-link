@@ -156,6 +156,7 @@
 - [graphp/algorithms: PHP中实现的常用数学图算法](https://github.com/graphp/algorithms) 
 - [graphp/graph: GraPHP 是用 PHP 编写的数学图形/网络库。](https://github.com/graphp/graph) 
 - [oklog/run: 管理 goroutine 生命周期的通用机制](https://github.com/oklog/run) 
+- [ibrunotome/laravel-api-templates: 使用不同结构的 Laravel API 入门工具包集合。](https://github.com/ibrunotome/laravel-api-templates) 
 ### October 19, 2022 
 - [butschster/LaravelMetaTags: 在 Laravel 项目中管理 SEO 元标签的最强大和可扩展的工具](https://github.com/butschster/LaravelMetaTags) 
 - [butschster/CronExpressionGenerator: 基于php8构建的cron表达式生成器](https://github.com/butschster/CronExpressionGenerator) 
