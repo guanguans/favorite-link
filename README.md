@@ -154,6 +154,7 @@
 
 ### October 21, 2022 
 - [laravel/browser-kit-testing: 为最新 Laravel 版本中的 BrowserKit 测试提供向后兼容性。](https://github.com/laravel/browser-kit-testing) 
+- [spatie/laravel-model-flags: 为 Eloquent 模型添加标志](https://github.com/spatie/laravel-model-flags) 
 ### October 20, 2022 
 - [fisharebest/algorithm: PHP中的通用算法](https://github.com/fisharebest/algorithm) 
 - [graphp/algorithms: PHP中实现的常用数学图算法](https://github.com/graphp/algorithms) 
