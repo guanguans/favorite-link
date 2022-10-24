@@ -158,6 +158,7 @@
 - [answerdev/answer: 一个基于开源知识的社区软件。](https://github.com/answerdev/answer) 
 - [jfcherng/php-diff: 一个综合库，用于以多种格式（统一、并排 HTML 等）生成两个字符串之间的差异。](https://github.com/jfcherng/php-diff) 
 - [Automattic/pocket-casts-ios: Pocket Casts iOS 应用程序🎧](https://github.com/Automattic/pocket-casts-ios) 
+- [Automattic/simplenote-android: 适用于 Android 的简单笔记](https://github.com/Automattic/simplenote-android) 
 ### October 21, 2022 
 - [laravel/browser-kit-testing: 为最新 Laravel 版本中的 BrowserKit 测试提供向后兼容性。](https://github.com/laravel/browser-kit-testing) 
 - [spatie/laravel-model-flags: 为 Eloquent 模型添加标志](https://github.com/spatie/laravel-model-flags) 
