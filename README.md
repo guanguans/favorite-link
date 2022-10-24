@@ -152,6 +152,9 @@
 
 
 
+
+### October 24, 2022 
+- [protonemedia/laravel-verify-new-email: 此软件包增加了对验证新电子邮件地址的支持：当用户更新其电子邮件地址时，它不会替换旧电子邮件地址，直到新电子邮件地址得到验证。](https://github.com/protonemedia/laravel-verify-new-email) 
 ### October 21, 2022 
 - [laravel/browser-kit-testing: 为最新 Laravel 版本中的 BrowserKit 测试提供向后兼容性。](https://github.com/laravel/browser-kit-testing) 
 - [spatie/laravel-model-flags: 为 Eloquent 模型添加标志](https://github.com/spatie/laravel-model-flags) 
