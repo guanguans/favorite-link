@@ -160,6 +160,7 @@
 - [Automattic/pocket-casts-ios: Pocket Casts iOS 应用程序🎧](https://github.com/Automattic/pocket-casts-ios) 
 - [Automattic/simplenote-android: 适用于 Android 的简单笔记](https://github.com/Automattic/simplenote-android) 
 - [lexxyungcarter/laravel-5-messenger: 具有推送功能的简单 Laravel 5、6、7、8 和 9 Messenger](https://github.com/lexxyungcarter/laravel-5-messenger) 
+- [lexxyungcarter/laravel-5-messenger: 这个包将允许你在你的 Laravel 应用程序中添加一个完整的用户消息系统。](https://github.com/lexxyungcarter/laravel-5-messenger) 
 ### October 21, 2022 
 - [laravel/browser-kit-testing: 为最新 Laravel 版本中的 BrowserKit 测试提供向后兼容性。](https://github.com/laravel/browser-kit-testing) 
 - [spatie/laravel-model-flags: 为 Eloquent 模型添加标志](https://github.com/spatie/laravel-model-flags) 
