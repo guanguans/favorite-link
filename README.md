@@ -156,6 +156,7 @@
 ### October 24, 2022 
 - [protonemedia/laravel-verify-new-email: 此软件包增加了对验证新电子邮件地址的支持：当用户更新其电子邮件地址时，它不会替换旧电子邮件地址，直到新电子邮件地址得到验证。](https://github.com/protonemedia/laravel-verify-new-email) 
 - [answerdev/answer: 一个基于开源知识的社区软件。](https://github.com/answerdev/answer) 
+- [jfcherng/php-diff: 一个综合库，用于以多种格式（统一、并排 HTML 等）生成两个字符串之间的差异。](https://github.com/jfcherng/php-diff) 
 ### October 21, 2022 
 - [laravel/browser-kit-testing: 为最新 Laravel 版本中的 BrowserKit 测试提供向后兼容性。](https://github.com/laravel/browser-kit-testing) 
 - [spatie/laravel-model-flags: 为 Eloquent 模型添加标志](https://github.com/spatie/laravel-model-flags) 
