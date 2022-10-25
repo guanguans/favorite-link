@@ -157,6 +157,7 @@
 ### October 25, 2022 
 - [stasyanko/laravel-large-project: 一个带有详细文档的示例项目，用于展示如何在 laravel/php 中构建大型且可维护的项目，并使用装饰器、迭代器、代理等设计模式。](https://github.com/stasyanko/laravel-large-project) 
 - [tw93/Pake: 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App](https://github.com/tw93/Pake) 
+- [kode4food/ale: Ale 是 Go 应用程序的 Lisp 环境](https://github.com/kode4food/ale) 
 ### October 24, 2022 
 - [protonemedia/laravel-verify-new-email: 此软件包增加了对验证新电子邮件地址的支持：当用户更新其电子邮件地址时，它不会替换旧电子邮件地址，直到新电子邮件地址得到验证。](https://github.com/protonemedia/laravel-verify-new-email) 
 - [answerdev/answer: 一个基于开源知识的社区软件。](https://github.com/answerdev/answer) 
