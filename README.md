@@ -159,6 +159,7 @@
 - [tw93/Pake: 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App](https://github.com/tw93/Pake) 
 - [kode4food/ale: Ale 是 Go 应用程序的 Lisp 环境](https://github.com/kode4food/ale) 
 - [hajimehoshi/ebiten: Ebitengine - 一个非常简单的 2D go 游戏引擎](https://github.com/hajimehoshi/ebiten) 
+- [egoist/vite-plugin-mix: 将后端 API 添加到您的 Vite 应用程序。](https://github.com/egoist/vite-plugin-mix) 
 ### October 24, 2022 
 - [protonemedia/laravel-verify-new-email: 此软件包增加了对验证新电子邮件地址的支持：当用户更新其电子邮件地址时，它不会替换旧电子邮件地址，直到新电子邮件地址得到验证。](https://github.com/protonemedia/laravel-verify-new-email) 
 - [answerdev/answer: 一个基于开源知识的社区软件。](https://github.com/answerdev/answer) 
