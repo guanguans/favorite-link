@@ -154,6 +154,9 @@
 
 
 
+
+### October 26, 2022 
+- [Xammie/mailbook: ✉️ Laravel 邮件浏览器](https://github.com/Xammie/mailbook) 
 ### October 25, 2022 
 - [stasyanko/laravel-large-project: 一个带有详细文档的示例项目，用于展示如何在 laravel/php 中构建大型且可维护的项目，并使用装饰器、迭代器、代理等设计模式。](https://github.com/stasyanko/laravel-large-project) 
 - [tw93/Pake: 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App](https://github.com/tw93/Pake) 
