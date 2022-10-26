@@ -160,6 +160,7 @@
 - [benbjohnson/postlite: Postgres 连接兼容 SQLite 代理。](https://github.com/benbjohnson/postlite) 
 - [themsaid/hover: 用于将 Web 应用程序部署到 AWS Lambda 的 CLI](https://github.com/themsaid/hover) 
 - [jeremykenedy/laravel-logger: Laravel 或 Lumen 应用程序的开箱即用活动记录器。](https://github.com/jeremykenedy/laravel-logger) 
+- [jeremykenedy/laravel-exception-notifier: Laravel 异常通知器将向所选收件人发送一封错误电子邮件以及堆栈跟踪。](https://github.com/jeremykenedy/laravel-exception-notifier) 
 ### October 25, 2022 
 - [stasyanko/laravel-large-project: 一个带有详细文档的示例项目，用于展示如何在 laravel/php 中构建大型且可维护的项目，并使用装饰器、迭代器、代理等设计模式。](https://github.com/stasyanko/laravel-large-project) 
 - [tw93/Pake: 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App](https://github.com/tw93/Pake) 
