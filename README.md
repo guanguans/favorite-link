@@ -155,6 +155,9 @@
 
 
 
+
+### October 27, 2022 
+- [LukaSikic/subzy: 子域接管漏洞检查器](https://github.com/LukaSikic/subzy) 
 ### October 26, 2022 
 - [Xammie/mailbook: ✉️ Laravel 邮件浏览器](https://github.com/Xammie/mailbook) 
 - [benbjohnson/postlite: Postgres 连接兼容 SQLite 代理。](https://github.com/benbjohnson/postlite) 
