@@ -159,6 +159,7 @@
 
 ### October 28, 2022 
 - [friends-of-reactphp/http-middleware-psr15-adapter: react/http 的 PSR-15 中间件适配器](https://github.com/friends-of-reactphp/http-middleware-psr15-adapter) 
+- [charmbracelet/vhs: 您的 CLI 家庭录像机📼](https://github.com/charmbracelet/vhs) 
 ### October 27, 2022 
 - [LukaSikic/subzy: 子域接管漏洞检查器](https://github.com/LukaSikic/subzy) 
 ### October 26, 2022 
