@@ -160,6 +160,7 @@
 ### October 28, 2022 
 - [friends-of-reactphp/http-middleware-psr15-adapter: react/http 的 PSR-15 中间件适配器](https://github.com/friends-of-reactphp/http-middleware-psr15-adapter) 
 - [charmbracelet/vhs: 您的 CLI 家庭录像机📼](https://github.com/charmbracelet/vhs) 
+- [corazawaf/coraza: Coraza 是一款开源的企业级高性能 Web 应用程序防火墙 (WAF)，可随时保护您心爱的应用程序。](https://github.com/corazawaf/coraza) 
 ### October 27, 2022 
 - [LukaSikic/subzy: 子域接管漏洞检查器](https://github.com/LukaSikic/subzy) 
 ### October 26, 2022 
