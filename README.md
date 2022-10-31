@@ -163,6 +163,7 @@
 - [leonelquinteros/gotext: Go (Golang) GNU gettext 实用程序包](https://github.com/leonelquinteros/gotext) 
 - [skoro/php-tkui: 仅使用 PHP 构建本机桌面应用程序](https://github.com/skoro/php-tkui) 
 - [skoro/yii2-admin-template: Yii2 应用程序模板。](https://github.com/skoro/yii2-admin-template) 
+- [komodorio/helm-dashboard: Helm Dashboard 插件提供了一种 UI 驱动的方式来查看已安装的 Helm 图表、查看其修订历史和相应的 k8s 资源。](https://github.com/komodorio/helm-dashboard) 
 ### October 28, 2022 
 - [friends-of-reactphp/http-middleware-psr15-adapter: react/http 的 PSR-15 中间件适配器](https://github.com/friends-of-reactphp/http-middleware-psr15-adapter) 
 - [charmbracelet/vhs: 您的 CLI 家庭录像机📼](https://github.com/charmbracelet/vhs) 
