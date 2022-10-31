@@ -160,6 +160,7 @@
 
 ### October 31, 2022 
 - [aglipanci/laravel-eloquent-case: Laravel 查询生成器的 CASE 语句支持。](https://github.com/aglipanci/laravel-eloquent-case) 
+- [leonelquinteros/gotext: Go (Golang) GNU gettext 实用程序包](https://github.com/leonelquinteros/gotext) 
 ### October 28, 2022 
 - [friends-of-reactphp/http-middleware-psr15-adapter: react/http 的 PSR-15 中间件适配器](https://github.com/friends-of-reactphp/http-middleware-psr15-adapter) 
 - [charmbracelet/vhs: 您的 CLI 家庭录像机📼](https://github.com/charmbracelet/vhs) 
