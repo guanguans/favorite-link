@@ -164,6 +164,7 @@
 - [xemlock/php-latex: 用 PHP 编写的 LaTeX 解析器和渲染器](https://github.com/xemlock/php-latex) 
 - [xemlock/htmlpurifier-html5: 对 HTMLPurifier 的 HTML5 支持](https://github.com/xemlock/htmlpurifier-html5) 
 - [zhusaidong/IntelligentSpeakers: 智能音响 api - 支持天猫精灵和小爱](https://github.com/zhusaidong/IntelligentSpeakers) 
+- [cschalenborgh/php-pushover: PHP Class for the Pushover.net project](https://github.com/cschalenborgh/php-pushover) 
 ### October 31, 2022 
 - [aglipanci/laravel-eloquent-case: Laravel 查询生成器的 CASE 语句支持。](https://github.com/aglipanci/laravel-eloquent-case) 
 - [leonelquinteros/gotext: Go (Golang) GNU gettext 实用程序包](https://github.com/leonelquinteros/gotext) 
