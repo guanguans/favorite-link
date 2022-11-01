@@ -158,6 +158,9 @@
 
 
 
+
+### November 1, 2022 
+- [saeghe/saeghe: Saeghe 包管理器](https://github.com/saeghe/saeghe) 
 ### October 31, 2022 
 - [aglipanci/laravel-eloquent-case: Laravel 查询生成器的 CASE 语句支持。](https://github.com/aglipanci/laravel-eloquent-case) 
 - [leonelquinteros/gotext: Go (Golang) GNU gettext 实用程序包](https://github.com/leonelquinteros/gotext) 
