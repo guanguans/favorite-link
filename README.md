@@ -169,6 +169,7 @@
 - [fgrosse/PHPASN1: 使用 ITU-T X.690 编码规则对任意 ASN.1 结构进行编码和解码的 PHP 库。](https://github.com/FGrosse/PHPASN1) 
 - [web-auth/webauthn-framework: Webauthn 定义了一个 API，允许 Web 应用程序创建和使用强的、经过证明的、有范围的、基于公钥的凭据，以实现对用户的强身份验证。](https://github.com/web-auth/webauthn-framework) 
 - [fgrosse/goldi: Goldi: go 的惰性依赖注入框架。](https://github.com/fgrosse/goldi) 
+- [go-joe/joe: 一个受 Hubot 启发但用 Go 编写的通用机器人库。 🤖](https://github.com/go-joe/joe) 
 ### November 1, 2022 
 - [saeghe/saeghe: Saeghe 包管理器](https://github.com/saeghe/saeghe) 
 - [xemlock/php-latex: 用 PHP 编写的 LaTeX 解析器和渲染器](https://github.com/xemlock/php-latex) 
