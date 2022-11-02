@@ -159,6 +159,9 @@
 
 
 
+
+### November 2, 2022 
+- [yajra/laravel-datatables-editor: Laravel 数据表编辑器集成。](https://github.com/yajra/laravel-datatables-editor) 
 ### November 1, 2022 
 - [saeghe/saeghe: Saeghe 包管理器](https://github.com/saeghe/saeghe) 
 - [xemlock/php-latex: 用 PHP 编写的 LaTeX 解析器和渲染器](https://github.com/xemlock/php-latex) 
