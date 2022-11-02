@@ -164,6 +164,7 @@
 - [yajra/laravel-datatables-editor: Laravel 数据表编辑器集成。](https://github.com/yajra/laravel-datatables-editor) 
 - [envms/fluentpdo: 使用 PDO 的 PHP SQL 查询构建器](https://github.com/envms/fluentpdo) 
 - [magefile/mage: 一个使用 Go 的 Make/rake-like 开发工具](https://github.com/magefile/mage) 
+- [awslabs/git-secrets: 防止您将机密和凭据提交到 git 存储库中](https://github.com/awslabs/git-secrets) 
 ### November 1, 2022 
 - [saeghe/saeghe: Saeghe 包管理器](https://github.com/saeghe/saeghe) 
 - [xemlock/php-latex: 用 PHP 编写的 LaTeX 解析器和渲染器](https://github.com/xemlock/php-latex) 
