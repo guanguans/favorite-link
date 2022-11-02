@@ -167,6 +167,7 @@
 - [awslabs/git-secrets: 防止您将机密和凭据提交到 git 存储库中](https://github.com/awslabs/git-secrets) 
 - [ezeoleaf/larry: Larry 🐦 是一个机器人生成器，可以将来自不同提供商的内容发布到一个或多个发布者](https://github.com/ezeoleaf/larry) 
 - [fgrosse/PHPASN1: 使用 ITU-T X.690 编码规则对任意 ASN.1 结构进行编码和解码的 PHP 库。](https://github.com/FGrosse/PHPASN1) 
+- [web-auth/webauthn-framework: Webauthn 定义了一个 API，允许 Web 应用程序创建和使用强的、经过证明的、有范围的、基于公钥的凭据，以实现对用户的强身份验证。](https://github.com/web-auth/webauthn-framework) 
 ### November 1, 2022 
 - [saeghe/saeghe: Saeghe 包管理器](https://github.com/saeghe/saeghe) 
 - [xemlock/php-latex: 用 PHP 编写的 LaTeX 解析器和渲染器](https://github.com/xemlock/php-latex) 
