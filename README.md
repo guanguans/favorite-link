@@ -171,6 +171,7 @@
 - [fgrosse/goldi: Goldi: go 的惰性依赖注入框架。](https://github.com/fgrosse/goldi) 
 - [go-joe/joe: 一个受 Hubot 启发但用 Go 编写的通用机器人库。 🤖](https://github.com/go-joe/joe) 
 - [paragonie/easy-ecc: PHPECC 的高级可用性包装器](https://github.com/paragonie/easy-ecc) 
+- [asdf-vm/asdf: 管理多个运行环境版本的简单命令行工具](https://github.com/asdf-vm/asdf) 
 ### November 1, 2022 
 - [saeghe/saeghe: Saeghe 包管理器](https://github.com/saeghe/saeghe) 
 - [xemlock/php-latex: 用 PHP 编写的 LaTeX 解析器和渲染器](https://github.com/xemlock/php-latex) 
