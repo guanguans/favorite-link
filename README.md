@@ -166,6 +166,7 @@
 - [thecodingmachine/gotenberg-php-client: Gotenberg API 的 PHP 客户端](https://github.com/thecodingmachine/gotenberg-php-client) 
 - [alexjustesen/speedtest-tracker: peedtest Tracker 是一个自托管的互联网性能跟踪应用程序，它针对 Ookla 的 Speedtest 服务运行速度测试检查。 使用 Laravel 和 Speedtest CLI 构建。](https://github.com/alexjustesen/speedtest-tracker) 
 - [adhocore/fast: 直接从您的终端检查您的互联网速度/带宽。](https://github.com/adhocore/fast) 
+- [hashemirafsan/queryfilter: Laravel queryfilter 是一个简单而动态的包，用于在 laravel 中进行雄辩的查询。](https://github.com/hashemirafsan/queryfilter) 
 ### November 2, 2022 
 - [yajra/laravel-datatables-editor: Laravel 数据表编辑器集成。](https://github.com/yajra/laravel-datatables-editor) 
 - [envms/fluentpdo: 使用 PDO 的 PHP SQL 查询构建器](https://github.com/envms/fluentpdo) 
