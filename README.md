@@ -163,6 +163,7 @@
 
 ### November 3, 2022 
 - [solo-io/unik: Unikernel & MicroVM 编译部署平台](https://github.com/solo-io/unik) 
+- [thecodingmachine/gotenberg-php-client: Gotenberg API 的 PHP 客户端](https://github.com/thecodingmachine/gotenberg-php-client) 
 ### November 2, 2022 
 - [yajra/laravel-datatables-editor: Laravel 数据表编辑器集成。](https://github.com/yajra/laravel-datatables-editor) 
 - [envms/fluentpdo: 使用 PDO 的 PHP SQL 查询构建器](https://github.com/envms/fluentpdo) 
