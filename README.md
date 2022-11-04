@@ -165,6 +165,7 @@
 ### November 4, 2022 
 - [wangjia184/sortedset: 在 Golang 中实现的有序集合，在添加/搜索/删除时具有 O(log(N)) 时间复杂度](https://github.com/wangjia184/sortedset) 
 - [defstudio/pest-plugin-laravel-expectations: Pest Laravel Expectations插件](https://github.com/defstudio/pest-plugin-laravel-expectations) 
+- [grafana/phlare: 🔥 水平可扩展、高可用、多租户连续分析聚合系统](https://github.com/grafana/phlare) 
 ### November 3, 2022 
 - [solo-io/unik: Unikernel & MicroVM 编译部署平台](https://github.com/solo-io/unik) 
 - [thecodingmachine/gotenberg-php-client: Gotenberg API 的 PHP 客户端](https://github.com/thecodingmachine/gotenberg-php-client) 
