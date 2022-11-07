@@ -163,6 +163,9 @@
 
 
 
+
+### November 7, 2022 
+- [edwingeng/deque: 高度优化的双端队列](https://github.com/edwingeng/deque) 
 ### November 5, 2022 
 - [php-build/php-build: 构建 PHP，以便可以并行使用多个版本。](https://github.com/php-build/php-build) 
 ### November 4, 2022 
