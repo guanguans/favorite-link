@@ -168,6 +168,7 @@
 - [edwingeng/deque: 高度优化的双端队列](https://github.com/edwingeng/deque) 
 - [edwingeng/hotswap: Hotswap 为 go 语言代码热更提供了一套相当完整的解决方案，热更过程不会中断或阻塞任何执行中的函数，更不会重启服务器。](https://github.com/edwingeng/hotswap) 
 - [TimothyStiles/poly: 用于工程生物的 Go 包。](https://github.com/TimothyStiles/poly) 
+- [krowinski/php-mysql-replication: MySQL复制协议的纯PHP实现。](https://github.com/krowinski/php-mysql-replication) 
 ### November 5, 2022 
 - [php-build/php-build: 构建 PHP，以便可以并行使用多个版本。](https://github.com/php-build/php-build) 
 ### November 4, 2022 
