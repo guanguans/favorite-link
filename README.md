@@ -164,6 +164,9 @@
 
 
 
+
+### November 8, 2022 
+- [superseriousbusiness/gotosocial: 由 Go 提供支持的快速、有趣的 ActivityPub 服务器。](https://github.com/superseriousbusiness/gotosocial) 
 ### November 7, 2022 
 - [edwingeng/deque: 高度优化的双端队列](https://github.com/edwingeng/deque) 
 - [edwingeng/hotswap: Hotswap 为 go 语言代码热更提供了一套相当完整的解决方案，热更过程不会中断或阻塞任何执行中的函数，更不会重启服务器。](https://github.com/edwingeng/hotswap) 
