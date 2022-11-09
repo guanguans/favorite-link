@@ -172,6 +172,7 @@
 - [dive-be/php-enum-utils: 处理本机枚举时总是需要的那些实用程序。](https://github.com/dive-be/php-enum-utils) 
 - [sirn-se/phrity-util-errorhandler: 内联错误处理程序； 捕获并解决代码块的错误。](https://github.com/sirn-se/phrity-util-errorhandler) 
 - [thoas/go-funk: 一个现代的 Go 实用程序库，它提供了帮助程序（map、find、contains、filter、...）](https://github.com/thoas/go-funk) 
+- [openai-php/client: 与 OpenAI API 进行交互。](https://github.com/openai-php/client) 
 ### November 8, 2022 
 - [superseriousbusiness/gotosocial: 由 Go 提供支持的快速、有趣的 ActivityPub 服务器。](https://github.com/superseriousbusiness/gotosocial) 
 - [jenssegers/blade: 🔪 Laravel 的 Blade 模板引擎的独立版本，可在 Laravel 之外使用。](https://github.com/jenssegers/blade) 
