@@ -169,6 +169,7 @@
 ### November 9, 2022 
 - [vrkansagara/LaraOutPress: 这只是将您的最终结果从 Larvel 应用程序中压缩出来并提供给浏览器。](https://github.com/vrkansagara/LaraOutPress) 
 - [daangn/autopprof: Automatically profile the Go applications when CPU or memory utilization crosses threshold](https://github.com/daangn/autopprof) 
+- [dive-be/php-enum-utils: 处理本机枚举时总是需要的那些实用程序。](https://github.com/dive-be/php-enum-utils) 
 ### November 8, 2022 
 - [superseriousbusiness/gotosocial: 由 Go 提供支持的快速、有趣的 ActivityPub 服务器。](https://github.com/superseriousbusiness/gotosocial) 
 - [jenssegers/blade: 🔪 Laravel 的 Blade 模板引擎的独立版本，可在 Laravel 之外使用。](https://github.com/jenssegers/blade) 
