@@ -171,6 +171,7 @@
 - [digitaldonkey/ethereum-php: 以太坊 JSON-RPC API 的 PHP 接口。](https://github.com/digitaldonkey/ethereum-php) 
 - [mtownsend5512/remove-bg: 使用 remove.bg api 以编程方式从图像中删除背景](https://github.com/mtownsend5512/remove-bg) 
 - [hyperonym/ratus: Ratus 是一个 RESTful 异步任务队列服务器。](https://github.com/hyperonym/ratus) 
+- [bufbuild/connect-go: 简单、可靠、可互操作。 更好的 gRPC。](https://github.com/bufbuild/connect-go) 
 ### November 9, 2022 
 - [vrkansagara/LaraOutPress: 这只是将您的最终结果从 Larvel 应用程序中压缩出来并提供给浏览器。](https://github.com/vrkansagara/LaraOutPress) 
 - [daangn/autopprof: Automatically profile the Go applications when CPU or memory utilization crosses threshold](https://github.com/daangn/autopprof) 
