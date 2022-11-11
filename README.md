@@ -167,6 +167,9 @@
 
 
 
+
+### November 11, 2022 
+- [ddworken/hishtory: 您的 shell 历史记录：已同步、可查询且在上下文中](https://github.com/ddworken/hishtory) 
 ### November 10, 2022 
 - [digitaldonkey/ethereum-php: 以太坊 JSON-RPC API 的 PHP 接口。](https://github.com/digitaldonkey/ethereum-php) 
 - [mtownsend5512/remove-bg: 使用 remove.bg api 以编程方式从图像中删除背景](https://github.com/mtownsend5512/remove-bg) 
