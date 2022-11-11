@@ -172,6 +172,7 @@
 - [ddworken/hishtory: 您的 shell 历史记录：已同步、可查询且在上下文中](https://github.com/ddworken/hishtory) 
 - [liamg/grace: 这是 strace，有颜色。](https://github.com/liamg/grace) 
 - [zitadel/zitadel: \ZITADEL - Auth0 和 Keycloak 的最佳组合。 专为无服务器时代打造。](https://github.com/zitadel/zitadel) 
+- [binwiederhier/ntfy: 使用 PUT/POST 将推送通知发送到您的手机或桌面](https://github.com/binwiederhier/ntfy) 
 ### November 10, 2022 
 - [digitaldonkey/ethereum-php: 以太坊 JSON-RPC API 的 PHP 接口。](https://github.com/digitaldonkey/ethereum-php) 
 - [mtownsend5512/remove-bg: 使用 remove.bg api 以编程方式从图像中删除背景](https://github.com/mtownsend5512/remove-bg) 
