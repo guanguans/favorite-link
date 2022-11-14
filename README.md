@@ -171,6 +171,7 @@
 
 ### November 14, 2022 
 - [yaroslavche/BitMask: 使用位掩码的 PHP 库](https://github.com/yaroslavche/BitMask) 
+- [kolossal-io/laravel-multiplex: 一个 Laravel 包，将时间片元数据附加到 Eloquent 模型。](https://github.com/kolossal-io/laravel-multiplex) 
 ### November 11, 2022 
 - [ddworken/hishtory: 您的 shell 历史记录：已同步、可查询且在上下文中](https://github.com/ddworken/hishtory) 
 - [liamg/grace: 这是 strace，有颜色。](https://github.com/liamg/grace) 
