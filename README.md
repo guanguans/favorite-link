@@ -172,6 +172,7 @@
 
 ### November 15, 2022 
 - [nidorx/go-bench-viewer: 简单直观的基准测试结果查看器。](https://github.com/nidorx/go-bench-viewer) 
+- [containerd/ttrpc: 低内存环境的 GRPC](https://github.com/containerd/ttrpc) 
 ### November 14, 2022 
 - [yaroslavche/BitMask: 使用位掩码的 PHP 库](https://github.com/yaroslavche/BitMask) 
 - [kolossal-io/laravel-multiplex: 一个 Laravel 包，将时间片元数据附加到 Eloquent 模型。](https://github.com/kolossal-io/laravel-multiplex) 
