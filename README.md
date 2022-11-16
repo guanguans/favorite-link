@@ -173,6 +173,7 @@
 
 ### November 16, 2022 
 - [php-http/multipart-stream-builder:  从任何 PSR7流实现独立构建多部分流](https://github.com/php-http/multipart-stream-builder) 
+- [gosuri/uitable: 使用表格数据提高终端应用程序可读性的 Go 库](https://github.com/gosuri/uitable) 
 ### November 15, 2022 
 - [nidorx/go-bench-viewer: 简单直观的基准测试结果查看器。](https://github.com/nidorx/go-bench-viewer) 
 - [containerd/ttrpc: 低内存环境的 GRPC](https://github.com/containerd/ttrpc) 
