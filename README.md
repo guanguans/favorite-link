@@ -175,6 +175,7 @@
 - [php-http/multipart-stream-builder:  从任何 PSR7流实现独立构建多部分流](https://github.com/php-http/multipart-stream-builder) 
 - [gosuri/uitable: 使用表格数据提高终端应用程序可读性的 Go 库](https://github.com/gosuri/uitable) 
 - [project-zot/zot: Zot-一个生产就绪的供应商中立的 OCI 本地容器映像注册表(纯粹基于 OCI 分发规范)](https://github.com/project-zot/zot) 
+- [arcanisgk/Date-Validator: 对于给定的日期时间、日期或时间字符串变量，格式验证是正确的。](https://github.com/arcanisgk/Date-Validator) 
 ### November 15, 2022 
 - [nidorx/go-bench-viewer: 简单直观的基准测试结果查看器。](https://github.com/nidorx/go-bench-viewer) 
 - [containerd/ttrpc: 低内存环境的 GRPC](https://github.com/containerd/ttrpc) 
