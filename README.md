@@ -179,6 +179,7 @@
 - [Andrew-M-C/go.jsonvalue: 映射[ string ] interface {}的更好的替换 JSON](https://github.com/Andrew-M-C/go.jsonvalue) 
 - [acln0/zerocopy: 用于Go的零拷贝I/O原语和管道。linux特有的。](https://github.com/acln0/zerocopy) 
 - [mariosimao/notion-sdk-php: 面向 PHP 开发人员的完整 NotionSDK。](https://github.com/mariosimao/notion-sdk-php) 
+- [verot/class.upload.php: 这个 PHP 类非常容易地上传文件和操作图像。](https://github.com/verot/class.upload.php) 
 ### November 16, 2022 
 - [php-http/multipart-stream-builder:  从任何 PSR7流实现独立构建多部分流](https://github.com/php-http/multipart-stream-builder) 
 - [gosuri/uitable: 使用表格数据提高终端应用程序可读性的 Go 库](https://github.com/gosuri/uitable) 
