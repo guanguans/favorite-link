@@ -177,6 +177,7 @@
 - [xujiajun/godbal: 资料库抽象层(dbal) ，支持 SQL 编译器，并且很容易得到结果(现在只支持 mysql)](https://github.com/xujiajun/godbal/tree/master) 
 - [c-robinson/iplib: 在 Go 中使用 IP 地址和网络的库](https://github.com/c-robinson/iplib) 
 - [Andrew-M-C/go.jsonvalue: 映射[ string ] interface {}的更好的替换 JSON](https://github.com/Andrew-M-C/go.jsonvalue) 
+- [acln0/zerocopy: 用于Go的零拷贝I/O原语和管道。linux特有的。](https://github.com/acln0/zerocopy) 
 ### November 16, 2022 
 - [php-http/multipart-stream-builder:  从任何 PSR7流实现独立构建多部分流](https://github.com/php-http/multipart-stream-builder) 
 - [gosuri/uitable: 使用表格数据提高终端应用程序可读性的 Go 库](https://github.com/gosuri/uitable) 
