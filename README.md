@@ -171,6 +171,9 @@
 
 
 
+
+### November 17, 2022 
+- [siddhantac/puffin: 一个简单的 Go TUI 来管理个人财务(使用 hledger)](https://github.com/siddhantac/puffin) 
 ### November 16, 2022 
 - [php-http/multipart-stream-builder:  从任何 PSR7流实现独立构建多部分流](https://github.com/php-http/multipart-stream-builder) 
 - [gosuri/uitable: 使用表格数据提高终端应用程序可读性的 Go 库](https://github.com/gosuri/uitable) 
