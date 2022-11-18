@@ -178,6 +178,7 @@
 - [phper-framework/phper: 这个框架允许我们尽可能使用纯粹和安全的 Rust 编写 PHP 扩展。](https://github.com/phper-framework/phper) 
 - [alecrabbit/php-console-colour: 控制台输出着色。](https://github.com/alecrabbit/php-console-colour) 
 - [warpdotdev/Warp: Warp 是一个极其快速的基于 Rust 的 GPU 加速终端](https://github.com/warpdotdev/Warp) 
+- [shufo/blade-formatter: Laravel的一个尊重可读性的有主见的刀片模板格式化器](https://github.com/shufo/blade-formatter) 
 ### November 17, 2022 
 - [siddhantac/puffin: 一个简单的 Go TUI 来管理个人财务(使用 hledger)](https://github.com/siddhantac/puffin) 
 - [xujiajun/godbal: 资料库抽象层(dbal) ，支持 SQL 编译器，并且很容易得到结果(现在只支持 mysql)](https://github.com/xujiajun/godbal/tree/master) 
