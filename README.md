@@ -179,6 +179,7 @@
 - [ckaznocha/protoc-gen-lint: ckaznocha/protoc-gen-lint: Google 协议缓冲区 (protobufs) 编译器的插件，用于检查 .proto 文件是否存在样式违规。](https://github.com/ckaznocha/protoc-gen-lint) 
 - [wneessen/go-mail: 📧 易于使用，但使用 Go 发送邮件的综合库](https://github.com/wneessen/go-mail) 
 - [antonmedv/llama: 终端文件管理器](https://github.com/antonmedv/llama) 
+- [Landish/pingcrm-react: 一个演示应用程序，用于说明 Inertia.js 如何与 Laravel 和 React 一起工作](https://github.com/Landish/pingcrm-react) 
 ### November 18, 2022 
 - [wangfreexx/wangfreexx-tianruoocr-cl-paddle: 天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle) 
 - [phper-framework/phper: 这个框架允许我们尽可能使用纯粹和安全的 Rust 编写 PHP 扩展。](https://github.com/phper-framework/phper) 
