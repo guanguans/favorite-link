@@ -182,6 +182,7 @@
 - [maaslalani/nap: 终端中的代码片段🛌](https://github.com/maaslalani/nap) 
 - [maaslalani/gambit: 在你的终端下棋](https://github.com/maaslalani/gambit) 
 - [maaslalani/gambit: 在你的终端下棋](https://github.com/maaslalani/gambit) 
+- [dmester/jdenticon-php: 用于生成 PNG 和 SVG 标识的 PHP 库。](https://github.com/dmester/jdenticon-php) 
 ### November 21, 2022 
 - [bbrks/go-blurhash: Blurhash 的纯 Go 实现](https://github.com/bbrks/go-blurhash) 
 - [ckaznocha/protoc-gen-lint: ckaznocha/protoc-gen-lint: Google 协议缓冲区 (protobufs) 编译器的插件，用于检查 .proto 文件是否存在样式违规。](https://github.com/ckaznocha/protoc-gen-lint) 
