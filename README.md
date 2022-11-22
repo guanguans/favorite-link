@@ -184,6 +184,7 @@
 - [maaslalani/gambit: 在你的终端下棋](https://github.com/maaslalani/gambit) 
 - [dmester/jdenticon-php: 用于生成 PNG 和 SVG 标识的 PHP 库。](https://github.com/dmester/jdenticon-php) 
 - [eryajf/Thanks-Mirror: 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像](https://github.com/eryajf/Thanks-Mirror) 
+- [mvdan/unparam: 在 Go 中查找未使用的参数](https://github.com/mvdan/unparam) 
 ### November 21, 2022 
 - [bbrks/go-blurhash: Blurhash 的纯 Go 实现](https://github.com/bbrks/go-blurhash) 
 - [ckaznocha/protoc-gen-lint: ckaznocha/protoc-gen-lint: Google 协议缓冲区 (protobufs) 编译器的插件，用于检查 .proto 文件是否存在样式违规。](https://github.com/ckaznocha/protoc-gen-lint) 
