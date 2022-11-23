@@ -175,6 +175,9 @@
 
 
 
+
+### November 23, 2022 
+- [awssat/laravel-kabsa: Laravel Kabsa 是 Eloquent 模型的简单数组特性，就像没有 SQLite 的 calebporzio/sushi](https://github.com/awssat/laravel-kabsa) 
 ### November 22, 2022 
 - [shurcooL-deprecated/go-goon: 一个带有 Go-like 符号的深度漂亮打印机。它实现了 Goon 规范。](https://github.com/shurcooL-deprecated/go-goon) 
 - [alecthomas/repr: 这个包试图以一种几乎可以直接在 Go 源代码中使用的形式来表示 Go 值。](https://github.com/alecthomas/repr) 
