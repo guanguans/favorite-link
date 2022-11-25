@@ -184,6 +184,7 @@
 - [NishanthSpShetty/lignum: 分布式消息队列。](https://github.com/NishanthSpShetty/lignum) 
 - [google/oss-fuzz: 开源软件的连续模糊测试。](https://github.com/google/oss-fuzz) 
 - [immersive-translate/immersive-translate: 沉浸式翻译扩展(双语对照）](https://github.com/immersive-translate/immersive-translate) 
+- [dogsheep/github-to-sqlite: 将数据从 GitHub 保存到 SQLite 数据库](https://github.com/dogsheep/github-to-sqlite) 
 ### November 24, 2022 
 - [alexflint/go-arg: Go 中基于结构的参数解析](https://github.com/alexflint/go-arg) 
 ### November 23, 2022 
