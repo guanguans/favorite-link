@@ -177,6 +177,9 @@
 
 
 
+
+### November 25, 2022 
+- [Z3d0X/filament-logger: Extensible activity logger for filament that works out-of-the-box.](https://github.com/Z3d0X/filament-logger) 
 ### November 24, 2022 
 - [alexflint/go-arg: Go 中基于结构的参数解析](https://github.com/alexflint/go-arg) 
 ### November 23, 2022 
