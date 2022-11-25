@@ -187,6 +187,7 @@
 - [dogsheep/github-to-sqlite: 将数据从 GitHub 保存到 SQLite 数据库](https://github.com/dogsheep/github-to-sqlite) 
 - [major/MySQLTuner-perl: MySQLTuner 是一个用 Perl 编写的脚本，它将帮助您进行 MySQL 配置并提出提高性能和稳定性的建议。](https://github.com/major/MySQLTuner-perl) 
 - [major/MySQLTuner-perl: MySQLTuner 是一个用 Perl 编写的脚本，它将帮助您进行 MySQL 配置并提出提高性能和稳定性的建议。](https://github.com/major/MySQLTuner-perl) 
+- [dominikh/gotraceui: Go 执行跟踪前端](https://github.com/dominikh/gotraceui) 
 ### November 24, 2022 
 - [alexflint/go-arg: Go 中基于结构的参数解析](https://github.com/alexflint/go-arg) 
 ### November 23, 2022 
