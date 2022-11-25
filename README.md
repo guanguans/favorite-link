@@ -182,6 +182,7 @@
 - [Z3d0X/filament-logger: Extensible activity logger for filament that works out-of-the-box.](https://github.com/Z3d0X/filament-logger) 
 - [aler9/rtsp-simple-server: 即用型 RTSP / RTMP / LL-HLS 服务器和代理，允许读取、发布和代理视频和音频流](https://github.com/aler9/rtsp-simple-server) 
 - [NishanthSpShetty/lignum: 分布式消息队列。](https://github.com/NishanthSpShetty/lignum) 
+- [google/oss-fuzz: 开源软件的连续模糊测试。](https://github.com/google/oss-fuzz) 
 ### November 24, 2022 
 - [alexflint/go-arg: Go 中基于结构的参数解析](https://github.com/alexflint/go-arg) 
 ### November 23, 2022 
