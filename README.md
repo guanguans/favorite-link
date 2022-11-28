@@ -185,6 +185,7 @@
 - [golang-design/hotkey: Go中的跨平台热键包](https://github.com/golang-design/hotkey) 
 - [golang-design/clipboard: 📋 跨平台剪贴板包，支持在 Go 中访问文本和图像](https://github.com/golang-design/clipboard) 
 - [ergebnis/clock: ⏰ 提供时钟的简单抽象。](https://github.com/ergebnis/clock) 
+- [LaravelDaily/Larastarters: 用于安装具有非常规不同设计主题的常规 Laravel 入门套件的软件包。](https://github.com/LaravelDaily/Larastarters/tree/main) 
 ### November 26, 2022 
 - [geocoder-php/GeocoderLaravel: Laravel 地理编码器服务提供商](https://github.com/geocoder-php/GeocoderLaravel) 
 - [VanOns/laraberg: 一个用于 Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
