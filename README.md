@@ -189,6 +189,7 @@
 - [santigarcor/laratrust: 处理 Laravel 应用程序中的角色和权限](https://github.com/santigarcor/laratrust) 
 - [cybercog/laravel-ban: cybercog/laravel-ban: Laravel Ban 简化了阻止和禁止 Eloquent 模型。](https://github.com/cybercog/laravel-ban) 
 - [rappasoft/laravel-authentication-log: 记录用户身份验证详细信息并发送新设备通知。](https://github.com/rappasoft/laravel-authentication-log) 
+- [rappasoft/lockout: 将你的 Laravel 应用程序设置为只读模式。](https://github.com/rappasoft/lockout/tree/master) 
 ### November 26, 2022 
 - [geocoder-php/GeocoderLaravel: Laravel 地理编码器服务提供商](https://github.com/geocoder-php/GeocoderLaravel) 
 - [VanOns/laraberg: 一个用于 Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
