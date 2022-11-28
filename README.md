@@ -182,6 +182,7 @@
 
 ### November 28, 2022 
 - [GyulyVGC/sniffnet: 跨平台应用程序可轻松监控您的网络流量](https://github.com/GyulyVGC/sniffnet) 
+- [golang-design/hotkey: Go中的跨平台热键包](https://github.com/golang-design/hotkey) 
 ### November 26, 2022 
 - [geocoder-php/GeocoderLaravel: Laravel 地理编码器服务提供商](https://github.com/geocoder-php/GeocoderLaravel) 
 - [VanOns/laraberg: 一个用于 Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
