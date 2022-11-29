@@ -180,6 +180,9 @@
 
 
 
+
+### November 29, 2022 
+- [laravie/serialize-queries: 可序列化的 Laravel 查询生成器](https://github.com/laravie/serialize-queries) 
 ### November 28, 2022 
 - [GyulyVGC/sniffnet: 跨平台应用程序可轻松监控您的网络流量](https://github.com/GyulyVGC/sniffnet) 
 - [golang-design/hotkey: Go中的跨平台热键包](https://github.com/golang-design/hotkey) 
