@@ -185,6 +185,7 @@
 - [laravie/serialize-queries: 可序列化的 Laravel 查询生成器](https://github.com/laravie/serialize-queries) 
 - [costela/wesher: Wireguard 覆盖网状网络管理器](https://github.com/costela/wesher) 
 - [beringresearch/macpine: MacOS 上的轻量级 Linux VM](https://github.com/beringresearch/macpine) 
+- [github/go-pipe: 用于在 Go 应用程序中轻松构建管道的包](https://github.com/github/go-pipe) 
 ### November 28, 2022 
 - [GyulyVGC/sniffnet: 跨平台应用程序可轻松监控您的网络流量](https://github.com/GyulyVGC/sniffnet) 
 - [golang-design/hotkey: Go中的跨平台热键包](https://github.com/golang-design/hotkey) 
