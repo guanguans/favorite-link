@@ -185,6 +185,7 @@
 ### November 30, 2022 
 - [cedricblondeau/world-cup-2022-cli-dashboard: 在您的终端中观看 2022 年世界杯直播比赛。 ⚽🏆](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) 
 - [rs/dnscache: Go 的 DNS 查找缓存](https://github.com/rs/dnscache) 
+- [jhillyerd/enmime: Go的MIME邮件编解码包](https://github.com/jhillyerd/enmime) 
 ### November 29, 2022 
 - [laravie/serialize-queries: 可序列化的 Laravel 查询生成器](https://github.com/laravie/serialize-queries) 
 - [costela/wesher: Wireguard 覆盖网状网络管理器](https://github.com/costela/wesher) 
