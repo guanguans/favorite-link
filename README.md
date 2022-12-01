@@ -186,6 +186,7 @@
 ### December 1, 2022 
 - [ArielMejiaDev/larapex-charts: A Laravel wrapper for apex charts](https://github.com/ArielMejiaDev/larapex-charts) 
 - [0x7c13/Notepads: 具有简约设计的现代轻量级文本编辑器。](https://github.com/0x7c13/Notepads) 
+- [SkewwG/henggeFish: 自动化批量发送钓鱼邮件（横戈安全团队出品）](https://github.com/SkewwG/henggeFish) 
 ### November 30, 2022 
 - [cedricblondeau/world-cup-2022-cli-dashboard: 在您的终端中观看 2022 年世界杯直播比赛。 ⚽🏆](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) 
 - [rs/dnscache: Go 的 DNS 查找缓存](https://github.com/rs/dnscache) 
