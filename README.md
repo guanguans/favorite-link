@@ -182,6 +182,9 @@
 
 
 
+
+### December 1, 2022 
+- [ArielMejiaDev/larapex-charts: A Laravel wrapper for apex charts](https://github.com/ArielMejiaDev/larapex-charts) 
 ### November 30, 2022 
 - [cedricblondeau/world-cup-2022-cli-dashboard: 在您的终端中观看 2022 年世界杯直播比赛。 ⚽🏆](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) 
 - [rs/dnscache: Go 的 DNS 查找缓存](https://github.com/rs/dnscache) 
