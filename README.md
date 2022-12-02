@@ -187,6 +187,7 @@
 ### December 2, 2022 
 - [crillab/gophersat: Gophersat，一个用 Go 编写的 SAT 和伪布尔求解器](https://github.com/crillab/gophersat) 
 - [edoardottt/csprecon: 使用内容安全策略发现新的目标域](https://github.com/edoardottt/csprecon) 
+- [jellydator/ttlcache: 具有项目过期和泛型的内存缓存](https://github.com/jellydator/ttlcache) 
 ### December 1, 2022 
 - [ArielMejiaDev/larapex-charts: A Laravel wrapper for apex charts](https://github.com/ArielMejiaDev/larapex-charts) 
 - [0x7c13/Notepads: 具有简约设计的现代轻量级文本编辑器。](https://github.com/0x7c13/Notepads) 
