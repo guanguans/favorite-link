@@ -190,6 +190,7 @@
 - [jellydator/ttlcache: 具有项目过期和泛型的内存缓存](https://github.com/jellydator/ttlcache) 
 - [claudiodekker/laravel-auth: Laravel 应用程序的丰富身份验证逻辑； 不适合直接使用。](https://github.com/claudiodekker/laravel-auth) 
 - [motomedialab/laravel-vite-helper: 一种生成绝对资产 URL 到 Vite 资产的辅助方法](https://github.com/motomedialab/laravel-vite-helper) 
+- [picqer/php-barcode-generator: PHP 中的条形码生成器](https://github.com/picqer/php-barcode-generator) 
 ### December 1, 2022 
 - [ArielMejiaDev/larapex-charts: A Laravel wrapper for apex charts](https://github.com/ArielMejiaDev/larapex-charts) 
 - [0x7c13/Notepads: 具有简约设计的现代轻量级文本编辑器。](https://github.com/0x7c13/Notepads) 
