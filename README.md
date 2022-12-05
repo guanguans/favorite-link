@@ -184,6 +184,9 @@
 
 
 
+
+### December 5, 2022 
+- [rabbitstack/fibratus: 一个以安全为重点的 Windows 内核探索和跟踪的现代工具](https://github.com/rabbitstack/fibratus) 
 ### December 2, 2022 
 - [crillab/gophersat: Gophersat，一个用 Go 编写的 SAT 和伪布尔求解器](https://github.com/crillab/gophersat) 
 - [edoardottt/csprecon: 使用内容安全策略发现新的目标域](https://github.com/edoardottt/csprecon) 
