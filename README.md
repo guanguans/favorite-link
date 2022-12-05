@@ -190,6 +190,7 @@
 - [m110/airplanes: 使用 Go、Ebitengine 和 donburi 制作的 2D 射击游戏。 具有 ECS（实体组件系统）。](https://github.com/m110/airplanes) 
 - [PayMeService/remotisan: 远程执行和管理 Artisan 命令](https://github.com/PayMeService/remotisan) 
 - [stackblitz/webcontainer-core: 该存储库充当 WebContainer™ 工作组的协调点。](https://github.com/stackblitz/webcontainer-core) 
+- [johnkerl/miller: Miller 类似于 awk、sed、cut、join 和 sort，用于 CSV、TSV 和表格 JSON 等名称索引数据](https://github.com/johnkerl/miller) 
 ### December 2, 2022 
 - [crillab/gophersat: Gophersat，一个用 Go 编写的 SAT 和伪布尔求解器](https://github.com/crillab/gophersat) 
 - [edoardottt/csprecon: 使用内容安全策略发现新的目标域](https://github.com/edoardottt/csprecon) 
