@@ -188,6 +188,7 @@
 ### December 5, 2022 
 - [rabbitstack/fibratus: 一个以安全为重点的 Windows 内核探索和跟踪的现代工具](https://github.com/rabbitstack/fibratus) 
 - [m110/airplanes: 使用 Go、Ebitengine 和 donburi 制作的 2D 射击游戏。 具有 ECS（实体组件系统）。](https://github.com/m110/airplanes) 
+- [PayMeService/remotisan: 远程执行和管理 Artisan 命令](https://github.com/PayMeService/remotisan) 
 ### December 2, 2022 
 - [crillab/gophersat: Gophersat，一个用 Go 编写的 SAT 和伪布尔求解器](https://github.com/crillab/gophersat) 
 - [edoardottt/csprecon: 使用内容安全策略发现新的目标域](https://github.com/edoardottt/csprecon) 
