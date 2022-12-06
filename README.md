@@ -190,6 +190,7 @@
 - [m1guelpf/chatgpt-telegram: 使用一个命令运行您自己的 GPTChat Telegram 机器人！](https://github.com/m1guelpf/chatgpt-telegram) 
 - [moby/ipvs: 容器的 IPVS 网络（从 moby/libnetwork 派生的包）](https://github.com/moby/ipvs) 
 - [PullRequestInc/go-gpt3: 一个 OpenAI GPT-3 API 客户端，支持 Go/Golang 程序与 gpt3 API 交互。](https://github.com/PullRequestInc/go-gpt3) 
+- [orhanerday/open-ai: 用于访问OpenAI GPT-3 API的PHP SDK](https://github.com/orhanerday/open-ai) 
 ### December 5, 2022 
 - [rabbitstack/fibratus: 一个以安全为重点的 Windows 内核探索和跟踪的现代工具](https://github.com/rabbitstack/fibratus) 
 - [m110/airplanes: 使用 Go、Ebitengine 和 donburi 制作的 2D 射击游戏。 具有 ECS（实体组件系统）。](https://github.com/m110/airplanes) 
