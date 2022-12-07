@@ -189,6 +189,7 @@
 
 ### December 7, 2022 
 - [go-faker/faker: Go (Golang) 用于结构的假数据生成器](https://github.com/go-faker/faker) 
+- [rjeczalik/notify: 类型化的文件系统事件通知库。](https://github.com/rjeczalik/notify) 
 ### December 6, 2022 
 - [m1guelpf/chatgpt-telegram: 使用一个命令运行您自己的 GPTChat Telegram 机器人！](https://github.com/m1guelpf/chatgpt-telegram) 
 - [moby/ipvs: 容器的 IPVS 网络（从 moby/libnetwork 派生的包）](https://github.com/moby/ipvs) 
