@@ -190,6 +190,7 @@
 
 ### December 8, 2022 
 - [akrylysov/pogreb: 用 Go 编写(写)的重读工作负载的嵌入式键值存储](https://github.com/akrylysov/pogreb) 
+- [Wanchaochao/laravel-repository: laravel repository, 基于Eloquent Model二次封装, 抛弃传统的链式调用, 让代码更简洁, 使用更直观的数组来操作model](https://github.com/Wanchaochao/laravel-repository) 
 ### December 7, 2022 
 - [go-faker/faker: Go (Golang) 用于结构的假数据生成器](https://github.com/go-faker/faker) 
 - [rjeczalik/notify: 类型化的文件系统事件通知库。](https://github.com/rjeczalik/notify) 
