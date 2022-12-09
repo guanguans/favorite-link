@@ -188,6 +188,9 @@
 
 
 
+
+### December 9, 2022 
+- [wuchangming/chat-gpt-ask-question-engineer-handbook: 🤖️ChatGPT 提问工程师开发指南](https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook) 
 ### December 8, 2022 
 - [akrylysov/pogreb: 用 Go 编写(写)的重读工作负载的嵌入式键值存储](https://github.com/akrylysov/pogreb) 
 - [Wanchaochao/laravel-repository: laravel repository, 基于Eloquent Model二次封装, 抛弃传统的链式调用, 让代码更简洁, 使用更直观的数组来操作model](https://github.com/Wanchaochao/laravel-repository) 
