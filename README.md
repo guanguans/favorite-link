@@ -192,6 +192,7 @@
 
 ### December 12, 2022 
 - [ymz-ncnk/musgo: 为 Golang 提供序列化和验证支持](https://github.com/ymz-ncnk/musgo) 
+- [WendellAdriel/laravel-validated-dto: 具有 Laravel 应用程序验证的数据传输对象](https://github.com/WendellAdriel/laravel-validated-dto) 
 ### December 9, 2022 
 - [wuchangming/chat-gpt-ask-question-engineer-handbook: 🤖️ChatGPT 提问工程师开发指南](https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook) 
 ### December 8, 2022 
