@@ -191,6 +191,9 @@
 
 
 
+
+### December 14, 2022 
+- [PlexPt/chatgpt-java: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.](https://github.com/PlexPt/chatgpt-java) 
 ### December 13, 2022 
 - [bbdshow/qelog: 轻量级、高性能、低成本的日志记录服务。 支持告警、指标（公制）统计、快速查询、访问等](https://github.com/bbdshow/qelog) 
 - [fruitl00p/php-mt940: php-mt940 包为 SWIFT (斯威夫特) 使用的 MT940 格式提供了一个轻量级解析器。 输出被转换（转换）为易于使用的数据类 Transaction_banking，它本身包含 Statement_banking 对象。](https://github.com/fruitl00p/php-mt940) 
