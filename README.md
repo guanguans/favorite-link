@@ -199,6 +199,7 @@
 - [igaster/laravel_cities: 查找世界上任何国家/城市。获取 Long/Lat 等。](https://github.com/igaster/laravel_cities) 
 - [peazip/PeaZip: 免费的 Zip/Unzip 软件和 Rar 文件提取器。跨平台文件和归档管理器。](https://github.com/peazip/PeaZip) 
 - [compwright/php-session: 不依赖 PHP 会话模块或 $_ SESSION 全局的独立会话实现，非常适合 Swole 或 ReactPHP 应用程序](https://github.com/compwright/php-session) 
+- [TomasVotruba/type-coverage: PHPStan 扩展需要最小的类型覆盖](https://github.com/TomasVotruba/type-coverage) 
 ### December 16, 2022 
 - [golang/vuln: Go漏洞数据库的数据库客户端和工具](https://github.com/golang/vuln) 
 - [brendt/php-sparkline: 用 PHP 生成 GitHub 风格的闪烁线图(图)](https://github.com/brendt/php-sparkline) 
