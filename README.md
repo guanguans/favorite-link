@@ -203,6 +203,7 @@
 - [chainguard-images/images: 公共链卫图像](https://github.com/chainguard-images/images) 
 - [worksome/coding-style: 有效的编程风格](https://github.com/worksome/coding-style) 
 - [worksome/request-factories: 在 Laravel 的测试请求没有所有的样板。](https://github.com/worksome/request-factories) 
+- [worksome/verify-by-phone: 用于通过呼叫或短信验证用户的包](https://github.com/worksome/verify-by-phone) 
 ### December 21, 2022 
 - [mr-karan/barreldb: 基于磁盘的 KV 存储（基于 Bitcask 实现）](https://github.com/mr-karan/barreldb) 
 - [sarven/unit-testing-tips: PHP 中示例的单元测试技巧](https://github.com/sarven/unit-testing-tips) 
