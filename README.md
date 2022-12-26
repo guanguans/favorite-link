@@ -203,6 +203,7 @@
 - [xtaci/tcpraw: 通过 TCP 发送数据包](https://github.com/xtaci/tcpraw) 
 - [php-sage/sage: ☯ 有见地的PHP调试助手](https://github.com/php-sage/sage) 
 - [go-sonic/sonic: Sonic 是 Go 开发的一个博客平台，简单而强大](https://github.com/go-sonic/sonic) 
+- [vanilophp/framework: 真正的 Laravel 电子商务框架](https://github.com/vanilophp/framework) 
 ### December 22, 2022 
 - [zinmyoswe/Laravel-Ecommerce: 用 Laravel 6和 VueJS 构建的 Laravel 电子商务网站](https://github.com/zinmyoswe/Laravel-Ecommerce) 
 - [awcodes/filament-badgeable-column: 带徽章的长丝表柱。](https://github.com/awcodes/filament-badgeable-column) 
