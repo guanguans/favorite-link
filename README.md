@@ -202,6 +202,7 @@
 ### December 27, 2022 
 - [andrewdwallo/erpsaas: 使用 Filament 的 ERP 软件系统](https://github.com/andrewdwallo/erpsaas) 
 - [gobuffalo/flect: gobuffalo/flect: golang 的词形变化引擎](https://github.com/gobuffalo/flect) 
+- [jinzhu/inflection: 复数和单数英语名词](https://github.com/jinzhu/inflection) 
 ### December 26, 2022 
 - [aliyun/aliyun-oss-php-sdk: 阿里云OSS SDK for PHP](https://github.com/aliyun/aliyun-oss-php-sdk) 
 - [xtaci/tcpraw: 通过 TCP 发送数据包](https://github.com/xtaci/tcpraw) 
