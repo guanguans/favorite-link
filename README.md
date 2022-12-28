@@ -203,6 +203,7 @@
 ### December 28, 2022 
 - [iksaku/laravel-mass-update: 更新多个 Laravel 模型记录，每个记录都有自己的一组值，向您的数据库发送一个查询！](https://github.com/iksaku/laravel-mass-update) 
 - [ihor/NSPL: 非标准 PHP 库 - 功能基元工具箱等](https://github.com/ihor/NSPL) 
+- [phppgadmin/phppgadmin: 用于 postgresql 的主要基于 Web 的管理工具](https://github.com/phppgadmin/phppgadmin) 
 ### December 27, 2022 
 - [andrewdwallo/erpsaas: 使用 Filament 的 ERP 软件系统](https://github.com/andrewdwallo/erpsaas) 
 - [gobuffalo/flect: gobuffalo/flect: golang 的词形变化引擎](https://github.com/gobuffalo/flect) 
