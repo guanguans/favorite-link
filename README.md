@@ -204,6 +204,7 @@
 ### December 29, 2022 
 - [iximiuz/cdebug: 容器调试的瑞士军刀](https://github.com/iximiuz/cdebug) 
 - [smallnest/network_benchmark: 3百万QPS benchmark测试](https://github.com/smallnest/network_benchmark) 
+- [flier/gohs: Hyperscan 是一种软件正则表达式匹配引擎，在设计时考虑了高性能和灵活性。](https://github.com/flier/gohs) 
 ### December 28, 2022 
 - [iksaku/laravel-mass-update: 更新多个 Laravel 模型记录，每个记录都有自己的一组值，向您的数据库发送一个查询！](https://github.com/iksaku/laravel-mass-update) 
 - [ihor/NSPL: 非标准 PHP 库 - 功能基元工具箱等](https://github.com/ihor/NSPL) 
