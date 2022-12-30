@@ -205,6 +205,7 @@
 ### December 30, 2022 
 - [anystack-sh/porter: 轻松启动您的开发后台进程🪄](https://github.com/anystack-sh/porter) 
 - [PhiloNL/artisan-remote: Artisan Remote 是 Laravel 的一个包，用于通过 HTTP API 与你的 Artisan 命令交互。](https://github.com/PhiloNL/artisan-remote) 
+- [ZTFtrue/wolf-eat-sheep: 狼吃羊游戏](https://github.com/ZTFtrue/wolf-eat-sheep) 
 ### December 29, 2022 
 - [iximiuz/cdebug: 容器调试的瑞士军刀](https://github.com/iximiuz/cdebug) 
 - [smallnest/network_benchmark: 3百万QPS benchmark测试](https://github.com/smallnest/network_benchmark) 
