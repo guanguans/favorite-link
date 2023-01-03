@@ -209,6 +209,7 @@
 - [romanzipp/DTO: PHP 8 没有魔法的强类型数据传输对象](https://github.com/romanzipp/DTO) 
 - [stefanzweifel/laravel-sends: 在 Laravel 应用程序中跟踪外发电子邮件的包。](https://github.com/stefanzweifel/laravel-sends) 
 - [laravel-workflow/laravel-workflow: 持久的工作流引擎，允许用户跟踪作业状态并在由 Laravel 队列提供支持的 PHP 中编写长期运行的持久分布式工作流（编排）。](https://github.com/laravel-workflow/laravel-workflow) 
+- [tulir/whatsmeow: 用于 WhatsApp 网络多设备 API 的 Go 库](https://github.com/tulir/whatsmeow) 
 ### December 30, 2022 
 - [anystack-sh/porter: 轻松启动您的开发后台进程🪄](https://github.com/anystack-sh/porter) 
 - [PhiloNL/artisan-remote: Artisan Remote 是 Laravel 的一个包，用于通过 HTTP API 与你的 Artisan 命令交互。](https://github.com/PhiloNL/artisan-remote) 
