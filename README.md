@@ -207,6 +207,7 @@
 - [misterdebug/crud-generator-laravel: 在几秒钟内创建一个 Laravel 9 CRUD](https://github.com/misterdebug/crud-generator-laravel) 
 - [christopherarter/dream: 面向 Laravel 的人工智能/机器学习工具箱](https://github.com/christopherarter/dream) 
 - [romanzipp/DTO: PHP 8 没有魔法的强类型数据传输对象](https://github.com/romanzipp/DTO) 
+- [stefanzweifel/laravel-sends: 在 Laravel 应用程序中跟踪外发电子邮件的包。](https://github.com/stefanzweifel/laravel-sends) 
 ### December 30, 2022 
 - [anystack-sh/porter: 轻松启动您的开发后台进程🪄](https://github.com/anystack-sh/porter) 
 - [PhiloNL/artisan-remote: Artisan Remote 是 Laravel 的一个包，用于通过 HTTP API 与你的 Artisan 命令交互。](https://github.com/PhiloNL/artisan-remote) 
