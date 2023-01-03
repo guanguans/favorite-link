@@ -202,6 +202,9 @@
 
 
 
+
+### January 3, 2023 
+- [misterdebug/crud-generator-laravel: 在几秒钟内创建一个 Laravel 9 CRUD](https://github.com/misterdebug/crud-generator-laravel) 
 ### December 30, 2022 
 - [anystack-sh/porter: 轻松启动您的开发后台进程🪄](https://github.com/anystack-sh/porter) 
 - [PhiloNL/artisan-remote: Artisan Remote 是 Laravel 的一个包，用于通过 HTTP API 与你的 Artisan 命令交互。](https://github.com/PhiloNL/artisan-remote) 
