@@ -211,6 +211,7 @@
 - [perkeep/perkeep: Perkeep（原名 Camlistore）是您一生的个人存储系统：一种存储、同步、共享、建模和备份内容的方式。](https://github.com/perkeep/perkeep) 
 - [DeGraciaMathieu/php-smelly-code-detector: PHP 代码气味检测器](https://github.com/DeGraciaMathieu/php-smelly-code-detector) 
 - [InnoGE/laravel-policy-soft-cache: 有助于防止应用程序生命周期中重复的 Policy 调用引起的性能问题。](https://github.com/InnoGE/laravel-policy-soft-cache) 
+- [rickar/cal: Go (golang) 日历 (日历) 库，用于处理假期和工作日](https://github.com/rickar/cal) 
 ### January 3, 2023 
 - [misterdebug/crud-generator-laravel: 在几秒钟内创建一个 Laravel 9 CRUD](https://github.com/misterdebug/crud-generator-laravel) 
 - [christopherarter/dream: 面向 Laravel 的人工智能/机器学习工具箱](https://github.com/christopherarter/dream) 
