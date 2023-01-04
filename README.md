@@ -207,6 +207,7 @@
 ### January 4, 2023 
 - [dixyes/lwmbs: 轻量级（可能）phpmicro 构建脚本](https://github.com/dixyes/lwmbs) 
 - [sourcegraph/conc: 更好的结构化并发](https://github.com/sourcegraph/conc) 
+- [andeya/gust: Golang 的受 Rust 启发的声明式编程和通用类型模块，有助于避免错误并提高开发效率。](https://github.com/andeya/gust) 
 ### January 3, 2023 
 - [misterdebug/crud-generator-laravel: 在几秒钟内创建一个 Laravel 9 CRUD](https://github.com/misterdebug/crud-generator-laravel) 
 - [christopherarter/dream: 面向 Laravel 的人工智能/机器学习工具箱](https://github.com/christopherarter/dream) 
