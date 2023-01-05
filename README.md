@@ -208,6 +208,7 @@
 ### January 5, 2023 
 - [GoogleCloudPlatform/functions-framework-php: FaaS (函数作为服务)框架，用于编写可移植(便携式) PHP 函数](https://github.com/GoogleCloudPlatform/functions-framework-php) 
 - [spatie/mailcoach-sdk-php: 在 PHP 中使用 Mailcoach API 的 SDK](https://github.com/spatie/mailcoach-sdk-php) 
+- [larksuite/oapi-sdk-go: 飞书开放接口SDK](https://github.com/larksuite/oapi-sdk-go) 
 ### January 4, 2023 
 - [dixyes/lwmbs: 轻量级（可能）phpmicro 构建脚本](https://github.com/dixyes/lwmbs) 
 - [sourcegraph/conc: 更好的结构化并发](https://github.com/sourcegraph/conc) 
