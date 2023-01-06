@@ -212,6 +212,7 @@
 - [FelixKratz/SketchyBar: 一个高度(高度)可定制的 macOS 状态栏替换(更换)](https://github.com/FelixKratz/SketchyBar) 
 - [stefangabos/world_countries: 不断更新的世界国家列表及其相关的 (副学士) alpha-2、alpha-3 和数字国家代码，如 ISO 3166 标准所定义，提供 (可用) CSV、JSON、PHP、SQL 和 XML 格式，多种格式 （多种）语言和包括国旗； 还提供了与国家相关的省 (省)/州的 ISO 3166-2 代码](https://github.com/stefangabos/world_countries) 
 - [aliyun/ossutil: 一个用户友好的命令行工具，用于访问 AliCloud OSS。](https://github.com/aliyun/ossutil) 
+- [easychen/stack-roadmap: 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈](https://github.com/easychen/stack-roadmap) 
 ### January 5, 2023 
 - [GoogleCloudPlatform/functions-framework-php: FaaS (函数作为服务)框架，用于编写可移植(便携式) PHP 函数](https://github.com/GoogleCloudPlatform/functions-framework-php) 
 - [spatie/mailcoach-sdk-php: 在 PHP 中使用 Mailcoach API 的 SDK](https://github.com/spatie/mailcoach-sdk-php) 
