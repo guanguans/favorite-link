@@ -208,6 +208,7 @@
 
 ### January 6, 2023 
 - [tidwall/box: 在 Go 中高效(有效)的框值。针对原语(原始)、字符串和字节片进行了优化。](https://github.com/tidwall/box) 
+- [slashbaseide/slashbase: 适用于您的开发和数据工作流的现代浏览器内数据库 IDE 和 CLI。 支持 PostgreSQL 和 MongoDB。](https://github.com/slashbaseide/slashbase) 
 ### January 5, 2023 
 - [GoogleCloudPlatform/functions-framework-php: FaaS (函数作为服务)框架，用于编写可移植(便携式) PHP 函数](https://github.com/GoogleCloudPlatform/functions-framework-php) 
 - [spatie/mailcoach-sdk-php: 在 PHP 中使用 Mailcoach API 的 SDK](https://github.com/spatie/mailcoach-sdk-php) 
