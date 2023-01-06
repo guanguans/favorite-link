@@ -214,6 +214,7 @@
 - [aliyun/ossutil: 一个用户友好的命令行工具，用于访问 AliCloud OSS。](https://github.com/aliyun/ossutil) 
 - [easychen/stack-roadmap: 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈](https://github.com/easychen/stack-roadmap) 
 - [php-mock/php-mock-phpunit: 在 PHPUnit 中模拟内置 PHP 函数（例如 time() 或 rand()）。](https://github.com/php-mock/php-mock-phpunit) 
+- [php-mock/php-mock-mockery: 使用 Mockery 模拟非确定性内置 PHP 函数（例如 time() 或 rand()）。](https://github.com/php-mock/php-mock-mockery) 
 ### January 5, 2023 
 - [GoogleCloudPlatform/functions-framework-php: FaaS (函数作为服务)框架，用于编写可移植(便携式) PHP 函数](https://github.com/GoogleCloudPlatform/functions-framework-php) 
 - [spatie/mailcoach-sdk-php: 在 PHP 中使用 Mailcoach API 的 SDK](https://github.com/spatie/mailcoach-sdk-php) 
