@@ -206,6 +206,9 @@
 
 
 
+
+### January 9, 2023 
+- [JackieDo/Laravel-Cart: 在 Laravel 应用程序中用于创建和管理购物车(车)(例如购物，最近(最近)查看，比较(比较)项目(项目) ...)的包。](https://github.com/JackieDo/Laravel-Cart) 
 ### January 6, 2023 
 - [tidwall/box: 在 Go 中高效(有效)的框值。针对原语(原始)、字符串和字节片进行了优化。](https://github.com/tidwall/box) 
 - [slashbaseide/slashbase: 适用于您的开发和数据工作流的现代浏览器内数据库 IDE 和 CLI。 支持 PostgreSQL 和 MongoDB。](https://github.com/slashbaseide/slashbase) 
