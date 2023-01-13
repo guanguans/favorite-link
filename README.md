@@ -215,6 +215,7 @@
 - [linkall-labs/vanus: Vanus 是一个开源、云原生、无服务器消息队列，用于轻松构建 EDA 应用程序。](https://github.com/linkall-labs/vanus) 
 - [Releem/mysqlconfigurer: Releem 是一个简单的 MySQL 调优工具，用于提高数据库性能并降低服务器成本。](https://github.com/Releem/mysqlconfigurer) 
 - [cloudcmds/tamarin: 用于 Go 项目的嵌入式脚本语言](https://github.com/cloudcmds/tamarin) 
+- [eryajf/go-ldap-admin: 🌉 基于Go+Vue实现的openLDAP后台管理项目](https://github.com/eryajf/go-ldap-admin) 
 ### January 12, 2023 
 - [devaslanphp/forumium: 快速、干净、易于使用和开源论坛以促进协作。](https://github.com/devaslanphp/forumium) 
 - [ngrok/ngrok-go: 库形式的 ngrok 代理，适合直接集成到您的 Go 应用程序中。](https://github.com/ngrok/ngrok-go) 
