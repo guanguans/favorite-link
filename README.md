@@ -221,6 +221,7 @@
 - [tektoncd/triggers: 使用 Tekton 触发事件！](https://github.com/tektoncd/triggers) 
 - [TypicalAM/goread: 一个漂亮的程序，可以在终端中阅读您的 RSS 提要！](https://github.com/TypicalAM/goread) 
 - [rxrddd/austin-v2: 基于kratos 的聚合消息推送平台](https://github.com/rxrddd/austin-v2) 
+- [KimMachineGun/automemlimit: 自动设置 GOMEMLIMIT 以匹配 Linux cgroups(7) 内存限制。](https://github.com/KimMachineGun/automemlimit) 
 ### January 13, 2023 
 - [linkall-labs/vanus: Vanus 是一个开源、云原生、无服务器消息队列，用于轻松构建 EDA 应用程序。](https://github.com/linkall-labs/vanus) 
 - [Releem/mysqlconfigurer: Releem 是一个简单的 MySQL 调优工具，用于提高数据库性能并降低服务器成本。](https://github.com/Releem/mysqlconfigurer) 
