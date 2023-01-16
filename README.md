@@ -218,6 +218,7 @@
 - [spatie/laravel-morph-map-generator: 在 Laravel 应用程序中自动生成变形映射](https://github.com/spatie/laravel-morph-map-generator) 
 - [mdlayher/ndp: 包 ndp 实现 Neighbor DiscoveryProtocol，如 RFC 4861 中所述。MIT 许可。](https://github.com/mdlayher/ndp) 
 - [arshidkv12/phpBolt: 最好的 php 编码器 - 免费 |加密php源代码](https://github.com/arshidkv12/phpBolt) 
+- [tektoncd/triggers: 使用 Tekton 触发事件！](https://github.com/tektoncd/triggers) 
 ### January 13, 2023 
 - [linkall-labs/vanus: Vanus 是一个开源、云原生、无服务器消息队列，用于轻松构建 EDA 应用程序。](https://github.com/linkall-labs/vanus) 
 - [Releem/mysqlconfigurer: Releem 是一个简单的 MySQL 调优工具，用于提高数据库性能并降低服务器成本。](https://github.com/Releem/mysqlconfigurer) 
