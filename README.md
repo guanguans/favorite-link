@@ -217,6 +217,7 @@
 ### January 18, 2023 
 - [ccding/go-stun: STUN 客户端的 go 实现（RFC 3489 和 RFC 5389）](https://github.com/ccding/go-stun) 
 - [easychen/CookieCloud: CookieCloud是一个向自架服务器同步Cookie的小工具，可以将电脑的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。](https://github.com/easychen/CookieCloud) 
+- [lty628/aidigu: 爱嘀咕，开源微博项目](https://github.com/lty628/aidigu) 
 ### January 17, 2023 
 - [smallnest/1m-go-tcp-server: 支持 100 万个连接的服务器实施基准](https://github.com/smallnest/1m-go-tcp-server) 
 - [sjqzhang/go-fastdfs: go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。](https://github.com/sjqzhang/go-fastdfs) 
