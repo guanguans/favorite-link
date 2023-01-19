@@ -214,6 +214,9 @@
 
 
 
+
+### January 19, 2023 
+- [spatie/fractalistic: 一个与框架无关的、开发人员友好的 Fractal 包装器](https://github.com/spatie/fractalistic) 
 ### January 18, 2023 
 - [ccding/go-stun: STUN 客户端的 go 实现（RFC 3489 和 RFC 5389）](https://github.com/ccding/go-stun) 
 - [easychen/CookieCloud: CookieCloud是一个向自架服务器同步Cookie的小工具，可以将电脑的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。](https://github.com/easychen/CookieCloud) 
