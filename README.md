@@ -219,6 +219,7 @@
 ### January 21, 2023 
 - [tomarrell/miniqueue: 一个简单的单二进制消息队列。](https://github.com/tomarrell/miniqueue) 
 - [gobuffalo/plush: Go 需要的强大的模板系统](https://github.com/gobuffalo/plush) 
+- [mandiant/GoReSym: Go符号恢复工具](https://github.com/mandiant/GoReSym) 
 ### January 19, 2023 
 - [spatie/fractalistic: 一个与框架无关的、开发人员友好的 Fractal 包装器](https://github.com/spatie/fractalistic) 
 - [cviebrock/eloquent-sluggable: 在 Laravel 中为 Eloquent 模型轻松创建 slug](https://github.com/cviebrock/eloquent-sluggable) 
