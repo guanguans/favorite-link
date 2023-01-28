@@ -222,6 +222,7 @@
 - [pachyderm/pachyderm: 以数据为中心的管道和数据版本控制](https://github.com/pachyderm/pachyderm) 
 - [Gioni06/GPT3Tokenizer: GPT-3使用的字节对编码（BPE）的PHP软件包](https://github.com/Gioni06/GPT3Tokenizer) 
 - [go-ping/ping: Go 的 ICMP Ping 库](https://github.com/go-ping/ping) 
+- [jordanlewis/gcassert: 断言您的GO代码是内部的，范围检查消除了](https://github.com/jordanlewis/gcassert) 
 ### January 21, 2023 
 - [tomarrell/miniqueue: 一个简单的单二进制消息队列。](https://github.com/tomarrell/miniqueue) 
 - [gobuffalo/plush: Go 需要的强大的模板系统](https://github.com/gobuffalo/plush) 
