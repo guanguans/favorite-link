@@ -216,6 +216,9 @@
 
 
 
+
+### January 28, 2023 
+- [cxasm/notepad--: 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。](https://github.com/cxasm/notepad--) 
 ### January 21, 2023 
 - [tomarrell/miniqueue: 一个简单的单二进制消息队列。](https://github.com/tomarrell/miniqueue) 
 - [gobuffalo/plush: Go 需要的强大的模板系统](https://github.com/gobuffalo/plush) 
