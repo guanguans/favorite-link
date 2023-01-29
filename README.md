@@ -220,6 +220,7 @@
 
 ### January 29, 2023 
 - [antonioribeiro/countries-laravel: Laravel 的国家](https://github.com/antonioribeiro/countries-laravel) 
+- [prometheus/pushgateway: 用于临时和批处理作业的推送接受器。](https://github.com/prometheus/pushgateway) 
 ### January 28, 2023 
 - [cxasm/notepad--: 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。](https://github.com/cxasm/notepad--) 
 - [pachyderm/pachyderm: 以数据为中心的管道和数据版本控制](https://github.com/pachyderm/pachyderm) 
