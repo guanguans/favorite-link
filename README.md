@@ -224,6 +224,7 @@
 - [BuddiesOfBudgie/budgie-desktop: Budgie Desktop 是一个熟悉的现代桌面环境。](https://github.com/BuddiesOfBudgie/budgie-desktop) 
 - [adhocore/chin: 一个 Go 语言库，用于在用户等待任何长时间运行的作业完成时显示微调器。](https://github.com/adhocore/chin) 
 - [lxwagn/using-go-with-c-libraries: 一个教程项目，展示如何在 Golang 中使用 C 静态和动态库（.a 和 .so）](https://github.com/lxwagn/using-go-with-c-libraries) 
+- [aschmelyun/fleet: 使用自定义域名在本地运行多个 Laravel Sail 网站](https://github.com/aschmelyun/fleet) 
 ### January 30, 2023 
 - [thejerf/suture: Go 的主管树。](https://github.com/thejerf/suture) 
 - [tuna/tunasync: 镜像作业管理工具。](https://github.com/tuna/tunasync) 
