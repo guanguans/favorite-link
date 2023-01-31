@@ -219,6 +219,9 @@
 
 
 
+
+### January 31, 2023 
+- [BuddiesOfBudgie/budgie-desktop: Budgie Desktop 是一个熟悉的现代桌面环境。](https://github.com/BuddiesOfBudgie/budgie-desktop) 
 ### January 30, 2023 
 - [thejerf/suture: Go 的主管树。](https://github.com/thejerf/suture) 
 - [tuna/tunasync: 镜像作业管理工具。](https://github.com/tuna/tunasync) 
