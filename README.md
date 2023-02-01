@@ -224,6 +224,7 @@
 ### February 1, 2023 
 - [Cloudstek/scim-filter-parser: SCIM（IETF RFC 7644，跨域身份管理系统）过滤语言的解析器。](https://github.com/Cloudstek/scim-filter-parser) 
 - [brianstrauch/solitaire-tui: 终端的克朗代克纸牌](https://github.com/brianstrauch/solitaire-tui) 
+- [manchan4869/CoverView-CN: 🛠快速为您的博客文章创建精彩的封面图像。](https://github.com/manchan4869/CoverView-CN) 
 ### January 31, 2023 
 - [BuddiesOfBudgie/budgie-desktop: Budgie Desktop 是一个熟悉的现代桌面环境。](https://github.com/BuddiesOfBudgie/budgie-desktop) 
 - [adhocore/chin: 一个 Go 语言库，用于在用户等待任何长时间运行的作业完成时显示微调器。](https://github.com/adhocore/chin) 
