@@ -221,6 +221,9 @@
 
 
 
+
+### February 2, 2023 
+- [stnkl/EverythingToolbar: Windows 任务栏的所有集成。](https://github.com/stnkl/EverythingToolbar) 
 ### February 1, 2023 
 - [Cloudstek/scim-filter-parser: SCIM（IETF RFC 7644，跨域身份管理系统）过滤语言的解析器。](https://github.com/Cloudstek/scim-filter-parser) 
 - [brianstrauch/solitaire-tui: 终端的克朗代克纸牌](https://github.com/brianstrauch/solitaire-tui) 
