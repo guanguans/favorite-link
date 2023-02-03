@@ -226,6 +226,7 @@
 ### February 3, 2023 
 - [scarsty/kys-cpp: 《金庸群侠传》c++复刻版，已完工](https://github.com/scarsty/kys-cpp) 
 - [flashcatcloud/categraf: 夜莺一站式遥测收集器](https://github.com/flashcatcloud/categraf) 
+- [skydoves/chatgpt-android: ChatGPT Android 在 Android 上演示了 OpenAI 的 ChatGPT 和用于 Compose 的 Stream Chat SDK。](https://github.com/skydoves/chatgpt-android) 
 ### February 2, 2023 
 - [stnkl/EverythingToolbar: Windows 任务栏的所有集成。](https://github.com/stnkl/EverythingToolbar) 
 ### February 1, 2023 
