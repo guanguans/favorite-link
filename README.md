@@ -228,6 +228,7 @@
 - [keploy/keploy: 开发人员测试。从 API 调用、数据库查询等创建测试用例和数据模拟的工具包。](https://github.com/keploy/keploy) 
 - [avinassh/go-caskdb: （教育）在 Go 中构建你自己的基于磁盘的 KV 存储](https://github.com/avinassh/go-caskdb) 
 - [traderepublic/Cilicon: 🛠️ Apple Silicon 上的自托管临时 macOS CI](https://github.com/traderepublic/Cilicon) 
+- [gojek/go-coverage: 通过检测大量未经测试的功能来提高做出更改的信心](https://github.com/gojek/go-coverage) 
 ### February 3, 2023 
 - [scarsty/kys-cpp: 《金庸群侠传》c++复刻版，已完工](https://github.com/scarsty/kys-cpp) 
 - [flashcatcloud/categraf: 夜莺一站式遥测收集器](https://github.com/flashcatcloud/categraf) 
