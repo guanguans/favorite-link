@@ -228,6 +228,7 @@
 
 ### February 8, 2023 
 - [open-southeners/vscode-laravel-pint: 将 LaravelPint 集成到 VSCode 项目中，以便自动设置代码格式](https://github.com/open-southeners/vscode-laravel-pint) 
+- [no-src/gofs: 基于golang开箱即用的跨平台文件同步工具](https://github.com/no-src/gofs) 
 ### February 7, 2023 
 - [pierrec/lz4: 纯 Go 中的 LZ4 压缩和解压缩](https://github.com/pierrec/lz4) 
 ### February 6, 2023 
