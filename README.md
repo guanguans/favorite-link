@@ -231,6 +231,7 @@
 ### February 10, 2023 
 - [unionj-cloud/go-doudou: 基于 OpenAPI 3.0 (for REST) spec 和 Protobuf v3 (for grpc) 的轻量级微服务框架。它还支持整体服务应用程序。](https://github.com/unionj-cloud/go-doudou) 
 - [hashicorp/logutils: 用于更好地记录 Go (Golang) 的实用程序。](https://github.com/hashicorp/logutils) 
+- [rap2hpoutre/similar-text-finder: 🐝 PHP 相似文本查找器又名模糊搜索。](https://github.com/rap2hpoutre/similar-text-finder) 
 ### February 9, 2023 
 - [hyperf/gotask: Go 中 Swole TaskWorker 的快速替代](https://github.com/hyperf/gotask) 
 - [sheepla/pingu: 🐧ping 命令但使用 pingu](https://github.com/sheepla/pingu) 
