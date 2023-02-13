@@ -234,6 +234,7 @@
 - [staudenmeir/eloquent-eager-limit-x-laravel-cte: 合并 staudenmeir/eloquent-eager-limit 和 staudenmeir/laravel-cte](https://github.com/staudenmeir/eloquent-eager-limit-x-laravel-cte) 
 - [TheDragonCode/benchmark: 不同选项之间代码执行速度的简单对比](https://github.com/TheDragonCode/benchmark) 
 - [jordan-bonecutter/goption: Go 的可选值](https://github.com/jordan-bonecutter/goption) 
+- [emersion/go-smtp: 📤 用 Go 编写的 SMTP 客户端和服务器库](https://github.com/emersion/go-smtp) 
 ### February 10, 2023 
 - [unionj-cloud/go-doudou: 基于 OpenAPI 3.0 (for REST) spec 和 Protobuf v3 (for grpc) 的轻量级微服务框架。它还支持整体服务应用程序。](https://github.com/unionj-cloud/go-doudou) 
 - [hashicorp/logutils: 用于更好地记录 Go (Golang) 的实用程序。](https://github.com/hashicorp/logutils) 
