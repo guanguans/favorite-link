@@ -232,6 +232,7 @@
 
 ### February 14, 2023 
 - [alyssaxuu/screenity: 适用于 Chrome 的最强大的屏幕录像机和注释工具 🎥](https://github.com/alyssaxuu/screenity) 
+- [Fechin/reference: ⭕ 为开发人员分享快速参考备忘单。](https://github.com/Fechin/reference) 
 ### February 13, 2023 
 - [ohdearapp/ohdear-php-sdk: 用 PHP 编写的 SDK，可与 Oh Dear API 一起使用](https://github.com/ohdearapp/ohdear-php-sdk) 
 - [staudenmeir/eloquent-eager-limit-x-laravel-cte: 合并 staudenmeir/eloquent-eager-limit 和 staudenmeir/laravel-cte](https://github.com/staudenmeir/eloquent-eager-limit-x-laravel-cte) 
