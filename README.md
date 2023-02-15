@@ -234,6 +234,7 @@
 ### February 15, 2023 
 - [llychao/m3u8-downloader: 一个M3U8 视频下载(M3U8 downloader)工具。](https://github.com/llychao/m3u8-downloader) 
 - [zdharma-continuum/fast-syntax-highlighting: ZSH 的功能丰富的语法突出显示](https://github.com/zdharma-continuum/fast-syntax-highlighting) 
+- [wagslane/go-rabbitmq: 提供重新连接逻辑和合理默认值的 streadway/amqp 包装器](https://github.com/wagslane/go-rabbitmq) 
 ### February 14, 2023 
 - [alyssaxuu/screenity: 适用于 Chrome 的最强大的屏幕录像机和注释工具 🎥](https://github.com/alyssaxuu/screenity) 
 - [Fechin/reference: ⭕ 为开发人员分享快速参考备忘单。](https://github.com/Fechin/reference) 
