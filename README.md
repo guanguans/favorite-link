@@ -236,6 +236,7 @@
 - [zdharma-continuum/fast-syntax-highlighting: ZSH 的功能丰富的语法突出显示](https://github.com/zdharma-continuum/fast-syntax-highlighting) 
 - [wagslane/go-rabbitmq: 提供重新连接逻辑和合理默认值的 streadway/amqp 包装器](https://github.com/wagslane/go-rabbitmq) 
 - [minio/selfupdate: 构建自我更新的 Go 程序](https://github.com/minio/selfupdate) 
+- [mtlynch/picoshare: 用于共享图像和其他文件的极简主义、易于托管的服务](https://github.com/mtlynch/picoshare) 
 ### February 14, 2023 
 - [alyssaxuu/screenity: 适用于 Chrome 的最强大的屏幕录像机和注释工具 🎥](https://github.com/alyssaxuu/screenity) 
 - [Fechin/reference: ⭕ 为开发人员分享快速参考备忘单。](https://github.com/Fechin/reference) 
