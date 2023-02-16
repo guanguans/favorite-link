@@ -231,6 +231,9 @@
 
 
 
+
+### February 16, 2023 
+- [ryangjchandler/blade-tabler-icons: Tabler 图标集的 Blade 图标包。](https://github.com/ryangjchandler/blade-tabler-icons) 
 ### February 15, 2023 
 - [llychao/m3u8-downloader: 一个M3U8 视频下载(M3U8 downloader)工具。](https://github.com/llychao/m3u8-downloader) 
 - [zdharma-continuum/fast-syntax-highlighting: ZSH 的功能丰富的语法突出显示](https://github.com/zdharma-continuum/fast-syntax-highlighting) 
