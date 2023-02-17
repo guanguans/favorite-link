@@ -239,6 +239,7 @@
 - [fresns/fresns: Fresns核心库：跨平台通用多内容形式社交网络服务软件](https://github.com/fresns/fresns) 
 - [fresns/plugin-manager: Laravel 中的插件管理](https://github.com/fresns/plugin-manager) 
 - [btcsuite/btcd: 用 Go (golang) 编写的替代全节点比特币实现](https://github.com/btcsuite/btcd) 
+- [webimpress/safe-writer: 安全地写入文件，以避免竞争条件](https://github.com/webimpress/safe-writer) 
 ### February 16, 2023 
 - [ryangjchandler/blade-tabler-icons: Tabler 图标集的 Blade 图标包。](https://github.com/ryangjchandler/blade-tabler-icons) 
 - [Hydreon/Steadfast2: 0.14 Minecraft: 0.14 Minecraft：基于 PocketMine 1.4 的袖珍版服务器，具有所有新的 API 方法。](https://github.com/Hydreon/Steadfast2) 
