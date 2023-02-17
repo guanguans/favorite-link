@@ -236,6 +236,7 @@
 ### February 17, 2023 
 - [goccy/bigquery-emulator: 在 Go 中实现的 BigQuery 模拟器服务器](https://github.com/goccy/bigquery-emulator) 
 - [egoist/tailwindcss-icons: 使用 Iconify 中的任何图标 (100,000+)，用于 TailwindCSS](https://github.com/egoist/tailwindcss-icons) 
+- [fresns/fresns: Fresns核心库：跨平台通用多内容形式社交网络服务软件](https://github.com/fresns/fresns) 
 ### February 16, 2023 
 - [ryangjchandler/blade-tabler-icons: Tabler 图标集的 Blade 图标包。](https://github.com/ryangjchandler/blade-tabler-icons) 
 - [Hydreon/Steadfast2: 0.14 Minecraft: 0.14 Minecraft：基于 PocketMine 1.4 的袖珍版服务器，具有所有新的 API 方法。](https://github.com/Hydreon/Steadfast2) 
