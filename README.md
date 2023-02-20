@@ -243,6 +243,7 @@
 - [johnlui/PPHC: 📙《高并发的哲学原理》开源图书](https://github.com/johnlui/PPHC) 
 - [avast/retry-go: 用于重试机制的简单 golang 库](https://github.com/avast/retry-go) 
 - [statikbe/laravel-chained-translator: Laravel Chained Translator 可以组合多个可以覆盖彼此翻译的翻译器。](https://github.com/statikbe/laravel-chained-translator) 
+- [Stillat/blade-directives: 可以在需要多个参数时更轻松地编写 Laravel Blade 指令。](https://github.com/Stillat/blade-directives) 
 ### February 17, 2023 
 - [goccy/bigquery-emulator: 在 Go 中实现的 BigQuery 模拟器服务器](https://github.com/goccy/bigquery-emulator) 
 - [egoist/tailwindcss-icons: 使用 Iconify 中的任何图标 (100,000+)，用于 TailwindCSS](https://github.com/egoist/tailwindcss-icons) 
