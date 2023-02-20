@@ -237,6 +237,7 @@
 ### February 20, 2023 
 - [Stillat/blade-parser: 一个使解析，分析和操纵刀片模板变得简单的库。](https://github.com/Stillat/blade-parser) 
 - [levigross/grequests: A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests) 
+- [Stillat/proteus: 一个用于读取、修改和编写 Laravel 风格的 PHP 配置文件的库。](https://github.com/Stillat/proteus) 
 ### February 17, 2023 
 - [goccy/bigquery-emulator: 在 Go 中实现的 BigQuery 模拟器服务器](https://github.com/goccy/bigquery-emulator) 
 - [egoist/tailwindcss-icons: 使用 Iconify 中的任何图标 (100,000+)，用于 TailwindCSS](https://github.com/egoist/tailwindcss-icons) 
