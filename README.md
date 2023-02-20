@@ -240,6 +240,7 @@
 - [Stillat/proteus: 一个用于读取、修改和编写 Laravel 风格的 PHP 配置文件的库。](https://github.com/Stillat/proteus) 
 - [worksome/pretty-pest: 一组用于格式化PestPHP测试的PHPCS规则。](https://github.com/worksome/pretty-pest) 
 - [webmozarts/strict-phpunit: 启用Phpunit中对象的类型安全比较。](https://github.com/webmozarts/strict-phpunit) 
+- [johnlui/PPHC: 📙《高并发的哲学原理》开源图书](https://github.com/johnlui/PPHC) 
 ### February 17, 2023 
 - [goccy/bigquery-emulator: 在 Go 中实现的 BigQuery 模拟器服务器](https://github.com/goccy/bigquery-emulator) 
 - [egoist/tailwindcss-icons: 使用 Iconify 中的任何图标 (100,000+)，用于 TailwindCSS](https://github.com/egoist/tailwindcss-icons) 
