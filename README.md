@@ -240,6 +240,7 @@
 - [gotestyourself/gotest.tools: 用于扩充 go 测试包并支持通用模式的包集合。](https://github.com/gotestyourself/gotest.tools) 
 - [gotestyourself/gotestsum: 具有针对人类优化的输出，用于CI集成的JUNIT XML的“ Go Test”跑步者以及测试结果的摘要。](https://github.com/gotestyourself/gotestsum) 
 - [unixpickle/gobfuscate: 混淆 Go 二进制文件和包](https://github.com/unixpickle/gobfuscate) 
+- [jysperm/homebrew-leftover-scanner: 使用 Homebrew Cask 中的规则扫描卸载软件中的剩余文件。](https://github.com/jysperm/homebrew-leftover-scanner) 
 ### February 20, 2023 
 - [Stillat/blade-parser: 一个使解析，分析和操纵刀片模板变得简单的库。](https://github.com/Stillat/blade-parser) 
 - [levigross/grequests: A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests) 
