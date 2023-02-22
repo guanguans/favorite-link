@@ -235,6 +235,9 @@
 
 
 
+
+### February 22, 2023 
+- [srsholmes/yal: Yet Another Launcher](https://github.com/srsholmes/yal) 
 ### February 21, 2023 
 - [rinvex/countries: Rinvex Country 是一个简单轻量级的包，用于灵活地检索国家详细信息。全球 250 个国家/地区的一大堆数据，包括名称、名称、资本、iso 代码、拨号代码、地理数据、货币、旗帜、表情符号和其他属性，触手可及。](https://github.com/rinvex/countries) 
 - [gotestyourself/gotest.tools: 用于扩充 go 测试包并支持通用模式的包集合。](https://github.com/gotestyourself/gotest.tools) 
