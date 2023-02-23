@@ -240,6 +240,7 @@
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
+- [rhysd/actionlint: GitHub Actions 工作流文件的静态检查器](https://github.com/rhysd/actionlint) 
 ### February 22, 2023 
 - [srsholmes/yal: Yet Another Launcher](https://github.com/srsholmes/yal) 
 - [porjo/youtubeuploader: Scripted uploads to Youtube](https://github.com/porjo/youtubeuploader) 
