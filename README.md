@@ -255,6 +255,7 @@
 - [tellerops/teller: 面向开发人员的云原生机密管理 - 永远不要离开命令行获取机密。](https://github.com/tellerops/teller) 
 - [projectdiscovery/hmap: 混合内存/磁盘映射](https://github.com/projectdiscovery/hmap) 
 - [TitasGailius/terminal: 围绕 Symfony 的 Process 组件的 Elegent 包装器。](https://github.com/TitasGailius/terminal) 
+- [TitasGailius/laravel-moonlight: 包括基于Inertiajs，Vuejs和Tailwindcss堆栈的Laravel预设。](https://github.com/TitasGailius/laravel-moonlight) 
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
