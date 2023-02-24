@@ -251,6 +251,7 @@
 - [Laragear/Json: 在您的应用程序中轻松检索和操作 JSON。](https://github.com/Laragear/Json) 
 - [Laragear/Compare: Small utility trait to fluently compare object values.](https://github.com/Laragear/Compare) 
 - [Laragear/Surreal: 在 Laravel 应用程序中使用 SurrealDB 数据库](https://github.com/Laragear/Surreal) 
+- [polarsignals/frostdb: ❄️ 最酷的数据库 🧊 用 Go 编写的可嵌入列数据库。](https://github.com/polarsignals/frostdb) 
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
