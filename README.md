@@ -237,6 +237,9 @@
 
 
 
+
+### February 24, 2023 
+- [Laragear/CacheQuery: 只使用一种方法记住查询结果。](https://github.com/Laragear/CacheQuery) 
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
