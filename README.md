@@ -248,6 +248,7 @@
 - [Laragear/CacheRefresh: 在没有数据竞争的情况下刷新缓存中的项目。](https://github.com/Laragear/CacheRefresh) 
 - [Laragear/Poke: 保持你的表单活跃，通过轻轻戳你的 Laravel 应用程序来避免“TokenMismatchException”。](https://github.com/Laragear/Poke) 
 - [Laragear/MetaTesting: 用于测试 Laravel 包的 Laravel 包](https://github.com/Laragear/MetaTesting) 
+- [Laragear/Json: 在您的应用程序中轻松检索和操作 JSON。](https://github.com/Laragear/Json) 
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
