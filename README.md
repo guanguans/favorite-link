@@ -245,6 +245,7 @@
 - [Laragear/ReCaptcha: 使用异步 HTTP/2 集成 reCAPTCHA，只需几行代码即可让您的应用快速运行。](https://github.com/Laragear/ReCaptcha) 
 - [Laragear/Alerts: 从后端设置多个警报，在前端呈现它们。](https://github.com/Laragear/Alerts) 
 - [mcy689/blog: 抓取blog博客文章](https://github.com/mcy689/blog) 
+- [Laragear/CacheRefresh: 在没有数据竞争的情况下刷新缓存中的项目。](https://github.com/Laragear/CacheRefresh) 
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
