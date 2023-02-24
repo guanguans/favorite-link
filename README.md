@@ -246,6 +246,7 @@
 - [Laragear/Alerts: 从后端设置多个警报，在前端呈现它们。](https://github.com/Laragear/Alerts) 
 - [mcy689/blog: 抓取blog博客文章](https://github.com/mcy689/blog) 
 - [Laragear/CacheRefresh: 在没有数据竞争的情况下刷新缓存中的项目。](https://github.com/Laragear/CacheRefresh) 
+- [Laragear/Poke: 保持你的表单活跃，通过轻轻戳你的 Laravel 应用程序来避免“TokenMismatchException”。](https://github.com/Laragear/Poke) 
 ### February 23, 2023 
 - [zema1/suo5: 一个高性能的 http-socks 隧道](https://github.com/zema1/suo5) 
 - [bennett-treptow/laravel-migration-generator: Generate migrations from existing database structures](https://github.com/bennett-treptow/laravel-migration-generator) 
