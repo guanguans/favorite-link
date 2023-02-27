@@ -246,6 +246,7 @@
 - [RobertBroersma/bigheads: 轻松为您的项目创建角色](https://github.com/RobertBroersma/bigheads) 
 - [beyondcode/laravel-ask-database: 使用自然语言查询数据库](https://github.com/beyondcode/laravel-ask-database) 
 - [bnkamalesh/webgo: 用于构建网络应用程序的微框架；具有处理程序链、中间件支持，最重要的是；符合标准库的 HTTP 处理程序](https://github.com/bnkamalesh/webgo) 
+- [robiningelbrecht/php-slim-skeleton: 使用 AMQP 和 CQRS 的事件驱动的 Slim 4 框架框架](https://github.com/robiningelbrecht/php-slim-skeleton) 
 ### February 24, 2023 
 - [Laragear/CacheQuery: 只使用一种方法记住查询结果。](https://github.com/Laragear/CacheQuery) 
 - [Laragear/WebAuthn: 使用指纹、图案和生物特征数据对用户进行身份验证。](https://github.com/Laragear/WebAuthn) 
