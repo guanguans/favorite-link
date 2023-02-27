@@ -242,6 +242,7 @@
 ### February 27, 2023 
 - [TomasVotruba/punchcard: 配置你的 Laravel 项目的懒惰和严格的方式](https://github.com/TomasVotruba/punchcard) 
 - [mjl-/mox: 用于低维护自托管电子邮件的现代全功能开源安全邮件服务器](https://github.com/mjl-/mox) 
+- [jyz0309/NotionAI-go: 非官方 NotionAI Go SDK](https://github.com/jyz0309/NotionAI-go) 
 ### February 24, 2023 
 - [Laragear/CacheQuery: 只使用一种方法记住查询结果。](https://github.com/Laragear/CacheQuery) 
 - [Laragear/WebAuthn: 使用指纹、图案和生物特征数据对用户进行身份验证。](https://github.com/Laragear/WebAuthn) 
