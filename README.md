@@ -248,6 +248,7 @@
 - [bnkamalesh/webgo: 用于构建网络应用程序的微框架；具有处理程序链、中间件支持，最重要的是；符合标准库的 HTTP 处理程序](https://github.com/bnkamalesh/webgo) 
 - [robiningelbrecht/php-slim-skeleton: 使用 AMQP 和 CQRS 的事件驱动的 Slim 4 框架框架](https://github.com/robiningelbrecht/php-slim-skeleton) 
 - [ulikunitz/xz: 用于读写 xz 压缩文件的纯 golang 包](https://github.com/ulikunitz/xz) 
+- [Intervention/imagecache: Intervention Image Cache 扩展了 Intervention Image Class 包，使其具有图像缓存功能。](https://github.com/Intervention/imagecache) 
 ### February 24, 2023 
 - [Laragear/CacheQuery: 只使用一种方法记住查询结果。](https://github.com/Laragear/CacheQuery) 
 - [Laragear/WebAuthn: 使用指纹、图案和生物特征数据对用户进行身份验证。](https://github.com/Laragear/WebAuthn) 
