@@ -239,6 +239,9 @@
 
 
 
+
+### February 28, 2023 
+- [ArtisanCloud/PowerWeChat: PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态](https://github.com/ArtisanCloud/PowerWeChat) 
 ### February 27, 2023 
 - [TomasVotruba/punchcard: 配置你的 Laravel 项目的懒惰和严格的方式](https://github.com/TomasVotruba/punchcard) 
 - [mjl-/mox: 用于低维护自托管电子邮件的现代全功能开源安全邮件服务器](https://github.com/mjl-/mox) 
