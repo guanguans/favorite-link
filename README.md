@@ -246,6 +246,7 @@
 - [utopia-php/system: 精简且快速的微型 PHP 系统库，**易于使用**。](https://github.com/utopia-php/system) 
 - [utopia-php/domains: Lite & fast micro PHP domain parsing library that is **easy to use**.](https://github.com/utopia-php/domains) 
 - [utopia-php/preloader: Lite & fast micro PHP library for managing memory preloading that is **easy to use**.](https://github.com/utopia-php/preloader) 
+- [utopia-php/swoole: An extension for Utopia Framework to work with PHP Swoole as a PHP FPM alternative](https://github.com/utopia-php/swoole) 
 ### February 27, 2023 
 - [TomasVotruba/punchcard: 配置你的 Laravel 项目的懒惰和严格的方式](https://github.com/TomasVotruba/punchcard) 
 - [mjl-/mox: 用于低维护自托管电子邮件的现代全功能开源安全邮件服务器](https://github.com/mjl-/mox) 
