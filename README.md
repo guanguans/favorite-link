@@ -246,6 +246,7 @@
 - [andrewdwallo/erpsaas：An ERP Software System using Filament: Currently a WIP](https://github.com/andrewdwallo/erpsaas) 
 - [kornrunner/php-ethereum-offline-raw-tx: 纯 PHP 以太坊离线（原始）交易签名者](https://github.com/kornrunner/php-ethereum-offline-raw-tx) 
 - [codedge/laravel-fpdf: 使用 Laravel 创建 PDF，提供 FPDF 版本 1.85](https://github.com/codedge/laravel-fpdf) 
+- [maize-tech/laravel-markable: 将喜欢、书签、收藏夹、反应和自定义标记集成到您的应用程序中](https://github.com/maize-tech/laravel-markable) 
 ### February 28, 2023 
 - [ArtisanCloud/PowerWeChat: PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态](https://github.com/ArtisanCloud/PowerWeChat) 
 - [stevebauman/github-summarizer: A PHP GitHub summarizer using Chat GPT.](https://github.com/stevebauman/github-summarizer) 
