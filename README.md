@@ -240,6 +240,9 @@
 
 
 
+
+### March 1, 2023 
+- [ConsenSys/gnark: gnark 是一个快速的 zk-SNARK 库，它提供了一个高级 API 来设计电路。](https://github.com/ConsenSys/gnark) 
 ### February 28, 2023 
 - [ArtisanCloud/PowerWeChat: PowerWechat是一款基于WeChat SDK for Golang，支持小程序、微信支付、企业微信、公众号等全微信生态](https://github.com/ArtisanCloud/PowerWeChat) 
 - [stevebauman/github-summarizer: A PHP GitHub summarizer using Chat GPT.](https://github.com/stevebauman/github-summarizer) 
