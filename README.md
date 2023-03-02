@@ -244,6 +244,7 @@
 
 ### March 2, 2023 
 - [parsica-php/parsica: PHP Parser Combinators - 构建健壮的解析器的最简单方法。](https://github.com/parsica-php/parsica) 
+- [markrogoyski/itertools-php: PHP 迭代工具库](https://github.com/markrogoyski/itertools-php) 
 ### March 1, 2023 
 - [ConsenSys/gnark: gnark 是一个快速的 zk-SNARK 库，它提供了一个高级 API 来设计电路。](https://github.com/ConsenSys/gnark) 
 - [andrewdwallo/erpsaas：An ERP Software System using Filament: Currently a WIP](https://github.com/andrewdwallo/erpsaas) 
