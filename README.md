@@ -248,6 +248,7 @@
 - [brick/json-mapper: 将 JSON 数据映射到强类型的 PHP DTO](https://github.com/brick/json-mapper) 
 - [olvlvl/composer-attribute-collector: 一种方便且近乎零成本的检索 PHP 8 属性目标的方法](https://github.com/olvlvl/composer-attribute-collector) 
 - [crwlrsoft/crawler: 用于快速（Web）爬虫和爬虫开发的库](https://github.com/crwlrsoft/crawler) 
+- [Ashinch/ReadYou: 以 Material You 风格呈现的 Android RSS 阅读器。](https://github.com/Ashinch/ReadYou) 
 ### March 1, 2023 
 - [ConsenSys/gnark: gnark 是一个快速的 zk-SNARK 库，它提供了一个高级 API 来设计电路。](https://github.com/ConsenSys/gnark) 
 - [andrewdwallo/erpsaas：An ERP Software System using Filament: Currently a WIP](https://github.com/andrewdwallo/erpsaas) 
