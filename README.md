@@ -251,6 +251,7 @@
 - [oguzhankrcb/DataMigrator: 一个简单的 laravel 数据迁移包](https://github.com/oguzhankrcb/DataMigrator) 
 - [shetabit/token-builder: 用于生成临时令牌/引脚的 laravel 包](https://github.com/shetabit/token-builder) 
 - [shetabit/chunky: 一个纯 php 包来处理块文件上传](https://github.com/shetabit/chunky) 
+- [vinkla/extended-acf: 用面向对象的PHP注册高级自定义字段](https://github.com/vinkla/extended-acf) 
 ### March 2, 2023 
 - [parsica-php/parsica: PHP Parser Combinators - 构建健壮的解析器的最简单方法。](https://github.com/parsica-php/parsica) 
 - [markrogoyski/itertools-php: PHP 迭代工具库](https://github.com/markrogoyski/itertools-php) 
