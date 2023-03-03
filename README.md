@@ -242,6 +242,9 @@
 
 
 
+
+### March 3, 2023 
+- [rakyll/openai-go: OpenAI 的 Go 客户端库](https://github.com/rakyll/openai-go) 
 ### March 2, 2023 
 - [parsica-php/parsica: PHP Parser Combinators - 构建健壮的解析器的最简单方法。](https://github.com/parsica-php/parsica) 
 - [markrogoyski/itertools-php: PHP 迭代工具库](https://github.com/markrogoyski/itertools-php) 
