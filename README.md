@@ -245,6 +245,7 @@
 
 ### March 3, 2023 
 - [rakyll/openai-go: OpenAI 的 Go 客户端库](https://github.com/rakyll/openai-go) 
+- [vinkla/laravel-shield: 一个用于 Laravel 的 HTTP 基本认证中间件](https://github.com/vinkla/laravel-shield) 
 ### March 2, 2023 
 - [parsica-php/parsica: PHP Parser Combinators - 构建健壮的解析器的最简单方法。](https://github.com/parsica-php/parsica) 
 - [markrogoyski/itertools-php: PHP 迭代工具库](https://github.com/markrogoyski/itertools-php) 
