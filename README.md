@@ -249,6 +249,7 @@
 - [shetabit/multipay: 简单的PHP支付包，支持多驱动](https://github.com/shetabit/multipay) 
 - [joerdav/xc: Markdown 定义的任务运行器。](https://github.com/joerdav/xc) 
 - [oguzhankrcb/DataMigrator: 一个简单的 laravel 数据迁移包](https://github.com/oguzhankrcb/DataMigrator) 
+- [shetabit/token-builder: 用于生成临时令牌/引脚的 laravel 包](https://github.com/shetabit/token-builder) 
 ### March 2, 2023 
 - [parsica-php/parsica: PHP Parser Combinators - 构建健壮的解析器的最简单方法。](https://github.com/parsica-php/parsica) 
 - [markrogoyski/itertools-php: PHP 迭代工具库](https://github.com/markrogoyski/itertools-php) 
