@@ -247,6 +247,7 @@
 ### March 6, 2023 
 - [sashabaranov/go-openai: OpenAI ChatGPT、GPT-3、DALL·E、Go 的 Whisper API 包装器](https://github.com/sashabaranov/go-openai) 
 - [TomasVotruba/bladestan: Blade 模板的 PHPStan 分析](https://github.com/TomasVotruba/bladestan) 
+- [MacsiDigital/laravel-zoom: Laravel Zoom Package](https://github.com/MacsiDigital/laravel-zoom) 
 ### March 3, 2023 
 - [rakyll/openai-go: OpenAI 的 Go 客户端库](https://github.com/rakyll/openai-go) 
 - [vinkla/laravel-shield: 一个用于 Laravel 的 HTTP 基本认证中间件](https://github.com/vinkla/laravel-shield) 
