@@ -244,6 +244,9 @@
 
 
 
+
+### March 7, 2023 
+- [ServiceWeaver/weaver: 用于编写和部署云应用程序的编程框架。](https://github.com/ServiceWeaver/weaver) 
 ### March 6, 2023 
 - [sashabaranov/go-openai: OpenAI ChatGPT、GPT-3、DALL·E、Go 的 Whisper API 包装器](https://github.com/sashabaranov/go-openai) 
 - [TomasVotruba/bladestan: Blade 模板的 PHPStan 分析](https://github.com/TomasVotruba/bladestan) 
