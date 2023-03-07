@@ -249,6 +249,7 @@
 - [ServiceWeaver/weaver: 用于编写和部署云应用程序的编程框架。](https://github.com/ServiceWeaver/weaver) 
 - [ARCANEDEV/Localization: 🌐 Laravel 本地化包](https://github.com/ARCANEDEV/Localization) 
 - [andreaselia/laravel-analytics: 使用精美且易于使用的仪表板轻松收集页面视图分析。](https://github.com/andreaselia/laravel-analytics) 
+- [yeqown/fasthttp-reverse-proxy: 基于fasthttp的反向http / websocket代理](https://github.com/yeqown/fasthttp-reverse-proxy) 
 ### March 6, 2023 
 - [sashabaranov/go-openai: OpenAI ChatGPT、GPT-3、DALL·E、Go 的 Whisper API 包装器](https://github.com/sashabaranov/go-openai) 
 - [TomasVotruba/bladestan: Blade 模板的 PHPStan 分析](https://github.com/TomasVotruba/bladestan) 
