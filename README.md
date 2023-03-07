@@ -253,6 +253,7 @@
 - [hellofresh/health-go: 为 Go 应用程序提供基本健康检查功能的库。](https://github.com/hellofresh/health-go) 
 - [Crell/EnvMapper: 轻松地将环境变量映射到定义的分类对象中，为依赖注入做好准备。](https://github.com/Crell/EnvMapper) 
 - [Crell/EnvMapper: 轻松地将环境变量映射到定义的分类对象中，为依赖注入做好准备。](https://github.com/Crell/EnvMapper) 
+- [Crell/AttributeUtils: 有助于简化属性解析和管理的实用程序](https://github.com/Crell/AttributeUtils) 
 ### March 6, 2023 
 - [sashabaranov/go-openai: OpenAI ChatGPT、GPT-3、DALL·E、Go 的 Whisper API 包装器](https://github.com/sashabaranov/go-openai) 
 - [TomasVotruba/bladestan: Blade 模板的 PHPStan 分析](https://github.com/TomasVotruba/bladestan) 
