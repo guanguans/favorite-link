@@ -253,6 +253,7 @@
 - [abbasudo/laravel-purity: 在 Laravel 中过滤和排序查询的优雅方式](https://github.com/abbasudo/laravel-purity) 
 - [869413421/chatgpt-web: 基于ChatGPT3.5 API实现的私有化web程序](https://github.com/869413421/chatgpt-web) 
 - [abbasudo/artisan-route: add route to access artisan](https://github.com/abbasudo/artisan-route) 
+- [yetone/openai-translator: 基于 ChatGPT API 的划词翻译 Chrome 插件](https://github.com/yetone/openai-translator) 
 ### March 7, 2023 
 - [ServiceWeaver/weaver: 用于编写和部署云应用程序的编程框架。](https://github.com/ServiceWeaver/weaver) 
 - [ARCANEDEV/Localization: 🌐 Laravel 本地化包](https://github.com/ARCANEDEV/Localization) 
