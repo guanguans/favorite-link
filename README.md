@@ -250,6 +250,7 @@
 - [TomasVotruba/laratyped: 一堆 PHPStan 规则来确保 Laravel 项目干净、类型化和可靠](https://github.com/TomasVotruba/laratyped) 
 - [hammerstonedev/flaky: Flaky for Laravel 是一个包，可帮助您处理由于不可靠的第三方而可能出现间歇性故障的操作。](https://github.com/hammerstonedev/flaky) 
 - [pandodao/i18n-cli: 一个 CLI 工具，它利用 OpenAI API 来翻译基于 JSON 的语言环境文件](https://github.com/pandodao/i18n-cli) 
+- [abbasudo/laravel-purity: 在 Laravel 中过滤和排序查询的优雅方式](https://github.com/abbasudo/laravel-purity) 
 ### March 7, 2023 
 - [ServiceWeaver/weaver: 用于编写和部署云应用程序的编程框架。](https://github.com/ServiceWeaver/weaver) 
 - [ARCANEDEV/Localization: 🌐 Laravel 本地化包](https://github.com/ARCANEDEV/Localization) 
