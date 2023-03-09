@@ -251,6 +251,7 @@
 - [beyondcode/writeout.ai: 转录和翻译您的音频文件 - 免费](https://github.com/beyondcode/writeout.ai) 
 - [alecthomas/assert: 一个使用 Go 泛型的简单断言库](https://github.com/alecthomas/assert) 
 - [CoderOpen/PHPSeniorInterview: 全网最全最新的高级PHP面试题，由浅入深从底层到架构全方位分析讲解](https://github.com/CoderOpen/PHPSeniorInterview) 
+- [foxcpp/maddy: 可组合的多合一邮件服务器。](https://github.com/foxcpp/maddy) 
 ### March 8, 2023 
 - [TomasVotruba/laratyped: 一堆 PHPStan 规则来确保 Laravel 项目干净、类型化和可靠](https://github.com/TomasVotruba/laratyped) 
 - [hammerstonedev/flaky: Flaky for Laravel 是一个包，可帮助您处理由于不可靠的第三方而可能出现间歇性故障的操作。](https://github.com/hammerstonedev/flaky) 
