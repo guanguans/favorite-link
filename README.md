@@ -253,6 +253,7 @@
 - [NginxProxyManager/nginx-proxy-manager: 用于管理 Nginx 代理主机的 Docker 容器，具有简单、强大的界面](https://github.com/NginxProxyManager/nginx-proxy-manager) 
 - [antonmedv/countdown: 终端倒计时](https://github.com/antonmedv/countdown) 
 - [chathub-dev/chathub: 多合一聊天机器人客户端](https://github.com/chathub-dev/chathub) 
+- [piglei/ai-vocabulary-builder: 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。](https://github.com/piglei/ai-vocabulary-builder) 
 ### March 9, 2023 
 - [beyondcode/writeout.ai: 转录和翻译您的音频文件 - 免费](https://github.com/beyondcode/writeout.ai) 
 - [alecthomas/assert: 一个使用 Go 泛型的简单断言库](https://github.com/alecthomas/assert) 
