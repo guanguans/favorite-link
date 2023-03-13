@@ -248,6 +248,9 @@
 
 
 
+
+### March 13, 2023 
+- [skratchdot/open-golang: 使用操作系统针对该对象类型的默认应用程序打开文件、目录或 URI。或者，您可以指定要使用的应用程序。](https://github.com/skratchdot/open-golang) 
 ### March 10, 2023 
 - [5balloons/laravel-smart-ads: Laravel 的广告、横幅、标注管理器和自动广告插入器](https://github.com/5balloons/laravel-smart-ads) 
 - [NginxProxyManager/nginx-proxy-manager: 用于管理 Nginx 代理主机的 Docker 容器，具有简单、强大的界面](https://github.com/NginxProxyManager/nginx-proxy-manager) 
