@@ -252,6 +252,7 @@
 
 ### March 14, 2023 
 - [hydephp/hyde: HydePHP - HydePHP - 具有 Laravel 的强大功能和 Markdown 的简单性的静态站点生成器。](https://github.com/hydephp/hyde) 
+- [JustSteveKing/http-status-code: 一个简单的类，用于为 http 响应返回正确的状态代码。](https://github.com/JustSteveKing/http-status-code) 
 ### March 13, 2023 
 - [skratchdot/open-golang: 使用操作系统针对该对象类型的默认应用程序打开文件、目录或 URI。或者，您可以指定要使用的应用程序。](https://github.com/skratchdot/open-golang) 
 ### March 10, 2023 
