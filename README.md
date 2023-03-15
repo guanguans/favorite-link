@@ -254,6 +254,7 @@
 ### March 15, 2023 
 - [dwightwatson/rememberable: Laravel 的查询缓存](https://github.com/dwightwatson/rememberable) 
 - [GrahamCampbell/Analyzer: 检查引用的类是否真的存在](https://github.com/GrahamCampbell/Analyzer) 
+- [cohesivestack/valgo: Valgo是一个类型安全、表达力强和可扩展的Golang验证器库](https://github.com/cohesivestack/valgo) 
 ### March 14, 2023 
 - [hydephp/hyde: HydePHP - HydePHP - 具有 Laravel 的强大功能和 Markdown 的简单性的静态站点生成器。](https://github.com/hydephp/hyde) 
 - [JustSteveKing/http-status-code: 一个简单的类，用于为 http 响应返回正确的状态代码。](https://github.com/JustSteveKing/http-status-code) 
