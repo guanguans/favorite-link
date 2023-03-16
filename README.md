@@ -256,6 +256,7 @@
 - [rawilk/laravel-settings: 将 Laravel 应用程序设置存储在数据库中。](https://github.com/rawilk/laravel-settings) 
 - [TimoKoerber/laravel-one-time-operations: 部署后运行一次操作 - 就像迁移一样！](https://github.com/TimoKoerber/laravel-one-time-operations) 
 - [devoption/codexa: Codexa 是一个使用 Laravel 框架构建的文档系统](https://github.com/devoption/codexa) 
+- [jpillora/overseer: Go (golang) 中的可监控、优雅重启、自升级二进制文件](https://github.com/jpillora/overseer) 
 ### March 15, 2023 
 - [dwightwatson/rememberable: Laravel 的查询缓存](https://github.com/dwightwatson/rememberable) 
 - [GrahamCampbell/Analyzer: 检查引用的类是否真的存在](https://github.com/GrahamCampbell/Analyzer) 
