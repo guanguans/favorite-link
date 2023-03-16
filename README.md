@@ -251,6 +251,9 @@
 
 
 
+
+### March 16, 2023 
+- [rawilk/laravel-settings: 将 Laravel 应用程序设置存储在数据库中。](https://github.com/rawilk/laravel-settings) 
 ### March 15, 2023 
 - [dwightwatson/rememberable: Laravel 的查询缓存](https://github.com/dwightwatson/rememberable) 
 - [GrahamCampbell/Analyzer: 检查引用的类是否真的存在](https://github.com/GrahamCampbell/Analyzer) 
