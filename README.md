@@ -254,6 +254,7 @@
 
 ### March 16, 2023 
 - [rawilk/laravel-settings: 将 Laravel 应用程序设置存储在数据库中。](https://github.com/rawilk/laravel-settings) 
+- [TimoKoerber/laravel-one-time-operations: 部署后运行一次操作 - 就像迁移一样！](https://github.com/TimoKoerber/laravel-one-time-operations) 
 ### March 15, 2023 
 - [dwightwatson/rememberable: Laravel 的查询缓存](https://github.com/dwightwatson/rememberable) 
 - [GrahamCampbell/Analyzer: 检查引用的类是否真的存在](https://github.com/GrahamCampbell/Analyzer) 
