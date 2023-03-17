@@ -255,6 +255,7 @@
 
 ### March 17, 2023 
 - [tpetry/laravel-query-expressions: 用表达式替换任何查询原始调用](https://github.com/tpetry/laravel-query-expressions) 
+- [amphp/pipeline: 并发迭代器和管道操作。](https://github.com/amphp/pipeline) 
 ### March 16, 2023 
 - [rawilk/laravel-settings: 将 Laravel 应用程序设置存储在数据库中。](https://github.com/rawilk/laravel-settings) 
 - [TimoKoerber/laravel-one-time-operations: 部署后运行一次操作 - 就像迁移一样！](https://github.com/TimoKoerber/laravel-one-time-operations) 
