@@ -258,6 +258,7 @@
 - [amphp/pipeline: 并发迭代器和管道操作。](https://github.com/amphp/pipeline) 
 - [akaunting/laravel-module: Laravel 的模块管理包](https://github.com/akaunting/laravel-module) 
 - [tighten/duster: Laravel 应用程序的自动配置以应用 Tighten 的标准 linting 和代码标准。](https://github.com/tighten/duster) 
+- [canonical/multipass: Multipass 编排虚拟 Ubuntu 实例](https://github.com/canonical/multipass) 
 ### March 16, 2023 
 - [rawilk/laravel-settings: 将 Laravel 应用程序设置存储在数据库中。](https://github.com/rawilk/laravel-settings) 
 - [TimoKoerber/laravel-one-time-operations: 部署后运行一次操作 - 就像迁移一样！](https://github.com/TimoKoerber/laravel-one-time-operations) 
