@@ -256,6 +256,7 @@
 
 ### March 20, 2023 
 - [eduardokum/laravel-mail-auto-embed: 自动解析您的消息并将找到的图像嵌入到您的邮件中](https://github.com/eduardokum/laravel-mail-auto-embed) 
+- [MaestroError/html-strings-affixer: HSA for Laravel - 帮助使 laravel 项目多语言化。在 HTML 中查找文本并将其替换为带后缀和前缀的字符串](https://github.com/MaestroError/html-strings-affixer) 
 ### March 17, 2023 
 - [tpetry/laravel-query-expressions: 用表达式替换任何查询原始调用](https://github.com/tpetry/laravel-query-expressions) 
 - [amphp/pipeline: 并发迭代器和管道操作。](https://github.com/amphp/pipeline) 
