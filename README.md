@@ -253,6 +253,9 @@
 
 
 
+
+### March 20, 2023 
+- [eduardokum/laravel-mail-auto-embed: 自动解析您的消息并将找到的图像嵌入到您的邮件中](https://github.com/eduardokum/laravel-mail-auto-embed) 
 ### March 17, 2023 
 - [tpetry/laravel-query-expressions: 用表达式替换任何查询原始调用](https://github.com/tpetry/laravel-query-expressions) 
 - [amphp/pipeline: 并发迭代器和管道操作。](https://github.com/amphp/pipeline) 
