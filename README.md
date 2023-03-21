@@ -257,6 +257,7 @@
 
 ### March 21, 2023 
 - [matoous/go-nanoid: Golang 随机 ID 生成器。](https://github.com/matoous/go-nanoid) 
+- [lezhnev74/pasvl: 数组验证器（数组的正则表达式，某种）](https://github.com/lezhnev74/pasvl) 
 ### March 20, 2023 
 - [eduardokum/laravel-mail-auto-embed: 自动解析您的消息并将找到的图像嵌入到您的邮件中](https://github.com/eduardokum/laravel-mail-auto-embed) 
 - [MaestroError/html-strings-affixer: HSA for Laravel - 帮助使 laravel 项目多语言化。在 HTML 中查找文本并将其替换为带后缀和前缀的字符串](https://github.com/MaestroError/html-strings-affixer) 
