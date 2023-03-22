@@ -261,6 +261,7 @@
 - [softon/laravel-face-detect: 一个用于人脸检测的 Laravel 包](https://github.com/softon/laravel-face-detect) 
 - [sebastianbergmann/uuid: 生成 UUID 的函数（作为字符串）](https://github.com/sebastianbergmann/uuid) 
 - [gofireflyio/aiac: 人工智能基础设施即代码生成器。](https://github.com/gofireflyio/aiac) 
+- [1Panel-dev/1Panel: 现代化、开源的 Linux 服务器运维管理面板。](https://github.com/1Panel-dev/1Panel) 
 ### March 21, 2023 
 - [matoous/go-nanoid: Golang 随机 ID 生成器。](https://github.com/matoous/go-nanoid) 
 - [lezhnev74/pasvl: 数组验证器（数组的正则表达式，某种）](https://github.com/lezhnev74/pasvl) 
