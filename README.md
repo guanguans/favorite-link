@@ -255,6 +255,9 @@
 
 
 
+
+### March 22, 2023 
+- [ManiruzzamanAkash/laravel-role: Laravel 角色和权限管理基本项目设置，用于启动一个新的项目，包括 Laravel 7.x 和9的基本角色和权限管理。](https://github.com/ManiruzzamanAkash/laravel-role) 
 ### March 21, 2023 
 - [matoous/go-nanoid: Golang 随机 ID 生成器。](https://github.com/matoous/go-nanoid) 
 - [lezhnev74/pasvl: 数组验证器（数组的正则表达式，某种）](https://github.com/lezhnev74/pasvl) 
