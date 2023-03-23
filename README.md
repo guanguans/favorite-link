@@ -256,6 +256,9 @@
 
 
 
+
+### March 23, 2023 
+- [rmariuzzo/Laravel-JS-Localization: 🌐 转换您的 Laravel 消息并在前端使用它们！](https://github.com/rmariuzzo/Laravel-JS-Localization) 
 ### March 22, 2023 
 - [ManiruzzamanAkash/laravel-role: Laravel 角色和权限管理基本项目设置，用于启动一个新的项目，包括 Laravel 7.x 和9的基本角色和权限管理。](https://github.com/ManiruzzamanAkash/laravel-role) 
 - [softon/laravel-face-detect: 一个用于人脸检测的 Laravel 包](https://github.com/softon/laravel-face-detect) 
