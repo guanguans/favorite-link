@@ -258,6 +258,9 @@
 
 
 
+
+### March 27, 2023 
+- [m1guelpf/browser-agent: 浏览器 AI 代理，使用 GPT-4](https://github.com/m1guelpf/browser-agent) 
 ### March 24, 2023 
 - [stefanzweifel/laravel-backup-restore: 用于恢复使用 spatie/laravel-backup 制作的数据库备份的包。](https://github.com/stefanzweifel/laravel-backup-restore) 
 ### March 23, 2023 
