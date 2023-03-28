@@ -264,6 +264,7 @@
 - [TomasVotruba/laravelize: 帮助您从 Symfony 迁移到 Laravel 的工具包](https://github.com/TomasVotruba/laravelize) 
 - [marksitko/laravel-unsplash: 强大的 Laravel Unsplash 包](https://github.com/marksitko/laravel-unsplash) 
 - [lstrojny/uffff: UNICODE输入处理变得微不足道！](https://github.com/lstrojny/uffff) 
+- [jeremeamia/mu: 3-LOC µ（MU）PHP微框架](https://github.com/jeremeamia/mu) 
 ### March 27, 2023 
 - [m1guelpf/browser-agent: 浏览器 AI 代理，使用 GPT-4](https://github.com/m1guelpf/browser-agent) 
 ### March 24, 2023 
