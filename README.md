@@ -263,6 +263,7 @@
 
 ### March 29, 2023 
 - [aschmelyun/subvert: 在几秒钟内从视频生成字幕、摘要和章节](https://github.com/aschmelyun/subvert) 
+- [configuredco/haulable: 使用 PHP Micro CLI 创建独立的 PHP CLI 应用程序](https://github.com/configuredco/haulable) 
 ### March 28, 2023 
 - [TomasVotruba/laravelize: 帮助您从 Symfony 迁移到 Laravel 的工具包](https://github.com/TomasVotruba/laravelize) 
 - [marksitko/laravel-unsplash: 强大的 Laravel Unsplash 包](https://github.com/marksitko/laravel-unsplash) 
