@@ -266,6 +266,7 @@
 - [configuredco/haulable: 使用 PHP Micro CLI 创建独立的 PHP CLI 应用程序](https://github.com/configuredco/haulable) 
 - [mmucklo/email-parse: Email\Parse 是用于 php 的多（和单个）电子邮件地址解析器，它合理地符合 RFC822 / RFC2822 标准。](https://github.com/mmucklo/email-parse) 
 - [brainfoolong/cryptojs-aes-php: CryptoJS 3.x AES 加密/解密在客户端使用 Javascript，在服务器端使用 PHP](https://github.com/brainfoolong/cryptojs-aes-php) 
+- [AlexxIT/go2rtc: 支持 RTSP、RTMP、HTTP-FLV、WebRTC、MSE、HLS、MJPEG、HomeKit、FFmpeg 等的终极相机流应用程序。](https://github.com/AlexxIT/go2rtc) 
 ### March 28, 2023 
 - [TomasVotruba/laravelize: 帮助您从 Symfony 迁移到 Laravel 的工具包](https://github.com/TomasVotruba/laravelize) 
 - [marksitko/laravel-unsplash: 强大的 Laravel Unsplash 包](https://github.com/marksitko/laravel-unsplash) 
