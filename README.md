@@ -264,6 +264,7 @@
 
 ### March 30, 2023 
 - [nomic-ai/gpt4all: gpt4all：一个聊天机器人，接受了大量干净的助手数据的训练，包括代码、故事和对话](https://github.com/nomic-ai/gpt4all) 
+- [GaiZhenbiao/ChuanhuChatGPT: ChatGPT API 的 GUI](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 
 ### March 29, 2023 
 - [aschmelyun/subvert: 在几秒钟内从视频生成字幕、摘要和章节](https://github.com/aschmelyun/subvert) 
 - [configuredco/haulable: 使用 PHP Micro CLI 创建独立的 PHP CLI 应用程序](https://github.com/configuredco/haulable) 
