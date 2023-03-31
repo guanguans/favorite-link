@@ -265,6 +265,7 @@
 
 ### March 31, 2023 
 - [colega/zeropool: Go 的零分配类型安全池](https://github.com/colega/zeropool) 
+- [channyein1337/jsleak: jsleak 是一种在侦察期间在源代码中查找秘密、路径或链接的工具。](https://github.com/channyein1337/jsleak) 
 ### March 30, 2023 
 - [nomic-ai/gpt4all: gpt4all：一个聊天机器人，接受了大量干净的助手数据的训练，包括代码、故事和对话](https://github.com/nomic-ai/gpt4all) 
 - [GaiZhenbiao/ChuanhuChatGPT: ChatGPT API 的 GUI](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 
