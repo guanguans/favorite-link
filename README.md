@@ -266,6 +266,7 @@
 
 ### April 3, 2023 
 - [godly-devotion/MochiDiffusion: 在 Mac 上本地运行MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) 
+- [DeGraciaMathieu/php-wording-detector: 用于分析和拆分变量中包含的单词以检查 DDD 方法的简单工具。](https://github.com/DeGraciaMathieu/php-wording-detector) 
 ### March 31, 2023 
 - [colega/zeropool: Go 的零分配类型安全池](https://github.com/colega/zeropool) 
 - [channyein1337/jsleak: jsleak 是一种在侦察期间在源代码中查找秘密、路径或链接的工具。](https://github.com/channyein1337/jsleak) 
