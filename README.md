@@ -263,6 +263,9 @@
 
 
 
+
+### April 3, 2023 
+- [godly-devotion/MochiDiffusion: 在 Mac 上本地运行MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) 
 ### March 31, 2023 
 - [colega/zeropool: Go 的零分配类型安全池](https://github.com/colega/zeropool) 
 - [channyein1337/jsleak: jsleak 是一种在侦察期间在源代码中查找秘密、路径或链接的工具。](https://github.com/channyein1337/jsleak) 
