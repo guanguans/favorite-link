@@ -268,6 +268,7 @@
 - [godly-devotion/MochiDiffusion: 在 Mac 上本地运行MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) 
 - [DeGraciaMathieu/php-wording-detector: 用于分析和拆分变量中包含的单词以检查 DDD 方法的简单工具。](https://github.com/DeGraciaMathieu/php-wording-detector) 
 - [Laragear/Clipboard: 在您的应用程序中剪切、复制和粘贴值](https://github.com/Laragear/Clipboard) 
+- [dwisiswant0/galer: 通过抓取从 HTML 属性中获取 URL 的快速工具。](https://github.com/dwisiswant0/galer) 
 ### March 31, 2023 
 - [colega/zeropool: Go 的零分配类型安全池](https://github.com/colega/zeropool) 
 - [channyein1337/jsleak: jsleak 是一种在侦察期间在源代码中查找秘密、路径或链接的工具。](https://github.com/channyein1337/jsleak) 
