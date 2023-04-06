@@ -272,6 +272,7 @@
 - [patak-dev/refined-github-reactions: 增强了 GitHub Reactions 页面，使其更加紧凑。](https://github.com/patak-dev/refined-github-reactions) 
 - [patak-dev/refined-github-reactions: 增强了 GitHub Reactions 页面，使其更加紧凑。](https://github.com/patak-dev/refined-github-reactions) 
 - [cilium/pwru: 基于 eBPF 的 Linux 内核网络调试器](https://github.com/cilium/pwru) 
+- [OneSizeFitsQuorum/git-tips: 33 条常用 git 命令详解](https://github.com/OneSizeFitsQuorum/git-tips) 
 ### April 4, 2023 
 - [XayahSuSuSu/Android-DataBackup: Android 的数据备份](https://github.com/XayahSuSuSu/Android-DataBackup) 
 - [buo/homebrew-cask-upgrade: 用于升级 Homebrew Cask 安装的每个过时应用程序的命令行工具](https://github.com/buo/homebrew-cask-upgrade) 
