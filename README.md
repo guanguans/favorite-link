@@ -269,6 +269,7 @@
 ### April 6, 2023 
 - [iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice) 
 - [增强了 GitHub Reactions 页面，使其更加紧凑。](https://github.com/patak-dev/refined-github-reactions) 
+- [patak-dev/refined-github-reactions: 增强了 GitHub Reactions 页面，使其更加紧凑。](https://github.com/patak-dev/refined-github-reactions) 
 ### April 4, 2023 
 - [XayahSuSuSu/Android-DataBackup: Android 的数据备份](https://github.com/XayahSuSuSu/Android-DataBackup) 
 - [buo/homebrew-cask-upgrade: 用于升级 Homebrew Cask 安装的每个过时应用程序的命令行工具](https://github.com/buo/homebrew-cask-upgrade) 
