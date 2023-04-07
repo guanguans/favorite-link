@@ -269,6 +269,7 @@
 
 ### April 7, 2023 
 - [Skillshare/apollo-federation-php: 🌍 Apollo Federation 规范的 PHP 实现](https://github.com/Skillshare/apollo-federation-php) 
+- [Icalingua-plus-plus/Icalingua-plus-plus: A client for QQ and more.QQ等客户端。](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) 
 ### April 6, 2023 
 - [iDvel/rime-ice: Rime 配置：雾凇拼音 | 长期维护的简体词库](https://github.com/iDvel/rime-ice) 
 - [增强了 GitHub Reactions 页面，使其更加紧凑。](https://github.com/patak-dev/refined-github-reactions) 
