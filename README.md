@@ -270,6 +270,7 @@
 
 ### April 10, 2023 
 - [laracraft-tech/laravel-date-scopes: Laravel Eloquent 模型的一些有用的日期范围！](https://github.com/laracraft-tech/laravel-date-scopes) 
+- [hammerstonedev/enhanced-sqs: Laravel 的 SQS 连接器，可处理超过 15 分钟的延迟。](https://github.com/hammerstonedev/enhanced-sqs) 
 ### April 7, 2023 
 - [Skillshare/apollo-federation-php: 🌍 Apollo Federation 规范的 PHP 实现](https://github.com/Skillshare/apollo-federation-php) 
 - [Icalingua-plus-plus/Icalingua-plus-plus: A client for QQ and more.QQ等客户端。](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) 
