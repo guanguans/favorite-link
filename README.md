@@ -268,6 +268,9 @@
 
 
 
+
+### April 12, 2023 
+- [fynelabs/selfupdate: 构建自我更新的 Golang 程序](https://github.com/fynelabs/selfupdate) 
 ### April 10, 2023 
 - [laracraft-tech/laravel-date-scopes: Laravel Eloquent 模型的一些有用的日期范围！](https://github.com/laracraft-tech/laravel-date-scopes) 
 - [hammerstonedev/enhanced-sqs: Laravel 的 SQS 连接器，可处理超过 15 分钟的延迟。](https://github.com/hammerstonedev/enhanced-sqs) 
