@@ -273,6 +273,7 @@
 ### April 13, 2023 
 - [lolli42/FineDiff: FineDiff 是一个相当简单的库，用于创建两个字符串的 HTML 差异视图：](https://github.com/lolli42/FineDiff) 
 - [bruceshao/lockfree: 无锁队列](https://github.com/bruceshao/lockfree) 
+- [RahulDey12/laravel-console-spinner: 为 Laravel Artisan 控制台定制加载 ⌛ 微调器。](https://github.com/RahulDey12/laravel-console-spinner) 
 ### April 12, 2023 
 - [fynelabs/selfupdate: 构建自我更新的 Golang 程序](https://github.com/fynelabs/selfupdate) 
 - [noborus/trdsql: 可以对 CSV、LTSV、JSON 和 TBLN 执行 SQL 查询的 CLI 工具。可以输出各种格式。](https://github.com/noborus/trdsql) 
