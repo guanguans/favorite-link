@@ -276,6 +276,7 @@
 - [go-mmap/mmap: 包 mmap 提供了映射文件的方法。](https://github.com/go-mmap/mmap) 
 - [hammerstonedev/laravel-pseudo-daemon: 一个 Laravel 包，通过预定命令模拟守护进程，而无需更改服务器配置。](https://github.com/hammerstonedev/laravel-pseudo-daemon) 
 - [hammerstonedev/laravel-pseudo-daemon: Laravel软件包通过计划的命令模仿守护程序，而无需更改服务器配置。](https://github.com/hammerstonedev/laravel-pseudo-daemon) 
+- [MaestroError/php-heic-to-jpg: 使用 PHP 和 Laravel 框架将 HEIC 图像转换为 JPEG 的最简单方法](https://github.com/MaestroError/php-heic-to-jpg) 
 ### April 13, 2023 
 - [lolli42/FineDiff: FineDiff 是一个相当简单的库，用于创建两个字符串的 HTML 差异视图：](https://github.com/lolli42/FineDiff) 
 - [bruceshao/lockfree: 无锁队列](https://github.com/bruceshao/lockfree) 
