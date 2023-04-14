@@ -278,6 +278,7 @@
 - [hammerstonedev/laravel-pseudo-daemon: Laravel软件包通过计划的命令模仿守护程序，而无需更改服务器配置。](https://github.com/hammerstonedev/laravel-pseudo-daemon) 
 - [MaestroError/php-heic-to-jpg: 使用 PHP 和 Laravel 框架将 HEIC 图像转换为 JPEG 的最简单方法](https://github.com/MaestroError/php-heic-to-jpg) 
 - [milwad-dev/laravel-attributes: 让 Laravel 的属性变得简单](https://github.com/milwad-dev/laravel-attributes) 
+- [creasty/defaults: 使用默认值初始化结构](https://github.com/creasty/defaults) 
 ### April 13, 2023 
 - [lolli42/FineDiff: FineDiff 是一个相当简单的库，用于创建两个字符串的 HTML 差异视图：](https://github.com/lolli42/FineDiff) 
 - [bruceshao/lockfree: 无锁队列](https://github.com/bruceshao/lockfree) 
