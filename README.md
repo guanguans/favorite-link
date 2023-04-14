@@ -274,6 +274,7 @@
 ### April 14, 2023 
 - [kenepa/resource-lock: Filament Resource Lock 是一个 Filament 插件，可为您的站点添加资源锁定功能。](https://github.com/kenepa/resource-lock) 
 - [go-mmap/mmap: 包 mmap 提供了映射文件的方法。](https://github.com/go-mmap/mmap) 
+- [hammerstonedev/laravel-pseudo-daemon: 一个 Laravel 包，通过预定命令模拟守护进程，而无需更改服务器配置。](https://github.com/hammerstonedev/laravel-pseudo-daemon) 
 ### April 13, 2023 
 - [lolli42/FineDiff: FineDiff 是一个相当简单的库，用于创建两个字符串的 HTML 差异视图：](https://github.com/lolli42/FineDiff) 
 - [bruceshao/lockfree: 无锁队列](https://github.com/bruceshao/lockfree) 
