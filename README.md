@@ -275,6 +275,7 @@
 ### April 17, 2023 
 - [laracraft-tech/laravel-dynamic-model: Laravel 的动态 Eloquent 模型](https://github.com/laracraft-tech/laravel-dynamic-model) 
 - [YorCreative/Laravel-Scrubber: 一个 Laravel 包，用于清除敏感信息，这些信息会破坏操作安全策略，以免被开发人员意外泄露或无意泄露。](https://github.com/YorCreative/Laravel-Scrubber) 
+- [casdoor/go-sms-sender: 一个云端发送短信的助手库，目前支持阿里云、腾讯云和Voc Engine](https://github.com/casdoor/go-sms-sender) 
 ### April 14, 2023 
 - [kenepa/resource-lock: Filament Resource Lock 是一个 Filament 插件，可为您的站点添加资源锁定功能。](https://github.com/kenepa/resource-lock) 
 - [go-mmap/mmap: 包 mmap 提供了映射文件的方法。](https://github.com/go-mmap/mmap) 
