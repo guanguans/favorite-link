@@ -271,6 +271,9 @@
 
 
 
+
+### April 17, 2023 
+- [laracraft-tech/laravel-dynamic-model: Laravel 的动态 Eloquent 模型](https://github.com/laracraft-tech/laravel-dynamic-model) 
 ### April 14, 2023 
 - [kenepa/resource-lock: Filament Resource Lock 是一个 Filament 插件，可为您的站点添加资源锁定功能。](https://github.com/kenepa/resource-lock) 
 - [go-mmap/mmap: 包 mmap 提供了映射文件的方法。](https://github.com/go-mmap/mmap) 
