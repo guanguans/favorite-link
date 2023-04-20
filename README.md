@@ -274,6 +274,9 @@
 
 
 
+
+### April 20, 2023 
+- [c9s/CodeGen: 将您的动态调用转换为静态调用！](https://github.com/c9s/CodeGen) 
 ### April 19, 2023 
 - [mborders/artifex: 使用基于工作人员的调度的 Golang 简单内存中作业队列](https://github.com/mborders/artifex) 
 - [lmsqueezy/laravel: 一个包装，可以轻松地将Laravel应用程序与Lemon Squeezy整合在一起。](https://github.com/lmsqueezy/laravel) 
