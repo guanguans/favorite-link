@@ -275,6 +275,9 @@
 
 
 
+
+### April 21, 2023 
+- [francoispqt/onelog: 非常简单、超快、零分配的 Golang 记录器](https://github.com/francoispqt/onelog) 
 ### April 20, 2023 
 - [c9s/CodeGen: 将您的动态调用转换为静态调用！](https://github.com/c9s/CodeGen) 
 ### April 19, 2023 
