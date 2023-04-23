@@ -279,6 +279,7 @@
 
 ### April 23, 2023 
 - [JustSteveKing/laravel-webhooks: Laravel 的一个简单的 webhook 实现。](https://github.com/JustSteveKing/laravel-webhooks) 
+- [CocaineCong/gin-mall: 基于 gin+gorm+redis+mysql 读写分离的电子商城，包括 JWT 鉴权，CORS跨域，AES 对称加密，引入ELK体系，使用docker容器化部署](https://github.com/CocaineCong/gin-mall) 
 ### April 21, 2023 
 - [francoispqt/onelog: 非常简单、超快、零分配的 Golang 记录器](https://github.com/francoispqt/onelog) 
 ### April 20, 2023 
