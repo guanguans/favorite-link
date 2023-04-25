@@ -285,6 +285,7 @@
 - [Nimut/phpunit-merger: 将多个 PHPUnit 报告合并到一个文件中](https://github.com/Nimut/phpunit-merger) 
 - [Nimut/phpunit-merger: 将多个 PHPUnit 报告合并到一个文件中](https://github.com/Nimut/phpunit-merger) 
 - [dagu-labs/dagu: 另一个具有 Web UI 的 cron 替代方案，但具有更多功能。](https://github.com/dagu-labs/dagu) 
+- [BloopAI/bloop: bloop 是一个用 Rust 编写的快速代码搜索引擎。](https://github.com/BloopAI/bloop) 
 ### April 24, 2023 
 - [ProjektGopher/laravel-ffmpeg-tools: ](https://github.com/ProjektGopher/laravel-ffmpeg-tools) 
 - [milwad-dev/laravel-validate: 帮助为 Laravel 编写简单快速的高级验证](https://github.com/milwad-dev/laravel-validate) 
