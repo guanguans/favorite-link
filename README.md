@@ -284,6 +284,7 @@
 - [eliashaeussler/cache-warmup: 🔥 用于预热位于 XML 站点地图中的 URL 缓存的 Composer 包](https://github.com/eliashaeussler/cache-warmup) 
 - [samdark/sitemap: 站点地图和站点地图索引生成器](https://github.com/samdark/sitemap) 
 - [Dr-Noob/cpufetch: 简单又花哨的CPU架构抓取工具](https://github.com/Dr-Noob/cpufetch) 
+- [dylanaraps/neofetch: 🖼️ 用 bash 3.2+ 编写的命令行系统信息工具](https://github.com/dylanaraps/neofetch) 
 ### April 25, 2023 
 - [troelskn/phpweaver: 一个组合的运行时/静态代码分析工具，可以跟踪参数类型](https://github.com/troelskn/phpweaver) 
 - [vezaynk/Sitemap-Generator-Crawler: 用于递归抓取网站并生成站点地图的 PHP 脚本。](https://github.com/vezaynk/Sitemap-Generator-Crawler) 
