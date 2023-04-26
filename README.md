@@ -286,6 +286,7 @@
 - [Dr-Noob/cpufetch: 简单又花哨的CPU架构抓取工具](https://github.com/Dr-Noob/cpufetch) 
 - [dylanaraps/neofetch: 🖼️ 用 bash 3.2+ 编写的命令行系统信息工具](https://github.com/dylanaraps/neofetch) 
 - [jdavidbakr/replaceable-model: 向 Eloquent 模型添加“REPLACE”和“INSERT IGNORE”查询功能](https://github.com/jdavidbakr/replaceable-model) 
+- [al-one/laravel-replace-into: SQL replace into For Laravel](https://github.com/al-one/laravel-replace-into) 
 ### April 25, 2023 
 - [troelskn/phpweaver: 一个组合的运行时/静态代码分析工具，可以跟踪参数类型](https://github.com/troelskn/phpweaver) 
 - [vezaynk/Sitemap-Generator-Crawler: 用于递归抓取网站并生成站点地图的 PHP 脚本。](https://github.com/vezaynk/Sitemap-Generator-Crawler) 
