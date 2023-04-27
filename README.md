@@ -287,6 +287,7 @@
 - [google/buzzer: Buzzer 是一个模糊器工具链，允许编写 eBPF 模糊测试策略。](https://github.com/google/buzzer) 
 - [PawelDecowski/ldap-dn: 用于 PHP 的 LDAP DN 解析和操作库](https://github.com/PawelDecowski/ldap-dn) 
 - [xcanwin/KeepChatGPT: ChatGPT畅聊插件](https://github.com/xcanwin/KeepChatGPT) 
+- [sqlchat/sqlchat: 未来十年基于聊天的 SQL 客户端和编辑器](https://github.com/sqlchat/sqlchat) 
 ### April 26, 2023 
 - [eliashaeussler/cache-warmup: 🔥 用于预热位于 XML 站点地图中的 URL 缓存的 Composer 包](https://github.com/eliashaeussler/cache-warmup) 
 - [samdark/sitemap: 站点地图和站点地图索引生成器](https://github.com/samdark/sitemap) 
