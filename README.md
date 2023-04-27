@@ -284,6 +284,7 @@
 ### April 27, 2023 
 - [ralphjsmit/tall-interactive: 轻松创建表单、模式和幻灯片。](https://github.com/ralphjsmit/tall-interactive) 
 - [lucasdotvin/laravel-soulbscription: 一个简单的界面来处理订阅和功能消费。](https://github.com/lucasdotvin/laravel-soulbscription) 
+- [google/buzzer: Buzzer 是一个模糊器工具链，允许编写 eBPF 模糊测试策略。](https://github.com/google/buzzer) 
 ### April 26, 2023 
 - [eliashaeussler/cache-warmup: 🔥 用于预热位于 XML 站点地图中的 URL 缓存的 Composer 包](https://github.com/eliashaeussler/cache-warmup) 
 - [samdark/sitemap: 站点地图和站点地图索引生成器](https://github.com/samdark/sitemap) 
