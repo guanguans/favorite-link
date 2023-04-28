@@ -281,6 +281,9 @@
 
 
 
+
+### April 28, 2023 
+- [joedixon/laravel-translation: Laravel 应用程序的翻译管理。](https://github.com/joedixon/laravel-translation) 
 ### April 27, 2023 
 - [ralphjsmit/tall-interactive: 轻松创建表单、模式和幻灯片。](https://github.com/ralphjsmit/tall-interactive) 
 - [lucasdotvin/laravel-soulbscription: 一个简单的界面来处理订阅和功能消费。](https://github.com/lucasdotvin/laravel-soulbscription) 
