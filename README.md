@@ -284,6 +284,7 @@
 
 ### April 28, 2023 
 - [joedixon/laravel-translation: Laravel 应用程序的翻译管理。](https://github.com/joedixon/laravel-translation) 
+- [JustSteveKing/laravel-business-process: Laravel 业务流程是一种使用 Laravel 管道以结构化和类型安全的方式运行业务流程的简单而干净的方式。](https://github.com/JustSteveKing/laravel-business-process) 
 ### April 27, 2023 
 - [ralphjsmit/tall-interactive: 轻松创建表单、模式和幻灯片。](https://github.com/ralphjsmit/tall-interactive) 
 - [lucasdotvin/laravel-soulbscription: 一个简单的界面来处理订阅和功能消费。](https://github.com/lucasdotvin/laravel-soulbscription) 
