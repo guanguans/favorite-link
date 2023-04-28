@@ -288,6 +288,7 @@
 - [xiaolincoder/CS-Base: 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com](https://github.com/xiaolincoder/CS-Base) 
 - [bigskysoftware/htmx: htmx 允许您使用属性直接在 HTML 中访问 AJAX、CSS 转换、WebSocket 和服务器发送事件，因此您可以使用超文本的简单性和强大功能构建现代用户界面](https://github.com/bigskysoftware/htmx) 
 - [afosto/yaac: 如果您需要动态获取和安装证书，这个包会非常有用。](https://github.com/afosto/yaac) 
+- [TypiCMS/NestableCollection: 扩展 Eloquent\Collection 以处理遵循邻接列表模型的嵌套项目的 Laravel 包。](https://github.com/TypiCMS/NestableCollection) 
 ### April 27, 2023 
 - [ralphjsmit/tall-interactive: 轻松创建表单、模式和幻灯片。](https://github.com/ralphjsmit/tall-interactive) 
 - [lucasdotvin/laravel-soulbscription: 一个简单的界面来处理订阅和功能消费。](https://github.com/lucasdotvin/laravel-soulbscription) 
