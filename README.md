@@ -282,6 +282,9 @@
 
 
 
+
+### May 4, 2023 
+- [Z3d0X/filament-fabricator: 用于 Filament 应用程序的基于块的页面构建器骨架](https://github.com/Z3d0X/filament-fabricator) 
 ### April 28, 2023 
 - [joedixon/laravel-translation: Laravel 应用程序的翻译管理。](https://github.com/joedixon/laravel-translation) 
 - [JustSteveKing/laravel-business-process: Laravel 业务流程是一种使用 Laravel 管道以结构化和类型安全的方式运行业务流程的简单而干净的方式。](https://github.com/JustSteveKing/laravel-business-process) 
