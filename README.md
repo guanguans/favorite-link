@@ -287,6 +287,7 @@
 ### May 5, 2023 
 - [direnv/direnv: 整理您的 .profile](https://github.com/direnv/direnv) 
 - [umputun/spot: 一种用户友好且高效的工具，用于在远程计算机上轻松部署和配置资源。](https://github.com/umputun/spot) 
+- [phprtc/watcher: PHP 文件系统监视器](https://github.com/phprtc/watcher) 
 ### May 4, 2023 
 - [Z3d0X/filament-fabricator: 用于 Filament 应用程序的基于块的页面构建器骨架](https://github.com/Z3d0X/filament-fabricator) 
 - [koenhendriks/laravel-str-acronym: 这个包提供了一个宏，用于使用 Str 帮助器从 Laravel 项目中的字符串生成首字母缩略词，并支持 Stringable 类。](https://github.com/koenhendriks/laravel-str-acronym) 
