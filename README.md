@@ -287,6 +287,7 @@
 
 ### May 8, 2023 
 - [farag2/Sophia-Script-for-Windows: ⚡ GitHub 上最强大的 PowerShell 模块，用于微调 Windows 10 和 Windows 11](https://github.com/farag2/Sophia-Script-for-Windows) 
+- [workbunny/webman-ip-attribution: 🚀🐇用于IP属性查询的WebMan插件。](https://github.com/workbunny/webman-ip-attribution) 
 ### May 5, 2023 
 - [direnv/direnv: 整理您的 .profile](https://github.com/direnv/direnv) 
 - [umputun/spot: 一种用户友好且高效的工具，用于在远程计算机上轻松部署和配置资源。](https://github.com/umputun/spot) 
