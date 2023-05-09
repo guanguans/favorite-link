@@ -290,6 +290,7 @@
 - [huzaifaarain/laravel-safe-migration: 该软件包通过在运行实际迁移命令之前生成数据库备份来提供运行迁移命令的最安全方式。](https://github.com/huzaifaarain/laravel-safe-migration) 
 - [huzaifaarain/laravel-safe-migration: 该软件包通过在运行实际迁移命令之前生成数据库备份来提供运行迁移命令的最安全方式。](https://github.com/huzaifaarain/laravel-safe-migration) 
 - [carlmjohnson/workgroup: 一个通用的任务运行器](https://github.com/carlmjohnson/workgroup) 
+- [plagioriginal/concurrency-in-go: plagioriginal/concurrency-in-go: 这些是我在 golang 并发方面收集的所有知识](https://github.com/plagioriginal/concurrency-in-go) 
 ### May 8, 2023 
 - [farag2/Sophia-Script-for-Windows: ⚡ GitHub 上最强大的 PowerShell 模块，用于微调 Windows 10 和 Windows 11](https://github.com/farag2/Sophia-Script-for-Windows) 
 - [workbunny/webman-ip-attribution: 🚀🐇用于IP属性查询的WebMan插件。](https://github.com/workbunny/webman-ip-attribution) 
