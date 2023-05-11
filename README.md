@@ -290,6 +290,7 @@
 
 ### May 11, 2023 
 - [spatie/regex: PHP 内置 preg_* 函数的合理接口](https://github.com/spatie/regex) 
+- [shunnmugam/laravel-admin: 带有主题、模块、工匠命令和帮助类的 Laravel 管理面板。带有主题和模块的 Laravel 管理样板](https://github.com/shunnmugam/laravel-admin) 
 ### May 10, 2023 
 - [bitjson/typescript-starter: 快速创建和配置新库或 Node.js 项目](https://github.com/bitjson/typescript-starter) 
 - [Daursu/laravel-zero-downtime-migration: 使用 Laravel 和 pt-online-schema-change 进行零停机迁移](https://github.com/Daursu/laravel-zero-downtime-migration) 
