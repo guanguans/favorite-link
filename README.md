@@ -297,6 +297,7 @@
 - [mlocati/php-cs-fixer-configurator: 检查 PHP-CS-Fixer 修复器并轻松配置它们](https://github.com/mlocati/php-cs-fixer-configurator) 
 - [kubawerlos/php-cs-fixer-custom-fixers: 一组用于 PHP CS Fixer 的自定义修复器](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) 
 - [ergebnis/php-cs-fixer-config: 📓 为 friendsofphp/php-cs-fixer 提供一个配置工厂和多个规则集。](https://github.com/ergebnis/php-cs-fixer-config) 
+- [PedroTroller/PhpCSFixer-Custom-Fixers: 一组新的 PHP-CS-Fixer 修复器](https://github.com/PedroTroller/PhpCSFixer-Custom-Fixers) 
 ### May 10, 2023 
 - [bitjson/typescript-starter: 快速创建和配置新库或 Node.js 项目](https://github.com/bitjson/typescript-starter) 
 - [Daursu/laravel-zero-downtime-migration: 使用 Laravel 和 pt-online-schema-change 进行零停机迁移](https://github.com/Daursu/laravel-zero-downtime-migration) 
