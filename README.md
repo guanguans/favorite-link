@@ -295,6 +295,7 @@
 - [gabriel-vasile/mimetype: 基于幻数的用于媒体类型和文件扩展名检测的快速 Golang 库](https://github.com/gabriel-vasile/mimetype) 
 - [aceld/EasySJMS: Easy搞定Golang设计模式](https://github.com/aceld/EasySJMS) 
 - [mlocati/php-cs-fixer-configurator: 检查 PHP-CS-Fixer 修复器并轻松配置它们](https://github.com/mlocati/php-cs-fixer-configurator) 
+- [kubawerlos/php-cs-fixer-custom-fixers: 一组用于 PHP CS Fixer 的自定义修复器](https://github.com/kubawerlos/php-cs-fixer-custom-fixers) 
 ### May 10, 2023 
 - [bitjson/typescript-starter: 快速创建和配置新库或 Node.js 项目](https://github.com/bitjson/typescript-starter) 
 - [Daursu/laravel-zero-downtime-migration: 使用 Laravel 和 pt-online-schema-change 进行零停机迁移](https://github.com/Daursu/laravel-zero-downtime-migration) 
