@@ -292,6 +292,7 @@
 - [spatie/regex: PHP 内置 preg_* 函数的合理接口](https://github.com/spatie/regex) 
 - [shunnmugam/laravel-admin: 带有主题、模块、工匠命令和帮助类的 Laravel 管理面板。带有主题和模块的 Laravel 管理样板](https://github.com/shunnmugam/laravel-admin) 
 - [faabiosr/cachego: Golang 缓存组件 - 多个驱动程序](https://github.com/faabiosr/cachego) 
+- [gabriel-vasile/mimetype: 基于幻数的用于媒体类型和文件扩展名检测的快速 Golang 库](https://github.com/gabriel-vasile/mimetype) 
 ### May 10, 2023 
 - [bitjson/typescript-starter: 快速创建和配置新库或 Node.js 项目](https://github.com/bitjson/typescript-starter) 
 - [Daursu/laravel-zero-downtime-migration: 使用 Laravel 和 pt-online-schema-change 进行零停机迁移](https://github.com/Daursu/laravel-zero-downtime-migration) 
