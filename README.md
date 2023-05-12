@@ -292,6 +292,7 @@
 ### May 12, 2023 
 - [gphper/ginadmin: 基于Gin开发的后台脚手架，集成了、数据库操作、日志管理、权限分配管理、多模板页面、自动分页器、数据库迁移和填充、Docker集成部署等功能、静态资源打包](https://github.com/gphper/ginadmin) 
 - [joetannenbaum/terminalia: Laravel 漂亮的控制台输出](https://github.com/joetannenbaum/terminalia) 
+- [joetannenbaum/php-mac-automator: 用于在 Mac 上执行脚本自动化的 PHP 库](https://github.com/joetannenbaum/php-mac-automator) 
 ### May 11, 2023 
 - [spatie/regex: PHP 内置 preg_* 函数的合理接口](https://github.com/spatie/regex) 
 - [shunnmugam/laravel-admin: 带有主题、模块、工匠命令和帮助类的 Laravel 管理面板。带有主题和模块的 Laravel 管理样板](https://github.com/shunnmugam/laravel-admin) 
