@@ -294,6 +294,7 @@
 - [joetannenbaum/terminalia: Laravel 漂亮的控制台输出](https://github.com/joetannenbaum/terminalia) 
 - [joetannenbaum/php-mac-automator: 用于在 Mac 上执行脚本自动化的 PHP 库](https://github.com/joetannenbaum/php-mac-automator) 
 - [natemoo-re/clack: 毫不费力地构建漂亮的命令行应用程序](https://github.com/natemoo-re/clack) 
+- [TykTechnologies/tyk: 用 Go 编写的 Tyk 开源 API 网关，支持 REST、GraphQL、TCP 和 gRPC 协议Topics](https://github.com/TykTechnologies/tyk) 
 ### May 11, 2023 
 - [spatie/regex: PHP 内置 preg_* 函数的合理接口](https://github.com/spatie/regex) 
 - [shunnmugam/laravel-admin: 带有主题、模块、工匠命令和帮助类的 Laravel 管理面板。带有主题和模块的 Laravel 管理样板](https://github.com/shunnmugam/laravel-admin) 
