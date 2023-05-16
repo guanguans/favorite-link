@@ -295,6 +295,7 @@
 - [simshaun/recurr: 用于处理重复规则 (RRULE) 的 PHP 库；旨在帮助处理周期性日历事件。](https://github.com/simshaun/recurr) 
 - [vaened/laravel-searcher: 雄辩的搜索引擎构建者。](https://github.com/vaened/laravel-searcher) 
 - [b-viguier/Slip: 使用 Php8.1 和 Fibers 进行异步编程的概念证明](https://github.com/b-viguier/Slip) 
+- [BedrockStreaming/Tornado: 一个用于异步编程的库🌪️🐎](https://github.com/BedrockStreaming/Tornado) 
 ### May 15, 2023 
 - [phpactor/language-server: 通用语言服务器](https://github.com/phpactor/language-server) 
 - [ferranfg/midjourney-discord-api-php: 通过 Discord API 使用 Midjourney Bot 生成图像。](https://github.com/ferranfg/midjourney-discord-api-php) 
