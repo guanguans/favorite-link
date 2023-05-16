@@ -293,6 +293,7 @@
 
 ### May 16, 2023 
 - [simshaun/recurr: 用于处理重复规则 (RRULE) 的 PHP 库；旨在帮助处理周期性日历事件。](https://github.com/simshaun/recurr) 
+- [vaened/laravel-searcher: 雄辩的搜索引擎构建者。](https://github.com/vaened/laravel-searcher) 
 ### May 15, 2023 
 - [phpactor/language-server: 通用语言服务器](https://github.com/phpactor/language-server) 
 - [ferranfg/midjourney-discord-api-php: 通过 Discord API 使用 Midjourney Bot 生成图像。](https://github.com/ferranfg/midjourney-discord-api-php) 
