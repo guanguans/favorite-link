@@ -291,6 +291,9 @@
 
 
 
+
+### May 17, 2023 
+- [Treblle/security-headers: 一组 HTTP 中间件类，用于改进 Laravel 应用程序中的安全标头。](https://github.com/Treblle/security-headers) 
 ### May 16, 2023 
 - [simshaun/recurr: 用于处理重复规则 (RRULE) 的 PHP 库；旨在帮助处理周期性日历事件。](https://github.com/simshaun/recurr) 
 - [vaened/laravel-searcher: 雄辩的搜索引擎构建者。](https://github.com/vaened/laravel-searcher) 
