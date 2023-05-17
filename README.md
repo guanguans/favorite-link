@@ -296,6 +296,7 @@
 - [Treblle/security-headers: 一组 HTTP 中间件类，用于改进 Laravel 应用程序中的安全标头。](https://github.com/Treblle/security-headers) 
 - [sabre-io/Baikal: Baïkal 是一个日历+联系人服务器](https://github.com/sabre-io/Baikal) 
 - [Orange-OpenSource/hurl: 使用纯文本发送、运行和测试 HTTP 请求。](https://github.com/Orange-OpenSource/hurl) 
+- [awcodes/overlook: 一个 Filament 插件，可将应用程序概述小部件添加到您的管理面板。](https://github.com/awcodes/overlook) 
 ### May 16, 2023 
 - [simshaun/recurr: 用于处理重复规则 (RRULE) 的 PHP 库；旨在帮助处理周期性日历事件。](https://github.com/simshaun/recurr) 
 - [vaened/laravel-searcher: 雄辩的搜索引擎构建者。](https://github.com/vaened/laravel-searcher) 
