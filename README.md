@@ -298,6 +298,7 @@
 - [tailscale/ToBeReviewedBot: GitHub App 用于监视未经审阅者批准而合并的 PR。](https://github.com/tailscale/ToBeReviewedBot) 
 - [repeale/fp-go: Fp-go 是由 Golang 1.18+ 泛型提供支持的函数式编程助手的集合。](https://github.com/repeale/fp-go) 
 - [kpango/gache: go应用程序最快的无锁缓存库](https://github.com/kpango/gache) 
+- [alibabacloud-go/dingtalk: 阿里云钉钉SDK for Go](https://github.com/alibabacloud-go/dingtalk) 
 ### May 17, 2023 
 - [Treblle/security-headers: 一组 HTTP 中间件类，用于改进 Laravel 应用程序中的安全标头。](https://github.com/Treblle/security-headers) 
 - [sabre-io/Baikal: Baïkal 是一个日历+联系人服务器](https://github.com/sabre-io/Baikal) 
