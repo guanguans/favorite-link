@@ -297,6 +297,7 @@
 ### May 19, 2023 
 - [reworck/filament-settings: Easy setting management for filament](https://github.com/reworck/filament-settings) 
 - [protonemedia/eddy-server-management: 服务器配置和零停机 PHP 部署的开源解决方案](https://github.com/protonemedia/eddy-server-management) 
+- [sapics/ip-location-db: 通过 ASN、GeoFeed、Whois、iptoasn.com、db-ip lite、GeoLite2 获取位置数据库的 ip](https://github.com/sapics/ip-location-db) 
 ### May 18, 2023 
 - [shuvroroy/filament-spatie-laravel-backup: 创建 Laravel 应用程序的备份](https://github.com/shuvroroy/filament-spatie-laravel-backup) 
 - [tailscale/ToBeReviewedBot: GitHub App 用于监视未经审阅者批准而合并的 PR。](https://github.com/tailscale/ToBeReviewedBot) 
