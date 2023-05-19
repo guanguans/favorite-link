@@ -293,6 +293,9 @@
 
 
 
+
+### May 19, 2023 
+- [reworck/filament-settings: Easy setting management for filament](https://github.com/reworck/filament-settings) 
 ### May 18, 2023 
 - [shuvroroy/filament-spatie-laravel-backup: 创建 Laravel 应用程序的备份](https://github.com/shuvroroy/filament-spatie-laravel-backup) 
 - [tailscale/ToBeReviewedBot: GitHub App 用于监视未经审阅者批准而合并的 PR。](https://github.com/tailscale/ToBeReviewedBot) 
