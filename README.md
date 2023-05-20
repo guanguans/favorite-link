@@ -294,6 +294,9 @@
 
 
 
+
+### May 20, 2023 
+- [dromara/issues-translate-action: 将非英语问题内容翻译成英语的操作。](https://github.com/dromara/issues-translate-action) 
 ### May 19, 2023 
 - [reworck/filament-settings: Easy setting management for filament](https://github.com/reworck/filament-settings) 
 - [protonemedia/eddy-server-management: 服务器配置和零停机 PHP 部署的开源解决方案](https://github.com/protonemedia/eddy-server-management) 
