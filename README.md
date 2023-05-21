@@ -295,6 +295,9 @@
 
 
 
+
+### May 21, 2023 
+- [tototoshi/staticmock: 一种仿真 DSL 用于代替测试中的静态方法。](https://github.com/tototoshi/staticmock) 
 ### May 20, 2023 
 - [dromara/issues-translate-action: 将非英语问题内容翻译成英语的操作。](https://github.com/dromara/issues-translate-action) 
 ### May 19, 2023 
