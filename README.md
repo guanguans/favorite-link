@@ -306,6 +306,7 @@
 - [amphp/dns: 基于 Amp 的 PHP 异步 DNS 解析。](https://github.com/amphp/dns) 
 - [Codeception/AspectMock: 最强大和灵活的 PHPUnit / Codeception 模拟框架。](https://github.com/Codeception/AspectMock) 
 - [webmozarts/glob: Ant 的 glob 的 PHP 实现。](https://github.com/webmozarts/glob) 
+- [webmozarts/console-parallelization: 启用 Symfony 控制台命令的并行化。](https://github.com/webmozarts/console-parallelization) 
 ### May 21, 2023 
 - [tototoshi/staticmock: 一种仿真 DSL 用于代替测试中的静态方法。](https://github.com/tototoshi/staticmock) 
 ### May 20, 2023 
