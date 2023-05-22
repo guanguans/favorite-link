@@ -299,6 +299,7 @@
 
 ### May 22, 2023 
 - [smacker/go-tree-sitter: Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter](https://github.com/smacker/go-tree-sitter) 
+- [tree-sitter/tree-sitter-go: Go grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-go) 
 ### May 21, 2023 
 - [tototoshi/staticmock: 一种仿真 DSL 用于代替测试中的静态方法。](https://github.com/tototoshi/staticmock) 
 ### May 20, 2023 
