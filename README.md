@@ -304,6 +304,7 @@
 - [paypal/junodb: JunoDB 是 PayPal 自主开发的安全、一致且高度可用的键值存储，可提供低、单位数毫秒的任何规模的延迟。](https://github.com/paypal/junodb) 
 - [sigwinhq/xezilaires-dev: 迭代结构化 Excel 电子表格，将行规范化为值对象，验证，序列化为 CSV、JSON、XML。](https://github.com/sigwinhq/xezilaires-dev) 
 - [amphp/dns: 基于 Amp 的 PHP 异步 DNS 解析。](https://github.com/amphp/dns) 
+- [Codeception/AspectMock: 最强大和灵活的 PHPUnit / Codeception 模拟框架。](https://github.com/Codeception/AspectMock) 
 ### May 21, 2023 
 - [tototoshi/staticmock: 一种仿真 DSL 用于代替测试中的静态方法。](https://github.com/tototoshi/staticmock) 
 ### May 20, 2023 
