@@ -301,6 +301,7 @@
 - [smacker/go-tree-sitter: Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter](https://github.com/smacker/go-tree-sitter) 
 - [tree-sitter/tree-sitter-go: Go grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-go) 
 - [tree-sitter/tree-sitter-php: PHP grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-php) 
+- [paypal/junodb: JunoDB 是 PayPal 自主开发的安全、一致且高度可用的键值存储，可提供低、单位数毫秒的任何规模的延迟。](https://github.com/paypal/junodb) 
 ### May 21, 2023 
 - [tototoshi/staticmock: 一种仿真 DSL 用于代替测试中的静态方法。](https://github.com/tototoshi/staticmock) 
 ### May 20, 2023 
