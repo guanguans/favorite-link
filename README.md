@@ -300,6 +300,7 @@
 
 ### May 23, 2023 
 - [radovskyb/watcher: watcher 是一个 Go 包，用于在不使用文件系统事件的情况下监视文件或目录更改。](https://github.com/radovskyb/watcher) 
+- [pengxiao-song/LaWGPT: 基于中文法律知识的大语言模型](https://github.com/pengxiao-song/LaWGPT) 
 ### May 22, 2023 
 - [smacker/go-tree-sitter: Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter](https://github.com/smacker/go-tree-sitter) 
 - [tree-sitter/tree-sitter-go: Go grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-go) 
