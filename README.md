@@ -298,6 +298,9 @@
 
 
 
+
+### May 24, 2023 
+- [MonitorControl/MonitorControl: 🖥 在 Mac 上控制显示器的亮度和音量，就像它是原生 Apple Display 一样。](https://github.com/MonitorControl/MonitorControl) 
 ### May 23, 2023 
 - [radovskyb/watcher: watcher 是一个 Go 包，用于在不使用文件系统事件的情况下监视文件或目录更改。](https://github.com/radovskyb/watcher) 
 - [pengxiao-song/LaWGPT: 基于中文法律知识的大语言模型](https://github.com/pengxiao-song/LaWGPT) 
