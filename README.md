@@ -302,6 +302,7 @@
 
 ### May 25, 2023 
 - [spatie/laravel-uptime-monitor: 一个功能强大且易于配置的正常运行时间和 ssl monitor](https://github.com/spatie/laravel-uptime-monitor) 
+- [bufbuild/knit-go: Knit 独立网关和 Go 嵌入式网关](https://github.com/bufbuild/knit-go) 
 ### May 24, 2023 
 - [MonitorControl/MonitorControl: 🖥 在 Mac 上控制显示器的亮度和音量，就像它是原生 Apple Display 一样。](https://github.com/MonitorControl/MonitorControl) 
 - [csunny/DB-GPT: 使用本地 GPT 与您的数据和环境交互，无数据泄露，100% 私密，100% 安全](https://github.com/csunny/DB-GPT) 
