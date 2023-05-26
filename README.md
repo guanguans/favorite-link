@@ -303,6 +303,7 @@
 
 ### May 26, 2023 
 - [MarJose123/filament-lockscreen: 一个 filament 插件，允许锁定您的应用程序屏幕并能够在重新登录后继续工作，与您的计算机/笔记本电脑相同。](https://github.com/MarJose123/filament-lockscreen) 
+- [go-skynet/LocalAI: 🤖 自托管、社区驱动、本地 OpenAI 兼容 API。在消费级硬件上运行 LLM 的 OpenAI 的替代品。](https://github.com/go-skynet/LocalAI) 
 ### May 25, 2023 
 - [spatie/laravel-uptime-monitor: 一个功能强大且易于配置的正常运行时间和 ssl monitor](https://github.com/spatie/laravel-uptime-monitor) 
 - [bufbuild/knit-go: Knit 独立网关和 Go 嵌入式网关](https://github.com/bufbuild/knit-go) 
