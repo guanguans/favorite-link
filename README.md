@@ -307,6 +307,7 @@
 - [larawatcher/larawatcher: Larawatcher 是 Laravel Package 和独立桌面应用程序的组合，可让您分析数据库查询、查找 N+1 问题、回溯代码等。](https://github.com/larawatcher/larawatcher) 
 - [TheJenos/laradump-php: laradump 是 spatie ray 的免费替代品](https://github.com/TheJenos/laradump-php) 
 - [LeeeSe/MessAuto: 自动提取Mac平台的短信验证码，2FHey的免费替代品](https://github.com/LeeeSe/MessAuto) 
+- [therobfonz/laravel-security-headers: 将安全标头添加到 Laravel 响应的包](https://github.com/therobfonz/laravel-security-headers) 
 ### May 25, 2023 
 - [spatie/laravel-uptime-monitor: 一个功能强大且易于配置的正常运行时间和 ssl monitor](https://github.com/spatie/laravel-uptime-monitor) 
 - [bufbuild/knit-go: Knit 独立网关和 Go 嵌入式网关](https://github.com/bufbuild/knit-go) 
