@@ -309,6 +309,7 @@
 - [LeeeSe/MessAuto: 自动提取Mac平台的短信验证码，2FHey的免费替代品](https://github.com/LeeeSe/MessAuto) 
 - [therobfonz/laravel-security-headers: 将安全标头添加到 Laravel 响应的包](https://github.com/therobfonz/laravel-security-headers) 
 - [UFund-Me/Qbot: 自动量化交易机器人 ](https://github.com/UFund-Me/Qbot) 
+- [xylo/intellij-postfix-templates: Intellij IDEA 的自定义后缀模板](https://github.com/xylo/intellij-postfix-templates#custom-postfix-templates-for-intellij-idea) 
 ### May 25, 2023 
 - [spatie/laravel-uptime-monitor: 一个功能强大且易于配置的正常运行时间和 ssl monitor](https://github.com/spatie/laravel-uptime-monitor) 
 - [bufbuild/knit-go: Knit 独立网关和 Go 嵌入式网关](https://github.com/bufbuild/knit-go) 
