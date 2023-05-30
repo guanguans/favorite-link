@@ -305,6 +305,7 @@
 
 ### May 30, 2023 
 - [VanOns/laraberg: Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
+- [insidestyles/swoole-bridge-bundle: Symfony Swoole 桥接包](https://github.com/insidestyles/swoole-bridge-bundle) 
 ### May 29, 2023 
 - [klauspost/connect-compress: connect-go 改进的压缩](https://github.com/klauspost/connect-compress) 
 - [qdrant/qdrant: Qdrant - 用于下一代 AI 应用程序的矢量数据库。](https://github.com/qdrant/qdrant) 
