@@ -310,6 +310,7 @@
 - [bseddon/xml-signer: 提供 XML 文档的签名和验证，包括对 XAdES 的支持](https://github.com/bseddon/xml-signer) 
 - [buraksezer/olric: 分布式内存对象存储。它既可以用作嵌入式 Go 库，也可以用作独立于语言的服务。](https://github.com/buraksezer/olric) 
 - [vearch/vearch: 基于嵌入的向量检索的分布式系统](https://github.com/vearch/vearch) 
+- [konnco/filament-import: 这个包将使您更容易从文件导入到您的模型，非常容易，不需要做模板。](https://github.com/konnco/filament-import) 
 ### May 30, 2023 
 - [VanOns/laraberg: Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
 - [insidestyles/swoole-bridge-bundle: Symfony Swoole 桥接包](https://github.com/insidestyles/swoole-bridge-bundle) 
