@@ -303,6 +303,9 @@
 
 
 
+
+### May 31, 2023 
+- [HendrikPrinsZA/laravel-kata: 最烂代码的最大集合](https://github.com/HendrikPrinsZA/laravel-kata) 
 ### May 30, 2023 
 - [VanOns/laraberg: Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
 - [insidestyles/swoole-bridge-bundle: Symfony Swoole 桥接包](https://github.com/insidestyles/swoole-bridge-bundle) 
