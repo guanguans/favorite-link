@@ -307,6 +307,7 @@
 ### May 31, 2023 
 - [HendrikPrinsZA/laravel-kata: 最烂代码的最大集合](https://github.com/HendrikPrinsZA/laravel-kata) 
 - [ryangjchandler/laravel-comments: Laravel 的一个非常简单的评论包。](https://github.com/ryangjchandler/laravel-comments) 
+- [bseddon/xml-signer: 提供 XML 文档的签名和验证，包括对 XAdES 的支持](https://github.com/bseddon/xml-signer) 
 ### May 30, 2023 
 - [VanOns/laraberg: Laravel 的 Gutenberg 实现](https://github.com/VanOns/laraberg) 
 - [insidestyles/swoole-bridge-bundle: Symfony Swoole 桥接包](https://github.com/insidestyles/swoole-bridge-bundle) 
