@@ -307,6 +307,7 @@
 
 ### June 1, 2023 
 - [carlmjohnson/requests: Gophers 的 HTTP 请求](https://github.com/carlmjohnson/requests) 
+- [jolicode/castor: 🦫 使用 PHP 构建的面向 DX 的任务运行器和命令启动器。](https://github.com/jolicode/castor) 
 ### May 31, 2023 
 - [HendrikPrinsZA/laravel-kata: 最烂代码的最大集合](https://github.com/HendrikPrinsZA/laravel-kata) 
 - [ryangjchandler/laravel-comments: Laravel 的一个非常简单的评论包。](https://github.com/ryangjchandler/laravel-comments) 
