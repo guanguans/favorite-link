@@ -310,6 +310,7 @@
 - [permafrost-dev/laravel-str-extras: Laravel Str 辅助类的额外辅助方法。](https://github.com/permafrost-dev/laravel-str-extras) 
 - [permafrost-dev/phpcsfixer-preset: 在所有项目中使用相同的 php-cs-fixer 配置，并为常见的项目布局（Laravel、Composer 包等）预设。](https://github.com/permafrost-dev/phpcsfixer-preset) 
 - [qruto/laravel-wave-js: Laravel 广播系统的事件源适配器](https://github.com/qruto/laravel-wave-js) 
+- [khuedoan/homelab: 现代自托管框架，从空磁盘到使用单个命令运行服务完全自动化。](https://github.com/khuedoan/homelab) 
 ### June 1, 2023 
 - [carlmjohnson/requests: Gophers 的 HTTP 请求](https://github.com/carlmjohnson/requests) 
 - [jolicode/castor: 🦫 使用 PHP 构建的面向 DX 的任务运行器和命令启动器。](https://github.com/jolicode/castor) 
