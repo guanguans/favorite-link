@@ -305,6 +305,9 @@
 
 
 
+
+### June 2, 2023 
+- [permafrost-dev/laravel-str-extras: Laravel Str 辅助类的额外辅助方法。](https://github.com/permafrost-dev/laravel-str-extras) 
 ### June 1, 2023 
 - [carlmjohnson/requests: Gophers 的 HTTP 请求](https://github.com/carlmjohnson/requests) 
 - [jolicode/castor: 🦫 使用 PHP 构建的面向 DX 的任务运行器和命令启动器。](https://github.com/jolicode/castor) 
