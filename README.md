@@ -315,6 +315,7 @@
 - [TodePond/DreamBerd: 完美的编程语言](https://github.com/TodePond/DreamBerd) 
 - [nutgram/hydrator: 用于 DTO 的涡轮增压 json 对象水化器](https://github.com/nutgram/hydrator) 
 - [sunrise-php/awesome-skeleton: 🚧 4.0 版本即将推出！适用于 PHP 7.4+（包括 PHP 8）现代开发的 Awesome Skeleton。包含经过质量测试的包、周到的结构以及开发微服务所需的一切。](https://github.com/sunrise-php/awesome-skeleton) 
+- [sunrise-php/http-message: 基于 RFC-7230、PSR-7 和 PSR-17 的 PHP 7.4+ 的 HTTP 消息包装器](https://github.com/sunrise-php/http-message) 
 ### June 5, 2023 
 - [puzpuzpuz/xsync: Go 的并发数据结构](https://github.com/puzpuzpuz/xsync) 
 ### June 2, 2023 
