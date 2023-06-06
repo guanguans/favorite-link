@@ -313,6 +313,7 @@
 - [nutgram/nutgram: 不会让您发疯的 Telegram 机器人框架。](https://github.com/nutgram/nutgram) 
 - [Gustavinho/laravel-views: Laravel 包使用 TALL 堆栈创建漂亮的通用视图，如数据表。](https://github.com/Gustavinho/laravel-views) 
 - [TodePond/DreamBerd: 完美的编程语言](https://github.com/TodePond/DreamBerd) 
+- [nutgram/hydrator: 用于 DTO 的涡轮增压 json 对象水化器](https://github.com/nutgram/hydrator) 
 ### June 5, 2023 
 - [puzpuzpuz/xsync: Go 的并发数据结构](https://github.com/puzpuzpuz/xsync) 
 ### June 2, 2023 
