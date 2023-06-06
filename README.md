@@ -307,6 +307,9 @@
 
 
 
+
+### June 6, 2023 
+- [akshayjshah/connectauth: 连接处理程序的灵活身份验证](https://github.com/akshayjshah/connectauth) 
 ### June 5, 2023 
 - [puzpuzpuz/xsync: Go 的并发数据结构](https://github.com/puzpuzpuz/xsync) 
 ### June 2, 2023 
