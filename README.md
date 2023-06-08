@@ -312,6 +312,7 @@
 ### June 8, 2023 
 - [olebedev/when: 具有可插入规则的自然语言日期/时间解析器](https://github.com/olebedev/when) 
 - [pmjones/AutoShell：AutoShell 自动将 CLI 命令名称映射到指定命名空间中的 PHP 命令类，反映该类中指定的主要方法以确定参数和选项值。方法参数可以是标量值（int、float、string、bool）或数组。](https://github.com/pmjones/AutoShell) 
+- [mohammedmanssour/super-simple-dto: 使用 php 对象的强大功能创建数据传输对象。](https://github.com/mohammedmanssour/super-simple-dto) 
 ### June 6, 2023 
 - [akshayjshah/connectauth: 连接处理程序的灵活身份验证](https://github.com/akshayjshah/connectauth) 
 - [nutgram/nutgram: 不会让您发疯的 Telegram 机器人框架。](https://github.com/nutgram/nutgram) 
