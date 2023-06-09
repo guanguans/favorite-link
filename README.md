@@ -309,6 +309,9 @@
 
 
 
+
+### June 9, 2023 
+- [Smile-SA/magento2-module-custom-entity：该模块允许创建和管理自定义实体，如品牌、象形图……并将它们显示在前面](https://github.com/Smile-SA/magento2-module-custom-entity) 
 ### June 8, 2023 
 - [olebedev/when: 具有可插入规则的自然语言日期/时间解析器](https://github.com/olebedev/when) 
 - [pmjones/AutoShell：AutoShell 自动将 CLI 命令名称映射到指定命名空间中的 PHP 命令类，反映该类中指定的主要方法以确定参数和选项值。方法参数可以是标量值（int、float、string、bool）或数组。](https://github.com/pmjones/AutoShell) 
