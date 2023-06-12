@@ -314,6 +314,7 @@
 ### June 12, 2023 
 - [ai-collection/ai-collection: 一系列很棒的生成式 AI 应用程序](https://github.com/ai-collection/ai-collection) 
 - [creachadair/taskgroup: 用于管理一组协作 goroutines 的 Go 包。](https://github.com/creachadair/taskgroup) 
+- [xtrime-ru/TelegramApiServer: 快速、简单、异步的 php telegram api 服务器：MadelineProto + Amp HTTP Server](https://github.com/xtrime-ru/TelegramApiServer) 
 ### June 9, 2023 
 - [Smile-SA/magento2-module-custom-entity：该模块允许创建和管理自定义实体，如品牌、象形图……并将它们显示在前面](https://github.com/Smile-SA/magento2-module-custom-entity) 
 - [skaut/wordpress-stubs: 与 phan 一起使用的 WordPress 函数和类的存根](https://github.com/skaut/wordpress-stubs) 
