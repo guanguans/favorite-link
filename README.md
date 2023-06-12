@@ -310,6 +310,9 @@
 
 
 
+
+### June 12, 2023 
+- [ai-collection/ai-collection: 一系列很棒的生成式 AI 应用程序](https://github.com/ai-collection/ai-collection) 
 ### June 9, 2023 
 - [Smile-SA/magento2-module-custom-entity：该模块允许创建和管理自定义实体，如品牌、象形图……并将它们显示在前面](https://github.com/Smile-SA/magento2-module-custom-entity) 
 - [skaut/wordpress-stubs: 与 phan 一起使用的 WordPress 函数和类的存根](https://github.com/skaut/wordpress-stubs) 
