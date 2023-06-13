@@ -317,6 +317,7 @@
 - [CortexPE/DiscordWebhookAPI: 一个 PocketMine-MP Virion，可以通过 Discord Webhooks 轻松发送消息](https://github.com/CortexPE/DiscordWebhookAPI) 
 - [creativeorange/gravatar: 一个 Laravel Gravatar 包，用于检索 gravatar 图像 URL 或检查图像是否存在。](https://github.com/creativeorange/gravatar) 
 - [funivan/PhpClean: PhpStorm 和 Intellij Idea 的静态代码分析。](https://github.com/funivan/PhpClean) 
+- [IoaNNUwU/InLine: InLine 是 IntelliJ IDEA 和其他 JetBrains IDE 的高度可定制插件，可显示内联错误和提示](https://github.com/IoaNNUwU/InLine) 
 ### June 12, 2023 
 - [ai-collection/ai-collection: 一系列很棒的生成式 AI 应用程序](https://github.com/ai-collection/ai-collection) 
 - [creachadair/taskgroup: 用于管理一组协作 goroutines 的 Go 包。](https://github.com/creachadair/taskgroup) 
