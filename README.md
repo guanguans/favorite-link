@@ -316,6 +316,7 @@
 - [selefra/selefra: 为多云和 SaaS 环境提供分析的开源策略即代码软件，您可以使用自然语言（由 OpenAI 提供支持）获得洞察力。](https://github.com/selefra/selefra) 
 - [CortexPE/DiscordWebhookAPI: 一个 PocketMine-MP Virion，可以通过 Discord Webhooks 轻松发送消息](https://github.com/CortexPE/DiscordWebhookAPI) 
 - [creativeorange/gravatar: 一个 Laravel Gravatar 包，用于检索 gravatar 图像 URL 或检查图像是否存在。](https://github.com/creativeorange/gravatar) 
+- [funivan/PhpClean: PhpStorm 和 Intellij Idea 的静态代码分析。](https://github.com/funivan/PhpClean) 
 ### June 12, 2023 
 - [ai-collection/ai-collection: 一系列很棒的生成式 AI 应用程序](https://github.com/ai-collection/ai-collection) 
 - [creachadair/taskgroup: 用于管理一组协作 goroutines 的 Go 包。](https://github.com/creachadair/taskgroup) 
