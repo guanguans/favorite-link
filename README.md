@@ -315,6 +315,7 @@
 
 ### June 14, 2023 
 - [HassanZahirnia/laravel-package-ocean: 发现新的和有用的 Laravel 包。](https://github.com/HassanZahirnia/laravel-package-ocean) 
+- [tpetry/laravel-mysql-explain: 使用 EXPLAIN 命令优化 MySQL 查询不必要地复杂：输出包含大量难以理解或完全误导的神秘信息。](https://github.com/tpetry/laravel-mysql-explain) 
 ### June 13, 2023 
 - [selefra/selefra: 为多云和 SaaS 环境提供分析的开源策略即代码软件，您可以使用自然语言（由 OpenAI 提供支持）获得洞察力。](https://github.com/selefra/selefra) 
 - [CortexPE/DiscordWebhookAPI: 一个 PocketMine-MP Virion，可以通过 Discord Webhooks 轻松发送消息](https://github.com/CortexPE/DiscordWebhookAPI) 
