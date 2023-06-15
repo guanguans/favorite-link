@@ -313,6 +313,9 @@
 
 
 
+
+### June 15, 2023 
+- [xpressengine/xpressengine: XpressEngine3(XE3) 是一个基于 Laravel 框架的服务友好型 CMS。它通过各种捆绑系统提供快速反馈和灵活扩展。](https://github.com/xpressengine/xpressengine) 
 ### June 14, 2023 
 - [HassanZahirnia/laravel-package-ocean: 发现新的和有用的 Laravel 包。](https://github.com/HassanZahirnia/laravel-package-ocean) 
 - [tpetry/laravel-mysql-explain: 使用 EXPLAIN 命令优化 MySQL 查询不必要地复杂：输出包含大量难以理解或完全误导的神秘信息。](https://github.com/tpetry/laravel-mysql-explain) 
