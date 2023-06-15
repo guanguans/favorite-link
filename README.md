@@ -320,6 +320,7 @@
 - [Abbotton/saas-skeleton: 基于Laravel & Dcat Admin构建的SAAS后台脚手架.](https://github.com/Abbotton/saas-skeleton) 
 - [cep21/circuit: 一个高效且功能完整的 Hystrix，类似于断路器模式的 Go 实现。](https://github.com/cep21/circuit) 
 - [MohmmedAshraf/laravel-translations: Laravel Translations UI 是一个包，它提供了一个简单友好的用户界面，用于管理 Laravel 应用程序中的翻译。使用此软件包，您可以轻松地添加、编辑、删除和导出翻译，并使用搜索功能查找特定翻译。](https://github.com/MohmmedAshraf/laravel-translations) 
+- [MohmmedAshraf/blade-flags: 一个可以在你的 Laravel Blade 视图中轻松显示国家和语言标志的包](https://github.com/MohmmedAshraf/blade-flags) 
 ### June 14, 2023 
 - [HassanZahirnia/laravel-package-ocean: 发现新的和有用的 Laravel 包。](https://github.com/HassanZahirnia/laravel-package-ocean) 
 - [tpetry/laravel-mysql-explain: 使用 EXPLAIN 命令优化 MySQL 查询不必要地复杂：输出包含大量难以理解或完全误导的神秘信息。](https://github.com/tpetry/laravel-mysql-explain) 
