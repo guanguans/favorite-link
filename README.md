@@ -318,6 +318,7 @@
 - [xpressengine/xpressengine: XpressEngine3(XE3) 是一个基于 Laravel 框架的服务友好型 CMS。它通过各种捆绑系统提供快速反馈和灵活扩展。](https://github.com/xpressengine/xpressengine) 
 - [spatie/http-status-check: 用于抓取网站并检查 HTTP 状态代码的 CLI 工具](https://github.com/spatie/http-status-check) 
 - [Abbotton/saas-skeleton: 基于Laravel & Dcat Admin构建的SAAS后台脚手架.](https://github.com/Abbotton/saas-skeleton) 
+- [cep21/circuit: 一个高效且功能完整的 Hystrix，类似于断路器模式的 Go 实现。](https://github.com/cep21/circuit) 
 ### June 14, 2023 
 - [HassanZahirnia/laravel-package-ocean: 发现新的和有用的 Laravel 包。](https://github.com/HassanZahirnia/laravel-package-ocean) 
 - [tpetry/laravel-mysql-explain: 使用 EXPLAIN 命令优化 MySQL 查询不必要地复杂：输出包含大量难以理解或完全误导的神秘信息。](https://github.com/tpetry/laravel-mysql-explain) 
