@@ -314,6 +314,9 @@
 
 
 
+
+### June 16, 2023 
+- [sj-i/typed-cdata: 通过 PHP 类型使用 FFI\CData](https://github.com/sj-i/typed-cdata) 
 ### June 15, 2023 
 - [xpressengine/xpressengine: XpressEngine3(XE3) 是一个基于 Laravel 框架的服务友好型 CMS。它通过各种捆绑系统提供快速反馈和灵活扩展。](https://github.com/xpressengine/xpressengine) 
 - [spatie/http-status-check: 用于抓取网站并检查 HTTP 状态代码的 CLI 工具](https://github.com/spatie/http-status-check) 
