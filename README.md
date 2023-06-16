@@ -319,6 +319,7 @@
 - [sj-i/typed-cdata: 通过 PHP 类型使用 FFI\CData](https://github.com/sj-i/typed-cdata) 
 - [microsoftgraph/msgraph-sdk-php: 用于 PHP 的 Microsoft 图形库。](https://github.com/microsoftgraph/msgraph-sdk-php) 
 - [sj-i/php-fuse: 用于 libfuse 的 PHP FFI 绑定](https://github.com/sj-i/php-fuse) 
+- [idealo/php-rdkafka-ffi: PHP Kafka 客户端 - 通过 FFI 绑定 librdkafka](https://github.com/idealo/php-rdkafka-ffi) 
 ### June 15, 2023 
 - [xpressengine/xpressengine: XpressEngine3(XE3) 是一个基于 Laravel 框架的服务友好型 CMS。它通过各种捆绑系统提供快速反馈和灵活扩展。](https://github.com/xpressengine/xpressengine) 
 - [spatie/http-status-check: 用于抓取网站并检查 HTTP 状态代码的 CLI 工具](https://github.com/spatie/http-status-check) 
