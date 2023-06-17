@@ -322,6 +322,7 @@
 - [mspnp/go-batcher: 批处理和速率限制，以便在没有任何数据存储意见的情况下使用。](https://github.com/mspnp/go-batcher) 
 - [yzen-dev/plain-to-class: 类转换器将数据转换(转化)为类型化对象](https://github.com/yzen-dev/plain-to-class) 
 - [moonD4rk/notifier: Notifier 是一个 Go 库，用于向其他应用程序发送通知。](https://github.com/moonD4rk/notifier) 
+- [yzen-dev/laravel-route-coverage: 生成路线覆盖率报告](https://github.com/yzen-dev/laravel-route-coverage) 
 ### June 16, 2023 
 - [sj-i/typed-cdata: 通过 PHP 类型使用 FFI\CData](https://github.com/sj-i/typed-cdata) 
 - [microsoftgraph/msgraph-sdk-php: 用于 PHP 的 Microsoft 图形库。](https://github.com/microsoftgraph/msgraph-sdk-php) 
