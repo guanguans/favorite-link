@@ -315,6 +315,9 @@
 
 
 
+
+### June 17, 2023 
+- [symplify/phpstan-rules: PHPStan 的高级规则](https://github.com/symplify/phpstan-rules) 
 ### June 16, 2023 
 - [sj-i/typed-cdata: 通过 PHP 类型使用 FFI\CData](https://github.com/sj-i/typed-cdata) 
 - [microsoftgraph/msgraph-sdk-php: 用于 PHP 的 Microsoft 图形库。](https://github.com/microsoftgraph/msgraph-sdk-php) 
