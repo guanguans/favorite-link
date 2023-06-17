@@ -318,6 +318,7 @@
 
 ### June 17, 2023 
 - [symplify/phpstan-rules: PHPStan 的高级规则](https://github.com/symplify/phpstan-rules) 
+- [ReadSomething/ReadSomething: 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。](https://github.com/ReadSomething/ReadSomething) 
 ### June 16, 2023 
 - [sj-i/typed-cdata: 通过 PHP 类型使用 FFI\CData](https://github.com/sj-i/typed-cdata) 
 - [microsoftgraph/msgraph-sdk-php: 用于 PHP 的 Microsoft 图形库。](https://github.com/microsoftgraph/msgraph-sdk-php) 
