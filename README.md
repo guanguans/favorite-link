@@ -323,6 +323,7 @@
 - [richardwilkes/unison: Go 桌面应用程序的统一图形用户体验工具包](https://github.com/richardwilkes/unison) 
 - [flyingmutant/rapid: Rapid 是一个现代的基于 Go 属性的测试库](https://github.com/flyingmutant/rapid) 
 - [Mateodioev/string-vars: 从字符串中获取参数的库](https://github.com/Mateodioev/string-vars) 
+- [goccmack/gocc: 解析器/扫描生成器](https://github.com/goccmack/gocc) 
 ### June 17, 2023 
 - [symplify/phpstan-rules: PHPStan 的高级规则](https://github.com/symplify/phpstan-rules) 
 - [ReadSomething/ReadSomething: 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。](https://github.com/ReadSomething/ReadSomething) 
