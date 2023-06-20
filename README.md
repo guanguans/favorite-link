@@ -321,6 +321,7 @@
 ### June 20, 2023 
 - [sohelamin/laravel-admin: Laravel 管理面板](https://github.com/sohelamin/laravel-admin) 
 - [vite-pwa/vite-plugin-pwa: Vite 零配置 PWA](https://github.com/vite-pwa/vite-plugin-pwa) 
+- [projectdiscovery/alterx: 使用 DSL 的快速且可定制的子域词表生成器](https://github.com/projectdiscovery/alterx) 
 ### June 19, 2023 
 - [IvanCraft623/RankSystem: 一个了不起的等级和权限管理器。 PocketMine-MP 的最佳队伍经理。](https://github.com/IvanCraft623/RankSystem) 
 - [CzechPMDevs/BuilderTools: 🪓 用于 PocketMine 服务器的强大的世界编辑器插件](https://github.com/CzechPMDevs/BuilderTools) 
