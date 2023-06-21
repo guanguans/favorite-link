@@ -323,6 +323,7 @@
 - [AssetRipper/AssetRipper: 用于处理引擎资产、资产包和序列化文件的 GUI 应用程序](https://github.com/AssetRipper/AssetRipper) 
 - [Wixel/GUMP: 一个快速、可扩展且独立的 PHP 输入验证类，允许您验证任何数据](https://github.com/Wixel/GUMP) 
 - [tobgu/qframe: Go 的不可变数据框](https://github.com/tobgu/qframe) 
+- [csinghdev/laravel-starter: Laravel 入门项目，包含 JWT + Auth API + 注册、电子邮件验证和忘记密码 API + 响应管理 + 备份管理 + API 日志记录 + Laravel Telescope + TDD 环境设置](https://github.com/csinghdev/laravel-starter) 
 ### June 20, 2023 
 - [sohelamin/laravel-admin: Laravel 管理面板](https://github.com/sohelamin/laravel-admin) 
 - [vite-pwa/vite-plugin-pwa: Vite 零配置 PWA](https://github.com/vite-pwa/vite-plugin-pwa) 
