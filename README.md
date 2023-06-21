@@ -322,6 +322,7 @@
 ### June 21, 2023 
 - [AssetRipper/AssetRipper: 用于处理引擎资产、资产包和序列化文件的 GUI 应用程序](https://github.com/AssetRipper/AssetRipper) 
 - [Wixel/GUMP: 一个快速、可扩展且独立的 PHP 输入验证类，允许您验证任何数据](https://github.com/Wixel/GUMP) 
+- [tobgu/qframe: Go 的不可变数据框](https://github.com/tobgu/qframe) 
 ### June 20, 2023 
 - [sohelamin/laravel-admin: Laravel 管理面板](https://github.com/sohelamin/laravel-admin) 
 - [vite-pwa/vite-plugin-pwa: Vite 零配置 PWA](https://github.com/vite-pwa/vite-plugin-pwa) 
