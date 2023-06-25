@@ -327,6 +327,7 @@
 - [jcchavezs/porto: 用于向 Go 代码添加虚荣导入的工具](https://github.com/jcchavezs/porto) 
 - [Hi-Folks/lara-sock: 由 Open Swoole 提供支持的 WebSocket Laravel 包](https://github.com/Hi-Folks/lara-sock) 
 - [Hi-Folks/array: Arr 类构建在 PHP 数组函数之上。 Arr 公开了用于创建、管理、访问数组数据结构的方法。](https://github.com/Hi-Folks/array) 
+- [protonemedia/laravel-form-components: 一组 Blade 组件，用于使用 Tailwind CSS（v1.0 和 v2.0）和 Bootstrap 4/5 快速构建表单。支持验证、模型绑定、默认值、翻译、Laravel Livewire，包括默认供应商样式和完全可定制！](https://github.com/protonemedia/laravel-form-components) 
 ### June 21, 2023 
 - [AssetRipper/AssetRipper: 用于处理引擎资产、资产包和序列化文件的 GUI 应用程序](https://github.com/AssetRipper/AssetRipper) 
 - [Wixel/GUMP: 一个快速、可扩展且独立的 PHP 输入验证类，允许您验证任何数据](https://github.com/Wixel/GUMP) 
