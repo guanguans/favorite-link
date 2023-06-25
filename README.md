@@ -322,6 +322,7 @@
 
 ### June 25, 2023 
 - [jasonw4331/libpmquery: 一个允许查询 Minecraft Bedrock 服务器信息的库](https://github.com/jasonw4331/libpmquery) 
+- [Astrotomic/ignition-stackoverflow: 一个 Ignition 选项卡，用于获取 StackOverflow 问题并提供搜索栏。](https://github.com/Astrotomic/ignition-stackoverflow) 
 ### June 21, 2023 
 - [AssetRipper/AssetRipper: 用于处理引擎资产、资产包和序列化文件的 GUI 应用程序](https://github.com/AssetRipper/AssetRipper) 
 - [Wixel/GUMP: 一个快速、可扩展且独立的 PHP 输入验证类，允许您验证任何数据](https://github.com/Wixel/GUMP) 
