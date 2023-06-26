@@ -320,6 +320,9 @@
 
 
 
+
+### June 26, 2023 
+- [warrant-dev/warrant: Warrant 是一种高度可扩展的集中式授权服务，用于定义、查询和审核应用程序授权模型和访问规则。](https://github.com/warrant-dev/warrant) 
 ### June 25, 2023 
 - [jasonw4331/libpmquery: 一个允许查询 Minecraft Bedrock 服务器信息的库](https://github.com/jasonw4331/libpmquery) 
 - [Astrotomic/ignition-stackoverflow: 一个 Ignition 选项卡，用于获取 StackOverflow 问题并提供搜索栏。](https://github.com/Astrotomic/ignition-stackoverflow) 
