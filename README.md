@@ -325,6 +325,7 @@
 - [warrant-dev/warrant: Warrant 是一种高度可扩展的集中式授权服务，用于定义、查询和审核应用程序授权模型和访问规则。](https://github.com/warrant-dev/warrant) 
 - [ProtonMail/go-crypto: 提供最新的 OpenPGP 实现](https://github.com/ProtonMail/go-crypto) 
 - [kraken-hpc/go-fork: go-fork 为 go 进程提供类似 fork 的行为。 go-fork 还可以用于在 Linux 命名空间中生成函数。](https://github.com/kraken-hpc/go-fork) 
+- [pipe-cd/pipecd: 一张 CD 适用于所有{应用程序、平台、操作}](https://github.com/pipe-cd/pipecd) 
 ### June 25, 2023 
 - [jasonw4331/libpmquery: 一个允许查询 Minecraft Bedrock 服务器信息的库](https://github.com/jasonw4331/libpmquery) 
 - [Astrotomic/ignition-stackoverflow: 一个 Ignition 选项卡，用于获取 StackOverflow 问题并提供搜索栏。](https://github.com/Astrotomic/ignition-stackoverflow) 
