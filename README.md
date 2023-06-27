@@ -324,6 +324,7 @@
 
 ### June 27, 2023 
 - [hyperf/lwmbs: 轻量级 phpmicro 构建脚本](https://github.com/hyperf/lwmbs) 
+- [rtconner/laravel-tagging: Laravel Eloquent 模型的标签支持](https://github.com/rtconner/laravel-tagging) 
 ### June 26, 2023 
 - [warrant-dev/warrant: Warrant 是一种高度可扩展的集中式授权服务，用于定义、查询和审核应用程序授权模型和访问规则。](https://github.com/warrant-dev/warrant) 
 - [ProtonMail/go-crypto: 提供最新的 OpenPGP 实现](https://github.com/ProtonMail/go-crypto) 
