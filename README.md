@@ -327,6 +327,7 @@
 - [laminas/laminas-servicemanager: 工厂驱动的依赖注入容器](https://github.com/laminas/laminas-servicemanager) 
 - [create-go-app/cli: ✨ 通过运行一个 CLI 命令来创建一个具有后端、前端和部署自动化的新生产就绪项目！](https://github.com/create-go-app/cli) 
 - [mezzio/mezzio-router: Mezzio 的路由器子组件](https://github.com/mezzio/mezzio-router) 
+- [blinq-dev/laravel-synth: 使用 ChatGPT 生成 Laravel 代码](https://github.com/blinq-dev/laravel-synth) 
 ### June 27, 2023 
 - [hyperf/lwmbs: 轻量级 phpmicro 构建脚本](https://github.com/hyperf/lwmbs) 
 - [rtconner/laravel-tagging: Laravel Eloquent 模型的标签支持](https://github.com/rtconner/laravel-tagging) 
