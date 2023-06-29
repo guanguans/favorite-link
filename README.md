@@ -327,6 +327,7 @@
 ### June 29, 2023 
 - [ekmungai/eloquent-ifrs: 该包通过提供功能齐全且可配置的复式记账子系统，使任何 Laravel 应用程序都可以生成与国际财务报告标准兼容的财务报表。](https://github.com/ekmungai/eloquent-ifrs) 
 - [spatie/laravel-notification-log: 记录 Laravel 应用发送的通知](https://github.com/spatie/laravel-notification-log) 
+- [jetpack-io/typeid: 受 Stripe ID 启发的类型安全、可 K 排序、全局唯一标识符](https://github.com/jetpack-io/typeid) 
 ### June 28, 2023 
 - [laminas/laminas-servicemanager: 工厂驱动的依赖注入容器](https://github.com/laminas/laminas-servicemanager) 
 - [create-go-app/cli: ✨ 通过运行一个 CLI 命令来创建一个具有后端、前端和部署自动化的新生产就绪项目！](https://github.com/create-go-app/cli) 
