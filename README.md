@@ -332,6 +332,7 @@
 - [binpash/try: try 允许您在修改实时系统之前运行命令并检查其效果](https://github.com/binpash/try) 
 - [ManiruzzamanAkash/laravel-unique-slug-generator: 一个简单但美丽独特的 Laravel 雄辩模型的 slug 生成器。](https://github.com/ManiruzzamanAkash/laravel-unique-slug-generator) 
 - [andybalholm/c2go: C 到 Go 翻译工具](https://github.com/andybalholm/c2go) 
+- [Shpota/goxygen: 在几秒钟内使用 Go 和 Angular、React 或 Vue 生成现代 Web 项目 🎲](https://github.com/Shpota/goxygen) 
 ### June 28, 2023 
 - [laminas/laminas-servicemanager: 工厂驱动的依赖注入容器](https://github.com/laminas/laminas-servicemanager) 
 - [create-go-app/cli: ✨ 通过运行一个 CLI 命令来创建一个具有后端、前端和部署自动化的新生产就绪项目！](https://github.com/create-go-app/cli) 
