@@ -329,6 +329,7 @@
 - [spatie/laravel-notification-log: 记录 Laravel 应用发送的通知](https://github.com/spatie/laravel-notification-log) 
 - [jetpack-io/typeid: 受 Stripe ID 启发的类型安全、可 K 排序、全局唯一标识符](https://github.com/jetpack-io/typeid) 
 - [pomber/stargazer: 您的存储库达到了 star 里程碑吗？用你的观星者的视频来庆祝吧！](https://github.com/pomber/stargazer) 
+- [binpash/try: try 允许您在修改实时系统之前运行命令并检查其效果](https://github.com/binpash/try) 
 ### June 28, 2023 
 - [laminas/laminas-servicemanager: 工厂驱动的依赖注入容器](https://github.com/laminas/laminas-servicemanager) 
 - [create-go-app/cli: ✨ 通过运行一个 CLI 命令来创建一个具有后端、前端和部署自动化的新生产就绪项目！](https://github.com/create-go-app/cli) 
