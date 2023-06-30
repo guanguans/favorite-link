@@ -327,6 +327,7 @@
 
 ### June 30, 2023 
 - [maxpoletaev/dendy: 用 Go 编写的具有网络多人游戏功能的 NES/Famicom 模拟器](https://github.com/maxpoletaev/dendy) 
+- [wenlng/go-captcha: 🖖 Go Captcha 是一种行为验证码，实现了随机验证文本的生成以及点击位置信息的验证。](https://github.com/wenlng/go-captcha) 
 ### June 29, 2023 
 - [ekmungai/eloquent-ifrs: 该包通过提供功能齐全且可配置的复式记账子系统，使任何 Laravel 应用程序都可以生成与国际财务报告标准兼容的财务报表。](https://github.com/ekmungai/eloquent-ifrs) 
 - [spatie/laravel-notification-log: 记录 Laravel 应用发送的通知](https://github.com/spatie/laravel-notification-log) 
