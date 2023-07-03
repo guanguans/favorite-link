@@ -331,6 +331,7 @@
 - [getopt-php/getopt-php: 用于命令行参数处理的 PHP 库](https://github.com/getopt-php/getopt-php) 
 - [tonics-apps/tonics-router-system: 用于 Tonics 项目的基于 Trie 的 PHP 路由器系统。](https://github.com/tonics-apps/tonics-router-system) 
 - [willnorris/imageproxy: 用 Go 编写的缓存、调整大小的图像代理](https://github.com/willnorris/imageproxy) 
+- [Roave/infection-static-analysis-plugin: :✅ 🐲 突变测试之上的静态分析 - 根据静态分析防止逃逸突变体无效](https://github.com/Roave/infection-static-analysis-plugin) 
 ### June 30, 2023 
 - [maxpoletaev/dendy: 用 Go 编写的具有网络多人游戏功能的 NES/Famicom 模拟器](https://github.com/maxpoletaev/dendy) 
 - [wenlng/go-captcha: 🖖 Go Captcha 是一种行为验证码，实现了随机验证文本的生成以及点击位置信息的验证。](https://github.com/wenlng/go-captcha) 
