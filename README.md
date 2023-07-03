@@ -325,6 +325,9 @@
 
 
 
+
+### July 3, 2023 
+- [lavary/laravel-menu: 在 Laravel 中创建菜单的快速方法](https://github.com/lavary/laravel-menu) 
 ### June 30, 2023 
 - [maxpoletaev/dendy: 用 Go 编写的具有网络多人游戏功能的 NES/Famicom 模拟器](https://github.com/maxpoletaev/dendy) 
 - [wenlng/go-captcha: 🖖 Go Captcha 是一种行为验证码，实现了随机验证文本的生成以及点击位置信息的验证。](https://github.com/wenlng/go-captcha) 
