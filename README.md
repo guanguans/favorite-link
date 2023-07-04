@@ -326,6 +326,9 @@
 
 
 
+
+### July 4, 2023 
+- [Itinysun/laraman: 使用workman运行laravel，1个artisan命令，10倍加速](https://github.com/Itinysun/laraman) 
 ### July 3, 2023 
 - [lavary/laravel-menu: 在 Laravel 中创建菜单的快速方法](https://github.com/lavary/laravel-menu) 
 - [getopt-php/getopt-php: 用于命令行参数处理的 PHP 库](https://github.com/getopt-php/getopt-php) 
