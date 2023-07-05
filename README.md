@@ -332,6 +332,7 @@
 - [ozdemirburak/laravel-9-simple-cms: 适合初学者的 Laravel 9 内容管理系统。](https://github.com/ozdemirburak/laravel-9-simple-cms) 
 - [0xpayne/gpt-migrate: 轻松地将代码库从一种框架或语言迁移到另一种框架或语言。](https://github.com/0xpayne/gpt-migrate) 
 - [PerimeterX/go-project-structure: 这是 Go 项目的模板存储库。](https://github.com/PerimeterX/go-project-structure) 
+- [glhd/conveyor-belt: 编写高效处理大量数据的工匠命令所需的所有底层机制](https://github.com/glhd/conveyor-belt) 
 ### July 4, 2023 
 - [Itinysun/laraman: 使用workman运行laravel，1个artisan命令，10倍加速](https://github.com/Itinysun/laraman) 
 ### July 3, 2023 
