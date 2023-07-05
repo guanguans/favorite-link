@@ -327,6 +327,9 @@
 
 
 
+
+### July 5, 2023 
+- [ozdemirburak/laravel-9-simple-cms: 适合初学者的 Laravel 9 内容管理系统。](https://github.com/ozdemirburak/laravel-9-simple-cms) 
 ### July 4, 2023 
 - [Itinysun/laraman: 使用workman运行laravel，1个artisan命令，10倍加速](https://github.com/Itinysun/laraman) 
 ### July 3, 2023 
