@@ -331,6 +331,7 @@
 
 ### July 6, 2023 
 - [digitlimit/alert: 在 Laravel 应用程序中闪烁消息的简单方法](https://github.com/digitlimit/alert) 
+- [croustibat/filament-jobs-monitor: Queue Monitoring Package for Filament](https://github.com/croustibat/filament-jobs-monitor) 
 ### July 5, 2023 
 - [ozdemirburak/laravel-9-simple-cms: 适合初学者的 Laravel 9 内容管理系统。](https://github.com/ozdemirburak/laravel-9-simple-cms) 
 - [0xpayne/gpt-migrate: 轻松地将代码库从一种框架或语言迁移到另一种框架或语言。](https://github.com/0xpayne/gpt-migrate) 
