@@ -334,6 +334,7 @@
 - [croustibat/filament-jobs-monitor: Queue Monitoring Package for Filament](https://github.com/croustibat/filament-jobs-monitor) 
 - [ryangjchandler/phiki: 受 Shiki 启发的 PHP 语法荧光笔。](https://github.com/ryangjchandler/phiki) 
 - [godzie44/go-uring: GO 的 io_uring 库和运行时](https://github.com/godzie44/go-uring) 
+- [uptrace/opentelemetry-go-extra: Go 的 OpenTelemetry 仪器](https://github.com/uptrace/opentelemetry-go-extra) 
 ### July 5, 2023 
 - [ozdemirburak/laravel-9-simple-cms: 适合初学者的 Laravel 9 内容管理系统。](https://github.com/ozdemirburak/laravel-9-simple-cms) 
 - [0xpayne/gpt-migrate: 轻松地将代码库从一种框架或语言迁移到另一种框架或语言。](https://github.com/0xpayne/gpt-migrate) 
