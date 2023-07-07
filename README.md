@@ -332,6 +332,7 @@
 
 ### July 7, 2023 
 - [mauricius/laravel-htmx: Htmx 的 Laravel 辅助库](https://github.com/mauricius/laravel-htmx) 
+- [linkedin/goavro：Goavro 是一个对 Avro 数据进行编码和解码的库。](https://github.com/linkedin/goavro) 
 ### July 6, 2023 
 - [digitlimit/alert: 在 Laravel 应用程序中闪烁消息的简单方法](https://github.com/digitlimit/alert) 
 - [croustibat/filament-jobs-monitor: Queue Monitoring Package for Filament](https://github.com/croustibat/filament-jobs-monitor) 
