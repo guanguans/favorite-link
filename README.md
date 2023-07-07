@@ -335,6 +335,7 @@
 - [linkedin/goavro：Goavro 是一个对 Avro 数据进行编码和解码的库。](https://github.com/linkedin/goavro) 
 - [kubeshop/tracetest: Tracetest - 根据您的跟踪自动生成端到端测试。对于 QA、开发和运营。](https://github.com/kubeshop/tracetest) 
 - [yllw-digital/laravel-chatgpt-mock-api: 使用 ChatGPT 提示在 Laravel 中生成智能 API 模拟](https://github.com/yllw-digital/laravel-chatgpt-mock-api) 
+- [PeterRK/slices: golang 中切片的快速通用排序](https://github.com/PeterRK/slices) 
 ### July 6, 2023 
 - [digitlimit/alert: 在 Laravel 应用程序中闪烁消息的简单方法](https://github.com/digitlimit/alert) 
 - [croustibat/filament-jobs-monitor: Queue Monitoring Package for Filament](https://github.com/croustibat/filament-jobs-monitor) 
