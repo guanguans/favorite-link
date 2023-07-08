@@ -330,6 +330,9 @@
 
 
 
+
+### July 8, 2023 
+- [tobszarny/ActiveTabHighlighterPlugin: 活动标签高亮智能插件](https://github.com/tobszarny/ActiveTabHighlighterPlugin) 
 ### July 7, 2023 
 - [mauricius/laravel-htmx: Htmx 的 Laravel 辅助库](https://github.com/mauricius/laravel-htmx) 
 - [linkedin/goavro：Goavro 是一个对 Avro 数据进行编码和解码的库。](https://github.com/linkedin/goavro) 
