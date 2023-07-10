@@ -338,6 +338,7 @@
 - [SimonWaldherr/golang-examples: Go(lang) 示例 -（解释 #golang 的基础知识）](https://github.com/SimonWaldherr/golang-examples) 
 - [basement-chat/basement-chat: 适用于 Laravel 应用程序的实时聊天小部件包，具有灵活的广播驱动程序支持。](https://github.com/basement-chat/basement-chat) 
 - [go-nunu/nunu: 用于构建 Go 应用程序的 CLI 工具。](https://github.com/go-nunu/nunu) 
+- [extremecoders-re/php-eval-hook: 用于挂钩 eval() 的 PHP 扩展](https://github.com/extremecoders-re/php-eval-hook) 
 ### July 9, 2023 
 - [izhangzhihao/intellij-rainbow-brackets: 基于 intelliJ 的 IDE/Android Studio/华为 DevEco Studio 的彩虹支架](https://github.com/izhangzhihao/intellij-rainbow-brackets#yaml) 
 ### July 8, 2023 
