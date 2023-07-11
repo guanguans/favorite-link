@@ -339,6 +339,7 @@
 - [enlightn/security-checker: 基于安全咨询数据库的PHP依赖性漏洞扫描仪。](https://github.com/enlightn/security-checker) 
 - [mazzzystar/Queryable: 在 iPhone 上运行 CLIP 来搜索照片。](https://github.com/mazzzystar/Queryable) 
 - [jawira/sanitizer: 使用属性清理你的类](https://github.com/jawira/sanitizer) 
+- [projectdiscovery/retryablehttp-go: retryablehttp 包提供了熟悉的 HTTP 客户端界面，具有自动重试和指数退避功能](https://github.com/projectdiscovery/retryablehttp-go) 
 ### July 10, 2023 
 - [linearmouse/linearmouse: 适用于 Mac 的鼠标和触控板实用程序。](https://github.com/linearmouse/linearmouse) 
 - [SimonWaldherr/golang-examples: Go(lang) 示例 -（解释 #golang 的基础知识）](https://github.com/SimonWaldherr/golang-examples) 
