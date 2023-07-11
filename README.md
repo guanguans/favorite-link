@@ -337,6 +337,7 @@
 ### July 11, 2023 
 - [xpf0000/PhpWebStudy: MacOS系统的Php和Web开发环境管理工具，管理本地Web服务器的更好方法](https://github.com/xpf0000/PhpWebStudy) 
 - [enlightn/security-checker: 基于安全咨询数据库的PHP依赖性漏洞扫描仪。](https://github.com/enlightn/security-checker) 
+- [mazzzystar/Queryable: 在 iPhone 上运行 CLIP 来搜索照片。](https://github.com/mazzzystar/Queryable) 
 ### July 10, 2023 
 - [linearmouse/linearmouse: 适用于 Mac 的鼠标和触控板实用程序。](https://github.com/linearmouse/linearmouse) 
 - [SimonWaldherr/golang-examples: Go(lang) 示例 -（解释 #golang 的基础知识）](https://github.com/SimonWaldherr/golang-examples) 
