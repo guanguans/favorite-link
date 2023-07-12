@@ -334,6 +334,9 @@
 
 
 
+
+### July 12, 2023 
+- [sebastienheyd/boilerplate: Laravel AdminLTE 3 Boilerplate 软件包，包含刀片组件、用户、角色和权限管理](https://github.com/sebastienheyd/boilerplate) 
 ### July 11, 2023 
 - [xpf0000/PhpWebStudy: MacOS系统的Php和Web开发环境管理工具，管理本地Web服务器的更好方法](https://github.com/xpf0000/PhpWebStudy) 
 - [enlightn/security-checker: 基于安全咨询数据库的PHP依赖性漏洞扫描仪。](https://github.com/enlightn/security-checker) 
