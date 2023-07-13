@@ -335,6 +335,9 @@
 
 
 
+
+### July 13, 2023 
+- [laravel/slack-notification-channel: Laravel 的 Slack 通知通道。](https://github.com/laravel/slack-notification-channel) 
 ### July 12, 2023 
 - [sebastienheyd/boilerplate: Laravel AdminLTE 3 Boilerplate 软件包，包含刀片组件、用户、角色和权限管理](https://github.com/sebastienheyd/boilerplate) 
 - [coroot/coroot: Coroot 是一款基于 eBPF 的开源可观测性工具，可将遥测数据转化为可操作的见解，帮助您快速识别和解决应用程序问题](https://github.com/coroot/coroot) 
