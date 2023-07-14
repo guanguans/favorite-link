@@ -340,6 +340,7 @@
 ### July 14, 2023 
 - [LavaLite/framework: Litepie框架](https://github.com/LavaLite/framework) 
 - [laraveladminpanel/admin: Laravel 管理面板](https://github.com/laraveladminpanel/admin) 
+- [php-type-language/parser: PHP 类型语言解析器参考实现](https://github.com/php-type-language/parser) 
 ### July 13, 2023 
 - [laravel/slack-notification-channel: Laravel 的 Slack 通知通道。](https://github.com/laravel/slack-notification-channel) 
 - [Blarc/ai-commits-intellij-plugin: 基于 IntelliJ 的 IDE/Android Studio 的 AI 提交。](https://github.com/Blarc/ai-commits-intellij-plugin) 
