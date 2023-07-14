@@ -342,6 +342,7 @@
 - [laraveladminpanel/admin: Laravel 管理面板](https://github.com/laraveladminpanel/admin) 
 - [php-type-language/parser: PHP 类型语言解析器参考实现](https://github.com/php-type-language/parser) 
 - [blrsn/zentile: 符合 EWMH 标准的窗口管理器的自动平铺](https://github.com/blrsn/zentile) 
+- [cerbero90/json-parser: 🧩 零依赖性拉动解析器以节省内存的方式从任何来源读取大型 JSON。](https://github.com/cerbero90/json-parser) 
 ### July 13, 2023 
 - [laravel/slack-notification-channel: Laravel 的 Slack 通知通道。](https://github.com/laravel/slack-notification-channel) 
 - [Blarc/ai-commits-intellij-plugin: 基于 IntelliJ 的 IDE/Android Studio 的 AI 提交。](https://github.com/Blarc/ai-commits-intellij-plugin) 
