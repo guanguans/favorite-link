@@ -343,6 +343,7 @@
 - [cubiclesoft/ultimate-web-scraper: 一个 PHP 库/工具包，旨在根据 MIT 或 LGPL 许可证处理您的所有网络抓取需求。还有用于构建自定义服务器的 Web 服务器和 WebSocket 服务器类。](https://github.com/cubiclesoft/ultimate-web-scraper) 
 - [leekchan/accounting: golang 的货币和货币格式](https://github.com/leekchan/accounting) 
 - [twigphp/intl-extra: 对 Twig 的国际支持](https://github.com/twigphp/intl-extra) 
+- [theofidry/PsyshBundle: 使用 PsySH 的 Symfony 命令行 REPL 包。](https://github.com/theofidry/PsyshBundle) 
 ### July 14, 2023 
 - [LavaLite/framework: Litepie框架](https://github.com/LavaLite/framework) 
 - [laraveladminpanel/admin: Laravel 管理面板](https://github.com/laraveladminpanel/admin) 
