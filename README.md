@@ -346,6 +346,7 @@
 - [theofidry/PsyshBundle: 使用 PsySH 的 Symfony 命令行 REPL 包。](https://github.com/theofidry/PsyshBundle) 
 - [lanthaler/JsonLD: PHP 的 JSON-LD 处理器](https://github.com/lanthaler/JsonLD) 
 - [landrok/language-detector: 用于检测语言的快速可靠的 PHP 库](https://github.com/landrok/language-detector) 
+- [KnpLabs/KnpTimeBundle: 为时间操纵提供帮助](https://github.com/KnpLabs/KnpTimeBundle) 
 ### July 14, 2023 
 - [LavaLite/framework: Litepie框架](https://github.com/LavaLite/framework) 
 - [laraveladminpanel/admin: Laravel 管理面板](https://github.com/laraveladminpanel/admin) 
