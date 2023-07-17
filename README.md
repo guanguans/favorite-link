@@ -342,6 +342,7 @@
 - [kg-bot/laravel-localization-to-vue: 使 Laravel 标准本地化文件以各种 JavaSript 本地化包所需的格式提供](https://github.com/kg-bot/laravel-localization-to-vue) 
 - [cubiclesoft/ultimate-web-scraper: 一个 PHP 库/工具包，旨在根据 MIT 或 LGPL 许可证处理您的所有网络抓取需求。还有用于构建自定义服务器的 Web 服务器和 WebSocket 服务器类。](https://github.com/cubiclesoft/ultimate-web-scraper) 
 - [leekchan/accounting: golang 的货币和货币格式](https://github.com/leekchan/accounting) 
+- [twigphp/intl-extra: 对 Twig 的国际支持](https://github.com/twigphp/intl-extra) 
 ### July 14, 2023 
 - [LavaLite/framework: Litepie框架](https://github.com/LavaLite/framework) 
 - [laraveladminpanel/admin: Laravel 管理面板](https://github.com/laraveladminpanel/admin) 
