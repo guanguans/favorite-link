@@ -337,6 +337,9 @@
 
 
 
+
+### July 17, 2023 
+- [kg-bot/laravel-localization-to-vue: 使 Laravel 标准本地化文件以各种 JavaSript 本地化包所需的格式提供](https://github.com/kg-bot/laravel-localization-to-vue) 
 ### July 14, 2023 
 - [LavaLite/framework: Litepie框架](https://github.com/LavaLite/framework) 
 - [laraveladminpanel/admin: Laravel 管理面板](https://github.com/laraveladminpanel/admin) 
