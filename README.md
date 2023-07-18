@@ -338,6 +338,9 @@
 
 
 
+
+### July 18, 2023 
+- [okisdev/ChatChat: 解锁您的下一个级别的人工智能对话体验。部署您自己的 AI 接口，将所有 AI 集中在一处。](https://github.com/okisdev/ChatChat) 
 ### July 17, 2023 
 - [kg-bot/laravel-localization-to-vue: 使 Laravel 标准本地化文件以各种 JavaSript 本地化包所需的格式提供](https://github.com/kg-bot/laravel-localization-to-vue) 
 - [cubiclesoft/ultimate-web-scraper: 一个 PHP 库/工具包，旨在根据 MIT 或 LGPL 许可证处理您的所有网络抓取需求。还有用于构建自定义服务器的 Web 服务器和 WebSocket 服务器类。](https://github.com/cubiclesoft/ultimate-web-scraper) 
