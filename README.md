@@ -343,6 +343,7 @@
 - [okisdev/ChatChat: 解锁您的下一个级别的人工智能对话体验。部署您自己的 AI 接口，将所有 AI 集中在一处。](https://github.com/okisdev/ChatChat) 
 - [TomasVotruba/class-leak: 找到你从未使用过的泄漏类...并删除它们。](https://github.com/TomasVotruba/class-leak) 
 - [laracraft-tech/laravel-schema-rules: 根据您的数据库表模式自动生成 Laravel 验证规则！](https://github.com/laracraft-tech/laravel-schema-rules) 
+- [charmbracelet/pop: 从您的终端发送电子邮件 📬](https://github.com/charmbracelet/pop) 
 ### July 17, 2023 
 - [kg-bot/laravel-localization-to-vue: 使 Laravel 标准本地化文件以各种 JavaSript 本地化包所需的格式提供](https://github.com/kg-bot/laravel-localization-to-vue) 
 - [cubiclesoft/ultimate-web-scraper: 一个 PHP 库/工具包，旨在根据 MIT 或 LGPL 许可证处理您的所有网络抓取需求。还有用于构建自定义服务器的 Web 服务器和 WebSocket 服务器类。](https://github.com/cubiclesoft/ultimate-web-scraper) 
