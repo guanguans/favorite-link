@@ -342,6 +342,7 @@
 
 ### July 19, 2023 
 - [apioo/psx-http: 描述 HTTP 消息、中间件和客户端实现的接口](https://github.com/apioo/psx-http) 
+- [mickael-menu/zk: 纯文本笔记助手](https://github.com/mickael-menu/zk) 
 ### July 18, 2023 
 - [okisdev/ChatChat: 解锁您的下一个级别的人工智能对话体验。部署您自己的 AI 接口，将所有 AI 集中在一处。](https://github.com/okisdev/ChatChat) 
 - [TomasVotruba/class-leak: 找到你从未使用过的泄漏类...并删除它们。](https://github.com/TomasVotruba/class-leak) 
