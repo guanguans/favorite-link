@@ -347,6 +347,7 @@
 - [RichardStyles/EloquentEncryption: 允许使用 RSA 4096 位私钥对 Eloquent 属性进行加密和解密。](https://github.com/RichardStyles/EloquentEncryption) 
 - [BeryJu/gravity: 完全复制的 DNS 和 DHCP 服务器，具有由 etcd 提供的广告拦截功能](https://github.com/BeryJu/gravity) 
 - [msterzhang/onelist: 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。](https://github.com/msterzhang/onelist) 
+- [RichardStyles/eloquent-aes: 使用单独密钥进行加密的可选 Eloquent Encryption Cast](https://github.com/RichardStyles/eloquent-aes) 
 ### July 18, 2023 
 - [okisdev/ChatChat: 解锁您的下一个级别的人工智能对话体验。部署您自己的 AI 接口，将所有 AI 集中在一处。](https://github.com/okisdev/ChatChat) 
 - [TomasVotruba/class-leak: 找到你从未使用过的泄漏类...并删除它们。](https://github.com/TomasVotruba/class-leak) 
