@@ -344,6 +344,7 @@
 ### July 20, 2023 
 - [nsheridan/cashier: OpenSSH 的自助服务 CA](https://github.com/nsheridan/cashier) 
 - [guptarohit/asciigraph: Go 包可在命令行应用程序中制作轻量级 ASCII 线图╭┈╯，无需其他依赖项。](https://github.com/guptarohit/asciigraph) 
+- [cjmellor/level-up: Level-Up 是一个 Laravel 包，将游戏化引入您的应用程序。用户通过互动获得经验值 (XP) 和等级，同时还可以解锁成就。它通过动态排行榜功能促进参与、竞争和乐趣。可定制以满足您的特定需求](https://github.com/cjmellor/level-up) 
 ### July 19, 2023 
 - [apioo/psx-http: 描述 HTTP 消息、中间件和客户端实现的接口](https://github.com/apioo/psx-http) 
 - [mickael-menu/zk: 纯文本笔记助手](https://github.com/mickael-menu/zk) 
