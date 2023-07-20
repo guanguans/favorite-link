@@ -340,6 +340,9 @@
 
 
 
+
+### July 20, 2023 
+- [nsheridan/cashier: OpenSSH 的自助服务 CA](https://github.com/nsheridan/cashier) 
 ### July 19, 2023 
 - [apioo/psx-http: 描述 HTTP 消息、中间件和客户端实现的接口](https://github.com/apioo/psx-http) 
 - [mickael-menu/zk: 纯文本笔记助手](https://github.com/mickael-menu/zk) 
