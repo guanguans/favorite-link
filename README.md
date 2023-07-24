@@ -345,6 +345,7 @@
 
 ### July 24, 2023 
 - [Pradumnasaraf/DevOps: 这个仓库包含了我所有与 DevOps 相关的学习内容](https://github.com/Pradumnasaraf/DevOps) 
+- [ralphjsmit/laravel-filament-seo: 一个结合了 Laravel SEO 和 Filament Admin 功能的软件包。](https://github.com/ralphjsmit/laravel-filament-seo) 
 ### July 21, 2023 
 - [sijms/go-ora: 纯 go oracle 客户端](https://github.com/sijms/go-ora) 
 - [PhpGt/Fetch: 带有 Promise 的异步 HTTP 客户端。](https://github.com/PhpGt/Fetch) 
