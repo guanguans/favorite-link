@@ -346,6 +346,7 @@
 
 ### July 25, 2023 
 - [loggie-io/loggie: 轻量级云原生数据传输代理和聚合器](https://github.com/loggie-io/loggie) 
+- [fanmingming/live: ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕](https://github.com/fanmingming/live) 
 ### July 24, 2023 
 - [Pradumnasaraf/DevOps: 这个仓库包含了我所有与 DevOps 相关的学习内容](https://github.com/Pradumnasaraf/DevOps) 
 - [ralphjsmit/laravel-filament-seo: 一个结合了 Laravel SEO 和 Filament Admin 功能的软件包。](https://github.com/ralphjsmit/laravel-filament-seo) 
