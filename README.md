@@ -343,6 +343,9 @@
 
 
 
+
+### July 25, 2023 
+- [loggie-io/loggie: 轻量级云原生数据传输代理和聚合器](https://github.com/loggie-io/loggie) 
 ### July 24, 2023 
 - [Pradumnasaraf/DevOps: 这个仓库包含了我所有与 DevOps 相关的学习内容](https://github.com/Pradumnasaraf/DevOps) 
 - [ralphjsmit/laravel-filament-seo: 一个结合了 Laravel SEO 和 Filament Admin 功能的软件包。](https://github.com/ralphjsmit/laravel-filament-seo) 
