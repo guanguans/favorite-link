@@ -350,6 +350,7 @@
 - [barryvdh/laravel-form-bridge: 用于 Symfony 表单组件的 Laravel Bridge](https://github.com/barryvdh/laravel-form-bridge) 
 - [laravel/folio: Laravel 的基于页面的路由。](https://github.com/laravel/folio) 
 - [maaslalani/invoice: 命令行发票生成器](https://github.com/maaslalani/invoice) 
+- [mateusjunges/laravel-invite-codes: 该包允许您轻松管理 Laravel 应用程序的邀请代码。](https://github.com/mateusjunges/laravel-invite-codes) 
 ### July 25, 2023 
 - [loggie-io/loggie: 轻量级云原生数据传输代理和聚合器](https://github.com/loggie-io/loggie) 
 - [fanmingming/live: ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕](https://github.com/fanmingming/live) 
