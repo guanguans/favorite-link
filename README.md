@@ -353,6 +353,7 @@
 - [mateusjunges/laravel-invite-codes: 该包允许您轻松管理 Laravel 应用程序的邀请代码。](https://github.com/mateusjunges/laravel-invite-codes) 
 - [bramus/monolog-colored-line-formatter: Monolog 的彩色 / ANSI 行格式化程序](https://github.com/bramus/monolog-colored-line-formatter) 
 - [TheDragonCode/laravel-http-logger: 📑 记录传入的 HTTP 请求](https://github.com/TheDragonCode/laravel-http-logger) 
+- [TheDragonCode/extended-routes: 该帮助器扩展了标准的资源路由方法集，以与 SoftDeletes 和其他扩展一起使用](https://github.com/TheDragonCode/extended-routes) 
 ### July 25, 2023 
 - [loggie-io/loggie: 轻量级云原生数据传输代理和聚合器](https://github.com/loggie-io/loggie) 
 - [fanmingming/live: ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕](https://github.com/fanmingming/live) 
