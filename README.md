@@ -348,6 +348,7 @@
 
 ### July 27, 2023 
 - [TomasVotruba/lines: 用于快速测量 PHP 项目大小的 CLI 工具，可在任何地方运行](https://github.com/TomasVotruba/lines) 
+- [charmbracelet/wishlist: SSH 目录✨](https://github.com/charmbracelet/wishlist) 
 ### July 26, 2023 
 - [mazzzystar/api-usage: 跟踪您的 OpenAI API 令牌使用情况和成本。](https://github.com/mazzzystar/api-usage) 
 - [barryvdh/laravel-form-bridge: 用于 Symfony 表单组件的 Laravel Bridge](https://github.com/barryvdh/laravel-form-bridge) 
