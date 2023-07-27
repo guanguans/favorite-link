@@ -352,6 +352,7 @@
 - [livewire/volt: Volt 是一个为 Livewire 精心设计的函数式 API。](https://github.com/livewire/volt) 
 - [whitecube/laravel-cookie-consent: 以符合欧盟标准的方式注册、配置并请求 cookie 同意](https://github.com/whitecube/laravel-cookie-consent) 
 - [whitecube/php-prices: 一个简单的 PHP 库，用于复杂的货币价格管理](https://github.com/whitecube/php-prices) 
+- [CUCyber/ja3transport: 冒充 JA3 签名](https://github.com/CUCyber/ja3transport) 
 ### July 26, 2023 
 - [mazzzystar/api-usage: 跟踪您的 OpenAI API 令牌使用情况和成本。](https://github.com/mazzzystar/api-usage) 
 - [barryvdh/laravel-form-bridge: 用于 Symfony 表单组件的 Laravel Bridge](https://github.com/barryvdh/laravel-form-bridge) 
