@@ -349,6 +349,7 @@
 
 ### July 28, 2023 
 - [monovm/whois-php: 该 PHP 包使开发人员能够检索域注册信息并通过套接字协议检查域可用性。对于网络开发人员和域名注册商来说，它是一个有用的工具。](https://github.com/monovm/whois-php) 
+- [carthage-software/elissa-bundle: Carthage 的 Elissa Bundle 为您的 Symfony 项目带来了开箱即用的 PSR-7 和 PSR-15 支持。](https://github.com/carthage-software/elissa-bundle) 
 ### July 27, 2023 
 - [TomasVotruba/lines: 用于快速测量 PHP 项目大小的 CLI 工具，可在任何地方运行](https://github.com/TomasVotruba/lines) 
 - [charmbracelet/wishlist: SSH 目录✨](https://github.com/charmbracelet/wishlist) 
