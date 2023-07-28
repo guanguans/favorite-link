@@ -351,6 +351,7 @@
 - [monovm/whois-php: 该 PHP 包使开发人员能够检索域注册信息并通过套接字协议检查域可用性。对于网络开发人员和域名注册商来说，它是一个有用的工具。](https://github.com/monovm/whois-php) 
 - [carthage-software/elissa-bundle: Carthage 的 Elissa Bundle 为您的 Symfony 项目带来了开箱即用的 PSR-7 和 PSR-15 支持。](https://github.com/carthage-software/elissa-bundle) 
 - [google/cel-spec: 通用表达语言 —— 规范和二进制表示](https://github.com/google/cel-spec) 
+- [krzysztofreczek/go-structurizr: 用于从 Go 应用程序自动生成 C4 图的库](https://github.com/krzysztofreczek/go-structurizr) 
 ### July 27, 2023 
 - [TomasVotruba/lines: 用于快速测量 PHP 项目大小的 CLI 工具，可在任何地方运行](https://github.com/TomasVotruba/lines) 
 - [charmbracelet/wishlist: SSH 目录✨](https://github.com/charmbracelet/wishlist) 
