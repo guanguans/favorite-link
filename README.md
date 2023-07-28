@@ -352,6 +352,7 @@
 - [carthage-software/elissa-bundle: Carthage 的 Elissa Bundle 为您的 Symfony 项目带来了开箱即用的 PSR-7 和 PSR-15 支持。](https://github.com/carthage-software/elissa-bundle) 
 - [google/cel-spec: 通用表达语言 —— 规范和二进制表示](https://github.com/google/cel-spec) 
 - [krzysztofreczek/go-structurizr: 用于从 Go 应用程序自动生成 C4 图的库](https://github.com/krzysztofreczek/go-structurizr) 
+- [tuchg/ChinesePinyin-CodeCompletionHelper: 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) 
 ### July 27, 2023 
 - [TomasVotruba/lines: 用于快速测量 PHP 项目大小的 CLI 工具，可在任何地方运行](https://github.com/TomasVotruba/lines) 
 - [charmbracelet/wishlist: SSH 目录✨](https://github.com/charmbracelet/wishlist) 
