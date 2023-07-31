@@ -355,6 +355,7 @@
 - [pot-app/pot-desktop: 🌈一个跨平台的划词翻译软件](https://github.com/pot-app/pot-desktop) 
 - [AltThree/Segment: Laravel 的 Segment 桥。](https://github.com/AltThree/Segment) 
 - [deepmap/oapi-codegen: 根据 OpenAPI 3 规范生成 Go 客户端和服务器样板](https://github.com/deepmap/oapi-codegen) 
+- [betterde/logger: Laravel 的 Elasticsearch 记录器](https://github.com/betterde/logger) 
 ### July 28, 2023 
 - [monovm/whois-php: 该 PHP 包使开发人员能够检索域注册信息并通过套接字协议检查域可用性。对于网络开发人员和域名注册商来说，它是一个有用的工具。](https://github.com/monovm/whois-php) 
 - [carthage-software/elissa-bundle: Carthage 的 Elissa Bundle 为您的 Symfony 项目带来了开箱即用的 PSR-7 和 PSR-15 支持。](https://github.com/carthage-software/elissa-bundle) 
