@@ -351,6 +351,7 @@
 ### July 31, 2023 
 - [TomasVotruba/lines: 用于快速测量 PHP 项目大小的 CLI 工具，可在任何地方运行](https://github.com/TomasVotruba/lines) 
 - [woodylan/go-websocket: 基于Golang实现的分布式WebSocket服务、IM服务，仅依赖Etcd，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信。](https://github.com/woodylan/go-websocket) 
+- [laravel/prompts: Laravel Prompts 是一个 PHP 包，用于向命令行应用程序添加美观且用户友好的表单，具有类似浏览器的功能，包括占位符文本和验证。](https://github.com/laravel/prompts) 
 ### July 28, 2023 
 - [monovm/whois-php: 该 PHP 包使开发人员能够检索域注册信息并通过套接字协议检查域可用性。对于网络开发人员和域名注册商来说，它是一个有用的工具。](https://github.com/monovm/whois-php) 
 - [carthage-software/elissa-bundle: Carthage 的 Elissa Bundle 为您的 Symfony 项目带来了开箱即用的 PSR-7 和 PSR-15 支持。](https://github.com/carthage-software/elissa-bundle) 
