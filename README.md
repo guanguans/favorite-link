@@ -354,6 +354,7 @@
 - [andygrunwald/go-trending: 用于访问 Github 上的趋势存储库和开发人员的 Go 库。](https://github.com/andygrunwald/go-trending) 
 - [wapmorgan/Mp3Info: 提取 mp3 元信息（持续时间、比特率、采样率等）和标签（id3v1、id3v2）的最快 PHP 库。](https://github.com/wapmorgan/Mp3Info) 
 - [xhit/go-simple-mail: 用于发送电子邮件的 Golang 包。支持保持连接、TLS 和 SSL。易于批量 SMTP。](https://github.com/xhit/go-simple-mail) 
+- [shetabit/payment: 简单的 laravel 支付包，支持多个驱动程序](https://github.com/shetabit/payment) 
 ### July 31, 2023 
 - [TomasVotruba/lines: 用于快速测量 PHP 项目大小的 CLI 工具，可在任何地方运行](https://github.com/TomasVotruba/lines) 
 - [woodylan/go-websocket: 基于Golang实现的分布式WebSocket服务、IM服务，仅依赖Etcd，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信。](https://github.com/woodylan/go-websocket) 
