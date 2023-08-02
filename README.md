@@ -349,6 +349,9 @@
 
 
 
+
+### August 2, 2023 
+- [jobbyphp/jobby: 无需修改 crontab 即可管理所有 cron 作业。处理锁定、日志记录、错误电子邮件等。](https://github.com/jobbyphp/jobby) 
 ### August 1, 2023 
 - [stechstudio/filament-impersonate: 这是一个 Filement 插件，可以很容易地模拟用户。](https://github.com/stechstudio/filament-impersonate) 
 - [andygrunwald/go-trending: 用于访问 Github 上的趋势存储库和开发人员的 Go 库。](https://github.com/andygrunwald/go-trending) 
