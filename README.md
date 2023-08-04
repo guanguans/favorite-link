@@ -351,6 +351,9 @@
 
 
 
+
+### August 4, 2023 
+- [shuvroroy/filament-spatie-laravel-health: 监控 Laravel 应用程序的运行状况](https://github.com/shuvroroy/filament-spatie-laravel-health) 
 ### August 3, 2023 
 - [devchat-ai/gopool: GoPool 是一个高性能、功能丰富且易于使用的 Golang 工作池库。](https://github.com/devchat-ai/gopool) 
 - [yepsua/filament-rating-field: Rating field for the Filament forms.](https://github.com/yepsua/filament-rating-field) 
