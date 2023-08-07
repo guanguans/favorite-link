@@ -356,6 +356,7 @@
 ### August 7, 2023 
 - [statikbe/laravel-filament-chained-translation-manager: Laravel Filament 的翻译管理器工具，利用 Laravel Chained Translator。](https://github.com/statikbe/laravel-filament-chained-translation-manager) 
 - [markbates/goth: Goth 包提供了一种简单、干净且惯用的方式来为 Go Web 应用程序编写身份验证包。](https://github.com/markbates/goth) 
+- [GoTestTools/gotestfmt: go test output for humans](https://github.com/GoTestTools/gotestfmt) 
 ### August 4, 2023 
 - [shuvroroy/filament-spatie-laravel-health: 监控 Laravel 应用程序的运行状况](https://github.com/shuvroroy/filament-spatie-laravel-health) 
 - [anhao/go-ernie: 文心千帆 GO SDK ，文心一言](https://github.com/anhao/go-ernie) 
