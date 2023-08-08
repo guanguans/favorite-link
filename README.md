@@ -353,6 +353,9 @@
 
 
 
+
+### August 8, 2023 
+- [phpgl/flappyphpant: 一个非常简单的类似 Flappy Bird 的游戏，用 PHP 编写，基于 PHP-GLFW 和 VISU 框架。](https://github.com/phpgl/flappyphpant) 
 ### August 7, 2023 
 - [statikbe/laravel-filament-chained-translation-manager: Laravel Filament 的翻译管理器工具，利用 Laravel Chained Translator。](https://github.com/statikbe/laravel-filament-chained-translation-manager) 
 - [markbates/goth: Goth 包提供了一种简单、干净且惯用的方式来为 Go Web 应用程序编写身份验证包。](https://github.com/markbates/goth) 
