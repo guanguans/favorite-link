@@ -360,6 +360,7 @@
 - [solutionforest/filament-tree: FilentTree 是 FilentAdmin 的一个插件，它创建了一个具有传统树结构视图的模型管理页面。这个插件可以用来创建菜单等等。](https://github.com/solutionforest/filament-tree) 
 - [teris-io/shortid: 超短、完全唯一、非连续且 URL 友好的 ID](https://github.com/teris-io/shortid) 
 - [phpgl/visu: 一个面向 PHP 的现代 OpenGL 框架。](https://github.com/phpgl/visu) 
+- [mario-deluna/php-glfw: 一个功能齐全的 OpenGL 和 GLFW PHP 扩展，包括电池(数学函数，纹理加载器等)](https://github.com/mario-deluna/php-glfw) 
 ### August 7, 2023 
 - [statikbe/laravel-filament-chained-translation-manager: Laravel Filament 的翻译管理器工具，利用 Laravel Chained Translator。](https://github.com/statikbe/laravel-filament-chained-translation-manager) 
 - [markbates/goth: Goth 包提供了一种简单、干净且惯用的方式来为 Go Web 应用程序编写身份验证包。](https://github.com/markbates/goth) 
