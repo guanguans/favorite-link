@@ -360,6 +360,7 @@
 - [charlesportwoodii/yii2-psr7-bridge: 基于 PSR7桥和 PSR-15的 Yii2适配器](https://github.com/charlesportwoodii/yii2-psr7-bridge) 
 - [ncruces/go-sqlite3: 使用 Wazero 绑定到 SQLite](https://github.com/ncruces/go-sqlite3) 
 - [theodo-group/LLPhant: 使用 OpenAI GPT 4 的综合 PHP 生成人工智能框架。受到 Langchain 和 LLamaIndex 的启发](https://github.com/theodo-group/LLPhant) 
+- [jcchavezs/zipkin-instrumentation-guzzle: Guzzle HTTP 客户端的 Zipkin 检测](https://github.com/jcchavezs/zipkin-instrumentation-guzzle) 
 ### August 8, 2023 
 - [phpgl/flappyphpant: 一个非常简单的类似 Flappy Bird 的游戏，用 PHP 编写，基于 PHP-GLFW 和 VISU 框架。](https://github.com/phpgl/flappyphpant) 
 - [chaitin/safeline: 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。](https://github.com/chaitin/safeline) 
