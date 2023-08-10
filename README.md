@@ -355,6 +355,9 @@
 
 
 
+
+### August 10, 2023 
+- [codebar-ag/laravel-zammad: Zammad 与 Laravel 的整合。](https://github.com/codebar-ag/laravel-zammad) 
 ### August 9, 2023 
 - [vmihailenco/msgpack: 用于 Golang 的 msgpack.org [ Go ] MessagePack 编码](https://github.com/vmihailenco/msgpack) 
 - [charlesportwoodii/yii2-psr7-bridge: 基于 PSR7桥和 PSR-15的 Yii2适配器](https://github.com/charlesportwoodii/yii2-psr7-bridge) 
