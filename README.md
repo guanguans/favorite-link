@@ -360,6 +360,7 @@
 
 ### August 14, 2023 
 - [wooorm/starry-night: 语法高亮显示，像GitHub](https://github.com/wooorm/starry-night) 
+- [yzen-dev/laravel-route-coverage: Laravel路线覆盖报告。](https://github.com/yzen-dev/laravel-route-coverage) 
 ### August 11, 2023 
 - [hickford/git-credential-oauth: 一个 Git 凭证助手，可使用 OAuth 安全地向 GitHub、GitLab 和 BitBucket 进行身份验证。](https://github.com/hickford/git-credential-oauth) 
 - [phpbb/phpbb: phpBB 是一个用 PHP 编写的流行的开源公告板。](https://github.com/phpbb/phpbb) 
