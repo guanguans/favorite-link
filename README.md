@@ -366,6 +366,7 @@
 - [thedevdojo/genesis: 应用程序入门套件 - 使用 Laravel Folio 和 Volt 构建](https://github.com/thedevdojo/genesis) 
 - [lara-zeus/bolt: 为您的用户提供表单生成器，具有如此多的用例](https://github.com/lara-zeus/bolt) 
 - [rmunate/SpellNumber: 使用此库可以轻松地将 Laravel 中的数字转换为单词](https://github.com/rmunate/SpellNumber) 
+- [dedoc/scramble: Laravel OpenAPI (Swagger) 文档生成器。不需要 PHPDoc 注释。](https://github.com/dedoc/scramble) 
 ### August 11, 2023 
 - [hickford/git-credential-oauth: 一个 Git 凭证助手，可使用 OAuth 安全地向 GitHub、GitLab 和 BitBucket 进行身份验证。](https://github.com/hickford/git-credential-oauth) 
 - [phpbb/phpbb: phpBB 是一个用 PHP 编写的流行的开源公告板。](https://github.com/phpbb/phpbb) 
