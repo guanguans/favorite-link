@@ -361,6 +361,7 @@
 
 ### August 15, 2023 
 - [s-damian/larasort: 使用 Laravel 8 & 9 & 10 进行列排序 - Eloquent sortable](https://github.com/s-damian/larasort) 
+- [PhakornKiong/go-pattern: GO的模式匹配库](https://github.com/PhakornKiong/go-pattern) 
 ### August 14, 2023 
 - [wooorm/starry-night: 语法高亮显示，像GitHub](https://github.com/wooorm/starry-night) 
 - [yzen-dev/laravel-route-coverage: Laravel路线覆盖报告。](https://github.com/yzen-dev/laravel-route-coverage) 
