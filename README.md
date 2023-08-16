@@ -362,6 +362,7 @@
 
 ### August 16, 2023 
 - [orchestral/workbench: Laravel 包开发的工作台伴侣](https://github.com/orchestral/workbench) 
+- [foroco/php-browser-detection: 超快速 PHP 库，通过用户代理解析检测浏览器、操作系统、平台和设备类型](https://github.com/foroco/php-browser-detection) 
 ### August 15, 2023 
 - [s-damian/larasort: 使用 Laravel 8 & 9 & 10 进行列排序 - Eloquent sortable](https://github.com/s-damian/larasort) 
 - [PhakornKiong/go-pattern: GO的模式匹配库](https://github.com/PhakornKiong/go-pattern) 
