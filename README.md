@@ -360,6 +360,9 @@
 
 
 
+
+### August 17, 2023 
+- [shiyunjin/lan-expose: 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口](https://github.com/shiyunjin/lan-expose) 
 ### August 16, 2023 
 - [orchestral/workbench: Laravel 包开发的工作台伴侣](https://github.com/orchestral/workbench) 
 - [foroco/php-browser-detection: 超快速 PHP 库，通过用户代理解析检测浏览器、操作系统、平台和设备类型](https://github.com/foroco/php-browser-detection) 
