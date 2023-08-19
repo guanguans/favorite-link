@@ -362,6 +362,9 @@
 
 
 
+
+### August 19, 2023 
+- [charmbracelet/mods: 命令行上的AI](https://github.com/charmbracelet/mods) 
 ### August 18, 2023 
 - [Jinnrry/PMail: 私人电子邮件服务器](https://github.com/Jinnrry/PMail) 
 - [iovisor/bcc: BCC - BCC - 基于 BPF 的 Linux IO 分析、网络、监控等工具](https://github.com/iovisor/bcc) 
