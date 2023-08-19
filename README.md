@@ -367,6 +367,7 @@
 - [charmbracelet/mods: 命令行上的AI](https://github.com/charmbracelet/mods) 
 - [PHP 语言检测库。检测给定文本字符串中的语言。](https://github.com/patrickschur/language-detection) 
 - [phel-lang/phel-lang: PHEL是一种功能性编程语言，将（汇总）编译为PHP。受Clojure和Janet启发的LISP方言（方言）。](https://github.com/phel-lang/phel-lang) 
+- [ahmedesa/laravel-api-tool-kit: Laravel API工具包是一款综合的（综合）套件（套房）工具，旨在帮助您使用Laravel的行业领先的最佳实践来帮助您创建强大的高性能API。](https://github.com/ahmedesa/laravel-api-tool-kit) 
 ### August 18, 2023 
 - [Jinnrry/PMail: 私人电子邮件服务器](https://github.com/Jinnrry/PMail) 
 - [iovisor/bcc: BCC - BCC - 基于 BPF 的 Linux IO 分析、网络、监控等工具](https://github.com/iovisor/bcc) 
