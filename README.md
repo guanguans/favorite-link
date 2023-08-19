@@ -369,6 +369,7 @@
 - [phel-lang/phel-lang: PHEL是一种功能性编程语言，将（汇总）编译为PHP。受Clojure和Janet启发的LISP方言（方言）。](https://github.com/phel-lang/phel-lang) 
 - [ahmedesa/laravel-api-tool-kit: Laravel API工具包是一款综合的（综合）套件（套房）工具，旨在帮助您使用Laravel的行业领先的最佳实践来帮助您创建强大的高性能API。](https://github.com/ahmedesa/laravel-api-tool-kit) 
 - [awcodes/html-faker: 一个更好的 html 伪造者](https://github.com/awcodes/html-faker) 
+- [gacela-project/gacela: Gacela可以帮助您将项目分为模块，重点关注与域（域）解耦的基础架构（基础基础）或应用层。](https://github.com/gacela-project/gacela) 
 ### August 18, 2023 
 - [Jinnrry/PMail: 私人电子邮件服务器](https://github.com/Jinnrry/PMail) 
 - [iovisor/bcc: BCC - BCC - 基于 BPF 的 Linux IO 分析、网络、监控等工具](https://github.com/iovisor/bcc) 
