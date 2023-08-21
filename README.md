@@ -367,6 +367,7 @@
 ### August 21, 2023 
 - [jdavidbakr/mail-tracker: Laravel 包将跟踪代码注入到外发电子邮件中。](https://github.com/jdavidbakr/mail-tracker) 
 - [houseme/yuncun-leping: About 🎵网易云乐评 · 一言 API - 随机获取网易云热评 Golang](https://github.com/houseme/yuncun-leping) 
+- [robiningelbrecht/phpunit-pretty-print: 更好的 PHPUnit CLI 输出与碰撞](https://github.com/robiningelbrecht/phpunit-pretty-print) 
 ### August 19, 2023 
 - [charmbracelet/mods: 命令行上的AI](https://github.com/charmbracelet/mods) 
 - [PHP 语言检测库。检测给定文本字符串中的语言。](https://github.com/patrickschur/language-detection) 
