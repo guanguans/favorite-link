@@ -367,6 +367,7 @@
 
 ### August 22, 2023 
 - [antonioribeiro/ia-str: Laravel Illuminate Agnostic Str](https://github.com/antonioribeiro/ia-str) 
+- [IBM/fp-go: golang 函数式编程库](https://github.com/IBM/fp-go) 
 ### August 21, 2023 
 - [jdavidbakr/mail-tracker: Laravel 包将跟踪代码注入到外发电子邮件中。](https://github.com/jdavidbakr/mail-tracker) 
 - [houseme/yuncun-leping: About 🎵网易云乐评 · 一言 API - 随机获取网易云热评 Golang](https://github.com/houseme/yuncun-leping) 
