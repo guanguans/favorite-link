@@ -366,6 +366,9 @@
 
 
 
+
+### August 24, 2023 
+- [eneadm/ladder: Laravel 的轻量级权限](https://github.com/eneadm/ladder) 
 ### August 23, 2023 
 - [showwin/speedtest-go: 使用 speedtest.net 测试互联网速度的 CLI 和 Go API](https://github.com/showwin/speedtest-go) 
 - [YakutD/regent: Laravel 包允许您以声明方式编写正则表达式。](https://github.com/YakutD/regent) 
