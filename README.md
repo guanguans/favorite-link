@@ -369,6 +369,7 @@
 
 ### August 24, 2023 
 - [eneadm/ladder: Laravel 的轻量级权限](https://github.com/eneadm/ladder) 
+- [amphp/sync: 基于 Amp 和 Revolt 的 PHP 非阻塞同步原语。](https://github.com/amphp/sync) 
 ### August 23, 2023 
 - [showwin/speedtest-go: 使用 speedtest.net 测试互联网速度的 CLI 和 Go API](https://github.com/showwin/speedtest-go) 
 - [YakutD/regent: Laravel 包允许您以声明方式编写正则表达式。](https://github.com/YakutD/regent) 
