@@ -367,6 +367,9 @@
 
 
 
+
+### August 25, 2023 
+- [platypusguy/jacobin: 用 Go 编写的超小型 JVM，能够运行 Java 17 类。](https://github.com/platypusguy/jacobin) 
 ### August 24, 2023 
 - [eneadm/ladder: Laravel 的轻量级权限](https://github.com/eneadm/ladder) 
 - [amphp/sync: 基于 Amp 和 Revolt 的 PHP 非阻塞同步原语。](https://github.com/amphp/sync) 
