@@ -370,6 +370,7 @@
 
 ### August 25, 2023 
 - [platypusguy/jacobin: 用 Go 编写的超小型 JVM，能够运行 Java 17 类。](https://github.com/platypusguy/jacobin) 
+- [Skillshare/formatphp: 🌍 国际化 PHP 应用程序。该库提供了一个 API 来格式化日期、数字和字符串，包括复数化和处理翻译。](https://github.com/Skillshare/formatphp) 
 ### August 24, 2023 
 - [eneadm/ladder: Laravel 的轻量级权限](https://github.com/eneadm/ladder) 
 - [amphp/sync: 基于 Amp 和 Revolt 的 PHP 非阻塞同步原语。](https://github.com/amphp/sync) 
