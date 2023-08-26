@@ -368,6 +368,9 @@
 
 
 
+
+### August 26, 2023 
+- [WendellAdriel/laravel-lift: 将你的Eloquent模型提升到一个新的水平](https://github.com/WendellAdriel/laravel-lift) 
 ### August 25, 2023 
 - [platypusguy/jacobin: 用 Go 编写的超小型 JVM，能够运行 Java 17 类。](https://github.com/platypusguy/jacobin) 
 - [Skillshare/formatphp: 🌍 国际化 PHP 应用程序。该库提供了一个 API 来格式化日期、数字和字符串，包括复数化和处理翻译。](https://github.com/Skillshare/formatphp) 
