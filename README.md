@@ -375,6 +375,7 @@
 - [stephanediondev/elasticsearch-admin: Elasticsearch 的 Web 管理](https://github.com/stephanediondev/elasticsearch-admin) 
 - [pmjones/php-styler: 从抽象语法树重建 PHP 代码。](https://github.com/pmjones/php-styler) 
 - [honeybadger-io/honeybadger-laravel: 用于向 Honeybadger.io 报告错误的 PHP/Laravel 库 🐘 ⚡](https://github.com/honeybadger-io/honeybadger-laravel) 
+- [emreyarligan/enum-concern: 一个 PHP 包，可轻松处理 Laravel Collections 的枚举 📦 ✨](https://github.com/emreyarligan/enum-concern) 
 ### August 26, 2023 
 - [WendellAdriel/laravel-lift: 将你的Eloquent模型提升到一个新的水平](https://github.com/WendellAdriel/laravel-lift) 
 ### August 25, 2023 
