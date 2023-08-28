@@ -372,6 +372,7 @@
 
 ### August 28, 2023 
 - [PlayCover/PlayCover: PlayCover 的社区分叉](https://github.com/PlayCover/PlayCover) 
+- [stephanediondev/elasticsearch-admin: Elasticsearch 的 Web 管理](https://github.com/stephanediondev/elasticsearch-admin) 
 ### August 26, 2023 
 - [WendellAdriel/laravel-lift: 将你的Eloquent模型提升到一个新的水平](https://github.com/WendellAdriel/laravel-lift) 
 ### August 25, 2023 
