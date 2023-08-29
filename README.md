@@ -370,6 +370,9 @@
 
 
 
+
+### August 29, 2023 
+- [laravel/facade-documenter: Laravel 的 Facade 文档块生成器。](https://github.com/laravel/facade-documenter) 
 ### August 28, 2023 
 - [PlayCover/PlayCover: PlayCover 的社区分叉](https://github.com/PlayCover/PlayCover) 
 - [stephanediondev/elasticsearch-admin: Elasticsearch 的 Web 管理](https://github.com/stephanediondev/elasticsearch-admin) 
