@@ -376,6 +376,7 @@
 - [samdark/yii2-psr-log-target: Yii 2.0 日志目标能够将消息写入 PSR-3 兼容记录器](https://github.com/samdark/yii2-psr-log-target) 
 - [cinghie/yii2-traits: Yii2 Traits 是一个拥有最常用 Traits 的库](https://github.com/cinghie/yii2-traits) 
 - [defog-ai/sqlcoder: SoTA LLM 用于将自然语言问题转换为 SQL 查询](https://github.com/defog-ai/sqlcoder) 
+- [net-byte/vtun: A simple VPN written in Go.](https://github.com/net-byte/vtun) 
 ### August 28, 2023 
 - [PlayCover/PlayCover: PlayCover 的社区分叉](https://github.com/PlayCover/PlayCover) 
 - [stephanediondev/elasticsearch-admin: Elasticsearch 的 Web 管理](https://github.com/stephanediondev/elasticsearch-admin) 
