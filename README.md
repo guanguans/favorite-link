@@ -374,6 +374,7 @@
 ### August 29, 2023 
 - [laravel/facade-documenter: Laravel 的 Facade 文档块生成器。](https://github.com/laravel/facade-documenter) 
 - [samdark/yii2-psr-log-target: Yii 2.0 日志目标能够将消息写入 PSR-3 兼容记录器](https://github.com/samdark/yii2-psr-log-target) 
+- [cinghie/yii2-traits: Yii2 Traits 是一个拥有最常用 Traits 的库](https://github.com/cinghie/yii2-traits) 
 ### August 28, 2023 
 - [PlayCover/PlayCover: PlayCover 的社区分叉](https://github.com/PlayCover/PlayCover) 
 - [stephanediondev/elasticsearch-admin: Elasticsearch 的 Web 管理](https://github.com/stephanediondev/elasticsearch-admin) 
