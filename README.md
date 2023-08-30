@@ -378,6 +378,7 @@
 - [WendellAdriel/cache-ttl-helper: Helper Enum 用于以简单、轻松且友好的方式处理缓存 TTL](https://github.com/WendellAdriel/cache-ttl-helper) 
 - [janephp/automapper: 为 PHP 生成 AutoMapper](https://github.com/janephp/automapper) 
 - [schranz-search/schranz-search: 用 PHP 编写的不同搜索引擎的搜索抽象。目前已实现 Elasticsearch、Opensearch、Algolia、Meilisearch、RediSearch、Solr、Typesense。](https://github.com/schranz-search/schranz-search) 
+- [schranz-search/laravel-package: 将 schranz-search 搜索抽象集成到 Laravel 框架中。](https://github.com/schranz-search/laravel-package) 
 ### August 29, 2023 
 - [laravel/facade-documenter: Laravel 的 Facade 文档块生成器。](https://github.com/laravel/facade-documenter) 
 - [samdark/yii2-psr-log-target: Yii 2.0 日志目标能够将消息写入 PSR-3 兼容记录器](https://github.com/samdark/yii2-psr-log-target) 
