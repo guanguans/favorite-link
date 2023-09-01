@@ -372,6 +372,9 @@
 
 
 
+
+### September 1, 2023 
+- [maize-tech/laravel-searchable: 通过模型属性和关系轻松添加加权搜索](https://github.com/maize-tech/laravel-searchable) 
 ### August 30, 2023 
 - [alexander-schranz/mono: Mono 帮助管理您的 PHP Mono 存储库](https://github.com/alexander-schranz/mono) 
 - [peterh/liner: 受 linenoise 启发，具有历史的 Pure Go 行编辑器](https://github.com/peterh/liner) 
