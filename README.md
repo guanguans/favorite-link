@@ -373,6 +373,9 @@
 
 
 
+
+### September 4, 2023 
+- [Hasnayeen/themes: Themes for Filament panels.](https://github.com/Hasnayeen/themes) 
 ### September 1, 2023 
 - [maize-tech/laravel-searchable: 通过模型属性和关系轻松添加加权搜索](https://github.com/maize-tech/laravel-searchable) 
 - [stephenafamo/bob: 适用于 Go 的 SQL 查询构建器和 ORM/Factory 生成器，支持 PostgreSQL、MySQL 和 SQLite](https://github.com/stephenafamo/bob) 
