@@ -379,6 +379,7 @@
 - [Webklex/laravel-imap: Laravel IMAP 是一种将本机 php-imap 模块和扩展的自定义 imap 协议集成到 Laravel 应用程序中的简单方法。](https://github.com/Webklex/laravel-imap) 
 - [AfterShip/email-verifier: ✅ 一个用于电子邮件验证的 Go 库，无需发送任何电子邮件。](https://github.com/AfterShip/email-verifier) 
 - [gokrazy/rsync: gokrazy rsync](https://github.com/gokrazy/rsync) 
+- [acheong08/obi-sync: 本机 Obsidian 同步和发布服务器的逆向工程](https://github.com/acheong08/obi-sync) 
 ### September 4, 2023 
 - [Hasnayeen/themes: Themes for Filament panels.](https://github.com/Hasnayeen/themes) 
 - [zknill/sqledge: 将 postgres 复制到边缘 SQLite](https://github.com/zknill/sqledge) 
