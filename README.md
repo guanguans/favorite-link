@@ -379,6 +379,7 @@
 ### September 6, 2023 
 - [theiconic/php-ga-measurement-protocol: 使用 PHP 将数据从服务器发送到 Google Analytics。实施 GA 测量协议。](https://github.com/theiconic/php-ga-measurement-protocol) 
 - [colinodell/psr-testlogger: 基于 psr/log v1 的 PSR-3 兼容测试记录器](https://github.com/colinodell/psr-testlogger) 
+- [Code-Hex/synchro: Go 的时区类型安全日期和时间库。](https://github.com/Code-Hex/synchro) 
 ### September 5, 2023 
 - [Webklex/laravel-imap: Laravel IMAP 是一种将本机 php-imap 模块和扩展的自定义 imap 协议集成到 Laravel 应用程序中的简单方法。](https://github.com/Webklex/laravel-imap) 
 - [AfterShip/email-verifier: ✅ 一个用于电子邮件验证的 Go 库，无需发送任何电子邮件。](https://github.com/AfterShip/email-verifier) 
