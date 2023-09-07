@@ -376,6 +376,9 @@
 
 
 
+
+### September 7, 2023 
+- [kenepa/translation-manager: 在 Filament 中管理应用程序的翻译。](https://github.com/kenepa/translation-manager) 
 ### September 6, 2023 
 - [theiconic/php-ga-measurement-protocol: 使用 PHP 将数据从服务器发送到 Google Analytics。实施 GA 测量协议。](https://github.com/theiconic/php-ga-measurement-protocol) 
 - [colinodell/psr-testlogger: 基于 psr/log v1 的 PSR-3 兼容测试记录器](https://github.com/colinodell/psr-testlogger) 
