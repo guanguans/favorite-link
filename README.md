@@ -377,6 +377,9 @@
 
 
 
+
+### September 8, 2023 
+- [laravel/pennant: 一个简单、轻量级的库，用于管理功能标志。](https://github.com/laravel/pennant) 
 ### September 7, 2023 
 - [kenepa/translation-manager: 在 Filament 中管理应用程序的翻译。](https://github.com/kenepa/translation-manager) 
 - [real-zony/ZonyLrcToolsX: ZonyLrcToolsX 是一个能够方便地下载歌词的小软件。](https://github.com/real-zony/ZonyLrcToolsX) 
