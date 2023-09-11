@@ -378,6 +378,9 @@
 
 
 
+
+### September 11, 2023 
+- [zoonru/puphpeteer: PHP 的 Puppeteer 桥，支持整个 API。](https://github.com/zoonru/puphpeteer) 
 ### September 8, 2023 
 - [laravel/pennant: 一个简单、轻量级的库，用于管理功能标志。](https://github.com/laravel/pennant) 
 ### September 7, 2023 
