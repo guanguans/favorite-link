@@ -383,6 +383,7 @@
 ### September 12, 2023 
 - [wangrongding/github-old-feed: Replace the shit💩 new feed with the old one.](https://github.com/wangrongding/github-old-feed) 
 - [nginx/unit: NGINX Unit - 通用 Web 应用程序服务器 - 一种轻量级、多功能的开源服务器，通过在八种不同的编程语言运行时本机执行应用程序代码来简化应用程序堆栈。](https://github.com/nginx/unit) 
+- [Lomkit/laravel-rest-api: 几秒内生成 Api](https://github.com/Lomkit/laravel-rest-api) 
 ### September 11, 2023 
 - [zoonru/puphpeteer: PHP 的 Puppeteer 桥，支持整个 API。](https://github.com/zoonru/puphpeteer) 
 - [rialto-php/rialto: Manage Node resources with PHP](https://github.com/rialto-php/rialto) 
