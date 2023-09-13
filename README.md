@@ -385,6 +385,7 @@
 - [caarlos0/timea.go: timea.go（你看到我在那里做了什么吗？）是一个简单的库，以 “很久以前” 的方式打印给定的时间。](https://github.com/caarlos0/timea.go) 
 - [gorilla/schema: 包 gorilla/schema 用表单值填充结构。](https://github.com/gorilla/schema) 
 - [bilfeldt/laravel-request-logger: 使用唯一 ID 记录 Laravel 应用程序请求和响应，以便于调试](https://github.com/bilfeldt/laravel-request-logger) 
+- [bilfeldt/laravel-route-statistics: 记录请求并分组在一起以获取路由使用情况的聚合统计数据](https://github.com/bilfeldt/laravel-route-statistics) 
 ### September 12, 2023 
 - [wangrongding/github-old-feed: Replace the shit💩 new feed with the old one.](https://github.com/wangrongding/github-old-feed) 
 - [nginx/unit: NGINX Unit - 通用 Web 应用程序服务器 - 一种轻量级、多功能的开源服务器，通过在八种不同的编程语言运行时本机执行应用程序代码来简化应用程序堆栈。](https://github.com/nginx/unit) 
