@@ -381,6 +381,9 @@
 
 
 
+
+### September 14, 2023 
+- [spiffe/spiffe-csi: SPIFFE 的容器存储接口组件](https://github.com/spiffe/spiffe-csi) 
 ### September 13, 2023 
 - [caarlos0/timea.go: timea.go（你看到我在那里做了什么吗？）是一个简单的库，以 “很久以前” 的方式打印给定的时间。](https://github.com/caarlos0/timea.go) 
 - [gorilla/schema: 包 gorilla/schema 用表单值填充结构。](https://github.com/gorilla/schema) 
