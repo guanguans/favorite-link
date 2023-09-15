@@ -387,6 +387,7 @@
 - [php-identifier/identifier: 标识符的通用接口](https://github.com/php-identifier/identifier) 
 - [erickskrauch/php-cs-fixer-custom-fixers: PHP-CS-Fixer 的一组自定义修复程序](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) 
 - [open-policy-agent/opa: 开源通用策略引擎。](https://github.com/open-policy-agent/opa) 
+- [deckarep/golang-set: 一个简单的、经过实战考验的 Go 语言通用集合类型。](https://github.com/deckarep/golang-set) 
 ### September 14, 2023 
 - [spiffe/spiffe-csi: SPIFFE 的容器存储接口组件](https://github.com/spiffe/spiffe-csi) 
 ### September 13, 2023 
