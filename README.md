@@ -388,6 +388,7 @@
 - [erickskrauch/php-cs-fixer-custom-fixers: PHP-CS-Fixer 的一组自定义修复程序](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) 
 - [open-policy-agent/opa: 开源通用策略引擎。](https://github.com/open-policy-agent/opa) 
 - [deckarep/golang-set: 一个简单的、经过实战考验的 Go 语言通用集合类型。](https://github.com/deckarep/golang-set) 
+- [Kevinrob/guzzle-cache-middleware: Guzzle 6 的 HTTP 缓存。它是一个要添加到 HandlerStack 中的简单中间件。](https://github.com/Kevinrob/guzzle-cache-middleware) 
 ### September 14, 2023 
 - [spiffe/spiffe-csi: SPIFFE 的容器存储接口组件](https://github.com/spiffe/spiffe-csi) 
 ### September 13, 2023 
