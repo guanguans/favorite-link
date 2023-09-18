@@ -386,6 +386,7 @@
 
 ### September 18, 2023 
 - [friendsoftwig/twigcs: The missing checkstyle for twig!](https://github.com/friendsoftwig/twigcs) 
+- [antfu/vscode-browse-lite: 🚀 VS Code 中的嵌入式浏览器](https://github.com/antfu/vscode-browse-lite) 
 ### September 15, 2023 
 - [php-identifier/identifier: 标识符的通用接口](https://github.com/php-identifier/identifier) 
 - [erickskrauch/php-cs-fixer-custom-fixers: PHP-CS-Fixer 的一组自定义修复程序](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) 
