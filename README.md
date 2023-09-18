@@ -389,6 +389,7 @@
 - [antfu/vscode-browse-lite: 🚀 VS Code 中的嵌入式浏览器](https://github.com/antfu/vscode-browse-lite) 
 - [axllent/mailpit: 为开发人员提供带有 API 的电子邮件和 SMTP 测试工具](https://github.com/axllent/mailpit) 
 - [sa7mon/S3Scanner: 跨 S3 兼容 API 扫描配置错误的 S3 存储桶！](https://github.com/sa7mon/S3Scanner) 
+- [takielias/tablar: Tablar：基于 Tabler HTML 模板 + Vite 的 Laravel 仪表板预设。](https://github.com/takielias/tablar) 
 ### September 15, 2023 
 - [php-identifier/identifier: 标识符的通用接口](https://github.com/php-identifier/identifier) 
 - [erickskrauch/php-cs-fixer-custom-fixers: PHP-CS-Fixer 的一组自定义修复程序](https://github.com/erickskrauch/php-cs-fixer-custom-fixers) 
