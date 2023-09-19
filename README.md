@@ -387,6 +387,7 @@
 
 ### September 19, 2023 
 - [sahilm/fuzzy: Go 库，提供针对 Sublime Text、VSCode、IntelliJ IDEA 等风格的文件名和代码符号优化的模糊字符串匹配。](https://github.com/sahilm/fuzzy) 
+- [rakutentech/laravel-request-docs: 适用于 Laravel 应用程序的轻松 API 文档工具。](https://github.com/rakutentech/laravel-request-docs) 
 ### September 18, 2023 
 - [friendsoftwig/twigcs: The missing checkstyle for twig!](https://github.com/friendsoftwig/twigcs) 
 - [antfu/vscode-browse-lite: 🚀 VS Code 中的嵌入式浏览器](https://github.com/antfu/vscode-browse-lite) 
