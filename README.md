@@ -390,6 +390,7 @@
 - [overblog/GraphQLBundle: 该捆绑包提供了在您的 Symfony 应用程序中构建完整的 GraphQL API 服务器的工具。](https://github.com/overblog/GraphQLBundle) 
 - [izniburak/pipeline-go: 您的工作、任务等的管道模式。（Golang）](https://github.com/izniburak/pipeline-go) 
 - [apix/log: 薄型（快速）PSR-3 记录仪。](https://github.com/apix/log) 
+- [sxyazi/yazi: ⚡️ 用 Rust 编写的基于异步 I/O 的超快终端文件管理器。](https://github.com/sxyazi/yazi) 
 ### September 19, 2023 
 - [sahilm/fuzzy: Go 库，提供针对 Sublime Text、VSCode、IntelliJ IDEA 等风格的文件名和代码符号优化的模糊字符串匹配。](https://github.com/sahilm/fuzzy) 
 - [rakutentech/laravel-request-docs: 适用于 Laravel 应用程序的轻松 API 文档工具。](https://github.com/rakutentech/laravel-request-docs) 
