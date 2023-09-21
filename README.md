@@ -386,6 +386,9 @@
 
 
 
+
+### September 21, 2023 
+- [comwrg/package-manager-proxy-settings: 记录各个包管理器代理设置坑点。](https://github.com/comwrg/package-manager-proxy-settings) 
 ### September 20, 2023 
 - [overblog/GraphQLBundle: 该捆绑包提供了在您的 Symfony 应用程序中构建完整的 GraphQL API 服务器的工具。](https://github.com/overblog/GraphQLBundle) 
 - [izniburak/pipeline-go: 您的工作、任务等的管道模式。（Golang）](https://github.com/izniburak/pipeline-go) 
