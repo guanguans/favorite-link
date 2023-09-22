@@ -393,6 +393,7 @@
 - [fly-apps/fly-laravel: 在 Fly 上运行您的 Laravel 应用程序](https://github.com/fly-apps/fly-laravel) 
 - [ovh/venom: 🐍 高效管理和运行集成测试 - Venom 运行执行器（脚本、HTTP 请求、web、imap 等）和断言](https://github.com/ovh/venom) 
 - [kadeessh/kadeessh: Kadeessh（以前称为 Caddy-SSH）是一个用 Go 构建的通用、可扩展、模块化、内存安全的 SSH 服务器](https://github.com/kadeessh/kadeessh) 
+- [yzen-dev/laravel-local-mailer: 用于发送消息的本地测试的邮件传输](https://github.com/yzen-dev/laravel-local-mailer) 
 ### September 21, 2023 
 - [comwrg/package-manager-proxy-settings: 记录各个包管理器代理设置坑点。](https://github.com/comwrg/package-manager-proxy-settings) 
 - [nunomaduro/pail: 在 Laravel 中轻松跟踪日志 🪣](https://github.com/nunomaduro/pail) 
