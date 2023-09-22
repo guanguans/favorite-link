@@ -391,6 +391,7 @@
 ### September 22, 2023 
 - [sqids/sqids-php: Sqids 的官方 PHP 端口。从数字生成类似 YouTube 的简短 ID。](https://github.com/sqids/sqids-php) 
 - [fly-apps/fly-laravel: 在 Fly 上运行您的 Laravel 应用程序](https://github.com/fly-apps/fly-laravel) 
+- [ovh/venom: 🐍 高效管理和运行集成测试 - Venom 运行执行器（脚本、HTTP 请求、web、imap 等）和断言](https://github.com/ovh/venom) 
 ### September 21, 2023 
 - [comwrg/package-manager-proxy-settings: 记录各个包管理器代理设置坑点。](https://github.com/comwrg/package-manager-proxy-settings) 
 - [nunomaduro/pail: 在 Laravel 中轻松跟踪日志 🪣](https://github.com/nunomaduro/pail) 
