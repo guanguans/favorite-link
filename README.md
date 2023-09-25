@@ -394,6 +394,7 @@
 - [cjmellor/browser-sessions: 一个 Laravel 包，使用户能够管理和监控其活动的浏览器会话。允许用户查看他们登录的设备，并提供终止未识别或所有会话的选项，从而增强帐户安全性](https://github.com/cjmellor/browser-sessions) 
 - [struggle-for-php/sfp-phpstan-psr-log: PHPStan 的额外严格且固执己见的 psr/log (psr-3) 规则](https://github.com/struggle-for-php/sfp-phpstan-psr-log) 
 - [nextapps-be/laravel-verification-code: 使用发送到邮件的验证码对用户进行身份验证。](https://github.com/nextapps-be/laravel-verification-code) 
+- [tiny-craft/tiny-rdm: 现代 Redis 桌面管理器](https://github.com/tiny-craft/tiny-rdm) 
 ### September 22, 2023 
 - [sqids/sqids-php: Sqids 的官方 PHP 端口。从数字生成类似 YouTube 的简短 ID。](https://github.com/sqids/sqids-php) 
 - [fly-apps/fly-laravel: 在 Fly 上运行您的 Laravel 应用程序](https://github.com/fly-apps/fly-laravel) 
