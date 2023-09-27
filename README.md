@@ -394,6 +394,7 @@
 ### September 27, 2023 
 - [shtayeb/bookworm-for-laravel: 书虫估算阅读某篇文章需要多少时间。](https://github.com/shtayeb/bookworm-for-laravel) 
 - [typhoon-php/reflection: Typhoon Reflection](https://github.com/typhoon-php/reflection) 
+- [appstract/laravel-stock: Keep stock for Eloquent models](https://github.com/appstract/laravel-stock) 
 ### September 26, 2023 
 - [AleksK1NG/Go-Clean-Architecture-REST-API: Golang 清洁架构 REST API 示例](https://github.com/AleksK1NG/Go-Clean-Architecture-REST-API) 
 - [jianyan74/rageframe3: 一个基于 Yii2 高级框架的重量级快速开发应用引擎](https://github.com/jianyan74/rageframe3) 
