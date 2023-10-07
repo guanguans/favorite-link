@@ -400,6 +400,7 @@
 - [orangekame3/paclear: paclear 是带有 pacman 动画的清晰命令](https://github.com/orangekame3/paclear) 
 - [VincentLanglet/Twig-CS-Fixer: 自动修复 Twig 编码标准问题的工具](https://github.com/VincentLanglet/Twig-CS-Fixer) 
 - [Lysice/laravel-tips-chinese: Awesome tips for Laravel](https://github.com/Lysice/laravel-tips-chinese) 
+- [wangyoucao577/go-release-action: 通过 Github Action 自动将 Go 二进制文件发布到 Github Release Assets。](https://github.com/wangyoucao577/go-release-action) 
 ### September 28, 2023 
 - [aVadim483/fast-excel-writer: PHP 中的轻量级且非常快速的 XLSX Excel 电子表格编写器](https://github.com/aVadim483/fast-excel-writer) 
 - [aVadim483/fast-excel-reader: PHP 中的轻量且非常快速的 XLSX Excel 电子表格阅读器](https://github.com/aVadim483/fast-excel-reader) 
