@@ -392,6 +392,9 @@
 
 
 
+
+### October 7, 2023 
+- [dipeshsukhia/laravel-country-state-city-data: Laravel 的世界国家 / 地区城市数据提供商](https://github.com/dipeshsukhia/laravel-country-state-city-data) 
 ### September 28, 2023 
 - [aVadim483/fast-excel-writer: PHP 中的轻量级且非常快速的 XLSX Excel 电子表格编写器](https://github.com/aVadim483/fast-excel-writer) 
 - [aVadim483/fast-excel-reader: PHP 中的轻量且非常快速的 XLSX Excel 电子表格阅读器](https://github.com/aVadim483/fast-excel-reader) 
