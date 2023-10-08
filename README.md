@@ -393,6 +393,9 @@
 
 
 
+
+### October 8, 2023 
+- [songquanpeng/one-api: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用.](https://github.com/songquanpeng/one-api) 
 ### October 7, 2023 
 - [dipeshsukhia/laravel-country-state-city-data: Laravel 的世界国家 / 地区城市数据提供商](https://github.com/dipeshsukhia/laravel-country-state-city-data) 
 - [fidum/laravel-translation-linter: 帮助您保持 Laravel 翻译井井有条的命令。](https://github.com/fidum/laravel-translation-linter) 
