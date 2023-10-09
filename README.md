@@ -401,6 +401,7 @@
 - [phpro/api-problem: RFC7807 Problem details implementation](https://github.com/phpro/api-problem) 
 - [selective-php/validation: 使用通知模式的 PHP 验证库](https://github.com/selective-php/validation) 
 - [selective-php/zip-responder: ZIP 文件和流响应器 (PSR-7)](https://github.com/selective-php/zip-responder) 
+- [hybridly/hybridly: Solution to develop server-driven, client-rendered applications --- Hybridly/hybridly：开发服务器驱动、客户端渲染应用程序的解决方案](https://github.com/hybridly/hybridly) 
 ### October 8, 2023 
 - [songquanpeng/one-api: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用.](https://github.com/songquanpeng/one-api) 
 - [mohammedmanssour/form-request-tester: 帮助测试表单请求的测试助手集合](https://github.com/mohammedmanssour/form-request-tester) 
