@@ -400,6 +400,7 @@
 - [izniburak/appstore-notifications-go: 适用于 Golang 的 App Store 服务器通知 V2 包](https://github.com/izniburak/appstore-notifications-go) 
 - [justbetter/laravel-dynamics-client: 一个通过 OData 与 Laravel 轻松使用 Microsoft Dynamics Web 服务的包](https://github.com/justbetter/laravel-dynamics-client) 
 - [deligoez/laravel-model-hashid: #️⃣ 为 Laravel Eloquent 模型生成、保存和路由类似 Stripe/Youtube 的哈希 ID](https://github.com/deligoez/laravel-model-hashid) 
+- [majd/ipatool: 允许从 iOS App Store 搜索和下载应用程序包（称为 ipa 文件）的命令行工具](https://github.com/majd/ipatool) 
 ### October 9, 2023 
 - [xianyunleo/EasySrv: Windows Mac平台下的一款集成Nginx、PHP、MySQL、Redis等服务的GUI集成环境](https://github.com/xianyunleo/EasySrv) 
 - [phpro/http-tools: 用于开发更一致的 HTTP 实现的 HTTP 工具。](https://github.com/phpro/http-tools) 
