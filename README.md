@@ -395,6 +395,9 @@
 
 
 
+
+### October 10, 2023 
+- [izniburak/appstore-notifications-go: 适用于 Golang 的 App Store 服务器通知 V2 包](https://github.com/izniburak/appstore-notifications-go) 
 ### October 9, 2023 
 - [xianyunleo/EasySrv: Windows Mac平台下的一款集成Nginx、PHP、MySQL、Redis等服务的GUI集成环境](https://github.com/xianyunleo/EasySrv) 
 - [phpro/http-tools: 用于开发更一致的 HTTP 实现的 HTTP 工具。](https://github.com/phpro/http-tools) 
