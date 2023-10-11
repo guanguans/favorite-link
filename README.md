@@ -396,6 +396,9 @@
 
 
 
+
+### October 11, 2023 
+- [GuavaCZ/filament-clusters: Filament Clusters allows you to visually cluster multiple fields together.](https://github.com/GuavaCZ/filament-clusters) 
 ### October 10, 2023 
 - [izniburak/appstore-notifications-go: 适用于 Golang 的 App Store 服务器通知 V2 包](https://github.com/izniburak/appstore-notifications-go) 
 - [justbetter/laravel-dynamics-client: 一个通过 OData 与 Laravel 轻松使用 Microsoft Dynamics Web 服务的包](https://github.com/justbetter/laravel-dynamics-client) 
