@@ -400,6 +400,7 @@
 ### October 11, 2023 
 - [GuavaCZ/filament-clusters: Filament Clusters allows you to visually cluster multiple fields together.](https://github.com/GuavaCZ/filament-clusters) 
 - [navilang/navi: Navi is a high-performance programming language.](https://github.com/navilang/navi) 
+- [Leantime/leantime: Leantime 是一个面向非项目经理的战略项目管理系统。](https://github.com/Leantime/leantime) 
 ### October 10, 2023 
 - [izniburak/appstore-notifications-go: 适用于 Golang 的 App Store 服务器通知 V2 包](https://github.com/izniburak/appstore-notifications-go) 
 - [justbetter/laravel-dynamics-client: 一个通过 OData 与 Laravel 轻松使用 Microsoft Dynamics Web 服务的包](https://github.com/justbetter/laravel-dynamics-client) 
