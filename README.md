@@ -401,6 +401,7 @@
 
 ### October 13, 2023 
 - [zhuzixian520/yii2-meilisearch: Yii2 框架的 Meil​​iSearch 扩展](https://github.com/zhuzixian520/yii2-meilisearch) 
+- [forecho/6url: Cherries 是一个开源站点导航系统。](https://github.com/forecho/6url) 
 ### October 12, 2023 
 - [github/ruleset-recipes: 快速启动您使用准备导入的预先构建规则集的存储库规则。](https://github.com/github/ruleset-recipes) 
 - [awcodes/filament-quick-create: Plugin for Filament Panels that adds a dropdown menu to the header to quickly create new items.](https://github.com/awcodes/filament-quick-create) 
