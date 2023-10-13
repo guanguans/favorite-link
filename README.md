@@ -405,6 +405,7 @@
 - [forecho/cherries: Cherries 是一个开源站点导航系统。](https://github.com/forecho/cherries) 
 - [nadoo/glider: glider 是一个支持多种协议的转发代理，也是一个具有 ipset 管理功能（如 dnsmasq）的 dns/dhcp 服务器。](https://github.com/nadoo/glider) 
 - [algolia/scout-extended: Scout Extended：Laravel 中 Algolia 的全部威力](https://github.com/algolia/scout-extended) 
+- [usebruno/bruno: 用于探索和测试 Api 的开源 IDE(lightweight alternative to postman/insomnia)](https://github.com/usebruno/bruno) 
 ### October 12, 2023 
 - [github/ruleset-recipes: 快速启动您使用准备导入的预先构建规则集的存储库规则。](https://github.com/github/ruleset-recipes) 
 - [awcodes/filament-quick-create: Plugin for Filament Panels that adds a dropdown menu to the header to quickly create new items.](https://github.com/awcodes/filament-quick-create) 
