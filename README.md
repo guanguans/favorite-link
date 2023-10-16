@@ -403,6 +403,7 @@
 ### October 16, 2023 
 - [flow-php/flow: Flow PHP - 强类型数据处理框架](https://github.com/flow-php/flow) 
 - [yllhwa/RSSWorker: 运行在Cloudflare Worker上的RSS订阅生成器](https://github.com/yllhwa/RSSWorker) 
+- [DiscordBot-PMMP/ChatBridge: 使用 DiscordBot 插件将您的不和谐聊天桥接到我的世界。](https://github.com/DiscordBot-PMMP/ChatBridge) 
 ### October 13, 2023 
 - [zhuzixian520/yii2-meilisearch: Yii2 框架的 Meil​​iSearch 扩展](https://github.com/zhuzixian520/yii2-meilisearch) 
 - [forecho/6url: Cherries 是一个开源站点导航系统。](https://github.com/forecho/6url) 
