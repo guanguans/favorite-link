@@ -407,6 +407,7 @@
 - [StarfireLab/SharpWeb: 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。](https://github.com/StarfireLab/SharpWeb) 
 - [sakanjo/laravel-easy-metrics: 轻松、精确地生成指标。](https://github.com/sakanjo/laravel-easy-metrics) 
 - [bufanyun/hotgo: HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。](https://github.com/bufanyun/hotgo) 
+- [SuperManito/LinuxMirrors: GNU/Linux 一键更换系统软件源脚本](https://github.com/SuperManito/LinuxMirrors) 
 ### October 16, 2023 
 - [flow-php/flow: Flow PHP - 强类型数据处理框架](https://github.com/flow-php/flow) 
 - [yllhwa/RSSWorker: 运行在Cloudflare Worker上的RSS订阅生成器](https://github.com/yllhwa/RSSWorker) 
