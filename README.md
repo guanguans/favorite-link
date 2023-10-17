@@ -404,6 +404,7 @@
 ### October 17, 2023 
 - [joshembling/image-optimizer: Optimize your Filament images before they reach your database.](https://github.com/joshembling/image-optimizer) 
 - [cjmellor/engageify: 轻松向模型添加喜欢、不喜欢、赞成和反对等参与功能，为应用程序中更丰富的用户交互铺平道路](https://github.com/cjmellor/engageify) 
+- [StarfireLab/SharpWeb: 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。](https://github.com/StarfireLab/SharpWeb) 
 ### October 16, 2023 
 - [flow-php/flow: Flow PHP - 强类型数据处理框架](https://github.com/flow-php/flow) 
 - [yllhwa/RSSWorker: 运行在Cloudflare Worker上的RSS订阅生成器](https://github.com/yllhwa/RSSWorker) 
