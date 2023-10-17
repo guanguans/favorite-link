@@ -400,6 +400,9 @@
 
 
 
+
+### October 17, 2023 
+- [joshembling/image-optimizer: Optimize your Filament images before they reach your database.](https://github.com/joshembling/image-optimizer) 
 ### October 16, 2023 
 - [flow-php/flow: Flow PHP - 强类型数据处理框架](https://github.com/flow-php/flow) 
 - [yllhwa/RSSWorker: 运行在Cloudflare Worker上的RSS订阅生成器](https://github.com/yllhwa/RSSWorker) 
