@@ -405,6 +405,7 @@
 ### October 18, 2023 
 - [tmc/langchaingo: LangChain for Go](https://github.com/tmc/langchaingo) 
 - [go101/gotv: 用于管理多个 Go 工具链版本安装的工具](https://github.com/go101/gotv) 
+- [teivah/broadcast: 通知广播者库](https://github.com/teivah/broadcast) 
 ### October 17, 2023 
 - [joshembling/image-optimizer: Optimize your Filament images before they reach your database.](https://github.com/joshembling/image-optimizer) 
 - [cjmellor/engageify: 轻松向模型添加喜欢、不喜欢、赞成和反对等参与功能，为应用程序中更丰富的用户交互铺平道路](https://github.com/cjmellor/engageify) 
