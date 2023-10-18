@@ -408,6 +408,7 @@
 - [teivah/broadcast: 通知广播者库](https://github.com/teivah/broadcast) 
 - [teivah/broadcast: 通知广播者库](https://github.com/teivah/broadcast) 
 - [Sammyjo20/Lasso: 🐎 Lasso 是一个 Laravel 包，旨在让您的部署速度变得非常快。](https://github.com/Sammyjo20/Lasso) 
+- [phlib/console-process: Symfony 控制台组件的扩展和添加。](https://github.com/phlib/console-process) 
 ### October 17, 2023 
 - [joshembling/image-optimizer: Optimize your Filament images before they reach your database.](https://github.com/joshembling/image-optimizer) 
 - [cjmellor/engageify: 轻松向模型添加喜欢、不喜欢、赞成和反对等参与功能，为应用程序中更丰富的用户交互铺平道路](https://github.com/cjmellor/engageify) 
