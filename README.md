@@ -405,6 +405,7 @@
 
 ### October 19, 2023 
 - [clearstream/xml-to-array: 极其简单的 XML 到数组 PHP 转换器](https://github.com/clearstream/xml-to-array) 
+- [CodeWithDennis/filament-factory-action: 该插件向 Filament 管理面板表添加了一项新功能，可以使用 Laravel Factory 定义轻松生成数据库表的测试记录。](https://github.com/CodeWithDennis/filament-factory-action) 
 ### October 18, 2023 
 - [tmc/langchaingo: LangChain for Go](https://github.com/tmc/langchaingo) 
 - [go101/gotv: 用于管理多个 Go 工具链版本安装的工具](https://github.com/go101/gotv) 
