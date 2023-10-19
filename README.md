@@ -407,6 +407,7 @@
 - [clearstream/xml-to-array: 极其简单的 XML 到数组 PHP 转换器](https://github.com/clearstream/xml-to-array) 
 - [CodeWithDennis/filament-factory-action: 该插件向 Filament 管理面板表添加了一项新功能，可以使用 Laravel Factory 定义轻松生成数据库表的测试记录。](https://github.com/CodeWithDennis/filament-factory-action) 
 - [gehrisandro/tailwind-merge-php: 自动解决 PHP 中的 Tailwind CSS 类冲突](https://github.com/gehrisandro/tailwind-merge-php) 
+- [ByteByteGoHq/system-design-101: 使用视觉效果和简单术语解释复杂的系统。帮助您准备系统设计面试。](https://github.com/ByteByteGoHq/system-design-101) 
 ### October 18, 2023 
 - [tmc/langchaingo: LangChain for Go](https://github.com/tmc/langchaingo) 
 - [go101/gotv: 用于管理多个 Go 工具链版本安装的工具](https://github.com/go101/gotv) 
