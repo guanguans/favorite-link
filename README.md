@@ -403,6 +403,9 @@
 
 
 
+
+### October 20, 2023 
+- [brutella/hap: 在 Go 中实现的 HomeKit 附件协议 (hap)](https://github.com/brutella/hap) 
 ### October 19, 2023 
 - [clearstream/xml-to-array: 极其简单的 XML 到数组 PHP 转换器](https://github.com/clearstream/xml-to-array) 
 - [CodeWithDennis/filament-factory-action: 该插件向 Filament 管理面板表添加了一项新功能，可以使用 Laravel Factory 定义轻松生成数据库表的测试记录。](https://github.com/CodeWithDennis/filament-factory-action) 
