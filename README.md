@@ -410,6 +410,7 @@
 - [2amigos/qrcode-library: 轻松创建二维码](https://github.com/2amigos/qrcode-library) 
 - [nicebooks-com/isbn: 用于验证、格式化和转换 ISBN 数字的 PHP 库](https://github.com/nicebooks-com/isbn) 
 - [sergiorodenas/stream-parser: ⚡ PHP7 / Laravel 多格式流解析器](https://github.com/sergiorodenas/stream-parser) 
+- [rmunate/PHP2JS: 📜 将 PHP Laravel 变量无缝桥接到外部 JavaScript！ 🌐🔗 不再需要 AJAX、FETCH 或 AXIOS 请求！轻松访问外部 JavaScript 文件中的 PHP Laravel 变量。](https://github.com/rmunate/PHP2JS) 
 ### October 19, 2023 
 - [clearstream/xml-to-array: 极其简单的 XML 到数组 PHP 转换器](https://github.com/clearstream/xml-to-array) 
 - [CodeWithDennis/filament-factory-action: 该插件向 Filament 管理面板表添加了一项新功能，可以使用 Laravel Factory 定义轻松生成数据库表的测试记录。](https://github.com/CodeWithDennis/filament-factory-action) 
