@@ -411,6 +411,7 @@
 - [gorilla/csrf: 包 gorilla/csrf 为 Go Web 应用程序和服务提供跨站请求伪造 (CSRF) 预防中间件 🔒](https://github.com/gorilla/csrf) 
 - [minkphp/Mink: PHP Web 浏览器模拟器抽象](https://github.com/minkphp/Mink) 
 - [veewee/xml: XML without worries](https://github.com/veewee/xml) 
+- [casey/just: 🤖 Just a command runner](https://github.com/casey/just) 
 ### October 20, 2023 
 - [brutella/hap: 在 Go 中实现的 HomeKit 附件协议 (hap)](https://github.com/brutella/hap) 
 - [ncruces/zenity: 适用于 Golang、Windows、macOS 的 Zenity 对话框](https://github.com/ncruces/zenity) 
