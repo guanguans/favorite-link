@@ -404,6 +404,9 @@
 
 
 
+
+### October 23, 2023 
+- [codegreencreative/laravel-samlidp: Laravel SAML IdP](https://github.com/codegreencreative/laravel-samlidp) 
 ### October 20, 2023 
 - [brutella/hap: 在 Go 中实现的 HomeKit 附件协议 (hap)](https://github.com/brutella/hap) 
 - [ncruces/zenity: 适用于 Golang、Windows、macOS 的 Zenity 对话框](https://github.com/ncruces/zenity) 
