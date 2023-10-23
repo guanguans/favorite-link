@@ -408,6 +408,7 @@
 ### October 23, 2023 
 - [codegreencreative/laravel-samlidp: Laravel SAML IdP](https://github.com/codegreencreative/laravel-samlidp) 
 - [devgeniem/acf-codifier: 一个包装类，可帮助编写更具可读性的 ACF 字段声明。](https://github.com/devgeniem/acf-codifier) 
+- [gorilla/csrf: 包 gorilla/csrf 为 Go Web 应用程序和服务提供跨站请求伪造 (CSRF) 预防中间件 🔒](https://github.com/gorilla/csrf) 
 ### October 20, 2023 
 - [brutella/hap: 在 Go 中实现的 HomeKit 附件协议 (hap)](https://github.com/brutella/hap) 
 - [ncruces/zenity: 适用于 Golang、Windows、macOS 的 Zenity 对话框](https://github.com/ncruces/zenity) 
