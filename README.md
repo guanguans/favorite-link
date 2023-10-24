@@ -408,6 +408,7 @@
 
 ### October 24, 2023 
 - [amphp/websocket-server: MiniappOrderGiftpackGood](https://github.com/amphp/websocket-server) 
+- [mstaack/laravel-postgis: Laravel 的 Postgis 扩展。旨在使使用 Laravel 模型中的几何图形变得容易。](https://github.com/mstaack/laravel-postgis) 
 ### October 23, 2023 
 - [codegreencreative/laravel-samlidp: Laravel SAML IdP](https://github.com/codegreencreative/laravel-samlidp) 
 - [devgeniem/acf-codifier: 一个包装类，可帮助编写更具可读性的 ACF 字段声明。](https://github.com/devgeniem/acf-codifier) 
