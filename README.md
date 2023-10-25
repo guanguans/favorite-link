@@ -409,6 +409,7 @@
 
 ### October 25, 2023 
 - [faiface/pixel: 用 Go 手工制作的 2D 游戏库](https://github.com/faiface/pixel) 
+- [httpie/desktop: 🚀 HTTPie Desktop — 供人类使用的跨平台 API 测试客户端。轻松测试 REST、GraphQL 和 HTTP API。](https://github.com/httpie/desktop) 
 ### October 24, 2023 
 - [amphp/websocket-server: MiniappOrderGiftpackGood](https://github.com/amphp/websocket-server) 
 - [mstaack/laravel-postgis: Laravel 的 Postgis 扩展。旨在使使用 Laravel 模型中的几何图形变得容易。](https://github.com/mstaack/laravel-postgis) 
