@@ -412,6 +412,7 @@
 - [distantmagic/resonance: PHP 框架从头开始设计，旨在促进基础设施内外的服务之间的互操作性和消息传递。充分利用异步 PHP。构建在 Swoole 之上。](https://github.com/distantmagic/resonance) 
 - [cirruslabs/echelon: 类固醇终端中的分层进度条](https://github.com/cirruslabs/echelon) 
 - [karlseguin/ccache: 用于高并发的 golang LRU 缓存](https://github.com/karlseguin/ccache) 
+- [a-h/templ: 一种用 Go 编写 HTML 用户界面的语言。](https://github.com/a-h/templ) 
 ### October 25, 2023 
 - [faiface/pixel: 用 Go 手工制作的 2D 游戏库](https://github.com/faiface/pixel) 
 - [httpie/desktop: 🚀 HTTPie Desktop — 供人类使用的跨平台 API 测试客户端。轻松测试 REST、GraphQL 和 HTTP API。](https://github.com/httpie/desktop) 
