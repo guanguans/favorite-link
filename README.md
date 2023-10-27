@@ -408,6 +408,9 @@
 
 
 
+
+### October 27, 2023 
+- [pxlrbt/filament-activity-log: Spatie 活动日志集成到 Filament 中](https://github.com/pxlrbt/filament-activity-log) 
 ### October 26, 2023 
 - [distantmagic/resonance: PHP 框架从头开始设计，旨在促进基础设施内外的服务之间的互操作性和消息传递。充分利用异步 PHP。构建在 Swoole 之上。](https://github.com/distantmagic/resonance) 
 - [cirruslabs/echelon: 类固醇终端中的分层进度条](https://github.com/cirruslabs/echelon) 
