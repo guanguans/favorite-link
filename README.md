@@ -410,6 +410,9 @@
 
 
 
+
+### October 31, 2023 
+- [flavioheleno/watchr: 用于检查域名和 TLS 证书过期日期的命令行实用程序](https://github.com/flavioheleno/watchr) 
 ### October 30, 2023 
 - [ffuf/ffuf: 用 Go 编写的快速网络模糊器](https://github.com/ffuf/ffuf) 
 ### October 27, 2023 
