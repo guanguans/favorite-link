@@ -415,6 +415,7 @@
 ### November 1, 2023 
 - [NicoNex/echotron: Go 中用于 Telegram bot API 的优雅并发库。](https://github.com/NicoNex/echotron) 
 - [keyval-dev/odigos: 分布式跟踪，无需更改代码。 🚀 使用 OpenTelemetry 和 eBPF 即时监控任何应用程序](https://github.com/keyval-dev/odigos) 
+- [AuroraWebSoftware/ArFlow: ArFlow 是一个 Laravel 包，允许您为 Laravel Eloquent 模型实现工作流管理。](https://github.com/AuroraWebSoftware/ArFlow) 
 ### October 31, 2023 
 - [flavioheleno/watchr: 用于检查域名和 TLS 证书过期日期的命令行实用程序](https://github.com/flavioheleno/watchr) 
 - [Crell/fp: PHP 中用于功能性任务的实用程序。预计该列表会随着时间的推移而增长。](https://github.com/Crell/fp) 
