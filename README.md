@@ -412,6 +412,9 @@
 
 
 
+
+### November 2, 2023 
+- [mlocati/ocsp: 使用在线证书状态协议 (OCSP) 查询 HTTPS 证书吊销状态的 PHP 库](https://github.com/mlocati/ocsp) 
 ### November 1, 2023 
 - [NicoNex/echotron: Go 中用于 Telegram bot API 的优雅并发库。](https://github.com/NicoNex/echotron) 
 - [keyval-dev/odigos: 分布式跟踪，无需更改代码。 🚀 使用 OpenTelemetry 和 eBPF 即时监控任何应用程序](https://github.com/keyval-dev/odigos) 
