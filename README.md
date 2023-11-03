@@ -413,6 +413,9 @@
 
 
 
+
+### November 3, 2023 
+- [digitalbazaar/php-json-ld: JSON-LD 处理器和 API 的 PHP 实现](https://github.com/digitalbazaar/php-json-ld) 
 ### November 2, 2023 
 - [mlocati/ocsp: 使用在线证书状态协议 (OCSP) 查询 HTTPS 证书吊销状态的 PHP 库](https://github.com/mlocati/ocsp) 
 ### November 1, 2023 
