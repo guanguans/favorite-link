@@ -419,6 +419,7 @@
 - [charmbracelet/glamour: 为您的 CLI 应用程序提供基于样式表的 Markdown 渲染 💇🏻‍♀️](https://github.com/charmbracelet/glamour) 
 - [saloonphp/xml-wrangler: 🌵 XML Wrangler - 在 PHP 中轻松读写 XML](https://github.com/saloonphp/xml-wrangler) 
 - [robsontenorio/mary: Livewire 3 的 Laravel 刀片组件](https://github.com/robsontenorio/mary) 
+- [buger/goreplay: GoReplay 是一个开源工具，用于捕获实时 HTTP 流量并将其重放到测试环境中，以便使用真实数据持续测试您的系统。它可用于增强对代码部署、配置更改和基础设施更改的信心。](https://github.com/buger/goreplay) 
 ### November 2, 2023 
 - [mlocati/ocsp: 使用在线证书状态协议 (OCSP) 查询 HTTPS 证书吊销状态的 PHP 库](https://github.com/mlocati/ocsp) 
 ### November 1, 2023 
