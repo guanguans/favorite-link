@@ -418,6 +418,7 @@
 - [digitalbazaar/php-json-ld: JSON-LD 处理器和 API 的 PHP 实现](https://github.com/digitalbazaar/php-json-ld) 
 - [charmbracelet/glamour: 为您的 CLI 应用程序提供基于样式表的 Markdown 渲染 💇🏻‍♀️](https://github.com/charmbracelet/glamour) 
 - [saloonphp/xml-wrangler: 🌵 XML Wrangler - 在 PHP 中轻松读写 XML](https://github.com/saloonphp/xml-wrangler) 
+- [robsontenorio/mary: Livewire 3 的 Laravel 刀片组件](https://github.com/robsontenorio/mary) 
 ### November 2, 2023 
 - [mlocati/ocsp: 使用在线证书状态协议 (OCSP) 查询 HTTPS 证书吊销状态的 PHP 库](https://github.com/mlocati/ocsp) 
 ### November 1, 2023 
