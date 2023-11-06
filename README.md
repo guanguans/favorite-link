@@ -414,6 +414,9 @@
 
 
 
+
+### November 6, 2023 
+- [simdjson 的 Golang 端口：每秒解析千兆字节的 JSON](https://github.com/minio/simdjson-go) 
 ### November 3, 2023 
 - [digitalbazaar/php-json-ld: JSON-LD 处理器和 API 的 PHP 实现](https://github.com/digitalbazaar/php-json-ld) 
 - [charmbracelet/glamour: 为您的 CLI 应用程序提供基于样式表的 Markdown 渲染 💇🏻‍♀️](https://github.com/charmbracelet/glamour) 
