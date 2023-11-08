@@ -416,6 +416,9 @@
 
 
 
+
+### November 8, 2023 
+- [IrineSistiana/mosdns: 一个 DNS 转发器](https://github.com/IrineSistiana/mosdns) 
 ### November 7, 2023 
 - [nitefood/asn: ASN / RPKI 有效性 / BGP 统计信息 / IPv4v6 / 前缀 / URL / ASPath / 组织 / IP 信誉 / IP 地理位置 / IP 指纹 / 网络侦查 / 查找 API 服务器 / Web 跟踪路由服务器](https://github.com/nitefood/asn) 
 - [wechatpay-apiv3/wechatpay-php: 微信支付 APIv3 的官方 PHP Library，同时也支持 APIv2](https://github.com/wechatpay-apiv3/wechatpay-php) 
