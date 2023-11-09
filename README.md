@@ -417,6 +417,9 @@
 
 
 
+
+### November 9, 2023 
+- [manticoresoftware/manticoresearch-php: Manticore 搜索的官方 PHP 客户端](https://github.com/manticoresoftware/manticoresearch-php) 
 ### November 8, 2023 
 - [IrineSistiana/mosdns: 一个 DNS 转发器](https://github.com/IrineSistiana/mosdns) 
 - [lucidarch/lucid: 构建可扩展的 Laravel 应用程序，而不影响代码质量和最少的技术债务。轻松的代码导航、入门和审查。专为微服务定制并关注单体应用。](https://github.com/lucidarch/lucid) 
