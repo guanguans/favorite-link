@@ -418,6 +418,9 @@
 
 
 
+
+### November 10, 2023 
+- [ekzhang/sshx: 通过网络进行快速、协作的实时终端共享](https://github.com/ekzhang/sshx) 
 ### November 9, 2023 
 - [manticoresoftware/manticoresearch-php: Manticore 搜索的官方 PHP 客户端](https://github.com/manticoresoftware/manticoresearch-php) 
 - [influxdata/influxdb-client-php: 适用于 PHP 的 InfluxDB (v2+) 客户端库](https://github.com/influxdata/influxdb-client-php) 
