@@ -422,6 +422,7 @@
 ### November 10, 2023 
 - [ekzhang/sshx: 通过网络进行快速、协作的实时终端共享](https://github.com/ekzhang/sshx) 
 - [BuilderIO/ai-shell: 将自然语言转换为 shell 命令的 CLI。](https://github.com/BuilderIO/ai-shell) 
+- [facile-it/doctrine-mysql-come-back: Doctrine DBAL 能够尝试在 MySQL 上重新连接已消失异常](https://github.com/facile-it/doctrine-mysql-come-back) 
 ### November 9, 2023 
 - [manticoresoftware/manticoresearch-php: Manticore 搜索的官方 PHP 客户端](https://github.com/manticoresoftware/manticoresearch-php) 
 - [influxdata/influxdb-client-php: 适用于 PHP 的 InfluxDB (v2+) 客户端库](https://github.com/influxdata/influxdb-client-php) 
