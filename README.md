@@ -424,6 +424,7 @@
 - [BuilderIO/ai-shell: 将自然语言转换为 shell 命令的 CLI。](https://github.com/BuilderIO/ai-shell) 
 - [facile-it/doctrine-mysql-come-back: Doctrine DBAL 能够尝试在 MySQL 上重新连接已消失异常](https://github.com/facile-it/doctrine-mysql-come-back) 
 - [uber-go/mock: GoMock 是 Go 编程语言的模拟框架。](https://github.com/uber-go/mock) 
+- [ajeetdsouza/zoxide: 更智能的 cd 命令。支持所有主要 shell。](https://github.com/ajeetdsouza/zoxide) 
 ### November 9, 2023 
 - [manticoresoftware/manticoresearch-php: Manticore 搜索的官方 PHP 客户端](https://github.com/manticoresoftware/manticoresearch-php) 
 - [influxdata/influxdb-client-php: 适用于 PHP 的 InfluxDB (v2+) 客户端库](https://github.com/influxdata/influxdb-client-php) 
