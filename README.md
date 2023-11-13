@@ -423,6 +423,7 @@
 
 ### November 13, 2023 
 - [driftphp/server: 基于 ReactPHP 的非阻塞服务器](https://github.com/driftphp/server) 
+- [philippta/flyscrape: Go 中一个独立且可编写脚本的 web scraper](https://github.com/philippta/flyscrape) 
 ### November 11, 2023 
 - [6tail/lunar-javascript: 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。](https://github.com/6tail/lunar-javascript) 
 - [browscap/browscap-php: 官方支持的 PHP 浏览器](https://github.com/browscap/browscap-php) 
