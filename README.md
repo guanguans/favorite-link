@@ -421,6 +421,9 @@
 
 
 
+
+### November 14, 2023 
+- [im2nguyen/rover: 交互式 Terraform 可视化。状态和配置浏览器。](https://github.com/im2nguyen/rover) 
 ### November 13, 2023 
 - [driftphp/server: 基于 ReactPHP 的非阻塞服务器](https://github.com/driftphp/server) 
 - [philippta/flyscrape: Go 中一个独立且可编写脚本的 web scraper](https://github.com/philippta/flyscrape) 
