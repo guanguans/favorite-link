@@ -426,6 +426,7 @@
 ### November 15, 2023 
 - [chromium/hstspreload: 🔒🔍 一个 Go 包，用于根据 Chromium 维护的 HSTS 预加载列表的要求扫描站点。](https://github.com/chromium/hstspreload) 
 - [KennedyTedesco/monkey: 用 PHP 编写的 Monkey 编程语言和解释器。](https://github.com/KennedyTedesco/monkey) 
+- [phanxipang/peak: 使用任何 PSR-18 客户端实现同时发送多个请求](https://github.com/phanxipang/peak) 
 ### November 14, 2023 
 - [im2nguyen/rover: 交互式 Terraform 可视化。状态和配置浏览器。](https://github.com/im2nguyen/rover) 
 - [mossadal/math-parser: PHP解析器用于数学表达式](https://github.com/mossadal/math-parser) 
