@@ -422,6 +422,9 @@
 
 
 
+
+### November 15, 2023 
+- [chromium/hstspreload: 🔒🔍 一个 Go 包，用于根据 Chromium 维护的 HSTS 预加载列表的要求扫描站点。](https://github.com/chromium/hstspreload) 
 ### November 14, 2023 
 - [im2nguyen/rover: 交互式 Terraform 可视化。状态和配置浏览器。](https://github.com/im2nguyen/rover) 
 - [mossadal/math-parser: PHP解析器用于数学表达式](https://github.com/mossadal/math-parser) 
