@@ -428,6 +428,7 @@
 ### November 17, 2023 
 - [phpsword/sword-bundle: 使用 Symfony 进行现代 WordPress 开发](https://github.com/phpsword/sword-bundle) 
 - [themosis/themosis: WordPress 开发者的框架。](https://github.com/themosis/themosis) 
+- [sirn-se/websocket-php: PHP 中的 WebSocket 客户端和服务器Topics](https://github.com/sirn-se/websocket-php) 
 ### November 16, 2023 
 - [fghazaleh/multi-thread-manager: 使用 PHP Symfony 进程组件的多线程管理器](https://github.com/fghazaleh/multi-thread-manager) 
 ### November 15, 2023 
