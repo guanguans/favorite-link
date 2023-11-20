@@ -425,6 +425,9 @@
 
 
 
+
+### November 20, 2023 
+- [StoutLogic/acf-builder: 高级自定义字段配置生成器](https://github.com/StoutLogic/acf-builder) 
 ### November 17, 2023 
 - [phpsword/sword-bundle: 使用 Symfony 进行现代 WordPress 开发](https://github.com/phpsword/sword-bundle) 
 - [themosis/themosis: WordPress 开发者的框架。](https://github.com/themosis/themosis) 
