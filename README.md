@@ -428,6 +428,7 @@
 
 ### November 20, 2023 
 - [StoutLogic/acf-builder: 高级自定义字段配置生成器](https://github.com/StoutLogic/acf-builder) 
+- [jcergolj/brevo-webhook-manager-for-laravel: 适用于 Laravel 的 Brevo Webhook Manager CLI 工具](https://github.com/jcergolj/brevo-webhook-manager-for-laravel) 
 ### November 17, 2023 
 - [phpsword/sword-bundle: 使用 Symfony 进行现代 WordPress 开发](https://github.com/phpsword/sword-bundle) 
 - [themosis/themosis: WordPress 开发者的框架。](https://github.com/themosis/themosis) 
