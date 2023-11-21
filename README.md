@@ -429,6 +429,7 @@
 
 ### November 21, 2023 
 - [riverqueue/river: Go 中快速可靠的后台作业](https://github.com/riverqueue/river) 
+- [lwthiker/curl-impersonate: curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox](https://github.com/lwthiker/curl-impersonate) 
 ### November 20, 2023 
 - [StoutLogic/acf-builder: 高级自定义字段配置生成器](https://github.com/StoutLogic/acf-builder) 
 - [jcergolj/brevo-webhook-manager-for-laravel: 适用于 Laravel 的 Brevo Webhook Manager CLI 工具](https://github.com/jcergolj/brevo-webhook-manager-for-laravel) 
