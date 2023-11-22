@@ -436,6 +436,7 @@
 - [kkevsekk1/AutoX: 安卓平台上的JavaScript自动化工具](https://github.com/kkevsekk1/AutoX) 
 - [AutomaApp/automa: 浏览器扩展，通过连接块来自动化浏览器](https://github.com/AutomaApp/automa) 
 - [zfdang/Android-Touch-Helper: 开屏跳过-安卓系统的开屏广告自动跳过助手](https://github.com/zfdang/Android-Touch-Helper) 
+- [microsoft/inshellisense: IDE 风格的命令行自动完成](https://github.com/microsoft/inshellisense) 
 ### November 21, 2023 
 - [riverqueue/river: Go 中快速可靠的后台作业](https://github.com/riverqueue/river) 
 - [lwthiker/curl-impersonate: curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox](https://github.com/lwthiker/curl-impersonate) 
