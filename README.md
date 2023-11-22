@@ -434,6 +434,7 @@
 - [pietrocinaglia/laraupdater: LaraUpdater 允许您的 Laravel 应用程序自动更新：Laravel 应用程序自我更新。](https://github.com/pietrocinaglia/laraupdater) 
 - [SuperMonster003/AutoJs6: 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)](https://github.com/SuperMonster003/AutoJs6) 
 - [kkevsekk1/AutoX: 安卓平台上的JavaScript自动化工具](https://github.com/kkevsekk1/AutoX) 
+- [AutomaApp/automa: 浏览器扩展，通过连接块来自动化浏览器](https://github.com/AutomaApp/automa) 
 ### November 21, 2023 
 - [riverqueue/river: Go 中快速可靠的后台作业](https://github.com/riverqueue/river) 
 - [lwthiker/curl-impersonate: curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox](https://github.com/lwthiker/curl-impersonate) 
