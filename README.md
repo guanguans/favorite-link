@@ -427,6 +427,9 @@
 
 
 
+
+### November 22, 2023 
+- [TimothyYe/bing-wallpaper: 用于从 Bing.com 获取每日壁纸的 RESTful API](https://github.com/TimothyYe/bing-wallpaper) 
 ### November 21, 2023 
 - [riverqueue/river: Go 中快速可靠的后台作业](https://github.com/riverqueue/river) 
 - [lwthiker/curl-impersonate: curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox](https://github.com/lwthiker/curl-impersonate) 
