@@ -431,6 +431,7 @@
 ### November 22, 2023 
 - [TimothyYe/bing-wallpaper: 用于从 Bing.com 获取每日壁纸的 RESTful API](https://github.com/TimothyYe/bing-wallpaper) 
 - [facile-it/terminable-loop-command: 一个 Shell+PHP 包装器，用于在守护进程或 Kubernetes 下循环运行 Symfony 控制台命令](https://github.com/facile-it/terminable-loop-command) 
+- [pietrocinaglia/laraupdater: LaraUpdater 允许您的 Laravel 应用程序自动更新：Laravel 应用程序自我更新。](https://github.com/pietrocinaglia/laraupdater) 
 ### November 21, 2023 
 - [riverqueue/river: Go 中快速可靠的后台作业](https://github.com/riverqueue/river) 
 - [lwthiker/curl-impersonate: curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox](https://github.com/lwthiker/curl-impersonate) 
