@@ -431,6 +431,7 @@
 
 ### November 23, 2023 
 - [odan/learn-php: :elephant: 🐘 学习现代 PHP](https://github.com/odan/learn-php) 
+- [butschster/dbml-parser: PHP8 的 DBML 解析器。它是 DBML 语法的 PHP 解析器。](https://github.com/butschster/dbml-parser) 
 ### November 22, 2023 
 - [TimothyYe/bing-wallpaper: 用于从 Bing.com 获取每日壁纸的 RESTful API](https://github.com/TimothyYe/bing-wallpaper) 
 - [facile-it/terminable-loop-command: 一个 Shell+PHP 包装器，用于在守护进程或 Kubernetes 下循环运行 Symfony 控制台命令](https://github.com/facile-it/terminable-loop-command) 
