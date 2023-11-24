@@ -432,6 +432,7 @@
 
 ### November 24, 2023 
 - [khannedy/golang-clean-architecture: Go-Lang 清洁架构](https://github.com/khannedy/golang-clean-architecture) 
+- [timshannon/bolthold: BoltHold 是一个基于 BoltDB 构建的 Go 类型的嵌入式 NoSQL 存储](https://github.com/timshannon/bolthold) 
 ### November 23, 2023 
 - [odan/learn-php: :elephant: 🐘 学习现代 PHP](https://github.com/odan/learn-php) 
 - [butschster/dbml-parser: PHP8 的 DBML 解析器。它是 DBML 语法的 PHP 解析器。](https://github.com/butschster/dbml-parser) 
