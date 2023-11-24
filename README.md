@@ -435,6 +435,7 @@
 - [timshannon/bolthold: BoltHold 是一个基于 BoltDB 构建的 Go 类型的嵌入式 NoSQL 存储](https://github.com/timshannon/bolthold) 
 - [hr3lxphr6j/bililive-go: 一个直播录制工具](https://github.com/hr3lxphr6j/bililive-go) 
 - [phplrt/phplrt: PHP 语言识别工具](https://github.com/phplrt/phplrt) 
+- [rosswintle/can-i-php: caniuse.com 但适用于 PHP - 最近 PHP 版本中新功能和已弃用功能的可搜索列表](https://github.com/rosswintle/can-i-php) 
 ### November 23, 2023 
 - [odan/learn-php: :elephant: 🐘 学习现代 PHP](https://github.com/odan/learn-php) 
 - [butschster/dbml-parser: PHP8 的 DBML 解析器。它是 DBML 语法的 PHP 解析器。](https://github.com/butschster/dbml-parser) 
