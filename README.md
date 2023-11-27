@@ -430,6 +430,9 @@
 
 
 
+
+### November 27, 2023 
+- [xataio/pgroll: PostgreSQL 零停机迁移变得简单](https://github.com/xataio/pgroll) 
 ### November 24, 2023 
 - [khannedy/golang-clean-architecture: Go-Lang 清洁架构](https://github.com/khannedy/golang-clean-architecture) 
 - [timshannon/bolthold: BoltHold 是一个基于 BoltDB 构建的 Go 类型的嵌入式 NoSQL 存储](https://github.com/timshannon/bolthold) 
