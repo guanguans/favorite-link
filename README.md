@@ -431,6 +431,9 @@
 
 
 
+
+### November 28, 2023 
+- [ircmaxell/php-c-parser: 内置 PHP 的 C 解析器（是的，这是一个坏主意）...](https://github.com/ircmaxell/php-c-parser) 
 ### November 27, 2023 
 - [xataio/pgroll: PostgreSQL 零停机迁移变得简单](https://github.com/xataio/pgroll) 
 - [jordanbrauer/unit-converter: 使用这一易于使用的轻量级软件包将标准单位转换为另一种单位](https://github.com/jordanbrauer/unit-converter) 
