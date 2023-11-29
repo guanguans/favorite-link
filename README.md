@@ -436,6 +436,7 @@
 ### November 29, 2023 
 - [TomasVotruba/tryml: 将 YAML 文件修剪到最少](https://github.com/TomasVotruba/tryml) 
 - [gobuffalo/buffalo: 使用 Go 进行快速 Web 开发](https://github.com/gobuffalo/buffalo) 
+- [MichaelAquilina/zsh-you-should-use: 📎 ZSH 插件，提醒您为刚刚键入的命令使用现有别名](https://github.com/MichaelAquilina/zsh-you-should-use) 
 ### November 28, 2023 
 - [ircmaxell/php-c-parser: 内置 PHP 的 C 解析器（是的，这是一个坏主意）...](https://github.com/ircmaxell/php-c-parser) 
 - [xrdebug/xrdebug: 轻量级调试实用程序](https://github.com/xrdebug/xrdebug) 
