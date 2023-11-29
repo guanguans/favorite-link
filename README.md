@@ -440,6 +440,7 @@
 - [fastfetch-cli/fastfetch: 与 neofetch 类似，但速度更快，因为是用 C 编写的。](https://github.com/fastfetch-cli/fastfetch) 
 - [ruanyf/fortunes: 为中国用户提供的财富数据库文件合集。](https://github.com/ruanyf/fortunes) 
 - [cheat/cheat: cheat 允许您在命令行上创建和查看交互式备忘单。它旨在帮助提醒 *nix 系统管理员他们经常使用但不够频繁而难以记住的命令选项。](https://github.com/cheat/cheat) 
+- [gokcehan/lf: 终端文件管理器](https://github.com/gokcehan/lf) 
 ### November 28, 2023 
 - [ircmaxell/php-c-parser: 内置 PHP 的 C 解析器（是的，这是一个坏主意）...](https://github.com/ircmaxell/php-c-parser) 
 - [xrdebug/xrdebug: 轻量级调试实用程序](https://github.com/xrdebug/xrdebug) 
