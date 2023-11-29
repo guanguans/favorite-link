@@ -432,6 +432,9 @@
 
 
 
+
+### November 29, 2023 
+- [TomasVotruba/tryml: 将 YAML 文件修剪到最少](https://github.com/TomasVotruba/tryml) 
 ### November 28, 2023 
 - [ircmaxell/php-c-parser: 内置 PHP 的 C 解析器（是的，这是一个坏主意）...](https://github.com/ircmaxell/php-c-parser) 
 - [xrdebug/xrdebug: 轻量级调试实用程序](https://github.com/xrdebug/xrdebug) 
