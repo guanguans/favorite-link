@@ -438,6 +438,7 @@
 - [angelofallars/htmx-go: </> 更快地构建出色的 HTMX + Go 项目。](https://github.com/angelofallars/htmx-go) 
 - [hirethunk/verbs: Verbs 是 PHP 工匠的事件源包](https://github.com/hirethunk/verbs) 
 - [mentionapp/retry:Retry 是一个 PHP 库，用于重试操作，具有可定制的退避、抖动以及对同步和异步 API 的支持。它还允许离线重试和序列化。](https://github.com/mentionapp/retry) 
+- [01mf02/jaq: jq 克隆专注于正确性、速度和简单性](https://github.com/01mf02/jaq) 
 ### November 29, 2023 
 - [TomasVotruba/tryml: 将 YAML 文件修剪到最少](https://github.com/TomasVotruba/tryml) 
 - [gobuffalo/buffalo: 使用 Go 进行快速 Web 开发](https://github.com/gobuffalo/buffalo) 
