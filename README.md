@@ -433,6 +433,9 @@
 
 
 
+
+### November 30, 2023 
+- [angelofallars/htmx-go: </> 更快地构建出色的 HTMX + Go 项目。](https://github.com/angelofallars/htmx-go) 
 ### November 29, 2023 
 - [TomasVotruba/tryml: 将 YAML 文件修剪到最少](https://github.com/TomasVotruba/tryml) 
 - [gobuffalo/buffalo: 使用 Go 进行快速 Web 开发](https://github.com/gobuffalo/buffalo) 
