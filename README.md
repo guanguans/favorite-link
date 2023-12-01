@@ -434,6 +434,9 @@
 
 
 
+
+### December 1, 2023 
+- [opa334/TrollStore: 被监禁的 iOS 应用程序，可以使用任意权限和 root 帮助程序永久安装 IPA，因为它欺骗了 Apple](https://github.com/opa334/TrollStore) 
 ### November 30, 2023 
 - [angelofallars/htmx-go: </> 更快地构建出色的 HTMX + Go 项目。](https://github.com/angelofallars/htmx-go) 
 - [hirethunk/verbs: Verbs 是 PHP 工匠的事件源包](https://github.com/hirethunk/verbs) 
