@@ -440,6 +440,7 @@
 - [go-oauth2/oauth2: 用于 Go 编程语言的 OAuth 2.0 服务器库。](https://github.com/go-oauth2/oauth2) 
 - [aead/minisign: 一个非常简单的工具来签署文件和验证数字签名。](https://github.com/aead/minisign) 
 - [likexian/whois: Go (Golang) 模块用于域名和 ip whois 信息查询。](https://github.com/likexian/whois) 
+- [smknstd/modern-php-cheatsheet: 现代项目中经常遇到的一些 PHP 知识备忘单](https://github.com/smknstd/modern-php-cheatsheet) 
 ### November 30, 2023 
 - [angelofallars/htmx-go: </> 更快地构建出色的 HTMX + Go 项目。](https://github.com/angelofallars/htmx-go) 
 - [hirethunk/verbs: Verbs 是 PHP 工匠的事件源包](https://github.com/hirethunk/verbs) 
