@@ -435,6 +435,9 @@
 
 
 
+
+### December 2, 2023 
+- [laravel/pulse: Laravel Pulse 是一款适用于 Laravel 应用程序的实时应用程序性能监控工具和仪表板。](https://github.com/laravel/pulse) 
 ### December 1, 2023 
 - [opa334/TrollStore: 被监禁的 iOS 应用程序，可以使用任意权限和 root 帮助程序永久安装 IPA，因为它欺骗了 Apple](https://github.com/opa334/TrollStore) 
 - [go-oauth2/oauth2: 用于 Go 编程语言的 OAuth 2.0 服务器库。](https://github.com/go-oauth2/oauth2) 
