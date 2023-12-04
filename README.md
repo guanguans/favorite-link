@@ -440,6 +440,7 @@
 ### December 4, 2023 
 - [sjzar/ips: IP 地理位置数据库工具。](https://github.com/sjzar/ips) 
 - [gherkins/regexpbuilderphp:🦉人类可读的正则表达式](https://github.com/gherkins/regexpbuilderphp) 
+- [LC044/WeChatMsg: 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告](https://github.com/LC044/WeChatMsg) 
 ### December 2, 2023 
 - [laravel/pulse: Laravel Pulse 是一款适用于 Laravel 应用程序的实时应用程序性能监控工具和仪表板。](https://github.com/laravel/pulse) 
 ### December 1, 2023 
