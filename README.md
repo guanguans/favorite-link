@@ -443,6 +443,7 @@
 - [LC044/WeChatMsg: 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告](https://github.com/LC044/WeChatMsg) 
 - [fomo-framework/fomo:一个简单、快速的框架，具有许多 HTTP 功能](https://github.com/fomo-framework/fomo) 
 - [bracesdev/errtrace: Go 错误的堆栈跟踪的替代方案](https://github.com/bracesdev/errtrace) 
+- [eza-community/eza:一个现代的、维护良好的 ls 替代品](https://github.com/eza-community/eza) 
 ### December 2, 2023 
 - [laravel/pulse: Laravel Pulse 是一款适用于 Laravel 应用程序的实时应用程序性能监控工具和仪表板。](https://github.com/laravel/pulse) 
 ### December 1, 2023 
