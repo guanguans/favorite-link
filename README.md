@@ -441,6 +441,7 @@
 ### December 5, 2023 
 - [swoole/phpy: Python 与 PHP 互调用库，可以在 PHP 中使用 Python 语言的函数和类库，或者在 Python 中使用 PHP 的包。 但不是语言内嵌。编码依然使用各自的原生语法。](https://github.com/swoole/phpy) 
 - [gabrielmoura/laravel-pennant-redis: Laravel Pennant 的 Redis 驱动程序](https://github.com/gabrielmoura/laravel-pennant-redis) 
+- [danog/class-finder: haydenpierce/class-finder 的分支，支持特征和接口](https://github.com/danog/class-finder) 
 ### December 4, 2023 
 - [sjzar/ips: IP 地理位置数据库工具。](https://github.com/sjzar/ips) 
 - [gherkins/regexpbuilderphp:🦉人类可读的正则表达式](https://github.com/gherkins/regexpbuilderphp) 
