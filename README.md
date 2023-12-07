@@ -439,6 +439,9 @@
 
 
 
+
+### December 7, 2023 
+- [saeedvaziry/laravel-async: Laravel Async](https://github.com/saeedvaziry/laravel-async) 
 ### December 6, 2023 
 - [php-tui/php-tui: PHP TUI](https://github.com/php-tui/php-tui) 
 - [phpyh/lru-memoizer：PHPyh LRU Memoizer](https://github.com/phpyh/lru-memoizer) 
