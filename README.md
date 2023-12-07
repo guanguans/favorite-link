@@ -442,6 +442,7 @@
 
 ### December 7, 2023 
 - [saeedvaziry/laravel-async: Laravel Async](https://github.com/saeedvaziry/laravel-async) 
+- [uber-go/sally: 一个微型 HTTP 服务器，用于支持自定义 Golang 导入路径](https://github.com/uber-go/sally) 
 ### December 6, 2023 
 - [php-tui/php-tui: PHP TUI](https://github.com/php-tui/php-tui) 
 - [phpyh/lru-memoizer：PHPyh LRU Memoizer](https://github.com/phpyh/lru-memoizer) 
