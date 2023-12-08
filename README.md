@@ -443,6 +443,7 @@
 
 ### December 8, 2023 
 - [stripe/stripe-go: Stripe API 的 Go 库。](https://github.com/stripe/stripe-go) 
+- [t-regx/phpunit-data-provider:允许您混合多个 PhpUnit @dataProvider 而无需重复](https://github.com/t-regx/phpunit-data-provider) 
 ### December 7, 2023 
 - [saeedvaziry/laravel-async: Laravel Async](https://github.com/saeedvaziry/laravel-async) 
 - [uber-go/sally: 一个微型 HTTP 服务器，用于支持自定义 Golang 导入路径](https://github.com/uber-go/sally) 
