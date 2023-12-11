@@ -445,6 +445,7 @@
 ### December 11, 2023 
 - [deatil/go-cryptobin: go 常用加密解密库/go](https://github.com/deatil/go-cryptobin#) 
 - [lukeraymonddowning/self-healing-urls: 一个 Laravel 包，允许您为 Eloquent 模型定义自我修复 URL](https://github.com/lukeraymonddowning/self-healing-urls) 
+- [motomedialab/laravel-self-healing-urls: 再也不用担心 slugs - 为您的 Laravel 项目生成自我修复 URL](https://github.com/motomedialab/laravel-self-healing-urls) 
 ### December 8, 2023 
 - [stripe/stripe-go: Stripe API 的 Go 库。](https://github.com/stripe/stripe-go) 
 - [t-regx/phpunit-data-provider:允许您混合多个 PhpUnit @dataProvider 而无需重复](https://github.com/t-regx/phpunit-data-provider) 
