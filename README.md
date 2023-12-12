@@ -445,6 +445,7 @@
 
 ### December 12, 2023 
 - [pion/sctp: SCTP 的 Go 实现](https://github.com/pion/sctp) 
+- [denniseilander/pulse-log-files: 一个轻量级的 Laravel Pulse 包，用于轻松查看当前项目中的可用日志文件。](https://github.com/denniseilander/pulse-log-files) 
 ### December 11, 2023 
 - [deatil/go-cryptobin: go 常用加密解密库/go](https://github.com/deatil/go-cryptobin#) 
 - [lukeraymonddowning/self-healing-urls: 一个 Laravel 包，允许您为 Eloquent 模型定义自我修复 URL](https://github.com/lukeraymonddowning/self-healing-urls) 
