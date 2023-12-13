@@ -446,6 +446,7 @@
 
 ### December 13, 2023 
 - [ryangjchandler/filament-navigation:在 Filament 中构建结构化导航菜单。](https://github.com/ryangjchandler/filament-navigation) 
+- [mr-punyapal/laravel-extended-relationships:包为 Laravel Eloquent 模型提供了额外的、更高效的关系方法。](https://github.com/mr-punyapal/laravel-extended-relationships) 
 ### December 12, 2023 
 - [pion/sctp: SCTP 的 Go 实现](https://github.com/pion/sctp) 
 - [denniseilander/pulse-log-files: 一个轻量级的 Laravel Pulse 包，用于轻松查看当前项目中的可用日志文件。](https://github.com/denniseilander/pulse-log-files) 
