@@ -448,6 +448,7 @@
 ### December 14, 2023 
 - [mhmdomer/ecommerce-laravel: 一个从头到尾（不包括付款和运输）的电子商务 Laravel 应用程序，具有干净简单的 UI](https://github.com/mhmdomer/ecommerce-laravel) 
 - [charmbracelet/huh: 一个简单而强大的终端表单和提示库🤷🏻‍♀️](https://github.com/charmbracelet/huh) 
+- [jolicode/php-os-helper: 提供帮助程序来检测运行 PHP 的计算机的操作系统。](https://github.com/jolicode/php-os-helper) 
 ### December 13, 2023 
 - [ryangjchandler/filament-navigation:在 Filament 中构建结构化导航菜单。](https://github.com/ryangjchandler/filament-navigation) 
 - [mr-punyapal/laravel-extended-relationships:包为 Laravel Eloquent 模型提供了额外的、更高效的关系方法。](https://github.com/mr-punyapal/laravel-extended-relationships) 
