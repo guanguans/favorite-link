@@ -445,6 +445,9 @@
 
 
 
+
+### December 15, 2023 
+- [HelgeSverre/mistral: Mistral.ai API 的 PHP 客户端关闭](https://github.com/HelgeSverre/mistral) 
 ### December 14, 2023 
 - [mhmdomer/ecommerce-laravel: 一个从头到尾（不包括付款和运输）的电子商务 Laravel 应用程序，具有干净简单的 UI](https://github.com/mhmdomer/ecommerce-laravel) 
 - [charmbracelet/huh: 一个简单而强大的终端表单和提示库🤷🏻‍♀️](https://github.com/charmbracelet/huh) 
