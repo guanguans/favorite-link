@@ -450,6 +450,7 @@
 ### December 18, 2023 
 - [Antonboom/testifylint:检查 github.com/stretchr/testify 的使用情况的 Golang linter。](https://github.com/Antonboom/testifylint) 
 - [thephpleague/object-mapper：Object Mapper](https://github.com/thephpleague/object-mapper) 
+- [mkorkmaz/redislabs-rejson:Redislabs RedisJson 又名 PHP 的 ReJson 客户端 (PHP 7.3+)](https://github.com/mkorkmaz/redislabs-rejson) 
 ### December 15, 2023 
 - [HelgeSverre/mistral: Mistral.ai API 的 PHP 客户端关闭](https://github.com/HelgeSverre/mistral) 
 - [m3m0r7/rubyvm-on-php:用 PHP 编写的 RubyVM](https://github.com/m3m0r7/rubyvm-on-php) 
