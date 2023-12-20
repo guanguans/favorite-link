@@ -451,6 +451,7 @@
 
 ### December 20, 2023 
 - [dkorunic/betteralign:让你的 Go 程序使用更少的内存（也许）](https://github.com/dkorunic/betteralign) 
+- [thunderbird/thunderbird-android:K-9 Mail – 适用于 Android 的开源电子邮件应用程序](https://github.com/thunderbird/thunderbird-android) 
 ### December 19, 2023 
 - [g4s8/envdoc: Go工具生成环境变量文档](https://github.com/g4s8/envdoc) 
 - [francoismichel/ssh3: SSH3:SSH3：使用 HTTP/3 的更快、更丰富的安全 shell](https://github.com/francoismichel/ssh3) 
