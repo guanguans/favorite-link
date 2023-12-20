@@ -453,6 +453,7 @@
 - [dkorunic/betteralign:让你的 Go 程序使用更少的内存（也许）](https://github.com/dkorunic/betteralign) 
 - [thunderbird/thunderbird-android:K-9 Mail – 适用于 Android 的开源电子邮件应用程序](https://github.com/thunderbird/thunderbird-android) 
 - [staabm/phpstan-baseline-analysis: 分析 PHPStan 基线文件并创建聚合错误趋势报告](https://github.com/staabm/phpstan-baseline-analysis) 
+- [rmunate/AgentDetection:🔍 代理检测库：揭开连接代理的秘密！ 🌐🕵️ 探索代理检测库中的方法宝库，以发现和检查应用程序中的连接代理详细信息。 📊🕵️‍♂️](https://github.com/rmunate/AgentDetection) 
 ### December 19, 2023 
 - [g4s8/envdoc: Go工具生成环境变量文档](https://github.com/g4s8/envdoc) 
 - [francoismichel/ssh3: SSH3:SSH3：使用 HTTP/3 的更快、更丰富的安全 shell](https://github.com/francoismichel/ssh3) 
