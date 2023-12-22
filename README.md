@@ -453,6 +453,7 @@
 
 ### December 22, 2023 
 - [homeport/dyff: YAML 文件的 diff 工具，有时还有 JSON](https://github.com/homeport/dyff) 
+- [sagikazarmark/modern-go-application:现代 Go 应用示例](https://github.com/sagikazarmark/modern-go-application) 
 ### December 21, 2023 
 - [AXN-Informatique/laravel-pk-int-to-bigint: 在 Laravel 项目中将 DB 主键和相关外键类型从 INT 转换为 BIGINT](https://github.com/AXN-Informatique/laravel-pk-int-to-bigint) 
 - [AXN-Informatique/laravel-models-generator:从数据库生成雄辩的模型。](https://github.com/AXN-Informatique/laravel-models-generator) 
