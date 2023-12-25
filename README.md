@@ -451,6 +451,9 @@
 
 
 
+
+### December 25, 2023 
+- [go-architect/go-architect:Go 项目的架构分析工具](https://github.com/go-architect/go-architect) 
 ### December 22, 2023 
 - [homeport/dyff: YAML 文件的 diff 工具，有时还有 JSON](https://github.com/homeport/dyff) 
 - [sagikazarmark/modern-go-application:现代 Go 应用示例](https://github.com/sagikazarmark/modern-go-application) 
