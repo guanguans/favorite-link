@@ -457,6 +457,7 @@
 ### December 27, 2023 
 - [amphp/parallel-functions: 基于 Amp 的 PHP 简化并行处理。](https://github.com/amphp/parallel-functions) 
 - [neitanod/forceutf8: PHP 类编码具有流行的 Encoding::toUTF8() 函数（以前称为 forceUTF8()），可修复混合编码字符串。](https://github.com/neitanod/forceutf8) 
+- [BishopFox/jsluice: 从 JavaScript 中提取 URL、路径、秘密和其他有趣的部分](https://github.com/BishopFox/jsluice) 
 ### December 26, 2023 
 - [samdark/php-fpm_tuner:有助于调整 PHP-FPM 的简单脚本。](https://github.com/samdark/php-fpm_tuner) 
 ### December 25, 2023 
