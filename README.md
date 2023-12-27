@@ -453,6 +453,9 @@
 
 
 
+
+### December 27, 2023 
+- [amphp/parallel-functions: 基于 Amp 的 PHP 简化并行处理。](https://github.com/amphp/parallel-functions) 
 ### December 26, 2023 
 - [samdark/php-fpm_tuner:有助于调整 PHP-FPM 的简单脚本。](https://github.com/samdark/php-fpm_tuner) 
 ### December 25, 2023 
