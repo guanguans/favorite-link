@@ -454,6 +454,9 @@
 
 
 
+
+### December 28, 2023 
+- [hiroi-sora/Umi-OCR: 开源、免费的离线OCR软件。](https://github.com/hiroi-sora/Umi-OCR) 
 ### December 27, 2023 
 - [amphp/parallel-functions: 基于 Amp 的 PHP 简化并行处理。](https://github.com/amphp/parallel-functions) 
 - [neitanod/forceutf8: PHP 类编码具有流行的 Encoding::toUTF8() 函数（以前称为 forceUTF8()），可修复混合编码字符串。](https://github.com/neitanod/forceutf8) 
