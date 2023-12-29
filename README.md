@@ -458,6 +458,7 @@
 
 ### December 29, 2023 
 - [valorin/random: Random 是一个简单的帮助程序包，旨在轻松生成一系列不同的加密安全随机值。](https://github.com/valorin/random) 
+- [valorin/pwned-validator: 超级简单的 Laravel 验证器，用于通过 Have I Been Pwned 的 Pwned Passwords 服务检查密码](https://github.com/valorin/pwned-validator) 
 ### December 28, 2023 
 - [hiroi-sora/Umi-OCR: 开源、免费的离线OCR软件。](https://github.com/hiroi-sora/Umi-OCR) 
 ### December 27, 2023 
