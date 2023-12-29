@@ -455,6 +455,9 @@
 
 
 
+
+### December 29, 2023 
+- [valorin/random: Random 是一个简单的帮助程序包，旨在轻松生成一系列不同的加密安全随机值。](https://github.com/valorin/random) 
 ### December 28, 2023 
 - [hiroi-sora/Umi-OCR: 开源、免费的离线OCR软件。](https://github.com/hiroi-sora/Umi-OCR) 
 ### December 27, 2023 
