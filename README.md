@@ -456,6 +456,9 @@
 
 
 
+
+### December 30, 2023 
+- [coralsio/laraship: Laraship 是一个基于 Laravel 构建的快速开发平台，它可以帮助代理商、初创公司甚至个人节省使用结构良好的代码构建 Web 应用程序和网站的时间。](https://github.com/coralsio/laraship) 
 ### December 29, 2023 
 - [valorin/random: Random 是一个简单的帮助程序包，旨在轻松生成一系列不同的加密安全随机值。](https://github.com/valorin/random) 
 - [valorin/pwned-validator: 超级简单的 Laravel 验证器，用于通过 Have I Been Pwned 的 Pwned Passwords 服务检查密码](https://github.com/valorin/pwned-validator) 
