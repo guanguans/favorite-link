@@ -457,6 +457,9 @@
 
 
 
+
+### January 2, 2024 
+- [skywarth/chaotic-schedule: 通过 pRNG 随机化计划的命令执行时间和日期间隔](https://github.com/skywarth/chaotic-schedule) 
 ### December 30, 2023 
 - [coralsio/laraship: Laraship 是一个基于 Laravel 构建的快速开发平台，它可以帮助代理商、初创公司甚至个人节省使用结构良好的代码构建 Web 应用程序和网站的时间。](https://github.com/coralsio/laraship) 
 ### December 29, 2023 
