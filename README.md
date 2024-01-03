@@ -458,6 +458,9 @@
 
 
 
+
+### January 3, 2024 
+- [VIPnytt/SitemapParser: 符合 Sitemaps.org 协议的 XML Sitemap 解析器类。](https://github.com/VIPnytt/SitemapParser) 
 ### January 2, 2024 
 - [skywarth/chaotic-schedule: 通过 pRNG 随机化计划的命令执行时间和日期间隔](https://github.com/skywarth/chaotic-schedule) 
 ### December 30, 2023 
