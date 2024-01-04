@@ -462,6 +462,7 @@
 
 ### January 4, 2024 
 - [mccutchen/go-httpbin: httpbin 的相当完整且经过良好测试的 golang 端口，在 go stdlib 之外具有零依赖关系。](https://github.com/mccutchen/go-httpbin) 
+- [lara-zeus/qr: 具有设计选项的二维码字段](https://github.com/lara-zeus/qr) 
 ### January 3, 2024 
 - [VIPnytt/SitemapParser: 符合 Sitemaps.org 协议的 XML Sitemap 解析器类。](https://github.com/VIPnytt/SitemapParser) 
 - [LunarBar-app/LunarBar: 适用于 macOS 菜单栏的紧凑型农历。](https://github.com/LunarBar-app/LunarBar) 
