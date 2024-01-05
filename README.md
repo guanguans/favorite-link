@@ -460,6 +460,9 @@
 
 
 
+
+### January 5, 2024 
+- [stevebauman/autodoc-facades: 自动生成 Laravel 外观的 PHP 文档注释](https://github.com/stevebauman/autodoc-facades) 
 ### January 4, 2024 
 - [mccutchen/go-httpbin: httpbin 的相当完整且经过良好测试的 golang 端口，在 go stdlib 之外具有零依赖关系。](https://github.com/mccutchen/go-httpbin) 
 - [lara-zeus/qr: 具有设计选项的二维码字段](https://github.com/lara-zeus/qr) 
