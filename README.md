@@ -461,6 +461,9 @@
 
 
 
+
+### January 8, 2024 
+- [discord-php/DiscordPHP-Http: discord-php/DiscordPHP-Http: discord-php/DiscordPHP-Http: 用于与 Discord REST API 通信的异步 HTTP 客户端。](https://github.com/discord-php/DiscordPHP-Http) 
 ### January 5, 2024 
 - [stevebauman/autodoc-facades: 自动生成 Laravel 外观的 PHP 文档注释](https://github.com/stevebauman/autodoc-facades) 
 ### January 4, 2024 
