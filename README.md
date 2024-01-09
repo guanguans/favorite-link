@@ -17,6 +17,7 @@
 - [maximal/taran: Web 应用程序和服务器基准测试工具。](https://github.com/maximal/taran) 
 - [typhoon-php/overloading: PHP 缺少方法重载功能。](https://github.com/typhoon-php/overloading) 
 - [php-collective/decimal-object: 小数作为值对象处理，而不是普通字符串或浮点数。](https://github.com/php-collective/decimal-object) 
+- [hamidrezaniazi/pecs: PECS 借助 Elastic Common Schema 的强大功能简化了 PHP 中的日志记录。](https://github.com/hamidrezaniazi/pecs#pecs) 
 ### January 8, 2024 
 - [discord-php/DiscordPHP-Http: discord-php/DiscordPHP-Http: discord-php/DiscordPHP-Http: 用于与 Discord REST API 通信的异步 HTTP 客户端。](https://github.com/discord-php/DiscordPHP-Http) 
 ### January 5, 2024 
