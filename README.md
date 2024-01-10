@@ -13,6 +13,7 @@
 
 ### January 10, 2024 
 - [Spomky-Labs/phpwa: 用于生成全功能 PWA 清单的 PHP 库](https://github.com/Spomky-Labs/phpwa) 
+- [199ocero/activity-timeline: 活动时间轴插件可以方便地呈现即将发生的、正在进行的和过去的活动，提供事件的全面视图。](https://github.com/199ocero/activity-timeline) 
 ### January 9, 2024 
 - [UdaraJay/Pile: 用于数字日记的桌面应用程序。](https://github.com/UdaraJay/Pile) 
 - [duna-oss/flystorage: 飞行存储； Node / TypeScript 的文件存储抽象](https://github.com/duna-oss/flystorage) 
