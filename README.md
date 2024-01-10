@@ -10,6 +10,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### January 10, 2024 
+- [Spomky-Labs/phpwa: 用于生成全功能 PWA 清单的 PHP 库](https://github.com/Spomky-Labs/phpwa) 
 ### January 9, 2024 
 - [UdaraJay/Pile: 用于数字日记的桌面应用程序。](https://github.com/UdaraJay/Pile) 
 - [duna-oss/flystorage: 飞行存储； Node / TypeScript 的文件存储抽象](https://github.com/duna-oss/flystorage) 
