@@ -17,6 +17,7 @@
 - [kevinanielsen/go-fast-cdn: 快速且易于使用的 CDN，使用 Go 构建。](https://github.com/kevinanielsen/go-fast-cdn) 
 - [Bearer/gon: 对以任何语言编写的 macOS CLI 工具和应用程序进行签名、公证和打包。可作为 CLI 和 Go 库使用。](https://github.com/Bearer/gon) 
 - [gofri/go-github-ratelimit: 处理 GitHub API 二级速率限制的 GoLang HTTP RoundTripper](https://github.com/gofri/go-github-ratelimit) 
+- [souplette-php/chicot: 从 PHP Reflection API 生成扩展模块的 IDE 存根](https://github.com/souplette-php/chicot) 
 ### January 11, 2024 
 - [serversideup/financial-freedom: 🔥🔥🔥 Mint、YNAB 等的开源替代品。控制预算并积累财富，而不牺牲您的隐私。](https://github.com/serversideup/financial-freedom) 
 - [Rareloop/router: 受 Laravel API 启发的强大的 PSR7 消息 PHP 路由器。](https://github.com/Rareloop/router) 
