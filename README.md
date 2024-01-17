@@ -19,6 +19,7 @@
 - [shipmonk-rnd/phpstan-rules: 我们发现各种额外严格的 PHPStan 规则在 ShipMonk 中非常有用。](https://github.com/shipmonk-rnd/phpstan-rules) 
 - [rogervila/array-diff-multidimensional: PHP中递归比较两个多维数组的差异](https://github.com/rogervila/array-diff-multidimensional) 
 - [simonhamp/the-og: 纯 PHP OpenGraph 图像生成器](https://github.com/simonhamp/the-og) 
+- [chelnak/gh-changelog: 一个 gh cli 扩展，可以让你的变更日志✨](https://github.com/chelnak/gh-changelog) 
 ### January 16, 2024 
 - [devster/ubench: Micro PHP 基准库](https://github.com/devster/ubench) 
 ### January 15, 2024 
