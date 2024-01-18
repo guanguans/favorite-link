@@ -19,6 +19,7 @@
 ### January 18, 2024 
 - [octoper/cuzzle: 该库允许您将 Guzzle 请求转储到 cURL 命令以用于调试和日志目的。](https://github.com/octoper/cuzzle) 
 - [namshi/cuzzle: 该库允许您将 Guzzle 请求转储到 cURL 命令以用于调试和日志目的。](https://github.com/namshi/cuzzle) 
+- [zhanguangcheng/linkerman: Linkerman 是一个利用 Workerman 来加速 PHP 框架的库。](https://github.com/zhanguangcheng/linkerman) 
 ### January 17, 2024 
 - [shipmonk-rnd/phpstan-rules: 我们发现各种额外严格的 PHPStan 规则在 ShipMonk 中非常有用。](https://github.com/shipmonk-rnd/phpstan-rules) 
 - [rogervila/array-diff-multidimensional: PHP中递归比较两个多维数组的差异](https://github.com/rogervila/array-diff-multidimensional) 
