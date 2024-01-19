@@ -16,6 +16,9 @@
 
 
 
+
+### January 19, 2024 
+- [geowrgetudor/laravel-tiny-blog: 一个 Laravel 包，可为您的应用程序添加一个简单且可自定义的 Markdown 博客。](https://github.com/geowrgetudor/laravel-tiny-blog) 
 ### January 18, 2024 
 - [octoper/cuzzle: 该库允许您将 Guzzle 请求转储到 cURL 命令以用于调试和日志目的。](https://github.com/octoper/cuzzle) 
 - [namshi/cuzzle: 该库允许您将 Guzzle 请求转储到 cURL 命令以用于调试和日志目的。](https://github.com/namshi/cuzzle) 
