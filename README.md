@@ -23,6 +23,7 @@
 - [TomasVotruba/unused-public: 查找代码中未使用的公共元素](https://github.com/TomasVotruba/unused-public) 
 - [TomasVotruba/cognitive-complexity: PHPStan 规则来衡量类和方法的认知复杂性](https://github.com/TomasVotruba/cognitive-complexity) 
 - [phuslu/lru: 高性能LRU缓存](https://github.com/phuslu/lru) 
+- [如何修补供应商中的软件包，但允许其更新](https://tomasvotruba.com/blog/2020/07/02/how-to-patch-package-in-vendor-yet-allow-its-updates/) 
 ### January 22, 2024 
 - [php-tui/cli-parser: 类型安全的 CLI 参数解析器](https://github.com/php-tui/cli-parser) 
 - [Safemood/discountify: Laravel 包可根据自定义条件提供动态折扣。](https://github.com/Safemood/discountify) 
