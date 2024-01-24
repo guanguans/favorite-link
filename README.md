@@ -22,6 +22,7 @@
 
 ### January 24, 2024 
 - [phplrt/language-server: [实验]语言服务器](https://github.com/phplrt/language-server) 
+- [HelgeSverre/mindwave: [WIP] 🧠 用于将 AI 功能构建到 Laravel 应用程序中的工具包。](https://github.com/HelgeSverre/mindwave) 
 ### January 23, 2024 
 - [TomasVotruba/unused-public: 查找代码中未使用的公共元素](https://github.com/TomasVotruba/unused-public) 
 - [TomasVotruba/cognitive-complexity: PHPStan 规则来衡量类和方法的认知复杂性](https://github.com/TomasVotruba/cognitive-complexity) 
