@@ -26,6 +26,7 @@
 - [dbgate/dbgate: MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器。在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行](https://github.com/dbgate/dbgate) 
 - [php-collective/decimal-object: 小数作为值对象处理，而不是普通字符串或浮点数。](https://github.com/php-collective/decimal-object) 
 - [Log1x/acf-composer: 在 Sage 10 上使用 ACF Builder 编写 ACF 字段、块、小部件和选项页面。](https://github.com/Log1x/acf-composer) 
+- [balping / json-raw-encoder: 使用此软件包将数组编码为使用RAW JS对象（例如回调）的JSON。](https://gitlab.com/balping/json-raw-encoder) 
 ### January 23, 2024 
 - [TomasVotruba/unused-public: 查找代码中未使用的公共元素](https://github.com/TomasVotruba/unused-public) 
 - [TomasVotruba/cognitive-complexity: PHPStan 规则来衡量类和方法的认知复杂性](https://github.com/TomasVotruba/cognitive-complexity) 
