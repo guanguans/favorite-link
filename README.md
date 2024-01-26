@@ -21,6 +21,9 @@
 
 
 
+
+### January 26, 2024 
+- [planetscale/schemadiff: 基于Vitess'Schemadiff库的声明性MySQL模式验证，归一化和分散的命令行工具。](https://github.com/planetscale/schemadiff) 
 ### January 25, 2024 
 - [serversideup/spin: 🚀 使用 Docker 在本地复制您的生产环境。只需运行“旋转”即可。真的就是这么简单。](https://github.com/serversideup/spin) 
 ### January 24, 2024 
