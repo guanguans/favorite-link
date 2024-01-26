@@ -28,6 +28,7 @@
 - [roke22/PHP-SSH2-Web-Client: PHP Web 客户端通过 SSH 连接到另一台服务器 |新项目位于https://github.com/roke22/Laravel-ssh-client](https://github.com/roke22/PHP-SSH2-Web-Client) 
 - [roke22/Laravel-ssh-client: 基于 Laravel 框架的 SSH Web 客户端](https://github.com/roke22/Laravel-ssh-client) 
 - [chrisvpearse/phpcrypter: PHP 源代码加密器](https://github.com/chrisvpearse/phpcrypter) 
+- [Hayden Pierce / ClassFinder · GitLab](https://gitlab.com/hpierce1102/ClassFinder) 
 ### January 25, 2024 
 - [serversideup/spin: 🚀 使用 Docker 在本地复制您的生产环境。只需运行“旋转”即可。真的就是这么简单。](https://github.com/serversideup/spin) 
 ### January 24, 2024 
