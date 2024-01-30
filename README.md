@@ -29,6 +29,7 @@
 - [zed-industries/zed: 以思想的速度编写代码 – Zed 是一款高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。](https://github.com/zed-industries/zed) 
 - [AuroraWebSoftware/ASetting: ASetting 是一个 Laravel 包，允许您动态定义配置定义。](https://github.com/AuroraWebSoftware/ASetting) 
 - [icanhazstring/systemctl-php: Systemctl 的 PHP 包装器](https://github.com/icanhazstring/systemctl-php) 
+- [wtframework/types: 该库提供了一个用于操作字符串、数组和数字的流畅界面。](https://github.com/wtframework/types) 
 ### January 29, 2024 
 - [woodpecker-ci/woodpecker: Woodpecker 是一个简单但功能强大的 CI/CD 引擎，具有很强的可扩展性。](https://github.com/woodpecker-ci/woodpecker) 
 ### January 26, 2024 
