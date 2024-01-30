@@ -26,6 +26,7 @@
 
 ### January 30, 2024 
 - [likexian/whois-parser: 用于域名whois信息解析的Go(Golang)模块。](https://github.com/likexian/whois-parser) 
+- [zed-industries/zed: 以思想的速度编写代码 – Zed 是一款高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。](https://github.com/zed-industries/zed) 
 ### January 29, 2024 
 - [woodpecker-ci/woodpecker: Woodpecker 是一个简单但功能强大的 CI/CD 引擎，具有很强的可扩展性。](https://github.com/woodpecker-ci/woodpecker) 
 ### January 26, 2024 
