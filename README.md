@@ -30,6 +30,7 @@
 - [AuroraWebSoftware/ASetting: ASetting 是一个 Laravel 包，允许您动态定义配置定义。](https://github.com/AuroraWebSoftware/ASetting) 
 - [icanhazstring/systemctl-php: Systemctl 的 PHP 包装器](https://github.com/icanhazstring/systemctl-php) 
 - [wtframework/types: 该库提供了一个用于操作字符串、数组和数字的流畅界面。](https://github.com/wtframework/types) 
+- [gookit/goutil: Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等](https://github.com/gookit/goutil) 
 ### January 29, 2024 
 - [woodpecker-ci/woodpecker: Woodpecker 是一个简单但功能强大的 CI/CD 引擎，具有很强的可扩展性。](https://github.com/woodpecker-ci/woodpecker) 
 ### January 26, 2024 
