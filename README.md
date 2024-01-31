@@ -24,6 +24,9 @@
 
 
 
+
+### January 31, 2024 
+- [JBZoo/CI-Report-Converter: 该工具转换不同的错误报告标准，以与流行的 CI 系统（TeamCity、IntelliJ IDEA、GitHub Actions 等）深度兼容。](https://github.com/JBZoo/CI-Report-Converter) 
 ### January 30, 2024 
 - [likexian/whois-parser: 用于域名whois信息解析的Go(Golang)模块。](https://github.com/likexian/whois-parser) 
 - [zed-industries/zed: 以思想的速度编写代码 – Zed 是一款高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。](https://github.com/zed-industries/zed) 
