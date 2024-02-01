@@ -25,6 +25,9 @@
 
 
 
+
+### February 1, 2024 
+- [hirethunk/verbs: Verbs 是 PHP 工匠的事件源包](https://github.com/hirethunk/verbs) 
 ### January 31, 2024 
 - [JBZoo/CI-Report-Converter: 该工具转换不同的错误报告标准，以与流行的 CI 系统（TeamCity、IntelliJ IDEA、GitHub Actions 等）深度兼容。](https://github.com/JBZoo/CI-Report-Converter) 
 ### January 30, 2024 
