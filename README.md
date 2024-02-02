@@ -26,6 +26,9 @@
 
 
 
+
+### February 2, 2024 
+- [square1-io/laravel-idempotency: 通过添加幂等性支持来创建更强大的 Laravel API。](https://github.com/square1-io/laravel-idempotency) 
 ### February 1, 2024 
 - [hirethunk/verbs: Verbs 是 PHP 工匠的事件源包](https://github.com/hirethunk/verbs) 
 ### January 31, 2024 
