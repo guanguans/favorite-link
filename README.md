@@ -27,6 +27,9 @@
 
 
 
+
+### February 4, 2024 
+- [xlucn/oh-my-foss-android: 个人收集的实用、良心开源安卓软件](https://github.com/xlucn/oh-my-foss-android) 
 ### February 2, 2024 
 - [square1-io/laravel-idempotency: 通过添加幂等性支持来创建更强大的 Laravel API。](https://github.com/square1-io/laravel-idempotency) 
 ### February 1, 2024 
