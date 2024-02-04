@@ -31,6 +31,7 @@
 ### February 4, 2024 
 - [xlucn/oh-my-foss-android: 个人收集的实用、良心开源安卓软件](https://github.com/xlucn/oh-my-foss-android) 
 - [ryangjchandler/lexical](https://github.com/ryangjchandler/lexical) 
+- [gedoor/legado: 一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。](https://github.com/gedoor/legado) 
 ### February 2, 2024 
 - [square1-io/laravel-idempotency: 通过添加幂等性支持来创建更强大的 Laravel API。](https://github.com/square1-io/laravel-idempotency) 
 ### February 1, 2024 
