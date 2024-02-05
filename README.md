@@ -28,6 +28,9 @@
 
 
 
+
+### February 5, 2024 
+- [symfony/emoji: 提供从 Unicode CLDR 访问表情符号字符和序列](https://github.com/symfony/emoji) 
 ### February 4, 2024 
 - [xlucn/oh-my-foss-android: 个人收集的实用、良心开源安卓软件](https://github.com/xlucn/oh-my-foss-android) 
 - [ryangjchandler/lexical](https://github.com/ryangjchandler/lexical) 
