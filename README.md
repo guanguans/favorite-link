@@ -29,6 +29,9 @@
 
 
 
+
+### February 6, 2024 
+- [guofei9987/text_blind_watermark: 文本盲水印：把信息隐匿到文本中](https://github.com/guofei9987/text_blind_watermark) 
 ### February 5, 2024 
 - [symfony/emoji: 提供从 Unicode CLDR 访问表情符号字符和序列](https://github.com/symfony/emoji) 
 - [symfony/type-info: 提取 PHP 类型信息。](https://github.com/symfony/type-info) 
