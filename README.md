@@ -36,6 +36,7 @@
 - [koho/frpmgr: Windows 平台的 FRP GUI 客户端](https://github.com/koho/frpmgr) 
 - [duncanmcclean/simple-commerce: 一个简单但功能强大的 Statamic 电子商务插件。](https://github.com/duncanmcclean/simple-commerce) 
 - [alexandre-daubois/monolog-processor-collection: Monolog 处理器的集合](https://github.com/alexandre-daubois/monolog-processor-collection) 
+- [symfonycorp/security-checker-action: PHP 安全检查器](https://github.com/symfonycorp/security-checker-action) 
 ### February 6, 2024 
 - [guofei9987/text_blind_watermark: 文本盲水印：把信息隐匿到文本中](https://github.com/guofei9987/text_blind_watermark) 
 ### February 5, 2024 
