@@ -31,6 +31,9 @@
 
 
 
+
+### February 15, 2024 
+- [gitbutlerapp/gitbutler: GitButler 版本控制客户端](https://github.com/gitbutlerapp/gitbutler) 
 ### February 13, 2024 
 - [alexandre-daubois/release-genius: 该软件包是一个简单的工具，可帮助您管理变更日志和版本控制。它使用常规提交标准来生成变更日志。](https://github.com/alexandre-daubois/release-genius) 
 - [koho/frpmgr: Windows 平台的 FRP GUI 客户端](https://github.com/koho/frpmgr) 
