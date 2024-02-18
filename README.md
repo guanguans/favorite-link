@@ -37,6 +37,7 @@
 - [bcicen/jstream: Go 的流式 JSON 解析器](https://github.com/bcicen/jstream) 
 - [tempestphp/tempest-framework: 不妨碍您的 PHP 框架。](https://github.com/tempestphp/tempest-framework) 
 - [LukaGiorgadze/gonull: Go 包使用 Go 泛型简化了可为空字段的处理。](https://github.com/LukaGiorgadze/gonull) 
+- [gvwilson/sql-tutorial: Querynomicon：为谨慎的数据科学家介绍 SQL](https://github.com/gvwilson/sql-tutorial) 
 ### February 15, 2024 
 - [gitbutlerapp/gitbutler: GitButler 版本控制客户端](https://github.com/gitbutlerapp/gitbutler) 
 - [buggregator/server: Buggregator 是一个轻量级的独立服务器，为 PHP 应用程序提供一系列调试功能。](https://github.com/buggregator/server) 
