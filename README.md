@@ -33,6 +33,9 @@
 
 
 
+
+### February 19, 2024 
+- [maantje/xhprof-buggregator-laravel: Laravel buggregator 中的 Xhprof 集成包](https://github.com/maantje/xhprof-buggregator-laravel) 
 ### February 18, 2024 
 - [bcicen/jstream: Go 的流式 JSON 解析器](https://github.com/bcicen/jstream) 
 - [tempestphp/tempest-framework: 不妨碍您的 PHP 框架。](https://github.com/tempestphp/tempest-framework) 
