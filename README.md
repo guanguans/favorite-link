@@ -37,6 +37,7 @@
 ### February 19, 2024 
 - [maantje/xhprof-buggregator-laravel: Laravel buggregator 中的 Xhprof 集成包](https://github.com/maantje/xhprof-buggregator-laravel) 
 - [jessarcher/zsh-artisan: zsh 的 Laravel artisan 插件可帮助您从项目树中的任何位置运行 artisan，具有自动完成功能，并且它可以自动打开 artisan 创建的文件！](https://github.com/jessarcher/zsh-artisan) 
+- [sajadsdi/laravel-setting-pro: Laravel 框架轻松设置管理](https://github.com/sajadsdi/laravel-setting-pro) 
 ### February 18, 2024 
 - [bcicen/jstream: Go 的流式 JSON 解析器](https://github.com/bcicen/jstream) 
 - [tempestphp/tempest-framework: 不妨碍您的 PHP 框架。](https://github.com/tempestphp/tempest-framework) 
