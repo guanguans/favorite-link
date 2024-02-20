@@ -34,6 +34,9 @@
 
 
 
+
+### February 20, 2024 
+- [Nukesor/pueue: 🌠 管理您的 shell 命令。](https://github.com/Nukesor/pueue) 
 ### February 19, 2024 
 - [maantje/xhprof-buggregator-laravel: Laravel buggregator 中的 Xhprof 集成包](https://github.com/maantje/xhprof-buggregator-laravel) 
 - [jessarcher/zsh-artisan: zsh 的 Laravel artisan 插件可帮助您从项目树中的任何位置运行 artisan，具有自动完成功能，并且它可以自动打开 artisan 创建的文件！](https://github.com/jessarcher/zsh-artisan) 
