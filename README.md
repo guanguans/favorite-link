@@ -41,6 +41,7 @@
 - [3052/google: 从 Google Play 下载 APK 或发送 API 请求](https://github.com/3052/google) 
 - [weekend-project-space/top-rss-list: 订阅人数最多的rss源，中文优质rss源](https://github.com/weekend-project-space/top-rss-list) 
 - [alexandre-daubois/phikl: 🥒 Apple 的 PHP Pkl 桥](https://github.com/alexandre-daubois/phikl) 
+- [ryangjchandler/phpast.com: 一个用于探索 PHP-Parser 生成的 AST 的 Web 工具。](https://github.com/ryangjchandler/phpast.com) 
 ### February 21, 2024 
 - [021-projects/laravel-wallet: Laravel 可靠灵活的事务机制](https://github.com/021-projects/laravel-wallet) 
 - [NeutrinoAPI/neutrino-api-client-libcurl: 使用 libcURL 扩展的 PHP 客户端](https://github.com/NeutrinoAPI/neutrino-api-client-libcurl) 
