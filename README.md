@@ -42,6 +42,7 @@
 - [weekend-project-space/top-rss-list: 订阅人数最多的rss源，中文优质rss源](https://github.com/weekend-project-space/top-rss-list) 
 - [alexandre-daubois/phikl: 🥒 Apple 的 PHP Pkl 桥](https://github.com/alexandre-daubois/phikl) 
 - [ryangjchandler/phpast.com: 一个用于探索 PHP-Parser 生成的 AST 的 Web 工具。](https://github.com/ryangjchandler/phpast.com) 
+- [sbmpost/AutoRaise: 当鼠标悬停在窗口上时自动升起（并聚焦）窗口](https://github.com/sbmpost/AutoRaise) 
 ### February 21, 2024 
 - [021-projects/laravel-wallet: Laravel 可靠灵活的事务机制](https://github.com/021-projects/laravel-wallet) 
 - [NeutrinoAPI/neutrino-api-client-libcurl: 使用 libcURL 扩展的 PHP 客户端](https://github.com/NeutrinoAPI/neutrino-api-client-libcurl) 
