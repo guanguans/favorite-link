@@ -37,6 +37,9 @@
 
 
 
+
+### February 23, 2024 
+- [orsinium-labs/enum: 为 Go 键入安全枚举，无需生成代码或反射](https://github.com/orsinium-labs/enum) 
 ### February 22, 2024 
 - [3052/google: 从 Google Play 下载 APK 或发送 API 请求](https://github.com/3052/google) 
 - [weekend-project-space/top-rss-list: 订阅人数最多的rss源，中文优质rss源](https://github.com/weekend-project-space/top-rss-list) 
