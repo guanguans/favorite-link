@@ -42,6 +42,7 @@
 ### February 26, 2024 
 - [ComplexHeart/php-domain-model: 领域模型工具集，用于正确构建值对象、实体、聚合和服务。](https://github.com/ComplexHeart/php-domain-model) 
 - [google-gemini-php/client: ⚡️ Gemini PHP 是一个社区维护的 PHP API 客户端，可让您与 Gemini AI API 进行交互。](https://github.com/google-gemini-php/client) 
+- [laracord/laracord: 借助 Laravel 的强大功能创建优雅的 Discord 机器人。 🤖](https://github.com/laracord/laracord) 
 ### February 23, 2024 
 - [orsinium-labs/enum: 为 Go 键入安全枚举，无需生成代码或反射](https://github.com/orsinium-labs/enum) 
 ### February 22, 2024 
