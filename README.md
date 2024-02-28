@@ -45,6 +45,7 @@
 - [xepozz/test-it: 一种根据类方法签名生成带有测试用例的文件的工具。](https://github.com/xepozz/test-it) 
 - [javoscript/laravel-macroable-models: 用于动态向 Laravel 模型添加方法的包 🕊](https://github.com/javoscript/laravel-macroable-models) 
 - [guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。](https://github.com/guozhigq/pilipala) 
+- [guozhigq/flutter_v2ex: 使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色](https://github.com/guozhigq/flutter_v2ex) 
 ### February 27, 2024 
 - [pxlrbt/filament-spotlight: 快速浏览您的灯丝页面](https://github.com/pxlrbt/filament-spotlight) 
 ### February 26, 2024 
