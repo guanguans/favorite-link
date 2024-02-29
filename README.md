@@ -41,6 +41,9 @@
 
 
 
+
+### February 29, 2024 
+- [mac-cleanup/mac-cleanup-py: 👨‍💻 适用于 macOS 的 Python 清理脚本](https://github.com/mac-cleanup/mac-cleanup-py) 
 ### February 28, 2024 
 - [xepozz/test-it: 一种根据类方法签名生成带有测试用例的文件的工具。](https://github.com/xepozz/test-it) 
 - [javoscript/laravel-macroable-models: 用于动态向 Laravel 模型添加方法的包 🕊](https://github.com/javoscript/laravel-macroable-models) 
