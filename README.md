@@ -47,6 +47,7 @@
 - [veler/DevToys: 开发者的瑞士军刀。](https://github.com/veler/DevToys) 
 - [xiaohucode/yidaRule: yida规则仓库](https://github.com/xiaohucode/yidaRule) 
 - [emanuele-f/PCAPdroid: 适用于 Android 的免根网络监控器、防火墙和 PCAP 转储器](https://github.com/emanuele-f/PCAPdroid) 
+- [emanuele-f/PCAPdroid-mitm: PCAPdroid 的 Mitm 插件](https://github.com/emanuele-f/PCAPdroid-mitm) 
 ### February 29, 2024 
 - [mac-cleanup/mac-cleanup-py: 👨‍💻 适用于 macOS 的 Python 清理脚本](https://github.com/mac-cleanup/mac-cleanup-py) 
 ### February 28, 2024 
