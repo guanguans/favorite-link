@@ -42,6 +42,9 @@
 
 
 
+
+### March 1, 2024 
+- [veler/DevToys: 开发者的瑞士军刀。](https://github.com/veler/DevToys) 
 ### February 29, 2024 
 - [mac-cleanup/mac-cleanup-py: 👨‍💻 适用于 macOS 的 Python 清理脚本](https://github.com/mac-cleanup/mac-cleanup-py) 
 ### February 28, 2024 
