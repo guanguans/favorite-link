@@ -46,6 +46,7 @@
 
 ### March 4, 2024 
 - [gkd-kit/gkd: 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP](https://github.com/gkd-kit/gkd) 
+- [JonPurvis/lawman: 🤠 一个 PestPHP 插件，可帮助进行架构测试 SaloonPHP 集成](https://github.com/JonPurvis/lawman) 
 ### March 1, 2024 
 - [veler/DevToys: 开发者的瑞士军刀。](https://github.com/veler/DevToys) 
 - [xiaohucode/yidaRule: yida规则仓库](https://github.com/xiaohucode/yidaRule) 
