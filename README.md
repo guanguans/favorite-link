@@ -44,6 +44,9 @@
 
 
 
+
+### March 5, 2024 
+- [mario-deluna/php-chip8: 另一个 CHIP-8 模拟器，但使用 PHP！](https://github.com/mario-deluna/php-chip8) 
 ### March 4, 2024 
 - [gkd-kit/gkd: 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP](https://github.com/gkd-kit/gkd) 
 - [JonPurvis/lawman: 🤠 一个 PestPHP 插件，可帮助进行架构测试 SaloonPHP 集成](https://github.com/JonPurvis/lawman) 
