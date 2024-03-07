@@ -46,6 +46,9 @@
 
 
 
+
+### March 7, 2024 
+- [tomatophp/tomato-admin: Tomato 管理仪表板使用 Laravel Splade 的 FilamentPHP 主题构建](https://github.com/tomatophp/tomato-admin) 
 ### March 6, 2024 
 - [ortuman/nuke: ⚡ Go 的内存竞技场实现。](https://github.com/ortuman/nuke) 
 - [cli/go-gh: 用于从命令行与 gh 和 GitHub API 交互的 Go 模块。](https://github.com/cli/go-gh) 
