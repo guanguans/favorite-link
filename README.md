@@ -51,6 +51,7 @@
 ### March 8, 2024 
 - [huangdijia/laravel-horizon-restart: 重新启动多个服务器的Horizo​​​​n主管，例如php artisan队列：restart](https://github.com/huangdijia/laravel-horizon-restart) 
 - [loophp/combinator: 精选的组合器列表](https://github.com/loophp/combinator) 
+- [nekocode/github_email_crawler: 一个从github.com抓取邮件的工具。](https://github.com/nekocode/github_email_crawler) 
 ### March 7, 2024 
 - [tomatophp/tomato-admin: Tomato 管理仪表板使用 Laravel Splade 的 FilamentPHP 主题构建](https://github.com/tomatophp/tomato-admin) 
 - [deatil/lakego-admin: lakego-admin 是使用 gin、JWT 和 RBAC 的前后端分离的 go 后台管理系统。](https://github.com/deatil/lakego-admin) 
