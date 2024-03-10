@@ -49,6 +49,9 @@
 
 
 
+
+### March 10, 2024 
+- [ergebnis/rector-rules: 提供一个包含 rector/rector 规则的作曲器包。](https://github.com/ergebnis/rector-rules) 
 ### March 9, 2024 
 - [ergebnis/http-method: 为 HTTP 请求方法提供具有常量的编写器包。](https://github.com/ergebnis/http-method) 
 ### March 8, 2024 
