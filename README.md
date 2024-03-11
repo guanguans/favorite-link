@@ -53,6 +53,7 @@
 
 ### March 11, 2024 
 - [capsulescodes/browser-php: 在浏览器中运行任何 PHP 内容。](https://github.com/capsulescodes/browser-php) 
+- [capsulescodes/laravel-population: Laravel 命令实时管理你的数据库](https://github.com/capsulescodes/laravel-population) 
 ### March 10, 2024 
 - [ergebnis/rector-rules: 提供一个包含 rector/rector 规则的作曲器包。](https://github.com/ergebnis/rector-rules) 
 ### March 9, 2024 
