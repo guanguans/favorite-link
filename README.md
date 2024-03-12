@@ -51,6 +51,9 @@
 
 
 
+
+### March 12, 2024 
+- [maboloshi/github-chinese: GitHub 汉化插件，GitHub 中文化界面。](https://github.com/maboloshi/github-chinese) 
 ### March 11, 2024 
 - [capsulescodes/browser-php: 在浏览器中运行任何 PHP 内容。](https://github.com/capsulescodes/browser-php) 
 - [capsulescodes/laravel-population: Laravel 命令实时管理你的数据库](https://github.com/capsulescodes/laravel-population) 
