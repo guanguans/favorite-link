@@ -10,6 +10,9 @@
 [GNU General Public License v3.0](LICENSE)
 
 
+
+### March 14, 2024 
+- [saade/filament-laravel-log: 从Filament管理面板读取Laravel日志](https://github.com/saade/filament-laravel-log) 
 ### March 13, 2024 
 - [laravel/reverb: Laravel Reverb为Laravel应用程序提供了实时的Websocket后端。](https://github.com/laravel/reverb) 
 - [typhoon-php/typhoon: PHP的最终类型系统和反射](https://github.com/typhoon-php/typhoon) 
