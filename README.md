@@ -14,6 +14,7 @@
 
 ### March 15, 2024 
 - [onlime/laravel-http-client-global-logger: Laravel HTTP 客户端的全局日志记录器](https://github.com/onlime/laravel-http-client-global-logger) 
+- [jaywcjlove/time-passage: 生命周期计算器。我还能活多少天？我还能活几天？死亡时间计算器。我什么时候会死？](https://github.com/jaywcjlove/time-passage) 
 ### March 14, 2024 
 - [saade/filament-laravel-log: 从Filament管理面板读取Laravel日志](https://github.com/saade/filament-laravel-log) 
 - [ovac/idoc: 📒📚从您现有的Laravel应用程序中加生美丽的交互式文档和Open-API 3.0 Spec文件。](https://github.com/ovac/idoc) 
