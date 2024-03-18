@@ -15,6 +15,7 @@
 
 ### March 18, 2024 
 - [pew-pew-team/http-factory: 请求解码和响应编码工厂](https://github.com/pew-pew-team/http-factory) 
+- [tempestphp/highlight: 用于HTML和终端的快速、可扩展的服务器端代码高亮显示](https://github.com/tempestphp/highlight) 
 ### March 15, 2024 
 - [onlime/laravel-http-client-global-logger: Laravel HTTP 客户端的全局日志记录器](https://github.com/onlime/laravel-http-client-global-logger) 
 - [jaywcjlove/time-passage: 生命周期计算器。我还能活多少天？我还能活几天？死亡时间计算器。我什么时候会死？](https://github.com/jaywcjlove/time-passage) 
