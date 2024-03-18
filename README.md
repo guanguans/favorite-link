@@ -18,6 +18,7 @@
 - [tempestphp/highlight: 用于HTML和终端的快速、可扩展的服务器端代码高亮显示](https://github.com/tempestphp/highlight) 
 - [smeghead/php-class-diagram: 解析PHP源目录并输出Plantuml类图脚本的CLI工具。](https://github.com/smeghead/php-class-diagram) 
 - [php-kchat/kchat: 基于PHP的实时聊天应用程序](https://github.com/php-kchat/kchat) 
+- [TheDragonCode/laravel-data-dumper: 在执行`php artisan scheme:dump`控制台命令时添加某些表中的数据](https://github.com/TheDragonCode/laravel-data-dumper) 
 ### March 15, 2024 
 - [onlime/laravel-http-client-global-logger: Laravel HTTP 客户端的全局日志记录器](https://github.com/onlime/laravel-http-client-global-logger) 
 - [jaywcjlove/time-passage: 生命周期计算器。我还能活多少天？我还能活几天？死亡时间计算器。我什么时候会死？](https://github.com/jaywcjlove/time-passage) 
