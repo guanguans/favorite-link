@@ -19,6 +19,7 @@
 - [ggwhite/go-masker: 为敏感信息创建掩码的简单实用程序](https://github.com/ggwhite/go-masker) 
 - [c6digital/laravel-orderable: Eloquent 模型的直接排序和可配置排序。](https://github.com/c6digital/laravel-orderable) 
 - [wire-elements/wire-extender: Wire Extender 允许您将任何 Livewire 组件嵌入到任何网站上，甚至嵌入到静态 HTML 文件中。](https://github.com/wire-elements/wire-extender) 
+- [lstrojny/fxmlrpc: 现代的，超快的XML/RPC客户端，用于PHP> = 5.6](https://github.com/lstrojny/fxmlrpc) 
 ### March 18, 2024 
 - [pew-pew-team/http-factory: 请求解码和响应编码工厂](https://github.com/pew-pew-team/http-factory) 
 - [tempestphp/highlight: 用于HTML和终端的快速、可扩展的服务器端代码高亮显示](https://github.com/tempestphp/highlight) 
