@@ -13,6 +13,9 @@
 
 
 
+
+### March 19, 2024 
+- [maltekuhr/laravel-gpt: Laravelgpt：将Openai的Chatgpt（GPT-3.5，GPT-4）的简化集成到Laravel应用程序中，以进行先进的AI驱动文本生成和分析。](https://github.com/maltekuhr/laravel-gpt) 
 ### March 18, 2024 
 - [pew-pew-team/http-factory: 请求解码和响应编码工厂](https://github.com/pew-pew-team/http-factory) 
 - [tempestphp/highlight: 用于HTML和终端的快速、可扩展的服务器端代码高亮显示](https://github.com/tempestphp/highlight) 
