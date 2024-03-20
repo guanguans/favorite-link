@@ -14,6 +14,9 @@
 
 
 
+
+### March 20, 2024 
+- [jordanbaird/Ice: 功能强大的macOS菜单栏管理器](https://github.com/jordanbaird/Ice) 
 ### March 19, 2024 
 - [maltekuhr/laravel-gpt: Laravelgpt：将Openai的Chatgpt（GPT-3.5，GPT-4）的简化集成到Laravel应用程序中，以进行先进的AI驱动文本生成和分析。](https://github.com/maltekuhr/laravel-gpt) 
 - [ggwhite/go-masker: 为敏感信息创建掩码的简单实用程序](https://github.com/ggwhite/go-masker) 
