@@ -19,6 +19,7 @@
 ### March 21, 2024 
 - [luzrain/phprunner: PHPRunner是一个用PHP编写的高性能PHP应用服务器和流程管理器。](https://github.com/luzrain/phprunner) 
 - [SiavashBamshadnia/Laravel-Query-Enrich: Laravel雄辩和查询生成器的强大助手](https://github.com/SiavashBamshadnia/Laravel-Query-Enrich) 
+- [ynqa/jnv: 使用 jq 的交互式 JSON 过滤器](https://github.com/ynqa/jnv) 
 ### March 20, 2024 
 - [jordanbaird/Ice: 功能强大的macOS菜单栏管理器](https://github.com/jordanbaird/Ice) 
 ### March 19, 2024 
