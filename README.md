@@ -25,6 +25,7 @@
 - [zeriyoshi/pskel: PHP扩展框架](https://github.com/zeriyoshi/pskel) 
 - [okwasniewski/MiniSim: MacOS菜单栏应用程序用于启动iOS和Android🤖模拟器](https://github.com/okwasniewski/MiniSim) 
 - [jacklandrin/OnlySwitch: ⚙️多合一菜单栏应用程序，隐藏💻MACBOOKPRO NOTCH，DALK MODE，AIRPODS，快捷方式](https://github.com/jacklandrin/OnlySwitch) 
+- [ZzzM/HostsX: 轻巧的MacOS应用程序，用于更新本地主机](https://github.com/ZzzM/HostsX) 
 ### March 21, 2024 
 - [luzrain/phprunner: PHPRunner是一个用PHP编写的高性能PHP应用服务器和流程管理器。](https://github.com/luzrain/phprunner) 
 - [SiavashBamshadnia/Laravel-Query-Enrich: Laravel雄辩和查询生成器的强大助手](https://github.com/SiavashBamshadnia/Laravel-Query-Enrich) 
