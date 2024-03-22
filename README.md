@@ -22,6 +22,7 @@
 - [lacodix/laravel-model-filter: 提供了一种简单的方法来通过数组参数和查询字符串过滤和搜索雄辩模型](https://github.com/lacodix/laravel-model-filter) 
 - [danielgtaylor/huma: 基于OpenAPI 3.1的Golang Huma REST/HTTP API框架](https://github.com/danielgtaylor/huma) 
 - [ddzobov/laravel-pivot-softdeletes: 使你的Eloquent模型枢轴能够在Laravel/Lumen中软删除](https://github.com/ddzobov/laravel-pivot-softdeletes) 
+- [zeriyoshi/pskel: PHP扩展框架](https://github.com/zeriyoshi/pskel) 
 ### March 21, 2024 
 - [luzrain/phprunner: PHPRunner是一个用PHP编写的高性能PHP应用服务器和流程管理器。](https://github.com/luzrain/phprunner) 
 - [SiavashBamshadnia/Laravel-Query-Enrich: Laravel雄辩和查询生成器的强大助手](https://github.com/SiavashBamshadnia/Laravel-Query-Enrich) 
