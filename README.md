@@ -20,6 +20,7 @@
 ### March 22, 2024 
 - [stefro/laravel-lang-country: 在大多数情况下，设置语言环境还不够，有些国家使用多种语言。此外，不同国家使用不同的日期符号格式。此包在这里为您提供帮助！](https://github.com/stefro/laravel-lang-country) 
 - [lacodix/laravel-model-filter: 提供了一种简单的方法来通过数组参数和查询字符串过滤和搜索雄辩模型](https://github.com/lacodix/laravel-model-filter) 
+- [danielgtaylor/huma: 基于OpenAPI 3.1的Golang Huma REST/HTTP API框架](https://github.com/danielgtaylor/huma) 
 ### March 21, 2024 
 - [luzrain/phprunner: PHPRunner是一个用PHP编写的高性能PHP应用服务器和流程管理器。](https://github.com/luzrain/phprunner) 
 - [SiavashBamshadnia/Laravel-Query-Enrich: Laravel雄辩和查询生成器的强大助手](https://github.com/SiavashBamshadnia/Laravel-Query-Enrich) 
