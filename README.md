@@ -26,6 +26,7 @@
 - [sebastianbergmann/foal: 用于查找OpCache的字节码优化器消除的行的工具](https://github.com/sebastianbergmann/foal) 
 - [wk8/go-ordered-map: Golang有序映射的最佳实现——即记住密钥插入顺序的映射。](https://github.com/wk8/go-ordered-map) 
 - [mnabialek/laravel-sql-logger: Laravel/Lumen框架的日志SQL查询](https://github.com/mnabialek/laravel-sql-logger) 
+- [MatanYadaev/laravel-eloquent-spatial: 此Laravel软件包使您可以轻松地使用空间数据类型和功能。](https://github.com/MatanYadaev/laravel-eloquent-spatial) 
 ### March 25, 2024 
 - [jolicode/automapper: 🚀非常快🚀php Automapper与飞行代码生成](https://github.com/jolicode/automapper) 
 - [kambo-1st/langchain-php: 在 PHP 中通过可组合性构建具有 LLM 的应用程序](https://github.com/kambo-1st/langchain-php) 
