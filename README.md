@@ -23,6 +23,7 @@
 ### March 27, 2024 
 - [zingimmick/laravel-scout-opensearch: Laravel Scout OpenSearch自定义引擎](https://github.com/zingimmick/laravel-scout-opensearch) 
 - [Y2Z/monolith: ⬛️ 用于将完整网页保存为单个HTML文件的CLI工具](https://github.com/Y2Z/monolith) 
+- [google/safeopen: 通过文件打开/创建不容易受到路径遍历攻击的golang的构建库。该库支持UNIX和Windows系统。](https://github.com/google/safeopen) 
 ### March 26, 2024 
 - [drevops/git-artifact: 一个工具，用于从代码库中组装代码工件，删除不必要的文件，并将其推送到一个单独的Git存储库中。](https://github.com/drevops/git-artifact) 
 - [yediyuz/laravel-cloudflare-cache: 使用此软件包，您可以满足数百万个请求。此包为Cloudflare提供可缓存的路由。多亏了Cloudflare，您的静态页面可以得到有效的服务，如果在TTL（生存时间）持续时间内缓存，则可以减少服务器上的负载。您可以随时使用此程序包清除缓存。](https://github.com/yediyuz/laravel-cloudflare-cache) 
