@@ -27,6 +27,7 @@
 - [litstack/litstack: 在Laravel中构建内容管理面板](https://github.com/litstack/litstack) 
 - [shipmonk-rnd/name-collision-detector: 快速简单的工具，可以在您的项目中查找类重复项。](https://github.com/shipmonk-rnd/name-collision-detector) 
 - [shipmonk-rnd/composer-dependency-analyser:  📦快速检测作曲家依赖性问题（未使用的依赖性，阴影依赖性，放错了位置依赖项）](https://github.com/shipmonk-rnd/composer-dependency-analyser) 
+- [charmbracelet/freeze: 生成代码和终端输出的图像](https://github.com/charmbracelet/freeze) 
 ### March 26, 2024 
 - [drevops/git-artifact: 一个工具，用于从代码库中组装代码工件，删除不必要的文件，并将其推送到一个单独的Git存储库中。](https://github.com/drevops/git-artifact) 
 - [yediyuz/laravel-cloudflare-cache: 使用此软件包，您可以满足数百万个请求。此包为Cloudflare提供可缓存的路由。多亏了Cloudflare，您的静态页面可以得到有效的服务，如果在TTL（生存时间）持续时间内缓存，则可以减少服务器上的负载。您可以随时使用此程序包清除缓存。](https://github.com/yediyuz/laravel-cloudflare-cache) 
