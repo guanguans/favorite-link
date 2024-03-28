@@ -24,6 +24,7 @@
 ### March 28, 2024 
 - [php-type-language/reflection-converter: 将 PHP 反射对象转换为类型语言 AST](https://github.com/php-type-language/reflection-converter) 
 - [InkTimeRecord/TTime: 🚀简洁，高效，良好的输入，屏幕截图和单词翻译软件](https://github.com/InkTimeRecord/TTime) 
+- [MrKai77/Loop: MacOS窗口管理变得优雅。](https://github.com/MrKai77/Loop) 
 ### March 27, 2024 
 - [zingimmick/laravel-scout-opensearch: Laravel Scout OpenSearch自定义引擎](https://github.com/zingimmick/laravel-scout-opensearch) 
 - [Y2Z/monolith: ⬛️ 用于将完整网页保存为单个HTML文件的CLI工具](https://github.com/Y2Z/monolith) 
