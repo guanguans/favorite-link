@@ -28,6 +28,7 @@
 - [Vexu/bog: 小型、强类型、可嵌入的语言。](https://github.com/Vexu/bog) 
 - [php-type-language/phpdoc: PHP类型语言文档块读取器](https://github.com/php-type-language/phpdoc) 
 - [TheDragonCode/github-notifications: 减轻您在Github上的通知负担！](https://github.com/TheDragonCode/github-notifications) 
+- [TheDragonCode/pretty-routes: Pretty routes for Laravel Framework](https://github.com/TheDragonCode/pretty-routes) 
 ### March 28, 2024 
 - [php-type-language/reflection-converter: 将 PHP 反射对象转换为类型语言 AST](https://github.com/php-type-language/reflection-converter) 
 - [InkTimeRecord/TTime: 🚀简洁，高效，良好的输入，屏幕截图和单词翻译软件](https://github.com/InkTimeRecord/TTime) 
