@@ -23,6 +23,9 @@
 
 
 
+
+### April 2, 2024 
+- [l1xnan/duckling: CSV/Parquet文件和数据库的快速查看器，例如DuckDB，Sqlite，PostgreSQL，MySQL，Clickhouse等，基于Tauri](https://github.com/l1xnan/duckling) 
 ### April 1, 2024 
 - [another-library/type-guard: TypeGuard是一个轻量级的PHP库，允许您将变量的类型缩小到更具体的类型。](https://github.com/another-library/type-guard) 
 - [lara-zeus/uranus: 自动将您的Laravel应用程序的@Laravel_nova、@Laravel Backpack或Voyager@devdojo转换为@filamephp，以获得时尚、现代的界面和无缝的功能。](https://github.com/lara-zeus/uranus) 
