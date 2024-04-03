@@ -28,6 +28,7 @@
 ### April 3, 2024 
 - [madewithlove/semver: Packagist的SemVer检查器](https://github.com/madewithlove/semver) 
 - [jaywcjlove/DevHub: 精心制作的功能丰富的离线应用程序，以支持开发人员的日常任务，同时确保其数据的最大安全性](https://github.com/jaywcjlove/DevHub) 
+- [unit-mesh/auto-dev: 支持多语言的人工智能编码向导🌐, 自动代码生成🏗️, 和一个有用的杀虫助手🐞! 可自定义提示🎨 以及神奇的自动开发/测试/文档/代理功能🧪 包括！🚀](https://github.com/unit-mesh/auto-dev) 
 ### April 2, 2024 
 - [l1xnan/duckling: CSV/Parquet文件和数据库的快速查看器，例如DuckDB，Sqlite，PostgreSQL，MySQL，Clickhouse等，基于Tauri](https://github.com/l1xnan/duckling) 
 ### April 1, 2024 
