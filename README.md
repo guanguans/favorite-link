@@ -27,6 +27,7 @@
 
 ### April 3, 2024 
 - [madewithlove/semver: Packagist的SemVer检查器](https://github.com/madewithlove/semver) 
+- [jaywcjlove/DevHub: 精心制作的功能丰富的离线应用程序，以支持开发人员的日常任务，同时确保其数据的最大安全性](https://github.com/jaywcjlove/DevHub) 
 ### April 2, 2024 
 - [l1xnan/duckling: CSV/Parquet文件和数据库的快速查看器，例如DuckDB，Sqlite，PostgreSQL，MySQL，Clickhouse等，基于Tauri](https://github.com/l1xnan/duckling) 
 ### April 1, 2024 
