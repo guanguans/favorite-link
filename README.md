@@ -29,6 +29,7 @@
 ### April 4, 2024 
 - [DirectoryTree/Bartender: 使用 Laravel Socialite 对用户进行身份验证的一种固执己见的方法。](https://github.com/DirectoryTree/Bartender) 
 - [ardillo-php/ext: 用于构建本地桌面应用程序的 PHP 扩展](https://github.com/ardillo-php/ext) 
+- [Garanaw/laravel-numeral: 此包将Number辅助对象与Str辅助对象内联。](https://github.com/Garanaw/laravel-numeral) 
 ### April 3, 2024 
 - [madewithlove/semver: Packagist的SemVer检查器](https://github.com/madewithlove/semver) 
 - [jaywcjlove/DevHub: 精心制作的功能丰富的离线应用程序，以支持开发人员的日常任务，同时确保其数据的最大安全性](https://github.com/jaywcjlove/DevHub) 
