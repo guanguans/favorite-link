@@ -31,6 +31,7 @@
 - [ts1/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/ts1/BLEUnlock) 
 - [JetBrains-Research/TestSpark: 用于生成单元测试的插件。 TestSpark 在 IDE 中原生集成了不同的基于 AI 的测试生成工具和技术。](https://github.com/JetBrains-Research/TestSpark) 
 - [actuallymentor/battery: 用于管理 M1 Mac 电池充电状态的 CLI](https://github.com/actuallymentor/battery) 
+- [jdavidbakr/laravel-cache-garbage-collector: 用于清除过期缓存文件的 artisan 命令](https://github.com/jdavidbakr/laravel-cache-garbage-collector) 
 ### April 4, 2024 
 - [DirectoryTree/Bartender: 使用 Laravel Socialite 对用户进行身份验证的一种固执己见的方法。](https://github.com/DirectoryTree/Bartender) 
 - [ardillo-php/ext: 用于构建本地桌面应用程序的 PHP 扩展](https://github.com/ardillo-php/ext) 
