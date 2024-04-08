@@ -35,6 +35,7 @@
 - [php-defer/php-defer: Golang 针对 PHP 的 defer 语句](https://github.com/php-defer/php-defer) 
 - [mostafaznv/pdf-optimizer: 适用于 PHP 和 Laravel 应用程序的 PDF 优化工具](https://github.com/mostafaznv/pdf-optimizer) 
 - [binafy/laravel-stub: 在 Laravel 框架中生成存根文件非常容易](https://github.com/binafy/laravel-stub) 
+- [leibnizli/hummingbird: 使用智能压缩技术来减少文件的大小，支持：jpg、png、webp、svg、gif、gif、css、js、html、mp4、mov，可以设置压缩的同时等比例缩放图片或视频的尺寸。](https://github.com/leibnizli/hummingbird) 
 ### April 7, 2024 
 - [ts1/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/ts1/BLEUnlock) 
 - [JetBrains-Research/TestSpark: 用于生成单元测试的插件。 TestSpark 在 IDE 中原生集成了不同的基于 AI 的测试生成工具和技术。](https://github.com/JetBrains-Research/TestSpark) 
