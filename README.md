@@ -31,6 +31,7 @@
 ### April 8, 2024 
 - [php-forge/foxy: 适用于 Composer 的快速、可靠且安全的 BUN/NPM/Yarn/PNpM 桥接器。](https://github.com/php-forge/foxy) 
 - [sanchescom/laravel-cache-memory: 使用共享内存功能的 Laravel 缓存驱动程序。](https://github.com/sanchescom/laravel-cache-memory) 
+- [salsify/jsonstreamingparser: PHP 中的 JSON 流解析器实现。](https://github.com/salsify/jsonstreamingparser) 
 ### April 7, 2024 
 - [ts1/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/ts1/BLEUnlock) 
 - [JetBrains-Research/TestSpark: 用于生成单元测试的插件。 TestSpark 在 IDE 中原生集成了不同的基于 AI 的测试生成工具和技术。](https://github.com/JetBrains-Research/TestSpark) 
