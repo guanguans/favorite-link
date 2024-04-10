@@ -102,12 +102,11 @@
         "cghooks": "@php ./vendor/bin/cghooks --ansi -v",
         "checks": [
             "@composer-normalize",
-            "@md-lint",
-            "@json-lint",
-            "@yaml-lint",
-            "@lint",
+            "@composer-validate",
             "@style-lint",
-            "@test"
+            "@test",
+            "@phpstan",
+            "@rector-dry-run"
         ],
         "composer-bin-all-update": "@composer bin all update --ansi -v",
         "composer-check-platform-reqs": "@composer check-platform-reqs --lock --ansi -v",
@@ -119,17 +118,17 @@
         "facade-update": "/opt/homebrew/opt/php@8.1/bin/php -f ./facade.php -- App\\\\Facades\\\\Music",
         "json-lint": "@php ./vendor/bin/jsonlint *.json .*rc",
         "lint": [
-            "for DIR in .; do find $DIR -maxdepth 1 -type f -name '*.php' -type f ! -name 'xxx.php' -exec /opt/homebrew/opt/php@8.0/bin/php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done",
-            "for DIR in ./benchmarks ./src ./tests; do find $DIR -type f -name '*.php' -type f ! -name 'xxx.php' -exec /opt/homebrew/opt/php@8.0/bin/php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done"
+            "for DIR in .; do find $DIR -maxdepth 1 -type f -name '*.php' -type f ! -name 'xxx.php' -exec php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done",
+            "for DIR in ./app ./bootstrap ./config ./tests; do find $DIR -type f -name '*.php' -type f ! -name 'xxx.php' -exec php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done"
         ],
         "md-fix": "@md-lint --fix",
         "md-lint": "lint-md --config .lintmdrc ./*.md ./.github/ ./docs/",
         "pest": "@php ./vendor/bin/pest --coverage",
-        "pest-coverage": "@pest --coverage-html=./build/phpunit/ --coverage-clover=./clover.xml",
+        "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",
         "pest-profile": "@pest --profile",
         "pest-type-coverage": "@pest --type-coverage",
-        "phpstan": "@php ./vendor/bin/phpstan analyse --xdebug --ansi -vv",
+        "phpstan": "@php ./vendor/bin/phpstan analyse --ansi -vv",
         "phpstan-baseline": "@phpstan --generate-baseline --allow-empty-baseline",
         "post-merge": [
             "@composer install"
@@ -150,8 +149,8 @@
         "test": "@pest",
         "test-coverage": "@pest-coverage",
         "test-migrate-configuration": "@pest-migrate-configuration",
-        "test-phpunit": "@php ./vendor/bin/phpunit --cache-result-file=./build/phpunit/.phpunit.result.cache --coverage-text --ansi -v",
-        "test-phpunit-coverage": "@test --coverage-html=./build/phpunit/ --coverage-clover=clover.xml",
+        "test-phpunit": "@php ./vendor/bin/phpunit --cache-result-file=./.build/phpunit/.phpunit.result.cache --coverage-text --ansi -v",
+        "test-phpunit-coverage": "@test --coverage-html=./.build/phpunit/ --coverage-clover=clover.xml",
         "test-type-coverage": "@pest-type-coverage",
         "text-fix": "npx textlint --fix ./*.md ./.github/*.md ./docs/**/*.md",
         "text-lint": "npx textlint --format=pretty-error ./*.md ./.github/*.md ./docs/**/*.md",

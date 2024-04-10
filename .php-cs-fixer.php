@@ -3,12 +3,12 @@
 declare(strict_types=1);
 
 /**
- * Copyright (c) 2021-2024 guanguans<ityaozm@gmail.com>
+ * Copyright (c) 2018-2024 guanguans<ityaozm@gmail.com>
  *
  * For the full copyright and license information, please view
  * the LICENSE file that was distributed with this source code.
  *
- * @see https://github.com/guanguans/package-skeleton
+ * @see https://github.com/guanguans/favorite-link
  */
 
 use Ergebnis\License;
@@ -18,16 +18,16 @@ use PhpCsFixer\Finder;
 $license = License\Type\MIT::text(
     __DIR__.'/LICENSE',
     License\Range::since(
-        License\Year::fromString('2021'),
+        License\Year::fromString('2018'),
         new DateTimeZone('Asia/Shanghai'),
     ),
     License\Holder::fromString('guanguans<ityaozm@gmail.com>'),
-    License\Url::fromString('https://github.com/guanguans/package-skeleton'),
+    License\Url::fromString('https://github.com/guanguans/favorite-link'),
 );
 
-$license->save();
+// $license->save();
 
-$ruleSet = Config\RuleSet\Php74::create()
+$ruleSet = Config\RuleSet\Php83::create()
     ->withHeader($license->header())
     ->withRules(Config\Rules::fromArray([
         '@PHP70Migration' => true,
@@ -37,17 +37,20 @@ $ruleSet = Config\RuleSet\Php74::create()
         '@PHP73Migration' => true,
         '@PHP74Migration' => true,
         '@PHP74Migration:risky' => true,
-        // '@PHP80Migration' => true,
-        // '@PHP80Migration:risky' => true,
-        // '@PHP81Migration' => true,
-        // '@PHP82Migration' => true,
-        // '@PHP83Migration' => true,
+        '@PHP80Migration' => true,
+        '@PHP80Migration:risky' => true,
+        '@PHP81Migration' => true,
+        '@PHP82Migration' => true,
+        '@PHP83Migration' => true,
         // '@PHPUnit75Migration:risky' => true,
         // '@PHPUnit84Migration:risky' => true,
         // '@PHPUnit100Migration:risky' => true,
         // '@DoctrineAnnotation' => true,
         // '@PhpCsFixer' => true,
         // '@PhpCsFixer:risky' => true,
+        'align_multiline_comment' => [
+            'comment_type' => 'phpdocs_only',
+        ],
         'blank_line_before_statement' => [
             'statements' => [
                 'break',
@@ -184,10 +187,9 @@ return Config\Factory::fromRuleSet($ruleSet)
         Finder::create()
             ->in(__DIR__)
             ->exclude([
-                '.build/',
                 '.chglog/',
                 '.github/',
-                'build/',
+                '.build/',
                 'docs/',
                 'vendor-bin/',
                 '__snapshots__/',
@@ -212,4 +214,4 @@ return Config\Factory::fromRuleSet($ruleSet)
     )
     ->setRiskyAllowed(true)
     ->setUsingCache(true)
-    ->setCacheFile(__DIR__.'/build/php-cs-fixer/.php-cs-fixer.cache');
+    ->setCacheFile(__DIR__.'/.build/php-cs-fixer/.php-cs-fixer.cache');

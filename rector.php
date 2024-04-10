@@ -3,12 +3,12 @@
 declare(strict_types=1);
 
 /**
- * Copyright (c) 2021-2024 guanguans<ityaozm@gmail.com>
+ * Copyright (c) 2018-2024 guanguans<ityaozm@gmail.com>
  *
  * For the full copyright and license information, please view
  * the LICENSE file that was distributed with this source code.
  *
- * @see https://github.com/guanguans/package-skeleton
+ * @see https://github.com/guanguans/favorite-link
  */
 
 use Ergebnis\Rector\Rules\Arrays\SortAssociativeArrayByKeyRector;
@@ -49,8 +49,8 @@ return static function (RectorConfig $rectorConfig): void {
     $rectorConfig->phpstanConfig(__DIR__.'/phpstan.neon');
     $rectorConfig->phpVersion(PhpVersion::PHP_74);
     // $rectorConfig->cacheClass(FileCacheStorage::class);
-    // $rectorConfig->cacheDirectory(__DIR__.'/build/rector');
-    // $rectorConfig->containerCacheDirectory(__DIR__.'/build/rector');
+    // $rectorConfig->cacheDirectory(__DIR__.'/.build/rector');
+    // $rectorConfig->containerCacheDirectory(__DIR__.'/.build/rector');
     // $rectorConfig->disableParallel();
     // $rectorConfig->fileExtensions(['php']);
     // $rectorConfig->indent(' ', 4);
