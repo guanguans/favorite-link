@@ -6,13 +6,13 @@ includes:
 #    - vendor/ekino/phpstan-banned-code/extension.neon
 
 parameters:
-    level: 5
+    level: 9
     paths:
-        - src
+        - app
     tmpDir: .build/phpstan
 #    checkOctaneCompatibility: true
 #    checkModelProperties: true
-    checkMissingIterableValueType: true
+#    checkMissingIterableValueType: true
 #    disallowFloatsEverywhere: true
 
 #    strictRules:
@@ -31,4 +31,3 @@ parameters:
 
     ignoreErrors:
         - "#^Unsafe usage of new static\\(\\)\\.$#"
-        - "#^Method Guanguans\\\\Notify\\\\Foundation\\\\.*Rector\\:\\:refactor\\(\\) should return 1\\|2\\|3\\|4\\|array\\<PhpParser\\\\Node\\>\\|PhpParser\\\\Node\\|null but empty return statement found\\.$#"
