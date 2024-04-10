@@ -58,7 +58,7 @@
 - [madewithlove/semver: Packagist 的 SemVer 检查器](https://github.com/madewithlove/semver) 
 - [jaywcjlove/DevHub: 精心制作的功能丰富的离线应用程序，以支持开发人员的日常任务，同时确保其数据的最大安全性](https://github.com/jaywcjlove/DevHub) 
 - [unit-mesh/auto-dev: 支持多语言的人工智能编码向导 🌐, 自动代码生成 🏗️, 和一个有用的杀虫助手 🐞! 可自定义提示 🎨 以及神奇的自动开发/测试/文档/代理功能 🧪 包括！🚀](https://github.com/unit-mesh/auto-dev) 
-- [lunarstorm/laravel-ddd: Laravel 应用中的域驱动设计（DDD）工具包。提供工匠命令来生成域模型，工厂，DTO，视图模型，价值对象和动作。](https://github.com/lunarstorm/laravel-ddd) 
+- [lunarstorm/laravel-ddd: Laravel 应用中的域驱动设计 (DDD) 工具包。提供工匠命令来生成域模型，工厂，DTO，视图模型，价值对象和动作。](https://github.com/lunarstorm/laravel-ddd) 
 ### April 2, 2024 
 - [l1xnan/duckling: CSV/Parquet 文件和数据库的快速查看器，例如 DuckDB，Sqlite，PostgreSQL，MySQL，Clickhouse 等，基于 Tauri](https://github.com/l1xnan/duckling) 
 ### April 1, 2024 
@@ -82,11 +82,11 @@
 - [google/safeopen: 通过文件打开/创建不容易受到路径遍历攻击的 golang 的构建库。该库支持 UNIX 和 Windows 系统。](https://github.com/google/safeopen) 
 - [litstack/litstack: 在 Laravel 中构建内容管理面板](https://github.com/litstack/litstack) 
 - [shipmonk-rnd/name-collision-detector: 快速简单的工具，可以在您的项目中查找类重复项。](https://github.com/shipmonk-rnd/name-collision-detector) 
-- [shipmonk-rnd/composer-dependency-analyser: 📦 快速检测作曲家依赖性问题（未使用的依赖性，阴影依赖性，放错了位置依赖项）](https://github.com/shipmonk-rnd/composer-dependency-analyser) 
+- [shipmonk-rnd/composer-dependency-analyser: 📦 快速检测作曲家依赖性问题 (未使用的依赖性，阴影依赖性，放错了位置依赖项)](https://github.com/shipmonk-rnd/composer-dependency-analyser) 
 - [charmbracelet/freeze: 生成代码和终端输出的图像](https://github.com/charmbracelet/freeze) 
 ### March 26, 2024 
 - [drevops/git-artifact: 一个工具，用于从代码库中组装代码工件，删除不必要的文件，并将其推送到一个单独的 Git 存储库中。](https://github.com/drevops/git-artifact) 
-- [yediyuz/laravel-cloudflare-cache: 使用此软件包，您可以满足数百万个请求。此包为 Cloudflare 提供可缓存的路由。多亏了 Cloudflare，您的静态页面可以得到有效的服务，如果在 TTL（生存时间）持续时间内缓存，则可以减少服务器上的负载。您可以随时使用此程序包清除缓存。](https://github.com/yediyuz/laravel-cloudflare-cache) 
+- [yediyuz/laravel-cloudflare-cache: 使用此软件包，您可以满足数百万个请求。此包为 Cloudflare 提供可缓存的路由。多亏了 Cloudflare，您的静态页面可以得到有效的服务，如果在 TTL (生存时间) 持续时间内缓存，则可以减少服务器上的负载。您可以随时使用此程序包清除缓存。](https://github.com/yediyuz/laravel-cloudflare-cache) 
 - [milanvarady/Applite: Homebrew Casks 的用户友好 GUI macOS 应用程序](https://github.com/milanvarady/Applite) 
 - [sebastianbergmann/foal: 用于查找 OpCache 的字节码优化器消除的行的工具](https://github.com/sebastianbergmann/foal) 
 - [wk8/go-ordered-map: Golang 有序映射的最佳实现——即记住密钥插入顺序的映射。](https://github.com/wk8/go-ordered-map) 
@@ -112,7 +112,7 @@
 ### March 20, 2024 
 - [jordanbaird/Ice: 功能强大的 macOS 菜单栏管理器](https://github.com/jordanbaird/Ice) 
 ### March 19, 2024 
-- [maltekuhr/laravel-gpt: Laravelgpt：将 Openai 的 Chatgpt（GPT-3.5，GPT-4）的简化集成到 Laravel 应用程序中，以进行先进的 AI 驱动文本生成和分析。](https://github.com/maltekuhr/laravel-gpt) 
+- [maltekuhr/laravel-gpt: Laravelgpt：将 Openai 的 Chatgpt (GPT-3.5，GPT-4) 的简化集成到 Laravel 应用程序中，以进行先进的 AI 驱动文本生成和分析。](https://github.com/maltekuhr/laravel-gpt) 
 - [ggwhite/go-masker: 为敏感信息创建掩码的简单实用程序](https://github.com/ggwhite/go-masker) 
 - [c6digital/laravel-orderable: Eloquent 模型的直接排序和可配置排序。](https://github.com/c6digital/laravel-orderable) 
 - [wire-elements/wire-extender: Wire Extender 允许您将任何 Livewire 组件嵌入到任何网站上，甚至嵌入到静态 HTML 文件中。](https://github.com/wire-elements/wire-extender) 
@@ -185,7 +185,7 @@
 - [weekend-project-space/top-rss-list: 订阅人数最多的 rss 源，中文优质 rss 源](https://github.com/weekend-project-space/top-rss-list) 
 - [alexandre-daubois/phikl: 🥒 Apple 的 PHP Pkl 桥](https://github.com/alexandre-daubois/phikl) 
 - [ryangjchandler/phpast.com: 一个用于探索 PHP-Parser 生成的 AST 的 Web 工具。](https://github.com/ryangjchandler/phpast.com) 
-- [sbmpost/AutoRaise: 当鼠标悬停在窗口上时自动升起（并聚焦）窗口](https://github.com/sbmpost/AutoRaise) 
+- [sbmpost/AutoRaise: 当鼠标悬停在窗口上时自动升起 (并聚焦) 窗口](https://github.com/sbmpost/AutoRaise) 
 ### February 21, 2024 
 - [021-projects/laravel-wallet: Laravel 可靠灵活的事务机制](https://github.com/021-projects/laravel-wallet) 
 - [NeutrinoAPI/neutrino-api-client-libcurl: 使用 libcURL 扩展的 PHP 客户端](https://github.com/NeutrinoAPI/neutrino-api-client-libcurl) 
@@ -223,7 +223,7 @@
 ### February 1, 2024 
 - [hirethunk/verbs: Verbs 是 PHP 工匠的事件源包](https://github.com/hirethunk/verbs) 
 ### January 31, 2024 
-- [JBZoo/CI-Report-Converter: 该工具转换不同的错误报告标准，以与流行的 CI 系统（TeamCity、IntelliJ IDEA、GitHub Actions 等）深度兼容。](https://github.com/JBZoo/CI-Report-Converter) 
+- [JBZoo/CI-Report-Converter: 该工具转换不同的错误报告标准，以与流行的 CI 系统 (TeamCity、IntelliJ IDEA、GitHub Actions 等) 深度兼容。](https://github.com/JBZoo/CI-Report-Converter) 
 ### January 30, 2024 
 - [likexian/whois-parser: 用于域名 whois 信息解析的 Go(Golang) 模块。](https://github.com/likexian/whois-parser) 
 - [zed-industries/zed: 以思想的速度编写代码 – Zed 是一款高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。](https://github.com/zed-industries/zed) 
@@ -248,7 +248,7 @@
 - [dbgate/dbgate: MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器。在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行](https://github.com/dbgate/dbgate) 
 - [php-collective/decimal-object: 小数作为值对象处理，而不是普通字符串或浮点数。](https://github.com/php-collective/decimal-object) 
 - [Log1x/acf-composer: 在 Sage 10 上使用 ACF Builder 编写 ACF 字段、块、小部件和选项页面。](https://github.com/Log1x/acf-composer) 
-- [balping / json-raw-encoder: 使用此软件包将数组编码为使用 RAW JS 对象（例如回调）的 JSON。](https://gitlab.com/balping/json-raw-encoder) 
+- [balping / json-raw-encoder: 使用此软件包将数组编码为使用 RAW JS 对象 (例如回调) 的 JSON。](https://gitlab.com/balping/json-raw-encoder) 
 ### January 23, 2024 
 - [TomasVotruba/unused-public: 查找代码中未使用的公共元素](https://github.com/TomasVotruba/unused-public) 
 - [TomasVotruba/cognitive-complexity: PHPStan 规则来衡量类和方法的认知复杂性](https://github.com/TomasVotruba/cognitive-complexity) 
@@ -260,7 +260,7 @@
 - [rize/UriTemplate: PHP URI 模板 (RFC 6570) 支持 URI 扩展和提取](https://github.com/rize/UriTemplate) 
 ### January 19, 2024 
 - [geowrgetudor/laravel-tiny-blog: 一个 Laravel 包，可为您的应用程序添加一个简单且可自定义的 Markdown 博客。](https://github.com/geowrgetudor/laravel-tiny-blog) 
-- [open-southeners/laravel-companion-apps: 使用配套应用程序（Android、Apple、PWA...）扩展您的 Laravel 应用程序](https://github.com/open-southeners/laravel-companion-apps) 
+- [open-southeners/laravel-companion-apps: 使用配套应用程序 (Android、Apple、PWA...) 扩展您的 Laravel 应用程序](https://github.com/open-southeners/laravel-companion-apps) 
 - [chocolatey/boxstarter: 使用 Chocolatey 软件包可轻松实现可重复、重新启动的弹性 Windows 环境安装](https://github.com/chocolatey/boxstarter) 
 - [Garanaw/seedable-migrations: Laravel 提供了带有种子的迁移系统。然而，播种系统不是很灵活。此包提供了一种更灵活的方法，使用链接到迁移的种子文件来为数据库播种。](https://github.com/Garanaw/seedable-migrations) 
 - [Everduin94/better-commits: 用于按照传统提交规范创建更好提交的 CLI](https://github.com/Everduin94/better-commits) 
@@ -291,7 +291,7 @@
 ### January 9, 2024 
 - [UdaraJay/Pile: 用于数字日记的桌面应用程序。](https://github.com/UdaraJay/Pile) 
 - [duna-oss/flystorage: 飞行存储；Node / TypeScript 的文件存储抽象](https://github.com/duna-oss/flystorage) 
-- [bpolaszek/bentools-etl: PHP ETL（提取/转换/加载）库具有 SOLID 原则 + 几乎没有依赖性。](https://github.com/bpolaszek/bentools-etl) 
+- [bpolaszek/bentools-etl: PHP ETL (提取/转换/加载) 库具有 SOLID 原则 + 几乎没有依赖性。](https://github.com/bpolaszek/bentools-etl) 
 - [maximal/taran: Web 应用程序和服务器基准测试工具。](https://github.com/maximal/taran) 
 - [typhoon-php/overloading: PHP 缺少方法重载功能。](https://github.com/typhoon-php/overloading) 
 - [php-collective/decimal-object: 小数作为值对象处理，而不是普通字符串或浮点数。](https://github.com/php-collective/decimal-object) 

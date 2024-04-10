@@ -122,7 +122,7 @@
             "for DIR in ./app ./bootstrap ./config ./tests; do find $DIR -type f -name '*.php' -type f ! -name 'xxx.php' -exec php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done"
         ],
         "md-fix": "@md-lint --fix",
-        "md-lint": "lint-md --config=.lintmdrc --threads ./*.md ./.github/**/* ./docs/**/*",
+        "md-lint": "lint-md 'README.md' --config=.lintmdrc --threads",
         "pest": "@php ./vendor/bin/pest --coverage",
         "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",
@@ -157,6 +157,6 @@
         "trufflehog": "trufflehog git https://github.com/guanguans/ai-commit --only-verified",
         "yaml-lint": "@php ./vendor/bin/yaml-lint .*.yml .github/ --ansi -v",
         "zh-fix": "@zh-lint --fix",
-        "zh-lint": "zhlint 'README.md'"
+        "zh-lint": "zhlint '*.md'"
     }
 }

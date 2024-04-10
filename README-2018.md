@@ -366,7 +366,7 @@
 - [功能强大且易于使用的 PHP 微框架，旨在帮助您快速构建动态，强大的 Web 应用程序！](https://github.com/bcosca/fatfree)
 - [此 PHP 类使用 FastCGI 协议处理与 FastCGI (FCGI) 应用程序的通信。](https://github.com/adoy/PHP-FastCGI-Client)
 - [用于处理二进制和十六进制数据的工具箱。与 NodeJS Buffer 类似。](https://github.com/Bit-Wasp/buffertools-php)
-- [将 Laravel，LaraDock [Laravel + Docker]和 PHPStorm 连接在一起。](https://github.com/LarryEitel/laravel-laradock-phpstorm)
+- [将 Laravel，LaraDock [Laravel + Docker] 和 PHPStorm 连接在一起。](https://github.com/LarryEitel/laravel-laradock-phpstorm)
 - [由微信开发的高效，小型移动键值存储框架。适用于 iOS，macOS 和 Android。](https://github.com/Tencent/MMKV)
 - [跨平台异步 I / O http://libuv.org/。](https://github.com/libuv/libuv)
 - [用 electron 生成的 Shadowsocksr 客户端。](https://github.com/erguotou520/electron-ssr)

@@ -1,8 +1,8 @@
 {
     "preset": "default",
     "rules": {
-        "halfwidthPunctuation": "",
         "fullwidthPunctuation": "",
-        "adjustedFullwidthPunctuation": ""
+        "adjustedFullwidthPunctuation": "",
+        "noSinglePair": false
     }
 }
