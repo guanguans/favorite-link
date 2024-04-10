@@ -33,6 +33,7 @@
 ### April 10, 2024 
 - [lubusIN/laravel-decomposer: ⚙️ 一个Laravel包，用于分解您安装的包、它们的依赖关系、您的应用程序和服务器环境](https://github.com/lubusIN/laravel-decomposer) 
 - [gvcgo/version-manager: 多个SDK的通用版本经理，例如Java，GO，Node.js，Deno，Bun，.net，.net，Python，Python，Python，Pypy，Php，Rust，Kotlin，Kotlin，Scala，Groovy，Groovy，Flutter，Julia，Julia，Julia，Zig，v，v，v，Typst，Android SDK。一个比VFOX，FNM，GVM等更好的选择。](https://github.com/gvcgo/version-manager) 
+- [lihaoyun6/AirBattery: 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!](https://github.com/lihaoyun6/AirBattery) 
 ### April 9, 2024 
 - [face-hh/griddycode: 用Godot制作的代码编辑。代码从未如此点亮！](https://github.com/face-hh/griddycode) 
 - [jarun/advcpmv: 一个 GNU核心工具组 cp 和 mv 的补丁，可以添加进度条](https://github.com/jarun/advcpmv) 
