@@ -157,6 +157,6 @@
         "trufflehog": "trufflehog git https://github.com/guanguans/ai-commit --only-verified",
         "yaml-lint": "@php ./vendor/bin/yaml-lint .*.yml .github/ --ansi -v",
         "zh-fix": "@zh-lint --fix",
-        "zh-lint": "zhlint {./,docs/,docs/**/}*-zh_CN.md"
+        "zh-lint": "zhlint 'README.md'"
     }
 }

@@ -2,7 +2,7 @@
 
 收集喜欢的网址
 
-[:heart: RSS 订阅](https://rsshub.app/github/file/guanguans/favorite-link/master/README.md) | <img src="https://kz.sync163.com/static/img/logo.f071e0ef.png" width="20" style="width: 20px;height: 20px;border-radius: 5px;"> [快知 app 主题订阅](https://kz.sync163.com/web/topic/vqNzr2P81R6Yk?uid=zVQMRKgkGRP0A)
+[: heart: RSS 订阅](https://rsshub.app/github/file/guanguans/favorite-link/master/README.md) | <img src="https://kz.sync163.com/static/img/logo.f071e0ef.png" width="20" style="width: 20px;height: 20px;border-radius: 5px;">[快知 app 主题订阅](https://kz.sync163.com/web/topic/vqNzr2P81R6Yk?uid=zVQMRKgkGRP0A)
 
 [![Build Status](https://travis-ci.org/guanguans/favorite-link.svg?branch=master)](https://travis-ci.org/guanguans/favorite-link)
 
@@ -32,7 +32,7 @@
 
 ### April 10, 2024 
 - [lubusIN/laravel-decomposer: ⚙️ 一个 Laravel 包，用于分解您安装的包、它们的依赖关系、您的应用程序和服务器环境](https://github.com/lubusIN/laravel-decomposer) 
-- [gvcgo/version-manager: 多个 SDK 的通用版本经理，例如 Java，GO，Node.js，Deno，Bun，.net，.net，Python，Python，Python，Pypy，Php，Rust，Kotlin，Kotlin，Scala，Groovy，Groovy，Flutter，Julia，Julia，Julia，Zig，v，v，v，Typst，Android SDK。一个比 VFOX，FNM，GVM 等更好的选择。](https://github.com/gvcgo/version-manager) 
+- [gvcgo/version-manager: 多个 SDK 的通用版本经理，例如 Java，GO，Node.js，Deno，Bun，. net，. net，Python，Python，Python，Pypy，Php，Rust，Kotlin，Kotlin，Scala，Groovy，Groovy，Flutter，Julia，Julia，Julia，Zig，v，v，v，Typst，Android SDK。一个比 VFOX，FNM，GVM 等更好的选择。](https://github.com/gvcgo/version-manager) 
 - [lihaoyun6/AirBattery: 在 Mac 上获取你所有设备的电量信息并显示在 Dock / 状态栏 / 小组件上!](https://github.com/lihaoyun6/AirBattery) 
 ### April 9, 2024 
 - [face-hh/griddycode: 用 Godot 制作的代码编辑。代码从未如此点亮！](https://github.com/face-hh/griddycode) 
@@ -47,7 +47,7 @@
 - [leibnizli/hummingbird: 使用智能压缩技术来减少文件的大小，支持：jpg、png、webp、svg、gif、gif、css、js、html、mp4、mov，可以设置压缩的同时等比例缩放图片或视频的尺寸。](https://github.com/leibnizli/hummingbird) 
 ### April 7, 2024 
 - [ts1/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/ts1/BLEUnlock) 
-- [JetBrains-Research/TestSpark: 用于生成单元测试的插件。 TestSpark 在 IDE 中原生集成了不同的基于 AI 的测试生成工具和技术。](https://github.com/JetBrains-Research/TestSpark) 
+- [JetBrains-Research/TestSpark: 用于生成单元测试的插件。TestSpark 在 IDE 中原生集成了不同的基于 AI 的测试生成工具和技术。](https://github.com/JetBrains-Research/TestSpark) 
 - [actuallymentor/battery: 用于管理 M1 Mac 电池充电状态的 CLI](https://github.com/actuallymentor/battery) 
 - [jdavidbakr/laravel-cache-garbage-collector: 用于清除过期缓存文件的 artisan 命令](https://github.com/jdavidbakr/laravel-cache-garbage-collector) 
 ### April 4, 2024 
@@ -57,7 +57,7 @@
 ### April 3, 2024 
 - [madewithlove/semver: Packagist 的 SemVer 检查器](https://github.com/madewithlove/semver) 
 - [jaywcjlove/DevHub: 精心制作的功能丰富的离线应用程序，以支持开发人员的日常任务，同时确保其数据的最大安全性](https://github.com/jaywcjlove/DevHub) 
-- [unit-mesh/auto-dev: 支持多语言的人工智能编码向导🌐, 自动代码生成🏗️, 和一个有用的杀虫助手🐞! 可自定义提示🎨 以及神奇的自动开发/测试/文档/代理功能🧪 包括！🚀](https://github.com/unit-mesh/auto-dev) 
+- [unit-mesh/auto-dev: 支持多语言的人工智能编码向导 🌐, 自动代码生成 🏗️, 和一个有用的杀虫助手 🐞! 可自定义提示 🎨 以及神奇的自动开发/测试/文档/代理功能 🧪 包括！🚀](https://github.com/unit-mesh/auto-dev) 
 - [lunarstorm/laravel-ddd: Laravel 应用中的域驱动设计（DDD）工具包。提供工匠命令来生成域模型，工厂，DTO，视图模型，价值对象和动作。](https://github.com/lunarstorm/laravel-ddd) 
 ### April 2, 2024 
 - [l1xnan/duckling: CSV/Parquet 文件和数据库的快速查看器，例如 DuckDB，Sqlite，PostgreSQL，MySQL，Clickhouse 等，基于 Tauri](https://github.com/l1xnan/duckling) 
@@ -74,7 +74,7 @@
 - [TheDragonCode/pretty-routes: Pretty routes for Laravel Framework](https://github.com/TheDragonCode/pretty-routes) 
 ### March 28, 2024 
 - [php-type-language/reflection-converter: 将 PHP 反射对象转换为类型语言 AST](https://github.com/php-type-language/reflection-converter) 
-- [InkTimeRecord/TTime: 🚀简洁，高效，良好的输入，屏幕截图和单词翻译软件](https://github.com/InkTimeRecord/TTime) 
+- [InkTimeRecord/TTime: 🚀 简洁，高效，良好的输入，屏幕截图和单词翻译软件](https://github.com/InkTimeRecord/TTime) 
 - [MrKai77/Loop: MacOS 窗口管理变得优雅。](https://github.com/MrKai77/Loop) 
 ### March 27, 2024 
 - [zingimmick/laravel-scout-opensearch: Laravel Scout OpenSearch 自定义引擎](https://github.com/zingimmick/laravel-scout-opensearch) 
@@ -82,7 +82,7 @@
 - [google/safeopen: 通过文件打开/创建不容易受到路径遍历攻击的 golang 的构建库。该库支持 UNIX 和 Windows 系统。](https://github.com/google/safeopen) 
 - [litstack/litstack: 在 Laravel 中构建内容管理面板](https://github.com/litstack/litstack) 
 - [shipmonk-rnd/name-collision-detector: 快速简单的工具，可以在您的项目中查找类重复项。](https://github.com/shipmonk-rnd/name-collision-detector) 
-- [shipmonk-rnd/composer-dependency-analyser:  📦快速检测作曲家依赖性问题（未使用的依赖性，阴影依赖性，放错了位置依赖项）](https://github.com/shipmonk-rnd/composer-dependency-analyser) 
+- [shipmonk-rnd/composer-dependency-analyser: 📦 快速检测作曲家依赖性问题（未使用的依赖性，阴影依赖性，放错了位置依赖项）](https://github.com/shipmonk-rnd/composer-dependency-analyser) 
 - [charmbracelet/freeze: 生成代码和终端输出的图像](https://github.com/charmbracelet/freeze) 
 ### March 26, 2024 
 - [drevops/git-artifact: 一个工具，用于从代码库中组装代码工件，删除不必要的文件，并将其推送到一个单独的 Git 存储库中。](https://github.com/drevops/git-artifact) 
@@ -93,7 +93,7 @@
 - [mnabialek/laravel-sql-logger: Laravel/Lumen 框架的日志 SQL 查询](https://github.com/mnabialek/laravel-sql-logger) 
 - [MatanYadaev/laravel-eloquent-spatial: 此 Laravel 软件包使您可以轻松地使用空间数据类型和功能。](https://github.com/MatanYadaev/laravel-eloquent-spatial) 
 ### March 25, 2024 
-- [jolicode/automapper: 🚀非常快🚀php Automapper 与飞行代码生成](https://github.com/jolicode/automapper) 
+- [jolicode/automapper: 🚀 非常快 🚀php Automapper 与飞行代码生成](https://github.com/jolicode/automapper) 
 - [kambo-1st/langchain-php: 在 PHP 中通过可组合性构建具有 LLM 的应用程序](https://github.com/kambo-1st/langchain-php) 
 ### March 22, 2024 
 - [stefro/laravel-lang-country: 在大多数情况下，设置语言环境还不够，有些国家使用多种语言。此外，不同国家使用不同的日期符号格式。此包在这里为您提供帮助！](https://github.com/stefro/laravel-lang-country) 
@@ -101,8 +101,8 @@
 - [danielgtaylor/huma: 基于 OpenAPI 3.1 的 Golang Huma REST/HTTP API 框架](https://github.com/danielgtaylor/huma) 
 - [ddzobov/laravel-pivot-softdeletes: 使你的 Eloquent 模型枢轴能够在 Laravel/Lumen 中软删除](https://github.com/ddzobov/laravel-pivot-softdeletes) 
 - [zeriyoshi/pskel: PHP 扩展框架](https://github.com/zeriyoshi/pskel) 
-- [okwasniewski/MiniSim: MacOS 菜单栏应用程序用于启动 iOS和 Android🤖模拟器](https://github.com/okwasniewski/MiniSim) 
-- [jacklandrin/OnlySwitch: ⚙️多合一菜单栏应用程序，隐藏💻MACBOOKPRO NOTCH，DALK MODE，AIRPODS，快捷方式](https://github.com/jacklandrin/OnlySwitch) 
+- [okwasniewski/MiniSim: MacOS 菜单栏应用程序用于启动 iOS 和 Android🤖 模拟器](https://github.com/okwasniewski/MiniSim) 
+- [jacklandrin/OnlySwitch: ⚙️ 多合一菜单栏应用程序，隐藏 💻MACBOOKPRO NOTCH，DALK MODE，AIRPODS，快捷方式](https://github.com/jacklandrin/OnlySwitch) 
 - [ZzzM/HostsX: 轻巧的 MacOS 应用程序，用于更新本地主机](https://github.com/ZzzM/HostsX) 
 - [ZzzM/CalendarX: 一个用于显示日历和时间的轻巧 MACOS 应用](https://github.com/ZzzM/CalendarX) 
 ### March 21, 2024 
@@ -122,13 +122,13 @@
 - [tempestphp/highlight: 用于 HTML 和终端的快速、可扩展的服务器端代码高亮显示](https://github.com/tempestphp/highlight) 
 - [smeghead/php-class-diagram: 解析 PHP 源目录并输出 Plantuml 类图脚本的 CLI 工具。](https://github.com/smeghead/php-class-diagram) 
 - [php-kchat/kchat: 基于 PHP 的实时聊天应用程序](https://github.com/php-kchat/kchat) 
-- [TheDragonCode/laravel-data-dumper: 在执行`php artisan scheme:dump`控制台命令时添加某些表中的数据](https://github.com/TheDragonCode/laravel-data-dumper) 
+- [TheDragonCode/laravel-data-dumper: 在执行 `php artisan scheme:dump` 控制台命令时添加某些表中的数据](https://github.com/TheDragonCode/laravel-data-dumper) 
 ### March 15, 2024 
 - [onlime/laravel-http-client-global-logger: Laravel HTTP 客户端的全局日志记录器](https://github.com/onlime/laravel-http-client-global-logger) 
 - [jaywcjlove/time-passage: 生命周期计算器。我还能活多少天？我还能活几天？死亡时间计算器。我什么时候会死？](https://github.com/jaywcjlove/time-passage) 
 ### March 14, 2024 
 - [saade/filament-laravel-log: 从 Filament 管理面板读取 Laravel 日志](https://github.com/saade/filament-laravel-log) 
-- [ovac/idoc: 📒📚从您现有的 Laravel 应用程序中加生美丽的交互式文档和 Open-API 3.0 Spec 文件。](https://github.com/ovac/idoc) 
+- [ovac/idoc: 📒📚 从您现有的 Laravel 应用程序中加生美丽的交互式文档和 Open-API 3.0 Spec 文件。](https://github.com/ovac/idoc) 
 ### March 13, 2024 
 - [laravel/reverb: Laravel Reverb 为 Laravel 应用程序提供了实时的 Websocket 后端。](https://github.com/laravel/reverb) 
 - [typhoon-php/typhoon: PHP 的最终类型系统和反射](https://github.com/typhoon-php/typhoon) 
@@ -154,7 +154,7 @@
 - [cli/go-gh: 用于从命令行与 gh 和 GitHub API 交互的 Go 模块。](https://github.com/cli/go-gh) 
 ### March 5, 2024 
 - [mario-deluna/php-chip8: 另一个 CHIP-8 模拟器，但使用 PHP！](https://github.com/mario-deluna/php-chip8) 
-- [trzsz/trzsz-ssh: trzsz-ssh ( tssh ) 是 ssh 客户端的替代品，提供额外有用的功能，例如登录提示、trzsz ( trz / tsz )、批量登录、记住密码、zmodem ( rz / sz ) 等](https://github.com/trzsz/trzsz-ssh) 
+- [trzsz/trzsz-ssh: trzsz-ssh (tssh) 是 ssh 客户端的替代品，提供额外有用的功能，例如登录提示、trzsz (trz / tsz)、批量登录、记住密码、zmodem (rz / sz) 等](https://github.com/trzsz/trzsz-ssh) 
 ### March 4, 2024 
 - [gkd-kit/gkd: 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP](https://github.com/gkd-kit/gkd) 
 - [JonPurvis/lawman: 🤠 一个 PestPHP 插件，可帮助进行架构测试 SaloonPHP 集成](https://github.com/JonPurvis/lawman) 
@@ -177,7 +177,7 @@
 ### February 26, 2024 
 - [ComplexHeart/php-domain-model: 领域模型工具集，用于正确构建值对象、实体、聚合和服务。](https://github.com/ComplexHeart/php-domain-model) 
 - [google-gemini-php/client: ⚡️ Gemini PHP 是一个社区维护的 PHP API 客户端，可让您与 Gemini AI API 进行交互。](https://github.com/google-gemini-php/client) 
-- [laracord/laracord: 借助 Laravel 的强大功能创建优雅的 Discord 机器人。 🤖](https://github.com/laracord/laracord) 
+- [laracord/laracord: 借助 Laravel 的强大功能创建优雅的 Discord 机器人。🤖](https://github.com/laracord/laracord) 
 ### February 23, 2024 
 - [orsinium-labs/enum: 为 Go 键入安全枚举，无需生成代码或反射](https://github.com/orsinium-labs/enum) 
 ### February 22, 2024 
@@ -225,7 +225,7 @@
 ### January 31, 2024 
 - [JBZoo/CI-Report-Converter: 该工具转换不同的错误报告标准，以与流行的 CI 系统（TeamCity、IntelliJ IDEA、GitHub Actions 等）深度兼容。](https://github.com/JBZoo/CI-Report-Converter) 
 ### January 30, 2024 
-- [likexian/whois-parser: 用于域名 whois 信息解析的 Go(Golang)模块。](https://github.com/likexian/whois-parser) 
+- [likexian/whois-parser: 用于域名 whois 信息解析的 Go(Golang) 模块。](https://github.com/likexian/whois-parser) 
 - [zed-industries/zed: 以思想的速度编写代码 – Zed 是一款高性能、多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。](https://github.com/zed-industries/zed) 
 - [AuroraWebSoftware/ASetting: ASetting 是一个 Laravel 包，允许您动态定义配置定义。](https://github.com/AuroraWebSoftware/ASetting) 
 - [icanhazstring/systemctl-php: Systemctl 的 PHP 包装器](https://github.com/icanhazstring/systemctl-php) 
@@ -243,7 +243,7 @@
 ### January 25, 2024 
 - [serversideup/spin: 🚀 使用 Docker 在本地复制您的生产环境。只需运行“旋转”即可。真的就是这么简单。](https://github.com/serversideup/spin) 
 ### January 24, 2024 
-- [phplrt/language-server: [实验]语言服务器](https://github.com/phplrt/language-server) 
+- [phplrt/language-server: [实验] 语言服务器](https://github.com/phplrt/language-server) 
 - [HelgeSverre/mindwave: [WIP] 🧠 用于将 AI 功能构建到 Laravel 应用程序中的工具包。](https://github.com/HelgeSverre/mindwave) 
 - [dbgate/dbgate: MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器。在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行](https://github.com/dbgate/dbgate) 
 - [php-collective/decimal-object: 小数作为值对象处理，而不是普通字符串或浮点数。](https://github.com/php-collective/decimal-object) 
@@ -272,7 +272,7 @@
 - [shipmonk-rnd/phpstan-rules: 我们发现各种额外严格的 PHPStan 规则在 ShipMonk 中非常有用。](https://github.com/shipmonk-rnd/phpstan-rules) 
 - [rogervila/array-diff-multidimensional: PHP 中递归比较两个多维数组的差异](https://github.com/rogervila/array-diff-multidimensional) 
 - [simonhamp/the-og: 纯 PHP OpenGraph 图像生成器](https://github.com/simonhamp/the-og) 
-- [chelnak/gh-changelog: 一个 gh cli 扩展，可以让你的变更日志✨](https://github.com/chelnak/gh-changelog) 
+- [chelnak/gh-changelog: 一个 gh cli 扩展，可以让你的变更日志 ✨](https://github.com/chelnak/gh-changelog) 
 ### January 16, 2024 
 - [devster/ubench: Micro PHP 基准库](https://github.com/devster/ubench) 
 ### January 15, 2024 
@@ -280,7 +280,7 @@
 - [Bearer/gon: 对以任何语言编写的 macOS CLI 工具和应用程序进行签名、公证和打包。可作为 CLI 和 Go 库使用。](https://github.com/Bearer/gon) 
 - [gofri/go-github-ratelimit: 处理 GitHub API 二级速率限制的 GoLang HTTP RoundTripper](https://github.com/gofri/go-github-ratelimit) 
 - [souplette-php/chicot: 从 PHP Reflection API 生成扩展模块的 IDE 存根](https://github.com/souplette-php/chicot) 
-- [这是您下一个使用 Filament 的 TALL 堆栈项目的美好起点。 ⚡](https://github.com/Log1x/filament-starter) 
+- [这是您下一个使用 Filament 的 TALL 堆栈项目的美好起点。⚡](https://github.com/Log1x/filament-starter) 
 ### January 11, 2024 
 - [serversideup/financial-freedom: 🔥🔥🔥 Mint、YNAB 等的开源替代品。控制预算并积累财富，而不牺牲您的隐私。](https://github.com/serversideup/financial-freedom) 
 - [Rareloop/router: 受 Laravel API 启发的强大的 PSR7 消息 PHP 路由器。](https://github.com/Rareloop/router) 
@@ -290,7 +290,7 @@
 - [willphp/yiyu: 是一个轻量级 php 开发框架](https://github.com/willphp/yiyu) 
 ### January 9, 2024 
 - [UdaraJay/Pile: 用于数字日记的桌面应用程序。](https://github.com/UdaraJay/Pile) 
-- [duna-oss/flystorage: 飞行存储； Node / TypeScript 的文件存储抽象](https://github.com/duna-oss/flystorage) 
+- [duna-oss/flystorage: 飞行存储；Node / TypeScript 的文件存储抽象](https://github.com/duna-oss/flystorage) 
 - [bpolaszek/bentools-etl: PHP ETL（提取/转换/加载）库具有 SOLID 原则 + 几乎没有依赖性。](https://github.com/bpolaszek/bentools-etl) 
 - [maximal/taran: Web 应用程序和服务器基准测试工具。](https://github.com/maximal/taran) 
 - [typhoon-php/overloading: PHP 缺少方法重载功能。](https://github.com/typhoon-php/overloading) 
