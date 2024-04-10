@@ -38,7 +38,7 @@ $status = (new SingleCommandApplication)
     ->addOption('except-dependency-versions', null, InputOption::VALUE_IS_ARRAY | InputOption::VALUE_OPTIONAL)
     ->addOption('dry-run', null, InputOption::VALUE_NONE)
     ->setCode(function (InputInterface $input, OutputInterface $output): void {
-        assert_options(\ASSERT_BAIL, 1);
+        // assert_options(\ASSERT_BAIL, 1);
         \assert($this instanceof SingleCommandApplication);
         \assert((bool) $input->getOption('highest-php-binary'));
 
@@ -73,7 +73,7 @@ $status = (new SingleCommandApplication)
                 ?SymfonyStyle $symfonyStyle = null,
                 ?Differ $differ = null
             ) {
-                assert_options(\ASSERT_BAIL, 1);
+                // assert_options(\ASSERT_BAIL, 1);
                 \assert((bool) $composerJsonPath);
 
                 $this->composerJsonContents = file_get_contents($composerJsonPath);

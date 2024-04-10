@@ -51,6 +51,7 @@ return [
 
     'add' => [
         // ..
+        Illuminate\Foundation\Console\VendorPublishCommand::class,
     ],
 
     /*
@@ -71,7 +72,7 @@ return [
         Illuminate\Console\Scheduling\ScheduleRunCommand::class,
         Illuminate\Console\Scheduling\ScheduleListCommand::class,
         Illuminate\Console\Scheduling\ScheduleFinishCommand::class,
-        Illuminate\Foundation\Console\VendorPublishCommand::class,
+        // Illuminate\Foundation\Console\VendorPublishCommand::class,
         LaravelZero\Framework\Commands\StubPublishCommand::class,
     ],
 
