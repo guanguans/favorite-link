@@ -122,7 +122,7 @@
             "for DIR in ./app ./bootstrap ./config ./tests; do find $DIR -type f -name '*.php' -type f ! -name 'xxx.php' -exec php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done"
         ],
         "md-fix": "@md-lint --fix",
-        "md-lint": "lint-md --config .lintmdrc ./*.md ./.github/ ./docs/",
+        "md-lint": "lint-md --config=.lintmdrc --threads ./*.md ./.github/**/* ./docs/**/*",
         "pest": "@php ./vendor/bin/pest --coverage",
         "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",

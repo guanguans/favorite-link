@@ -1,8 +1,12 @@
 {
     "excludeFiles": [
-        "src/",
+        ".build/",
+        "app/",
+        "bootstrap/",
+        "config/",
         "tests/",
-        "vendor/"
+        "vendor/",
+        "vendor-bin/"
     ],
     "rules": {
         "space-around-alphabet": 2,
