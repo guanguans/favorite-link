@@ -1,7 +1,6 @@
 # favorite-link
 
-> [!NOTE]
-> ❤️ Collect favorite open source repositories every day. - ❤️ 每天收集喜欢的开源项目。
+> ❤️ Collect favorite open source repositories every day. - 每天收集喜欢的开源项目。
 
 [![lint markdown](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml)
 
