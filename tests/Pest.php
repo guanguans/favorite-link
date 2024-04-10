@@ -1,5 +1,9 @@
 <?php
 
+/** @noinspection StaticClosureCanBeUsedInspection */
+/** @noinspection AnonymousFunctionStaticInspection */
+/** @noinspection PhpUnhandledExceptionInspection */
+
 declare(strict_types=1);
 
 /**
@@ -11,8 +15,18 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-uses(Tests\TestCase::class)->in('Feature');
+use Pest\Expectation;
 
+uses(Tests\TestCase::class)
+    ->beforeAll(function (): void {})
+    ->beforeEach(function (): void {})
+    ->afterEach(function (): void {})
+    ->afterAll(function (): void {})
+    ->in(
+        __DIR__,
+        // __DIR__.'/Feature',
+        // __DIR__.'/Unit'
+    );
 /*
 |--------------------------------------------------------------------------
 | Expectations
@@ -24,7 +38,15 @@ uses(Tests\TestCase::class)->in('Feature');
 |
 */
 
-expect()->extend('toBeOne', fn () => $this->toBe(1));
+expect()->extend('toBetween', fn (int $min, int $max): Expectation => expect($this->value)
+    ->toBeGreaterThanOrEqual($min)
+    ->toBeLessThanOrEqual($max));
+
+expect()->extend('assertCallback', function (Closure $assertions): Expectation {
+    $assertions($this->value);
+
+    return $this;
+});
 
 /*
 |--------------------------------------------------------------------------
@@ -37,7 +59,17 @@ expect()->extend('toBeOne', fn () => $this->toBe(1));
 |
 */
 
-function something(): void
+/**
+ * @throws ReflectionException
+ */
+function class_namespace(object|string $class): string
 {
-    // ..
+    $class = \is_object($class) ? $class::class : $class;
+
+    return (new ReflectionClass($class))->getNamespaceName();
+}
+
+function fixtures_path(string $path = ''): string
+{
+    return __DIR__.'/Fixtures'.($path ? \DIRECTORY_SEPARATOR.$path : $path);
 }

@@ -23,6 +23,7 @@
     },
     "require": {
         "php": "^8.3",
+        "fakerphp/faker": "^1.23",
         "laravel-zero/framework": "^10.3",
         "nunomaduro/termwind": "^1.15 || ^2.0"
     },
@@ -117,7 +118,7 @@
         "composer-updater-dry-run": "@composer-updater --dry-run",
         "composer-validate": "@composer validate --check-lock --strict --ansi -v",
         "facade-lint": "@facade-update --lint",
-        "facade-update": "/opt/homebrew/opt/php@8.1/bin/php -f ./facade.php -- App\\\\Facades\\\\Music",
+        "facade-update": "/opt/homebrew/opt/php@8.3/bin/php -f ./facade.php -- App\\\\Facades\\\\Music",
         "json-lint": "@php ./vendor/bin/jsonlint *.json .*rc",
         "lint": [
             "for DIR in .; do find $DIR -maxdepth 1 -type f -name '*.php' -type f ! -name 'xxx.php' -exec php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done",
@@ -125,7 +126,7 @@
         ],
         "md-fix": "@md-lint --fix",
         "md-lint": "lint-md 'README.md' --config=.lintmdrc --threads",
-        "pest": "@php ./vendor/bin/pest --coverage",
+        "pest": "@php ./vendor/bin/pest --coverage --profile",
         "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./.build/phpunit/clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",
         "pest-profile": "@pest --profile",
@@ -152,7 +153,7 @@
         "test-coverage": "@pest-coverage",
         "test-migrate-configuration": "@pest-migrate-configuration",
         "test-phpunit": "@php ./vendor/bin/phpunit --cache-result-file=./.build/phpunit/.phpunit.result.cache --coverage-text --ansi -v",
-        "test-phpunit-coverage": "@test --coverage-html=./.build/phpunit/ --coverage-clover=clover.xml",
+        "test-phpunit-coverage": "@test --coverage-html=./.build/phpunit/ --coverage-clover=./.build/phpunit/clover.xml",
         "test-type-coverage": "@pest-type-coverage",
         "text-fix": "npx textlint --fix ./*.md ./.github/*.md ./docs/**/*.md",
         "text-lint": "npx textlint --format=pretty-error ./*.md ./.github/*.md ./docs/**/*.md",

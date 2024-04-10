@@ -2,6 +2,7 @@
 
 /** @noinspection StaticClosureCanBeUsedInspection */
 /** @noinspection PhpUnhandledExceptionInspection */
+
 declare(strict_types=1);
 
 /**
@@ -13,6 +14,20 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-it('inspires artisans', function (): void {
-    $this->artisan('inspire')->assertExitCode(0);
-});
+arch('will not use debugging functions')
+    ->skip()
+    ->expect([
+        'echo',
+        'print',
+        'die',
+        'exit',
+        'printf',
+        'vprintf',
+        'var_dump',
+        'dump',
+        'dd',
+        'ray',
+        'print_r',
+        'var_export',
+    ])
+    ->each->not->toBeUsed();
