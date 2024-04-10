@@ -1,0 +1,19 @@
+name: lint markdown
+
+on: [ push, pull_request ]
+
+jobs:
+  lint-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set node version
+        uses: actions/setup-node@v4
+
+      - name: Install lint-md
+        run: npm install -g @lint-md/cli
+
+      - name: Lint markdown
+        run: lint-md --config .lintmdrc ./*.md ./.github/ ./docs/

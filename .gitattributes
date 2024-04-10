@@ -1,6 +1,21 @@
-* text=auto eol=lf
-/.github export-ignore
-.scrutinizer.yml export-ignore
-BACKERS.md export-ignore
-CONTRIBUTING.md export-ignore
-CHANGELOG.md export-ignore
+# Path-based git attributes
+# https://www.kernel.org/pub/software/scm/git/docs/gitattributes.html
+
+# Ignore all test and documentation with "export-ignore".
+/.github                 export-ignore
+/art                     export-ignore
+/docs                    export-ignore
+/.editorconfig           export-ignore
+/.gitattributes          export-ignore
+/.gitignore              export-ignore
+/.lintmdrc               export-ignore
+/.phplint.yml            export-ignore
+/CHANGELOG.md            export-ignore
+/composer.json           export-ignore
+/composer.lock           export-ignore
+/LICENSE                 export-ignore
+/phpbench.json           export-ignore
+/phpunit.xml.dist        export-ignore
+/psalm.xml.dist          export-ignore
+/README.md               export-ignore
+/README-zh_CN.md         export-ignore

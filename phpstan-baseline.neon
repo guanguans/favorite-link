@@ -1,0 +1,16 @@
+parameters:
+	ignoreErrors:
+		-
+			message: "#^Class Guanguans\\\\PackageSkeleton\\\\PackageSkeleton is neither abstract nor final\\.$#"
+			count: 1
+			path: src/PackageSkeleton.php
+
+		-
+			message: "#^PHPDoc tag @return with type int is incompatible with native type bool\\.$#"
+			count: 1
+			path: src/PackageSkeleton.php
+
+		-
+			message: "#^Class Guanguans\\\\PackageSkeleton\\\\UpdateHelper is neither abstract nor final\\.$#"
+			count: 1
+			path: src/UpdateHelper.php

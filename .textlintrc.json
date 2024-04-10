@@ -1,0 +1,12 @@
+{
+    "plugins": {},
+    "filters": {},
+    "rules": {
+        "no-todo": true,
+        "zh-half-and-full-width-bracket": true,
+        "no-dead-link": {
+            "ignoreRedirects": true,
+            "checkRelative": false
+        }
+    }
+}

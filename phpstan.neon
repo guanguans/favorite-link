@@ -1,0 +1,34 @@
+includes:
+    - phpstan-baseline.neon
+#    - vendor/roave/no-floaters/rules.neon
+#    - vendor/phpstan/phpstan-strict-rules/rules.neon
+#    - vendor/ergebnis/phpstan-rules/rules.neon
+#    - vendor/ekino/phpstan-banned-code/extension.neon
+
+parameters:
+    level: 5
+    paths:
+        - src
+    tmpDir: build/phpstan
+#    checkOctaneCompatibility: true
+#    checkModelProperties: true
+    checkMissingIterableValueType: true
+#    disallowFloatsEverywhere: true
+
+#    strictRules:
+#        allRules: false
+#        booleansInConditions: false
+#        uselessCast: false
+#        requireParentConstructorCall: false
+#        disallowedConstructs: false
+#        overwriteVariablesWithLoop: false
+#        closureUsesThis: false
+#        matchingInheritedMethodNames: false
+#        numericOperandsInArithmeticOperators: false
+#        strictCalls: false
+#        switchConditionsMatchingType: false
+#        noVariableVariables: false
+
+    ignoreErrors:
+        - "#^Unsafe usage of new static\\(\\)\\.$#"
+        - "#^Method Guanguans\\\\Notify\\\\Foundation\\\\.*Rector\\:\\:refactor\\(\\) should return 1\\|2\\|3\\|4\\|array\\<PhpParser\\\\Node\\>\\|PhpParser\\\\Node\\|null but empty return statement found\\.$#"

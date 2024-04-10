@@ -1,30 +1,46 @@
 {
     "name": "laravel-zero/laravel-zero",
     "description": "The Laravel Zero Framework.",
-    "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
-    "homepage": "https://laravel-zero.com",
-    "type": "project",
     "license": "MIT",
-    "support": {
-        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
-        "source": "https://github.com/laravel-zero/laravel-zero"
-    },
+    "type": "project",
+    "keywords": [
+        "framework",
+        "laravel",
+        "laravel zero",
+        "console",
+        "cli"
+    ],
     "authors": [
         {
             "name": "Nuno Maduro",
             "email": "enunomaduro@gmail.com"
         }
     ],
+    "homepage": "https://laravel-zero.com",
+    "support": {
+        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
+        "source": "https://github.com/laravel-zero/laravel-zero"
+    },
     "require": {
-        "php": "^8.1",
-        "laravel-zero/framework": "^10.2",
-        "nunomaduro/termwind": "^1.15.1"
+        "php": "^8.3",
+        "laravel-zero/framework": "^10.3",
+        "nunomaduro/termwind": "^1.15 || ^2.0"
     },
     "require-dev": {
-        "laravel/pint": "^1.13",
+        "bamarni/composer-bin-plugin": "^1.8",
+        "ergebnis/composer-normalize": "^2.42",
+        "ergebnis/license": "^2.4",
+        "ergebnis/php-cs-fixer-config": "dev-main",
+        "guanguans/ai-commit": "dev-main",
         "mockery/mockery": "^1.6",
-        "pestphp/pest": "^2.22"
+        "pestphp/pest": "^2.34",
+        "phpstan/extension-installer": "^1.3",
+        "phpstan/phpstan": "^1.10",
+        "rector/rector": "^1.0",
+        "roave/security-advisories": "dev-latest"
     },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "App\\": "app/",
@@ -37,15 +53,111 @@
             "Tests\\": "tests/"
         }
     },
+    "bin": [
+        "favorite-link"
+    ],
     "config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "optimize-autoloader": true,
         "allow-plugins": {
-            "pestphp/pest-plugin": true
+            "bamarni/composer-bin-plugin": true,
+            "ergebnis/composer-normalize": true,
+            "pestphp/pest-plugin": true,
+            "phpstan/extension-installer": true
+        },
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "bamarni-bin": {
+            "bin-links": true,
+            "forward-command": true,
+            "target-directory": "vendor-bin"
+        },
+        "composer-normalize": {
+            "indent-size": 4,
+            "indent-style": "space"
+        },
+        "hooks": {
+            "post-merge": [
+                "composer checks"
+            ],
+            "pre-commit": [
+                "composer checks"
+            ]
         }
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true,
-    "bin": ["favorite-link"]
+    "scripts": {
+        "post-install-cmd": [
+            "@cghooks add --ignore-lock",
+            "@cghooks update",
+            "@composer-bin-all-update"
+        ],
+        "post-update-cmd": [
+            "@cghooks update",
+            "@composer-bin-all-update"
+        ],
+        "post-autoload-dump": [],
+        "ai-commit": "@php ./vendor/bin/ai-commit commit --generator=bito_cli --ansi",
+        "ai-commit-no-verify": "@ai-commit --commit-options=--no-verify",
+        "cghooks": "@php ./vendor/bin/cghooks --ansi -v",
+        "checks": [
+            "@composer-normalize",
+            "@md-lint",
+            "@json-lint",
+            "@yaml-lint",
+            "@lint",
+            "@style-lint",
+            "@test"
+        ],
+        "composer-bin-all-update": "@composer bin all update --ansi -v",
+        "composer-check-platform-reqs": "@composer check-platform-reqs --lock --ansi -v",
+        "composer-normalize": "@composer normalize --dry-run --diff --ansi -v",
+        "composer-updater": "@php ./composer-updater --highest-php-binary=/opt/homebrew/opt/php@8.3/bin/php --except-packages=pestphp/pest-plugin-laravel --ansi",
+        "composer-updater-dry-run": "@composer-updater --dry-run",
+        "composer-validate": "@composer validate --check-lock --strict --ansi -v",
+        "facade-lint": "@facade-update --lint",
+        "facade-update": "/opt/homebrew/opt/php@8.1/bin/php -f ./facade.php -- App\\\\Facades\\\\Music",
+        "json-lint": "@php ./vendor/bin/jsonlint *.json .*rc",
+        "lint": [
+            "for DIR in .; do find $DIR -maxdepth 1 -type f -name '*.php' -type f ! -name 'xxx.php' -exec /opt/homebrew/opt/php@8.0/bin/php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done",
+            "for DIR in ./benchmarks ./src ./tests; do find $DIR -type f -name '*.php' -type f ! -name 'xxx.php' -exec /opt/homebrew/opt/php@8.0/bin/php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done"
+        ],
+        "md-fix": "@md-lint --fix",
+        "md-lint": "lint-md --config .lintmdrc ./*.md ./.github/ ./docs/",
+        "pest": "@php ./vendor/bin/pest --coverage",
+        "pest-coverage": "@pest --coverage-html=./build/phpunit/ --coverage-clover=./clover.xml",
+        "pest-migrate-configuration": "@pest --migrate-configuration",
+        "pest-profile": "@pest --profile",
+        "pest-type-coverage": "@pest --type-coverage",
+        "phpstan": "@php ./vendor/bin/phpstan analyse --xdebug --ansi -vv",
+        "phpstan-baseline": "@phpstan --generate-baseline --allow-empty-baseline",
+        "post-merge": [
+            "@composer install"
+        ],
+        "psalm": "@php ./vendor/bin/psalm",
+        "psalm-baseline": "@psalm --update-baseline",
+        "rector": "@php ./vendor/bin/rector --ansi -v",
+        "rector-dry-run": "@rector --dry-run",
+        "release": "@php ./vendor/bin/monorepo-builder release --ansi -v",
+        "release-major": "@release major",
+        "release-major-dry-run": "@release-major --dry-run",
+        "release-minor": "@release minor",
+        "release-minor-dry-run": "@release-minor --dry-run",
+        "release-patch": "@release patch",
+        "release-patch-dry-run": "@release-patch --dry-run",
+        "style-fix": "@php ./vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.php --show-progress=dots --diff --ansi -v",
+        "style-lint": "@style-fix --dry-run",
+        "test": "@pest",
+        "test-coverage": "@pest-coverage",
+        "test-migrate-configuration": "@pest-migrate-configuration",
+        "test-phpunit": "@php ./vendor/bin/phpunit --cache-result-file=./build/phpunit/.phpunit.result.cache --coverage-text --ansi -v",
+        "test-phpunit-coverage": "@test --coverage-html=./build/phpunit/ --coverage-clover=clover.xml",
+        "test-type-coverage": "@pest-type-coverage",
+        "text-fix": "npx textlint --fix ./*.md ./.github/*.md ./docs/**/*.md",
+        "text-lint": "npx textlint --format=pretty-error ./*.md ./.github/*.md ./docs/**/*.md",
+        "trufflehog": "trufflehog git https://github.com/guanguans/ai-commit --only-verified",
+        "yaml-lint": "@php ./vendor/bin/yaml-lint .*.yml .github/ --ansi -v",
+        "zh-fix": "@zh-lint --fix",
+        "zh-lint": "zhlint {./,docs/,docs/**/}*-zh_CN.md"
+    }
 }
