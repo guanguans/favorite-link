@@ -155,10 +155,11 @@ $ruleSet = Config\RuleSet\Php83::create()
             'scalar_types' => true,
             'union_types' => true,
         ],
-        'phpdoc_to_property_type' => [
-            'scalar_types' => true,
-            'union_types' => true,
-        ],
+        // 'phpdoc_to_property_type' => [
+        //     'scalar_types' => true,
+        //     'union_types' => true,
+        // ],
+        'phpdoc_to_property_type' => false,
         'phpdoc_to_return_type' => [
             'scalar_types' => true,
             'union_types' => true,

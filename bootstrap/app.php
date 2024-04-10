@@ -1,18 +1,18 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-|
-| The first thing we will do is create a new Laravel application instance
-| which serves as the "glue" for all the components of Laravel, and is
-| the IoC container for the system binding all of the various parts.
-|
-*/
+declare(strict_types=1);
+
+/**
+ * Copyright (c) 2018-2024 guanguans<ityaozm@gmail.com>
+ *
+ * For the full copyright and license information, please view
+ * the LICENSE file that was distributed with this source code.
+ *
+ * @see https://github.com/guanguans/favorite-link
+ */
 
 $app = new LaravelZero\Framework\Application(
-    dirname(__DIR__)
+    \dirname(__DIR__)
 );
 
 /*
