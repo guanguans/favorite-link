@@ -11,8 +11,7 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-use Ergebnis\Rector\Rules\Arrays\SortAssociativeArrayByKeyRector;
-use Rector\CodeQuality\Rector\FuncCall\CompactToVariablesRector;
+use Rector\Caching\ValueObject\Storage\FileCacheStorage;
 use Rector\CodeQuality\Rector\If_\ExplicitBoolCompareRector;
 use Rector\CodeQuality\Rector\LogicalAnd\LogicalToBooleanRector;
 use Rector\CodingStyle\Rector\Closure\StaticClosureRector;
@@ -20,11 +19,11 @@ use Rector\CodingStyle\Rector\Encapsed\EncapsedStringsToSprintfRector;
 use Rector\CodingStyle\Rector\Encapsed\WrapEncapsedVariableInCurlyBracesRector;
 use Rector\CodingStyle\Rector\Stmt\NewlineAfterStatementRector;
 use Rector\Config\RectorConfig;
+use Rector\DeadCode\Rector\ClassMethod\RemoveEmptyClassMethodRector;
 use Rector\DeadCode\Rector\ClassMethod\RemoveUselessReturnTagRector;
 use Rector\DowngradePhp80\Rector\FuncCall\DowngradeArrayFilterNullableCallbackRector;
 use Rector\EarlyReturn\Rector\If_\ChangeAndIfToEarlyReturnRector;
 use Rector\EarlyReturn\Rector\Return_\ReturnBinaryOrToEarlyReturnRector;
-use Rector\Naming\Rector\ClassMethod\RenameParamToMatchTypeRector;
 use Rector\Php73\Rector\String_\SensitiveHereNowDocRector;
 use Rector\PHPUnit\CodeQuality\Rector\Class_\AddSeeTestAnnotationRector;
 use Rector\PHPUnit\Set\PHPUnitSetList;
@@ -47,7 +46,7 @@ return static function (RectorConfig $rectorConfig): void {
     $rectorConfig->parallel(240);
     // $rectorConfig->disableParallel();
     $rectorConfig->phpstanConfig(__DIR__.'/phpstan.neon');
-    $rectorConfig->phpVersion(PhpVersion::PHP_74);
+    $rectorConfig->phpVersion(PhpVersion::PHP_83);
     // $rectorConfig->cacheClass(FileCacheStorage::class);
     // $rectorConfig->cacheDirectory(__DIR__.'/.build/rector');
     // $rectorConfig->containerCacheDirectory(__DIR__.'/.build/rector');
@@ -55,9 +54,7 @@ return static function (RectorConfig $rectorConfig): void {
     // $rectorConfig->fileExtensions(['php']);
     // $rectorConfig->indent(' ', 4);
     // $rectorConfig->memoryLimit('2G');
-    // $rectorConfig->nestedChainMethodCallLimit(3);
     // $rectorConfig->noDiffs();
-    // $rectorConfig->parameters()->set(Option::APPLY_AUTO_IMPORT_NAMES_ON_CHANGED_FILES_ONLY, true);
     // $rectorConfig->removeUnusedImports();
 
     $rectorConfig->bootstrapFiles([
@@ -69,7 +66,7 @@ return static function (RectorConfig $rectorConfig): void {
     ]);
 
     $rectorConfig->paths([
-        __DIR__.'/src',
+        __DIR__.'/app',
         __DIR__.'/tests',
         __DIR__.'/.*.php',
         __DIR__.'/*.php',
@@ -88,30 +85,12 @@ return static function (RectorConfig $rectorConfig): void {
         ReturnBinaryOrToEarlyReturnRector::class,
         SensitiveHereNowDocRector::class,
         WrapEncapsedVariableInCurlyBracesRector::class,
-        CompactToVariablesRector::class => [
-            __DIR__.'/src/Foundation/Support/Utils.php',
-        ],
-        RemoveTraitUseRector::class => [
-            __DIR__.'/src/Foundation/Message.php',
-        ],
-        RenameParamToMatchTypeRector::class => [
-            __DIR__.'/src/Foundation/Authenticators/AggregateAuthenticator.php',
-            __DIR__.'/src/Foundation/Exceptions/RequestException.php',
+        RemoveEmptyClassMethodRector::class => [
+            __DIR__.'/app/Providers/AppServiceProvider.php',
         ],
         StaticClosureRector::class => [
             __DIR__.'/tests',
         ],
-        StringToClassConstantRector::class => [
-            __DIR__.'/src/Foundation/Rfc',
-            __DIR__.'/src/*/Messages/*.php',
-            __DIR__.'/tests',
-            __DIR__.'/src/Foundation/Support/Utils.php',
-            __DIR__.'/src/Foundation/Response.php',
-        ],
-        // SortAssociativeArrayByKeyRector::class => [
-        //     __DIR__.'/src',
-        //     __DIR__.'/tests',
-        // ],
 
         // paths
         __DIR__.'/tests.php',
@@ -132,8 +111,8 @@ return static function (RectorConfig $rectorConfig): void {
     ]);
 
     $rectorConfig->sets([
-        DowngradeLevelSetList::DOWN_TO_PHP_74,
-        LevelSetList::UP_TO_PHP_74,
+        // DowngradeLevelSetList::DOWN_TO_PHP_83,
+        LevelSetList::UP_TO_PHP_83,
         SetList::CODE_QUALITY,
         SetList::CODING_STYLE,
         SetList::DEAD_CODE,
@@ -145,7 +124,7 @@ return static function (RectorConfig $rectorConfig): void {
         SetList::EARLY_RETURN,
         SetList::INSTANCEOF,
 
-        PHPUnitSetList::PHPUNIT_90,
+        PHPUnitSetList::PHPUNIT_100,
         PHPUnitSetList::PHPUNIT_CODE_QUALITY,
         PHPUnitSetList::ANNOTATIONS_TO_ATTRIBUTES,
     ]);

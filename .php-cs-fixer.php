@@ -92,7 +92,7 @@ $ruleSet = Config\RuleSet\Php83::create()
         //     'style' => 'for',
         // ],
         'explicit_string_variable' => false,
-        'final_class' => false,
+        // 'final_class' => false,
         // 'final_internal_class' => false,
         // 'final_public_method_for_abstract_class' => false,
         'logical_operators' => false,
@@ -198,7 +198,7 @@ return Config\Factory::fromRuleSet($ruleSet)
             ->append(glob(__DIR__.'/{*,.*}.php', \GLOB_BRACE))
             ->append([
                 __DIR__.'/composer-updater',
-                __DIR__.'/platform-lint',
+                __DIR__.'/favorite-link',
             ])
             ->notPath([
                 'bootstrap/*',

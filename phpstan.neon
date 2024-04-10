@@ -30,4 +30,4 @@ parameters:
 #        noVariableVariables: false
 
     ignoreErrors:
-        - "#^Unsafe usage of new static\\(\\)\\.$#"
+#        - "#^Unsafe usage of new static\\(\\)\\.$#"

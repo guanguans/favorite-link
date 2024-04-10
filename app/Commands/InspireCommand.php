@@ -17,7 +17,7 @@ use Illuminate\Console\Scheduling\Schedule;
 use LaravelZero\Framework\Commands\Command;
 use function Termwind\{render};
 
-class InspireCommand extends Command
+final class InspireCommand extends Command
 {
     /**
      * The signature of the command.
@@ -51,6 +51,7 @@ class InspireCommand extends Command
     /**
      * Define the command's schedule.
      */
+    #[\Override()]
     public function schedule(Schedule $schedule): void
     {
         // $schedule->command(static::class)->everyMinute();

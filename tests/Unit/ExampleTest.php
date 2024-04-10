@@ -11,6 +11,6 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-test('example', function (): void {
+it('example', function (): void {
     expect(true)->toBeTrue();
 });
