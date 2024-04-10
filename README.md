@@ -1,4 +1,4 @@
-# favorite-link
+# favorite-link([rss/feed](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom))
 
 > ❤️ Collect favorite open source repositories every day. - 每天收集喜欢的开源项目。
 
