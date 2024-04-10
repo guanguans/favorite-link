@@ -11,7 +11,7 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-namespace App\Console\Commands;
+namespace App\Commands;
 
 use GrahamCampbell\GitHub\Facades\GitHub;
 use Illuminate\Support\Collection;
@@ -33,7 +33,7 @@ final class FeedCommand extends Command
 
     public function handle(): void
     {
-        $items = str(File::get($this->argument('path')))
+        str(File::get($this->option('from')))
             ->after($flag = '### ')
             ->prepend($flag)
             ->explode(\PHP_EOL)
@@ -49,7 +49,7 @@ final class FeedCommand extends Command
                     }
 
                     $carry[] = [
-                        'date' => Date::createFromTimestamp(strtotime((string) $date))->format('Y-m-d'),
+                        'date' => Date::createFromTimestamp(strtotime((string) $date)),
                         'description' => (string) $line->match('/\[.*\]/')->trim('[]'),
                         'url' => (string) $line->match('/\(.*\)/')->trim('()'),
                     ];
@@ -70,12 +70,12 @@ final class FeedCommand extends Command
                     $feed->setFeedLink('https://github.com/guanguans/favorite-link/links.atom', 'atom');
                 }
 
-                $items->take(3)->each(static function (array $item) use ($feed): void {
+                $items->each(static function (array $item) use ($feed): void {
                     $entry = $feed->createEntry();
                     $entry->setTitle($item['description']);
                     $entry->setLink($item['url']);
-                    $entry->setDateCreated(time());
-                    // $entry->setDateModified(time());
+                    $entry->setDateCreated($item['date']);
+                    $entry->setDateModified($item['date']);
 
                     $feed->addEntry($entry);
                 });
@@ -86,10 +86,11 @@ final class FeedCommand extends Command
                 return str($feed->export('atom'));
             })
             ->whenNotEmpty(static function (Stringable $feed): void {
-                File::put(base_path('links.atom'), $feed->toString());
+                File::put(base_path('README.atom'), $feed->toString());
             });
     }
 
+    #[\Override()]
     protected function rules(): array
     {
         return [

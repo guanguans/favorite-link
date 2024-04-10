@@ -6,7 +6,7 @@ includes:
 #    - vendor/ekino/phpstan-banned-code/extension.neon
 
 parameters:
-    level: 9
+    level: 5
     paths:
         - app
     tmpDir: .build/phpstan

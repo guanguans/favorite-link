@@ -26,8 +26,10 @@
         "cerbero/command-validator": "^2.5",
         "fakerphp/faker": "^1.23",
         "graham-campbell/github": "^12.6",
+        "illuminate/validation": "^10.48",
         "laminas/laminas-feed": "^2.22",
         "laravel-zero/framework": "^10.3",
+        "laravel/prompts": "^0.1.18",
         "nunomaduro/termwind": "^1.15 || ^2.0"
     },
     "require-dev": {
@@ -37,6 +39,7 @@
         "ergebnis/php-cs-fixer-config": "dev-main",
         "guanguans/ai-commit": "dev-main",
         "mockery/mockery": "^1.6",
+        "nunomaduro/collision": "^7.10",
         "pestphp/pest": "^2.34",
         "phpstan/extension-installer": "^1.3",
         "phpstan/phpstan": "^1.10",

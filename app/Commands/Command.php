@@ -11,7 +11,7 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-namespace App\Console\Commands;
+namespace App\Commands;
 
 use Cerbero\CommandValidator\ValidatesInput;
 use Symfony\Component\Console\Exception\InvalidArgumentException;
@@ -27,6 +27,7 @@ abstract class Command extends \Illuminate\Console\Command
      *
      * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
      */
+    #[\Override()]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         if ($this->validator()->fails()) {
