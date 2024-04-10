@@ -1,34 +1,9 @@
-# favorite link
+# favorite-link
 
-收集喜欢的网址
+> [!NOTE]
+> ❤️ Collect favorite open source repositories every day. - ❤️ 每天收集喜欢的开源项目。
 
-[: heart: RSS 订阅](https://rsshub.app/github/file/guanguans/favorite-link/master/README.md) | <img src="https://kz.sync163.com/static/img/logo.f071e0ef.png" width="20" style="width: 20px;height: 20px;border-radius: 5px;">[快知 app 主题订阅](https://kz.sync163.com/web/topic/vqNzr2P81R6Yk?uid=zVQMRKgkGRP0A)
-
-[![Build Status](https://travis-ci.org/guanguans/favorite-link.svg?branch=master)](https://travis-ci.org/guanguans/favorite-link)
-
-## License
-[GNU General Public License v3.0](LICENSE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![lint markdown](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml)
 
 ### April 10, 2024 
 - [lubusIN/laravel-decomposer: ⚙️ 一个 Laravel 包，用于分解您安装的包、它们的依赖关系、您的应用程序和服务器环境](https://github.com/lubusIN/laravel-decomposer) 
