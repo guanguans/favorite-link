@@ -14,6 +14,6 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-it('example', function (): void {
-    expect(true)->toBeTrue();
-});
+it('can get a movie', function (string $movie): void {
+    expect($movie)->toBeString();
+})->group(__DIR__, __FILE__)->with('movies')->skip();

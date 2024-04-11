@@ -2,6 +2,7 @@
 
 /** @noinspection StaticClosureCanBeUsedInspection */
 /** @noinspection PhpUnhandledExceptionInspection */
+
 declare(strict_types=1);
 
 /**
@@ -15,6 +16,6 @@ declare(strict_types=1);
 
 use App\Commands\InspireCommand;
 
-it('can get inspiration', function (): void {
+it('can dump inspiration', function (): void {
     $this->artisan(InspireCommand::class)->assertOk();
 })->group(__DIR__, __FILE__);
