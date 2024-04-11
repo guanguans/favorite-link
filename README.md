@@ -9,6 +9,7 @@
 - [Intervention/gif: 原生 PHP GIF 编码器/解码器](https://github.com/Intervention/gif) 
 - [drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。](https://github.com/drawdb-io/drawdb) 
 - [phpcolor/phpcolor: PHP 颜色操作库](https://github.com/phpcolor/phpcolor) 
+- [zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。](https://github.com/zhuima/awesome-cloudflare) 
 ### April 10, 2024 
 - [lubusIN/laravel-decomposer: ⚙️ 一个 Laravel 包，用于分解您安装的包、它们的依赖关系、您的应用程序和服务器环境](https://github.com/lubusIN/laravel-decomposer) 
 - [gvcgo/version-manager: 多个 SDK 的通用版本经理，例如 Java，GO，Node.js，Deno，Bun，. net，. net，Python，Python，Python，Pypy，Php，Rust，Kotlin，Kotlin，Scala，Groovy，Groovy，Flutter，Julia，Julia，Julia，Zig，v，v，v，Typst，Android SDK。一个比 VFOX，FNM，GVM 等更好的选择。](https://github.com/gvcgo/version-manager) 
