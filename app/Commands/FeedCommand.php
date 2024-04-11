@@ -54,7 +54,10 @@ final class FeedCommand extends Command
                         'date' => Date::createFromTimestamp(strtotime((string) $date)),
                         'title' => $title = (string) $line->match('/\[.*\]/')->trim('[]'),
                         'link' => $link = (string) $line->match('/\(.*\)/')->trim('()'),
-                        'content' => "<a href=\"$link\" target=\"_blank\">$title</a>",
+                        'content' => <<<HTML
+                            <a href="$link" target="_blank">$title</a>
+                            <a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a>
+                            HTML,
                     ]);
                 },
                 collect()

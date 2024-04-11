@@ -15,13 +15,16 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
+use Illuminate\Support\Facades\Process;
 use Pest\Expectation;
 
 uses(Tests\TestCase::class)
     ->beforeAll(function (): void {})
     ->beforeEach(function (): void {})
     ->afterEach(function (): void {})
-    ->afterAll(function (): void {})
+    ->afterAll(function (): void {
+        Process::run('git checkout -- README.atom README.rss');
+    })
     ->in(
         __DIR__,
         // __DIR__.'/Feature',
