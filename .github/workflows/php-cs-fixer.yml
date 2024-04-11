@@ -41,5 +41,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          commit_options: '--no-verify'
           commit_message: Fix styling
           file_pattern: '**.php'
