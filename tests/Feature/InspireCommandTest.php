@@ -13,6 +13,8 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-it('inspires artisans', function (): void {
-    $this->artisan('inspire')->assertExitCode(0);
-});
+use App\Commands\InspireCommand;
+
+it('can get inspiration', function (): void {
+    $this->artisan(InspireCommand::class)->assertOk();
+})->group(__DIR__, __FILE__);

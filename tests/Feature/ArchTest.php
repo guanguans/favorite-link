@@ -15,6 +15,7 @@ declare(strict_types=1);
  */
 
 arch('will not use debugging functions')
+    ->group(__DIR__, __FILE__)
     ->skip()
     ->expect([
         'echo',
