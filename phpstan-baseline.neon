@@ -1,6 +1,2 @@
 parameters:
-	ignoreErrors:
-		-
-			message: "#^If condition is always true\\.$#"
-			count: 1
-			path: app/Commands/FeedCommand.php
+	ignoreErrors: []
