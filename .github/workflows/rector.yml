@@ -8,6 +8,13 @@ on:
       - '.github/**.yaml'
       - '*.xml'
       - '*.xml.dist'
+  pull_request:
+    paths:
+      - '**.php'
+      - '.github/**.yml'
+      - '.github/**.yaml'
+      - '*.xml'
+      - '*.xml.dist'
 
 jobs:
   rector:

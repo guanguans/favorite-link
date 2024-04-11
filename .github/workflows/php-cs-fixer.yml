@@ -1,6 +1,16 @@
 name: check & fix styling
 
-on: [ push ]
+on:
+  push:
+    paths:
+      - '.github/**.yml'
+      - '.github/**.yaml'
+      - '**.php'
+  pull_request:
+    paths:
+      - '.github/**.yml'
+      - '.github/**.yaml'
+      - '**.php'
 
 jobs:
   php-cs-fixer:

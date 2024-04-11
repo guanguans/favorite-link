@@ -1,6 +1,18 @@
 name: lint markdown
 
-on: [ push, pull_request ]
+on:
+  push:
+    paths:
+      - '.github/**.yml'
+      - '.github/**.yaml'
+      - '**.md'
+      - '.*rc'
+  pull_request:
+    paths:
+      - '.github/**.yml'
+      - '.github/**.yaml'
+      - '**.md'
+      - '.*rc'
 
 jobs:
   lint-markdown:
