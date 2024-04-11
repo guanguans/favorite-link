@@ -51,7 +51,7 @@ final class InspireCommand extends Command
     /**
      * Define the command's schedule.
      */
-    #[\Override()]
+    #[\Override]
     public function schedule(Schedule $schedule): void
     {
         // $schedule->command(static::class)->everyMinute();

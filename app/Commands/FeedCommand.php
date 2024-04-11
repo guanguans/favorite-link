@@ -33,6 +33,7 @@ final class FeedCommand extends Command
 
     public function handle(): void
     {
+        /** @noinspection NullPointerExceptionInspection */
         str(File::get($this->option('from')))
             ->after(self::FLAG)
             ->prepend(self::FLAG)
@@ -82,10 +83,14 @@ final class FeedCommand extends Command
             });
     }
 
-    #[\Override()]
+    /**
+     * @noinspection MethodVisibilityInspection
+     */
+    #[\Override]
     protected function rules(): array
     {
         return [
+            'from' => 'required|string',
         ];
     }
 

@@ -51,6 +51,9 @@ $ruleSet = Config\RuleSet\Php83::create()
         'align_multiline_comment' => [
             'comment_type' => 'phpdocs_only',
         ],
+        'attribute_empty_parentheses' => [
+            'use_parentheses' => false,
+        ],
         'blank_line_before_statement' => [
             'statements' => [
                 'break',

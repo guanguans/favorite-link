@@ -27,7 +27,7 @@ abstract class Command extends \Illuminate\Console\Command
      *
      * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
      */
-    #[\Override()]
+    #[\Override]
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         if ($this->validator()->fails()) {

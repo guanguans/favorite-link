@@ -23,7 +23,7 @@ abstract class TestCase extends BaseTestCase
     /**
      * This method is called before each test.
      */
-    #[\Override()]
+    #[\Override]
     protected function setUp(): void
     {
         parent::setUp();
@@ -33,7 +33,7 @@ abstract class TestCase extends BaseTestCase
     /**
      * This method is called after each test.
      */
-    #[\Override()]
+    #[\Override]
     protected function tearDown(): void
     {
         parent::tearDown();
