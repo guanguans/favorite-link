@@ -80,7 +80,8 @@ final class FeedCommand extends Command
                     $feed->setFeedLink("https://raw.githubusercontent.com/guanguans/favorite-link/master/$name", $type);
                     File::put(base_path($name), $feed->export($type));
                 }
-            });
+            })
+            ->tap(fn () => $this->output->success('Feed is done!'));
     }
 
     /**
