@@ -20,6 +20,7 @@ use Illuminate\Support\Facades\File;
 use Laminas\Feed\Writer\Feed;
 
 /**
+ * @see https://docs.laminas.dev/laminas-feed/
  * @see https://github.com/composer/packagist/blob/main/src/Controller/FeedController.php
  */
 final class FeedCommand extends Command
@@ -65,6 +66,11 @@ final class FeedCommand extends Command
 
                     $entry->setTitle($item['title']);
                     $entry->setLink($item['link']);
+                    $entry->setContent(
+                        <<<HTML
+                            <a href="{$item['link']}" target="_blank">{$item['title']}</a>
+                            HTML
+                    );
                     $entry->setDateCreated($item['date']);
                     $entry->setDateModified($item['date']);
 
@@ -99,17 +105,13 @@ final class FeedCommand extends Command
     {
         $feed = new Feed;
         $feed->setEncoding('UTF-8');
-        $feed->setTitle('❤️ 每天收集喜欢的开源项目');
-        $feed->setDescription('❤️ 每天收集喜欢的开源项目');
+        $feed->setTitle($title = '❤️ 每天收集喜欢的开源项目');
+        $feed->setDescription($title);
         $feed->setLink('https://github.com/guanguans/favorite-link');
         $feed->addAuthor([
             'name' => 'guanguans',
             'email' => 'ityaozm@gmail.com',
             'uri' => 'https://github.com/guanguans',
-        ]);
-        $feed->setGenerator([
-            'name' => 'favorite-link',
-            'uri' => 'https://github.com/guanguans/favorite-link',
         ]);
 
         return $feed;
