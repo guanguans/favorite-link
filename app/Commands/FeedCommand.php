@@ -17,7 +17,6 @@ use GrahamCampbell\GitHub\Facades\GitHub;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Facades\File;
-use Illuminate\Support\Stringable;
 use Laminas\Feed\Writer\Feed;
 
 /**
@@ -25,6 +24,7 @@ use Laminas\Feed\Writer\Feed;
  */
 final class FeedCommand extends Command
 {
+    private const string FLAG = '### ';
     protected $signature = <<<'SIGNATURE'
         feed:generate
         {--from=README.md : The path of the README file.}
@@ -34,59 +34,51 @@ final class FeedCommand extends Command
     public function handle(): void
     {
         str(File::get($this->option('from')))
-            ->after($flag = '### ')
-            ->prepend($flag)
+            ->after(self::FLAG)
+            ->prepend(self::FLAG)
             ->explode(\PHP_EOL)
             ->filter(filled(...))
             ->reduce(
-                static function (Collection $carry, string $line) use ($flag, &$date): Collection {
+                static function (Collection $carry, string $line) use (&$date): Collection {
                     $line = str($line);
 
-                    if ($line->startsWith($flag)) {
-                        $date = $line->remove($flag)->trim();
+                    if ($line->startsWith(self::FLAG)) {
+                        $date = $line->remove(self::FLAG)->trim();
 
                         return $carry;
                     }
 
-                    $carry[] = [
+                    return $carry->add([
                         'date' => Date::createFromTimestamp(strtotime((string) $date)),
-                        'description' => (string) $line->match('/\[.*\]/')->trim('[]'),
-                        'url' => (string) $line->match('/\(.*\)/')->trim('()'),
-                    ];
-
-                    return $carry;
+                        'title' => (string) $line->match('/\[.*\]/')->trim('[]'),
+                        'link' => (string) $line->match('/\(.*\)/')->trim('()'),
+                    ]);
                 },
                 collect()
             )
-            ->pipe(static function (Collection $items): Stringable {
-                $feed = new Feed;
-                $feed->setEncoding('utf-8');
-                $feed->setTitle('❤️ 每天收集喜欢的开源项目');
-                $feed->setDescription('❤️ 每天收集喜欢的开源项目');
-                $feed->setLink('https://github.com/guanguans/favorite-link');
-                $feed->setGenerator('https://github.com/guanguans');
-
-                if ('atom') {
-                    $feed->setFeedLink('https://github.com/guanguans/favorite-link/links.atom', 'atom');
-                }
+            ->tap(function (Collection $items): void {
+                $feed = $this->createDefaultFeed();
 
                 $items->each(static function (array $item) use ($feed): void {
                     $entry = $feed->createEntry();
-                    $entry->setTitle($item['description']);
-                    $entry->setLink($item['url']);
+
+                    $entry->setTitle($item['title']);
+                    $entry->setLink($item['link']);
                     $entry->setDateCreated($item['date']);
                     $entry->setDateModified($item['date']);
 
                     $feed->addEntry($entry);
                 });
+
                 $feed->count()
-                    ? $feed->setDateModified($feed->getEntry(0)->getDateModified())
+                    ? $feed->setDateModified($feed->getEntry()->getDateModified())
                     : $feed->setDateModified(new \DateTimeImmutable);
 
-                return str($feed->export('atom'));
-            })
-            ->whenNotEmpty(static function (Stringable $feed): void {
-                File::put(base_path('README.atom'), $feed->toString());
+                foreach (['atom', 'rss'] as $type) {
+                    $name = "README.$type";
+                    $feed->setFeedLink("https://raw.githubusercontent.com/guanguans/favorite-link/master/$name", $type);
+                    File::put(base_path($name), $feed->export($type));
+                }
             });
     }
 
@@ -95,5 +87,25 @@ final class FeedCommand extends Command
     {
         return [
         ];
+    }
+
+    private function createDefaultFeed(): Feed
+    {
+        $feed = new Feed;
+        $feed->setEncoding('UTF-8');
+        $feed->setTitle('❤️ 每天收集喜欢的开源项目');
+        $feed->setDescription('❤️ 每天收集喜欢的开源项目');
+        $feed->setLink('https://github.com/guanguans/favorite-link');
+        $feed->addAuthor([
+            'name' => 'guanguans',
+            'email' => 'ityaozm@gmail.com',
+            'uri' => 'https://github.com/guanguans',
+        ]);
+        $feed->setGenerator([
+            'name' => 'favorite-link',
+            'uri' => 'https://github.com/guanguans/favorite-link',
+        ]);
+
+        return $feed;
     }
 }
