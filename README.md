@@ -5,7 +5,7 @@
 [![lint markdown](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml)
 [![feed](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml)
 
-## 订阅
+## 订阅链接
 
 * [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)
 * [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom)

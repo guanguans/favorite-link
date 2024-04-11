@@ -25,6 +25,7 @@ use Laminas\Feed\Writer\Feed;
  */
 final class FeedCommand extends Command
 {
+    private const string REPOSITORY_LINK = 'https://github.com/guanguans/favorite-link';
     private const string FLAG = '### ';
     protected $signature = <<<'SIGNATURE'
         feed:generate
@@ -54,17 +55,15 @@ final class FeedCommand extends Command
                         'date' => Date::createFromTimestamp(strtotime((string) $date)),
                         'title' => $title = (string) $line->match('/\[.*\]/')->trim('[]'),
                         'link' => $link = (string) $line->match('/\(.*\)/')->trim('()'),
-                        'content' => htmlspecialchars(
-                            <<<HTML
-                                <blockquote>
-                                    <p><a href="$link" target="_blank">$title</a></p>
-                                </blockquote>
-                                <ul>
-                                    <li><a href="$link" target="_blank">$link</a></li>
-                                    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
-                                </ul>
-                                HTML
-                        ),
+                        'repository_link' => $repositoryLink = self::REPOSITORY_LINK,
+                        'content' => <<<HTML
+                            <a href="$link" target="_blank">$title</a>
+                            <h3>相关链接</h3>
+                            <ul>
+                                <li><a href="$link" target="_blank">$link</a></li>
+                                <li><a href="$repositoryLink" target="_blank">$repositoryLink</a></li>
+                            </ul>
+                            HTML,
                     ]);
                 },
                 collect()
@@ -75,6 +74,7 @@ final class FeedCommand extends Command
                 $items->each(static function (array $item) use ($feed): void {
                     $entry = $feed->createEntry();
 
+                    $entry->setEncoding('UTF-8');
                     $entry->setTitle($item['title']);
                     $entry->setLink($item['link']);
                     $entry->setContent($item['content']);
@@ -123,7 +123,7 @@ final class FeedCommand extends Command
         $feed->setEncoding('UTF-8');
         $feed->setTitle($title = '❤️ 每天收集喜欢的开源项目');
         $feed->setDescription($title);
-        $feed->setLink('https://github.com/guanguans/favorite-link');
+        $feed->setLink(self::REPOSITORY_LINK);
         $feed->addAuthor([
             'name' => 'guanguans',
             'email' => 'ityaozm@gmail.com',
