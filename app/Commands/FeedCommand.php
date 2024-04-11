@@ -52,7 +52,7 @@ final class FeedCommand extends Command
                     }
 
                     return $carry->add([
-                        'date' => Date::createFromTimestamp(strtotime((string) $date)),
+                        'date' => ($date = Date::createFromTimestamp(strtotime((string) $date)))->isCurrentDay() ? now() : $date,
                         'title' => $title = (string) $line->match('/\[.*\]/')->trim('[]'),
                         'link' => $link = (string) $line->match('/\(.*\)/')->trim('()'),
                         'repository_link' => $repositoryLink = self::REPOSITORY_LINK,
