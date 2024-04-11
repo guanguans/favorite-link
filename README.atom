@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-11T17:21:34+08:00</updated>
+  <updated>2024-04-11T17:28:33+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Intervention/gif: 原生 PHP GIF 编码器/解码器]]></title>
-    <published>2024-04-11T17:21:34+08:00</published>
-    <updated>2024-04-11T17:21:34+08:00</updated>
+    <published>2024-04-11T17:28:33+08:00</published>
+    <updated>2024-04-11T17:28:33+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Intervention/gif"/>
     <id>https://github.com/Intervention/gif</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。]]></title>
-    <published>2024-04-11T17:21:34+08:00</published>
-    <updated>2024-04-11T17:21:34+08:00</updated>
+    <published>2024-04-11T17:28:33+08:00</published>
+    <updated>2024-04-11T17:28:33+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/drawdb-io/drawdb"/>
     <id>https://github.com/drawdb-io/drawdb</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[phpcolor/phpcolor: PHP 颜色操作库]]></title>
-    <published>2024-04-11T17:21:34+08:00</published>
-    <updated>2024-04-11T17:21:34+08:00</updated>
+    <published>2024-04-11T17:28:33+08:00</published>
+    <updated>2024-04-11T17:28:33+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/phpcolor/phpcolor"/>
     <id>https://github.com/phpcolor/phpcolor</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。]]></title>
-    <published>2024-04-11T17:21:34+08:00</published>
-    <updated>2024-04-11T17:21:34+08:00</updated>
+    <published>2024-04-11T17:28:33+08:00</published>
+    <updated>2024-04-11T17:28:33+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/zhuima/awesome-cloudflare"/>
     <id>https://github.com/zhuima/awesome-cloudflare</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -72,6 +72,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/zhuima/awesome-cloudflare" target="_blank">https://github.com/zhuima/awesome-cloudflare</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ZhuJD-China/RainbowGPT: 🌈AI代理和Dalle3免费&股票分析和GPT-4免费API&私有LLM应用程序和SQL代理适用于所有人]]></title>
+    <published>2024-04-11T17:28:33+08:00</published>
+    <updated>2024-04-11T17:28:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ZhuJD-China/RainbowGPT"/>
+    <id>https://github.com/ZhuJD-China/RainbowGPT</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ZhuJD-China/RainbowGPT" target="_blank">ZhuJD-China/RainbowGPT:
+🌈AI代理和Dalle3免费&amp;股票分析和GPT-4免费API&amp;私有LLM应用程序和SQL代理适用于所有人</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ZhuJD-China/RainbowGPT" target="_blank">https://github.com/ZhuJD-China/RainbowGPT</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
