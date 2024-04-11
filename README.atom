@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-11T17:48:53+08:00</updated>
+  <updated>2024-04-11T18:06:12+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Intervention/gif: 原生 PHP GIF 编码器/解码器]]></title>
-    <published>2024-04-11T17:48:53+08:00</published>
-    <updated>2024-04-11T17:48:53+08:00</updated>
+    <published>2024-04-11T18:06:12+08:00</published>
+    <updated>2024-04-11T18:06:12+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Intervention/gif"/>
     <id>https://github.com/Intervention/gif</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。]]></title>
-    <published>2024-04-11T17:48:53+08:00</published>
-    <updated>2024-04-11T17:48:53+08:00</updated>
+    <published>2024-04-11T18:06:12+08:00</published>
+    <updated>2024-04-11T18:06:12+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/drawdb-io/drawdb"/>
     <id>https://github.com/drawdb-io/drawdb</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[phpcolor/phpcolor: PHP 颜色操作库]]></title>
-    <published>2024-04-11T17:48:53+08:00</published>
-    <updated>2024-04-11T17:48:53+08:00</updated>
+    <published>2024-04-11T18:06:12+08:00</published>
+    <updated>2024-04-11T18:06:12+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/phpcolor/phpcolor"/>
     <id>https://github.com/phpcolor/phpcolor</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。]]></title>
-    <published>2024-04-11T17:48:53+08:00</published>
-    <updated>2024-04-11T17:48:53+08:00</updated>
+    <published>2024-04-11T18:06:12+08:00</published>
+    <updated>2024-04-11T18:06:12+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/zhuima/awesome-cloudflare"/>
     <id>https://github.com/zhuima/awesome-cloudflare</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -79,8 +79,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ZhuJD-China/RainbowGPT: 🌈AI 代理和 Dalle3 免费&股票分析和 GPT-4 免费 API&私有 LLM 应用程序和 SQL 代理适用于所有人]]></title>
-    <published>2024-04-11T17:48:53+08:00</published>
-    <updated>2024-04-11T17:48:53+08:00</updated>
+    <published>2024-04-11T18:06:12+08:00</published>
+    <updated>2024-04-11T18:06:12+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ZhuJD-China/RainbowGPT"/>
     <id>https://github.com/ZhuJD-China/RainbowGPT</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
