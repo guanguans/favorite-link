@@ -43,5 +43,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          commit_options: '--no-verify'
           commit_message: 'Update feed'
-          file_pattern: '**.{atom,rss}'
+          file_pattern: '**.atom **.rss'
