@@ -1,9 +1,14 @@
-# favorite-link([rss/feed](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom))
+# favorite-link
 
 > ❤️ Collect favorite open source repositories every day. - 每天收集喜欢的开源项目。
 
 [![lint markdown](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml)
+[![feed](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml)
 
+## 订阅连接
+
+* [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)
+* [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom)
 
 ### April 11, 2024 
 - [Intervention/gif: 原生 PHP GIF 编码器/解码器](https://github.com/Intervention/gif) 
