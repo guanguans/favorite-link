@@ -52,8 +52,9 @@ final class FeedCommand extends Command
 
                     return $carry->add([
                         'date' => Date::createFromTimestamp(strtotime((string) $date)),
-                        'title' => (string) $line->match('/\[.*\]/')->trim('[]'),
-                        'link' => (string) $line->match('/\(.*\)/')->trim('()'),
+                        'title' => $title = (string) $line->match('/\[.*\]/')->trim('[]'),
+                        'link' => $link = (string) $line->match('/\(.*\)/')->trim('()'),
+                        'content' => "<a href=\"$link\" target=\"_blank\">$title</a>",
                     ]);
                 },
                 collect()
@@ -66,11 +67,7 @@ final class FeedCommand extends Command
 
                     $entry->setTitle($item['title']);
                     $entry->setLink($item['link']);
-                    $entry->setContent(
-                        <<<HTML
-                            <a href="{$item['link']}" target="_blank">{$item['title']}</a>
-                            HTML
-                    );
+                    $entry->setContent($item['content']);
                     $entry->setDateCreated($item['date']);
                     $entry->setDateModified($item['date']);
 
