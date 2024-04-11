@@ -55,8 +55,13 @@ final class FeedCommand extends Command
                         'title' => $title = (string) $line->match('/\[.*\]/')->trim('[]'),
                         'link' => $link = (string) $line->match('/\(.*\)/')->trim('()'),
                         'content' => <<<HTML
-                            <a href="$link" target="_blank">$title</a>
-                            <a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a>
+                            <blockquote>
+                                <p><a href="$link" target="_blank">$title</a></p>
+                            </blockquote>
+                            <ul>
+                                <li><a href="$link" target="_blank">$link</a></li>
+                                <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+                            </ul>
                             HTML,
                     ]);
                 },
