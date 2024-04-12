@@ -6,10 +6,10 @@
 [![feed](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml)
 [![mirror](https://github.com/guanguans/favorite-link/actions/workflows/mirror.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/mirror.yml)
 
-## 订阅链接
-
-* [github/README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss) | [gitlab/README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)
-* [github/README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [gitlab/README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom)
+| github                                                                                      | gitlab                                                                               |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
+| [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 ### April 12, 2024 
 - [jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器](https://github.com/jamiebuilds/the-super-tiny-compiler) 
