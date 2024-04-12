@@ -1,6 +1,7 @@
 name: lint markdown
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '.github/**.yml'
