@@ -1,0 +1,17 @@
+name: mirror
+
+on: [ push, delete ]
+
+jobs:
+  to_gitlab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url:
+            git@gitlab.com:yzmguanguan/favorite-link.git
+          ssh_private_key:
+            ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}
