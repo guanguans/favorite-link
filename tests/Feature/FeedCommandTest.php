@@ -16,14 +16,14 @@ declare(strict_types=1);
 
 use App\Commands\FeedCommand;
 
-it('will throw an InvalidArgumentException', function (): void {
+it('will throw an InvalidArgumentException of Symfony', function (): void {
     $this->artisan(FeedCommand::class, ['--from' => $this->faker()->filePath()]);
 })->group(__DIR__, __FILE__)->throws(\Symfony\Component\Console\Exception\InvalidArgumentException::class);
 
-it('can generate empty feed', function (): void {
+it('will throw an InvalidArgumentException of Laminas', function (): void {
     $this->artisan(FeedCommand::class, ['--from' => fixtures_path('README.md')])->assertOk();
-})->group(__DIR__, __FILE__);
+})->group(__DIR__, __FILE__)->throws(\Laminas\Feed\Writer\Exception\InvalidArgumentException::class);
 
 it('can generate feed', function (): void {
     $this->artisan(FeedCommand::class)->assertOk();
-})->group(__DIR__, __FILE__)->depends('it can generate empty feed');
+})->group(__DIR__, __FILE__);

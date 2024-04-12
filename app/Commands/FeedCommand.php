@@ -17,6 +17,7 @@ use GrahamCampbell\GitHub\Facades\GitHub;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Process;
 use Laminas\Feed\Writer\Feed;
 
 /**
@@ -84,9 +85,7 @@ final class FeedCommand extends Command
                     $feed->addEntry($entry);
                 });
 
-                $feed->count()
-                    ? $feed->setDateModified($feed->getEntry()->getDateModified())
-                    : $feed->setDateModified(new \DateTimeImmutable);
+                $feed->setDateModified($feed->getEntry()->getDateModified());
 
                 foreach (['atom', 'rss'] as $type) {
                     $name = "README.$type";
@@ -94,6 +93,12 @@ final class FeedCommand extends Command
                     File::put(base_path($name), $feed->export($type));
                 }
             })
+            ->tap(fn () => Process::run(
+                'git diff --color README.*',
+                function (string $type, string $line): void {
+                    $this->output->write($line);
+                }
+            ))
             ->tap(fn () => $this->output->success('Feed is done!'));
     }
 
