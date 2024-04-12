@@ -10,6 +10,9 @@
 * [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)
 * [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom)
 
+
+### April 12, 2024 
+- [jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器](https://github.com/jamiebuilds/the-super-tiny-compiler) 
 ### April 11, 2024 
 - [Intervention/gif: 原生 PHP GIF 编码器/解码器](https://github.com/Intervention/gif) 
 - [drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。](https://github.com/drawdb-io/drawdb) 
