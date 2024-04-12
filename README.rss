@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+    <pubDate>Fri, 12 Apr 2024 09:34:13 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器</title>
+      <pubDate>Fri, 12 Apr 2024 09:34:13 +0800</pubDate>
+      <link>https://github.com/jamiebuilds/the-super-tiny-compiler</link>
+      <guid>https://github.com/jamiebuilds/the-super-tiny-compiler</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jamiebuilds/the-super-tiny-compiler" target="_blank">jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jamiebuilds/the-super-tiny-compiler" target="_blank">https://github.com/jamiebuilds/the-super-tiny-compiler</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Intervention/gif: 原生 PHP GIF 编码器/解码器</title>
-      <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Intervention/gif</link>
       <guid>https://github.com/Intervention/gif</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Intervention/gif" target="_blank">Intervention/gif: 原生 PHP GIF 编码器/解码器</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。</title>
-      <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/drawdb-io/drawdb</link>
       <guid>https://github.com/drawdb-io/drawdb</guid>
       <content:encoded><![CDATA[<a href="https://github.com/drawdb-io/drawdb" target="_blank">drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>phpcolor/phpcolor: PHP 颜色操作库</title>
-      <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/phpcolor/phpcolor</link>
       <guid>https://github.com/phpcolor/phpcolor</guid>
       <content:encoded><![CDATA[<a href="https://github.com/phpcolor/phpcolor" target="_blank">phpcolor/phpcolor: PHP 颜色操作库</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。</title>
-      <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/zhuima/awesome-cloudflare</link>
       <guid>https://github.com/zhuima/awesome-cloudflare</guid>
       <content:encoded><![CDATA[<a href="https://github.com/zhuima/awesome-cloudflare" target="_blank">zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>ZhuJD-China/RainbowGPT: 🌈AI 代理和 Dalle3 免费&amp;股票分析和 GPT-4 免费 API&amp;私有 LLM 应用程序和 SQL 代理适用于所有人</title>
-      <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ZhuJD-China/RainbowGPT</link>
       <guid>https://github.com/ZhuJD-China/RainbowGPT</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ZhuJD-China/RainbowGPT" target="_blank">ZhuJD-China/RainbowGPT: 🌈AI 代理和 Dalle3 免费&股票分析和 GPT-4 免费 API&私有 LLM 应用程序和 SQL 代理适用于所有人</a>
@@ -76,7 +89,7 @@
     </item>
     <item>
       <title>Kimi.ai - 帮你看更大的世界</title>
-      <pubDate>Thu, 11 Apr 2024 18:14:29 +0800</pubDate>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://kimi.moonshot.cn/</link>
       <guid>https://kimi.moonshot.cn/</guid>
       <content:encoded><![CDATA[<a href="https://kimi.moonshot.cn/" target="_blank">Kimi.ai - 帮你看更大的世界</a>
