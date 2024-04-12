@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 12 Apr 2024 17:47:42 +0800</pubDate>
+    <pubDate>Fri, 12 Apr 2024 18:00:34 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器</title>
-      <pubDate>Fri, 12 Apr 2024 17:47:42 +0800</pubDate>
+      <pubDate>Fri, 12 Apr 2024 18:00:34 +0800</pubDate>
       <link>https://github.com/jamiebuilds/the-super-tiny-compiler</link>
       <guid>https://github.com/jamiebuilds/the-super-tiny-compiler</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jamiebuilds/the-super-tiny-compiler" target="_blank">jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>coduo/php-humanizer: 使只有开发人员才能阅读的值人性化。</title>
-      <pubDate>Fri, 12 Apr 2024 17:47:42 +0800</pubDate>
+      <pubDate>Fri, 12 Apr 2024 18:00:34 +0800</pubDate>
       <link>https://github.com/coduo/php-humanizer</link>
       <guid>https://github.com/coduo/php-humanizer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/coduo/php-humanizer" target="_blank">coduo/php-humanizer: 使只有开发人员才能阅读的值人性化。</a>
