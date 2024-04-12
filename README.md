@@ -14,6 +14,7 @@
 ### April 12, 2024 
 - [jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器](https://github.com/jamiebuilds/the-super-tiny-compiler) 
 - [coduo/php-humanizer: 使只有开发人员才能阅读的值人性化。](https://github.com/coduo/php-humanizer) 
+- [warpdotdev/Warp: Warp是一款基于Rust的现代化终端，内置人工智能，因此您和您的团队可以更快地构建出色的软件。](https://github.com/warpdotdev/Warp) 
 ### April 11, 2024 
 - [Intervention/gif: 原生 PHP GIF 编码器/解码器](https://github.com/Intervention/gif) 
 - [drawdb-io/drawdb: 免费、简单、直观的在线数据库设计工具和 SQL 生成器。](https://github.com/drawdb-io/drawdb) 
