@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 12 Apr 2024 00:00:00 +0800</pubDate>
+    <pubDate>Mon, 15 Apr 2024 09:35:24 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>nalgeon/redka: 用 SQLite 重新实现 Redis</title>
+      <pubDate>Mon, 15 Apr 2024 09:35:24 +0800</pubDate>
+      <link>https://github.com/nalgeon/redka</link>
+      <guid>https://github.com/nalgeon/redka</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nalgeon/redka" target="_blank">nalgeon/redka: 用 SQLite 重新实现 Redis</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nalgeon/redka" target="_blank">https://github.com/nalgeon/redka</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器</title>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0800</pubDate>
