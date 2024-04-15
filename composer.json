@@ -112,7 +112,6 @@
             "@md-lint",
             "@zh-lint",
             "@test",
-            "@phpstan",
             "@rector-dry-run"
         ],
         "composer-bin-all-update": "@composer bin all update --ansi -v",
