@@ -11,6 +11,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 15, 2024 
+- [nalgeon/redka: 用 SQLite 重新实现 Redis](https://github.com/nalgeon/redka) 
 ### April 12, 2024 
 - [jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器](https://github.com/jamiebuilds/the-super-tiny-compiler) 
 - [coduo/php-humanizer: 使只有开发人员才能阅读的值人性化。](https://github.com/coduo/php-humanizer) 
