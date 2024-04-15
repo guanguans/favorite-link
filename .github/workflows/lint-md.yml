@@ -35,7 +35,7 @@ jobs:
         run: lint-md 'README.md' --config=.lintmdrc --threads --fix
 
       - name: Lint zh_CN
-        run: zhlint 'README.md' --fix
+        run: zhlint 'README.md' --config=.zhlintrc --fix
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

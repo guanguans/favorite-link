@@ -129,7 +129,7 @@
         ],
         "md-fix": "@md-lint --fix",
         "md-lint": "lint-md 'README.md' --config=.lintmdrc --threads",
-        "pest": "@php ./vendor/bin/pest --coverage --profile",
+        "pest": "@php ./vendor/bin/pest --configuration=phpunit.xml.dist --coverage --profile",
         "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./.build/phpunit/clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",
         "pest-profile": "@pest --profile",
@@ -145,7 +145,7 @@
             "@md-fix",
             "@zh-fix"
         ],
-        "rector": "@php ./vendor/bin/rector --ansi -v",
+        "rector": "@php ./vendor/bin/rector --config=rector.php --ansi -v",
         "rector-dry-run": "@rector --dry-run",
         "release": "@php ./vendor/bin/monorepo-builder release --ansi -v",
         "release-major": "@release major",
@@ -167,6 +167,6 @@
         "trufflehog": "trufflehog git https://github.com/guanguans/ai-commit --only-verified",
         "yaml-lint": "@php ./vendor/bin/yaml-lint .*.yml .github/ --ansi -v",
         "zh-fix": "@zh-lint --fix",
-        "zh-lint": "zhlint 'README.md'"
+        "zh-lint": "zhlint 'README.md' --config=.zhlintrc"
     }
 }
