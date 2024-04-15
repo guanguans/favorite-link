@@ -15,8 +15,8 @@
 ### April 15, 2024 
 - [nalgeon/redka: 用 SQLite 重新实现 Redis](https://github.com/nalgeon/redka) 
 - [YaLTeR/niri: mac 窗户以列的形式排列在一个向右延伸的无限条形上。打开新窗口不会导致现有窗口调整大小。](https://github.com/YaLTeR/niri) 
-- [perftools/php-profiler: 基于XHGUI数据采集器的PHP评测库](https://github.com/perftools/php-profiler) 
-- [MaestroError/eloquent-regex: Eloquent Regex为正则表达式带来了简洁和优雅。该软件包专为Laravel开发人员设计，提供了一个流畅、直观的界面，用于在PHP应用程序中构建和执行正则表达式模式。](https://github.com/MaestroError/eloquent-regex) 
+- [perftools/php-profiler: 基于 XHGUI 数据采集器的 PHP 评测库](https://github.com/perftools/php-profiler) 
+- [MaestroError/eloquent-regex: Eloquent Regex 为正则表达式带来了简洁和优雅。该软件包专为 Laravel 开发人员设计，提供了一个流畅、直观的界面，用于在 PHP 应用程序中构建和执行正则表达式模式。](https://github.com/MaestroError/eloquent-regex) 
 ### April 12, 2024 
 - [jamiebuilds/the-super-tiny-compiler: ⛄ 可能是有史以来最小的编译器](https://github.com/jamiebuilds/the-super-tiny-compiler) 
 - [coduo/php-humanizer: 使只有开发人员才能阅读的值人性化。](https://github.com/coduo/php-humanizer) 
