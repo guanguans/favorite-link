@@ -1,6 +1,7 @@
 name: rector
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '**.php'

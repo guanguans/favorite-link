@@ -1,6 +1,7 @@
 name: check & fix styling
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '.github/**.yml'
