@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 15 Apr 2024 09:38:27 +0800</pubDate>
+    <pubDate>Mon, 15 Apr 2024 09:39:30 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>nalgeon/redka: 用 SQLite 重新实现 Redis</title>
-      <pubDate>Mon, 15 Apr 2024 09:38:27 +0800</pubDate>
+      <pubDate>Mon, 15 Apr 2024 09:39:30 +0800</pubDate>
       <link>https://github.com/nalgeon/redka</link>
       <guid>https://github.com/nalgeon/redka</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nalgeon/redka" target="_blank">nalgeon/redka: 用 SQLite 重新实现 Redis</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>YaLTeR/niri: mac 窗户以列的形式排列在一个向右延伸的无限条形上。打开新窗口不会导致现有窗口调整大小。</title>
-      <pubDate>Mon, 15 Apr 2024 09:38:27 +0800</pubDate>
+      <pubDate>Mon, 15 Apr 2024 09:39:30 +0800</pubDate>
       <link>https://github.com/YaLTeR/niri</link>
       <guid>https://github.com/YaLTeR/niri</guid>
       <content:encoded><![CDATA[<a href="https://github.com/YaLTeR/niri" target="_blank">YaLTeR/niri: mac 窗户以列的形式排列在一个向右延伸的无限条形上。打开新窗口不会导致现有窗口调整大小。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/YaLTeR/niri" target="_blank">https://github.com/YaLTeR/niri</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>perftools/php-profiler: 基于XHGUI数据采集器的PHP评测库</title>
+      <pubDate>Mon, 15 Apr 2024 09:39:30 +0800</pubDate>
+      <link>https://github.com/perftools/php-profiler</link>
+      <guid>https://github.com/perftools/php-profiler</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/perftools/php-profiler" target="_blank">perftools/php-profiler: 基于XHGUI数据采集器的PHP评测库</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/perftools/php-profiler" target="_blank">https://github.com/perftools/php-profiler</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
