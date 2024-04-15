@@ -93,12 +93,9 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "@cghooks add --ignore-lock",
-            "@cghooks update",
             "@composer-bin-all-update"
         ],
         "post-update-cmd": [
-            "@cghooks update",
             "@composer-bin-all-update"
         ],
         "post-autoload-dump": [],
