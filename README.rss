@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 15 Apr 2024 15:39:36 +0800</pubDate>
+    <pubDate>Tue, 16 Apr 2024 09:33:32 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>mattn/go-isatty: Golang的Isatty</title>
+      <pubDate>Tue, 16 Apr 2024 09:33:32 +0800</pubDate>
+      <link>https://github.com/mattn/go-isatty</link>
+      <guid>https://github.com/mattn/go-isatty</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mattn/go-isatty" target="_blank">mattn/go-isatty: Golang的Isatty</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mattn/go-isatty" target="_blank">https://github.com/mattn/go-isatty</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nalgeon/redka: 用 SQLite 重新实现 Redis</title>
-      <pubDate>Mon, 15 Apr 2024 15:39:36 +0800</pubDate>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/nalgeon/redka</link>
       <guid>https://github.com/nalgeon/redka</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nalgeon/redka" target="_blank">nalgeon/redka: 用 SQLite 重新实现 Redis</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>YaLTeR/niri: mac 窗户以列的形式排列在一个向右延伸的无限条形上。打开新窗口不会导致现有窗口调整大小。</title>
-      <pubDate>Mon, 15 Apr 2024 15:39:36 +0800</pubDate>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/YaLTeR/niri</link>
       <guid>https://github.com/YaLTeR/niri</guid>
       <content:encoded><![CDATA[<a href="https://github.com/YaLTeR/niri" target="_blank">YaLTeR/niri: mac 窗户以列的形式排列在一个向右延伸的无限条形上。打开新窗口不会导致现有窗口调整大小。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>perftools/php-profiler: 基于 XHGUI 数据采集器的 PHP 评测库</title>
-      <pubDate>Mon, 15 Apr 2024 15:39:36 +0800</pubDate>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/perftools/php-profiler</link>
       <guid>https://github.com/perftools/php-profiler</guid>
       <content:encoded><![CDATA[<a href="https://github.com/perftools/php-profiler" target="_blank">perftools/php-profiler: 基于 XHGUI 数据采集器的 PHP 评测库</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>MaestroError/eloquent-regex: Eloquent Regex 为正则表达式带来了简洁和优雅。该软件包专为 Laravel 开发人员设计，提供了一个流畅、直观的界面，用于在 PHP 应用程序中构建和执行正则表达式模式。</title>
-      <pubDate>Mon, 15 Apr 2024 15:39:36 +0800</pubDate>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/MaestroError/eloquent-regex</link>
       <guid>https://github.com/MaestroError/eloquent-regex</guid>
       <content:encoded><![CDATA[<a href="https://github.com/MaestroError/eloquent-regex" target="_blank">MaestroError/eloquent-regex: Eloquent Regex 为正则表达式带来了简洁和优雅。该软件包专为 Laravel 开发人员设计，提供了一个流畅、直观的界面，用于在 PHP 应用程序中构建和执行正则表达式模式。</a>
@@ -62,11 +75,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>BlackwinMin/automator-gallery: 原始macOS Automator操作</title>
-      <pubDate>Mon, 15 Apr 2024 15:39:36 +0800</pubDate>
+      <title>BlackwinMin/automator-gallery: 原始 macOS Automator 操作</title>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/BlackwinMin/automator-gallery</link>
       <guid>https://github.com/BlackwinMin/automator-gallery</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/BlackwinMin/automator-gallery" target="_blank">BlackwinMin/automator-gallery: 原始macOS Automator操作</a>
+      <content:encoded><![CDATA[<a href="https://github.com/BlackwinMin/automator-gallery" target="_blank">BlackwinMin/automator-gallery: 原始 macOS Automator 操作</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/BlackwinMin/automator-gallery" target="_blank">https://github.com/BlackwinMin/automator-gallery</a></li>
