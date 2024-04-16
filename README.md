@@ -16,6 +16,7 @@
 ### April 16, 2024 
 - [mattn/go-isatty: Golang的Isatty](https://github.com/mattn/go-isatty) 
 - [templado/engine: 一种实用的PHP 8.2+模板方法](https://github.com/templado/engine) 
+- [xrash/smetrics: 用 Go 编写的字符串度量库。](https://github.com/xrash/smetrics) 
 ### April 15, 2024 
 - [nalgeon/redka: 用 SQLite 重新实现 Redis](https://github.com/nalgeon/redka) 
 - [YaLTeR/niri: mac 窗户以列的形式排列在一个向右延伸的无限条形上。打开新窗口不会导致现有窗口调整大小。](https://github.com/YaLTeR/niri) 
