@@ -18,6 +18,7 @@
 - [SRWieZ/thumbhash: Thumbhash在PHP中的实现](https://github.com/SRWieZ/thumbhash) 
 - [mumuy/relationship: 中国亲戚关系计算器](https://github.com/mumuy/relationship) 
 - [Lakr233/BBackupp: 自动化iOS备份机器人](https://github.com/Lakr233/BBackupp) 
+- [ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板](https://github.com/ryangjchandler/blade-lint) 
 ### April 16, 2024 
 - [mattn/go-isatty: Golang 的 Isatty](https://github.com/mattn/go-isatty) 
 - [templado/engine: 一种实用的 PHP 8.2+模板方法](https://github.com/templado/engine) 
