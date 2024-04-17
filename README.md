@@ -21,6 +21,7 @@
 - [ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板](https://github.com/ryangjchandler/blade-lint) 
 - [php-static-analysis/attributes: 用于静态分析的属性](https://github.com/php-static-analysis/attributes) 
 - [php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性](https://github.com/php-static-analysis/rector-rule) 
+- [rectorphp/swiss-knife: 每位升级架构师的口袋里都有一把瑞士刀！](https://github.com/rectorphp/swiss-knife) 
 ### April 16, 2024 
 - [mattn/go-isatty: Golang 的 Isatty](https://github.com/mattn/go-isatty) 
 - [templado/engine: 一种实用的 PHP 8.2+模板方法](https://github.com/templado/engine) 
