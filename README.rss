@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 17 Apr 2024 10:03:47 +0800</pubDate>
+    <pubDate>Wed, 17 Apr 2024 10:10:09 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>SRWieZ/thumbhash: Thumbhash在PHP中的实现</title>
-      <pubDate>Wed, 17 Apr 2024 10:03:47 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 10:10:09 +0800</pubDate>
       <link>https://github.com/SRWieZ/thumbhash</link>
       <guid>https://github.com/SRWieZ/thumbhash</guid>
       <content:encoded><![CDATA[<a href="https://github.com/SRWieZ/thumbhash" target="_blank">SRWieZ/thumbhash: Thumbhash在PHP中的实现</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>mumuy/relationship: 中国亲戚关系计算器</title>
-      <pubDate>Wed, 17 Apr 2024 10:03:47 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 10:10:09 +0800</pubDate>
       <link>https://github.com/mumuy/relationship</link>
       <guid>https://github.com/mumuy/relationship</guid>
       <content:encoded><![CDATA[<a href="https://github.com/mumuy/relationship" target="_blank">mumuy/relationship: 中国亲戚关系计算器</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>Lakr233/BBackupp: 自动化iOS备份机器人</title>
-      <pubDate>Wed, 17 Apr 2024 10:03:47 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 10:10:09 +0800</pubDate>
       <link>https://github.com/Lakr233/BBackupp</link>
       <guid>https://github.com/Lakr233/BBackupp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Lakr233/BBackupp" target="_blank">Lakr233/BBackupp: 自动化iOS备份机器人</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Lakr233/BBackupp" target="_blank">https://github.com/Lakr233/BBackupp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板</title>
+      <pubDate>Wed, 17 Apr 2024 10:10:09 +0800</pubDate>
+      <link>https://github.com/ryangjchandler/blade-lint</link>
+      <guid>https://github.com/ryangjchandler/blade-lint</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/blade-lint" target="_blank">ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ryangjchandler/blade-lint" target="_blank">https://github.com/ryangjchandler/blade-lint</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
