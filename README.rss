@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+    <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>SRWieZ/thumbhash: Thumbhash在PHP中的实现</title>
-      <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
       <link>https://github.com/SRWieZ/thumbhash</link>
       <guid>https://github.com/SRWieZ/thumbhash</guid>
       <content:encoded><![CDATA[<a href="https://github.com/SRWieZ/thumbhash" target="_blank">SRWieZ/thumbhash: Thumbhash在PHP中的实现</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>mumuy/relationship: 中国亲戚关系计算器</title>
-      <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
       <link>https://github.com/mumuy/relationship</link>
       <guid>https://github.com/mumuy/relationship</guid>
       <content:encoded><![CDATA[<a href="https://github.com/mumuy/relationship" target="_blank">mumuy/relationship: 中国亲戚关系计算器</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>Lakr233/BBackupp: 自动化iOS备份机器人</title>
-      <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
       <link>https://github.com/Lakr233/BBackupp</link>
       <guid>https://github.com/Lakr233/BBackupp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Lakr233/BBackupp" target="_blank">Lakr233/BBackupp: 自动化iOS备份机器人</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板</title>
-      <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
       <link>https://github.com/ryangjchandler/blade-lint</link>
       <guid>https://github.com/ryangjchandler/blade-lint</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/blade-lint" target="_blank">ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>php-static-analysis/attributes: 用于静态分析的属性</title>
-      <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
       <link>https://github.com/php-static-analysis/attributes</link>
       <guid>https://github.com/php-static-analysis/attributes</guid>
       <content:encoded><![CDATA[<a href="https://github.com/php-static-analysis/attributes" target="_blank">php-static-analysis/attributes: 用于静态分析的属性</a>
@@ -76,13 +76,26 @@
     </item>
     <item>
       <title>php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性</title>
-      <pubDate>Wed, 17 Apr 2024 10:16:15 +0800</pubDate>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
       <link>https://github.com/php-static-analysis/rector-rule</link>
       <guid>https://github.com/php-static-analysis/rector-rule</guid>
       <content:encoded><![CDATA[<a href="https://github.com/php-static-analysis/rector-rule" target="_blank">php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/php-static-analysis/rector-rule" target="_blank">https://github.com/php-static-analysis/rector-rule</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>rectorphp/swiss-knife: 每位升级架构师的口袋里都有一把瑞士刀！</title>
+      <pubDate>Wed, 17 Apr 2024 15:10:18 +0800</pubDate>
+      <link>https://github.com/rectorphp/swiss-knife</link>
+      <guid>https://github.com/rectorphp/swiss-knife</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rectorphp/swiss-knife" target="_blank">rectorphp/swiss-knife: 每位升级架构师的口袋里都有一把瑞士刀！</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/rectorphp/swiss-knife" target="_blank">https://github.com/rectorphp/swiss-knife</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
