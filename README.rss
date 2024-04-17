@@ -3,18 +3,31 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 16 Apr 2024 09:41:51 +0800</pubDate>
+    <pubDate>Wed, 17 Apr 2024 09:59:32 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
-      <title>mattn/go-isatty: Golang的Isatty</title>
-      <pubDate>Tue, 16 Apr 2024 09:41:51 +0800</pubDate>
+      <title>SRWieZ/thumbhash: Thumbhash在PHP中的实现</title>
+      <pubDate>Wed, 17 Apr 2024 09:59:32 +0800</pubDate>
+      <link>https://github.com/SRWieZ/thumbhash</link>
+      <guid>https://github.com/SRWieZ/thumbhash</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/SRWieZ/thumbhash" target="_blank">SRWieZ/thumbhash: Thumbhash在PHP中的实现</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/SRWieZ/thumbhash" target="_blank">https://github.com/SRWieZ/thumbhash</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>mattn/go-isatty: Golang 的 Isatty</title>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/mattn/go-isatty</link>
       <guid>https://github.com/mattn/go-isatty</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/mattn/go-isatty" target="_blank">mattn/go-isatty: Golang的Isatty</a>
+      <content:encoded><![CDATA[<a href="https://github.com/mattn/go-isatty" target="_blank">mattn/go-isatty: Golang 的 Isatty</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/mattn/go-isatty" target="_blank">https://github.com/mattn/go-isatty</a></li>
@@ -23,11 +36,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>templado/engine: 一种实用的PHP 8.2+模板方法</title>
-      <pubDate>Tue, 16 Apr 2024 09:41:51 +0800</pubDate>
+      <title>templado/engine: 一种实用的 PHP 8.2+模板方法</title>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/templado/engine</link>
       <guid>https://github.com/templado/engine</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/templado/engine" target="_blank">templado/engine: 一种实用的PHP 8.2+模板方法</a>
+      <content:encoded><![CDATA[<a href="https://github.com/templado/engine" target="_blank">templado/engine: 一种实用的 PHP 8.2+模板方法</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/templado/engine" target="_blank">https://github.com/templado/engine</a></li>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>xrash/smetrics: 用 Go 编写的字符串度量库。</title>
-      <pubDate>Tue, 16 Apr 2024 09:41:51 +0800</pubDate>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/xrash/smetrics</link>
       <guid>https://github.com/xrash/smetrics</guid>
       <content:encoded><![CDATA[<a href="https://github.com/xrash/smetrics" target="_blank">xrash/smetrics: 用 Go 编写的字符串度量库。</a>
