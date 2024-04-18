@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 18 Apr 2024 09:48:45 +0800</pubDate>
+    <pubDate>Thu, 18 Apr 2024 09:50:10 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>JustSteveKing/php-sdk: PHP SDK 的基础库</title>
-      <pubDate>Thu, 18 Apr 2024 09:48:45 +0800</pubDate>
+      <pubDate>Thu, 18 Apr 2024 09:50:10 +0800</pubDate>
       <link>https://github.com/JustSteveKing/php-sdk</link>
       <guid>https://github.com/JustSteveKing/php-sdk</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/php-sdk" target="_blank">JustSteveKing/php-sdk: PHP SDK 的基础库</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。</title>
-      <pubDate>Thu, 18 Apr 2024 09:48:45 +0800</pubDate>
+      <pubDate>Thu, 18 Apr 2024 09:50:10 +0800</pubDate>
       <link>https://github.com/denzyldick/phanalist</link>
       <guid>https://github.com/denzyldick/phanalist</guid>
       <content:encoded><![CDATA[<a href="https://github.com/denzyldick/phanalist" target="_blank">denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。</title>
-      <pubDate>Thu, 18 Apr 2024 09:48:45 +0800</pubDate>
+      <pubDate>Thu, 18 Apr 2024 09:50:10 +0800</pubDate>
       <link>https://github.com/jason5ng32/MyIP</link>
       <guid>https://github.com/jason5ng32/MyIP</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jason5ng32/MyIP" target="_blank">jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/jason5ng32/MyIP" target="_blank">https://github.com/jason5ng32/MyIP</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本</title>
+      <pubDate>Thu, 18 Apr 2024 09:50:10 +0800</pubDate>
+      <link>https://github.com/fishjar/kiss-translator</link>
+      <guid>https://github.com/fishjar/kiss-translator</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/fishjar/kiss-translator" target="_blank">fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 & 油猴脚本</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/fishjar/kiss-translator" target="_blank">https://github.com/fishjar/kiss-translator</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

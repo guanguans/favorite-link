@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-18T09:48:45+08:00</updated>
+  <updated>2024-04-18T09:50:10+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JustSteveKing/php-sdk: PHP SDK 的基础库]]></title>
-    <published>2024-04-18T09:48:45+08:00</published>
-    <updated>2024-04-18T09:48:45+08:00</updated>
+    <published>2024-04-18T09:50:10+08:00</published>
+    <updated>2024-04-18T09:50:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/php-sdk"/>
     <id>https://github.com/JustSteveKing/php-sdk</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。]]></title>
-    <published>2024-04-18T09:48:45+08:00</published>
-    <updated>2024-04-18T09:48:45+08:00</updated>
+    <published>2024-04-18T09:50:10+08:00</published>
+    <updated>2024-04-18T09:50:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/denzyldick/phanalist"/>
     <id>https://github.com/denzyldick/phanalist</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。]]></title>
-    <published>2024-04-18T09:48:45+08:00</published>
-    <updated>2024-04-18T09:48:45+08:00</updated>
+    <published>2024-04-18T09:50:10+08:00</published>
+    <updated>2024-04-18T09:50:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/jason5ng32/MyIP"/>
     <id>https://github.com/jason5ng32/MyIP</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -56,6 +56,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/jason5ng32/MyIP" target="_blank">https://github.com/jason5ng32/MyIP</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 & 油猴脚本]]></title>
+    <published>2024-04-18T09:50:10+08:00</published>
+    <updated>2024-04-18T09:50:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/fishjar/kiss-translator"/>
+    <id>https://github.com/fishjar/kiss-translator</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/fishjar/kiss-translator" target="_blank">fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/fishjar/kiss-translator" target="_blank">https://github.com/fishjar/kiss-translator</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
