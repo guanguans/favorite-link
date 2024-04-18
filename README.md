@@ -19,6 +19,7 @@
 - [JustSteveKing/php-sdk: PHP SDK 的基础库](https://github.com/JustSteveKing/php-sdk) 
 - [denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。](https://github.com/denzyldick/phanalist) 
 - [jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。](https://github.com/jason5ng32/MyIP) 
+- [fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 & 油猴脚本](https://github.com/fishjar/kiss-translator) 
 ### April 17, 2024 
 - [SRWieZ/thumbhash: Thumbhash在PHP中的实现](https://github.com/SRWieZ/thumbhash) 
 - [mumuy/relationship: 中国亲戚关系计算器](https://github.com/mumuy/relationship) 
