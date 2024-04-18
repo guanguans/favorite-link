@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 18 Apr 2024 09:37:21 +0800</pubDate>
+    <pubDate>Thu, 18 Apr 2024 09:41:40 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>JustSteveKing/php-sdk: PHP SDK 的基础库</title>
-      <pubDate>Thu, 18 Apr 2024 09:37:21 +0800</pubDate>
+      <pubDate>Thu, 18 Apr 2024 09:41:40 +0800</pubDate>
       <link>https://github.com/JustSteveKing/php-sdk</link>
       <guid>https://github.com/JustSteveKing/php-sdk</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/php-sdk" target="_blank">JustSteveKing/php-sdk: PHP SDK 的基础库</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/JustSteveKing/php-sdk" target="_blank">https://github.com/JustSteveKing/php-sdk</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。</title>
+      <pubDate>Thu, 18 Apr 2024 09:41:40 +0800</pubDate>
+      <link>https://github.com/denzyldick/phanalist</link>
+      <guid>https://github.com/denzyldick/phanalist</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/denzyldick/phanalist" target="_blank">denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/denzyldick/phanalist" target="_blank">https://github.com/denzyldick/phanalist</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

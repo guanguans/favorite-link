@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-18T09:37:21+08:00</updated>
+  <updated>2024-04-18T09:41:40+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JustSteveKing/php-sdk: PHP SDK 的基础库]]></title>
-    <published>2024-04-18T09:37:21+08:00</published>
-    <updated>2024-04-18T09:37:21+08:00</updated>
+    <published>2024-04-18T09:41:40+08:00</published>
+    <updated>2024-04-18T09:41:40+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/php-sdk"/>
     <id>https://github.com/JustSteveKing/php-sdk</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -23,6 +23,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/JustSteveKing/php-sdk" target="_blank">https://github.com/JustSteveKing/php-sdk</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。]]></title>
+    <published>2024-04-18T09:41:40+08:00</published>
+    <updated>2024-04-18T09:41:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/denzyldick/phanalist"/>
+    <id>https://github.com/denzyldick/phanalist</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/denzyldick/phanalist" target="_blank">denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP
+代码中的常见错误。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/denzyldick/phanalist" target="_blank">https://github.com/denzyldick/phanalist</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
