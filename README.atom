@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-17T15:10:18+08:00</updated>
+  <updated>2024-04-18T09:37:21+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[JustSteveKing/php-sdk: PHP SDK 的基础库]]></title>
+    <published>2024-04-18T09:37:21+08:00</published>
+    <updated>2024-04-18T09:37:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/php-sdk"/>
+    <id>https://github.com/JustSteveKing/php-sdk</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/JustSteveKing/php-sdk" target="_blank">JustSteveKing/php-sdk: PHP SDK 的基础库</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/JustSteveKing/php-sdk" target="_blank">https://github.com/JustSteveKing/php-sdk</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[SRWieZ/thumbhash: Thumbhash在PHP中的实现]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/SRWieZ/thumbhash"/>
     <id>https://github.com/SRWieZ/thumbhash</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mumuy/relationship: 中国亲戚关系计算器]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/mumuy/relationship"/>
     <id>https://github.com/mumuy/relationship</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Lakr233/BBackupp: 自动化iOS备份机器人]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Lakr233/BBackupp"/>
     <id>https://github.com/Lakr233/BBackupp</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +78,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ryangjchandler/blade-lint"/>
     <id>https://github.com/ryangjchandler/blade-lint</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -78,8 +94,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-static-analysis/attributes: 用于静态分析的属性]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/php-static-analysis/attributes"/>
     <id>https://github.com/php-static-analysis/attributes</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -94,8 +110,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/php-static-analysis/rector-rule"/>
     <id>https://github.com/php-static-analysis/rector-rule</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -111,8 +127,8 @@ ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rectorphp/swiss-knife: 每位升级架构师的口袋里都有一把瑞士刀！]]></title>
-    <published>2024-04-17T15:10:18+08:00</published>
-    <updated>2024-04-17T15:10:18+08:00</updated>
+    <published>2024-04-17T00:00:00+08:00</published>
+    <updated>2024-04-17T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/rectorphp/swiss-knife"/>
     <id>https://github.com/rectorphp/swiss-knife</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
