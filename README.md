@@ -18,6 +18,7 @@
 - [sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的 macOS 应用程序](https://github.com/sindresorhus/LaunchAtLogin-Modern) 
 - [Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件 (Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch) 
 - [yethee/tiktoken-php: tiktoken 是一个用于 OpenAI 模型的快速 BPE 标记器。](https://github.com/yethee/tiktoken-php) 
+- [toy/blueutil: 用于OSX上蓝牙的CLI:电源，可发现状态，列表，查询设备，连接，信息…](https://github.com/toy/blueutil/) 
 ### April 18, 2024 
 - [JustSteveKing/php-sdk: PHP SDK 的基础库](https://github.com/JustSteveKing/php-sdk) 
 - [denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。](https://github.com/denzyldick/phanalist) 
