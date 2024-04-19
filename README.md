@@ -2,7 +2,6 @@
 
 > ❤️ 每天收集喜欢的开源项目。欢迎推荐。
 
-[![lint markdown](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/lint-md.yml)
 [![feed](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml)
 [![mirror](https://github.com/guanguans/favorite-link/actions/workflows/mirror.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/mirror.yml)
 
@@ -10,10 +9,6 @@
 |---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
-
-
-
-
 
 
 ### April 19, 2024 
