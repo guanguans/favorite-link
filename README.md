@@ -21,6 +21,7 @@
 - [amalshaji/portr: 专为团队设计的开源 ngrok 替代方案](https://github.com/amalshaji/portr) 
 - [jolicode/asynit: 用于 API 或更多的异步 HTTP 请求测试库..](https://github.com/jolicode/asynit) 
 - [sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的macOS应用程序](https://github.com/sindresorhus/LaunchAtLogin-Modern) 
+- [Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件（Mac、Windows和Linux）](https://github.com/Teamwork/node-auto-launch) 
 ### April 18, 2024 
 - [JustSteveKing/php-sdk: PHP SDK 的基础库](https://github.com/JustSteveKing/php-sdk) 
 - [denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。](https://github.com/denzyldick/phanalist) 
