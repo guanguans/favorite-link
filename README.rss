@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+    <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>albertborsos/yii2-lib: yii2 的有用类</title>
-      <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
       <link>https://github.com/albertborsos/yii2-lib</link>
       <guid>https://github.com/albertborsos/yii2-lib</guid>
       <content:encoded><![CDATA[<a href="https://github.com/albertborsos/yii2-lib" target="_blank">albertborsos/yii2-lib: yii2 的有用类</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>amalshaji/portr: 专为团队设计的开源 ngrok 替代方案</title>
-      <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
       <link>https://github.com/amalshaji/portr</link>
       <guid>https://github.com/amalshaji/portr</guid>
       <content:encoded><![CDATA[<a href="https://github.com/amalshaji/portr" target="_blank">amalshaji/portr: 专为团队设计的开源 ngrok 替代方案</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>jolicode/asynit: 用于 API 或更多的异步 HTTP 请求测试库..</title>
-      <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
       <link>https://github.com/jolicode/asynit</link>
       <guid>https://github.com/jolicode/asynit</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jolicode/asynit" target="_blank">jolicode/asynit: 用于 API 或更多的异步 HTTP 请求测试库..</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的 macOS 应用程序</title>
-      <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
       <link>https://github.com/sindresorhus/LaunchAtLogin-Modern</link>
       <guid>https://github.com/sindresorhus/LaunchAtLogin-Modern</guid>
       <content:encoded><![CDATA[<a href="https://github.com/sindresorhus/LaunchAtLogin-Modern" target="_blank">sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的 macOS 应用程序</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件 (Mac、Windows 和 Linux)</title>
-      <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
       <link>Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch</link>
       <guid isPermaLink="false">Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch</guid>
       <content:encoded><![CDATA[<a href="Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch" target="_blank">Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件 (Mac、Windows 和 Linux)</a>
@@ -76,13 +76,26 @@
     </item>
     <item>
       <title>yethee/tiktoken-php: tiktoken 是一个用于 OpenAI 模型的快速 BPE 标记器。</title>
-      <pubDate>Fri, 19 Apr 2024 13:18:44 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
       <link>https://github.com/yethee/tiktoken-php</link>
       <guid>https://github.com/yethee/tiktoken-php</guid>
       <content:encoded><![CDATA[<a href="https://github.com/yethee/tiktoken-php" target="_blank">yethee/tiktoken-php: tiktoken 是一个用于 OpenAI 模型的快速 BPE 标记器。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/yethee/tiktoken-php" target="_blank">https://github.com/yethee/tiktoken-php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>toy/blueutil: 用于 OSX 上蓝牙的 CLI: 电源，可发现状态，列表，查询设备，连接，信息……</title>
+      <pubDate>Fri, 19 Apr 2024 14:14:11 +0800</pubDate>
+      <link>https://github.com/toy/blueutil/</link>
+      <guid>https://github.com/toy/blueutil/</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/toy/blueutil/" target="_blank">toy/blueutil: 用于 OSX 上蓝牙的 CLI: 电源，可发现状态，列表，查询设备，连接，信息……</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/toy/blueutil/" target="_blank">https://github.com/toy/blueutil/</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
