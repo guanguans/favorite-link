@@ -3,18 +3,18 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 19 Apr 2024 11:41:29 +0800</pubDate>
+    <pubDate>Fri, 19 Apr 2024 13:12:27 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
-      <title>albertborsos/yii2-lib: yii2的有用类</title>
-      <pubDate>Fri, 19 Apr 2024 11:41:29 +0800</pubDate>
+      <title>albertborsos/yii2-lib: yii2 的有用类</title>
+      <pubDate>Fri, 19 Apr 2024 13:12:27 +0800</pubDate>
       <link>https://github.com/albertborsos/yii2-lib</link>
       <guid>https://github.com/albertborsos/yii2-lib</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/albertborsos/yii2-lib" target="_blank">albertborsos/yii2-lib: yii2的有用类</a>
+      <content:encoded><![CDATA[<a href="https://github.com/albertborsos/yii2-lib" target="_blank">albertborsos/yii2-lib: yii2 的有用类</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/albertborsos/yii2-lib" target="_blank">https://github.com/albertborsos/yii2-lib</a></li>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>amalshaji/portr: 专为团队设计的开源 ngrok 替代方案</title>
-      <pubDate>Fri, 19 Apr 2024 11:41:29 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 13:12:27 +0800</pubDate>
       <link>https://github.com/amalshaji/portr</link>
       <guid>https://github.com/amalshaji/portr</guid>
       <content:encoded><![CDATA[<a href="https://github.com/amalshaji/portr" target="_blank">amalshaji/portr: 专为团队设计的开源 ngrok 替代方案</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>jolicode/asynit: 用于 API 或更多的异步 HTTP 请求测试库..</title>
-      <pubDate>Fri, 19 Apr 2024 11:41:29 +0800</pubDate>
+      <pubDate>Fri, 19 Apr 2024 13:12:27 +0800</pubDate>
       <link>https://github.com/jolicode/asynit</link>
       <guid>https://github.com/jolicode/asynit</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jolicode/asynit" target="_blank">jolicode/asynit: 用于 API 或更多的异步 HTTP 请求测试库..</a>
@@ -49,11 +49,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的macOS应用程序</title>
-      <pubDate>Fri, 19 Apr 2024 11:41:29 +0800</pubDate>
+      <title>sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的 macOS 应用程序</title>
+      <pubDate>Fri, 19 Apr 2024 13:12:27 +0800</pubDate>
       <link>https://github.com/sindresorhus/LaunchAtLogin-Modern</link>
       <guid>https://github.com/sindresorhus/LaunchAtLogin-Modern</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/sindresorhus/LaunchAtLogin-Modern" target="_blank">sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的macOS应用程序</a>
+      <content:encoded><![CDATA[<a href="https://github.com/sindresorhus/LaunchAtLogin-Modern" target="_blank">sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的 macOS 应用程序</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/sindresorhus/LaunchAtLogin-Modern" target="_blank">https://github.com/sindresorhus/LaunchAtLogin-Modern</a></li>
@@ -62,14 +62,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件（Mac、Windows和Linux）</title>
-      <pubDate>Fri, 19 Apr 2024 11:41:29 +0800</pubDate>
-      <link>https://github.com/Teamwork/node-auto-launch</link>
-      <guid>https://github.com/Teamwork/node-auto-launch</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/Teamwork/node-auto-launch" target="_blank">Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件（Mac、Windows和Linux）</a>
+      <title>Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件 (Mac、Windows 和 Linux)</title>
+      <pubDate>Fri, 19 Apr 2024 13:12:27 +0800</pubDate>
+      <link>Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch</link>
+      <guid isPermaLink="false">Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch</guid>
+      <content:encoded><![CDATA[<a href="Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch" target="_blank">Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件 (Mac、Windows 和 Linux)</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="https://github.com/Teamwork/node-auto-launch" target="_blank">https://github.com/Teamwork/node-auto-launch</a></li>
+    <li><a href="Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch" target="_blank">Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -101,11 +101,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。</title>
+      <title>jason5ng32/MyIP: 🇨🇳 可能是最好用的 IP 工具箱。</title>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/jason5ng32/MyIP</link>
       <guid>https://github.com/jason5ng32/MyIP</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/jason5ng32/MyIP" target="_blank">jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。</a>
+      <content:encoded><![CDATA[<a href="https://github.com/jason5ng32/MyIP" target="_blank">jason5ng32/MyIP: 🇨🇳 可能是最好用的 IP 工具箱。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/jason5ng32/MyIP" target="_blank">https://github.com/jason5ng32/MyIP</a></li>
@@ -114,11 +114,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本</title>
+      <title>fishjar/kiss-translator: 一个简约、开源的双语对照翻译扩展 &amp; 油猴脚本</title>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/fishjar/kiss-translator</link>
       <guid>https://github.com/fishjar/kiss-translator</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/fishjar/kiss-translator" target="_blank">fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 & 油猴脚本</a>
+      <content:encoded><![CDATA[<a href="https://github.com/fishjar/kiss-translator" target="_blank">fishjar/kiss-translator: 一个简约、开源的双语对照翻译扩展 & 油猴脚本</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/fishjar/kiss-translator" target="_blank">https://github.com/fishjar/kiss-translator</a></li>
@@ -140,11 +140,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>SRWieZ/thumbhash: Thumbhash在PHP中的实现</title>
+      <title>SRWieZ/thumbhash: Thumbhash 在 PHP 中的实现</title>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/SRWieZ/thumbhash</link>
       <guid>https://github.com/SRWieZ/thumbhash</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/SRWieZ/thumbhash" target="_blank">SRWieZ/thumbhash: Thumbhash在PHP中的实现</a>
+      <content:encoded><![CDATA[<a href="https://github.com/SRWieZ/thumbhash" target="_blank">SRWieZ/thumbhash: Thumbhash 在 PHP 中的实现</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/SRWieZ/thumbhash" target="_blank">https://github.com/SRWieZ/thumbhash</a></li>
@@ -166,11 +166,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Lakr233/BBackupp: 自动化iOS备份机器人</title>
+      <title>Lakr233/BBackupp: 自动化 iOS 备份机器人</title>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Lakr233/BBackupp</link>
       <guid>https://github.com/Lakr233/BBackupp</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/Lakr233/BBackupp" target="_blank">Lakr233/BBackupp: 自动化iOS备份机器人</a>
+      <content:encoded><![CDATA[<a href="https://github.com/Lakr233/BBackupp" target="_blank">Lakr233/BBackupp: 自动化 iOS 备份机器人</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Lakr233/BBackupp" target="_blank">https://github.com/Lakr233/BBackupp</a></li>
@@ -179,11 +179,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板</title>
+      <title>ryangjchandler/blade-lint: 验证和分析 Laravel 项目中的 Blade 模板</title>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ryangjchandler/blade-lint</link>
       <guid>https://github.com/ryangjchandler/blade-lint</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/blade-lint" target="_blank">ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板</a>
+      <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/blade-lint" target="_blank">ryangjchandler/blade-lint: 验证和分析 Laravel 项目中的 Blade 模板</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/ryangjchandler/blade-lint" target="_blank">https://github.com/ryangjchandler/blade-lint</a></li>
@@ -205,11 +205,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性</title>
+      <title>php-static-analysis/rector-rule: ReCtorPHP 规则将静态分析的 PHPDOC 注释转换为 PHP 属性</title>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/php-static-analysis/rector-rule</link>
       <guid>https://github.com/php-static-analysis/rector-rule</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/php-static-analysis/rector-rule" target="_blank">php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性</a>
+      <content:encoded><![CDATA[<a href="https://github.com/php-static-analysis/rector-rule" target="_blank">php-static-analysis/rector-rule: ReCtorPHP 规则将静态分析的 PHPDOC 注释转换为 PHP 属性</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/php-static-analysis/rector-rule" target="_blank">https://github.com/php-static-analysis/rector-rule</a></li>
