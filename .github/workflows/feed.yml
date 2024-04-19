@@ -4,23 +4,41 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - '.github/**.yml'
-      - '.github/**.yaml'
-      - '**.php'
       - '**.md'
+      - '**.php'
+      - '.*rc'
+      - '.github/**.yaml'
+      - '.github/**.yml'
   pull_request:
     paths:
-      - '.github/**.yml'
-      - '.github/**.yaml'
-      - '**.php'
       - '**.md'
+      - '**.php'
+      - '.*rc'
+      - '.github/**.yaml'
+      - '.github/**.yml'
 
 jobs:
   feed:
     name: feed
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set node version
+        uses: actions/setup-node@v4
+
+      - name: Install lint-md
+        run: npm install @lint-md/cli -g
+
+      - name: Install zhlint
+        run: npm install zhlint -g
+
+      - name: Fix markdown
+        run: lint-md 'README.md' --config=.lintmdrc --threads --fix
+
+      - name: Fix zh_CN
+        run: zhlint 'README.md' --config=.zhlintrc --fix
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -46,4 +64,4 @@ jobs:
         with:
           commit_options: '--no-verify'
           commit_message: 'Update feed'
-          file_pattern: '**.atom **.rss'
+          file_pattern: '**.atom **.rss README.md'
