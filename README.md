@@ -17,24 +17,24 @@
 
 
 ### April 19, 2024 
-- [albertborsos/yii2-lib: yii2的有用类](https://github.com/albertborsos/yii2-lib) 
+- [albertborsos/yii2-lib: yii2 的有用类](https://github.com/albertborsos/yii2-lib) 
 - [amalshaji/portr: 专为团队设计的开源 ngrok 替代方案](https://github.com/amalshaji/portr) 
 - [jolicode/asynit: 用于 API 或更多的异步 HTTP 请求测试库..](https://github.com/jolicode/asynit) 
-- [sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的macOS应用程序](https://github.com/sindresorhus/LaunchAtLogin-Modern) 
-- [Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件（Mac、Windows和Linux）](https://github.com/Teamwork/node-auto-launch) 
+- [sindresorhus/LaunchAtLogin-Modern: 在几秒钟内将“登录时启动”功能添加到您的 macOS 应用程序](https://github.com/sindresorhus/LaunchAtLogin-Modern) 
+- [Teamwork/node-auto-launch: 登录时启动应用程序或可执行文件 (Mac、Windows 和 Linux)](https://github.com/Teamwork/node-auto-launch) 
 ### April 18, 2024 
 - [JustSteveKing/php-sdk: PHP SDK 的基础库](https://github.com/JustSteveKing/php-sdk) 
 - [denzyldick/phanalist: PHP 的高性能静态分析器，非常易于使用。它可以帮助您发现 PHP 代码中的常见错误。](https://github.com/denzyldick/phanalist) 
-- [jason5ng32/MyIP: 🇨🇳 可能是最好用的IP工具箱。](https://github.com/jason5ng32/MyIP) 
-- [fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 & 油猴脚本](https://github.com/fishjar/kiss-translator) 
+- [jason5ng32/MyIP: 🇨🇳 可能是最好用的 IP 工具箱。](https://github.com/jason5ng32/MyIP) 
+- [fishjar/kiss-translator: 一个简约、开源的双语对照翻译扩展 & 油猴脚本](https://github.com/fishjar/kiss-translator) 
 - [regex101: 构建、测试和调试正则表达式](https://regex101.com/) 
 ### April 17, 2024 
-- [SRWieZ/thumbhash: Thumbhash在PHP中的实现](https://github.com/SRWieZ/thumbhash) 
+- [SRWieZ/thumbhash: Thumbhash 在 PHP 中的实现](https://github.com/SRWieZ/thumbhash) 
 - [mumuy/relationship: 中国亲戚关系计算器](https://github.com/mumuy/relationship) 
-- [Lakr233/BBackupp: 自动化iOS备份机器人](https://github.com/Lakr233/BBackupp) 
-- [ryangjchandler/blade-lint: 验证和分析Laravel项目中的Blade模板](https://github.com/ryangjchandler/blade-lint) 
+- [Lakr233/BBackupp: 自动化 iOS 备份机器人](https://github.com/Lakr233/BBackupp) 
+- [ryangjchandler/blade-lint: 验证和分析 Laravel 项目中的 Blade 模板](https://github.com/ryangjchandler/blade-lint) 
 - [php-static-analysis/attributes: 用于静态分析的属性](https://github.com/php-static-analysis/attributes) 
-- [php-static-analysis/rector-rule: ReCtorPHP规则将静态分析的PHPDOC注释转换为PHP属性](https://github.com/php-static-analysis/rector-rule) 
+- [php-static-analysis/rector-rule: ReCtorPHP 规则将静态分析的 PHPDOC 注释转换为 PHP 属性](https://github.com/php-static-analysis/rector-rule) 
 - [rectorphp/swiss-knife: 每位升级架构师的口袋里都有一把瑞士刀！](https://github.com/rectorphp/swiss-knife) 
 ### April 16, 2024 
 - [mattn/go-isatty: Golang 的 Isatty](https://github.com/mattn/go-isatty) 
