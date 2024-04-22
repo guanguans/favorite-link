@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### April 22, 2024 
+- [soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。](https://github.com/soulteary/webhook) 
 ### April 19, 2024 
 - [albertborsos/yii2-lib: yii2 的有用类](https://github.com/albertborsos/yii2-lib) 
 - [amalshaji/portr: 专为团队设计的开源 ngrok 替代方案](https://github.com/amalshaji/portr) 
