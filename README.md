@@ -19,6 +19,7 @@
 - [thebarbican19/BatteryBoi: MacOS 菜单栏的替换电池指示器。](https://github.com/thebarbican19/BatteryBoi) 
 - [S1lentium/IPTools: 用于操作网络地址 (IPv4 和 IPv6) 的 PHP 库](https://github.com/S1lentium/IPTools) 
 - [Laravel-Backpack/basset: Laravel 应用程序的更好资产助手。](https://github.com/Laravel-Backpack/basset) 
+- [Hi-Folks/fusion: Fusion是一个Laravel包，旨在通过Eloquent Models管理Markdown内容。](https://github.com/Hi-Folks/fusion) 
 ### April 19, 2024 
 - [albertborsos/yii2-lib: yii2 的有用类](https://github.com/albertborsos/yii2-lib) 
 - [amalshaji/portr: 专为团队设计的开源 ngrok 替代方案](https://github.com/amalshaji/portr) 
