@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 22 Apr 2024 09:54:37 +0800</pubDate>
+    <pubDate>Mon, 22 Apr 2024 09:56:47 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。</title>
-      <pubDate>Mon, 22 Apr 2024 09:54:37 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 09:56:47 +0800</pubDate>
       <link>https://github.com/soulteary/webhook</link>
       <guid>https://github.com/soulteary/webhook</guid>
       <content:encoded><![CDATA[<a href="https://github.com/soulteary/webhook" target="_blank">soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>pronskiy/phpup: PHP 工具链</title>
-      <pubDate>Mon, 22 Apr 2024 09:54:37 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 09:56:47 +0800</pubDate>
       <link>https://github.com/pronskiy/phpup</link>
       <guid>https://github.com/pronskiy/phpup</guid>
       <content:encoded><![CDATA[<a href="https://github.com/pronskiy/phpup" target="_blank">pronskiy/phpup: PHP 工具链</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/pronskiy/phpup" target="_blank">https://github.com/pronskiy/phpup</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>wez/wezterm: 用 Rust 实现的 GPU 加速的跨平台虚拟终端和多路复用器</title>
+      <pubDate>Mon, 22 Apr 2024 09:56:47 +0800</pubDate>
+      <link>https://github.com/wez/wezterm</link>
+      <guid>https://github.com/wez/wezterm</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/wez/wezterm" target="_blank">wez/wezterm: 用 Rust 实现的 GPU 加速的跨平台虚拟终端和多路复用器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/wez/wezterm" target="_blank">https://github.com/wez/wezterm</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
