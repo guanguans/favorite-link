@@ -15,6 +15,7 @@
 ### April 22, 2024 
 - [soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。](https://github.com/soulteary/webhook) 
 - [pronskiy/phpup: PHP 工具链](https://github.com/pronskiy/phpup) 
+- [wez/wezterm: 用 Rust 实现的 GPU 加速的跨平台虚拟终端和多路复用器](https://github.com/wez/wezterm) 
 ### April 19, 2024 
 - [albertborsos/yii2-lib: yii2 的有用类](https://github.com/albertborsos/yii2-lib) 
 - [amalshaji/portr: 专为团队设计的开源 ngrok 替代方案](https://github.com/amalshaji/portr) 
