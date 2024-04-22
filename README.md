@@ -20,6 +20,7 @@
 - [S1lentium/IPTools: 用于操作网络地址 (IPv4 和 IPv6) 的 PHP 库](https://github.com/S1lentium/IPTools) 
 - [Laravel-Backpack/basset: Laravel 应用程序的更好资产助手。](https://github.com/Laravel-Backpack/basset) 
 - [Hi-Folks/fusion: Fusion 是一个 Laravel 包，旨在通过 Eloquent Models 管理 Markdown 内容。](https://github.com/Hi-Folks/fusion) 
+- [alin23/Lunar: 为外置显示器提供智能自适应亮度](https://github.com/alin23/Lunar) 
 ### April 19, 2024 
 - [albertborsos/yii2-lib: yii2 的有用类](https://github.com/albertborsos/yii2-lib) 
 - [amalshaji/portr: 专为团队设计的开源 ngrok 替代方案](https://github.com/amalshaji/portr) 
