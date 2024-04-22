@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+    <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。</title>
-      <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
       <link>https://github.com/soulteary/webhook</link>
       <guid>https://github.com/soulteary/webhook</guid>
       <content:encoded><![CDATA[<a href="https://github.com/soulteary/webhook" target="_blank">soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>pronskiy/phpup: PHP 工具链</title>
-      <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
       <link>https://github.com/pronskiy/phpup</link>
       <guid>https://github.com/pronskiy/phpup</guid>
       <content:encoded><![CDATA[<a href="https://github.com/pronskiy/phpup" target="_blank">pronskiy/phpup: PHP 工具链</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>wez/wezterm: 用 Rust 实现的 GPU 加速的跨平台虚拟终端和多路复用器</title>
-      <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
       <link>https://github.com/wez/wezterm</link>
       <guid>https://github.com/wez/wezterm</guid>
       <content:encoded><![CDATA[<a href="https://github.com/wez/wezterm" target="_blank">wez/wezterm: 用 Rust 实现的 GPU 加速的跨平台虚拟终端和多路复用器</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>thebarbican19/BatteryBoi: MacOS 菜单栏的替换电池指示器。</title>
-      <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
       <link>https://github.com/thebarbican19/BatteryBoi</link>
       <guid>https://github.com/thebarbican19/BatteryBoi</guid>
       <content:encoded><![CDATA[<a href="https://github.com/thebarbican19/BatteryBoi" target="_blank">thebarbican19/BatteryBoi: MacOS 菜单栏的替换电池指示器。</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>S1lentium/IPTools: 用于操作网络地址 (IPv4 和 IPv6) 的 PHP 库</title>
-      <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
       <link>IPv4 和 IPv6) 的 PHP 库](https://github.com/S1lentium/IPTools</link>
       <guid isPermaLink="false">IPv4 和 IPv6) 的 PHP 库](https://github.com/S1lentium/IPTools</guid>
       <content:encoded><![CDATA[<a href="IPv4 和 IPv6) 的 PHP 库](https://github.com/S1lentium/IPTools" target="_blank">S1lentium/IPTools: 用于操作网络地址 (IPv4 和 IPv6) 的 PHP 库</a>
@@ -76,13 +76,26 @@
     </item>
     <item>
       <title>Laravel-Backpack/basset: Laravel 应用程序的更好资产助手。</title>
-      <pubDate>Mon, 22 Apr 2024 10:21:49 +0800</pubDate>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
       <link>https://github.com/Laravel-Backpack/basset</link>
       <guid>https://github.com/Laravel-Backpack/basset</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Laravel-Backpack/basset" target="_blank">Laravel-Backpack/basset: Laravel 应用程序的更好资产助手。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Laravel-Backpack/basset" target="_blank">https://github.com/Laravel-Backpack/basset</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hi-Folks/fusion: Fusion 是一个 Laravel 包，旨在通过 Eloquent Models 管理 Markdown 内容。</title>
+      <pubDate>Mon, 22 Apr 2024 10:44:52 +0800</pubDate>
+      <link>https://github.com/Hi-Folks/fusion</link>
+      <guid>https://github.com/Hi-Folks/fusion</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Hi-Folks/fusion" target="_blank">Hi-Folks/fusion: Fusion 是一个 Laravel 包，旨在通过 Eloquent Models 管理 Markdown 内容。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Hi-Folks/fusion" target="_blank">https://github.com/Hi-Folks/fusion</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
