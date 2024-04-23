@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 23 Apr 2024 10:03:16 +0800</pubDate>
+    <pubDate>Tue, 23 Apr 2024 10:05:09 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>buggregator/trap: Buggregator PHP 助手和本地调试服务器</title>
-      <pubDate>Tue, 23 Apr 2024 10:03:16 +0800</pubDate>
+      <pubDate>Tue, 23 Apr 2024 10:05:09 +0800</pubDate>
       <link>https://github.com/buggregator/trap</link>
       <guid>https://github.com/buggregator/trap</guid>
       <content:encoded><![CDATA[<a href="https://github.com/buggregator/trap" target="_blank">buggregator/trap: Buggregator PHP 助手和本地调试服务器</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>ankane/onnxruntime-php: 在 PHP 中运行 ONNX 模型</title>
-      <pubDate>Tue, 23 Apr 2024 10:03:16 +0800</pubDate>
+      <pubDate>Tue, 23 Apr 2024 10:05:09 +0800</pubDate>
       <link>https://github.com/ankane/onnxruntime-php</link>
       <guid>https://github.com/ankane/onnxruntime-php</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ankane/onnxruntime-php" target="_blank">ankane/onnxruntime-php: 在 PHP 中运行 ONNX 模型</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/ankane/onnxruntime-php" target="_blank">https://github.com/ankane/onnxruntime-php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>olinox14/path-php: 面向对象的文件和路径操作，灵感来自 path.py python 库。</title>
+      <pubDate>Tue, 23 Apr 2024 10:05:09 +0800</pubDate>
+      <link>https://github.com/olinox14/path-php</link>
+      <guid>https://github.com/olinox14/path-php</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/olinox14/path-php" target="_blank">olinox14/path-php: 面向对象的文件和路径操作，灵感来自 path.py python 库。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/olinox14/path-php" target="_blank">https://github.com/olinox14/path-php</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
