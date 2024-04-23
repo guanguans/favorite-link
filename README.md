@@ -17,6 +17,7 @@
 - [buggregator/trap: Buggregator PHP 助手和本地调试服务器](https://github.com/buggregator/trap) 
 - [ankane/onnxruntime-php: 在 PHP 中运行 ONNX 模型](https://github.com/ankane/onnxruntime-php) 
 - [olinox14/path-php: 面向对象的文件和路径操作，灵感来自 path.py python 库。](https://github.com/olinox14/path-php) 
+- [lich4/ChargeLimiter: 受 AlDente 启发而开发的 iOS 充电限制器](https://github.com/lich4/ChargeLimiter) 
 ### April 22, 2024 
 - [soulteary/webhook: 稳定靠谱的网络钩子，快速连接各种系统。](https://github.com/soulteary/webhook) 
 - [pronskiy/phpup: PHP 工具链](https://github.com/pronskiy/phpup) 
