@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 24 Apr 2024 09:32:07 +0800</pubDate>
+    <pubDate>Wed, 24 Apr 2024 09:35:49 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,39 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>langgenius/dify: Dify 是一个开源 LLM 应用程序开发平台。</title>
-      <pubDate>Wed, 24 Apr 2024 09:32:07 +0800</pubDate>
+      <pubDate>Wed, 24 Apr 2024 09:35:49 +0800</pubDate>
       <link>https://github.com/langgenius/dify</link>
       <guid>https://github.com/langgenius/dify</guid>
       <content:encoded><![CDATA[<a href="https://github.com/langgenius/dify" target="_blank">langgenius/dify: Dify 是一个开源 LLM 应用程序开发平台。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/langgenius/dify" target="_blank">https://github.com/langgenius/dify</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>RealAlexandreAI/json-repair: 🔧 修复 JSON！解决来自 LLM 的 JSON 异常。</title>
+      <pubDate>Wed, 24 Apr 2024 09:35:49 +0800</pubDate>
+      <link>https://github.com/RealAlexandreAI/json-repair</link>
+      <guid>https://github.com/RealAlexandreAI/json-repair</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/RealAlexandreAI/json-repair" target="_blank">RealAlexandreAI/json-repair: 🔧 修复 JSON！解决来自 LLM 的 JSON 异常。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/RealAlexandreAI/json-repair" target="_blank">https://github.com/RealAlexandreAI/json-repair</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>billabear/billabear: 订阅管理和计费系统</title>
+      <pubDate>Wed, 24 Apr 2024 09:35:49 +0800</pubDate>
+      <link>https://github.com/billabear/billabear</link>
+      <guid>https://github.com/billabear/billabear</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/billabear/billabear" target="_blank">billabear/billabear: 订阅管理和计费系统</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/billabear/billabear" target="_blank">https://github.com/billabear/billabear</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
