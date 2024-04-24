@@ -16,6 +16,7 @@
 
 ### April 24, 2024 
 - [langgenius/dify: Dify 是一个开源 LLM 应用程序开发平台。](https://github.com/langgenius/dify) 
+- [RealAlexandreAI/json-repair: 🔧 修复 JSON！解决来自 LLM 的 JSON 异常。](https://github.com/RealAlexandreAI/json-repair) 
 ### April 23, 2024 
 - [buggregator/trap: Buggregator PHP 助手和本地调试服务器](https://github.com/buggregator/trap) 
 - [ankane/onnxruntime-php: 在 PHP 中运行 ONNX 模型](https://github.com/ankane/onnxruntime-php) 
