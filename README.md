@@ -18,6 +18,7 @@
 ### April 25, 2024 
 - [Zxilly/go-size-analyzer: 分析 Golang 二进制文件编译后依赖关系大小的工具，可深入了解依赖关系对最终构建的影响。](https://github.com/Zxilly/go-size-analyzer) 
 - [bepsvpt/blurhash: 集成了 Laravel 的 BlurHash PHP 实现。](https://github.com/bepsvpt/blurhash) 
+- [Laravel Redis 节流器详解教程](https://inspector.dev/laravel-redis-throttle-in-details-tutorial/) 
 ### April 24, 2024 
 - [langgenius/dify: Dify 是一个开源 LLM 应用程序开发平台。](https://github.com/langgenius/dify) 
 - [RealAlexandreAI/json-repair: 🔧 修复 JSON！解决来自 LLM 的 JSON 异常。](https://github.com/RealAlexandreAI/json-repair) 
