@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 25 Apr 2024 09:37:31 +0800</pubDate>
+    <pubDate>Thu, 25 Apr 2024 13:40:22 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Zxilly/go-size-analyzer: 分析 Golang 二进制文件编译后依赖关系大小的工具，可深入了解依赖关系对最终构建的影响。</title>
-      <pubDate>Thu, 25 Apr 2024 09:37:31 +0800</pubDate>
+      <pubDate>Thu, 25 Apr 2024 13:40:22 +0800</pubDate>
       <link>https://github.com/Zxilly/go-size-analyzer</link>
       <guid>https://github.com/Zxilly/go-size-analyzer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Zxilly/go-size-analyzer" target="_blank">Zxilly/go-size-analyzer: 分析 Golang 二进制文件编译后依赖关系大小的工具，可深入了解依赖关系对最终构建的影响。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>bepsvpt/blurhash: 集成了 Laravel 的 BlurHash PHP 实现。</title>
-      <pubDate>Thu, 25 Apr 2024 09:37:31 +0800</pubDate>
+      <pubDate>Thu, 25 Apr 2024 13:40:22 +0800</pubDate>
       <link>https://github.com/bepsvpt/blurhash</link>
       <guid>https://github.com/bepsvpt/blurhash</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bepsvpt/blurhash" target="_blank">bepsvpt/blurhash: 集成了 Laravel 的 BlurHash PHP 实现。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/bepsvpt/blurhash" target="_blank">https://github.com/bepsvpt/blurhash</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Laravel Redis 节流器详解教程</title>
+      <pubDate>Thu, 25 Apr 2024 13:40:22 +0800</pubDate>
+      <link>https://inspector.dev/laravel-redis-throttle-in-details-tutorial/</link>
+      <guid>https://inspector.dev/laravel-redis-throttle-in-details-tutorial/</guid>
+      <content:encoded><![CDATA[<a href="https://inspector.dev/laravel-redis-throttle-in-details-tutorial/" target="_blank">Laravel Redis 节流器详解教程</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://inspector.dev/laravel-redis-throttle-in-details-tutorial/" target="_blank">https://inspector.dev/laravel-redis-throttle-in-details-tutorial/</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
