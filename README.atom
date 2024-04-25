@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-25T09:35:45+08:00</updated>
+  <updated>2024-04-25T09:37:31+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Zxilly/go-size-analyzer: 分析 Golang 二进制文件编译后依赖关系大小的工具，可深入了解依赖关系对最终构建的影响。]]></title>
-    <published>2024-04-25T09:35:45+08:00</published>
-    <updated>2024-04-25T09:35:45+08:00</updated>
+    <published>2024-04-25T09:37:31+08:00</published>
+    <updated>2024-04-25T09:37:31+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Zxilly/go-size-analyzer"/>
     <id>https://github.com/Zxilly/go-size-analyzer</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -24,6 +24,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/Zxilly/go-size-analyzer" target="_blank">https://github.com/Zxilly/go-size-analyzer</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[bepsvpt/blurhash: 集成了 Laravel 的 BlurHash PHP 实现。]]></title>
+    <published>2024-04-25T09:37:31+08:00</published>
+    <updated>2024-04-25T09:37:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/bepsvpt/blurhash"/>
+    <id>https://github.com/bepsvpt/blurhash</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/bepsvpt/blurhash" target="_blank">bepsvpt/blurhash: 集成了 Laravel 的 BlurHash PHP 实现。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/bepsvpt/blurhash" target="_blank">https://github.com/bepsvpt/blurhash</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
