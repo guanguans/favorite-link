@@ -19,6 +19,7 @@
 ### April 26, 2024 
 - [kambo-1st/llama-cpp-php: 通过该软件包，可以在 PHP 中使用 LLama C++ 库，从而可以在本地计算机上用 PHP 设置和执行 LLM 模型。](https://github.com/kambo-1st/llama-cpp-php) 
 - [coderflexx/laravel-turnstile: 帮助您在 laravel 应用程序中实施 Cloudflare turnstile "验证码替代方案 "的软件包](https://github.com/coderflexx/laravel-turnstile) 
+- [saade/filament-adjacency-list: 用于管理邻接表（又称树）的 Filament 软件包。](https://github.com/saade/filament-adjacency-list) 
 ### April 25, 2024 
 - [Zxilly/go-size-analyzer: 分析 Golang 二进制文件编译后依赖关系大小的工具，可深入了解依赖关系对最终构建的影响。](https://github.com/Zxilly/go-size-analyzer) 
 - [bepsvpt/blurhash: 集成了 Laravel 的 BlurHash PHP 实现。](https://github.com/bepsvpt/blurhash) 
