@@ -20,6 +20,7 @@
 ### April 27, 2024 
 - [wilderborn/partyline: 从命令类外部输出到 Laravel 控制台。](https://github.com/wilderborn/partyline) 
 - [arifhp86/laravel-clear-expired-cache-file: 删除 laravel 过期缓存文件/文件夹](https://github.com/arifhp86/laravel-clear-expired-cache-file) 
+- [DirectoryTree/Authorization: 简易的本地 Laravel 用户授权。](https://github.com/DirectoryTree/Authorization) 
 ### April 26, 2024 
 - [kambo-1st/llama-cpp-php: 通过该软件包，可以在 PHP 中使用 LLama C++ 库，从而可以在本地计算机上用 PHP 设置和执行 LLM 模型。](https://github.com/kambo-1st/llama-cpp-php) 
 - [coderflexx/laravel-turnstile: 帮助您在 laravel 应用程序中实施 Cloudflare turnstile "验证码替代方案" 的软件包](https://github.com/coderflexx/laravel-turnstile) 
