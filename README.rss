@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 27 Apr 2024 12:12:38 +0800</pubDate>
+    <pubDate>Sat, 27 Apr 2024 12:13:35 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>wilderborn/partyline: 从命令类外部输出到 Laravel 控制台。</title>
-      <pubDate>Sat, 27 Apr 2024 12:12:38 +0800</pubDate>
+      <pubDate>Sat, 27 Apr 2024 12:13:35 +0800</pubDate>
       <link>https://github.com/wilderborn/partyline</link>
       <guid>https://github.com/wilderborn/partyline</guid>
       <content:encoded><![CDATA[<a href="https://github.com/wilderborn/partyline" target="_blank">wilderborn/partyline: 从命令类外部输出到 Laravel 控制台。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>arifhp86/laravel-clear-expired-cache-file: 删除 laravel 过期缓存文件/文件夹</title>
-      <pubDate>Sat, 27 Apr 2024 12:12:38 +0800</pubDate>
+      <pubDate>Sat, 27 Apr 2024 12:13:35 +0800</pubDate>
       <link>https://github.com/arifhp86/laravel-clear-expired-cache-file</link>
       <guid>https://github.com/arifhp86/laravel-clear-expired-cache-file</guid>
       <content:encoded><![CDATA[<a href="https://github.com/arifhp86/laravel-clear-expired-cache-file" target="_blank">arifhp86/laravel-clear-expired-cache-file: 删除 laravel 过期缓存文件/文件夹</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>DirectoryTree/Authorization: 简易的本地 Laravel 用户授权。</title>
-      <pubDate>Sat, 27 Apr 2024 12:12:38 +0800</pubDate>
+      <pubDate>Sat, 27 Apr 2024 12:13:35 +0800</pubDate>
       <link>https://github.com/DirectoryTree/Authorization</link>
       <guid>https://github.com/DirectoryTree/Authorization</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DirectoryTree/Authorization" target="_blank">DirectoryTree/Authorization: 简易的本地 Laravel 用户授权。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/DirectoryTree/Authorization" target="_blank">https://github.com/DirectoryTree/Authorization</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>goksan/Statusnook: 轻松部署状态页面，几分钟内即可开始监控端点</title>
+      <pubDate>Sat, 27 Apr 2024 12:13:35 +0800</pubDate>
+      <link>https://github.com/goksan/Statusnook</link>
+      <guid>https://github.com/goksan/Statusnook</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/goksan/Statusnook" target="_blank">goksan/Statusnook: 轻松部署状态页面，几分钟内即可开始监控端点</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/goksan/Statusnook" target="_blank">https://github.com/goksan/Statusnook</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
