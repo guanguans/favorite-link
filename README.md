@@ -21,7 +21,7 @@
 ### April 28, 2024 
 - [bottlerocket-os/bottlerocket: 专为托管容器而设计的操作系统](https://github.com/bottlerocket-os/bottlerocket) 
 - [vChewing/vChewing-macOS: 威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法](https://github.com/vChewing/vChewing-macOS) 
-- [studyzy/imewlconverter: ”深蓝词库转换“ 一款开源免费的输入法词库转换程序](https://github.com/studyzy/imewlconverter) 
+- [studyzy/imewlconverter: ”深蓝词库转换“一款开源免费的输入法词库转换程序](https://github.com/studyzy/imewlconverter)
 ### April 27, 2024 
 - [wilderborn/partyline: 从命令类外部输出到 Laravel 控制台。](https://github.com/wilderborn/partyline) 
 - [arifhp86/laravel-clear-expired-cache-file: 删除 laravel 过期缓存文件/文件夹](https://github.com/arifhp86/laravel-clear-expired-cache-file) 
