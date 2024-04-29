@@ -23,6 +23,7 @@
 - [openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。](https://github.com/openbao/openbao) 
 - [dreamhunter2333/cloudflare_temp_email: 使用 cloudflare 免费服务，搭建临时邮箱](https://github.com/dreamhunter2333/cloudflare_temp_email) 
 - [Thavarshan/filterable: 利用可调整、可定制的过滤器和智能缓存来增强 Laravel 查询，从而提高性能和功能。](https://github.com/Thavarshan/filterable) 
+- [abr4xas/clarity-laravel: 轻松将 Microsoft Clarity 集成到您的 Laravel 应用程序中。](https://github.com/abr4xas/clarity-laravel) 
 ### April 28, 2024 
 - [bottlerocket-os/bottlerocket: 专为托管容器而设计的操作系统](https://github.com/bottlerocket-os/bottlerocket) 
 - [vChewing/vChewing-macOS: 威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法](https://github.com/vChewing/vChewing-macOS) 
