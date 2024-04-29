@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 28 Apr 2024 14:38:01 +0800</pubDate>
+    <pubDate>Mon, 29 Apr 2024 09:33:02 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。</title>
+      <pubDate>Mon, 29 Apr 2024 09:33:02 +0800</pubDate>
+      <link>https://github.com/openbao/openbao</link>
+      <guid>https://github.com/openbao/openbao</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/openbao/openbao" target="_blank">openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/openbao/openbao" target="_blank">https://github.com/openbao/openbao</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>bottlerocket-os/bottlerocket: 专为托管容器而设计的操作系统</title>
-      <pubDate>Sun, 28 Apr 2024 14:38:01 +0800</pubDate>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/bottlerocket-os/bottlerocket</link>
       <guid>https://github.com/bottlerocket-os/bottlerocket</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bottlerocket-os/bottlerocket" target="_blank">bottlerocket-os/bottlerocket: 专为托管容器而设计的操作系统</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>vChewing/vChewing-macOS: 威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法</title>
-      <pubDate>Sun, 28 Apr 2024 14:38:01 +0800</pubDate>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/vChewing/vChewing-macOS</link>
       <guid>https://github.com/vChewing/vChewing-macOS</guid>
       <content:encoded><![CDATA[<a href="https://github.com/vChewing/vChewing-macOS" target="_blank">vChewing/vChewing-macOS: 威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>studyzy/imewlconverter: ”深蓝词库转换“一款开源免费的输入法词库转换程序</title>
-      <pubDate>Sun, 28 Apr 2024 14:38:01 +0800</pubDate>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/studyzy/imewlconverter</link>
       <guid>https://github.com/studyzy/imewlconverter</guid>
       <content:encoded><![CDATA[<a href="https://github.com/studyzy/imewlconverter" target="_blank">studyzy/imewlconverter: ”深蓝词库转换“一款开源免费的输入法词库转换程序</a>
