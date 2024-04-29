@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-04-29T10:00:14+08:00</updated>
+  <updated>2024-04-29T10:31:03+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。]]></title>
-    <published>2024-04-29T10:00:14+08:00</published>
-    <updated>2024-04-29T10:00:14+08:00</updated>
+    <published>2024-04-29T10:31:03+08:00</published>
+    <updated>2024-04-29T10:31:03+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/openbao/openbao"/>
     <id>https://github.com/openbao/openbao</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dreamhunter2333/cloudflare_temp_email: 使用 cloudflare 免费服务，搭建临时邮箱]]></title>
-    <published>2024-04-29T10:00:14+08:00</published>
-    <updated>2024-04-29T10:00:14+08:00</updated>
+    <published>2024-04-29T10:31:03+08:00</published>
+    <updated>2024-04-29T10:31:03+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/dreamhunter2333/cloudflare_temp_email"/>
     <id>https://github.com/dreamhunter2333/cloudflare_temp_email</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -48,8 +48,8 @@ cloudflare 免费服务，搭建临时邮箱</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Thavarshan/filterable: 利用可调整、可定制的过滤器和智能缓存来增强 Laravel 查询，从而提高性能和功能。]]></title>
-    <published>2024-04-29T10:00:14+08:00</published>
-    <updated>2024-04-29T10:00:14+08:00</updated>
+    <published>2024-04-29T10:31:03+08:00</published>
+    <updated>2024-04-29T10:31:03+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Thavarshan/filterable"/>
     <id>https://github.com/Thavarshan/filterable</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -65,8 +65,8 @@ cloudflare 免费服务，搭建临时邮箱</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[abr4xas/clarity-laravel: 轻松将 Microsoft Clarity 集成到您的 Laravel 应用程序中。]]></title>
-    <published>2024-04-29T10:00:14+08:00</published>
-    <updated>2024-04-29T10:00:14+08:00</updated>
+    <published>2024-04-29T10:31:03+08:00</published>
+    <updated>2024-04-29T10:31:03+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/abr4xas/clarity-laravel"/>
     <id>https://github.com/abr4xas/clarity-laravel</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -75,6 +75,22 @@ Laravel 应用程序中。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/abr4xas/clarity-laravel" target="_blank">https://github.com/abr4xas/clarity-laravel</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[速率限制精确到秒]]></title>
+    <published>2024-04-29T10:31:03+08:00</published>
+    <updated>2024-04-29T10:31:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://masteringlaravel.io/daily/2024-04-17-rate-limiting-down-to-the-second?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews"/>
+    <id>https://masteringlaravel.io/daily/2024-04-17-rate-limiting-down-to-the-second?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://masteringlaravel.io/daily/2024-04-17-rate-limiting-down-to-the-second?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews" target="_blank">速率限制精确到秒</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://masteringlaravel.io/daily/2024-04-17-rate-limiting-down-to-the-second?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews" target="_blank">https://masteringlaravel.io/daily/2024-04-17-rate-limiting-down-to-the-second?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
