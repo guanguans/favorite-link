@@ -25,6 +25,7 @@
 - [Thavarshan/filterable: 利用可调整、可定制的过滤器和智能缓存来增强 Laravel 查询，从而提高性能和功能。](https://github.com/Thavarshan/filterable) 
 - [abr4xas/clarity-laravel: 轻松将 Microsoft Clarity 集成到您的 Laravel 应用程序中。](https://github.com/abr4xas/clarity-laravel) 
 - [速率限制精确到秒](https://masteringlaravel.io/daily/2024-04-17-rate-limiting-down-to-the-second?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
+- [code16/carbon-business-days: 该软件包旨在计算两个 Carbon 日期之间的工作日。](https://github.com/code16/carbon-business-days) 
 ### April 28, 2024 
 - [bottlerocket-os/bottlerocket: 专为托管容器而设计的操作系统](https://github.com/bottlerocket-os/bottlerocket) 
 - [vChewing/vChewing-macOS: 威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法](https://github.com/vChewing/vChewing-macOS) 
