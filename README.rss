@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 29 Apr 2024 09:41:27 +0800</pubDate>
+    <pubDate>Mon, 29 Apr 2024 10:00:14 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。</title>
-      <pubDate>Mon, 29 Apr 2024 09:41:27 +0800</pubDate>
+      <pubDate>Mon, 29 Apr 2024 10:00:14 +0800</pubDate>
       <link>https://github.com/openbao/openbao</link>
       <guid>https://github.com/openbao/openbao</guid>
       <content:encoded><![CDATA[<a href="https://github.com/openbao/openbao" target="_blank">openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>dreamhunter2333/cloudflare_temp_email: 使用 cloudflare 免费服务，搭建临时邮箱</title>
-      <pubDate>Mon, 29 Apr 2024 09:41:27 +0800</pubDate>
+      <pubDate>Mon, 29 Apr 2024 10:00:14 +0800</pubDate>
       <link>https://github.com/dreamhunter2333/cloudflare_temp_email</link>
       <guid>https://github.com/dreamhunter2333/cloudflare_temp_email</guid>
       <content:encoded><![CDATA[<a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">dreamhunter2333/cloudflare_temp_email: 使用 cloudflare 免费服务，搭建临时邮箱</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>Thavarshan/filterable: 利用可调整、可定制的过滤器和智能缓存来增强 Laravel 查询，从而提高性能和功能。</title>
-      <pubDate>Mon, 29 Apr 2024 09:41:27 +0800</pubDate>
+      <pubDate>Mon, 29 Apr 2024 10:00:14 +0800</pubDate>
       <link>https://github.com/Thavarshan/filterable</link>
       <guid>https://github.com/Thavarshan/filterable</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Thavarshan/filterable" target="_blank">Thavarshan/filterable: 利用可调整、可定制的过滤器和智能缓存来增强 Laravel 查询，从而提高性能和功能。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Thavarshan/filterable" target="_blank">https://github.com/Thavarshan/filterable</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>abr4xas/clarity-laravel: 轻松将 Microsoft Clarity 集成到您的 Laravel 应用程序中。</title>
+      <pubDate>Mon, 29 Apr 2024 10:00:14 +0800</pubDate>
+      <link>https://github.com/abr4xas/clarity-laravel</link>
+      <guid>https://github.com/abr4xas/clarity-laravel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/abr4xas/clarity-laravel" target="_blank">abr4xas/clarity-laravel: 轻松将 Microsoft Clarity 集成到您的 Laravel 应用程序中。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/abr4xas/clarity-laravel" target="_blank">https://github.com/abr4xas/clarity-laravel</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
