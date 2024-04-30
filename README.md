@@ -22,6 +22,7 @@
 
 ### April 30, 2024 
 - [spatie/holidays: 计算一个国家的公共假期](https://github.com/spatie/holidays) 
+- [php-lsp/php-lsp: 语言服务器协议](https://github.com/php-lsp/php-lsp) 
 ### April 29, 2024 
 - [openbao/openbao: OpenBao 的存在是为了提供一种软件解决方案，用于管理、存储和分发敏感数据，包括机密、证书和密钥。](https://github.com/openbao/openbao) 
 - [dreamhunter2333/cloudflare_temp_email: 使用 cloudflare 免费服务，搭建临时邮箱](https://github.com/dreamhunter2333/cloudflare_temp_email) 
