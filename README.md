@@ -20,6 +20,9 @@
 
 
 
+
+### May 6, 2024 
+- [noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！](https://github.com/noah-nuebling/mac-mouse-fix) 
 ### April 30, 2024 
 - [spatie/holidays: 计算一个国家的公共假期](https://github.com/spatie/holidays) 
 - [php-lsp/php-lsp: 语言服务器协议](https://github.com/php-lsp/php-lsp) 
