@@ -24,6 +24,7 @@
 ### May 6, 2024 
 - [noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！](https://github.com/noah-nuebling/mac-mouse-fix) 
 - [Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表](https://github.com/Releem/awesome-mysql-performance) 
+- [DutchCodingCompany/filament-developer-logins: 此插件允许您为本地 Filament 面板启用一键登录功能，这在开发具有多个用户和不同角色的 Filament 项目时非常有用。](https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 ### April 30, 2024 
 - [spatie/holidays: 计算一个国家的公共假期](https://github.com/spatie/holidays) 
 - [php-lsp/php-lsp: 语言服务器协议](https://github.com/php-lsp/php-lsp) 
