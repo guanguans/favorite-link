@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 30 Apr 2024 09:36:34 +0800</pubDate>
+    <pubDate>Mon, 06 May 2024 09:36:49 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！</title>
+      <pubDate>Mon, 06 May 2024 09:36:49 +0800</pubDate>
+      <link>https://github.com/noah-nuebling/mac-mouse-fix</link>
+      <guid>https://github.com/noah-nuebling/mac-mouse-fix</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/noah-nuebling/mac-mouse-fix" target="_blank">noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/noah-nuebling/mac-mouse-fix" target="_blank">https://github.com/noah-nuebling/mac-mouse-fix</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>spatie/holidays: 计算一个国家的公共假期</title>
-      <pubDate>Tue, 30 Apr 2024 09:36:34 +0800</pubDate>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/spatie/holidays</link>
       <guid>https://github.com/spatie/holidays</guid>
       <content:encoded><![CDATA[<a href="https://github.com/spatie/holidays" target="_blank">spatie/holidays: 计算一个国家的公共假期</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>php-lsp/php-lsp: 语言服务器协议</title>
-      <pubDate>Tue, 30 Apr 2024 09:36:34 +0800</pubDate>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/php-lsp/php-lsp</link>
       <guid>https://github.com/php-lsp/php-lsp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/php-lsp/php-lsp" target="_blank">php-lsp/php-lsp: 语言服务器协议</a>
