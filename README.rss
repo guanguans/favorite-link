@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 06 May 2024 10:59:59 +0800</pubDate>
+    <pubDate>Mon, 06 May 2024 14:36:47 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！</title>
-      <pubDate>Mon, 06 May 2024 10:59:59 +0800</pubDate>
+      <pubDate>Mon, 06 May 2024 14:36:47 +0800</pubDate>
       <link>https://github.com/noah-nuebling/mac-mouse-fix</link>
       <guid>https://github.com/noah-nuebling/mac-mouse-fix</guid>
       <content:encoded><![CDATA[<a href="https://github.com/noah-nuebling/mac-mouse-fix" target="_blank">noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表</title>
-      <pubDate>Mon, 06 May 2024 10:59:59 +0800</pubDate>
+      <pubDate>Mon, 06 May 2024 14:36:47 +0800</pubDate>
       <link>https://github.com/Releem/awesome-mysql-performance</link>
       <guid>https://github.com/Releem/awesome-mysql-performance</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Releem/awesome-mysql-performance" target="_blank">Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>DutchCodingCompany/filament-developer-logins: 此插件允许您为本地 Filament 面板启用一键登录功能，这在开发具有多个用户和不同角色的 Filament 项目时非常有用。</title>
-      <pubDate>Mon, 06 May 2024 10:59:59 +0800</pubDate>
+      <pubDate>Mon, 06 May 2024 14:36:47 +0800</pubDate>
       <link>https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</link>
       <guid>https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">DutchCodingCompany/filament-developer-logins: 此插件允许您为本地 Filament 面板启用一键登录功能，这在开发具有多个用户和不同角色的 Filament 项目时非常有用。</a>
@@ -50,13 +50,26 @@
     </item>
     <item>
       <title>Makeshift/generate-dependabot-glob-action: 生成 "dependabot.yml"，并在需要更新以包含新目录或软件包生态系统时将其与您的 repo 进行 PR，使用 globs/万用表</title>
-      <pubDate>Mon, 06 May 2024 10:59:59 +0800</pubDate>
+      <pubDate>Mon, 06 May 2024 14:36:47 +0800</pubDate>
       <link>https://github.com/Makeshift/generate-dependabot-glob-action</link>
       <guid>https://github.com/Makeshift/generate-dependabot-glob-action</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Makeshift/generate-dependabot-glob-action" target="_blank">Makeshift/generate-dependabot-glob-action: 生成 "dependabot.yml"，并在需要更新以包含新目录或软件包生态系统时将其与您的 repo 进行 PR，使用 globs/万用表</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Makeshift/generate-dependabot-glob-action" target="_blank">https://github.com/Makeshift/generate-dependabot-glob-action</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>laravel-upgrade-helper/laravel-upgrade-helper.github.io: 快速查看并升级 Laravel。</title>
+      <pubDate>Mon, 06 May 2024 14:36:47 +0800</pubDate>
+      <link>https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io</link>
+      <guid>https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io" target="_blank">laravel-upgrade-helper/laravel-upgrade-helper.github.io: 快速查看并升级 Laravel。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io" target="_blank">https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
