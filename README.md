@@ -26,6 +26,7 @@
 - [Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表](https://github.com/Releem/awesome-mysql-performance) 
 - [DutchCodingCompany/filament-developer-logins: 此插件允许您为本地 Filament 面板启用一键登录功能，这在开发具有多个用户和不同角色的 Filament 项目时非常有用。](https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 - [Makeshift/generate-dependabot-glob-action: 生成 "dependabot.yml"，并在需要更新以包含新目录或软件包生态系统时将其与您的 repo 进行 PR，使用 globs/万用表](https://github.com/Makeshift/generate-dependabot-glob-action) 
+- [laravel-upgrade-helper/laravel-upgrade-helper.github.io: 快速查看并升级 Laravel。](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) 
 ### April 30, 2024 
 - [spatie/holidays: 计算一个国家的公共假期](https://github.com/spatie/holidays) 
 - [php-lsp/php-lsp: 语言服务器协议](https://github.com/php-lsp/php-lsp) 
