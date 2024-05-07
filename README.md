@@ -21,6 +21,9 @@
 
 
 
+
+### May 7, 2024 
+- [remotely-save/remotely-save: 另一款非官方的 Obsidian 插件，允许用户在本地设备和云服务之间同步笔记。支持 S3、Dropbox、OneDrive 和 webdav。](https://github.com/remotely-save/remotely-save) 
 ### May 6, 2024 
 - [noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！](https://github.com/noah-nuebling/mac-mouse-fix) 
 - [Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表](https://github.com/Releem/awesome-mysql-performance) 
