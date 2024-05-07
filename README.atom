@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-06T14:36:47+08:00</updated>
+  <updated>2024-05-07T09:41:30+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,26 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[remotely-save/remotely-save: 另一款非官方的 Obsidian 插件，允许用户在本地设备和云服务之间同步笔记。支持 S3、Dropbox、OneDrive 和 webdav。]]></title>
+    <published>2024-05-07T09:41:30+08:00</published>
+    <updated>2024-05-07T09:41:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/remotely-save/remotely-save"/>
+    <id>https://github.com/remotely-save/remotely-save</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/remotely-save/remotely-save" target="_blank">remotely-save/remotely-save: 另一款非官方的 Obsidian
+插件，允许用户在本地设备和云服务之间同步笔记。支持 S3、Dropbox、OneDrive 和 webdav。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/remotely-save/remotely-save" target="_blank">https://github.com/remotely-save/remotely-save</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[noah-nuebling/mac-mouse-fix: 让你的 10 美元鼠标比苹果触控板更好用！]]></title>
-    <published>2024-05-06T14:36:47+08:00</published>
-    <updated>2024-05-06T14:36:47+08:00</updated>
+    <published>2024-05-06T00:00:00+08:00</published>
+    <updated>2024-05-06T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/noah-nuebling/mac-mouse-fix"/>
     <id>https://github.com/noah-nuebling/mac-mouse-fix</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表]]></title>
-    <published>2024-05-06T14:36:47+08:00</published>
-    <updated>2024-05-06T14:36:47+08:00</updated>
+    <published>2024-05-06T00:00:00+08:00</published>
+    <updated>2024-05-06T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Releem/awesome-mysql-performance"/>
     <id>https://github.com/Releem/awesome-mysql-performance</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +64,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[DutchCodingCompany/filament-developer-logins: 此插件允许您为本地 Filament 面板启用一键登录功能，这在开发具有多个用户和不同角色的 Filament 项目时非常有用。]]></title>
-    <published>2024-05-06T14:36:47+08:00</published>
-    <updated>2024-05-06T14:36:47+08:00</updated>
+    <published>2024-05-06T00:00:00+08:00</published>
+    <updated>2024-05-06T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews"/>
     <id>https://github.com/DutchCodingCompany/filament-developer-logins?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -65,8 +82,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Makeshift/generate-dependabot-glob-action: 生成 "dependabot.yml"，并在需要更新以包含新目录或软件包生态系统时将其与您的 repo 进行 PR，使用 globs/万用表]]></title>
-    <published>2024-05-06T14:36:47+08:00</published>
-    <updated>2024-05-06T14:36:47+08:00</updated>
+    <published>2024-05-06T00:00:00+08:00</published>
+    <updated>2024-05-06T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Makeshift/generate-dependabot-glob-action"/>
     <id>https://github.com/Makeshift/generate-dependabot-glob-action</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -83,8 +100,8 @@ globs/万用表</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[laravel-upgrade-helper/laravel-upgrade-helper.github.io: 快速查看并升级 Laravel。]]></title>
-    <published>2024-05-06T14:36:47+08:00</published>
-    <updated>2024-05-06T14:36:47+08:00</updated>
+    <published>2024-05-06T00:00:00+08:00</published>
+    <updated>2024-05-06T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io"/>
     <id>https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
