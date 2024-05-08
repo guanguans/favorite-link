@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 07 May 2024 10:00:32 +0800</pubDate>
+    <pubDate>Wed, 08 May 2024 09:38:00 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>anyproto/any-sync: 这是一个开源协议，旨在创建高性能、本地优先、点对点、端对端加密的应用程序，促进多个用户和设备之间的无缝协作</title>
+      <pubDate>Wed, 08 May 2024 09:38:00 +0800</pubDate>
+      <link>https://github.com/anyproto/any-sync</link>
+      <guid>https://github.com/anyproto/any-sync</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/anyproto/any-sync" target="_blank">anyproto/any-sync: 这是一个开源协议，旨在创建高性能、本地优先、点对点、端对端加密的应用程序，促进多个用户和设备之间的无缝协作</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/anyproto/any-sync" target="_blank">https://github.com/anyproto/any-sync</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>remotely-save/remotely-save: 另一款非官方的 Obsidian 插件，允许用户在本地设备和云服务之间同步笔记。支持 S3、Dropbox、OneDrive 和 webdav。</title>
-      <pubDate>Tue, 07 May 2024 10:00:32 +0800</pubDate>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/remotely-save/remotely-save</link>
       <guid>https://github.com/remotely-save/remotely-save</guid>
       <content:encoded><![CDATA[<a href="https://github.com/remotely-save/remotely-save" target="_blank">remotely-save/remotely-save: 另一款非官方的 Obsidian 插件，允许用户在本地设备和云服务之间同步笔记。支持 S3、Dropbox、OneDrive 和 webdav。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>IcarusRyy/NewJob: 一眼看出该职位最后修改时间，绿色为 2 周之内，暗橙色为 1.5 个月之内，红色为 1.5 个月以上</title>
-      <pubDate>Tue, 07 May 2024 10:00:32 +0800</pubDate>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/IcarusRyy/NewJob</link>
       <guid>https://github.com/IcarusRyy/NewJob</guid>
       <content:encoded><![CDATA[<a href="https://github.com/IcarusRyy/NewJob" target="_blank">IcarusRyy/NewJob: 一眼看出该职位最后修改时间，绿色为 2 周之内，暗橙色为 1.5 个月之内，红色为 1.5 个月以上</a>
