@@ -25,6 +25,7 @@
 
 ### May 8, 2024 
 - [anyproto/any-sync: 这是一个开源协议，旨在创建高性能、本地优先、点对点、端对端加密的应用程序，促进多个用户和设备之间的无缝协作](https://github.com/anyproto/any-sync) 
+- [Bylx666/key-lang: 目标是最精致的编程语言](https://github.com/Bylx666/key-lang) 
 ### May 7, 2024 
 - [remotely-save/remotely-save: 另一款非官方的 Obsidian 插件，允许用户在本地设备和云服务之间同步笔记。支持 S3、Dropbox、OneDrive 和 webdav。](https://github.com/remotely-save/remotely-save) 
 - [IcarusRyy/NewJob: 一眼看出该职位最后修改时间，绿色为 2 周之内，暗橙色为 1.5 个月之内，红色为 1.5 个月以上](https://github.com/IcarusRyy/NewJob) 
