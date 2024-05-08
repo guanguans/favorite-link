@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 08 May 2024 09:42:03 +0800</pubDate>
+    <pubDate>Wed, 08 May 2024 09:48:50 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>anyproto/any-sync: 这是一个开源协议，旨在创建高性能、本地优先、点对点、端对端加密的应用程序，促进多个用户和设备之间的无缝协作</title>
-      <pubDate>Wed, 08 May 2024 09:42:03 +0800</pubDate>
+      <pubDate>Wed, 08 May 2024 09:48:50 +0800</pubDate>
       <link>https://github.com/anyproto/any-sync</link>
       <guid>https://github.com/anyproto/any-sync</guid>
       <content:encoded><![CDATA[<a href="https://github.com/anyproto/any-sync" target="_blank">anyproto/any-sync: 这是一个开源协议，旨在创建高性能、本地优先、点对点、端对端加密的应用程序，促进多个用户和设备之间的无缝协作</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>Bylx666/key-lang: 目标是最精致的编程语言</title>
-      <pubDate>Wed, 08 May 2024 09:42:03 +0800</pubDate>
+      <pubDate>Wed, 08 May 2024 09:48:50 +0800</pubDate>
       <link>https://github.com/Bylx666/key-lang</link>
       <guid>https://github.com/Bylx666/key-lang</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Bylx666/key-lang" target="_blank">Bylx666/key-lang: 目标是最精致的编程语言</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Bylx666/key-lang" target="_blank">https://github.com/Bylx666/key-lang</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>godruoyi/restful-api-specification: RESTful API 设计规范</title>
+      <pubDate>Wed, 08 May 2024 09:48:50 +0800</pubDate>
+      <link>https://github.com/godruoyi/restful-api-specification</link>
+      <guid>https://github.com/godruoyi/restful-api-specification</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/godruoyi/restful-api-specification" target="_blank">godruoyi/restful-api-specification: RESTful API 设计规范</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/godruoyi/restful-api-specification" target="_blank">https://github.com/godruoyi/restful-api-specification</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
