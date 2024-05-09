@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 09 May 2024 09:34:34 +0800</pubDate>
+    <pubDate>Thu, 09 May 2024 09:37:53 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,39 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>halilcosdu/laravel-slower: 利用 AI 优化您的数据库查询</title>
-      <pubDate>Thu, 09 May 2024 09:34:34 +0800</pubDate>
+      <pubDate>Thu, 09 May 2024 09:37:53 +0800</pubDate>
       <link>https://github.com/halilcosdu/laravel-slower</link>
       <guid>https://github.com/halilcosdu/laravel-slower</guid>
       <content:encoded><![CDATA[<a href="https://github.com/halilcosdu/laravel-slower" target="_blank">halilcosdu/laravel-slower: 利用 AI 优化您的数据库查询</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/halilcosdu/laravel-slower" target="_blank">https://github.com/halilcosdu/laravel-slower</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>richan-fongdasen/turso-laravel: 适用于 Laravel 应用程序的 Turso/LibSQL 数据库驱动程序</title>
+      <pubDate>Thu, 09 May 2024 09:37:53 +0800</pubDate>
+      <link>https://github.com/richan-fongdasen/turso-laravel</link>
+      <guid>https://github.com/richan-fongdasen/turso-laravel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/richan-fongdasen/turso-laravel" target="_blank">richan-fongdasen/turso-laravel: 适用于 Laravel 应用程序的 Turso/LibSQL 数据库驱动程序</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/richan-fongdasen/turso-laravel" target="_blank">https://github.com/richan-fongdasen/turso-laravel</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>korridor/laravel-has-many-merged: 用于 Eloquent 的自定义关系，可合并/组合多个一对多 (hasMany) 关系</title>
+      <pubDate>Thu, 09 May 2024 09:37:53 +0800</pubDate>
+      <link>hasMany) 关系](https://github.com/korridor/laravel-has-many-merged</link>
+      <guid isPermaLink="false">hasMany) 关系](https://github.com/korridor/laravel-has-many-merged</guid>
+      <content:encoded><![CDATA[<a href="hasMany) 关系](https://github.com/korridor/laravel-has-many-merged" target="_blank">korridor/laravel-has-many-merged: 用于 Eloquent 的自定义关系，可合并/组合多个一对多 (hasMany) 关系</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="hasMany) 关系](https://github.com/korridor/laravel-has-many-merged" target="_blank">hasMany) 关系](https://github.com/korridor/laravel-has-many-merged</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

@@ -27,7 +27,7 @@
 ### May 9, 2024 
 - [halilcosdu/laravel-slower: 利用 AI 优化您的数据库查询](https://github.com/halilcosdu/laravel-slower) 
 - [richan-fongdasen/turso-laravel: 适用于 Laravel 应用程序的 Turso/LibSQL 数据库驱动程序](https://github.com/richan-fongdasen/turso-laravel) 
-- [korridor/laravel-has-many-merged: 用于 Eloquent 的自定义关系，可合并/组合多个一对多（hasMany）关系](https://github.com/korridor/laravel-has-many-merged) 
+- [korridor/laravel-has-many-merged: 用于 Eloquent 的自定义关系，可合并/组合多个一对多 (hasMany) 关系](https://github.com/korridor/laravel-has-many-merged) 
 ### May 8, 2024 
 - [anyproto/any-sync: 这是一个开源协议，旨在创建高性能、本地优先、点对点、端对端加密的应用程序，促进多个用户和设备之间的无缝协作](https://github.com/anyproto/any-sync) 
 - [Bylx666/key-lang: 目标是最精致的编程语言](https://github.com/Bylx666/key-lang) 
