@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-10T09:36:41+08:00</updated>
+  <updated>2024-05-10T09:42:11+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[gorilla/feeds: 软件包 gorilla/feeds 是一个 golang rss/atom 生成器库]]></title>
-    <published>2024-05-10T09:36:41+08:00</published>
-    <updated>2024-05-10T09:36:41+08:00</updated>
+    <published>2024-05-10T09:42:11+08:00</published>
+    <updated>2024-05-10T09:42:11+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/gorilla/feeds"/>
     <id>https://github.com/gorilla/feeds</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[benhall14/php-calendar: 一个用于生成日历的简单 PHP 类。该日历易于填充，可通过传递数组显示事件。]]></title>
-    <published>2024-05-10T09:36:41+08:00</published>
-    <updated>2024-05-10T09:36:41+08:00</updated>
+    <published>2024-05-10T09:42:11+08:00</published>
+    <updated>2024-05-10T09:42:11+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/benhall14/php-calendar"/>
     <id>https://github.com/benhall14/php-calendar</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -48,8 +48,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[LaravelDaily/FilaStart: FilaStart 是一个 Laravel+Filament 应用程序，用于生成代码，然后将其用于已有的其他独立 Laravel+Filament 项目。]]></title>
-    <published>2024-05-10T09:36:41+08:00</published>
-    <updated>2024-05-10T09:36:41+08:00</updated>
+    <published>2024-05-10T09:42:11+08:00</published>
+    <updated>2024-05-10T09:42:11+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/LaravelDaily/FilaStart"/>
     <id>https://github.com/LaravelDaily/FilaStart</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -58,6 +58,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/LaravelDaily/FilaStart" target="_blank">https://github.com/LaravelDaily/FilaStart</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[GarinZ/link-map: 适用于 Chrome 浏览器和 Edge 浏览器的树形标签管理器，Tabs Outliner 替代软件]]></title>
+    <published>2024-05-10T09:42:11+08:00</published>
+    <updated>2024-05-10T09:42:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/GarinZ/link-map"/>
+    <id>https://github.com/GarinZ/link-map</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/GarinZ/link-map" target="_blank">GarinZ/link-map: 适用于 Chrome 浏览器和 Edge 浏览器的树形标签管理器，Tabs
+Outliner 替代软件</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/GarinZ/link-map" target="_blank">https://github.com/GarinZ/link-map</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
