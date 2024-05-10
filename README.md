@@ -27,6 +27,7 @@
 
 ### May 10, 2024 
 - [gorilla/feeds: 软件包 gorilla/feeds 是一个 golang rss/atom 生成器库](https://github.com/gorilla/feeds) 
+- [benhall14/php-calendar: 一个用于生成日历的简单 PHP 类。该日历易于填充，可通过传递数组显示事件。](https://github.com/benhall14/php-calendar) 
 ### May 9, 2024 
 - [halilcosdu/laravel-slower: 利用 AI 优化您的数据库查询](https://github.com/halilcosdu/laravel-slower) 
 - [richan-fongdasen/turso-laravel: 适用于 Laravel 应用程序的 Turso/LibSQL 数据库驱动程序](https://github.com/richan-fongdasen/turso-laravel) 
