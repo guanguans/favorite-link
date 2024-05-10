@@ -10022,16 +10022,16 @@
         },
         {
             "name": "rector/rector",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector.git",
-                "reference": "6e04d0eb087aef707fa0c5686d33d6ff61f4a555"
+                "reference": "73eb63e4f9011dba6b7c66c3262543014e352f34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector/zipball/6e04d0eb087aef707fa0c5686d33d6ff61f4a555",
-                "reference": "6e04d0eb087aef707fa0c5686d33d6ff61f4a555",
+                "url": "https://api.github.com/repos/rectorphp/rector/zipball/73eb63e4f9011dba6b7c66c3262543014e352f34",
+                "reference": "73eb63e4f9011dba6b7c66c3262543014e352f34",
                 "shasum": ""
             },
             "require": {
@@ -10069,7 +10069,7 @@
             ],
             "support": {
                 "issues": "https://github.com/rectorphp/rector/issues",
-                "source": "https://github.com/rectorphp/rector/tree/1.0.4"
+                "source": "https://github.com/rectorphp/rector/tree/1.0.5"
             },
             "funding": [
                 {
@@ -10077,7 +10077,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-04-05T09:01:07+00:00"
+            "time": "2024-05-10T05:31:15+00:00"
         },
         {
             "name": "roave/security-advisories",
