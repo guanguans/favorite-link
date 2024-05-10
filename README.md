@@ -29,6 +29,7 @@
 - [gorilla/feeds: 软件包 gorilla/feeds 是一个 golang rss/atom 生成器库](https://github.com/gorilla/feeds) 
 - [benhall14/php-calendar: 一个用于生成日历的简单 PHP 类。该日历易于填充，可通过传递数组显示事件。](https://github.com/benhall14/php-calendar) 
 - [LaravelDaily/FilaStart: FilaStart 是一个 Laravel+Filament 应用程序，用于生成代码，然后将其用于已有的其他独立 Laravel+Filament 项目。](https://github.com/LaravelDaily/FilaStart) 
+- [GarinZ/link-map: 适用于 Chrome 浏览器和 Edge 浏览器的树形标签管理器，Tabs Outliner 替代软件](https://github.com/GarinZ/link-map) 
 ### May 9, 2024 
 - [halilcosdu/laravel-slower: 利用 AI 优化您的数据库查询](https://github.com/halilcosdu/laravel-slower) 
 - [richan-fongdasen/turso-laravel: 适用于 Laravel 应用程序的 Turso/LibSQL 数据库驱动程序](https://github.com/richan-fongdasen/turso-laravel) 
