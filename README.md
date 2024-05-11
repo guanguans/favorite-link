@@ -30,6 +30,7 @@
 - [1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。](https://github.com/1kc/razer-macos) 
 - [JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具](https://github.com/JustSteveKing/laravel-data-object-tools) 
 - [JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。](https://github.com/JustSteveKing/os-process) 
+- [SerafimArts/WinUI: 试验性 PHP WebView 界面](https://github.com/SerafimArts/WinUI) 
 ### May 10, 2024 
 - [gorilla/feeds: 软件包 gorilla/feeds 是一个 golang rss/atom 生成器库](https://github.com/gorilla/feeds) 
 - [benhall14/php-calendar: 一个用于生成日历的简单 PHP 类。该日历易于填充，可通过传递数组显示事件。](https://github.com/benhall14/php-calendar) 
