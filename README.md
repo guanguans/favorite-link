@@ -33,6 +33,7 @@
 - [SerafimArts/WinUI: 试验性 PHP WebView 界面](https://github.com/SerafimArts/WinUI) 
 - [context-labs/mactop: 纯 Go 语言编写的 Apple Silicon Monitor Top！代码不到 1,000 行。](https://github.com/context-labs/mactop) 
 - [AirScript 文档](https://airsheet.wps.cn/docs/) 
+- [imoki/sign_script: 签到脚本框架。零成本，无需服务器，无需部署，适用于“金山文档”中AirScript自动化执行。](https://github.com/imoki/sign_script) 
 ### May 10, 2024 
 - [gorilla/feeds: 软件包 gorilla/feeds 是一个 golang rss/atom 生成器库](https://github.com/gorilla/feeds) 
 - [benhall14/php-calendar: 一个用于生成日历的简单 PHP 类。该日历易于填充，可通过传递数组显示事件。](https://github.com/benhall14/php-calendar) 
