@@ -34,6 +34,7 @@
 - [context-labs/mactop: 纯 Go 语言编写的 Apple Silicon Monitor Top！代码不到 1,000 行。](https://github.com/context-labs/mactop) 
 - [AirScript 文档](https://airsheet.wps.cn/docs/) 
 - [imoki/sign_script: 签到脚本框架。零成本，无需服务器，无需部署，适用于“金山文档”中 AirScript 自动化执行。](https://github.com/imoki/sign_script) 
+- [readdle/app-store-server-api: 纯 PHP 库，允许使用 App Store Server API 管理客户交易，并使用 App Store Server Notifications V2 处理服务器到服务器的通知](https://github.com/readdle/app-store-server-api) 
 ### May 10, 2024 
 - [gorilla/feeds: 软件包 gorilla/feeds 是一个 golang rss/atom 生成器库](https://github.com/gorilla/feeds) 
 - [benhall14/php-calendar: 一个用于生成日历的简单 PHP 类。该日历易于填充，可通过传递数组显示事件。](https://github.com/benhall14/php-calendar) 
