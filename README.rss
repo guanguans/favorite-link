@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+    <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://github.com/1kc/razer-macos</link>
       <guid>https://github.com/1kc/razer-macos</guid>
       <content:encoded><![CDATA[<a href="https://github.com/1kc/razer-macos" target="_blank">1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://github.com/JustSteveKing/laravel-data-object-tools</link>
       <guid>https://github.com/JustSteveKing/laravel-data-object-tools</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/laravel-data-object-tools" target="_blank">JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://github.com/JustSteveKing/os-process</link>
       <guid>https://github.com/JustSteveKing/os-process</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/os-process" target="_blank">JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>SerafimArts/WinUI: 试验性 PHP WebView 界面</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://github.com/SerafimArts/WinUI</link>
       <guid>https://github.com/SerafimArts/WinUI</guid>
       <content:encoded><![CDATA[<a href="https://github.com/SerafimArts/WinUI" target="_blank">SerafimArts/WinUI: 试验性 PHP WebView 界面</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>context-labs/mactop: 纯 Go 语言编写的 Apple Silicon Monitor Top！代码不到 1,000 行。</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://github.com/context-labs/mactop</link>
       <guid>https://github.com/context-labs/mactop</guid>
       <content:encoded><![CDATA[<a href="https://github.com/context-labs/mactop" target="_blank">context-labs/mactop: 纯 Go 语言编写的 Apple Silicon Monitor Top！代码不到 1,000 行。</a>
@@ -76,7 +76,7 @@
     </item>
     <item>
       <title>AirScript 文档</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://airsheet.wps.cn/docs/</link>
       <guid>https://airsheet.wps.cn/docs/</guid>
       <content:encoded><![CDATA[<a href="https://airsheet.wps.cn/docs/" target="_blank">AirScript 文档</a>
@@ -89,13 +89,26 @@
     </item>
     <item>
       <title>imoki/sign_script: 签到脚本框架。零成本，无需服务器，无需部署，适用于“金山文档”中 AirScript 自动化执行。</title>
-      <pubDate>Sat, 11 May 2024 16:10:08 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
       <link>https://github.com/imoki/sign_script</link>
       <guid>https://github.com/imoki/sign_script</guid>
       <content:encoded><![CDATA[<a href="https://github.com/imoki/sign_script" target="_blank">imoki/sign_script: 签到脚本框架。零成本，无需服务器，无需部署，适用于“金山文档”中 AirScript 自动化执行。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/imoki/sign_script" target="_blank">https://github.com/imoki/sign_script</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>readdle/app-store-server-api: 纯 PHP 库，允许使用 App Store Server API 管理客户交易，并使用 App Store Server Notifications V2 处理服务器到服务器的通知</title>
+      <pubDate>Sat, 11 May 2024 16:52:56 +0800</pubDate>
+      <link>https://github.com/readdle/app-store-server-api</link>
+      <guid>https://github.com/readdle/app-store-server-api</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/readdle/app-store-server-api" target="_blank">readdle/app-store-server-api: 纯 PHP 库，允许使用 App Store Server API 管理客户交易，并使用 App Store Server Notifications V2 处理服务器到服务器的通知</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/readdle/app-store-server-api" target="_blank">https://github.com/readdle/app-store-server-api</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
