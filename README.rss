@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 11 May 2024 09:32:19 +0800</pubDate>
+    <pubDate>Sat, 11 May 2024 09:38:19 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,52 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。</title>
-      <pubDate>Sat, 11 May 2024 09:32:19 +0800</pubDate>
+      <pubDate>Sat, 11 May 2024 09:38:19 +0800</pubDate>
       <link>https://github.com/1kc/razer-macos</link>
       <guid>https://github.com/1kc/razer-macos</guid>
       <content:encoded><![CDATA[<a href="https://github.com/1kc/razer-macos" target="_blank">1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/1kc/razer-macos" target="_blank">https://github.com/1kc/razer-macos</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具</title>
+      <pubDate>Sat, 11 May 2024 09:38:19 +0800</pubDate>
+      <link>https://github.com/JustSteveKing/laravel-data-object-tools</link>
+      <guid>https://github.com/JustSteveKing/laravel-data-object-tools</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/laravel-data-object-tools" target="_blank">JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JustSteveKing/laravel-data-object-tools" target="_blank">https://github.com/JustSteveKing/laravel-data-object-tools</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。</title>
+      <pubDate>Sat, 11 May 2024 09:38:19 +0800</pubDate>
+      <link>https://github.com/JustSteveKing/os-process</link>
+      <guid>https://github.com/JustSteveKing/os-process</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/os-process" target="_blank">JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JustSteveKing/os-process" target="_blank">https://github.com/JustSteveKing/os-process</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>SerafimArts/WinUI: 试验性 PHP WebView 界面</title>
+      <pubDate>Sat, 11 May 2024 09:38:19 +0800</pubDate>
+      <link>https://github.com/SerafimArts/WinUI</link>
+      <guid>https://github.com/SerafimArts/WinUI</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/SerafimArts/WinUI" target="_blank">SerafimArts/WinUI: 试验性 PHP WebView 界面</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/SerafimArts/WinUI" target="_blank">https://github.com/SerafimArts/WinUI</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

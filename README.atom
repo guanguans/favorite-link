@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-11T09:32:19+08:00</updated>
+  <updated>2024-05-11T09:38:19+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。]]></title>
-    <published>2024-05-11T09:32:19+08:00</published>
-    <updated>2024-05-11T09:32:19+08:00</updated>
+    <published>2024-05-11T09:38:19+08:00</published>
+    <updated>2024-05-11T09:38:19+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/1kc/razer-macos"/>
     <id>https://github.com/1kc/razer-macos</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -23,6 +23,55 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/1kc/razer-macos" target="_blank">https://github.com/1kc/razer-macos</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具]]></title>
+    <published>2024-05-11T09:38:19+08:00</published>
+    <updated>2024-05-11T09:38:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/laravel-data-object-tools"/>
+    <id>https://github.com/JustSteveKing/laravel-data-object-tools</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/JustSteveKing/laravel-data-object-tools" target="_blank">JustSteveKing/laravel-data-object-tools: 一组使
+Laravel 中数据传输对象的使用变得更容易的工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/JustSteveKing/laravel-data-object-tools" target="_blank">https://github.com/JustSteveKing/laravel-data-object-tools</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。]]></title>
+    <published>2024-05-11T09:38:19+08:00</published>
+    <updated>2024-05-11T09:38:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/os-process"/>
+    <id>https://github.com/JustSteveKing/os-process</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/JustSteveKing/os-process" target="_blank">JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/JustSteveKing/os-process" target="_blank">https://github.com/JustSteveKing/os-process</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[SerafimArts/WinUI: 试验性 PHP WebView 界面]]></title>
+    <published>2024-05-11T09:38:19+08:00</published>
+    <updated>2024-05-11T09:38:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/SerafimArts/WinUI"/>
+    <id>https://github.com/SerafimArts/WinUI</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/SerafimArts/WinUI" target="_blank">SerafimArts/WinUI: 试验性 PHP WebView 界面</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/SerafimArts/WinUI" target="_blank">https://github.com/SerafimArts/WinUI</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
