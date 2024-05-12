@@ -32,7 +32,7 @@
 - [jdecool/ollama-php-client: Ollama PHP API 客户端](https://github.com/jdecool/ollama-php-client) 
 - [MHNightCat/superfile: 漂亮而现代的终端文件管理器](https://github.com/MHNightCat/superfile) 
 - [prologuephp/alerts: Alerts 是一个处理全局站点消息的软件包。](https://github.com/prologuephp/alerts) 
-- [chenxuuu/llcom: 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能](https://github.com/chenxuuu/llcom) 
+- [chenxuuu/llcom: 🛠 功能强大的串口工具。支持 Lua 自动化处理、串口调试、串口监听、串口曲线、TCP 测试、MQTT 测试、编码转换、乱码恢复等功能](https://github.com/chenxuuu/llcom) 
 ### May 11, 2024 
 - [1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。](https://github.com/1kc/razer-macos) 
 - [JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具](https://github.com/JustSteveKing/laravel-data-object-tools) 
