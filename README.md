@@ -30,6 +30,7 @@
 ### May 12, 2024 
 - [api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源](https://github.com/api-ecosystem-for-laravel/dingo-api) 
 - [jdecool/ollama-php-client: Ollama PHP API 客户端](https://github.com/jdecool/ollama-php-client) 
+- [MHNightCat/superfile: 漂亮而现代的终端文件管理器](https://github.com/MHNightCat/superfile) 
 ### May 11, 2024 
 - [1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。](https://github.com/1kc/razer-macos) 
 - [JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具](https://github.com/JustSteveKing/laravel-data-object-tools) 
