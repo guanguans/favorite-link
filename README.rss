@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 12 May 2024 12:53:34 +0800</pubDate>
+    <pubDate>Sun, 12 May 2024 12:57:23 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源</title>
-      <pubDate>Sun, 12 May 2024 12:53:34 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 12:57:23 +0800</pubDate>
       <link>https://github.com/api-ecosystem-for-laravel/dingo-api</link>
       <guid>https://github.com/api-ecosystem-for-laravel/dingo-api</guid>
       <content:encoded><![CDATA[<a href="https://github.com/api-ecosystem-for-laravel/dingo-api" target="_blank">api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>jdecool/ollama-php-client: Ollama PHP API 客户端</title>
-      <pubDate>Sun, 12 May 2024 12:53:34 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 12:57:23 +0800</pubDate>
       <link>https://github.com/jdecool/ollama-php-client</link>
       <guid>https://github.com/jdecool/ollama-php-client</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jdecool/ollama-php-client" target="_blank">jdecool/ollama-php-client: Ollama PHP API 客户端</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>MHNightCat/superfile: 漂亮而现代的终端文件管理器</title>
-      <pubDate>Sun, 12 May 2024 12:53:34 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 12:57:23 +0800</pubDate>
       <link>https://github.com/MHNightCat/superfile</link>
       <guid>https://github.com/MHNightCat/superfile</guid>
       <content:encoded><![CDATA[<a href="https://github.com/MHNightCat/superfile" target="_blank">MHNightCat/superfile: 漂亮而现代的终端文件管理器</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/MHNightCat/superfile" target="_blank">https://github.com/MHNightCat/superfile</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>prologuephp/alerts: Alerts 是一个处理全局站点消息的软件包。</title>
+      <pubDate>Sun, 12 May 2024 12:57:23 +0800</pubDate>
+      <link>https://github.com/prologuephp/alerts</link>
+      <guid>https://github.com/prologuephp/alerts</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/prologuephp/alerts" target="_blank">prologuephp/alerts: Alerts 是一个处理全局站点消息的软件包。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/prologuephp/alerts" target="_blank">https://github.com/prologuephp/alerts</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
