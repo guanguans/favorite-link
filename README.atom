@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-11T16:52:56+08:00</updated>
+  <updated>2024-05-12T12:53:34+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,58 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源]]></title>
+    <published>2024-05-12T12:53:34+08:00</published>
+    <updated>2024-05-12T12:53:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/api-ecosystem-for-laravel/dingo-api"/>
+    <id>https://github.com/api-ecosystem-for-laravel/dingo-api</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/api-ecosystem-for-laravel/dingo-api" target="_blank">api-ecosystem-for-laravel/dingo-api: dingo/api
+的替代软件源</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/api-ecosystem-for-laravel/dingo-api" target="_blank">https://github.com/api-ecosystem-for-laravel/dingo-api</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[jdecool/ollama-php-client: Ollama PHP API 客户端]]></title>
+    <published>2024-05-12T12:53:34+08:00</published>
+    <updated>2024-05-12T12:53:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/jdecool/ollama-php-client"/>
+    <id>https://github.com/jdecool/ollama-php-client</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/jdecool/ollama-php-client" target="_blank">jdecool/ollama-php-client: Ollama PHP API 客户端</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/jdecool/ollama-php-client" target="_blank">https://github.com/jdecool/ollama-php-client</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MHNightCat/superfile: 漂亮而现代的终端文件管理器]]></title>
+    <published>2024-05-12T12:53:34+08:00</published>
+    <updated>2024-05-12T12:53:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/MHNightCat/superfile"/>
+    <id>https://github.com/MHNightCat/superfile</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/MHNightCat/superfile" target="_blank">MHNightCat/superfile: 漂亮而现代的终端文件管理器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/MHNightCat/superfile" target="_blank">https://github.com/MHNightCat/superfile</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[1kc/razer-macos: 适用于 macOS 的 Razer 设备的色彩效果管理器。]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/1kc/razer-macos"/>
     <id>https://github.com/1kc/razer-macos</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +79,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JustSteveKing/laravel-data-object-tools: 一组使 Laravel 中数据传输对象的使用变得更容易的工具]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/laravel-data-object-tools"/>
     <id>https://github.com/JustSteveKing/laravel-data-object-tools</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +96,8 @@ Laravel 中数据传输对象的使用变得更容易的工具</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JustSteveKing/os-process: 以 OOP 方式处理操作系统进程的 PHP 软件包。]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/os-process"/>
     <id>https://github.com/JustSteveKing/os-process</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -63,8 +112,8 @@ Laravel 中数据传输对象的使用变得更容易的工具</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[SerafimArts/WinUI: 试验性 PHP WebView 界面]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/SerafimArts/WinUI"/>
     <id>https://github.com/SerafimArts/WinUI</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -79,8 +128,8 @@ Laravel 中数据传输对象的使用变得更容易的工具</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[context-labs/mactop: 纯 Go 语言编写的 Apple Silicon Monitor Top！代码不到 1,000 行。]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/context-labs/mactop"/>
     <id>https://github.com/context-labs/mactop</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -96,8 +145,8 @@ Top！代码不到 1,000 行。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[AirScript 文档]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://airsheet.wps.cn/docs/"/>
     <id>https://airsheet.wps.cn/docs/</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -113,8 +162,8 @@ Top！代码不到 1,000 行。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[imoki/sign_script: 签到脚本框架。零成本，无需服务器，无需部署，适用于“金山文档”中 AirScript 自动化执行。]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/imoki/sign_script"/>
     <id>https://github.com/imoki/sign_script</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -130,8 +179,8 @@ AirScript 自动化执行。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[readdle/app-store-server-api: 纯 PHP 库，允许使用 App Store Server API 管理客户交易，并使用 App Store Server Notifications V2 处理服务器到服务器的通知]]></title>
-    <published>2024-05-11T16:52:56+08:00</published>
-    <updated>2024-05-11T16:52:56+08:00</updated>
+    <published>2024-05-11T00:00:00+08:00</published>
+    <updated>2024-05-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/readdle/app-store-server-api"/>
     <id>https://github.com/readdle/app-store-server-api</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
