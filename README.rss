@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 12 May 2024 12:58:47 +0800</pubDate>
+    <pubDate>Mon, 13 May 2024 09:33:47 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</title>
+      <pubDate>Mon, 13 May 2024 09:33:47 +0800</pubDate>
+      <link>https://github.com/CorentinTh/it-tools</link>
+      <guid>https://github.com/CorentinTh/it-tools</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/CorentinTh/it-tools" target="_blank">CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/CorentinTh/it-tools" target="_blank">https://github.com/CorentinTh/it-tools</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源</title>
-      <pubDate>Sun, 12 May 2024 12:58:47 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/api-ecosystem-for-laravel/dingo-api</link>
       <guid>https://github.com/api-ecosystem-for-laravel/dingo-api</guid>
       <content:encoded><![CDATA[<a href="https://github.com/api-ecosystem-for-laravel/dingo-api" target="_blank">api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>jdecool/ollama-php-client: Ollama PHP API 客户端</title>
-      <pubDate>Sun, 12 May 2024 12:58:47 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/jdecool/ollama-php-client</link>
       <guid>https://github.com/jdecool/ollama-php-client</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jdecool/ollama-php-client" target="_blank">jdecool/ollama-php-client: Ollama PHP API 客户端</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>MHNightCat/superfile: 漂亮而现代的终端文件管理器</title>
-      <pubDate>Sun, 12 May 2024 12:58:47 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/MHNightCat/superfile</link>
       <guid>https://github.com/MHNightCat/superfile</guid>
       <content:encoded><![CDATA[<a href="https://github.com/MHNightCat/superfile" target="_blank">MHNightCat/superfile: 漂亮而现代的终端文件管理器</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>prologuephp/alerts: Alerts 是一个处理全局站点消息的软件包。</title>
-      <pubDate>Sun, 12 May 2024 12:58:47 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/prologuephp/alerts</link>
       <guid>https://github.com/prologuephp/alerts</guid>
       <content:encoded><![CDATA[<a href="https://github.com/prologuephp/alerts" target="_blank">prologuephp/alerts: Alerts 是一个处理全局站点消息的软件包。</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>chenxuuu/llcom: 🛠 功能强大的串口工具。支持 Lua 自动化处理、串口调试、串口监听、串口曲线、TCP 测试、MQTT 测试、编码转换、乱码恢复等功能</title>
-      <pubDate>Sun, 12 May 2024 12:58:47 +0800</pubDate>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/chenxuuu/llcom</link>
       <guid>https://github.com/chenxuuu/llcom</guid>
       <content:encoded><![CDATA[<a href="https://github.com/chenxuuu/llcom" target="_blank">chenxuuu/llcom: 🛠 功能强大的串口工具。支持 Lua 自动化处理、串口调试、串口监听、串口曲线、TCP 测试、MQTT 测试、编码转换、乱码恢复等功能</a>

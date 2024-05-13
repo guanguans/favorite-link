@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-12T12:58:47+08:00</updated>
+  <updated>2024-05-13T09:33:47+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。]]></title>
+    <published>2024-05-13T09:33:47+08:00</published>
+    <updated>2024-05-13T09:33:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/CorentinTh/it-tools"/>
+    <id>https://github.com/CorentinTh/it-tools</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/CorentinTh/it-tools" target="_blank">CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/CorentinTh/it-tools" target="_blank">https://github.com/CorentinTh/it-tools</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源]]></title>
-    <published>2024-05-12T12:58:47+08:00</published>
-    <updated>2024-05-12T12:58:47+08:00</updated>
+    <published>2024-05-12T00:00:00+08:00</published>
+    <updated>2024-05-12T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/api-ecosystem-for-laravel/dingo-api"/>
     <id>https://github.com/api-ecosystem-for-laravel/dingo-api</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jdecool/ollama-php-client: Ollama PHP API 客户端]]></title>
-    <published>2024-05-12T12:58:47+08:00</published>
-    <updated>2024-05-12T12:58:47+08:00</updated>
+    <published>2024-05-12T00:00:00+08:00</published>
+    <updated>2024-05-12T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/jdecool/ollama-php-client"/>
     <id>https://github.com/jdecool/ollama-php-client</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +63,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[MHNightCat/superfile: 漂亮而现代的终端文件管理器]]></title>
-    <published>2024-05-12T12:58:47+08:00</published>
-    <updated>2024-05-12T12:58:47+08:00</updated>
+    <published>2024-05-12T00:00:00+08:00</published>
+    <updated>2024-05-12T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/MHNightCat/superfile"/>
     <id>https://github.com/MHNightCat/superfile</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -63,8 +79,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[prologuephp/alerts: Alerts 是一个处理全局站点消息的软件包。]]></title>
-    <published>2024-05-12T12:58:47+08:00</published>
-    <updated>2024-05-12T12:58:47+08:00</updated>
+    <published>2024-05-12T00:00:00+08:00</published>
+    <updated>2024-05-12T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/prologuephp/alerts"/>
     <id>https://github.com/prologuephp/alerts</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -79,8 +95,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[chenxuuu/llcom: 🛠 功能强大的串口工具。支持 Lua 自动化处理、串口调试、串口监听、串口曲线、TCP 测试、MQTT 测试、编码转换、乱码恢复等功能]]></title>
-    <published>2024-05-12T12:58:47+08:00</published>
-    <updated>2024-05-12T12:58:47+08:00</updated>
+    <published>2024-05-12T00:00:00+08:00</published>
+    <updated>2024-05-12T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/chenxuuu/llcom"/>
     <id>https://github.com/chenxuuu/llcom</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
