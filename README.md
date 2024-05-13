@@ -36,6 +36,7 @@
 - [ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。](https://github.com/ash-jc-allen/favicon-fetcher) 
 - [awais-vteams/laravel-crud-generator: Laravel CRUD 生成器](https://github.com/awais-vteams/laravel-crud-generator) 
 - [rellix999/dismissibles-for-laravel: 一个 Laravel 包，用于轻松处理可忽略的、重复出现的对象的可见性，例如服务器端的弹出窗口/通知/模式。](https://github.com/rellix999/dismissibles-for-laravel?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
+- [sakanjo/laravel-readable-migrations: 将迁移文件名改为更易读的数字格式。](https://github.com/sakanjo/laravel-readable-migrations?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 ### May 12, 2024 
 - [api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源](https://github.com/api-ecosystem-for-laravel/dingo-api) 
 - [jdecool/ollama-php-client: Ollama PHP API 客户端](https://github.com/jdecool/ollama-php-client) 
