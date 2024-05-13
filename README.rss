@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+    <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/CorentinTh/it-tools</link>
       <guid>https://github.com/CorentinTh/it-tools</guid>
       <content:encoded><![CDATA[<a href="https://github.com/CorentinTh/it-tools" target="_blank">CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/DamascenoRafael/reminders-menubar</link>
       <guid>https://github.com/DamascenoRafael/reminders-menubar</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DamascenoRafael/reminders-menubar" target="_blank">DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny</link>
       <guid isPermaLink="false">RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny</guid>
       <content:encoded><![CDATA[<a href="RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny" target="_blank">jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>IT Tools - 开发人员的便捷在线工具</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://it-tools.tech/</link>
       <guid>https://it-tools.tech/</guid>
       <content:encoded><![CDATA[<a href="https://it-tools.tech/" target="_blank">IT Tools - 开发人员的便捷在线工具</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/ash-jc-allen/favicon-fetcher</link>
       <guid>https://github.com/ash-jc-allen/favicon-fetcher</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ash-jc-allen/favicon-fetcher" target="_blank">ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。</a>
@@ -76,7 +76,7 @@
     </item>
     <item>
       <title>awais-vteams/laravel-crud-generator: Laravel CRUD 生成器</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/awais-vteams/laravel-crud-generator</link>
       <guid>https://github.com/awais-vteams/laravel-crud-generator</guid>
       <content:encoded><![CDATA[<a href="https://github.com/awais-vteams/laravel-crud-generator" target="_blank">awais-vteams/laravel-crud-generator: Laravel CRUD 生成器</a>
@@ -89,7 +89,7 @@
     </item>
     <item>
       <title>rellix999/dismissibles-for-laravel: 一个 Laravel 包，用于轻松处理可忽略的、重复出现的对象的可见性，例如服务器端的弹出窗口/通知/模式。</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/rellix999/dismissibles-for-laravel?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</link>
       <guid>https://github.com/rellix999/dismissibles-for-laravel?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</guid>
       <content:encoded><![CDATA[<a href="https://github.com/rellix999/dismissibles-for-laravel?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">rellix999/dismissibles-for-laravel: 一个 Laravel 包，用于轻松处理可忽略的、重复出现的对象的可见性，例如服务器端的弹出窗口/通知/模式。</a>
@@ -102,7 +102,7 @@
     </item>
     <item>
       <title>sakanjo/laravel-readable-migrations: 将迁移文件名改为更易读的数字格式。</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/sakanjo/laravel-readable-migrations?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</link>
       <guid>https://github.com/sakanjo/laravel-readable-migrations?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</guid>
       <content:encoded><![CDATA[<a href="https://github.com/sakanjo/laravel-readable-migrations?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">sakanjo/laravel-readable-migrations: 将迁移文件名改为更易读的数字格式。</a>
@@ -115,7 +115,7 @@
     </item>
     <item>
       <title>dotgksh/bitmask: PHP 的位掩码值对象</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/dotgksh/bitmask?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</link>
       <guid>https://github.com/dotgksh/bitmask?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</guid>
       <content:encoded><![CDATA[<a href="https://github.com/dotgksh/bitmask?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">dotgksh/bitmask: PHP 的位掩码值对象</a>
@@ -128,13 +128,26 @@
     </item>
     <item>
       <title>halilcosdu/laravel-command-banner: 防止 Laravel 命令在定义的环境中运行</title>
-      <pubDate>Mon, 13 May 2024 11:00:57 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
       <link>https://github.com/halilcosdu/laravel-command-banner</link>
       <guid>https://github.com/halilcosdu/laravel-command-banner</guid>
       <content:encoded><![CDATA[<a href="https://github.com/halilcosdu/laravel-command-banner" target="_blank">halilcosdu/laravel-command-banner: 防止 Laravel 命令在定义的环境中运行</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/halilcosdu/laravel-command-banner" target="_blank">https://github.com/halilcosdu/laravel-command-banner</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>percona/percona-toolkit: 高级开源命令行工具的集合。</title>
+      <pubDate>Mon, 13 May 2024 15:19:24 +0800</pubDate>
+      <link>https://github.com/percona/percona-toolkit</link>
+      <guid>https://github.com/percona/percona-toolkit</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/percona/percona-toolkit" target="_blank">percona/percona-toolkit: 高级开源命令行工具的集合。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/percona/percona-toolkit" target="_blank">https://github.com/percona/percona-toolkit</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
