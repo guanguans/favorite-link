@@ -34,6 +34,7 @@
 - [jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny) 
 - [IT Tools - 开发人员的便捷在线工具](https://it-tools.tech/) 
 - [ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。](https://github.com/ash-jc-allen/favicon-fetcher) 
+- [awais-vteams/laravel-crud-generator: Laravel CRUD 生成器](https://github.com/awais-vteams/laravel-crud-generator) 
 ### May 12, 2024 
 - [api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源](https://github.com/api-ecosystem-for-laravel/dingo-api) 
 - [jdecool/ollama-php-client: Ollama PHP API 客户端](https://github.com/jdecool/ollama-php-client) 
