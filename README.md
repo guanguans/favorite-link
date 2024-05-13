@@ -33,6 +33,7 @@
 - [DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。](https://github.com/DamascenoRafael/reminders-menubar) 
 - [jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny) 
 - [IT Tools - 开发人员的便捷在线工具](https://it-tools.tech/) 
+- [ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。](https://github.com/ash-jc-allen/favicon-fetcher) 
 ### May 12, 2024 
 - [api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源](https://github.com/api-ecosystem-for-laravel/dingo-api) 
 - [jdecool/ollama-php-client: Ollama PHP API 客户端](https://github.com/jdecool/ollama-php-client) 
