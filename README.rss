@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 13 May 2024 10:22:38 +0800</pubDate>
+    <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</title>
-      <pubDate>Mon, 13 May 2024 10:22:38 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
       <link>https://github.com/CorentinTh/it-tools</link>
       <guid>https://github.com/CorentinTh/it-tools</guid>
       <content:encoded><![CDATA[<a href="https://github.com/CorentinTh/it-tools" target="_blank">CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。</title>
-      <pubDate>Mon, 13 May 2024 10:22:38 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
       <link>https://github.com/DamascenoRafael/reminders-menubar</link>
       <guid>https://github.com/DamascenoRafael/reminders-menubar</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DamascenoRafael/reminders-menubar" target="_blank">DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库</title>
-      <pubDate>Mon, 13 May 2024 10:22:38 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
       <link>RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny</link>
       <guid isPermaLink="false">RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny</guid>
       <content:encoded><![CDATA[<a href="RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny" target="_blank">jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>IT Tools - 开发人员的便捷在线工具</title>
-      <pubDate>Mon, 13 May 2024 10:22:38 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
       <link>https://it-tools.tech/</link>
       <guid>https://it-tools.tech/</guid>
       <content:encoded><![CDATA[<a href="https://it-tools.tech/" target="_blank">IT Tools - 开发人员的便捷在线工具</a>
@@ -63,13 +63,26 @@
     </item>
     <item>
       <title>ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。</title>
-      <pubDate>Mon, 13 May 2024 10:22:38 +0800</pubDate>
+      <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
       <link>https://github.com/ash-jc-allen/favicon-fetcher</link>
       <guid>https://github.com/ash-jc-allen/favicon-fetcher</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ash-jc-allen/favicon-fetcher" target="_blank">ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/ash-jc-allen/favicon-fetcher" target="_blank">https://github.com/ash-jc-allen/favicon-fetcher</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>awais-vteams/laravel-crud-generator: Laravel CRUD 生成器</title>
+      <pubDate>Mon, 13 May 2024 10:48:41 +0800</pubDate>
+      <link>https://github.com/awais-vteams/laravel-crud-generator</link>
+      <guid>https://github.com/awais-vteams/laravel-crud-generator</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/awais-vteams/laravel-crud-generator" target="_blank">awais-vteams/laravel-crud-generator: Laravel CRUD 生成器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/awais-vteams/laravel-crud-generator" target="_blank">https://github.com/awais-vteams/laravel-crud-generator</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
