@@ -30,6 +30,7 @@
 
 ### May 13, 2024 
 - [CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。](https://github.com/CorentinTh/it-tools) 
+- [DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。](https://github.com/DamascenoRafael/reminders-menubar) 
 ### May 12, 2024 
 - [api-ecosystem-for-laravel/dingo-api: dingo/api 的替代软件源](https://github.com/api-ecosystem-for-laravel/dingo-api) 
 - [jdecool/ollama-php-client: Ollama PHP API 客户端](https://github.com/jdecool/ollama-php-client) 
