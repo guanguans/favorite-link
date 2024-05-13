@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-13T10:56:13+08:00</updated>
+  <updated>2024-05-13T11:00:57+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/CorentinTh/it-tools"/>
     <id>https://github.com/CorentinTh/it-tools</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/DamascenoRafael/reminders-menubar"/>
     <id>https://github.com/DamascenoRafael/reminders-menubar</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jakubkulhan/bunny: 性能卓越的纯 PHP AMQP (RabbitMQ) 同步/异步 (ReactPHP) 库]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny"/>
     <id>RabbitMQ) 同步/异步 (ReactPHP) 库](https://github.com/jakubkulhan/bunny</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -65,8 +65,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[IT Tools - 开发人员的便捷在线工具]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://it-tools.tech/"/>
     <id>https://it-tools.tech/</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -82,8 +82,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ash-jc-allen/favicon-fetcher: 一个用于从网站获取网页图标的 Laravel 包。]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ash-jc-allen/favicon-fetcher"/>
     <id>https://github.com/ash-jc-allen/favicon-fetcher</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -99,8 +99,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[awais-vteams/laravel-crud-generator: Laravel CRUD 生成器]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/awais-vteams/laravel-crud-generator"/>
     <id>https://github.com/awais-vteams/laravel-crud-generator</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -116,8 +116,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rellix999/dismissibles-for-laravel: 一个 Laravel 包，用于轻松处理可忽略的、重复出现的对象的可见性，例如服务器端的弹出窗口/通知/模式。]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/rellix999/dismissibles-for-laravel?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews"/>
     <id>https://github.com/rellix999/dismissibles-for-laravel?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -133,8 +133,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sakanjo/laravel-readable-migrations: 将迁移文件名改为更易读的数字格式。]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/sakanjo/laravel-readable-migrations?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews"/>
     <id>https://github.com/sakanjo/laravel-readable-migrations?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -150,8 +150,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dotgksh/bitmask: PHP 的位掩码值对象]]></title>
-    <published>2024-05-13T10:56:13+08:00</published>
-    <updated>2024-05-13T10:56:13+08:00</updated>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/dotgksh/bitmask?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews"/>
     <id>https://github.com/dotgksh/bitmask?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -159,6 +159,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/dotgksh/bitmask?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews" target="_blank">https://github.com/dotgksh/bitmask?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[halilcosdu/laravel-command-banner: 防止 Laravel 命令在定义的环境中运行]]></title>
+    <published>2024-05-13T11:00:57+08:00</published>
+    <updated>2024-05-13T11:00:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/halilcosdu/laravel-command-banner"/>
+    <id>https://github.com/halilcosdu/laravel-command-banner</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/halilcosdu/laravel-command-banner" target="_blank">halilcosdu/laravel-command-banner: 防止 Laravel
+命令在定义的环境中运行</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/halilcosdu/laravel-command-banner" target="_blank">https://github.com/halilcosdu/laravel-command-banner</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
