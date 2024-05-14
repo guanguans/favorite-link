@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 14 May 2024 09:35:44 +0800</pubDate>
+    <pubDate>Tue, 14 May 2024 09:37:17 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>artkonekt/concord: Laravel 扩展用于构建模块化应用程序，其中的模块是解耦的、可重用的、易于定制的</title>
-      <pubDate>Tue, 14 May 2024 09:35:44 +0800</pubDate>
+      <pubDate>Tue, 14 May 2024 09:37:17 +0800</pubDate>
       <link>https://github.com/artkonekt/concord</link>
       <guid>https://github.com/artkonekt/concord</guid>
       <content:encoded><![CDATA[<a href="https://github.com/artkonekt/concord" target="_blank">artkonekt/concord: Laravel 扩展用于构建模块化应用程序，其中的模块是解耦的、可重用的、易于定制的</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/artkonekt/concord" target="_blank">https://github.com/artkonekt/concord</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>glanceapp/glance: 自托管仪表板，可将所有信息源集中在一处</title>
+      <pubDate>Tue, 14 May 2024 09:37:17 +0800</pubDate>
+      <link>https://github.com/glanceapp/glance</link>
+      <guid>https://github.com/glanceapp/glance</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/glanceapp/glance" target="_blank">glanceapp/glance: 自托管仪表板，可将所有信息源集中在一处</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/glanceapp/glance" target="_blank">https://github.com/glanceapp/glance</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
