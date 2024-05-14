@@ -32,6 +32,7 @@
 ### May 14, 2024 
 - [artkonekt/concord: Laravel 扩展用于构建模块化应用程序，其中的模块是解耦的、可重用的、易于定制的](https://github.com/artkonekt/concord) 
 - [glanceapp/glance: 自托管仪表板，可将所有信息源集中在一处](https://github.com/glanceapp/glance) 
+- [Jubeki/laravel-code-style: 将自定义修复程序与 Laravel Pint 的规则集相结合，修复 Laravel 应用程序/软件包中的代码风格。](https://github.com/Jubeki/laravel-code-style/tree/2.x) 
 ### May 13, 2024 
 - [CorentinTh/it-tools: 面向开发人员的便捷在线工具集，用户体验极佳。](https://github.com/CorentinTh/it-tools) 
 - [DamascenoRafael/reminders-menubar: 简单的 macOS 菜单栏应用程序，用于查看提醒事项并与之交互。使用 SwiftUI 开发，并将 Apple Reminders 作为源代码。](https://github.com/DamascenoRafael/reminders-menubar) 
