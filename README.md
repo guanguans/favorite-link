@@ -29,6 +29,9 @@
 
 
 
+
+### May 15, 2024 
+- [zhorton34/laravel-js-str: Laravel 的 Illuminate\Support\Str, Illuminate\Support\Stringify, & Illuminate\Support\Fluent 的 Javascript 版本](https://github.com/zhorton34/laravel-js-str) 
 ### May 14, 2024 
 - [artkonekt/concord: Laravel 扩展用于构建模块化应用程序，其中的模块是解耦的、可重用的、易于定制的](https://github.com/artkonekt/concord) 
 - [glanceapp/glance: 自托管仪表板，可将所有信息源集中在一处](https://github.com/glanceapp/glance) 
