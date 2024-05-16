@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 15 May 2024 09:39:52 +0800</pubDate>
+    <pubDate>Thu, 16 May 2024 09:32:38 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>paragonie/typed-arrays: 用户域类型化数组实现</title>
+      <pubDate>Thu, 16 May 2024 09:32:38 +0800</pubDate>
+      <link>https://github.com/paragonie/typed-arrays</link>
+      <guid>https://github.com/paragonie/typed-arrays</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/paragonie/typed-arrays" target="_blank">paragonie/typed-arrays: 用户域类型化数组实现</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/paragonie/typed-arrays" target="_blank">https://github.com/paragonie/typed-arrays</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>zhorton34/laravel-js-str: Laravel 的 Illuminate\Support\Str, Illuminate\Support\Stringify, &amp; Illuminate\Support\Fluent 的 Javascript 版本</title>
-      <pubDate>Wed, 15 May 2024 09:39:52 +0800</pubDate>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/zhorton34/laravel-js-str</link>
       <guid>https://github.com/zhorton34/laravel-js-str</guid>
       <content:encoded><![CDATA[<a href="https://github.com/zhorton34/laravel-js-str" target="_blank">zhorton34/laravel-js-str: Laravel 的 Illuminate\Support\Str, Illuminate\Support\Stringify, & Illuminate\Support\Fluent 的 Javascript 版本</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>sinnbeck/laravel-dom-assertions: 为 laravels 测试响应添加 DOM 断言</title>
-      <pubDate>Wed, 15 May 2024 09:39:52 +0800</pubDate>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/sinnbeck/laravel-dom-assertions</link>
       <guid>https://github.com/sinnbeck/laravel-dom-assertions</guid>
       <content:encoded><![CDATA[<a href="https://github.com/sinnbeck/laravel-dom-assertions" target="_blank">sinnbeck/laravel-dom-assertions: 为 laravels 测试响应添加 DOM 断言</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>mh-cbon/go-msi: 为 Go 项目生成 msi 包的简便方法</title>
-      <pubDate>Wed, 15 May 2024 09:39:52 +0800</pubDate>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/mh-cbon/go-msi</link>
       <guid>https://github.com/mh-cbon/go-msi</guid>
       <content:encoded><![CDATA[<a href="https://github.com/mh-cbon/go-msi" target="_blank">mh-cbon/go-msi: 为 Go 项目生成 msi 包的简便方法</a>
