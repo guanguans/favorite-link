@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+    <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/bolkedebruin/rdpgw</link>
       <guid>https://github.com/bolkedebruin/rdpgw</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bolkedebruin/rdpgw" target="_blank">bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>fhmq/hmq: 高性能 MQTT 代理</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/fhmq/hmq</link>
       <guid>https://github.com/fhmq/hmq</guid>
       <content:encoded><![CDATA[<a href="https://github.com/fhmq/hmq" target="_blank">fhmq/hmq: 高性能 MQTT 代理</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>WendellAdriel/laravel-virtue: 使用属性集合扩展 Laravel 框架</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/WendellAdriel/laravel-virtue</link>
       <guid>https://github.com/WendellAdriel/laravel-virtue</guid>
       <content:encoded><![CDATA[<a href="https://github.com/WendellAdriel/laravel-virtue" target="_blank">WendellAdriel/laravel-virtue: 使用属性集合扩展 Laravel 框架</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>WendellAdriel/simple-container: 简单的 DI 容器实现示例</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/WendellAdriel/simple-container</link>
       <guid>https://github.com/WendellAdriel/simple-container</guid>
       <content:encoded><![CDATA[<a href="https://github.com/WendellAdriel/simple-container" target="_blank">WendellAdriel/simple-container: 简单的 DI 容器实现示例</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>joye61/pic-smaller: 智能压缩 WebP、PNG 和 JPEG 图像</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/joye61/pic-smaller</link>
       <guid>https://github.com/joye61/pic-smaller</guid>
       <content:encoded><![CDATA[<a href="https://github.com/joye61/pic-smaller" target="_blank">joye61/pic-smaller: 智能压缩 WebP、PNG 和 JPEG 图像</a>
@@ -76,7 +76,7 @@
     </item>
     <item>
       <title>CodeWithKyrian/transformers-php: Transformers PHP 是一款供 PHP 开发人员使用的工具包，可轻松为其项目添加机器学习功能。</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/CodeWithKyrian/transformers-php</link>
       <guid>https://github.com/CodeWithKyrian/transformers-php</guid>
       <content:encoded><![CDATA[<a href="https://github.com/CodeWithKyrian/transformers-php" target="_blank">CodeWithKyrian/transformers-php: Transformers PHP 是一款供 PHP 开发人员使用的工具包，可轻松为其项目添加机器学习功能。</a>
@@ -89,13 +89,26 @@
     </item>
     <item>
       <title>buttress/phpx: PHP DOM，但很直观</title>
-      <pubDate>Fri, 17 May 2024 17:53:50 +0800</pubDate>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
       <link>https://github.com/buttress/phpx</link>
       <guid>https://github.com/buttress/phpx</guid>
       <content:encoded><![CDATA[<a href="https://github.com/buttress/phpx" target="_blank">buttress/phpx: PHP DOM，但很直观</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/buttress/phpx" target="_blank">https://github.com/buttress/phpx</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>JBZoo/CSV-Blueprint: 基于可定制 Yaml 模式的严格和自动逐行 CSV 验证工具</title>
+      <pubDate>Fri, 17 May 2024 17:57:51 +0800</pubDate>
+      <link>https://github.com/JBZoo/CSV-Blueprint/tree/master</link>
+      <guid>https://github.com/JBZoo/CSV-Blueprint/tree/master</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JBZoo/CSV-Blueprint/tree/master" target="_blank">JBZoo/CSV-Blueprint: 基于可定制 Yaml 模式的严格和自动逐行 CSV 验证工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JBZoo/CSV-Blueprint/tree/master" target="_blank">https://github.com/JBZoo/CSV-Blueprint/tree/master</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
