@@ -34,6 +34,7 @@
 
 ### May 17, 2024 
 - [bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署](https://github.com/bolkedebruin/rdpgw) 
+- [fhmq/hmq: 高性能 MQTT 代理](https://github.com/fhmq/hmq) 
 ### May 16, 2024 
 - [paragonie/typed-arrays: 用户域类型化数组实现](https://github.com/paragonie/typed-arrays) 
 - [andreaswolf/fractor: 通用文件读取-分析-更改工具](https://github.com/andreaswolf/fractor) 
