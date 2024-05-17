@@ -41,6 +41,7 @@
 - [CodeWithKyrian/transformers-php: Transformers PHP 是一款供 PHP 开发人员使用的工具包，可轻松为其项目添加机器学习功能。](https://github.com/CodeWithKyrian/transformers-php) 
 - [buttress/phpx: PHP DOM，但很直观](https://github.com/buttress/phpx) 
 - [JBZoo/CSV-Blueprint: 基于可定制 Yaml 模式的严格和自动逐行 CSV 验证工具](https://github.com/JBZoo/CSV-Blueprint/tree/master) 
+- [hotmeteor/spectator: PHP 的 OpenAPI 测试](https://github.com/hotmeteor/spectator) 
 ### May 16, 2024 
 - [paragonie/typed-arrays: 用户域类型化数组实现](https://github.com/paragonie/typed-arrays) 
 - [andreaswolf/fractor: 通用文件读取-分析-更改工具](https://github.com/andreaswolf/fractor) 
