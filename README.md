@@ -38,6 +38,7 @@
 - [WendellAdriel/laravel-virtue: 使用属性集合扩展 Laravel 框架](https://github.com/WendellAdriel/laravel-virtue) 
 - [WendellAdriel/simple-container: 简单的 DI 容器实现示例](https://github.com/WendellAdriel/simple-container) 
 - [joye61/pic-smaller: 智能压缩 WebP、PNG 和 JPEG 图像](https://github.com/joye61/pic-smaller) 
+- [CodeWithKyrian/transformers-php: Transformers PHP 是一款供 PHP 开发人员使用的工具包，可轻松为其项目添加机器学习功能。](https://github.com/CodeWithKyrian/transformers-php) 
 ### May 16, 2024 
 - [paragonie/typed-arrays: 用户域类型化数组实现](https://github.com/paragonie/typed-arrays) 
 - [andreaswolf/fractor: 通用文件读取-分析-更改工具](https://github.com/andreaswolf/fractor) 
