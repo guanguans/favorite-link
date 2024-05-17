@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+    <pubDate>Fri, 17 May 2024 09:34:17 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署</title>
+      <pubDate>Fri, 17 May 2024 09:34:17 +0800</pubDate>
+      <link>https://github.com/bolkedebruin/rdpgw</link>
+      <guid>https://github.com/bolkedebruin/rdpgw</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/bolkedebruin/rdpgw" target="_blank">bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/bolkedebruin/rdpgw" target="_blank">https://github.com/bolkedebruin/rdpgw</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>paragonie/typed-arrays: 用户域类型化数组实现</title>
-      <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/paragonie/typed-arrays</link>
       <guid>https://github.com/paragonie/typed-arrays</guid>
       <content:encoded><![CDATA[<a href="https://github.com/paragonie/typed-arrays" target="_blank">paragonie/typed-arrays: 用户域类型化数组实现</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>andreaswolf/fractor: 通用文件读取-分析-更改工具</title>
-      <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/andreaswolf/fractor</link>
       <guid>https://github.com/andreaswolf/fractor</guid>
       <content:encoded><![CDATA[<a href="https://github.com/andreaswolf/fractor" target="_blank">andreaswolf/fractor: 通用文件读取-分析-更改工具</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>andydunstall/piko: Ngrok 的开源替代方案，旨在为生产流量提供服务，且易于托管</title>
-      <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/andydunstall/piko</link>
       <guid>https://github.com/andydunstall/piko</guid>
       <content:encoded><![CDATA[<a href="https://github.com/andydunstall/piko" target="_blank">andydunstall/piko: Ngrok 的开源替代方案，旨在为生产流量提供服务，且易于托管</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>php-sepa-xml/php-sepa-xml: PHP 中的 SEPA 文件生成器</title>
-      <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/php-sepa-xml/php-sepa-xml</link>
       <guid>https://github.com/php-sepa-xml/php-sepa-xml</guid>
       <content:encoded><![CDATA[<a href="https://github.com/php-sepa-xml/php-sepa-xml" target="_blank">php-sepa-xml/php-sepa-xml: PHP 中的 SEPA 文件生成器</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>bepass-org/oblivion: 安卓非官方 warp 客户端</title>
-      <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/bepass-org/oblivion</link>
       <guid>https://github.com/bepass-org/oblivion</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bepass-org/oblivion" target="_blank">bepass-org/oblivion: 安卓非官方 warp 客户端</a>
@@ -76,7 +89,7 @@
     </item>
     <item>
       <title>bepass-org/oblivion-desktop: Windows/Mac/Linux 非官方 Warp 客户端</title>
-      <pubDate>Thu, 16 May 2024 09:41:09 +0800</pubDate>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/bepass-org/oblivion-desktop</link>
       <guid>https://github.com/bepass-org/oblivion-desktop</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bepass-org/oblivion-desktop" target="_blank">bepass-org/oblivion-desktop: Windows/Mac/Linux 非官方 Warp 客户端</a>

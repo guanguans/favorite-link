@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-16T09:41:09+08:00</updated>
+  <updated>2024-05-17T09:34:17+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,26 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署]]></title>
+    <published>2024-05-17T09:34:17+08:00</published>
+    <updated>2024-05-17T09:34:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/bolkedebruin/rdpgw"/>
+    <id>https://github.com/bolkedebruin/rdpgw</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/bolkedebruin/rdpgw" target="_blank">bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes
+上部署</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/bolkedebruin/rdpgw" target="_blank">https://github.com/bolkedebruin/rdpgw</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[paragonie/typed-arrays: 用户域类型化数组实现]]></title>
-    <published>2024-05-16T09:41:09+08:00</published>
-    <updated>2024-05-16T09:41:09+08:00</updated>
+    <published>2024-05-16T00:00:00+08:00</published>
+    <updated>2024-05-16T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/paragonie/typed-arrays"/>
     <id>https://github.com/paragonie/typed-arrays</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[andreaswolf/fractor: 通用文件读取-分析-更改工具]]></title>
-    <published>2024-05-16T09:41:09+08:00</published>
-    <updated>2024-05-16T09:41:09+08:00</updated>
+    <published>2024-05-16T00:00:00+08:00</published>
+    <updated>2024-05-16T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/andreaswolf/fractor"/>
     <id>https://github.com/andreaswolf/fractor</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +63,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[andydunstall/piko: Ngrok 的开源替代方案，旨在为生产流量提供服务，且易于托管]]></title>
-    <published>2024-05-16T09:41:09+08:00</published>
-    <updated>2024-05-16T09:41:09+08:00</updated>
+    <published>2024-05-16T00:00:00+08:00</published>
+    <updated>2024-05-16T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/andydunstall/piko"/>
     <id>https://github.com/andydunstall/piko</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +79,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-sepa-xml/php-sepa-xml: PHP 中的 SEPA 文件生成器]]></title>
-    <published>2024-05-16T09:41:09+08:00</published>
-    <updated>2024-05-16T09:41:09+08:00</updated>
+    <published>2024-05-16T00:00:00+08:00</published>
+    <updated>2024-05-16T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/php-sepa-xml/php-sepa-xml"/>
     <id>https://github.com/php-sepa-xml/php-sepa-xml</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -78,8 +95,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bepass-org/oblivion: 安卓非官方 warp 客户端]]></title>
-    <published>2024-05-16T09:41:09+08:00</published>
-    <updated>2024-05-16T09:41:09+08:00</updated>
+    <published>2024-05-16T00:00:00+08:00</published>
+    <updated>2024-05-16T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/bepass-org/oblivion"/>
     <id>https://github.com/bepass-org/oblivion</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -94,8 +111,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bepass-org/oblivion-desktop: Windows/Mac/Linux 非官方 Warp 客户端]]></title>
-    <published>2024-05-16T09:41:09+08:00</published>
-    <updated>2024-05-16T09:41:09+08:00</updated>
+    <published>2024-05-16T00:00:00+08:00</published>
+    <updated>2024-05-16T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/bepass-org/oblivion-desktop"/>
     <id>https://github.com/bepass-org/oblivion-desktop</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
