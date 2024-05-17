@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-17T09:35:44+08:00</updated>
+  <updated>2024-05-17T09:39:09+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署]]></title>
-    <published>2024-05-17T09:35:44+08:00</published>
-    <updated>2024-05-17T09:35:44+08:00</updated>
+    <published>2024-05-17T09:39:09+08:00</published>
+    <updated>2024-05-17T09:39:09+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/bolkedebruin/rdpgw"/>
     <id>https://github.com/bolkedebruin/rdpgw</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[fhmq/hmq: 高性能 MQTT 代理]]></title>
-    <published>2024-05-17T09:35:44+08:00</published>
-    <updated>2024-05-17T09:35:44+08:00</updated>
+    <published>2024-05-17T09:39:09+08:00</published>
+    <updated>2024-05-17T09:39:09+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/fhmq/hmq"/>
     <id>https://github.com/fhmq/hmq</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -41,6 +41,22 @@ MQTT 代理</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/fhmq/hmq" target="_blank">https://github.com/fhmq/hmq</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[WendellAdriel/laravel-virtue: 使用属性集合扩展 Laravel 框架]]></title>
+    <published>2024-05-17T09:39:09+08:00</published>
+    <updated>2024-05-17T09:39:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/WendellAdriel/laravel-virtue"/>
+    <id>https://github.com/WendellAdriel/laravel-virtue</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/WendellAdriel/laravel-virtue" target="_blank">WendellAdriel/laravel-virtue: 使用属性集合扩展 Laravel 框架</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/WendellAdriel/laravel-virtue" target="_blank">https://github.com/WendellAdriel/laravel-virtue</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
