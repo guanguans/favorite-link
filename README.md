@@ -37,6 +37,7 @@
 - [fhmq/hmq: 高性能 MQTT 代理](https://github.com/fhmq/hmq) 
 - [WendellAdriel/laravel-virtue: 使用属性集合扩展 Laravel 框架](https://github.com/WendellAdriel/laravel-virtue) 
 - [WendellAdriel/simple-container: 简单的 DI 容器实现示例](https://github.com/WendellAdriel/simple-container) 
+- [joye61/pic-smaller: 智能压缩 WebP、PNG 和 JPEG 图像](https://github.com/joye61/pic-smaller) 
 ### May 16, 2024 
 - [paragonie/typed-arrays: 用户域类型化数组实现](https://github.com/paragonie/typed-arrays) 
 - [andreaswolf/fractor: 通用文件读取-分析-更改工具](https://github.com/andreaswolf/fractor) 
