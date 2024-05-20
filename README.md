@@ -35,6 +35,7 @@
 
 ### May 20, 2024 
 - [azjezz/assess: 用于 PHP 的 Unix 文件系统通知库。](https://github.com/azjezz/assess) 
+- [ZmotriN/php-static-autobuilder: 创建 PHP 独立应用程序的 Windows PHP 静态自动生成器](https://github.com/ZmotriN/php-static-autobuilder) 
 ### May 17, 2024 
 - [bolkedebruin/rdpgw: Go 中的远程桌面网关，用于在 Linux/BSD/Kubernetes 上部署](https://github.com/bolkedebruin/rdpgw) 
 - [fhmq/hmq: 高性能 MQTT 代理](https://github.com/fhmq/hmq) 
