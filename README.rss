@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 20 May 2024 09:45:11 +0800</pubDate>
+    <pubDate>Mon, 20 May 2024 10:00:22 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>azjezz/assess: 用于 PHP 的 Unix 文件系统通知库。</title>
-      <pubDate>Mon, 20 May 2024 09:45:11 +0800</pubDate>
+      <pubDate>Mon, 20 May 2024 10:00:22 +0800</pubDate>
       <link>https://github.com/azjezz/assess</link>
       <guid>https://github.com/azjezz/assess</guid>
       <content:encoded><![CDATA[<a href="https://github.com/azjezz/assess" target="_blank">azjezz/assess: 用于 PHP 的 Unix 文件系统通知库。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>ZmotriN/php-static-autobuilder: 创建 PHP 独立应用程序的 Windows PHP 静态自动生成器</title>
-      <pubDate>Mon, 20 May 2024 09:45:11 +0800</pubDate>
+      <pubDate>Mon, 20 May 2024 10:00:22 +0800</pubDate>
       <link>https://github.com/ZmotriN/php-static-autobuilder</link>
       <guid>https://github.com/ZmotriN/php-static-autobuilder</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ZmotriN/php-static-autobuilder" target="_blank">ZmotriN/php-static-autobuilder: 创建 PHP 独立应用程序的 Windows PHP 静态自动生成器</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/ZmotriN/php-static-autobuilder" target="_blank">https://github.com/ZmotriN/php-static-autobuilder</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>GoogleChromeLabs/squoosh: 使用一流的编解码器，在浏览器中直接将图像变小。</title>
+      <pubDate>Mon, 20 May 2024 10:00:22 +0800</pubDate>
+      <link>https://github.com/GoogleChromeLabs/squoosh</link>
+      <guid>https://github.com/GoogleChromeLabs/squoosh</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/GoogleChromeLabs/squoosh" target="_blank">GoogleChromeLabs/squoosh: 使用一流的编解码器，在浏览器中直接将图像变小。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/GoogleChromeLabs/squoosh" target="_blank">https://github.com/GoogleChromeLabs/squoosh</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
