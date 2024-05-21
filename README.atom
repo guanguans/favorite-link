@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-20T10:17:51+08:00</updated>
+  <updated>2024-05-21T09:32:22+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,26 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[juju/clock: 时钟定义和测试时钟。]]></title>
+    <published>2024-05-21T09:32:22+08:00</published>
+    <updated>2024-05-21T09:32:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/juju/clock"/>
+    <id>https://github.com/juju/clock</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/juju/clock" target="_blank">juju/clock:
+时钟定义和测试时钟。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/juju/clock" target="_blank">https://github.com/juju/clock</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[azjezz/assess: 用于 PHP 的 Unix 文件系统通知库。]]></title>
-    <published>2024-05-20T10:17:51+08:00</published>
-    <updated>2024-05-20T10:17:51+08:00</updated>
+    <published>2024-05-20T00:00:00+08:00</published>
+    <updated>2024-05-20T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/azjezz/assess"/>
     <id>https://github.com/azjezz/assess</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ZmotriN/php-static-autobuilder: 创建 PHP 独立应用程序的 Windows PHP 静态自动生成器]]></title>
-    <published>2024-05-20T10:17:51+08:00</published>
-    <updated>2024-05-20T10:17:51+08:00</updated>
+    <published>2024-05-20T00:00:00+08:00</published>
+    <updated>2024-05-20T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ZmotriN/php-static-autobuilder"/>
     <id>https://github.com/ZmotriN/php-static-autobuilder</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +64,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[GoogleChromeLabs/squoosh: 使用一流的编解码器，在浏览器中直接将图像变小。]]></title>
-    <published>2024-05-20T10:17:51+08:00</published>
-    <updated>2024-05-20T10:17:51+08:00</updated>
+    <published>2024-05-20T00:00:00+08:00</published>
+    <updated>2024-05-20T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/GoogleChromeLabs/squoosh"/>
     <id>https://github.com/GoogleChromeLabs/squoosh</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -63,8 +80,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[timacdonald/pulse-validation-errors: 用于 Laravel Pulse 的验证错误卡]]></title>
-    <published>2024-05-20T10:17:51+08:00</published>
-    <updated>2024-05-20T10:17:51+08:00</updated>
+    <published>2024-05-20T00:00:00+08:00</published>
+    <updated>2024-05-20T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/timacdonald/pulse-validation-errors"/>
     <id>https://github.com/timacdonald/pulse-validation-errors</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
