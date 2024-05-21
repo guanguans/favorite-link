@@ -36,6 +36,7 @@
 
 ### May 21, 2024 
 - [juju/clock: 时钟定义和测试时钟。](https://github.com/juju/clock) 
+- [Bistutu/FluentRead: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
 ### May 20, 2024 
 - [azjezz/assess: 用于 PHP 的 Unix 文件系统通知库。](https://github.com/azjezz/assess) 
 - [ZmotriN/php-static-autobuilder: 创建 PHP 独立应用程序的 Windows PHP 静态自动生成器](https://github.com/ZmotriN/php-static-autobuilder) 
