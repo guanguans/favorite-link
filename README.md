@@ -19,6 +19,7 @@
 - [bfg-s/admin: Bfg Admin 为 Laravel 应用程序提供了一个高效、用户友好的软件包，可简化具有全面功能的管理面板的创建。](https://github.com/bfg-s/admin) 
 - [leventcz/laravel-top: 从命令行对 Laravel 应用程序进行实时监控。](https://github.com/leventcz/laravel-top) 
 - [ksaveras/guzzle-circuit-breaker-middleware: Guzzle 断路器中间件](https://github.com/ksaveras/guzzle-circuit-breaker-middleware) 
+- [ksaveras/circuit-breaker: PHP 中的断路器模式实现](https://github.com/ksaveras/circuit-breaker) 
 ### May 21, 2024 
 - [juju/clock: 时钟定义和测试时钟。](https://github.com/juju/clock) 
 - [Bistutu/FluentRead: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
