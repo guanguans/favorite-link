@@ -42,6 +42,7 @@
 - [npabisz/laravel-settings: Laravel 的设置](https://github.com/npabisz/laravel-settings) 
 - [asynkron/protoactor-go: asynkron/protoactor-go: 适用于 Go、C# 和 Java/Kotlin 的超快分布式行为器](https://github.com/asynkron/protoactor-go) 
 - [asynkron/protoactor-go: 适用于 Go、C# 和 Java/Kotlin 的超快分布式行为器](https://github.com/asynkron/protoactor-go) 
+- [bfg-s/admin: Bfg Admin 为 Laravel 应用程序提供了一个高效、用户友好的软件包，可简化具有全面功能的管理面板的创建。](https://github.com/bfg-s/admin) 
 ### May 21, 2024 
 - [juju/clock: 时钟定义和测试时钟。](https://github.com/juju/clock) 
 - [Bistutu/FluentRead: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
