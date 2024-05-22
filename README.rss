@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 22 May 2024 09:38:36 +0800</pubDate>
+    <pubDate>Wed, 22 May 2024 09:41:25 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>HigherOrderCO/Bend: 大规模并行高级编程语言</title>
-      <pubDate>Wed, 22 May 2024 09:38:36 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 09:41:25 +0800</pubDate>
       <link>https://github.com/HigherOrderCO/Bend</link>
       <guid>https://github.com/HigherOrderCO/Bend</guid>
       <content:encoded><![CDATA[<a href="https://github.com/HigherOrderCO/Bend" target="_blank">HigherOrderCO/Bend: 大规模并行高级编程语言</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。</title>
-      <pubDate>Wed, 22 May 2024 09:38:36 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 09:41:25 +0800</pubDate>
       <link>https://github.com/ErikMcClure/bad-licenses</link>
       <guid>https://github.com/ErikMcClure/bad-licenses</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ErikMcClure/bad-licenses" target="_blank">ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>maruel/natural: Go 中的自然排序 (natsort)</title>
-      <pubDate>Wed, 22 May 2024 09:38:36 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 09:41:25 +0800</pubDate>
       <link>natsort)](https://github.com/maruel/natural</link>
       <guid isPermaLink="false">natsort)](https://github.com/maruel/natural</guid>
       <content:encoded><![CDATA[<a href="natsort)](https://github.com/maruel/natural" target="_blank">maruel/natural: Go 中的自然排序 (natsort)</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="natsort)](https://github.com/maruel/natural" target="_blank">natsort)](https://github.com/maruel/natural</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>npabisz/laravel-settings: Laravel 的设置</title>
+      <pubDate>Wed, 22 May 2024 09:41:25 +0800</pubDate>
+      <link>https://github.com/npabisz/laravel-settings</link>
+      <guid>https://github.com/npabisz/laravel-settings</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/npabisz/laravel-settings" target="_blank">npabisz/laravel-settings: Laravel 的设置</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/npabisz/laravel-settings" target="_blank">https://github.com/npabisz/laravel-settings</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
