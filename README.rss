@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+    <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>HigherOrderCO/Bend: 大规模并行高级编程语言</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/HigherOrderCO/Bend</link>
       <guid>https://github.com/HigherOrderCO/Bend</guid>
       <content:encoded><![CDATA[<a href="https://github.com/HigherOrderCO/Bend" target="_blank">HigherOrderCO/Bend: 大规模并行高级编程语言</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/ErikMcClure/bad-licenses</link>
       <guid>https://github.com/ErikMcClure/bad-licenses</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ErikMcClure/bad-licenses" target="_blank">ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>maruel/natural: Go 中的自然排序 (natsort)</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>natsort)](https://github.com/maruel/natural</link>
       <guid isPermaLink="false">natsort)](https://github.com/maruel/natural</guid>
       <content:encoded><![CDATA[<a href="natsort)](https://github.com/maruel/natural" target="_blank">maruel/natural: Go 中的自然排序 (natsort)</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>npabisz/laravel-settings: Laravel 的设置</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/npabisz/laravel-settings</link>
       <guid>https://github.com/npabisz/laravel-settings</guid>
       <content:encoded><![CDATA[<a href="https://github.com/npabisz/laravel-settings" target="_blank">npabisz/laravel-settings: Laravel 的设置</a>
@@ -63,7 +63,7 @@
     </item>
     <item>
       <title>asynkron/protoactor-go: 适用于 Go、C# 和 Java/Kotlin 的超快分布式行为器</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/asynkron/protoactor-go</link>
       <guid>https://github.com/asynkron/protoactor-go</guid>
       <content:encoded><![CDATA[<a href="https://github.com/asynkron/protoactor-go" target="_blank">asynkron/protoactor-go: 适用于 Go、C# 和 Java/Kotlin 的超快分布式行为器</a>
@@ -76,7 +76,7 @@
     </item>
     <item>
       <title>bfg-s/admin: Bfg Admin 为 Laravel 应用程序提供了一个高效、用户友好的软件包，可简化具有全面功能的管理面板的创建。</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/bfg-s/admin</link>
       <guid>https://github.com/bfg-s/admin</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bfg-s/admin" target="_blank">bfg-s/admin: Bfg Admin 为 Laravel 应用程序提供了一个高效、用户友好的软件包，可简化具有全面功能的管理面板的创建。</a>
@@ -89,7 +89,7 @@
     </item>
     <item>
       <title>leventcz/laravel-top: 从命令行对 Laravel 应用程序进行实时监控。</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/leventcz/laravel-top</link>
       <guid>https://github.com/leventcz/laravel-top</guid>
       <content:encoded><![CDATA[<a href="https://github.com/leventcz/laravel-top" target="_blank">leventcz/laravel-top: 从命令行对 Laravel 应用程序进行实时监控。</a>
@@ -102,13 +102,26 @@
     </item>
     <item>
       <title>ksaveras/guzzle-circuit-breaker-middleware: Guzzle 断路器中间件</title>
-      <pubDate>Wed, 22 May 2024 11:43:40 +0800</pubDate>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
       <link>https://github.com/ksaveras/guzzle-circuit-breaker-middleware</link>
       <guid>https://github.com/ksaveras/guzzle-circuit-breaker-middleware</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ksaveras/guzzle-circuit-breaker-middleware" target="_blank">ksaveras/guzzle-circuit-breaker-middleware: Guzzle 断路器中间件</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/ksaveras/guzzle-circuit-breaker-middleware" target="_blank">https://github.com/ksaveras/guzzle-circuit-breaker-middleware</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>ksaveras/circuit-breaker: PHP 中的断路器模式实现</title>
+      <pubDate>Wed, 22 May 2024 11:44:49 +0800</pubDate>
+      <link>https://github.com/ksaveras/circuit-breaker</link>
+      <guid>https://github.com/ksaveras/circuit-breaker</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ksaveras/circuit-breaker" target="_blank">ksaveras/circuit-breaker: PHP 中的断路器模式实现</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ksaveras/circuit-breaker" target="_blank">https://github.com/ksaveras/circuit-breaker</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-22T11:43:40+08:00</updated>
+  <updated>2024-05-22T11:44:49+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[HigherOrderCO/Bend: 大规模并行高级编程语言]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/HigherOrderCO/Bend"/>
     <id>https://github.com/HigherOrderCO/Bend</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ErikMcClure/bad-licenses"/>
     <id>https://github.com/ErikMcClure/bad-licenses</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[maruel/natural: Go 中的自然排序 (natsort)]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="natsort)](https://github.com/maruel/natural"/>
     <id>natsort)](https://github.com/maruel/natural</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[npabisz/laravel-settings: Laravel 的设置]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/npabisz/laravel-settings"/>
     <id>https://github.com/npabisz/laravel-settings</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -78,8 +78,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[asynkron/protoactor-go: 适用于 Go、C# 和 Java/Kotlin 的超快分布式行为器]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/asynkron/protoactor-go"/>
     <id>https://github.com/asynkron/protoactor-go</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -95,8 +95,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bfg-s/admin: Bfg Admin 为 Laravel 应用程序提供了一个高效、用户友好的软件包，可简化具有全面功能的管理面板的创建。]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/bfg-s/admin"/>
     <id>https://github.com/bfg-s/admin</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -112,8 +112,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[leventcz/laravel-top: 从命令行对 Laravel 应用程序进行实时监控。]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/leventcz/laravel-top"/>
     <id>https://github.com/leventcz/laravel-top</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -128,8 +128,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ksaveras/guzzle-circuit-breaker-middleware: Guzzle 断路器中间件]]></title>
-    <published>2024-05-22T11:43:40+08:00</published>
-    <updated>2024-05-22T11:43:40+08:00</updated>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ksaveras/guzzle-circuit-breaker-middleware"/>
     <id>https://github.com/ksaveras/guzzle-circuit-breaker-middleware</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -138,6 +138,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/ksaveras/guzzle-circuit-breaker-middleware" target="_blank">https://github.com/ksaveras/guzzle-circuit-breaker-middleware</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ksaveras/circuit-breaker: PHP 中的断路器模式实现]]></title>
+    <published>2024-05-22T11:44:49+08:00</published>
+    <updated>2024-05-22T11:44:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ksaveras/circuit-breaker"/>
+    <id>https://github.com/ksaveras/circuit-breaker</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ksaveras/circuit-breaker" target="_blank">ksaveras/circuit-breaker: PHP 中的断路器模式实现</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ksaveras/circuit-breaker" target="_blank">https://github.com/ksaveras/circuit-breaker</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
