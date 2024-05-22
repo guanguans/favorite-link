@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 21 May 2024 14:17:31 +0800</pubDate>
+    <pubDate>Wed, 22 May 2024 09:36:03 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>HigherOrderCO/Bend: 大规模并行高级编程语言</title>
+      <pubDate>Wed, 22 May 2024 09:36:03 +0800</pubDate>
+      <link>https://github.com/HigherOrderCO/Bend</link>
+      <guid>https://github.com/HigherOrderCO/Bend</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/HigherOrderCO/Bend" target="_blank">HigherOrderCO/Bend: 大规模并行高级编程语言</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/HigherOrderCO/Bend" target="_blank">https://github.com/HigherOrderCO/Bend</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>juju/clock: 时钟定义和测试时钟。</title>
-      <pubDate>Tue, 21 May 2024 14:17:31 +0800</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/juju/clock</link>
       <guid>https://github.com/juju/clock</guid>
       <content:encoded><![CDATA[<a href="https://github.com/juju/clock" target="_blank">juju/clock: 时钟定义和测试时钟。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>Bistutu/FluentRead: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。</title>
-      <pubDate>Tue, 21 May 2024 14:17:31 +0800</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Bistutu/FluentRead</link>
       <guid>https://github.com/Bistutu/FluentRead</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Bistutu/FluentRead" target="_blank">Bistutu/FluentRead: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。</a>
