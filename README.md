@@ -39,6 +39,7 @@
 - [HigherOrderCO/Bend: 大规模并行高级编程语言](https://github.com/HigherOrderCO/Bend) 
 - [ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。](https://github.com/ErikMcClure/bad-licenses) 
 - [maruel/natural: Go 中的自然排序 (natsort)](https://github.com/maruel/natural) 
+- [npabisz/laravel-settings: Laravel 的设置](https://github.com/npabisz/laravel-settings) 
 ### May 21, 2024 
 - [juju/clock: 时钟定义和测试时钟。](https://github.com/juju/clock) 
 - [Bistutu/FluentRead: 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
