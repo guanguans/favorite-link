@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 23 May 2024 09:46:50 +0800</pubDate>
+    <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。</title>
-      <pubDate>Thu, 23 May 2024 09:46:50 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
       <link>https://github.com/kirkbushell/eloquence</link>
       <guid>https://github.com/kirkbushell/eloquence</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kirkbushell/eloquence" target="_blank">kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作</title>
-      <pubDate>Thu, 23 May 2024 09:46:50 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
       <link>https://github.com/gautamkrishnar/keepalive-workflow</link>
       <guid>https://github.com/gautamkrishnar/keepalive-workflow</guid>
       <content:encoded><![CDATA[<a href="https://github.com/gautamkrishnar/keepalive-workflow" target="_blank">gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>vitodeploy/vito: Vito 是一款自托管网络应用程序，可帮助您轻松管理服务器并将 PHP 应用程序部署到生产服务器中。</title>
-      <pubDate>Thu, 23 May 2024 09:46:50 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
       <link>https://github.com/vitodeploy/vito</link>
       <guid>https://github.com/vitodeploy/vito</guid>
       <content:encoded><![CDATA[<a href="https://github.com/vitodeploy/vito" target="_blank">vitodeploy/vito: Vito 是一款自托管网络应用程序，可帮助您轻松管理服务器并将 PHP 应用程序部署到生产服务器中。</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>imanghafoori1/laravel-password-history: 保存用户的密码历史记录，防止他们重复使用相同的密码。</title>
-      <pubDate>Thu, 23 May 2024 09:46:50 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
       <link>https://github.com/imanghafoori1/laravel-password-history</link>
       <guid>https://github.com/imanghafoori1/laravel-password-history</guid>
       <content:encoded><![CDATA[<a href="https://github.com/imanghafoori1/laravel-password-history" target="_blank">imanghafoori1/laravel-password-history: 保存用户的密码历史记录，防止他们重复使用相同的密码。</a>
@@ -63,13 +63,26 @@
     </item>
     <item>
       <title>imanghafoori1/laravel-decorator: 使用 laravel-decorator 软件包轻松装饰方法调用</title>
-      <pubDate>Thu, 23 May 2024 09:46:50 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
       <link>https://github.com/imanghafoori1/laravel-decorator</link>
       <guid>https://github.com/imanghafoori1/laravel-decorator</guid>
       <content:encoded><![CDATA[<a href="https://github.com/imanghafoori1/laravel-decorator" target="_blank">imanghafoori1/laravel-decorator: 使用 laravel-decorator 软件包轻松装饰方法调用</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/imanghafoori1/laravel-decorator" target="_blank">https://github.com/imanghafoori1/laravel-decorator</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>waifu-project/movie: 🦄 开箱即用的一款支持扩展播放源的播放器 🥳</title>
+      <pubDate>Thu, 23 May 2024 09:53:31 +0800</pubDate>
+      <link>https://github.com/waifu-project/movie</link>
+      <guid>https://github.com/waifu-project/movie</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/waifu-project/movie" target="_blank">waifu-project/movie: 🦄 开箱即用的一款支持扩展播放源的播放器 🥳</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/waifu-project/movie" target="_blank">https://github.com/waifu-project/movie</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
