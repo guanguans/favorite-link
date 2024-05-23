@@ -16,6 +16,7 @@
 - [gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作](https://github.com/gautamkrishnar/keepalive-workflow) 
 - [vitodeploy/vito: Vito 是一款自托管网络应用程序，可帮助您轻松管理服务器并将 PHP 应用程序部署到生产服务器中。](https://github.com/vitodeploy/vito) 
 - [imanghafoori1/laravel-password-history: 保存用户的密码历史记录，防止他们重复使用相同的密码。](https://github.com/imanghafoori1/laravel-password-history) 
+- [imanghafoori1/laravel-decorator: 使用 laravel-decorator 软件包轻松装饰方法调用](https://github.com/imanghafoori1/laravel-decorator) 
 ### May 22, 2024 
 - [HigherOrderCO/Bend: 大规模并行高级编程语言](https://github.com/HigherOrderCO/Bend) 
 - [ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。](https://github.com/ErikMcClure/bad-licenses) 
