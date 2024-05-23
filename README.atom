@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-23T09:53:31+08:00</updated>
+  <updated>2024-05-23T09:54:21+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。]]></title>
-    <published>2024-05-23T09:53:31+08:00</published>
-    <updated>2024-05-23T09:53:31+08:00</updated>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/kirkbushell/eloquence"/>
     <id>https://github.com/kirkbushell/eloquence</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作]]></title>
-    <published>2024-05-23T09:53:31+08:00</published>
-    <updated>2024-05-23T09:53:31+08:00</updated>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/gautamkrishnar/keepalive-workflow"/>
     <id>https://github.com/gautamkrishnar/keepalive-workflow</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -48,8 +48,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vitodeploy/vito: Vito 是一款自托管网络应用程序，可帮助您轻松管理服务器并将 PHP 应用程序部署到生产服务器中。]]></title>
-    <published>2024-05-23T09:53:31+08:00</published>
-    <updated>2024-05-23T09:53:31+08:00</updated>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/vitodeploy/vito"/>
     <id>https://github.com/vitodeploy/vito</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -65,8 +65,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[imanghafoori1/laravel-password-history: 保存用户的密码历史记录，防止他们重复使用相同的密码。]]></title>
-    <published>2024-05-23T09:53:31+08:00</published>
-    <updated>2024-05-23T09:53:31+08:00</updated>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/imanghafoori1/laravel-password-history"/>
     <id>https://github.com/imanghafoori1/laravel-password-history</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -82,8 +82,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[imanghafoori1/laravel-decorator: 使用 laravel-decorator 软件包轻松装饰方法调用]]></title>
-    <published>2024-05-23T09:53:31+08:00</published>
-    <updated>2024-05-23T09:53:31+08:00</updated>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/imanghafoori1/laravel-decorator"/>
     <id>https://github.com/imanghafoori1/laravel-decorator</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -99,8 +99,8 @@ laravel-decorator 软件包轻松装饰方法调用</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[waifu-project/movie: 🦄 开箱即用的一款支持扩展播放源的播放器 🥳]]></title>
-    <published>2024-05-23T09:53:31+08:00</published>
-    <updated>2024-05-23T09:53:31+08:00</updated>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/waifu-project/movie"/>
     <id>https://github.com/waifu-project/movie</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -108,6 +108,23 @@ laravel-decorator 软件包轻松装饰方法调用</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/waifu-project/movie" target="_blank">https://github.com/waifu-project/movie</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[neutomic/neutomic: Neutomic 是一个快速、异步、轻量级 PHP 框架，专为长时间运行的进程环境量身定制。]]></title>
+    <published>2024-05-23T09:54:21+08:00</published>
+    <updated>2024-05-23T09:54:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/neutomic/neutomic"/>
+    <id>https://github.com/neutomic/neutomic</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/neutomic/neutomic" target="_blank">neutomic/neutomic: Neutomic 是一个快速、异步、轻量级 PHP
+框架，专为长时间运行的进程环境量身定制。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/neutomic/neutomic" target="_blank">https://github.com/neutomic/neutomic</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
