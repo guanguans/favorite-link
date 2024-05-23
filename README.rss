@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 23 May 2024 09:33:38 +0800</pubDate>
+    <pubDate>Thu, 23 May 2024 09:43:50 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。</title>
-      <pubDate>Thu, 23 May 2024 09:33:38 +0800</pubDate>
+      <pubDate>Thu, 23 May 2024 09:43:50 +0800</pubDate>
       <link>https://github.com/kirkbushell/eloquence</link>
       <guid>https://github.com/kirkbushell/eloquence</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kirkbushell/eloquence" target="_blank">kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/kirkbushell/eloquence" target="_blank">https://github.com/kirkbushell/eloquence</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作</title>
+      <pubDate>Thu, 23 May 2024 09:43:50 +0800</pubDate>
+      <link>https://github.com/gautamkrishnar/keepalive-workflow</link>
+      <guid>https://github.com/gautamkrishnar/keepalive-workflow</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gautamkrishnar/keepalive-workflow" target="_blank">gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/gautamkrishnar/keepalive-workflow" target="_blank">https://github.com/gautamkrishnar/keepalive-workflow</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
