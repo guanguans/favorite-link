@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 23, 2024 
+- [kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。](https://github.com/kirkbushell/eloquence) 
 ### May 22, 2024 
 - [HigherOrderCO/Bend: 大规模并行高级编程语言](https://github.com/HigherOrderCO/Bend) 
 - [ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。](https://github.com/ErikMcClure/bad-licenses) 
