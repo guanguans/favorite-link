@@ -19,6 +19,7 @@
 - [imanghafoori1/laravel-decorator: 使用 laravel-decorator 软件包轻松装饰方法调用](https://github.com/imanghafoori1/laravel-decorator) 
 - [waifu-project/movie: 🦄 开箱即用的一款支持扩展播放源的播放器 🥳](https://github.com/waifu-project/movie) 
 - [neutomic/neutomic: Neutomic 是一个快速、异步、轻量级 PHP 框架，专为长时间运行的进程环境量身定制。](https://github.com/neutomic/neutomic) 
+- [imanghafoori1/laravel-decorator: 使用 laravel-decorator 包轻松装饰方法调用](https://github.com/imanghafoori1/laravel-decorator) 
 ### May 22, 2024 
 - [HigherOrderCO/Bend: 大规模并行高级编程语言](https://github.com/HigherOrderCO/Bend) 
 - [ErikMcClure/bad-licenses: 荒谬的开源许可证汇编。](https://github.com/ErikMcClure/bad-licenses) 
