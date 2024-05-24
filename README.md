@@ -14,6 +14,7 @@
 
 ### May 24, 2024 
 - [scr34m/php-malware-scanner: 扫描 PHP 文件，查找恶意软件和已知威胁](https://github.com/scr34m/php-malware-scanner) 
+- [solutionforest/FilamentLoginScreen: Filament 登录屏幕 - 让我们轻松实现不同的 "登录 "屏幕设计](https://github.com/solutionforest/FilamentLoginScreen) 
 ### May 23, 2024 
 - [kirkbushell/eloquence: 一个用于 Laravel 中某些数据库功能的嵌入式库，可以实现一些可能永远无法在主项目中实现的额外功能。](https://github.com/kirkbushell/eloquence) 
 - [gautamkrishnar/keepalive-workflow: 防止 GitHub 因版本库不活动而暂停基于 cronjob 的触发器的 GitHub 操作](https://github.com/gautamkrishnar/keepalive-workflow) 
