@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 24 May 2024 09:33:09 +0800</pubDate>
+    <pubDate>Fri, 24 May 2024 09:40:43 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>scr34m/php-malware-scanner: 扫描 PHP 文件，查找恶意软件和已知威胁</title>
-      <pubDate>Fri, 24 May 2024 09:33:09 +0800</pubDate>
+      <pubDate>Fri, 24 May 2024 09:40:43 +0800</pubDate>
       <link>https://github.com/scr34m/php-malware-scanner</link>
       <guid>https://github.com/scr34m/php-malware-scanner</guid>
       <content:encoded><![CDATA[<a href="https://github.com/scr34m/php-malware-scanner" target="_blank">scr34m/php-malware-scanner: 扫描 PHP 文件，查找恶意软件和已知威胁</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>solutionforest/FilamentLoginScreen: Filament 登录屏幕 - 让我们轻松实现不同的 "登录" 屏幕设计</title>
-      <pubDate>Fri, 24 May 2024 09:33:09 +0800</pubDate>
+      <pubDate>Fri, 24 May 2024 09:40:43 +0800</pubDate>
       <link>https://github.com/solutionforest/FilamentLoginScreen</link>
       <guid>https://github.com/solutionforest/FilamentLoginScreen</guid>
       <content:encoded><![CDATA[<a href="https://github.com/solutionforest/FilamentLoginScreen" target="_blank">solutionforest/FilamentLoginScreen: Filament 登录屏幕 - 让我们轻松实现不同的 "登录" 屏幕设计</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/solutionforest/FilamentLoginScreen" target="_blank">https://github.com/solutionforest/FilamentLoginScreen</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>shieldfy/API-Security-Checklist: 开发安全的 API 所需要核对的清单</title>
+      <pubDate>Fri, 24 May 2024 09:40:43 +0800</pubDate>
+      <link>https://github.com/shieldfy/API-Security-Checklist</link>
+      <guid>https://github.com/shieldfy/API-Security-Checklist</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/shieldfy/API-Security-Checklist" target="_blank">shieldfy/API-Security-Checklist: 开发安全的 API 所需要核对的清单</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/shieldfy/API-Security-Checklist" target="_blank">https://github.com/shieldfy/API-Security-Checklist</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
