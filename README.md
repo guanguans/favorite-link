@@ -12,6 +12,9 @@
 
 
 
+
+### May 27, 2024 
+- [ryangjchandler/laravel-cloudflare-turnstile: 帮助集成 Cloudflare Turnstile 的简单软件包。](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) 
 ### May 24, 2024 
 - [scr34m/php-malware-scanner: 扫描 PHP 文件，查找恶意软件和已知威胁](https://github.com/scr34m/php-malware-scanner) 
 - [solutionforest/FilamentLoginScreen: Filament 登录屏幕 - 让我们轻松实现不同的 "登录" 屏幕设计](https://github.com/solutionforest/FilamentLoginScreen) 
