@@ -17,7 +17,7 @@
 ### May 28, 2024 
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
-- [caorushizi/mediago: 视频在线提取工具 流媒体下载 m3u8下载](https://github.com/caorushizi/mediago) 
+- [caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载](https://github.com/caorushizi/mediago) 
 ### May 27, 2024 
 - [ryangjchandler/laravel-cloudflare-turnstile: 帮助集成 Cloudflare Turnstile 的简单软件包。](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) 
 - [rectorphp/type-perfect: 下一级类型声明检查 PHPStan 规则](https://github.com/rectorphp/type-perfect) 

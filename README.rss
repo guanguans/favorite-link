@@ -3,15 +3,54 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 27 May 2024 11:49:33 +0800</pubDate>
+    <pubDate>Tue, 28 May 2024 09:43:12 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>php-strictus/strictus：对 PHP 的内联变量进行严格键入</title>
+      <pubDate>Tue, 28 May 2024 09:43:12 +0800</pubDate>
+      <link>https://github.com/php-strictus/strictus</link>
+      <guid>https://github.com/php-strictus/strictus</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/php-strictus/strictus" target="_blank">php-strictus/strictus：对 PHP 的内联变量进行严格键入</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/php-strictus/strictus" target="_blank">https://github.com/php-strictus/strictus</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>php-strictus/strictus：对 PHP 的内联变量进行严格键入</title>
+      <pubDate>Tue, 28 May 2024 09:43:12 +0800</pubDate>
+      <link>https://github.com/php-strictus/strictus</link>
+      <guid>https://github.com/php-strictus/strictus</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/php-strictus/strictus" target="_blank">php-strictus/strictus：对 PHP 的内联变量进行严格键入</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/php-strictus/strictus" target="_blank">https://github.com/php-strictus/strictus</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载</title>
+      <pubDate>Tue, 28 May 2024 09:43:12 +0800</pubDate>
+      <link>https://github.com/caorushizi/mediago</link>
+      <guid>https://github.com/caorushizi/mediago</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/caorushizi/mediago" target="_blank">caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/caorushizi/mediago" target="_blank">https://github.com/caorushizi/mediago</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>ryangjchandler/laravel-cloudflare-turnstile: 帮助集成 Cloudflare Turnstile 的简单软件包。</title>
-      <pubDate>Mon, 27 May 2024 11:49:33 +0800</pubDate>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ryangjchandler/laravel-cloudflare-turnstile</link>
       <guid>https://github.com/ryangjchandler/laravel-cloudflare-turnstile</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/laravel-cloudflare-turnstile" target="_blank">ryangjchandler/laravel-cloudflare-turnstile: 帮助集成 Cloudflare Turnstile 的简单软件包。</a>
@@ -24,7 +63,7 @@
     </item>
     <item>
       <title>rectorphp/type-perfect: 下一级类型声明检查 PHPStan 规则</title>
-      <pubDate>Mon, 27 May 2024 11:49:33 +0800</pubDate>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/rectorphp/type-perfect</link>
       <guid>https://github.com/rectorphp/type-perfect</guid>
       <content:encoded><![CDATA[<a href="https://github.com/rectorphp/type-perfect" target="_blank">rectorphp/type-perfect: 下一级类型声明检查 PHPStan 规则</a>
@@ -37,7 +76,7 @@
     </item>
     <item>
       <title>ipinfo/php: IPinfo 的官方 PHP 库</title>
-      <pubDate>Mon, 27 May 2024 11:49:33 +0800</pubDate>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ipinfo/php</link>
       <guid>https://github.com/ipinfo/php</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ipinfo/php" target="_blank">ipinfo/php: IPinfo 的官方 PHP 库</a>
@@ -50,7 +89,7 @@
     </item>
     <item>
       <title>VirtusLab/git-machete: 可能是你见过的最犀利的 git 仓库组织者和重建/合并工作流程自动化工具</title>
-      <pubDate>Mon, 27 May 2024 11:49:33 +0800</pubDate>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/VirtusLab/git-machete#git-machete</link>
       <guid>https://github.com/VirtusLab/git-machete#git-machete</guid>
       <content:encoded><![CDATA[<a href="https://github.com/VirtusLab/git-machete#git-machete" target="_blank">VirtusLab/git-machete: 可能是你见过的最犀利的 git 仓库组织者和重建/合并工作流程自动化工具</a>
