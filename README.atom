@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-28T09:45:55+08:00</updated>
+  <updated>2024-05-28T09:49:31+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-strictus/strictus：对 PHP 的内联变量进行严格键入]]></title>
-    <published>2024-05-28T09:45:55+08:00</published>
-    <updated>2024-05-28T09:45:55+08:00</updated>
+    <published>2024-05-28T09:49:31+08:00</published>
+    <updated>2024-05-28T09:49:31+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/php-strictus/strictus"/>
     <id>https://github.com/php-strictus/strictus</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-strictus/strictus：对 PHP 的内联变量进行严格键入]]></title>
-    <published>2024-05-28T09:45:55+08:00</published>
-    <updated>2024-05-28T09:45:55+08:00</updated>
+    <published>2024-05-28T09:49:31+08:00</published>
+    <updated>2024-05-28T09:49:31+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/php-strictus/strictus"/>
     <id>https://github.com/php-strictus/strictus</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载]]></title>
-    <published>2024-05-28T09:45:55+08:00</published>
-    <updated>2024-05-28T09:45:55+08:00</updated>
+    <published>2024-05-28T09:49:31+08:00</published>
+    <updated>2024-05-28T09:49:31+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/caorushizi/mediago"/>
     <id>https://github.com/caorushizi/mediago</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[artkonekt/pdf-invoice: 一个简单的 PHP 类，只需几行代码即可生成 PDF 发票、报价单或订单。]]></title>
-    <published>2024-05-28T09:45:55+08:00</published>
-    <updated>2024-05-28T09:45:55+08:00</updated>
+    <published>2024-05-28T09:49:31+08:00</published>
+    <updated>2024-05-28T09:49:31+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/artkonekt/pdf-invoice"/>
     <id>https://github.com/artkonekt/pdf-invoice</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -72,6 +72,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/artkonekt/pdf-invoice" target="_blank">https://github.com/artkonekt/pdf-invoice</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Laragear/ApiManager: 管理多个 REST 服务器，只需几行即可流畅地发出请求。]]></title>
+    <published>2024-05-28T09:49:31+08:00</published>
+    <updated>2024-05-28T09:49:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Laragear/ApiManager"/>
+    <id>https://github.com/Laragear/ApiManager</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Laragear/ApiManager" target="_blank">Laragear/ApiManager: 管理多个 REST 服务器，只需几行即可流畅地发出请求。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Laragear/ApiManager" target="_blank">https://github.com/Laragear/ApiManager</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
