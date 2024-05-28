@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 28 May 2024 09:49:31 +0800</pubDate>
+    <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>php-strictus/strictus：对 PHP 的内联变量进行严格键入</title>
-      <pubDate>Tue, 28 May 2024 09:49:31 +0800</pubDate>
+      <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
       <link>https://github.com/php-strictus/strictus</link>
       <guid>https://github.com/php-strictus/strictus</guid>
       <content:encoded><![CDATA[<a href="https://github.com/php-strictus/strictus" target="_blank">php-strictus/strictus：对 PHP 的内联变量进行严格键入</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>php-strictus/strictus：对 PHP 的内联变量进行严格键入</title>
-      <pubDate>Tue, 28 May 2024 09:49:31 +0800</pubDate>
+      <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
       <link>https://github.com/php-strictus/strictus</link>
       <guid>https://github.com/php-strictus/strictus</guid>
       <content:encoded><![CDATA[<a href="https://github.com/php-strictus/strictus" target="_blank">php-strictus/strictus：对 PHP 的内联变量进行严格键入</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载</title>
-      <pubDate>Tue, 28 May 2024 09:49:31 +0800</pubDate>
+      <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
       <link>https://github.com/caorushizi/mediago</link>
       <guid>https://github.com/caorushizi/mediago</guid>
       <content:encoded><![CDATA[<a href="https://github.com/caorushizi/mediago" target="_blank">caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>artkonekt/pdf-invoice: 一个简单的 PHP 类，只需几行代码即可生成 PDF 发票、报价单或订单。</title>
-      <pubDate>Tue, 28 May 2024 09:49:31 +0800</pubDate>
+      <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
       <link>https://github.com/artkonekt/pdf-invoice</link>
       <guid>https://github.com/artkonekt/pdf-invoice</guid>
       <content:encoded><![CDATA[<a href="https://github.com/artkonekt/pdf-invoice" target="_blank">artkonekt/pdf-invoice: 一个简单的 PHP 类，只需几行代码即可生成 PDF 发票、报价单或订单。</a>
@@ -63,13 +63,26 @@
     </item>
     <item>
       <title>Laragear/ApiManager: 管理多个 REST 服务器，只需几行即可流畅地发出请求。</title>
-      <pubDate>Tue, 28 May 2024 09:49:31 +0800</pubDate>
+      <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
       <link>https://github.com/Laragear/ApiManager</link>
       <guid>https://github.com/Laragear/ApiManager</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Laragear/ApiManager" target="_blank">Laragear/ApiManager: 管理多个 REST 服务器，只需几行即可流畅地发出请求。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Laragear/ApiManager" target="_blank">https://github.com/Laragear/ApiManager</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>phasync/phasync: 用于超高性能 PHP 网站的微型框架，支持无阻塞 IO。</title>
+      <pubDate>Tue, 28 May 2024 09:51:50 +0800</pubDate>
+      <link>https://github.com/phasync/phasync</link>
+      <guid>https://github.com/phasync/phasync</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/phasync/phasync" target="_blank">phasync/phasync: 用于超高性能 PHP 网站的微型框架，支持无阻塞 IO。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/phasync/phasync" target="_blank">https://github.com/phasync/phasync</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
