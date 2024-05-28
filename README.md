@@ -19,6 +19,7 @@
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 - [caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载](https://github.com/caorushizi/mediago) 
 - [artkonekt/pdf-invoice: 一个简单的 PHP 类，只需几行代码即可生成 PDF 发票、报价单或订单。](https://github.com/artkonekt/pdf-invoice) 
+- [Laragear/ApiManager: 管理多个 REST 服务器，只需几行即可流畅地发出请求。](https://github.com/Laragear/ApiManager) 
 ### May 27, 2024 
 - [ryangjchandler/laravel-cloudflare-turnstile: 帮助集成 Cloudflare Turnstile 的简单软件包。](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) 
 - [rectorphp/type-perfect: 下一级类型声明检查 PHPStan 规则](https://github.com/rectorphp/type-perfect) 
