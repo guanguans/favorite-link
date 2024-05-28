@@ -13,6 +13,9 @@
 
 
 
+
+### May 28, 2024 
+- [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 ### May 27, 2024 
 - [ryangjchandler/laravel-cloudflare-turnstile: 帮助集成 Cloudflare Turnstile 的简单软件包。](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) 
 - [rectorphp/type-perfect: 下一级类型声明检查 PHPStan 规则](https://github.com/rectorphp/type-perfect) 
