@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-29T09:43:18+08:00</updated>
+  <updated>2024-05-29T09:45:50+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tomloprod/colority: Colority 是一个轻量级 PHP 库，旨在轻松处理颜色转换、验证和操作。]]></title>
-    <published>2024-05-29T09:43:18+08:00</published>
-    <updated>2024-05-29T09:43:18+08:00</updated>
+    <published>2024-05-29T09:45:50+08:00</published>
+    <updated>2024-05-29T09:45:50+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/tomloprod/colority"/>
     <id>https://github.com/tomloprod/colority</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。]]></title>
-    <published>2024-05-29T09:43:18+08:00</published>
-    <updated>2024-05-29T09:43:18+08:00</updated>
+    <published>2024-05-29T09:45:50+08:00</published>
+    <updated>2024-05-29T09:45:50+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/kelunik/acme-client"/>
     <id>https://github.com/kelunik/acme-client</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -41,6 +41,22 @@ ACME 客户端。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/kelunik/acme-client" target="_blank">https://github.com/kelunik/acme-client</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本]]></title>
+    <published>2024-05-29T09:45:50+08:00</published>
+    <updated>2024-05-29T09:45:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mac-cleanup/mac-cleanup-py"/>
+    <id>https://github.com/mac-cleanup/mac-cleanup-py</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mac-cleanup/mac-cleanup-py" target="_blank">mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mac-cleanup/mac-cleanup-py" target="_blank">https://github.com/mac-cleanup/mac-cleanup-py</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>

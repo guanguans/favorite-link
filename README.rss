@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 29 May 2024 09:43:18 +0800</pubDate>
+    <pubDate>Wed, 29 May 2024 09:45:50 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>tomloprod/colority: Colority 是一个轻量级 PHP 库，旨在轻松处理颜色转换、验证和操作。</title>
-      <pubDate>Wed, 29 May 2024 09:43:18 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 09:45:50 +0800</pubDate>
       <link>https://github.com/tomloprod/colority</link>
       <guid>https://github.com/tomloprod/colority</guid>
       <content:encoded><![CDATA[<a href="https://github.com/tomloprod/colority" target="_blank">tomloprod/colority: Colority 是一个轻量级 PHP 库，旨在轻松处理颜色转换、验证和操作。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。</title>
-      <pubDate>Wed, 29 May 2024 09:43:18 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 09:45:50 +0800</pubDate>
       <link>https://github.com/kelunik/acme-client</link>
       <guid>https://github.com/kelunik/acme-client</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kelunik/acme-client" target="_blank">kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/kelunik/acme-client" target="_blank">https://github.com/kelunik/acme-client</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本</title>
+      <pubDate>Wed, 29 May 2024 09:45:50 +0800</pubDate>
+      <link>https://github.com/mac-cleanup/mac-cleanup-py</link>
+      <guid>https://github.com/mac-cleanup/mac-cleanup-py</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mac-cleanup/mac-cleanup-py" target="_blank">mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mac-cleanup/mac-cleanup-py" target="_blank">https://github.com/mac-cleanup/mac-cleanup-py</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
