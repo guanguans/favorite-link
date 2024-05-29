@@ -20,6 +20,7 @@
 - [kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。](https://github.com/kelunik/acme-client) 
 - [mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本](https://github.com/mac-cleanup/mac-cleanup-py) 
 - [ccbikai/Sink: 简单/快速/安全的链接缩短器，带分析功能，100% 在 Cloudflare 上运行。](https://github.com/ccbikai/Sink) 
+- [liuchuancong/pure_live: 纯粹直播:哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc/M38自定义源应有尽有。](https://github.com/liuchuancong/pure_live) 
 ### May 28, 2024 
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
