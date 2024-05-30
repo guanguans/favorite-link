@@ -15,6 +15,9 @@
 
 
 
+
+### May 30, 2024 
+- [AuroraEditor/AuroraEditor: Aurora Editor 是一款由社区打造、面向社区的集成开发环境，采用 Swift 编写，可为 macOS 提供最佳的本地性能和手感。](https://github.com/AuroraEditor/AuroraEditor) 
 ### May 29, 2024 
 - [tomloprod/colority: Colority 是一个轻量级 PHP 库，旨在轻松处理颜色转换、验证和操作。](https://github.com/tomloprod/colority) 
 - [kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。](https://github.com/kelunik/acme-client) 
