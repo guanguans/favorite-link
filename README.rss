@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 29 May 2024 10:24:43 +0800</pubDate>
+    <pubDate>Thu, 30 May 2024 09:44:07 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>AuroraEditor/AuroraEditor: Aurora Editor 是一款由社区打造、面向社区的集成开发环境，采用 Swift 编写，可为 macOS 提供最佳的本地性能和手感。</title>
+      <pubDate>Thu, 30 May 2024 09:44:07 +0800</pubDate>
+      <link>https://github.com/AuroraEditor/AuroraEditor</link>
+      <guid>https://github.com/AuroraEditor/AuroraEditor</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/AuroraEditor/AuroraEditor" target="_blank">AuroraEditor/AuroraEditor: Aurora Editor 是一款由社区打造、面向社区的集成开发环境，采用 Swift 编写，可为 macOS 提供最佳的本地性能和手感。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/AuroraEditor/AuroraEditor" target="_blank">https://github.com/AuroraEditor/AuroraEditor</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>tomloprod/colority: Colority 是一个轻量级 PHP 库，旨在轻松处理颜色转换、验证和操作。</title>
-      <pubDate>Wed, 29 May 2024 10:24:43 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/tomloprod/colority</link>
       <guid>https://github.com/tomloprod/colority</guid>
       <content:encoded><![CDATA[<a href="https://github.com/tomloprod/colority" target="_blank">tomloprod/colority: Colority 是一个轻量级 PHP 库，旨在轻松处理颜色转换、验证和操作。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。</title>
-      <pubDate>Wed, 29 May 2024 10:24:43 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/kelunik/acme-client</link>
       <guid>https://github.com/kelunik/acme-client</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kelunik/acme-client" target="_blank">kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本</title>
-      <pubDate>Wed, 29 May 2024 10:24:43 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/mac-cleanup/mac-cleanup-py</link>
       <guid>https://github.com/mac-cleanup/mac-cleanup-py</guid>
       <content:encoded><![CDATA[<a href="https://github.com/mac-cleanup/mac-cleanup-py" target="_blank">mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>ccbikai/Sink: 简单/快速/安全的链接缩短器，带分析功能，100% 在 Cloudflare 上运行。</title>
-      <pubDate>Wed, 29 May 2024 10:24:43 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ccbikai/Sink</link>
       <guid>https://github.com/ccbikai/Sink</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ccbikai/Sink" target="_blank">ccbikai/Sink: 简单/快速/安全的链接缩短器，带分析功能，100% 在 Cloudflare 上运行。</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>liuchuancong/pure_live: 纯粹直播: 哔哩哔哩/虎牙/斗鱼/快手/抖音/网易 cc/M38 自定义源应有尽有。</title>
-      <pubDate>Wed, 29 May 2024 10:24:43 +0800</pubDate>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/liuchuancong/pure_live</link>
       <guid>https://github.com/liuchuancong/pure_live</guid>
       <content:encoded><![CDATA[<a href="https://github.com/liuchuancong/pure_live" target="_blank">liuchuancong/pure_live: 纯粹直播: 哔哩哔哩/虎牙/斗鱼/快手/抖音/网易 cc/M38 自定义源应有尽有。</a>
