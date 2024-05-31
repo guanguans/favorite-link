@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 31 May 2024 09:30:55 +0800</pubDate>
+    <pubDate>Fri, 31 May 2024 09:31:48 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>xmolecules/phpmolecules: 帮助开发人员在 PHP 代码中表达架构抽象的库</title>
-      <pubDate>Fri, 31 May 2024 09:30:55 +0800</pubDate>
+      <pubDate>Fri, 31 May 2024 09:31:48 +0800</pubDate>
       <link>https://github.com/xmolecules/phpmolecules</link>
       <guid>https://github.com/xmolecules/phpmolecules</guid>
       <content:encoded><![CDATA[<a href="https://github.com/xmolecules/phpmolecules" target="_blank">xmolecules/phpmolecules: 帮助开发人员在 PHP 代码中表达架构抽象的库</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/xmolecules/phpmolecules" target="_blank">https://github.com/xmolecules/phpmolecules</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Assisted-Mindfulness/naive-bayes: 朴素贝叶斯的工作原理是查看训练集并根据该集进行猜测。它使用简单的统计数据和一些数学来计算结果。</title>
+      <pubDate>Fri, 31 May 2024 09:31:48 +0800</pubDate>
+      <link>https://github.com/Assisted-Mindfulness/naive-bayes</link>
+      <guid>https://github.com/Assisted-Mindfulness/naive-bayes</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Assisted-Mindfulness/naive-bayes" target="_blank">Assisted-Mindfulness/naive-bayes: 朴素贝叶斯的工作原理是查看训练集并根据该集进行猜测。它使用简单的统计数据和一些数学来计算结果。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Assisted-Mindfulness/naive-bayes" target="_blank">https://github.com/Assisted-Mindfulness/naive-bayes</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
