@@ -19,6 +19,7 @@
 
 ### May 31, 2024 
 - [xmolecules/phpmolecules: 帮助开发人员在 PHP 代码中表达架构抽象的库](https://github.com/xmolecules/phpmolecules) 
+- [Assisted-Mindfulness/naive-bayes: 朴素贝叶斯的工作原理是查看训练集并根据该集进行猜测。它使用简单的统计数据和一些数学来计算结果。](https://github.com/Assisted-Mindfulness/naive-bayes) 
 ### May 30, 2024 
 - [AuroraEditor/AuroraEditor: Aurora Editor 是一款由社区打造、面向社区的集成开发环境，采用 Swift 编写，可为 macOS 提供最佳的本地性能和手感。](https://github.com/AuroraEditor/AuroraEditor) 
 ### May 29, 2024 
