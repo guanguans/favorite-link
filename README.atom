@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-05-31T09:31:48+08:00</updated>
+  <updated>2024-06-03T14:04:25+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,27 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[tomloprod/time-warden: TimeWarden 是一个轻量级 PHP 库，使您能够监控任务的处理时间 (在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。]]></title>
+    <published>2024-06-03T14:04:25+08:00</published>
+    <updated>2024-06-03T14:04:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden"/>
+    <id>在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%9C%A8%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5%E6%9C%89%E7%94%A8)%EF%BC%8C%E5%B9%B6%E5%85%81%E8%AE%B8%E6%82%A8%E8%AE%BE%E7%BD%AE%E4%BB%BB%E5%8A%A1%E7%9A%84%E6%9C%80%E5%A4%A7%E6%89%A7%E8%A1%8C%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%9C%A8%E4%BB%BB%E5%8A%A1%E8%B6%85%E5%87%BA%E5%85%B6%E4%BC%B0%E8%AE%A1%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B4%E6%97%B6%E5%90%AF%E7%94%A8%E5%8F%8D%E5%BA%94%E6%93%8D%E4%BD%9C%E3%80%82](https://github.com/tomloprod/time-warden" target="_blank">tomloprod/time-warden: TimeWarden 是一个轻量级 PHP
+库，使您能够监控任务的处理时间
+(在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%9C%A8%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5%E6%9C%89%E7%94%A8)%EF%BC%8C%E5%B9%B6%E5%85%81%E8%AE%B8%E6%82%A8%E8%AE%BE%E7%BD%AE%E4%BB%BB%E5%8A%A1%E7%9A%84%E6%9C%80%E5%A4%A7%E6%89%A7%E8%A1%8C%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%9C%A8%E4%BB%BB%E5%8A%A1%E8%B6%85%E5%87%BA%E5%85%B6%E4%BC%B0%E8%AE%A1%E6%8C%81%E7%BB%AD%E6%97%B6%E9%97%B4%E6%97%B6%E5%90%AF%E7%94%A8%E5%8F%8D%E5%BA%94%E6%93%8D%E4%BD%9C%E3%80%82](https://github.com/tomloprod/time-warden" target="_blank">在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xmolecules/phpmolecules: 帮助开发人员在 PHP 代码中表达架构抽象的库]]></title>
-    <published>2024-05-31T09:31:48+08:00</published>
-    <updated>2024-05-31T09:31:48+08:00</updated>
+    <published>2024-05-31T00:00:00+08:00</published>
+    <updated>2024-05-31T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/xmolecules/phpmolecules"/>
     <id>https://github.com/xmolecules/phpmolecules</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +48,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Assisted-Mindfulness/naive-bayes: 朴素贝叶斯的工作原理是查看训练集并根据该集进行猜测。它使用简单的统计数据和一些数学来计算结果。]]></title>
-    <published>2024-05-31T09:31:48+08:00</published>
-    <updated>2024-05-31T09:31:48+08:00</updated>
+    <published>2024-05-31T00:00:00+08:00</published>
+    <updated>2024-05-31T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Assisted-Mindfulness/naive-bayes"/>
     <id>https://github.com/Assisted-Mindfulness/naive-bayes</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
