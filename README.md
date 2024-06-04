@@ -25,6 +25,7 @@
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 - [think-codee/laravel-command-bus: think-codee/laravel-command-bus: 该软件包为在 Laravel 应用程序中实现命令模式提供了一种简单而有效的方法，从而更好地分离关注点，并提高代码的可维护性。](https://github.com/think-codee/laravel-command-bus) 
 - [giorgiosironi/eris: Eris 将 Quickcheck 和基于属性的测试工具移植到 PHP 和 PHPUnit 生态系统中。](https://github.com/giorgiosironi/eris) 
+- [mxl/laravel-job: Laravel 作业工具：从命令行调度作业等](https://github.com/mxl/laravel-job) 
 ### June 3, 2024 
 - [tomloprod/time-warden: TimeWarden 是一个轻量级 PHP 库，使您能够监控任务的处理时间 (在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden) 
 - [vcian/laravel-db-auditor: Database DB Auditor 提供了审计您的 MySql 数据库标准的工具，还提供了在表中添加约束的选项](https://github.com/vcian/laravel-db-auditor) 
