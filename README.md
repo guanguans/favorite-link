@@ -22,7 +22,7 @@
 ### June 4, 2024 
 - [Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake) 
 - [clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器](https://github.com/clementtalleu/php-redis-om) 
-- [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
+- [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 ### June 3, 2024 
 - [tomloprod/time-warden: TimeWarden 是一个轻量级 PHP 库，使您能够监控任务的处理时间 (在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden) 
 - [vcian/laravel-db-auditor: Database DB Auditor 提供了审计您的 MySql 数据库标准的工具，还提供了在表中添加约束的选项](https://github.com/vcian/laravel-db-auditor) 
