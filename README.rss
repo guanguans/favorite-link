@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 03 Jun 2024 14:08:22 +0800</pubDate>
+    <pubDate>Tue, 04 Jun 2024 09:55:59 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现</title>
+      <pubDate>Tue, 04 Jun 2024 09:55:59 +0800</pubDate>
+      <link>RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</link>
+      <guid isPermaLink="false">RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</guid>
+      <content:encoded><![CDATA[<a href="RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake" target="_blank">Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake" target="_blank">RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>tomloprod/time-warden: TimeWarden 是一个轻量级 PHP 库，使您能够监控任务的处理时间 (在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。</title>
-      <pubDate>Mon, 03 Jun 2024 14:08:22 +0800</pubDate>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0800</pubDate>
       <link>在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden</link>
       <guid isPermaLink="false">在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden</guid>
       <content:encoded><![CDATA[<a href="在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。](https://github.com/tomloprod/time-warden" target="_blank">tomloprod/time-warden: TimeWarden 是一个轻量级 PHP 库，使您能够监控任务的处理时间 (在开发阶段有用)，并允许您设置任务的最大执行时间，从而在任务超出其估计持续时间时启用反应操作。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>vcian/laravel-db-auditor: Database DB Auditor 提供了审计您的 MySql 数据库标准的工具，还提供了在表中添加约束的选项</title>
-      <pubDate>Mon, 03 Jun 2024 14:08:22 +0800</pubDate>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/vcian/laravel-db-auditor</link>
       <guid>https://github.com/vcian/laravel-db-auditor</guid>
       <content:encoded><![CDATA[<a href="https://github.com/vcian/laravel-db-auditor" target="_blank">vcian/laravel-db-auditor: Database DB Auditor 提供了审计您的 MySql 数据库标准的工具，还提供了在表中添加约束的选项</a>
