@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 04 Jun 2024 09:55:59 +0800</pubDate>
+    <pubDate>Tue, 04 Jun 2024 09:57:38 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现</title>
-      <pubDate>Tue, 04 Jun 2024 09:55:59 +0800</pubDate>
+      <pubDate>Tue, 04 Jun 2024 09:57:38 +0800</pubDate>
       <link>RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</link>
       <guid isPermaLink="false">RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</guid>
       <content:encoded><![CDATA[<a href="RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake" target="_blank">Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake" target="_blank">RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器</title>
+      <pubDate>Tue, 04 Jun 2024 09:57:38 +0800</pubDate>
+      <link>https://github.com/clementtalleu/php-redis-om</link>
+      <guid>https://github.com/clementtalleu/php-redis-om</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/clementtalleu/php-redis-om" target="_blank">clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/clementtalleu/php-redis-om" target="_blank">https://github.com/clementtalleu/php-redis-om</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
