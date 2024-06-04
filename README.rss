@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 04 Jun 2024 15:40:49 +0800</pubDate>
+    <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现</title>
-      <pubDate>Tue, 04 Jun 2024 15:40:49 +0800</pubDate>
+      <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
       <link>RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</link>
       <guid isPermaLink="false">RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</guid>
       <content:encoded><![CDATA[<a href="RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake" target="_blank">Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器</title>
-      <pubDate>Tue, 04 Jun 2024 15:40:49 +0800</pubDate>
+      <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
       <link>https://github.com/clementtalleu/php-redis-om</link>
       <guid>https://github.com/clementtalleu/php-redis-om</guid>
       <content:encoded><![CDATA[<a href="https://github.com/clementtalleu/php-redis-om" target="_blank">clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP</title>
-      <pubDate>Tue, 04 Jun 2024 15:40:49 +0800</pubDate>
+      <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
       <link>https://github.com/Ponderfly/GoogleTranslateIpCheck</link>
       <guid>https://github.com/Ponderfly/GoogleTranslateIpCheck</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Ponderfly/GoogleTranslateIpCheck" target="_blank">Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>think-codee/laravel-command-bus: think-codee/laravel-command-bus: 该软件包为在 Laravel 应用程序中实现命令模式提供了一种简单而有效的方法，从而更好地分离关注点，并提高代码的可维护性。</title>
-      <pubDate>Tue, 04 Jun 2024 15:40:49 +0800</pubDate>
+      <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
       <link>https://github.com/think-codee/laravel-command-bus</link>
       <guid>https://github.com/think-codee/laravel-command-bus</guid>
       <content:encoded><![CDATA[<a href="https://github.com/think-codee/laravel-command-bus" target="_blank">think-codee/laravel-command-bus: think-codee/laravel-command-bus: 该软件包为在 Laravel 应用程序中实现命令模式提供了一种简单而有效的方法，从而更好地分离关注点，并提高代码的可维护性。</a>
@@ -63,13 +63,26 @@
     </item>
     <item>
       <title>giorgiosironi/eris: Eris 将 Quickcheck 和基于属性的测试工具移植到 PHP 和 PHPUnit 生态系统中。</title>
-      <pubDate>Tue, 04 Jun 2024 15:40:49 +0800</pubDate>
+      <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
       <link>https://github.com/giorgiosironi/eris</link>
       <guid>https://github.com/giorgiosironi/eris</guid>
       <content:encoded><![CDATA[<a href="https://github.com/giorgiosironi/eris" target="_blank">giorgiosironi/eris: Eris 将 Quickcheck 和基于属性的测试工具移植到 PHP 和 PHPUnit 生态系统中。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/giorgiosironi/eris" target="_blank">https://github.com/giorgiosironi/eris</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>mxl/laravel-job: Laravel 作业工具：从命令行调度作业等</title>
+      <pubDate>Tue, 04 Jun 2024 15:46:07 +0800</pubDate>
+      <link>https://github.com/mxl/laravel-job</link>
+      <guid>https://github.com/mxl/laravel-job</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mxl/laravel-job" target="_blank">mxl/laravel-job: Laravel 作业工具：从命令行调度作业等</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mxl/laravel-job" target="_blank">https://github.com/mxl/laravel-job</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
