@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-04T15:46:07+08:00</updated>
+  <updated>2024-06-05T09:33:25+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。]]></title>
+    <published>2024-06-05T09:33:25+08:00</published>
+    <updated>2024-06-05T09:33:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/TheDragonCode/card-number"/>
+    <id>https://github.com/TheDragonCode/card-number</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/TheDragonCode/card-number" target="_blank">TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/TheDragonCode/card-number" target="_blank">https://github.com/TheDragonCode/card-number</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现]]></title>
-    <published>2024-06-04T15:46:07+08:00</published>
-    <updated>2024-06-04T15:46:07+08:00</updated>
+    <published>2024-06-04T00:00:00+08:00</published>
+    <updated>2024-06-04T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake"/>
     <id>RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -32,8 +48,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器]]></title>
-    <published>2024-06-04T15:46:07+08:00</published>
-    <updated>2024-06-04T15:46:07+08:00</updated>
+    <published>2024-06-04T00:00:00+08:00</published>
+    <updated>2024-06-04T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/clementtalleu/php-redis-om"/>
     <id>https://github.com/clementtalleu/php-redis-om</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -48,8 +64,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP]]></title>
-    <published>2024-06-04T15:46:07+08:00</published>
-    <updated>2024-06-04T15:46:07+08:00</updated>
+    <published>2024-06-04T00:00:00+08:00</published>
+    <updated>2024-06-04T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Ponderfly/GoogleTranslateIpCheck"/>
     <id>https://github.com/Ponderfly/GoogleTranslateIpCheck</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -65,8 +81,8 @@ IP</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[think-codee/laravel-command-bus: think-codee/laravel-command-bus: 该软件包为在 Laravel 应用程序中实现命令模式提供了一种简单而有效的方法，从而更好地分离关注点，并提高代码的可维护性。]]></title>
-    <published>2024-06-04T15:46:07+08:00</published>
-    <updated>2024-06-04T15:46:07+08:00</updated>
+    <published>2024-06-04T00:00:00+08:00</published>
+    <updated>2024-06-04T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/think-codee/laravel-command-bus"/>
     <id>https://github.com/think-codee/laravel-command-bus</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -83,8 +99,8 @@ think-codee/laravel-command-bus: 该软件包为在 Laravel
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[giorgiosironi/eris: Eris 将 Quickcheck 和基于属性的测试工具移植到 PHP 和 PHPUnit 生态系统中。]]></title>
-    <published>2024-06-04T15:46:07+08:00</published>
-    <updated>2024-06-04T15:46:07+08:00</updated>
+    <published>2024-06-04T00:00:00+08:00</published>
+    <updated>2024-06-04T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/giorgiosironi/eris"/>
     <id>https://github.com/giorgiosironi/eris</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -100,8 +116,8 @@ PHPUnit 生态系统中。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mxl/laravel-job: Laravel 作业工具：从命令行调度作业等]]></title>
-    <published>2024-06-04T15:46:07+08:00</published>
-    <updated>2024-06-04T15:46:07+08:00</updated>
+    <published>2024-06-04T00:00:00+08:00</published>
+    <updated>2024-06-04T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/mxl/laravel-job"/>
     <id>https://github.com/mxl/laravel-job</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
