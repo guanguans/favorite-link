@@ -16,6 +16,7 @@
 - [ProjektGopher/whisky: Whisky 是最简单、不受框架限制的 CLI 工具，用于在整个团队中管理和执行 php 项目的 git 钩子。](https://github.com/ProjektGopher/whisky) 
 - [dshafik/bag: PHP 不可变值对象](https://github.com/dshafik/bag) 
 - [IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。](https://github.com/IonBazan/composer-diff) 
+- [ijpatricio/mingle: 在 Laravel Livewire 和/或 Filament 应用程序中使用 Vue 或 React 的 JS 组件](https://github.com/ijpatricio/mingle) 
 ### June 4, 2024 
 - [Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake) 
 - [clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器](https://github.com/clementtalleu/php-redis-om) 
