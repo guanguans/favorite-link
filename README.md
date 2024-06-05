@@ -10,16 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
-
-
-
-
-
-
 ### June 5, 2024 
 - [TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。](https://github.com/TheDragonCode/card-number) 
 - [macmade/Hot: Hot 是一款 macOS 菜单栏应用程序，可显示因散热问题导致的 CPU 速度限制。](https://github.com/macmade/Hot) 
@@ -45,7 +35,6 @@
 - [ccbikai/Sink: 简单/快速/安全的链接缩短器，带分析功能，100% 在 Cloudflare 上运行。](https://github.com/ccbikai/Sink) 
 - [liuchuancong/pure_live: 纯粹直播: 哔哩哔哩/虎牙/斗鱼/快手/抖音/网易 cc/M38 自定义源应有尽有。](https://github.com/liuchuancong/pure_live) 
 ### May 28, 2024 
-- [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 - [caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载](https://github.com/caorushizi/mediago) 
 - [artkonekt/pdf-invoice: 一个简单的 PHP 类，只需几行代码即可生成 PDF 发票、报价单或订单。](https://github.com/artkonekt/pdf-invoice) 
