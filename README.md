@@ -19,6 +19,9 @@
 
 
 
+
+### June 5, 2024 
+- [TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。](https://github.com/TheDragonCode/card-number) 
 ### June 4, 2024 
 - [Assisted-Mindfulness/rake: 快速自动关键字提取算法 (RAKE) 的 PHP 实现](https://github.com/Assisted-Mindfulness/rake) 
 - [clementtalleu/php-redis-om: 用于 Redis 的 PHP 对象映射器](https://github.com/clementtalleu/php-redis-om) 
