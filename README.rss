@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 05 Jun 2024 09:36:58 +0800</pubDate>
+    <pubDate>Wed, 05 Jun 2024 09:38:28 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。</title>
-      <pubDate>Wed, 05 Jun 2024 09:36:58 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 09:38:28 +0800</pubDate>
       <link>https://github.com/TheDragonCode/card-number</link>
       <guid>https://github.com/TheDragonCode/card-number</guid>
       <content:encoded><![CDATA[<a href="https://github.com/TheDragonCode/card-number" target="_blank">TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>macmade/Hot: Hot 是一款 macOS 菜单栏应用程序，可显示因散热问题导致的 CPU 速度限制。</title>
-      <pubDate>Wed, 05 Jun 2024 09:36:58 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 09:38:28 +0800</pubDate>
       <link>https://github.com/macmade/Hot</link>
       <guid>https://github.com/macmade/Hot</guid>
       <content:encoded><![CDATA[<a href="https://github.com/macmade/Hot" target="_blank">macmade/Hot: Hot 是一款 macOS 菜单栏应用程序，可显示因散热问题导致的 CPU 速度限制。</a>
@@ -239,19 +239,6 @@
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/liuchuancong/pure_live" target="_blank">https://github.com/liuchuancong/pure_live</a></li>
-    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
-</ul>]]></content:encoded>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>php-strictus/strictus：对 PHP 的内联变量进行严格键入</title>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0800</pubDate>
-      <link>https://github.com/php-strictus/strictus</link>
-      <guid>https://github.com/php-strictus/strictus</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/php-strictus/strictus" target="_blank">php-strictus/strictus：对 PHP 的内联变量进行严格键入</a>
-<h3>相关链接</h3>
-<ul>
-    <li><a href="https://github.com/php-strictus/strictus" target="_blank">https://github.com/php-strictus/strictus</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
