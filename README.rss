@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+    <pubDate>Thu, 06 Jun 2024 09:38:51 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器</title>
+      <pubDate>Thu, 06 Jun 2024 09:38:51 +0800</pubDate>
+      <link>https://github.com/thebaselab/codeapp</link>
+      <guid>https://github.com/thebaselab/codeapp</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/thebaselab/codeapp" target="_blank">thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/thebaselab/codeapp" target="_blank">https://github.com/thebaselab/codeapp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。</title>
-      <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/TheDragonCode/card-number</link>
       <guid>https://github.com/TheDragonCode/card-number</guid>
       <content:encoded><![CDATA[<a href="https://github.com/TheDragonCode/card-number" target="_blank">TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>macmade/Hot: Hot 是一款 macOS 菜单栏应用程序，可显示因散热问题导致的 CPU 速度限制。</title>
-      <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/macmade/Hot</link>
       <guid>https://github.com/macmade/Hot</guid>
       <content:encoded><![CDATA[<a href="https://github.com/macmade/Hot" target="_blank">macmade/Hot: Hot 是一款 macOS 菜单栏应用程序，可显示因散热问题导致的 CPU 速度限制。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>ProjektGopher/whisky: Whisky 是最简单、不受框架限制的 CLI 工具，用于在整个团队中管理和执行 php 项目的 git 钩子。</title>
-      <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ProjektGopher/whisky</link>
       <guid>https://github.com/ProjektGopher/whisky</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ProjektGopher/whisky" target="_blank">ProjektGopher/whisky: Whisky 是最简单、不受框架限制的 CLI 工具，用于在整个团队中管理和执行 php 项目的 git 钩子。</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>dshafik/bag: PHP 不可变值对象</title>
-      <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/dshafik/bag</link>
       <guid>https://github.com/dshafik/bag</guid>
       <content:encoded><![CDATA[<a href="https://github.com/dshafik/bag" target="_blank">dshafik/bag: PHP 不可变值对象</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。</title>
-      <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/IonBazan/composer-diff</link>
       <guid>https://github.com/IonBazan/composer-diff</guid>
       <content:encoded><![CDATA[<a href="https://github.com/IonBazan/composer-diff" target="_blank">IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。</a>
@@ -76,7 +89,7 @@
     </item>
     <item>
       <title>ijpatricio/mingle: 在 Laravel Livewire 和/或 Filament 应用程序中使用 Vue 或 React 的 JS 组件</title>
-      <pubDate>Wed, 05 Jun 2024 15:32:48 +0800</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ijpatricio/mingle</link>
       <guid>https://github.com/ijpatricio/mingle</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ijpatricio/mingle" target="_blank">ijpatricio/mingle: 在 Laravel Livewire 和/或 Filament 应用程序中使用 Vue 或 React 的 JS 组件</a>
