@@ -14,6 +14,7 @@
 ### June 6, 2024 
 - [thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器](https://github.com/thebaselab/codeapp) 
 - [izniburak/bit-permission: 使用位运算检查权限、角色等。](https://github.com/izniburak/bit-permission) 
+- [erayaydin/microservice-laravel: Laravel 微服务架构](https://github.com/erayaydin/microservice-laravel) 
 ### June 5, 2024 
 - [TheDragonCode/card-number: 使用 Luhn 算法生成和验证卡号。](https://github.com/TheDragonCode/card-number) 
 - [macmade/Hot: Hot 是一款 macOS 菜单栏应用程序，可显示因散热问题导致的 CPU 速度限制。](https://github.com/macmade/Hot) 
