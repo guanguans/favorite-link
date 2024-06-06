@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-06T09:38:51+08:00</updated>
+  <updated>2024-06-06T09:39:58+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器]]></title>
-    <published>2024-06-06T09:38:51+08:00</published>
-    <updated>2024-06-06T09:38:51+08:00</updated>
+    <published>2024-06-06T09:39:58+08:00</published>
+    <updated>2024-06-06T09:39:58+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/thebaselab/codeapp"/>
     <id>https://github.com/thebaselab/codeapp</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -23,6 +23,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/thebaselab/codeapp" target="_blank">https://github.com/thebaselab/codeapp</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[izniburak/bit-permission: 使用位运算检查权限、角色等。]]></title>
+    <published>2024-06-06T09:39:58+08:00</published>
+    <updated>2024-06-06T09:39:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/izniburak/bit-permission"/>
+    <id>https://github.com/izniburak/bit-permission</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/izniburak/bit-permission" target="_blank">izniburak/bit-permission: 使用位运算检查权限、角色等。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/izniburak/bit-permission" target="_blank">https://github.com/izniburak/bit-permission</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>

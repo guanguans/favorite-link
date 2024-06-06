@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 06 Jun 2024 09:38:51 +0800</pubDate>
+    <pubDate>Thu, 06 Jun 2024 09:39:58 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器</title>
-      <pubDate>Thu, 06 Jun 2024 09:38:51 +0800</pubDate>
+      <pubDate>Thu, 06 Jun 2024 09:39:58 +0800</pubDate>
       <link>https://github.com/thebaselab/codeapp</link>
       <guid>https://github.com/thebaselab/codeapp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/thebaselab/codeapp" target="_blank">thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/thebaselab/codeapp" target="_blank">https://github.com/thebaselab/codeapp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>izniburak/bit-permission: 使用位运算检查权限、角色等。</title>
+      <pubDate>Thu, 06 Jun 2024 09:39:58 +0800</pubDate>
+      <link>https://github.com/izniburak/bit-permission</link>
+      <guid>https://github.com/izniburak/bit-permission</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/izniburak/bit-permission" target="_blank">izniburak/bit-permission: 使用位运算检查权限、角色等。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/izniburak/bit-permission" target="_blank">https://github.com/izniburak/bit-permission</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
