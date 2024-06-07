@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### June 7, 2024 
+- [wintermute-cell/ngrrram: 一款 TUI 工具，可帮助您加快打字速度并学习新布局。](https://github.com/wintermute-cell/ngrrram) 
 ### June 6, 2024 
 - [thebaselab/codeapp: 为 iPad 打造功能齐全的代码编辑器](https://github.com/thebaselab/codeapp) 
 - [izniburak/bit-permission: 使用位运算检查权限、角色等。](https://github.com/izniburak/bit-permission) 
