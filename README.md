@@ -16,7 +16,7 @@
 ### June 11, 2024 
 - [gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。](https://github.com/gabotechs/dep-tree) 
 - [maschmann/php-ansible: ansible 配置工具的 php oop 封装器](https://github.com/maschmann/php-ansible) 
-- [editorconfig-checker/editorconfig-checker: 验证文件是否与 .editorconfig 一致的工具](https://github.com/editorconfig-checker/editorconfig-checker#installation) 
+- [editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具](https://github.com/editorconfig-checker/editorconfig-checker#installation) 
 ### June 7, 2024 
 - [wintermute-cell/ngrrram: 一款 TUI 工具，可帮助您加快打字速度并学习新布局。](https://github.com/wintermute-cell/ngrrram) 
 ### June 6, 2024 
