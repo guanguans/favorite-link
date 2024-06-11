@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 11 Jun 2024 09:58:58 +0800</pubDate>
+    <pubDate>Tue, 11 Jun 2024 10:00:56 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。</title>
-      <pubDate>Tue, 11 Jun 2024 09:58:58 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 10:00:56 +0800</pubDate>
       <link>https://github.com/gabotechs/dep-tree</link>
       <guid>https://github.com/gabotechs/dep-tree</guid>
       <content:encoded><![CDATA[<a href="https://github.com/gabotechs/dep-tree" target="_blank">gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>maschmann/php-ansible: ansible 配置工具的 php oop 封装器</title>
-      <pubDate>Tue, 11 Jun 2024 09:58:58 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 10:00:56 +0800</pubDate>
       <link>https://github.com/maschmann/php-ansible</link>
       <guid>https://github.com/maschmann/php-ansible</guid>
       <content:encoded><![CDATA[<a href="https://github.com/maschmann/php-ansible" target="_blank">maschmann/php-ansible: ansible 配置工具的 php oop 封装器</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具</title>
-      <pubDate>Tue, 11 Jun 2024 09:58:58 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 10:00:56 +0800</pubDate>
       <link>https://github.com/editorconfig-checker/editorconfig-checker#installation</link>
       <guid>https://github.com/editorconfig-checker/editorconfig-checker#installation</guid>
       <content:encoded><![CDATA[<a href="https://github.com/editorconfig-checker/editorconfig-checker#installation" target="_blank">editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/editorconfig-checker/editorconfig-checker#installation" target="_blank">https://github.com/editorconfig-checker/editorconfig-checker#installation</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>vrza/php-lrpm: PHP 长时间运行进程管理器</title>
+      <pubDate>Tue, 11 Jun 2024 10:00:56 +0800</pubDate>
+      <link>https://github.com/vrza/php-lrpm</link>
+      <guid>https://github.com/vrza/php-lrpm</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/vrza/php-lrpm" target="_blank">vrza/php-lrpm: PHP 长时间运行进程管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/vrza/php-lrpm" target="_blank">https://github.com/vrza/php-lrpm</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
