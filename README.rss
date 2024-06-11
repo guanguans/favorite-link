@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 07 Jun 2024 09:52:43 +0800</pubDate>
+    <pubDate>Tue, 11 Jun 2024 09:38:03 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。</title>
+      <pubDate>Tue, 11 Jun 2024 09:38:03 +0800</pubDate>
+      <link>https://github.com/gabotechs/dep-tree</link>
+      <guid>https://github.com/gabotechs/dep-tree</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gabotechs/dep-tree" target="_blank">gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/gabotechs/dep-tree" target="_blank">https://github.com/gabotechs/dep-tree</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>wintermute-cell/ngrrram: 一款 TUI 工具，可帮助您加快打字速度并学习新布局。</title>
-      <pubDate>Fri, 07 Jun 2024 09:52:43 +0800</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/wintermute-cell/ngrrram</link>
       <guid>https://github.com/wintermute-cell/ngrrram</guid>
       <content:encoded><![CDATA[<a href="https://github.com/wintermute-cell/ngrrram" target="_blank">wintermute-cell/ngrrram: 一款 TUI 工具，可帮助您加快打字速度并学习新布局。</a>
