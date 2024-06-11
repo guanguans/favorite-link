@@ -18,6 +18,7 @@
 - [maschmann/php-ansible: ansible 配置工具的 php oop 封装器](https://github.com/maschmann/php-ansible) 
 - [editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具](https://github.com/editorconfig-checker/editorconfig-checker#installation) 
 - [vrza/php-lrpm: PHP 长时间运行进程管理器](https://github.com/vrza/php-lrpm) 
+- [geerlingguy/ansible-role-composer: Composer PHP 依赖关系管理器](https://github.com/geerlingguy/ansible-role-composer) 
 ### June 7, 2024 
 - [wintermute-cell/ngrrram: 一款 TUI 工具，可帮助您加快打字速度并学习新布局。](https://github.com/wintermute-cell/ngrrram) 
 ### June 6, 2024 
