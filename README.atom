@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-11T16:25:21+08:00</updated>
+  <updated>2024-06-12T09:54:16+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,27 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。]]></title>
+    <published>2024-06-12T09:54:16+08:00</published>
+    <updated>2024-06-12T09:54:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner"/>
+    <id>clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="clockwork%E3%80%81laravel%20telescope%20%E7%AD%89)%20%E7%9A%84%E6%97%A5%E5%BF%97%E5%92%8C%E8%B0%83%E8%AF%95%E6%96%87%E4%BB%B6%EF%BC%8C%E5%B9%B6%E9%87%8A%E6%94%BE%E7%A9%BA%E9%97%B4%E3%80%82](https://github.com/omaralalwi/laravel-trash-cleaner" target="_blank">omaralalwi/laravel-trash-cleaner: 清理用于调试软件包
+(clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="clockwork%E3%80%81laravel%20telescope%20%E7%AD%89)%20%E7%9A%84%E6%97%A5%E5%BF%97%E5%92%8C%E8%B0%83%E8%AF%95%E6%96%87%E4%BB%B6%EF%BC%8C%E5%B9%B6%E9%87%8A%E6%94%BE%E7%A9%BA%E9%97%B4%E3%80%82](https://github.com/omaralalwi/laravel-trash-cleaner" target="_blank">clockwork、laravel telescope 等)
+的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。]]></title>
-    <published>2024-06-11T16:25:21+08:00</published>
-    <updated>2024-06-11T16:25:21+08:00</updated>
+    <published>2024-06-11T00:00:00+08:00</published>
+    <updated>2024-06-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/gabotechs/dep-tree"/>
     <id>https://github.com/gabotechs/dep-tree</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +49,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[maschmann/php-ansible: ansible 配置工具的 php oop 封装器]]></title>
-    <published>2024-06-11T16:25:21+08:00</published>
-    <updated>2024-06-11T16:25:21+08:00</updated>
+    <published>2024-06-11T00:00:00+08:00</published>
+    <updated>2024-06-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/maschmann/php-ansible"/>
     <id>https://github.com/maschmann/php-ansible</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +65,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具]]></title>
-    <published>2024-06-11T16:25:21+08:00</published>
-    <updated>2024-06-11T16:25:21+08:00</updated>
+    <published>2024-06-11T00:00:00+08:00</published>
+    <updated>2024-06-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/editorconfig-checker/editorconfig-checker#installation"/>
     <id>https://github.com/editorconfig-checker/editorconfig-checker#installation</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -64,8 +82,8 @@ editorconfig 一致的工具</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vrza/php-lrpm: PHP 长时间运行进程管理器]]></title>
-    <published>2024-06-11T16:25:21+08:00</published>
-    <updated>2024-06-11T16:25:21+08:00</updated>
+    <published>2024-06-11T00:00:00+08:00</published>
+    <updated>2024-06-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/vrza/php-lrpm"/>
     <id>https://github.com/vrza/php-lrpm</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -80,8 +98,8 @@ editorconfig 一致的工具</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[geerlingguy/ansible-role-composer: Composer PHP 依赖关系管理器]]></title>
-    <published>2024-06-11T16:25:21+08:00</published>
-    <updated>2024-06-11T16:25:21+08:00</updated>
+    <published>2024-06-11T00:00:00+08:00</published>
+    <updated>2024-06-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/geerlingguy/ansible-role-composer"/>
     <id>https://github.com/geerlingguy/ansible-role-composer</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -97,8 +115,8 @@ editorconfig 一致的工具</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[BatFi – 最大限度延长 Mac 的电池寿命]]></title>
-    <published>2024-06-11T16:25:21+08:00</published>
-    <updated>2024-06-11T16:25:21+08:00</updated>
+    <published>2024-06-11T00:00:00+08:00</published>
+    <updated>2024-06-11T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://micropixels.software/apps/batfi"/>
     <id>https://micropixels.software/apps/batfi</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">

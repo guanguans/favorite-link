@@ -15,7 +15,7 @@
 
 
 ### June 12, 2024 
-- [omaralalwi/laravel-trash-cleaner: 清理用于调试软件包（clockwork、laravel telescope 等）的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner) 
+- [omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner) 
 ### June 11, 2024 
 - [gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。](https://github.com/gabotechs/dep-tree) 
 - [maschmann/php-ansible: ansible 配置工具的 php oop 封装器](https://github.com/maschmann/php-ansible) 

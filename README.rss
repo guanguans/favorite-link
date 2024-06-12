@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+    <pubDate>Wed, 12 Jun 2024 09:54:16 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。</title>
+      <pubDate>Wed, 12 Jun 2024 09:54:16 +0800</pubDate>
+      <link>clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</link>
+      <guid isPermaLink="false">clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</guid>
+      <content:encoded><![CDATA[<a href="clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner" target="_blank">omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner" target="_blank">clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。</title>
-      <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/gabotechs/dep-tree</link>
       <guid>https://github.com/gabotechs/dep-tree</guid>
       <content:encoded><![CDATA[<a href="https://github.com/gabotechs/dep-tree" target="_blank">gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>maschmann/php-ansible: ansible 配置工具的 php oop 封装器</title>
-      <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/maschmann/php-ansible</link>
       <guid>https://github.com/maschmann/php-ansible</guid>
       <content:encoded><![CDATA[<a href="https://github.com/maschmann/php-ansible" target="_blank">maschmann/php-ansible: ansible 配置工具的 php oop 封装器</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具</title>
-      <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/editorconfig-checker/editorconfig-checker#installation</link>
       <guid>https://github.com/editorconfig-checker/editorconfig-checker#installation</guid>
       <content:encoded><![CDATA[<a href="https://github.com/editorconfig-checker/editorconfig-checker#installation" target="_blank">editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>vrza/php-lrpm: PHP 长时间运行进程管理器</title>
-      <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/vrza/php-lrpm</link>
       <guid>https://github.com/vrza/php-lrpm</guid>
       <content:encoded><![CDATA[<a href="https://github.com/vrza/php-lrpm" target="_blank">vrza/php-lrpm: PHP 长时间运行进程管理器</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>geerlingguy/ansible-role-composer: Composer PHP 依赖关系管理器</title>
-      <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/geerlingguy/ansible-role-composer</link>
       <guid>https://github.com/geerlingguy/ansible-role-composer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/geerlingguy/ansible-role-composer" target="_blank">geerlingguy/ansible-role-composer: Composer PHP 依赖关系管理器</a>
@@ -76,7 +89,7 @@
     </item>
     <item>
       <title>BatFi – 最大限度延长 Mac 的电池寿命</title>
-      <pubDate>Tue, 11 Jun 2024 16:25:21 +0800</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://micropixels.software/apps/batfi</link>
       <guid>https://micropixels.software/apps/batfi</guid>
       <content:encoded><![CDATA[<a href="https://micropixels.software/apps/batfi" target="_blank">BatFi – 最大限度延长 Mac 的电池寿命</a>
