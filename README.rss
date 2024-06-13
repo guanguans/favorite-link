@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 12 Jun 2024 09:54:16 +0800</pubDate>
+    <pubDate>Thu, 13 Jun 2024 09:36:56 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>rapiz1/rathole: 用 Rust 编写的用于 NAT 穿越的轻量级高性能反向代理。可替代 frp 和 ngrok。</title>
+      <pubDate>Thu, 13 Jun 2024 09:36:56 +0800</pubDate>
+      <link>https://github.com/rapiz1/rathole</link>
+      <guid>https://github.com/rapiz1/rathole</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rapiz1/rathole" target="_blank">rapiz1/rathole: 用 Rust 编写的用于 NAT 穿越的轻量级高性能反向代理。可替代 frp 和 ngrok。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/rapiz1/rathole" target="_blank">https://github.com/rapiz1/rathole</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。</title>
-      <pubDate>Wed, 12 Jun 2024 09:54:16 +0800</pubDate>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0800</pubDate>
       <link>clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</link>
       <guid isPermaLink="false">clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner</guid>
       <content:encoded><![CDATA[<a href="clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner" target="_blank">omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。</a>
