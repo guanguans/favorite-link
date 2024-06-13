@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-13T09:37:44+08:00</updated>
+  <updated>2024-06-13T09:38:41+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rapiz1/rathole: 用 Rust 编写的用于 NAT 穿越的轻量级高性能反向代理。可替代 frp 和 ngrok。]]></title>
-    <published>2024-06-13T09:37:44+08:00</published>
-    <updated>2024-06-13T09:37:44+08:00</updated>
+    <published>2024-06-13T09:38:41+08:00</published>
+    <updated>2024-06-13T09:38:41+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/rapiz1/rathole"/>
     <id>https://github.com/rapiz1/rathole</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@ ngrok。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[CodeDredd/laravel-soap: Laravel Soap 客户端]]></title>
-    <published>2024-06-13T09:37:44+08:00</published>
-    <updated>2024-06-13T09:37:44+08:00</updated>
+    <published>2024-06-13T09:38:41+08:00</published>
+    <updated>2024-06-13T09:38:41+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/CodeDredd/laravel-soap"/>
     <id>https://github.com/CodeDredd/laravel-soap</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -40,6 +40,24 @@ ngrok。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/CodeDredd/laravel-soap" target="_blank">https://github.com/CodeDredd/laravel-soap</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[hefengbao/jingmo: ‘京墨’开源的中华文化宝典 APP，诗 (词) 文 (名句)、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。]]></title>
+    <published>2024-06-13T09:38:41+08:00</published>
+    <updated>2024-06-13T09:38:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="词) 文 (名句)、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。](https://github.com/hefengbao/jingmo"/>
+    <id>词) 文 (名句)、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。](https://github.com/hefengbao/jingmo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E8%AF%8D)%20%E6%96%87%20(%E5%90%8D%E5%8F%A5)%E3%80%81%E6%B1%89%E5%AD%97%E3%80%81%E6%88%90%E8%AF%AD%E3%80%81%E8%AF%8D%E8%AF%AD%E3%80%81%E6%AD%87%E5%90%8E%E8%AF%AD%E3%80%81%E7%BB%95%E5%8F%A3%E4%BB%A4%E3%80%81%E4%BC%A0%E7%BB%9F%E8%8A%82%E6%97%A5%E3%80%81%E4%BC%A0%E7%BB%9F%E8%89%B2%E3%80%81%E8%8A%82%E6%B0%94%E3%80%81%E4%BA%BA%E7%89%A9%E7%AD%89%E3%80%82](https://github.com/hefengbao/jingmo" target="_blank">hefengbao/jingmo: ‘京墨’开源的中华文化宝典 APP，诗 (词) 文
+(名句)、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E8%AF%8D)%20%E6%96%87%20(%E5%90%8D%E5%8F%A5)%E3%80%81%E6%B1%89%E5%AD%97%E3%80%81%E6%88%90%E8%AF%AD%E3%80%81%E8%AF%8D%E8%AF%AD%E3%80%81%E6%AD%87%E5%90%8E%E8%AF%AD%E3%80%81%E7%BB%95%E5%8F%A3%E4%BB%A4%E3%80%81%E4%BC%A0%E7%BB%9F%E8%8A%82%E6%97%A5%E3%80%81%E4%BC%A0%E7%BB%9F%E8%89%B2%E3%80%81%E8%8A%82%E6%B0%94%E3%80%81%E4%BA%BA%E7%89%A9%E7%AD%89%E3%80%82](https://github.com/hefengbao/jingmo" target="_blank">词) 文
+(名句)、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。](https://github.com/hefengbao/jingmo</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
