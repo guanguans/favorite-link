@@ -17,6 +17,7 @@
 
 ### June 13, 2024 
 - [rapiz1/rathole: 用 Rust 编写的用于 NAT 穿越的轻量级高性能反向代理。可替代 frp 和 ngrok。](https://github.com/rapiz1/rathole) 
+- [CodeDredd/laravel-soap: Laravel Soap 客户端](https://github.com/CodeDredd/laravel-soap) 
 ### June 12, 2024 
 - [omaralalwi/laravel-trash-cleaner: 清理用于调试软件包 (clockwork、laravel telescope 等) 的日志和调试文件，并释放空间。](https://github.com/omaralalwi/laravel-trash-cleaner) 
 ### June 11, 2024 
