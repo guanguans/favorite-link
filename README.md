@@ -19,6 +19,7 @@
 ### June 14, 2024 
 - [tebru/gson-php: 用 PHP 实现 Gson](https://github.com/tebru/gson-php) 
 - [qmuntal/stateless: 用于创建有限状态机的 Go 库](https://github.com/qmuntal/stateless) 
+- [RealKai42/qwerty-learner: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件](https://github.com/RealKai42/qwerty-learner) 
 ### June 13, 2024 
 - [rapiz1/rathole: 用 Rust 编写的用于 NAT 穿越的轻量级高性能反向代理。可替代 frp 和 ngrok。](https://github.com/rapiz1/rathole) 
 - [CodeDredd/laravel-soap: Laravel Soap 客户端](https://github.com/CodeDredd/laravel-soap) 
