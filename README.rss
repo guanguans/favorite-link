@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 14 Jun 2024 09:45:52 +0800</pubDate>
+    <pubDate>Fri, 14 Jun 2024 10:31:01 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>tebru/gson-php: 用 PHP 实现 Gson</title>
-      <pubDate>Fri, 14 Jun 2024 09:45:52 +0800</pubDate>
+      <pubDate>Fri, 14 Jun 2024 10:31:01 +0800</pubDate>
       <link>https://github.com/tebru/gson-php</link>
       <guid>https://github.com/tebru/gson-php</guid>
       <content:encoded><![CDATA[<a href="https://github.com/tebru/gson-php" target="_blank">tebru/gson-php: 用 PHP 实现 Gson</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>qmuntal/stateless: 用于创建有限状态机的 Go 库</title>
-      <pubDate>Fri, 14 Jun 2024 09:45:52 +0800</pubDate>
+      <pubDate>Fri, 14 Jun 2024 10:31:01 +0800</pubDate>
       <link>https://github.com/qmuntal/stateless</link>
       <guid>https://github.com/qmuntal/stateless</guid>
       <content:encoded><![CDATA[<a href="https://github.com/qmuntal/stateless" target="_blank">qmuntal/stateless: 用于创建有限状态机的 Go 库</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>RealKai42/qwerty-learner: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件</title>
-      <pubDate>Fri, 14 Jun 2024 09:45:52 +0800</pubDate>
+      <pubDate>Fri, 14 Jun 2024 10:31:01 +0800</pubDate>
       <link>https://github.com/RealKai42/qwerty-learner</link>
       <guid>https://github.com/RealKai42/qwerty-learner</guid>
       <content:encoded><![CDATA[<a href="https://github.com/RealKai42/qwerty-learner" target="_blank">RealKai42/qwerty-learner: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/RealKai42/qwerty-learner" target="_blank">https://github.com/RealKai42/qwerty-learner</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>xrdebug/xrdebug: 轻量级调试工具</title>
+      <pubDate>Fri, 14 Jun 2024 10:31:01 +0800</pubDate>
+      <link>https://github.com/xrdebug/xrdebug</link>
+      <guid>https://github.com/xrdebug/xrdebug</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/xrdebug/xrdebug" target="_blank">xrdebug/xrdebug: 轻量级调试工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/xrdebug/xrdebug" target="_blank">https://github.com/xrdebug/xrdebug</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
