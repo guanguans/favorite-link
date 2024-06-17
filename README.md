@@ -16,6 +16,9 @@
 
 
 
+
+### June 17, 2024 
+- [envault/envault: 供整个团队使用的 .env 共享工具。](https://github.com/envault/envault) 
 ### June 14, 2024 
 - [tebru/gson-php: 用 PHP 实现 Gson](https://github.com/tebru/gson-php) 
 - [qmuntal/stateless: 用于创建有限状态机的 Go 库](https://github.com/qmuntal/stateless) 
