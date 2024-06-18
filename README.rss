@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 18 Jun 2024 09:38:02 +0800</pubDate>
+    <pubDate>Tue, 18 Jun 2024 09:39:11 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>cloudstudio/ollama-laravel: Ollama-Laravel 是一个 Laravel 软件包，提供与 Ollama API 的无缝集成。</title>
-      <pubDate>Tue, 18 Jun 2024 09:38:02 +0800</pubDate>
+      <pubDate>Tue, 18 Jun 2024 09:39:11 +0800</pubDate>
       <link>https://github.com/cloudstudio/ollama-laravel</link>
       <guid>https://github.com/cloudstudio/ollama-laravel</guid>
       <content:encoded><![CDATA[<a href="https://github.com/cloudstudio/ollama-laravel" target="_blank">cloudstudio/ollama-laravel: Ollama-Laravel 是一个 Laravel 软件包，提供与 Ollama API 的无缝集成。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>cachewerk/relay: 由 Redis 支持的 PHP 下一代缓存层。</title>
-      <pubDate>Tue, 18 Jun 2024 09:38:02 +0800</pubDate>
+      <pubDate>Tue, 18 Jun 2024 09:39:11 +0800</pubDate>
       <link>https://github.com/cachewerk/relay</link>
       <guid>https://github.com/cachewerk/relay</guid>
       <content:encoded><![CDATA[<a href="https://github.com/cachewerk/relay" target="_blank">cachewerk/relay: 由 Redis 支持的 PHP 下一代缓存层。</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>cespare/reflex: 文件更改时运行命令</title>
-      <pubDate>Tue, 18 Jun 2024 09:38:02 +0800</pubDate>
+      <pubDate>Tue, 18 Jun 2024 09:39:11 +0800</pubDate>
       <link>https://github.com/cespare/reflex</link>
       <guid>https://github.com/cespare/reflex</guid>
       <content:encoded><![CDATA[<a href="https://github.com/cespare/reflex" target="_blank">cespare/reflex: 文件更改时运行命令</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/cespare/reflex" target="_blank">https://github.com/cespare/reflex</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>IndexZer0/eloquent-filtering: 使用数组轻松过滤 eloquent 模型--非常适合从 http 请求中进行过滤</title>
+      <pubDate>Tue, 18 Jun 2024 09:39:11 +0800</pubDate>
+      <link>https://github.com/IndexZer0/eloquent-filtering</link>
+      <guid>https://github.com/IndexZer0/eloquent-filtering</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/IndexZer0/eloquent-filtering" target="_blank">IndexZer0/eloquent-filtering: 使用数组轻松过滤 eloquent 模型--非常适合从 http 请求中进行过滤</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/IndexZer0/eloquent-filtering" target="_blank">https://github.com/IndexZer0/eloquent-filtering</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
