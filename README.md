@@ -22,6 +22,7 @@
 - [cloudstudio/ollama-laravel: Ollama-Laravel 是一个 Laravel 软件包，提供与 Ollama API 的无缝集成。](https://github.com/cloudstudio/ollama-laravel) 
 - [cachewerk/relay: 由 Redis 支持的 PHP 下一代缓存层。](https://github.com/cachewerk/relay) 
 - [cespare/reflex: 文件更改时运行命令](https://github.com/cespare/reflex) 
+- [IndexZer0/eloquent-filtering: 使用数组轻松过滤 eloquent 模型--非常适合从 http 请求中进行过滤](https://github.com/IndexZer0/eloquent-filtering) 
 ### June 17, 2024 
 - [envault/envault: 供整个团队使用的. env 共享工具。](https://github.com/envault/envault) 
 - [spatie/laravel-error-share: 分享您的 Laravel 错误](https://github.com/spatie/laravel-error-share) 
