@@ -20,6 +20,7 @@
 
 ### June 18, 2024 
 - [cloudstudio/ollama-laravel: Ollama-Laravel 是一个 Laravel 软件包，提供与 Ollama API 的无缝集成。](https://github.com/cloudstudio/ollama-laravel) 
+- [cachewerk/relay: 由 Redis 支持的 PHP 下一代缓存层。](https://github.com/cachewerk/relay) 
 ### June 17, 2024 
 - [envault/envault: 供整个团队使用的. env 共享工具。](https://github.com/envault/envault) 
 - [spatie/laravel-error-share: 分享您的 Laravel 错误](https://github.com/spatie/laravel-error-share) 
