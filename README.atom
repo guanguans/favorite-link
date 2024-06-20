@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-19T09:35:39+08:00</updated>
+  <updated>2024-06-20T09:35:31+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,42 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[symfony/lock: 创建并管理锁，这是一种为共享资源提供独占访问权限的机制]]></title>
+    <published>2024-06-20T09:35:31+08:00</published>
+    <updated>2024-06-20T09:35:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/symfony/lock"/>
+    <id>https://github.com/symfony/lock</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/symfony/lock" target="_blank">symfony/lock: 创建并管理锁，这是一种为共享资源提供独占访问权限的机制</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/symfony/lock" target="_blank">https://github.com/symfony/lock</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pixelfear/composer-dist-plugin: Composer 软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。]]></title>
+    <published>2024-06-20T09:35:31+08:00</published>
+    <updated>2024-06-20T09:35:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pixelfear/composer-dist-plugin"/>
+    <id>https://github.com/pixelfear/composer-dist-plugin</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/pixelfear/composer-dist-plugin" target="_blank">pixelfear/composer-dist-plugin: Composer
+软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/pixelfear/composer-dist-plugin" target="_blank">https://github.com/pixelfear/composer-dist-plugin</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ocramius/CodeGenerationUtils: 一套建立在 PHP-Parsers 基础上的代码生成器实用程序，与 Reflection 结合使用更方便]]></title>
-    <published>2024-06-19T09:35:39+08:00</published>
-    <updated>2024-06-19T09:35:39+08:00</updated>
+    <published>2024-06-19T00:00:00+08:00</published>
+    <updated>2024-06-19T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Ocramius/CodeGenerationUtils"/>
     <id>https://github.com/Ocramius/CodeGenerationUtils</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
