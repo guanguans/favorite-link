@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 20 Jun 2024 09:39:29 +0800</pubDate>
+    <pubDate>Thu, 20 Jun 2024 17:48:40 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>symfony/lock: 创建并管理锁，这是一种为共享资源提供独占访问权限的机制</title>
-      <pubDate>Thu, 20 Jun 2024 09:39:29 +0800</pubDate>
+      <pubDate>Thu, 20 Jun 2024 17:48:40 +0800</pubDate>
       <link>https://github.com/symfony/lock</link>
       <guid>https://github.com/symfony/lock</guid>
       <content:encoded><![CDATA[<a href="https://github.com/symfony/lock" target="_blank">symfony/lock: 创建并管理锁，这是一种为共享资源提供独占访问权限的机制</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>pixelfear/composer-dist-plugin: Composer 软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。</title>
-      <pubDate>Thu, 20 Jun 2024 09:39:29 +0800</pubDate>
+      <pubDate>Thu, 20 Jun 2024 17:48:40 +0800</pubDate>
       <link>https://github.com/pixelfear/composer-dist-plugin</link>
       <guid>https://github.com/pixelfear/composer-dist-plugin</guid>
       <content:encoded><![CDATA[<a href="https://github.com/pixelfear/composer-dist-plugin" target="_blank">pixelfear/composer-dist-plugin: Composer 软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>rhukster/dom-sanitizer: 适用于 PHP 7.3+ 的简单而有效的 DOM/SVG/MathML 净化剂</title>
-      <pubDate>Thu, 20 Jun 2024 09:39:29 +0800</pubDate>
+      <pubDate>Thu, 20 Jun 2024 17:48:40 +0800</pubDate>
       <link>https://github.com/rhukster/dom-sanitizer</link>
       <guid>https://github.com/rhukster/dom-sanitizer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/rhukster/dom-sanitizer" target="_blank">rhukster/dom-sanitizer: 适用于 PHP 7.3+ 的简单而有效的 DOM/SVG/MathML 净化剂</a>
@@ -50,13 +50,26 @@
     </item>
     <item>
       <title>statamic/Stringy: 支持多字节的 PHP 字符串操作库，现已支持 PHP 7.3</title>
-      <pubDate>Thu, 20 Jun 2024 09:39:29 +0800</pubDate>
+      <pubDate>Thu, 20 Jun 2024 17:48:40 +0800</pubDate>
       <link>https://github.com/statamic/Stringy</link>
       <guid>https://github.com/statamic/Stringy</guid>
       <content:encoded><![CDATA[<a href="https://github.com/statamic/Stringy" target="_blank">statamic/Stringy: 支持多字节的 PHP 字符串操作库，现已支持 PHP 7.3</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/statamic/Stringy" target="_blank">https://github.com/statamic/Stringy</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>kaplanelad/shellfirm: 拦截任何风险模式 (默认模式或由您定义的模式)，并提示您进行双重验证的小挑战</title>
+      <pubDate>Thu, 20 Jun 2024 17:48:40 +0800</pubDate>
+      <link>默认模式或由您定义的模式)，并提示您进行双重验证的小挑战](https://github.com/kaplanelad/shellfirm</link>
+      <guid isPermaLink="false">默认模式或由您定义的模式)，并提示您进行双重验证的小挑战](https://github.com/kaplanelad/shellfirm</guid>
+      <content:encoded><![CDATA[<a href="默认模式或由您定义的模式)，并提示您进行双重验证的小挑战](https://github.com/kaplanelad/shellfirm" target="_blank">kaplanelad/shellfirm: 拦截任何风险模式 (默认模式或由您定义的模式)，并提示您进行双重验证的小挑战</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="默认模式或由您定义的模式)，并提示您进行双重验证的小挑战](https://github.com/kaplanelad/shellfirm" target="_blank">默认模式或由您定义的模式)，并提示您进行双重验证的小挑战](https://github.com/kaplanelad/shellfirm</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
