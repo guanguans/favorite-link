@@ -25,6 +25,7 @@
 - [pixelfear/composer-dist-plugin: Composer 软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。](https://github.com/pixelfear/composer-dist-plugin) 
 - [rhukster/dom-sanitizer: 适用于 PHP 7.3+ 的简单而有效的 DOM/SVG/MathML 净化剂](https://github.com/rhukster/dom-sanitizer) 
 - [statamic/Stringy: 支持多字节的 PHP 字符串操作库，现已支持 PHP 7.3](https://github.com/statamic/Stringy) 
+- [kaplanelad/shellfirm: 拦截任何风险模式（默认模式或由您定义的模式），并提示您进行双重验证的小挑战](https://github.com/kaplanelad/shellfirm) 
 ### June 19, 2024 
 - [Ocramius/CodeGenerationUtils: 一套建立在 PHP-Parsers 基础上的代码生成器实用程序，与 Reflection 结合使用更方便](https://github.com/Ocramius/CodeGenerationUtils) 
 ### June 18, 2024 
