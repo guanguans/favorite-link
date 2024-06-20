@@ -22,6 +22,7 @@
 
 ### June 20, 2024 
 - [symfony/lock: 创建并管理锁，这是一种为共享资源提供独占访问权限的机制](https://github.com/symfony/lock) 
+- [pixelfear/composer-dist-plugin: Composer 软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。](https://github.com/pixelfear/composer-dist-plugin) 
 ### June 19, 2024 
 - [Ocramius/CodeGenerationUtils: 一套建立在 PHP-Parsers 基础上的代码生成器实用程序，与 Reflection 结合使用更方便](https://github.com/Ocramius/CodeGenerationUtils) 
 ### June 18, 2024 
