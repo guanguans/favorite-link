@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 21 Jun 2024 09:37:55 +0800</pubDate>
+    <pubDate>Fri, 21 Jun 2024 11:45:58 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Jeric-X/SyncClipboard: 跨平台剪贴板同步方案</title>
-      <pubDate>Fri, 21 Jun 2024 09:37:55 +0800</pubDate>
+      <pubDate>Fri, 21 Jun 2024 11:45:58 +0800</pubDate>
       <link>https://github.com/Jeric-X/SyncClipboard</link>
       <guid>https://github.com/Jeric-X/SyncClipboard</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Jeric-X/SyncClipboard" target="_blank">Jeric-X/SyncClipboard: 跨平台剪贴板同步方案</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应</title>
-      <pubDate>Fri, 21 Jun 2024 09:37:55 +0800</pubDate>
+      <pubDate>Fri, 21 Jun 2024 11:45:58 +0800</pubDate>
       <link>https://github.com/WyriHaximus/php-json-psr7</link>
       <guid>https://github.com/WyriHaximus/php-json-psr7</guid>
       <content:encoded><![CDATA[<a href="https://github.com/WyriHaximus/php-json-psr7" target="_blank">WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/WyriHaximus/php-json-psr7" target="_blank">https://github.com/WyriHaximus/php-json-psr7</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>watchexec/watchexec: 根据文件修改执行命令</title>
+      <pubDate>Fri, 21 Jun 2024 11:45:58 +0800</pubDate>
+      <link>https://github.com/watchexec/watchexec</link>
+      <guid>https://github.com/watchexec/watchexec</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/watchexec/watchexec" target="_blank">watchexec/watchexec: 根据文件修改执行命令</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/watchexec/watchexec" target="_blank">https://github.com/watchexec/watchexec</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
