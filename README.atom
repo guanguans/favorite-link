@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-21T11:45:58+08:00</updated>
+  <updated>2024-06-21T16:17:22+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Jeric-X/SyncClipboard: 跨平台剪贴板同步方案]]></title>
-    <published>2024-06-21T11:45:58+08:00</published>
-    <updated>2024-06-21T11:45:58+08:00</updated>
+    <published>2024-06-21T16:17:22+08:00</published>
+    <updated>2024-06-21T16:17:22+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Jeric-X/SyncClipboard"/>
     <id>https://github.com/Jeric-X/SyncClipboard</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应]]></title>
-    <published>2024-06-21T11:45:58+08:00</published>
-    <updated>2024-06-21T11:45:58+08:00</updated>
+    <published>2024-06-21T16:17:22+08:00</published>
+    <updated>2024-06-21T16:17:22+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/WyriHaximus/php-json-psr7"/>
     <id>https://github.com/WyriHaximus/php-json-psr7</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[watchexec/watchexec: 根据文件修改执行命令]]></title>
-    <published>2024-06-21T11:45:58+08:00</published>
-    <updated>2024-06-21T11:45:58+08:00</updated>
+    <published>2024-06-21T16:17:22+08:00</published>
+    <updated>2024-06-21T16:17:22+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/watchexec/watchexec"/>
     <id>https://github.com/watchexec/watchexec</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -55,6 +55,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/watchexec/watchexec" target="_blank">https://github.com/watchexec/watchexec</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Meekdai/Gmeek: 一个博客框架，超轻量级个人博客模板。完全基于 Github Pages、Github Issues 和 Github Actions。]]></title>
+    <published>2024-06-21T16:17:22+08:00</published>
+    <updated>2024-06-21T16:17:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Meekdai/Gmeek"/>
+    <id>https://github.com/Meekdai/Gmeek</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Meekdai/Gmeek" target="_blank">Meekdai/Gmeek: 一个博客框架，超轻量级个人博客模板。完全基于 Github Pages、Github
+Issues 和 Github Actions。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Meekdai/Gmeek" target="_blank">https://github.com/Meekdai/Gmeek</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
