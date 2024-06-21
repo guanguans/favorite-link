@@ -24,6 +24,7 @@
 ### June 21, 2024 
 - [Jeric-X/SyncClipboard: 跨平台剪贴板同步方案](https://github.com/Jeric-X/SyncClipboard) 
 - [WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应](https://github.com/WyriHaximus/php-json-psr7) 
+- [watchexec/watchexec: 根据文件修改执行命令](https://github.com/watchexec/watchexec) 
 ### June 20, 2024 
 - [symfony/lock: 创建并管理锁，这是一种为共享资源提供独占访问权限的机制](https://github.com/symfony/lock) 
 - [pixelfear/composer-dist-plugin: Composer 软件包可下载可在软件包中使用的可分发资产，因此您无需提交这些资产。](https://github.com/pixelfear/composer-dist-plugin) 
