@@ -21,6 +21,9 @@
 
 
 
+
+### June 24, 2024 
+- [cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。](https://github.com/cloudprober/cloudprober) 
 ### June 21, 2024 
 - [Jeric-X/SyncClipboard: 跨平台剪贴板同步方案](https://github.com/Jeric-X/SyncClipboard) 
 - [WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应](https://github.com/WyriHaximus/php-json-psr7) 
