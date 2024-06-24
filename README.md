@@ -25,6 +25,7 @@
 ### June 24, 2024 
 - [cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。](https://github.com/cloudprober/cloudprober) 
 - [frectonz/sql-studio: SQL 数据库资源管理器 [SQLite、libSQL、PostgreSQL、MySQL/MariaDB、DuckDB]](https://github.com/frectonz/sql-studio) 
+- [linkchecker/linkchecker: 检查网络文档或整个网站中的链接](https://github.com/linkchecker/linkchecker) 
 ### June 21, 2024 
 - [Jeric-X/SyncClipboard: 跨平台剪贴板同步方案](https://github.com/Jeric-X/SyncClipboard) 
 - [WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应](https://github.com/WyriHaximus/php-json-psr7) 
