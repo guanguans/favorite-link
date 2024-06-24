@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 21 Jun 2024 16:17:22 +0800</pubDate>
+    <pubDate>Mon, 24 Jun 2024 09:41:59 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。</title>
+      <pubDate>Mon, 24 Jun 2024 09:41:59 +0800</pubDate>
+      <link>https://github.com/cloudprober/cloudprober</link>
+      <guid>https://github.com/cloudprober/cloudprober</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/cloudprober/cloudprober" target="_blank">cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/cloudprober/cloudprober" target="_blank">https://github.com/cloudprober/cloudprober</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Jeric-X/SyncClipboard: 跨平台剪贴板同步方案</title>
-      <pubDate>Fri, 21 Jun 2024 16:17:22 +0800</pubDate>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Jeric-X/SyncClipboard</link>
       <guid>https://github.com/Jeric-X/SyncClipboard</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Jeric-X/SyncClipboard" target="_blank">Jeric-X/SyncClipboard: 跨平台剪贴板同步方案</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应</title>
-      <pubDate>Fri, 21 Jun 2024 16:17:22 +0800</pubDate>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/WyriHaximus/php-json-psr7</link>
       <guid>https://github.com/WyriHaximus/php-json-psr7</guid>
       <content:encoded><![CDATA[<a href="https://github.com/WyriHaximus/php-json-psr7" target="_blank">WyriHaximus/php-json-psr7: JSON 编码和解码 PSR-7 请求和响应</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>watchexec/watchexec: 根据文件修改执行命令</title>
-      <pubDate>Fri, 21 Jun 2024 16:17:22 +0800</pubDate>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/watchexec/watchexec</link>
       <guid>https://github.com/watchexec/watchexec</guid>
       <content:encoded><![CDATA[<a href="https://github.com/watchexec/watchexec" target="_blank">watchexec/watchexec: 根据文件修改执行命令</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>Meekdai/Gmeek: 一个博客框架，超轻量级个人博客模板。完全基于 Github Pages、Github Issues 和 Github Actions。</title>
-      <pubDate>Fri, 21 Jun 2024 16:17:22 +0800</pubDate>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Meekdai/Gmeek</link>
       <guid>https://github.com/Meekdai/Gmeek</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Meekdai/Gmeek" target="_blank">Meekdai/Gmeek: 一个博客框架，超轻量级个人博客模板。完全基于 Github Pages、Github Issues 和 Github Actions。</a>
