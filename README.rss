@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 24 Jun 2024 10:31:45 +0800</pubDate>
+    <pubDate>Tue, 25 Jun 2024 09:36:22 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>xykt/IPQuality: IP 质量检测脚本</title>
+      <pubDate>Tue, 25 Jun 2024 09:36:22 +0800</pubDate>
+      <link>https://github.com/xykt/IPQuality</link>
+      <guid>https://github.com/xykt/IPQuality</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/xykt/IPQuality" target="_blank">xykt/IPQuality: IP 质量检测脚本</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/xykt/IPQuality" target="_blank">https://github.com/xykt/IPQuality</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。</title>
-      <pubDate>Mon, 24 Jun 2024 10:31:45 +0800</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/cloudprober/cloudprober</link>
       <guid>https://github.com/cloudprober/cloudprober</guid>
       <content:encoded><![CDATA[<a href="https://github.com/cloudprober/cloudprober" target="_blank">cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>frectonz/sql-studio: SQL 数据库资源管理器 [SQLite、libSQL、PostgreSQL、MySQL/MariaDB、DuckDB</title>
-      <pubDate>Mon, 24 Jun 2024 10:31:45 +0800</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/frectonz/sql-studio</link>
       <guid>https://github.com/frectonz/sql-studio</guid>
       <content:encoded><![CDATA[<a href="https://github.com/frectonz/sql-studio" target="_blank">frectonz/sql-studio: SQL 数据库资源管理器 [SQLite、libSQL、PostgreSQL、MySQL/MariaDB、DuckDB</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>linkchecker/linkchecker: 检查网络文档或整个网站中的链接</title>
-      <pubDate>Mon, 24 Jun 2024 10:31:45 +0800</pubDate>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/linkchecker/linkchecker</link>
       <guid>https://github.com/linkchecker/linkchecker</guid>
       <content:encoded><![CDATA[<a href="https://github.com/linkchecker/linkchecker" target="_blank">linkchecker/linkchecker: 检查网络文档或整个网站中的链接</a>
