@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-25T09:36:22+08:00</updated>
+  <updated>2024-06-25T09:38:22+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xykt/IPQuality: IP 质量检测脚本]]></title>
-    <published>2024-06-25T09:36:22+08:00</published>
-    <updated>2024-06-25T09:36:22+08:00</updated>
+    <published>2024-06-25T09:38:22+08:00</published>
+    <updated>2024-06-25T09:38:22+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/xykt/IPQuality"/>
     <id>https://github.com/xykt/IPQuality</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -23,6 +23,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/xykt/IPQuality" target="_blank">https://github.com/xykt/IPQuality</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。]]></title>
+    <published>2024-06-25T09:38:22+08:00</published>
+    <updated>2024-06-25T09:38:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/wikimedia/AhoCorasick"/>
+    <id>https://github.com/wikimedia/AhoCorasick</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/wikimedia/AhoCorasick" target="_blank">wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/wikimedia/AhoCorasick" target="_blank">https://github.com/wikimedia/AhoCorasick</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
