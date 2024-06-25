@@ -28,6 +28,7 @@
 - [wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。](https://github.com/wikimedia/AhoCorasick) 
 - [thunderer/Platenum: PHP 枚举类型库](https://github.com/thunderer/Platenum) 
 - [lnear-dev/html: 生成 HTML 元素的 PHP 库](https://github.com/lnear-dev/html) 
+- [luvi-ui/laravel-luvi: 您可以将 Laravel 的 UI 组件复制并粘贴到您的应用程序中。](https://github.com/luvi-ui/laravel-luvi) 
 ### June 24, 2024 
 - [cloudprober/cloudprober: 主动监控软件可在客户发现故障之前检测到故障。](https://github.com/cloudprober/cloudprober) 
 - [frectonz/sql-studio: SQL 数据库资源管理器 [SQLite、libSQL、PostgreSQL、MySQL/MariaDB、DuckDB]](https://github.com/frectonz/sql-studio) 
