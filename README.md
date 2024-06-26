@@ -15,6 +15,7 @@
 - [WhichBrowser/Parser-PHP: 这是一个极其复杂、几乎完全无用的浏览器嗅探库。](https://github.com/WhichBrowser/Parser-PHP) 
 - [wayofdev/laravel-symfony-serializer: 🔧 Laravel + Symfony Serializer。该软件包为 Laravel 和 Symfony Serializer 提供了一座桥梁。](https://github.com/wayofdev/laravel-symfony-serializer) 
 - [nabilhassen/laravel-usage-limiter: 一个 Laravel 软件包，用于跟踪、限制用户、账户或任何其他模型的使用情况。](https://github.com/nabilhassen/laravel-usage-limiter) 
+- [saasscaleup/laravel-log-alarm: 为您的 Laravel 应用程序提供实时日志监控和错误检测功能](https://github.com/saasscaleup/laravel-log-alarm) 
 ### June 25, 2024 
 - [xykt/IPQuality: IP 质量检测脚本](https://github.com/xykt/IPQuality) 
 - [wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。](https://github.com/wikimedia/AhoCorasick) 
