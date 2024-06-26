@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-06-26T09:34:17+08:00</updated>
+  <updated>2024-06-26T09:36:33+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。]]></title>
-    <published>2024-06-26T09:34:17+08:00</published>
-    <updated>2024-06-26T09:34:17+08:00</updated>
+    <published>2024-06-26T09:36:33+08:00</published>
+    <updated>2024-06-26T09:36:33+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/nate-parrott/ball"/>
     <id>https://github.com/nate-parrott/ball</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。]]></title>
-    <published>2024-06-26T09:34:17+08:00</published>
-    <updated>2024-06-26T09:34:17+08:00</updated>
+    <published>2024-06-26T09:36:33+08:00</published>
+    <updated>2024-06-26T09:36:33+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/nate-parrott/ball"/>
     <id>https://github.com/nate-parrott/ball</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -39,6 +39,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/nate-parrott/ball" target="_blank">https://github.com/nate-parrott/ball</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[WhichBrowser/Parser-PHP: 这是一个极其复杂、几乎完全无用的浏览器嗅探库。]]></title>
+    <published>2024-06-26T09:36:33+08:00</published>
+    <updated>2024-06-26T09:36:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/WhichBrowser/Parser-PHP"/>
+    <id>https://github.com/WhichBrowser/Parser-PHP</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/WhichBrowser/Parser-PHP" target="_blank">WhichBrowser/Parser-PHP: 这是一个极其复杂、几乎完全无用的浏览器嗅探库。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/WhichBrowser/Parser-PHP" target="_blank">https://github.com/WhichBrowser/Parser-PHP</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>

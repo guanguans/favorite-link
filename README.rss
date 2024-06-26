@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 26 Jun 2024 09:34:17 +0800</pubDate>
+    <pubDate>Wed, 26 Jun 2024 09:36:33 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</title>
-      <pubDate>Wed, 26 Jun 2024 09:34:17 +0800</pubDate>
+      <pubDate>Wed, 26 Jun 2024 09:36:33 +0800</pubDate>
       <link>https://github.com/nate-parrott/ball</link>
       <guid>https://github.com/nate-parrott/ball</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nate-parrott/ball" target="_blank">nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</title>
-      <pubDate>Wed, 26 Jun 2024 09:34:17 +0800</pubDate>
+      <pubDate>Wed, 26 Jun 2024 09:36:33 +0800</pubDate>
       <link>https://github.com/nate-parrott/ball</link>
       <guid>https://github.com/nate-parrott/ball</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nate-parrott/ball" target="_blank">nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/nate-parrott/ball" target="_blank">https://github.com/nate-parrott/ball</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>WhichBrowser/Parser-PHP: 这是一个极其复杂、几乎完全无用的浏览器嗅探库。</title>
+      <pubDate>Wed, 26 Jun 2024 09:36:33 +0800</pubDate>
+      <link>https://github.com/WhichBrowser/Parser-PHP</link>
+      <guid>https://github.com/WhichBrowser/Parser-PHP</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/WhichBrowser/Parser-PHP" target="_blank">WhichBrowser/Parser-PHP: 这是一个极其复杂、几乎完全无用的浏览器嗅探库。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/WhichBrowser/Parser-PHP" target="_blank">https://github.com/WhichBrowser/Parser-PHP</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
