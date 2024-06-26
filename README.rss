@@ -3,15 +3,41 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 25 Jun 2024 09:57:03 +0800</pubDate>
+    <pubDate>Wed, 26 Jun 2024 09:34:17 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</title>
+      <pubDate>Wed, 26 Jun 2024 09:34:17 +0800</pubDate>
+      <link>https://github.com/nate-parrott/ball</link>
+      <guid>https://github.com/nate-parrott/ball</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nate-parrott/ball" target="_blank">nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nate-parrott/ball" target="_blank">https://github.com/nate-parrott/ball</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</title>
+      <pubDate>Wed, 26 Jun 2024 09:34:17 +0800</pubDate>
+      <link>https://github.com/nate-parrott/ball</link>
+      <guid>https://github.com/nate-parrott/ball</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nate-parrott/ball" target="_blank">nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nate-parrott/ball" target="_blank">https://github.com/nate-parrott/ball</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>xykt/IPQuality: IP 质量检测脚本</title>
-      <pubDate>Tue, 25 Jun 2024 09:57:03 +0800</pubDate>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/xykt/IPQuality</link>
       <guid>https://github.com/xykt/IPQuality</guid>
       <content:encoded><![CDATA[<a href="https://github.com/xykt/IPQuality" target="_blank">xykt/IPQuality: IP 质量检测脚本</a>
@@ -24,7 +50,7 @@
     </item>
     <item>
       <title>wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。</title>
-      <pubDate>Tue, 25 Jun 2024 09:57:03 +0800</pubDate>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/wikimedia/AhoCorasick</link>
       <guid>https://github.com/wikimedia/AhoCorasick</guid>
       <content:encoded><![CDATA[<a href="https://github.com/wikimedia/AhoCorasick" target="_blank">wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。</a>
@@ -37,7 +63,7 @@
     </item>
     <item>
       <title>thunderer/Platenum: PHP 枚举类型库</title>
-      <pubDate>Tue, 25 Jun 2024 09:57:03 +0800</pubDate>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/thunderer/Platenum</link>
       <guid>https://github.com/thunderer/Platenum</guid>
       <content:encoded><![CDATA[<a href="https://github.com/thunderer/Platenum" target="_blank">thunderer/Platenum: PHP 枚举类型库</a>
@@ -50,7 +76,7 @@
     </item>
     <item>
       <title>lnear-dev/html: 生成 HTML 元素的 PHP 库</title>
-      <pubDate>Tue, 25 Jun 2024 09:57:03 +0800</pubDate>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/lnear-dev/html</link>
       <guid>https://github.com/lnear-dev/html</guid>
       <content:encoded><![CDATA[<a href="https://github.com/lnear-dev/html" target="_blank">lnear-dev/html: 生成 HTML 元素的 PHP 库</a>
@@ -63,7 +89,7 @@
     </item>
     <item>
       <title>luvi-ui/laravel-luvi: 您可以将 Laravel 的 UI 组件复制并粘贴到您的应用程序中。</title>
-      <pubDate>Tue, 25 Jun 2024 09:57:03 +0800</pubDate>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/luvi-ui/laravel-luvi</link>
       <guid>https://github.com/luvi-ui/laravel-luvi</guid>
       <content:encoded><![CDATA[<a href="https://github.com/luvi-ui/laravel-luvi" target="_blank">luvi-ui/laravel-luvi: 您可以将 Laravel 的 UI 组件复制并粘贴到您的应用程序中。</a>
