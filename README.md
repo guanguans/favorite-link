@@ -23,6 +23,9 @@
 
 
 
+
+### June 26, 2024 
+- [nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。](https://github.com/nate-parrott/ball) 
 ### June 25, 2024 
 - [xykt/IPQuality: IP 质量检测脚本](https://github.com/xykt/IPQuality) 
 - [wikimedia/AhoCorasick: Aho-Corasick 字符串搜索算法的 PHP 实现。](https://github.com/wikimedia/AhoCorasick) 
