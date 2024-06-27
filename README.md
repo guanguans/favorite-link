@@ -13,6 +13,7 @@
 
 ### June 27, 2024 
 - [anchore/quill: 从任何平台进行简单的 mac 二进制签名](https://github.com/anchore/quill) 
+- [realrashid/cart: 您在 Laravel 中高效管理购物车的无缝解决方案。](https://github.com/realrashid/cart) 
 ### June 26, 2024 
 - [nate-parrott/ball: 它是一个住在 dock 中的小球。你可以拖动它，它就会在屏幕上弹跳。](https://github.com/nate-parrott/ball) 
 - [WhichBrowser/Parser-PHP: 这是一个极其复杂、几乎完全无用的浏览器嗅探库。](https://github.com/WhichBrowser/Parser-PHP) 
