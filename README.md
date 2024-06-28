@@ -14,6 +14,7 @@
 
 ### June 28, 2024 
 - [nikitabobko/AeroSpace: 适用于 macOS 的类似 i3 的平铺窗口管理器](https://github.com/nikitabobko/AeroSpace) 
+- [RahulDey12/tiktoken-php: OpenAI 的 BPE 标记器 tiktoken 的 PHP 实现。](https://github.com/RahulDey12/tiktoken-php) 
 ### June 27, 2024 
 - [anchore/quill: 从任何平台进行简单的 mac 二进制签名](https://github.com/anchore/quill) 
 - [realrashid/cart: 您在 Laravel 中高效管理购物车的无缝解决方案。](https://github.com/realrashid/cart) 
