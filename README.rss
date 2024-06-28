@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 27 Jun 2024 09:45:30 +0800</pubDate>
+    <pubDate>Fri, 28 Jun 2024 09:34:24 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>nikitabobko/AeroSpace: 适用于 macOS 的类似 i3 的平铺窗口管理器</title>
+      <pubDate>Fri, 28 Jun 2024 09:34:24 +0800</pubDate>
+      <link>https://github.com/nikitabobko/AeroSpace</link>
+      <guid>https://github.com/nikitabobko/AeroSpace</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nikitabobko/AeroSpace" target="_blank">nikitabobko/AeroSpace: 适用于 macOS 的类似 i3 的平铺窗口管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nikitabobko/AeroSpace" target="_blank">https://github.com/nikitabobko/AeroSpace</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>anchore/quill: 从任何平台进行简单的 mac 二进制签名</title>
-      <pubDate>Thu, 27 Jun 2024 09:45:30 +0800</pubDate>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/anchore/quill</link>
       <guid>https://github.com/anchore/quill</guid>
       <content:encoded><![CDATA[<a href="https://github.com/anchore/quill" target="_blank">anchore/quill: 从任何平台进行简单的 mac 二进制签名</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>realrashid/cart: 您在 Laravel 中高效管理购物车的无缝解决方案。</title>
-      <pubDate>Thu, 27 Jun 2024 09:45:30 +0800</pubDate>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/realrashid/cart</link>
       <guid>https://github.com/realrashid/cart</guid>
       <content:encoded><![CDATA[<a href="https://github.com/realrashid/cart" target="_blank">realrashid/cart: 您在 Laravel 中高效管理购物车的无缝解决方案。</a>
