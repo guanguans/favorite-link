@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 01 Jul 2024 10:01:11 +0800</pubDate>
+    <pubDate>Mon, 01 Jul 2024 10:44:38 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>starkdmi/BrightXDR: Vivid macOS 应用程序的免费开源替代软件，可将 Apple XDR 显示器亮度从 500 nits 提升至 1600 nits。</title>
-      <pubDate>Mon, 01 Jul 2024 10:01:11 +0800</pubDate>
+      <pubDate>Mon, 01 Jul 2024 10:44:38 +0800</pubDate>
       <link>https://github.com/starkdmi/BrightXDR</link>
       <guid>https://github.com/starkdmi/BrightXDR</guid>
       <content:encoded><![CDATA[<a href="https://github.com/starkdmi/BrightXDR" target="_blank">starkdmi/BrightXDR: Vivid macOS 应用程序的免费开源替代软件，可将 Apple XDR 显示器亮度从 500 nits 提升至 1600 nits。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>Ceelog/DictionaryByGPT4: 一本 GPT4 生成的单词书 📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事</title>
-      <pubDate>Mon, 01 Jul 2024 10:01:11 +0800</pubDate>
+      <pubDate>Mon, 01 Jul 2024 10:44:38 +0800</pubDate>
       <link>https://github.com/Ceelog/DictionaryByGPT4</link>
       <guid>https://github.com/Ceelog/DictionaryByGPT4</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Ceelog/DictionaryByGPT4" target="_blank">Ceelog/DictionaryByGPT4: 一本 GPT4 生成的单词书 📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>simps/mqtt: 用于 PHP 的 MQTT 协议分析和 Coroutine 客户端。</title>
-      <pubDate>Mon, 01 Jul 2024 10:01:11 +0800</pubDate>
+      <pubDate>Mon, 01 Jul 2024 10:44:38 +0800</pubDate>
       <link>https://github.com/simps/mqtt</link>
       <guid>https://github.com/simps/mqtt</guid>
       <content:encoded><![CDATA[<a href="https://github.com/simps/mqtt" target="_blank">simps/mqtt: 用于 PHP 的 MQTT 协议分析和 Coroutine 客户端。</a>
@@ -50,13 +50,26 @@
     </item>
     <item>
       <title>binafy/laravel-cart: Laravel Cart 是一个可定制的软件包，用于在 Laravel 应用程序中添加购物车功能。</title>
-      <pubDate>Mon, 01 Jul 2024 10:01:11 +0800</pubDate>
+      <pubDate>Mon, 01 Jul 2024 10:44:38 +0800</pubDate>
       <link>https://github.com/binafy/laravel-cart</link>
       <guid>https://github.com/binafy/laravel-cart</guid>
       <content:encoded><![CDATA[<a href="https://github.com/binafy/laravel-cart" target="_blank">binafy/laravel-cart: Laravel Cart 是一个可定制的软件包，用于在 Laravel 应用程序中添加购物车功能。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/binafy/laravel-cart" target="_blank">https://github.com/binafy/laravel-cart</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>wujingquan/cvm: 适用于 Windows 上 CLI 的 Composer 版本管理器</title>
+      <pubDate>Mon, 01 Jul 2024 10:44:38 +0800</pubDate>
+      <link>https://github.com/wujingquan/cvm</link>
+      <guid>https://github.com/wujingquan/cvm</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/wujingquan/cvm" target="_blank">wujingquan/cvm: 适用于 Windows 上 CLI 的 Composer 版本管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/wujingquan/cvm" target="_blank">https://github.com/wujingquan/cvm</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
