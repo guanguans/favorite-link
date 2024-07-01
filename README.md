@@ -12,6 +12,9 @@
 
 
 
+
+### July 1, 2024 
+- [starkdmi/BrightXDR: Vivid macOS 应用程序的免费开源替代软件，可将 Apple XDR 显示器亮度从 500 nits 提升至 1600 nits。](https://github.com/starkdmi/BrightXDR) 
 ### June 28, 2024 
 - [nikitabobko/AeroSpace: 适用于 macOS 的类似 i3 的平铺窗口管理器](https://github.com/nikitabobko/AeroSpace) 
 - [RahulDey12/tiktoken-php: OpenAI 的 BPE 标记器 tiktoken 的 PHP 实现。](https://github.com/RahulDey12/tiktoken-php) 
