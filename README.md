@@ -17,6 +17,7 @@
 - [starkdmi/BrightXDR: Vivid macOS 应用程序的免费开源替代软件，可将 Apple XDR 显示器亮度从 500 nits 提升至 1600 nits。](https://github.com/starkdmi/BrightXDR) 
 - [Ceelog/DictionaryByGPT4: 一本 GPT4 生成的单词书 📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事](https://github.com/Ceelog/DictionaryByGPT4) 
 - [simps/mqtt: 用于 PHP 的 MQTT 协议分析和 Coroutine 客户端。](https://github.com/simps/mqtt) 
+- [binafy/laravel-cart: Laravel Cart 是一个可定制的软件包，用于在 Laravel 应用程序中添加购物车功能。](https://github.com/binafy/laravel-cart) 
 ### June 28, 2024 
 - [nikitabobko/AeroSpace: 适用于 macOS 的类似 i3 的平铺窗口管理器](https://github.com/nikitabobko/AeroSpace) 
 - [RahulDey12/tiktoken-php: OpenAI 的 BPE 标记器 tiktoken 的 PHP 实现。](https://github.com/RahulDey12/tiktoken-php) 
