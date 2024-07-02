@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-02T09:31:45+08:00</updated>
+  <updated>2024-07-02T09:50:13+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[TomasVotruba/phpstan-bodyscan: 获取每个 PHPStan 级别的错误计数]]></title>
-    <published>2024-07-02T09:31:45+08:00</published>
-    <updated>2024-07-02T09:31:45+08:00</updated>
+    <published>2024-07-02T09:50:13+08:00</published>
+    <updated>2024-07-02T09:50:13+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/TomasVotruba/phpstan-bodyscan"/>
     <id>https://github.com/TomasVotruba/phpstan-bodyscan</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -23,6 +23,22 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/TomasVotruba/phpstan-bodyscan" target="_blank">https://github.com/TomasVotruba/phpstan-bodyscan</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Hi-Folks/data-block: 用于处理、查询、过滤和设置嵌套数据结构的 PHP 软件包]]></title>
+    <published>2024-07-02T09:50:13+08:00</published>
+    <updated>2024-07-02T09:50:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Hi-Folks/data-block"/>
+    <id>https://github.com/Hi-Folks/data-block</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Hi-Folks/data-block" target="_blank">Hi-Folks/data-block: 用于处理、查询、过滤和设置嵌套数据结构的 PHP 软件包</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Hi-Folks/data-block" target="_blank">https://github.com/Hi-Folks/data-block</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
