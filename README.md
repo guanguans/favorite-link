@@ -13,6 +13,9 @@
 
 
 
+
+### July 2, 2024 
+- [TomasVotruba/phpstan-bodyscan: 获取每个 PHPStan 级别的错误计数](https://github.com/TomasVotruba/phpstan-bodyscan) 
 ### July 1, 2024 
 - [starkdmi/BrightXDR: Vivid macOS 应用程序的免费开源替代软件，可将 Apple XDR 显示器亮度从 500 nits 提升至 1600 nits。](https://github.com/starkdmi/BrightXDR) 
 - [Ceelog/DictionaryByGPT4: 一本 GPT4 生成的单词书 📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事](https://github.com/Ceelog/DictionaryByGPT4) 
