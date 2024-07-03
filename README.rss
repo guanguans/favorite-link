@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 03 Jul 2024 09:42:20 +0800</pubDate>
+    <pubDate>Wed, 03 Jul 2024 09:44:53 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件</title>
-      <pubDate>Wed, 03 Jul 2024 09:42:20 +0800</pubDate>
+      <pubDate>Wed, 03 Jul 2024 09:44:53 +0800</pubDate>
       <link>https://github.com/0verEngineer/InlineProblems</link>
       <guid>https://github.com/0verEngineer/InlineProblems</guid>
       <content:encoded><![CDATA[<a href="https://github.com/0verEngineer/InlineProblems" target="_blank">0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>matt-daneshvar/laravel-survey: 在 Laravel 应用程序中创建和管理调查问卷。</title>
-      <pubDate>Wed, 03 Jul 2024 09:42:20 +0800</pubDate>
+      <pubDate>Wed, 03 Jul 2024 09:44:53 +0800</pubDate>
       <link>https://github.com/matt-daneshvar/laravel-survey</link>
       <guid>https://github.com/matt-daneshvar/laravel-survey</guid>
       <content:encoded><![CDATA[<a href="https://github.com/matt-daneshvar/laravel-survey" target="_blank">matt-daneshvar/laravel-survey: 在 Laravel 应用程序中创建和管理调查问卷。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/matt-daneshvar/laravel-survey" target="_blank">https://github.com/matt-daneshvar/laravel-survey</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>umbrellio/laravel-pg-extensions: 该项目扩展了 Laravel 的数据库层，允许在不进行原始查询的情况下使用特定的 Postgres 功能。</title>
+      <pubDate>Wed, 03 Jul 2024 09:44:53 +0800</pubDate>
+      <link>https://github.com/umbrellio/laravel-pg-extensions</link>
+      <guid>https://github.com/umbrellio/laravel-pg-extensions</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/umbrellio/laravel-pg-extensions" target="_blank">umbrellio/laravel-pg-extensions: 该项目扩展了 Laravel 的数据库层，允许在不进行原始查询的情况下使用特定的 Postgres 功能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/umbrellio/laravel-pg-extensions" target="_blank">https://github.com/umbrellio/laravel-pg-extensions</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
