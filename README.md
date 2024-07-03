@@ -17,6 +17,7 @@
 
 ### July 3, 2024 
 - [0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件](https://github.com/0verEngineer/InlineProblems) 
+- [matt-daneshvar/laravel-survey: 在 Laravel 应用程序中创建和管理调查问卷。](https://github.com/matt-daneshvar/laravel-survey) 
 ### July 2, 2024 
 - [TomasVotruba/phpstan-bodyscan: 获取每个 PHPStan 级别的错误计数](https://github.com/TomasVotruba/phpstan-bodyscan) 
 - [Hi-Folks/data-block: 用于处理、查询、过滤和设置嵌套数据结构的 PHP 软件包](https://github.com/Hi-Folks/data-block) 
