@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 02 Jul 2024 09:50:13 +0800</pubDate>
+    <pubDate>Wed, 03 Jul 2024 09:39:04 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件</title>
+      <pubDate>Wed, 03 Jul 2024 09:39:04 +0800</pubDate>
+      <link>https://github.com/0verEngineer/InlineProblems</link>
+      <guid>https://github.com/0verEngineer/InlineProblems</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/0verEngineer/InlineProblems" target="_blank">0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/0verEngineer/InlineProblems" target="_blank">https://github.com/0verEngineer/InlineProblems</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>TomasVotruba/phpstan-bodyscan: 获取每个 PHPStan 级别的错误计数</title>
-      <pubDate>Tue, 02 Jul 2024 09:50:13 +0800</pubDate>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/TomasVotruba/phpstan-bodyscan</link>
       <guid>https://github.com/TomasVotruba/phpstan-bodyscan</guid>
       <content:encoded><![CDATA[<a href="https://github.com/TomasVotruba/phpstan-bodyscan" target="_blank">TomasVotruba/phpstan-bodyscan: 获取每个 PHPStan 级别的错误计数</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>Hi-Folks/data-block: 用于处理、查询、过滤和设置嵌套数据结构的 PHP 软件包</title>
-      <pubDate>Tue, 02 Jul 2024 09:50:13 +0800</pubDate>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Hi-Folks/data-block</link>
       <guid>https://github.com/Hi-Folks/data-block</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Hi-Folks/data-block" target="_blank">Hi-Folks/data-block: 用于处理、查询、过滤和设置嵌套数据结构的 PHP 软件包</a>
