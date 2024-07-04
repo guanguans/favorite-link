@@ -21,6 +21,7 @@
 - [feschber/lan-mouse: 通过局域网共享鼠标和键盘](https://github.com/feschber/lan-mouse) 
 - [savinmikhail/Comments-Density: 这是一款 PHP 代码质量工具，旨在提高代码注释的质量](https://github.com/savinmikhail/Comments-Density) 
 - [DeGraciaMathieu/laravel-rapid-bind: 在 Laravel 容器中快速、轻松地创建单子](https://github.com/DeGraciaMathieu/laravel-rapid-bind) 
+- [Lakshan-Madushanka/laravel-comments: 在 Laravel 项目中集成无缝评论功能](https://github.com/Lakshan-Madushanka/laravel-comments) 
 ### July 3, 2024 
 - [0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件](https://github.com/0verEngineer/InlineProblems) 
 - [matt-daneshvar/laravel-survey: 在 Laravel 应用程序中创建和管理调查问卷。](https://github.com/matt-daneshvar/laravel-survey) 
