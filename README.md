@@ -18,6 +18,7 @@
 
 ### July 4, 2024 
 - [jtroo/kanata: 通过高级定制功能提高键盘舒适度和可用性](https://github.com/jtroo/kanata) 
+- [feschber/lan-mouse: 通过局域网共享鼠标和键盘](https://github.com/feschber/lan-mouse) 
 ### July 3, 2024 
 - [0verEngineer/InlineProblems: 用于在基于 IntelliJ Platform 的集成开发环境的文本编辑器中显示问题的插件](https://github.com/0verEngineer/InlineProblems) 
 - [matt-daneshvar/laravel-survey: 在 Laravel 应用程序中创建和管理调查问卷。](https://github.com/matt-daneshvar/laravel-survey) 
