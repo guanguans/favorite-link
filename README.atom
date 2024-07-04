@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-04T09:59:09+08:00</updated>
+  <updated>2024-07-04T10:05:20+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jtroo/kanata: 通过高级定制功能提高键盘舒适度和可用性]]></title>
-    <published>2024-07-04T09:59:09+08:00</published>
-    <updated>2024-07-04T09:59:09+08:00</updated>
+    <published>2024-07-04T10:05:20+08:00</published>
+    <updated>2024-07-04T10:05:20+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/jtroo/kanata"/>
     <id>https://github.com/jtroo/kanata</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[feschber/lan-mouse: 通过局域网共享鼠标和键盘]]></title>
-    <published>2024-07-04T09:59:09+08:00</published>
-    <updated>2024-07-04T09:59:09+08:00</updated>
+    <published>2024-07-04T10:05:20+08:00</published>
+    <updated>2024-07-04T10:05:20+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/feschber/lan-mouse"/>
     <id>https://github.com/feschber/lan-mouse</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[savinmikhail/Comments-Density: 这是一款 PHP 代码质量工具，旨在提高代码注释的质量]]></title>
-    <published>2024-07-04T09:59:09+08:00</published>
-    <updated>2024-07-04T09:59:09+08:00</updated>
+    <published>2024-07-04T10:05:20+08:00</published>
+    <updated>2024-07-04T10:05:20+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/savinmikhail/Comments-Density"/>
     <id>https://github.com/savinmikhail/Comments-Density</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -63,8 +63,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[DeGraciaMathieu/laravel-rapid-bind: 在 Laravel 容器中快速、轻松地创建单子]]></title>
-    <published>2024-07-04T09:59:09+08:00</published>
-    <updated>2024-07-04T09:59:09+08:00</updated>
+    <published>2024-07-04T10:05:20+08:00</published>
+    <updated>2024-07-04T10:05:20+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/DeGraciaMathieu/laravel-rapid-bind"/>
     <id>https://github.com/DeGraciaMathieu/laravel-rapid-bind</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -73,6 +73,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/DeGraciaMathieu/laravel-rapid-bind" target="_blank">https://github.com/DeGraciaMathieu/laravel-rapid-bind</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Lakshan-Madushanka/laravel-comments: 在 Laravel 项目中集成无缝评论功能]]></title>
+    <published>2024-07-04T10:05:20+08:00</published>
+    <updated>2024-07-04T10:05:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Lakshan-Madushanka/laravel-comments"/>
+    <id>https://github.com/Lakshan-Madushanka/laravel-comments</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Lakshan-Madushanka/laravel-comments" target="_blank">Lakshan-Madushanka/laravel-comments: 在 Laravel
+项目中集成无缝评论功能</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Lakshan-Madushanka/laravel-comments" target="_blank">https://github.com/Lakshan-Madushanka/laravel-comments</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
