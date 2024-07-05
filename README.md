@@ -24,6 +24,7 @@
 - [nowendwell/laravel-terms: 为项目添加条款和条件的工具](https://github.com/nowendwell/laravel-terms) 
 - [permafrost-dev/php-code-search: 直接从 PHP 源代码中搜索函数和方法调用、变量赋值、类等内容。](https://github.com/permafrost-dev/php-code-search) 
 - [IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。](https://github.com/IonBazan/composer-diff) 
+- [sanderdlm/chop: 通过 CLI 重置 OPcache 内容，无需重新加载 PHP-FPM](https://github.com/sanderdlm/chop) 
 ### July 4, 2024 
 - [jtroo/kanata: 通过高级定制功能提高键盘舒适度和可用性](https://github.com/jtroo/kanata) 
 - [feschber/lan-mouse: 通过局域网共享鼠标和键盘](https://github.com/feschber/lan-mouse) 
