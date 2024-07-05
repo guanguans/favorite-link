@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 04 Jul 2024 10:05:20 +0800</pubDate>
+    <pubDate>Fri, 05 Jul 2024 09:53:20 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>shawn-bluce/eat: 一个吃 CPU 内存的怪兽。</title>
+      <pubDate>Fri, 05 Jul 2024 09:53:20 +0800</pubDate>
+      <link>https://github.com/shawn-bluce/eat</link>
+      <guid>https://github.com/shawn-bluce/eat</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/shawn-bluce/eat" target="_blank">shawn-bluce/eat: 一个吃 CPU 内存的怪兽。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/shawn-bluce/eat" target="_blank">https://github.com/shawn-bluce/eat</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>jtroo/kanata: 通过高级定制功能提高键盘舒适度和可用性</title>
-      <pubDate>Thu, 04 Jul 2024 10:05:20 +0800</pubDate>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/jtroo/kanata</link>
       <guid>https://github.com/jtroo/kanata</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jtroo/kanata" target="_blank">jtroo/kanata: 通过高级定制功能提高键盘舒适度和可用性</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>feschber/lan-mouse: 通过局域网共享鼠标和键盘</title>
-      <pubDate>Thu, 04 Jul 2024 10:05:20 +0800</pubDate>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/feschber/lan-mouse</link>
       <guid>https://github.com/feschber/lan-mouse</guid>
       <content:encoded><![CDATA[<a href="https://github.com/feschber/lan-mouse" target="_blank">feschber/lan-mouse: 通过局域网共享鼠标和键盘</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>savinmikhail/Comments-Density: 这是一款 PHP 代码质量工具，旨在提高代码注释的质量</title>
-      <pubDate>Thu, 04 Jul 2024 10:05:20 +0800</pubDate>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/savinmikhail/Comments-Density</link>
       <guid>https://github.com/savinmikhail/Comments-Density</guid>
       <content:encoded><![CDATA[<a href="https://github.com/savinmikhail/Comments-Density" target="_blank">savinmikhail/Comments-Density: 这是一款 PHP 代码质量工具，旨在提高代码注释的质量</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>DeGraciaMathieu/laravel-rapid-bind: 在 Laravel 容器中快速、轻松地创建单子</title>
-      <pubDate>Thu, 04 Jul 2024 10:05:20 +0800</pubDate>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/DeGraciaMathieu/laravel-rapid-bind</link>
       <guid>https://github.com/DeGraciaMathieu/laravel-rapid-bind</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DeGraciaMathieu/laravel-rapid-bind" target="_blank">DeGraciaMathieu/laravel-rapid-bind: 在 Laravel 容器中快速、轻松地创建单子</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>Lakshan-Madushanka/laravel-comments: 在 Laravel 项目中集成无缝评论功能</title>
-      <pubDate>Thu, 04 Jul 2024 10:05:20 +0800</pubDate>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Lakshan-Madushanka/laravel-comments</link>
       <guid>https://github.com/Lakshan-Madushanka/laravel-comments</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Lakshan-Madushanka/laravel-comments" target="_blank">Lakshan-Madushanka/laravel-comments: 在 Laravel 项目中集成无缝评论功能</a>
