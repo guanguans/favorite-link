@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-05T09:53:20+08:00</updated>
+  <updated>2024-07-05T09:55:31+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[shawn-bluce/eat: 一个吃 CPU 内存的怪兽。]]></title>
-    <published>2024-07-05T09:53:20+08:00</published>
-    <updated>2024-07-05T09:53:20+08:00</updated>
+    <published>2024-07-05T09:55:31+08:00</published>
+    <updated>2024-07-05T09:55:31+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/shawn-bluce/eat"/>
     <id>https://github.com/shawn-bluce/eat</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -23,6 +23,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/shawn-bluce/eat" target="_blank">https://github.com/shawn-bluce/eat</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！]]></title>
+    <published>2024-07-05T09:55:31+08:00</published>
+    <updated>2024-07-05T09:55:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="水合器/序列器)！](https://github.com/php-type-language/mapper"/>
+    <id>水合器/序列器)！](https://github.com/php-type-language/mapper</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E6%B0%B4%E5%90%88%E5%99%A8/%E5%BA%8F%E5%88%97%E5%99%A8)%EF%BC%81](https://github.com/php-type-language/mapper" target="_blank">php-type-language/mapper: 你见过的最好的 PHP 映射器
+(水合器/序列器)！</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E6%B0%B4%E5%90%88%E5%99%A8/%E5%BA%8F%E5%88%97%E5%99%A8)%EF%BC%81](https://github.com/php-type-language/mapper" target="_blank">水合器/序列器)！](https://github.com/php-type-language/mapper</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
