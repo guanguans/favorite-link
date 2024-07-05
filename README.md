@@ -20,6 +20,7 @@
 ### July 5, 2024 
 - [shawn-bluce/eat: 一个吃 CPU 内存的怪兽。](https://github.com/shawn-bluce/eat) 
 - [php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！](https://github.com/php-type-language/mapper) 
+- [yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo) 
 ### July 4, 2024 
 - [jtroo/kanata: 通过高级定制功能提高键盘舒适度和可用性](https://github.com/jtroo/kanata) 
 - [feschber/lan-mouse: 通过局域网共享鼠标和键盘](https://github.com/feschber/lan-mouse) 
