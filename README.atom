@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-05T09:55:31+08:00</updated>
+  <updated>2024-07-05T10:01:38+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[shawn-bluce/eat: 一个吃 CPU 内存的怪兽。]]></title>
-    <published>2024-07-05T09:55:31+08:00</published>
-    <updated>2024-07-05T09:55:31+08:00</updated>
+    <published>2024-07-05T10:01:38+08:00</published>
+    <updated>2024-07-05T10:01:38+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/shawn-bluce/eat"/>
     <id>https://github.com/shawn-bluce/eat</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！]]></title>
-    <published>2024-07-05T09:55:31+08:00</published>
-    <updated>2024-07-05T09:55:31+08:00</updated>
+    <published>2024-07-05T10:01:38+08:00</published>
+    <updated>2024-07-05T10:01:38+08:00</updated>
     <link rel="alternate" type="text/html" href="水合器/序列器)！](https://github.com/php-type-language/mapper"/>
     <id>水合器/序列器)！](https://github.com/php-type-language/mapper</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -40,6 +40,40 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="%E6%B0%B4%E5%90%88%E5%99%A8/%E5%BA%8F%E5%88%97%E5%99%A8)%EF%BC%81](https://github.com/php-type-language/mapper" target="_blank">水合器/序列器)！](https://github.com/php-type-language/mapper</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示]]></title>
+    <published>2024-07-05T10:01:38+08:00</published>
+    <updated>2024-07-05T10:01:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo"/>
+    <id>tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="tvOS)%20%E7%9A%84%20BiliBili%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%BC%94%E7%A4%BA](https://github.com/yichengchen/ATV-Bilibili-demo" target="_blank">yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的
+BiliBili 客户端演示</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="tvOS)%20%E7%9A%84%20BiliBili%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%BC%94%E7%A4%BA](https://github.com/yichengchen/ATV-Bilibili-demo" target="_blank">tvOS) 的 BiliBili
+客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[nowendwell/laravel-terms: 为项目添加条款和条件的工具]]></title>
+    <published>2024-07-05T10:01:38+08:00</published>
+    <updated>2024-07-05T10:01:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nowendwell/laravel-terms"/>
+    <id>https://github.com/nowendwell/laravel-terms</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nowendwell/laravel-terms" target="_blank">nowendwell/laravel-terms: 为项目添加条款和条件的工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nowendwell/laravel-terms" target="_blank">https://github.com/nowendwell/laravel-terms</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
