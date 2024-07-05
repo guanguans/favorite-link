@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 05 Jul 2024 10:01:38 +0800</pubDate>
+    <pubDate>Fri, 05 Jul 2024 10:10:02 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>shawn-bluce/eat: 一个吃 CPU 内存的怪兽。</title>
-      <pubDate>Fri, 05 Jul 2024 10:01:38 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 10:10:02 +0800</pubDate>
       <link>https://github.com/shawn-bluce/eat</link>
       <guid>https://github.com/shawn-bluce/eat</guid>
       <content:encoded><![CDATA[<a href="https://github.com/shawn-bluce/eat" target="_blank">shawn-bluce/eat: 一个吃 CPU 内存的怪兽。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！</title>
-      <pubDate>Fri, 05 Jul 2024 10:01:38 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 10:10:02 +0800</pubDate>
       <link>水合器/序列器)！](https://github.com/php-type-language/mapper</link>
       <guid isPermaLink="false">水合器/序列器)！](https://github.com/php-type-language/mapper</guid>
       <content:encoded><![CDATA[<a href="水合器/序列器)！](https://github.com/php-type-language/mapper" target="_blank">php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示</title>
-      <pubDate>Fri, 05 Jul 2024 10:01:38 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 10:10:02 +0800</pubDate>
       <link>tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</link>
       <guid isPermaLink="false">tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</guid>
       <content:encoded><![CDATA[<a href="tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo" target="_blank">yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示</a>
@@ -50,13 +50,26 @@
     </item>
     <item>
       <title>nowendwell/laravel-terms: 为项目添加条款和条件的工具</title>
-      <pubDate>Fri, 05 Jul 2024 10:01:38 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 10:10:02 +0800</pubDate>
       <link>https://github.com/nowendwell/laravel-terms</link>
       <guid>https://github.com/nowendwell/laravel-terms</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nowendwell/laravel-terms" target="_blank">nowendwell/laravel-terms: 为项目添加条款和条件的工具</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/nowendwell/laravel-terms" target="_blank">https://github.com/nowendwell/laravel-terms</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>permafrost-dev/php-code-search: 直接从 PHP 源代码中搜索函数和方法调用、变量赋值、类等内容。</title>
+      <pubDate>Fri, 05 Jul 2024 10:10:02 +0800</pubDate>
+      <link>https://github.com/permafrost-dev/php-code-search</link>
+      <guid>https://github.com/permafrost-dev/php-code-search</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/permafrost-dev/php-code-search" target="_blank">permafrost-dev/php-code-search: 直接从 PHP 源代码中搜索函数和方法调用、变量赋值、类等内容。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/permafrost-dev/php-code-search" target="_blank">https://github.com/permafrost-dev/php-code-search</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
