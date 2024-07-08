@@ -17,6 +17,9 @@
 
 
 
+
+### July 8, 2024 
+- [alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具](https://github.com/alienator88/Pearcleaner) 
 ### July 5, 2024 
 - [shawn-bluce/eat: 一个吃 CPU 内存的怪兽。](https://github.com/shawn-bluce/eat) 
 - [php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！](https://github.com/php-type-language/mapper) 
