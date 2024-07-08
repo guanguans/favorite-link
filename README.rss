@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 08 Jul 2024 09:45:00 +0800</pubDate>
+    <pubDate>Mon, 08 Jul 2024 10:01:16 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具</title>
-      <pubDate>Mon, 08 Jul 2024 09:45:00 +0800</pubDate>
+      <pubDate>Mon, 08 Jul 2024 10:01:16 +0800</pubDate>
       <link>https://github.com/alienator88/Pearcleaner</link>
       <guid>https://github.com/alienator88/Pearcleaner</guid>
       <content:encoded><![CDATA[<a href="https://github.com/alienator88/Pearcleaner" target="_blank">alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>ytake/phluxor: PHP 中灵活的参与者模型工具包，增强 PHP 生态系统的能力</title>
-      <pubDate>Mon, 08 Jul 2024 09:45:00 +0800</pubDate>
+      <pubDate>Mon, 08 Jul 2024 10:01:16 +0800</pubDate>
       <link>https://github.com/ytake/phluxor</link>
       <guid>https://github.com/ytake/phluxor</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ytake/phluxor" target="_blank">ytake/phluxor: PHP 中灵活的参与者模型工具包，增强 PHP 生态系统的能力</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/ytake/phluxor" target="_blank">https://github.com/ytake/phluxor</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>thedevdojo/auth: Auth 是一个即插即用的身份验证软件包，适用于任何 Laravel 应用程序。</title>
+      <pubDate>Mon, 08 Jul 2024 10:01:16 +0800</pubDate>
+      <link>https://github.com/thedevdojo/auth</link>
+      <guid>https://github.com/thedevdojo/auth</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/thedevdojo/auth" target="_blank">thedevdojo/auth: Auth 是一个即插即用的身份验证软件包，适用于任何 Laravel 应用程序。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/thedevdojo/auth" target="_blank">https://github.com/thedevdojo/auth</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
