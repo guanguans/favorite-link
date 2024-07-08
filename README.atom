@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-05T17:58:14+08:00</updated>
+  <updated>2024-07-08T09:35:57+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,26 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具]]></title>
+    <published>2024-07-08T09:35:57+08:00</published>
+    <updated>2024-07-08T09:35:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/alienator88/Pearcleaner"/>
+    <id>https://github.com/alienator88/Pearcleaner</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/alienator88/Pearcleaner" target="_blank">alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac
+应用程序清理工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/alienator88/Pearcleaner" target="_blank">https://github.com/alienator88/Pearcleaner</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[shawn-bluce/eat: 一个吃 CPU 内存的怪兽。]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/shawn-bluce/eat"/>
     <id>https://github.com/shawn-bluce/eat</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="水合器/序列器)！](https://github.com/php-type-language/mapper"/>
     <id>水合器/序列器)！](https://github.com/php-type-language/mapper</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +64,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo"/>
     <id>tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -65,8 +82,8 @@ BiliBili 客户端演示</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nowendwell/laravel-terms: 为项目添加条款和条件的工具]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/nowendwell/laravel-terms"/>
     <id>https://github.com/nowendwell/laravel-terms</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -81,8 +98,8 @@ BiliBili 客户端演示</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[permafrost-dev/php-code-search: 直接从 PHP 源代码中搜索函数和方法调用、变量赋值、类等内容。]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/permafrost-dev/php-code-search"/>
     <id>https://github.com/permafrost-dev/php-code-search</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -98,8 +115,8 @@ BiliBili 客户端演示</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/IonBazan/composer-diff"/>
     <id>https://github.com/IonBazan/composer-diff</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -115,8 +132,8 @@ BiliBili 客户端演示</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sanderdlm/chop: 通过 CLI 重置 OPcache 内容，无需重新加载 PHP-FPM]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/sanderdlm/chop"/>
     <id>https://github.com/sanderdlm/chop</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -131,8 +148,8 @@ BiliBili 客户端演示</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ZGGSONG/STranslate: WPF 开发的一款即开即用、即用即走的翻译、OCR 工具]]></title>
-    <published>2024-07-05T17:58:14+08:00</published>
-    <updated>2024-07-05T17:58:14+08:00</updated>
+    <published>2024-07-05T00:00:00+08:00</published>
+    <updated>2024-07-05T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ZGGSONG/STranslate"/>
     <id>https://github.com/ZGGSONG/STranslate</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">

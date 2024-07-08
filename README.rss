@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+    <pubDate>Mon, 08 Jul 2024 09:35:57 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具</title>
+      <pubDate>Mon, 08 Jul 2024 09:35:57 +0800</pubDate>
+      <link>https://github.com/alienator88/Pearcleaner</link>
+      <guid>https://github.com/alienator88/Pearcleaner</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/alienator88/Pearcleaner" target="_blank">alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/alienator88/Pearcleaner" target="_blank">https://github.com/alienator88/Pearcleaner</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shawn-bluce/eat: 一个吃 CPU 内存的怪兽。</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/shawn-bluce/eat</link>
       <guid>https://github.com/shawn-bluce/eat</guid>
       <content:encoded><![CDATA[<a href="https://github.com/shawn-bluce/eat" target="_blank">shawn-bluce/eat: 一个吃 CPU 内存的怪兽。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>水合器/序列器)！](https://github.com/php-type-language/mapper</link>
       <guid isPermaLink="false">水合器/序列器)！](https://github.com/php-type-language/mapper</guid>
       <content:encoded><![CDATA[<a href="水合器/序列器)！](https://github.com/php-type-language/mapper" target="_blank">php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</link>
       <guid isPermaLink="false">tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo</guid>
       <content:encoded><![CDATA[<a href="tvOS) 的 BiliBili 客户端演示](https://github.com/yichengchen/ATV-Bilibili-demo" target="_blank">yichengchen/ATV-Bilibili-demo: Apple TV (tvOS) 的 BiliBili 客户端演示</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>nowendwell/laravel-terms: 为项目添加条款和条件的工具</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/nowendwell/laravel-terms</link>
       <guid>https://github.com/nowendwell/laravel-terms</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nowendwell/laravel-terms" target="_blank">nowendwell/laravel-terms: 为项目添加条款和条件的工具</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>permafrost-dev/php-code-search: 直接从 PHP 源代码中搜索函数和方法调用、变量赋值、类等内容。</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/permafrost-dev/php-code-search</link>
       <guid>https://github.com/permafrost-dev/php-code-search</guid>
       <content:encoded><![CDATA[<a href="https://github.com/permafrost-dev/php-code-search" target="_blank">permafrost-dev/php-code-search: 直接从 PHP 源代码中搜索函数和方法调用、变量赋值、类等内容。</a>
@@ -76,7 +89,7 @@
     </item>
     <item>
       <title>IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/IonBazan/composer-diff</link>
       <guid>https://github.com/IonBazan/composer-diff</guid>
       <content:encoded><![CDATA[<a href="https://github.com/IonBazan/composer-diff" target="_blank">IonBazan/composer-diff: 比较 composer.lock 的更改并生成 Markdown 报告，以便在 PR 说明中使用。</a>
@@ -89,7 +102,7 @@
     </item>
     <item>
       <title>sanderdlm/chop: 通过 CLI 重置 OPcache 内容，无需重新加载 PHP-FPM</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/sanderdlm/chop</link>
       <guid>https://github.com/sanderdlm/chop</guid>
       <content:encoded><![CDATA[<a href="https://github.com/sanderdlm/chop" target="_blank">sanderdlm/chop: 通过 CLI 重置 OPcache 内容，无需重新加载 PHP-FPM</a>
@@ -102,7 +115,7 @@
     </item>
     <item>
       <title>ZGGSONG/STranslate: WPF 开发的一款即开即用、即用即走的翻译、OCR 工具</title>
-      <pubDate>Fri, 05 Jul 2024 17:58:14 +0800</pubDate>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ZGGSONG/STranslate</link>
       <guid>https://github.com/ZGGSONG/STranslate</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ZGGSONG/STranslate" target="_blank">ZGGSONG/STranslate: WPF 开发的一款即开即用、即用即走的翻译、OCR 工具</a>
