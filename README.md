@@ -22,6 +22,7 @@
 - [alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具](https://github.com/alienator88/Pearcleaner) 
 - [ytake/phluxor: PHP 中灵活的参与者模型工具包，增强 PHP 生态系统的能力](https://github.com/ytake/phluxor) 
 - [thedevdojo/auth: Auth 是一个即插即用的身份验证软件包，适用于任何 Laravel 应用程序。](https://github.com/thedevdojo/auth) 
+- [Lakr233/FixTim: 修复 macOS 上的每个运行时错误。](https://github.com/Lakr233/FixTim) 
 ### July 5, 2024 
 - [shawn-bluce/eat: 一个吃 CPU 内存的怪兽。](https://github.com/shawn-bluce/eat) 
 - [php-type-language/mapper: 你见过的最好的 PHP 映射器 (水合器/序列器)！](https://github.com/php-type-language/mapper) 
