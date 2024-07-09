@@ -21,6 +21,7 @@
 
 ### July 9, 2024 
 - [KoNekoD/supervisord-monitor: Supervisord 多服务器监控工具](https://github.com/KoNekoD/supervisord-monitor) 
+- [veeso/termscp: 功能丰富的终端用户界面文件传输和资源管理器，支持 SCP/SFTP/FTP/S3/SMB](https://github.com/veeso/termscp) 
 ### July 8, 2024 
 - [alienator88/Pearcleaner: 一款免费、源码可用且获得公平代码许可的 Mac 应用程序清理工具](https://github.com/alienator88/Pearcleaner) 
 - [ytake/phluxor: PHP 中灵活的参与者模型工具包，增强 PHP 生态系统的能力](https://github.com/ytake/phluxor) 
