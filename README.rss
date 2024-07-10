@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 09 Jul 2024 09:46:33 +0800</pubDate>
+    <pubDate>Wed, 10 Jul 2024 09:36:39 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。</title>
+      <pubDate>Wed, 10 Jul 2024 09:36:39 +0800</pubDate>
+      <link>https://github.com/loong/go-concurrency-exercises</link>
+      <guid>https://github.com/loong/go-concurrency-exercises</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/loong/go-concurrency-exercises" target="_blank">loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/loong/go-concurrency-exercises" target="_blank">https://github.com/loong/go-concurrency-exercises</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>KoNekoD/supervisord-monitor: Supervisord 多服务器监控工具</title>
-      <pubDate>Tue, 09 Jul 2024 09:46:33 +0800</pubDate>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/KoNekoD/supervisord-monitor</link>
       <guid>https://github.com/KoNekoD/supervisord-monitor</guid>
       <content:encoded><![CDATA[<a href="https://github.com/KoNekoD/supervisord-monitor" target="_blank">KoNekoD/supervisord-monitor: Supervisord 多服务器监控工具</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>veeso/termscp: 功能丰富的终端用户界面文件传输和资源管理器，支持 SCP/SFTP/FTP/S3/SMB</title>
-      <pubDate>Tue, 09 Jul 2024 09:46:33 +0800</pubDate>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/veeso/termscp</link>
       <guid>https://github.com/veeso/termscp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/veeso/termscp" target="_blank">veeso/termscp: 功能丰富的终端用户界面文件传输和资源管理器，支持 SCP/SFTP/FTP/S3/SMB</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>Lakr233/NotchDrop: 使用 MacBook 的凹槽 (如 Dynamic Island) 暂存文件和 AirDrop</title>
-      <pubDate>Tue, 09 Jul 2024 09:46:33 +0800</pubDate>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0800</pubDate>
       <link>如 Dynamic Island) 暂存文件和 AirDrop](https://github.com/Lakr233/NotchDrop</link>
       <guid isPermaLink="false">如 Dynamic Island) 暂存文件和 AirDrop](https://github.com/Lakr233/NotchDrop</guid>
       <content:encoded><![CDATA[<a href="如 Dynamic Island) 暂存文件和 AirDrop](https://github.com/Lakr233/NotchDrop" target="_blank">Lakr233/NotchDrop: 使用 MacBook 的凹槽 (如 Dynamic Island) 暂存文件和 AirDrop</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>gallonyin/worktool: 一款安全稳定的 Android 无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人</title>
-      <pubDate>Tue, 09 Jul 2024 09:46:33 +0800</pubDate>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/gallonyin/worktool</link>
       <guid>https://github.com/gallonyin/worktool</guid>
       <content:encoded><![CDATA[<a href="https://github.com/gallonyin/worktool" target="_blank">gallonyin/worktool: 一款安全稳定的 Android 无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人</a>
