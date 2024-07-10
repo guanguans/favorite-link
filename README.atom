@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-10T09:39:39+08:00</updated>
+  <updated>2024-07-10T09:59:00+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。]]></title>
-    <published>2024-07-10T09:39:39+08:00</published>
-    <updated>2024-07-10T09:39:39+08:00</updated>
+    <published>2024-07-10T09:59:00+08:00</published>
+    <updated>2024-07-10T09:59:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/loong/go-concurrency-exercises"/>
     <id>https://github.com/loong/go-concurrency-exercises</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@ loong/go-concurrency-exercises: Golang 并发模式练习。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bytedance/mockey: 简单易用的 golang 模拟库]]></title>
-    <published>2024-07-10T09:39:39+08:00</published>
-    <updated>2024-07-10T09:39:39+08:00</updated>
+    <published>2024-07-10T09:59:00+08:00</published>
+    <updated>2024-07-10T09:59:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/bytedance/mockey"/>
     <id>https://github.com/bytedance/mockey</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -40,6 +40,23 @@ loong/go-concurrency-exercises: Golang 并发模式练习。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/bytedance/mockey" target="_blank">https://github.com/bytedance/mockey</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。]]></title>
+    <published>2024-07-10T09:59:00+08:00</published>
+    <updated>2024-07-10T09:59:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/veeqtoh/secure-code"/>
+    <id>https://github.com/veeqtoh/secure-code</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/veeqtoh/secure-code" target="_blank">veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n
+位随机安全代码。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/veeqtoh/secure-code" target="_blank">https://github.com/veeqtoh/secure-code</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>

@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 10 Jul 2024 09:39:39 +0800</pubDate>
+    <pubDate>Wed, 10 Jul 2024 09:59:00 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。</title>
-      <pubDate>Wed, 10 Jul 2024 09:39:39 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 09:59:00 +0800</pubDate>
       <link>https://github.com/loong/go-concurrency-exercises</link>
       <guid>https://github.com/loong/go-concurrency-exercises</guid>
       <content:encoded><![CDATA[<a href="https://github.com/loong/go-concurrency-exercises" target="_blank">loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>bytedance/mockey: 简单易用的 golang 模拟库</title>
-      <pubDate>Wed, 10 Jul 2024 09:39:39 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 09:59:00 +0800</pubDate>
       <link>https://github.com/bytedance/mockey</link>
       <guid>https://github.com/bytedance/mockey</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bytedance/mockey" target="_blank">bytedance/mockey: 简单易用的 golang 模拟库</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/bytedance/mockey" target="_blank">https://github.com/bytedance/mockey</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。</title>
+      <pubDate>Wed, 10 Jul 2024 09:59:00 +0800</pubDate>
+      <link>https://github.com/veeqtoh/secure-code</link>
+      <guid>https://github.com/veeqtoh/secure-code</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/veeqtoh/secure-code" target="_blank">veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/veeqtoh/secure-code" target="_blank">https://github.com/veeqtoh/secure-code</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
