@@ -24,6 +24,7 @@
 - [loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。](https://github.com/loong/go-concurrency-exercises) 
 - [bytedance/mockey: 简单易用的 golang 模拟库](https://github.com/bytedance/mockey) 
 - [veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。](https://github.com/veeqtoh/secure-code) 
+- [salahhusa9/laravel-geetest-captcha: 适用于 Laravel 9 10 11 的 Laravel GeeTest Captcha](https://github.com/salahhusa9/laravel-geetest-captcha) 
 ### July 9, 2024 
 - [KoNekoD/supervisord-monitor: Supervisord 多服务器监控工具](https://github.com/KoNekoD/supervisord-monitor) 
 - [veeso/termscp: 功能丰富的终端用户界面文件传输和资源管理器，支持 SCP/SFTP/FTP/S3/SMB](https://github.com/veeso/termscp) 
