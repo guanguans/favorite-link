@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-11T10:40:39+08:00</updated>
+  <updated>2024-07-11T11:12:48+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。]]></title>
-    <published>2024-07-11T10:40:39+08:00</published>
-    <updated>2024-07-11T10:40:39+08:00</updated>
+    <published>2024-07-11T11:12:48+08:00</published>
+    <updated>2024-07-11T11:12:48+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ringlesoft/laravel-process-approval"/>
     <id>https://github.com/ringlesoft/laravel-process-approval</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -32,8 +32,8 @@ Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[theshreyanshpanchal/atlas: Laravel 软件包为您的下一个项目提供全面的全球数据]]></title>
-    <published>2024-07-11T10:40:39+08:00</published>
-    <updated>2024-07-11T10:40:39+08:00</updated>
+    <published>2024-07-11T11:12:48+08:00</published>
+    <updated>2024-07-11T11:12:48+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/theshreyanshpanchal/atlas"/>
     <id>https://github.com/theshreyanshpanchal/atlas</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -42,6 +42,23 @@ Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/theshreyanshpanchal/atlas" target="_blank">https://github.com/theshreyanshpanchal/atlas</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[kargnas/laravel-ai-translator: 针对 Laravel 语言文件的人工智能翻译工具]]></title>
+    <published>2024-07-11T11:12:48+08:00</published>
+    <updated>2024-07-11T11:12:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/kargnas/laravel-ai-translator"/>
+    <id>https://github.com/kargnas/laravel-ai-translator</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/kargnas/laravel-ai-translator" target="_blank">kargnas/laravel-ai-translator: 针对 Laravel
+语言文件的人工智能翻译工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/kargnas/laravel-ai-translator" target="_blank">https://github.com/kargnas/laravel-ai-translator</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
