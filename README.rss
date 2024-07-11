@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+    <pubDate>Thu, 11 Jul 2024 10:34:32 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。</title>
+      <pubDate>Thu, 11 Jul 2024 10:34:32 +0800</pubDate>
+      <link>https://github.com/ringlesoft/laravel-process-approval</link>
+      <guid>https://github.com/ringlesoft/laravel-process-approval</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ringlesoft/laravel-process-approval" target="_blank">ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ringlesoft/laravel-process-approval" target="_blank">https://github.com/ringlesoft/laravel-process-approval</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。</title>
-      <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/loong/go-concurrency-exercises</link>
       <guid>https://github.com/loong/go-concurrency-exercises</guid>
       <content:encoded><![CDATA[<a href="https://github.com/loong/go-concurrency-exercises" target="_blank">loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>bytedance/mockey: 简单易用的 golang 模拟库</title>
-      <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/bytedance/mockey</link>
       <guid>https://github.com/bytedance/mockey</guid>
       <content:encoded><![CDATA[<a href="https://github.com/bytedance/mockey" target="_blank">bytedance/mockey: 简单易用的 golang 模拟库</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。</title>
-      <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/veeqtoh/secure-code</link>
       <guid>https://github.com/veeqtoh/secure-code</guid>
       <content:encoded><![CDATA[<a href="https://github.com/veeqtoh/secure-code" target="_blank">veeqtoh/secure-code: 一个 Laravel 软件包，用于生成和管理应用程序的 n 位随机安全代码。</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>salahhusa9/laravel-geetest-captcha: 适用于 Laravel 9 10 11 的 Laravel GeeTest Captcha</title>
-      <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/salahhusa9/laravel-geetest-captcha</link>
       <guid>https://github.com/salahhusa9/laravel-geetest-captcha</guid>
       <content:encoded><![CDATA[<a href="https://github.com/salahhusa9/laravel-geetest-captcha" target="_blank">salahhusa9/laravel-geetest-captcha: 适用于 Laravel 9 10 11 的 Laravel GeeTest Captcha</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>next-build/database-viewer: 用于查看数据库的 Laravel 软件包</title>
-      <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/next-build/database-viewer</link>
       <guid>https://github.com/next-build/database-viewer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/next-build/database-viewer" target="_blank">next-build/database-viewer: 用于查看数据库的 Laravel 软件包</a>
@@ -76,7 +89,7 @@
     </item>
     <item>
       <title>axyr/laravel-email-viewer: 适用于 Laravel 的简单电子邮件查看器</title>
-      <pubDate>Wed, 10 Jul 2024 10:11:53 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/axyr/laravel-email-viewer</link>
       <guid>https://github.com/axyr/laravel-email-viewer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/axyr/laravel-email-viewer" target="_blank">axyr/laravel-email-viewer: 适用于 Laravel 的简单电子邮件查看器</a>
