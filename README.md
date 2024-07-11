@@ -24,6 +24,7 @@
 ### July 11, 2024 
 - [ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。](https://github.com/ringlesoft/laravel-process-approval) 
 - [theshreyanshpanchal/atlas: Laravel 软件包为您的下一个项目提供全面的全球数据](https://github.com/theshreyanshpanchal/atlas) 
+- [kargnas/laravel-ai-translator: 针对 Laravel 语言文件的人工智能翻译工具](https://github.com/kargnas/laravel-ai-translator) 
 ### July 10, 2024 
 - [loong/go-concurrency-exercises: loong/go-concurrency-exercises: Golang 并发模式练习。](https://github.com/loong/go-concurrency-exercises) 
 - [bytedance/mockey: 简单易用的 golang 模拟库](https://github.com/bytedance/mockey) 
