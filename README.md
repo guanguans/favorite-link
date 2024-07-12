@@ -27,6 +27,7 @@
 - [cyppe/laravel-batch-jobs-redis-driver: Laravel 批量作业 Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver) 
 - [osteel/openapi-httpfoundation-testing: 根据 OpenAPI (3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing) 
 - [intonate/tinker-zero: 为您的 laravel-zero 应用程序桥接 laravel/tinker](https://github.com/intonate/tinker-zero) 
+- [ayangweb/EcoPaste: 一款开源的跨平台剪切板管理工具。](https://github.com/ayangweb/EcoPaste) 
 ### July 11, 2024 
 - [ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。](https://github.com/ringlesoft/laravel-process-approval) 
 - [theshreyanshpanchal/atlas: Laravel 软件包为您的下一个项目提供全面的全球数据](https://github.com/theshreyanshpanchal/atlas) 
