@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 12 Jul 2024 09:52:20 +0800</pubDate>
+    <pubDate>Fri, 12 Jul 2024 10:00:37 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>go-gremlins/gremlins: Go 的突变测试工具</title>
-      <pubDate>Fri, 12 Jul 2024 09:52:20 +0800</pubDate>
+      <pubDate>Fri, 12 Jul 2024 10:00:37 +0800</pubDate>
       <link>https://github.com/go-gremlins/gremlins</link>
       <guid>https://github.com/go-gremlins/gremlins</guid>
       <content:encoded><![CDATA[<a href="https://github.com/go-gremlins/gremlins" target="_blank">go-gremlins/gremlins: Go 的突变测试工具</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>cyppe/laravel-batch-jobs-redis-driver: Laravel 批量作业 Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。</title>
-      <pubDate>Fri, 12 Jul 2024 09:52:20 +0800</pubDate>
+      <pubDate>Fri, 12 Jul 2024 10:00:37 +0800</pubDate>
       <link>Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver</link>
       <guid isPermaLink="false">Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver</guid>
       <content:encoded><![CDATA[<a href="Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver" target="_blank">cyppe/laravel-batch-jobs-redis-driver: Laravel 批量作业 Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>osteel/openapi-httpfoundation-testing: 根据 OpenAPI (3+) 定义验证 HttpFoundation 请求和响应</title>
-      <pubDate>Fri, 12 Jul 2024 09:52:20 +0800</pubDate>
+      <pubDate>Fri, 12 Jul 2024 10:00:37 +0800</pubDate>
       <link>3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing</link>
       <guid isPermaLink="false">3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing</guid>
       <content:encoded><![CDATA[<a href="3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing" target="_blank">osteel/openapi-httpfoundation-testing: 根据 OpenAPI (3+) 定义验证 HttpFoundation 请求和响应</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing" target="_blank">3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>intonate/tinker-zero: 为您的 laravel-zero 应用程序桥接 laravel/tinker</title>
+      <pubDate>Fri, 12 Jul 2024 10:00:37 +0800</pubDate>
+      <link>https://github.com/intonate/tinker-zero</link>
+      <guid>https://github.com/intonate/tinker-zero</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/intonate/tinker-zero" target="_blank">intonate/tinker-zero: 为您的 laravel-zero 应用程序桥接 laravel/tinker</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/intonate/tinker-zero" target="_blank">https://github.com/intonate/tinker-zero</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
