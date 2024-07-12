@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-12T10:00:37+08:00</updated>
+  <updated>2024-07-12T17:26:21+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[go-gremlins/gremlins: Go 的突变测试工具]]></title>
-    <published>2024-07-12T10:00:37+08:00</published>
-    <updated>2024-07-12T10:00:37+08:00</updated>
+    <published>2024-07-12T17:26:21+08:00</published>
+    <updated>2024-07-12T17:26:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/go-gremlins/gremlins"/>
     <id>https://github.com/go-gremlins/gremlins</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cyppe/laravel-batch-jobs-redis-driver: Laravel 批量作业 Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。]]></title>
-    <published>2024-07-12T10:00:37+08:00</published>
-    <updated>2024-07-12T10:00:37+08:00</updated>
+    <published>2024-07-12T17:26:21+08:00</published>
+    <updated>2024-07-12T17:26:21+08:00</updated>
     <link rel="alternate" type="text/html" href="Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver"/>
     <id>Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -49,8 +49,8 @@ Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[osteel/openapi-httpfoundation-testing: 根据 OpenAPI (3+) 定义验证 HttpFoundation 请求和响应]]></title>
-    <published>2024-07-12T10:00:37+08:00</published>
-    <updated>2024-07-12T10:00:37+08:00</updated>
+    <published>2024-07-12T17:26:21+08:00</published>
+    <updated>2024-07-12T17:26:21+08:00</updated>
     <link rel="alternate" type="text/html" href="3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing"/>
     <id>3+) 定义验证 HttpFoundation 请求和响应](https://github.com/osteel/openapi-httpfoundation-testing</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -67,8 +67,8 @@ Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[intonate/tinker-zero: 为您的 laravel-zero 应用程序桥接 laravel/tinker]]></title>
-    <published>2024-07-12T10:00:37+08:00</published>
-    <updated>2024-07-12T10:00:37+08:00</updated>
+    <published>2024-07-12T17:26:21+08:00</published>
+    <updated>2024-07-12T17:26:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/intonate/tinker-zero"/>
     <id>https://github.com/intonate/tinker-zero</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -77,6 +77,22 @@ laravel/tinker</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/intonate/tinker-zero" target="_blank">https://github.com/intonate/tinker-zero</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ayangweb/EcoPaste: 一款开源的跨平台剪切板管理工具。]]></title>
+    <published>2024-07-12T17:26:21+08:00</published>
+    <updated>2024-07-12T17:26:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ayangweb/EcoPaste"/>
+    <id>https://github.com/ayangweb/EcoPaste</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ayangweb/EcoPaste" target="_blank">ayangweb/EcoPaste: 一款开源的跨平台剪切板管理工具。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ayangweb/EcoPaste" target="_blank">https://github.com/ayangweb/EcoPaste</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
