@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 11 Jul 2024 11:12:48 +0800</pubDate>
+    <pubDate>Fri, 12 Jul 2024 09:38:18 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>go-gremlins/gremlins: Go 的突变测试工具</title>
+      <pubDate>Fri, 12 Jul 2024 09:38:18 +0800</pubDate>
+      <link>https://github.com/go-gremlins/gremlins</link>
+      <guid>https://github.com/go-gremlins/gremlins</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/go-gremlins/gremlins" target="_blank">go-gremlins/gremlins: Go 的突变测试工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/go-gremlins/gremlins" target="_blank">https://github.com/go-gremlins/gremlins</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。</title>
-      <pubDate>Thu, 11 Jul 2024 11:12:48 +0800</pubDate>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ringlesoft/laravel-process-approval</link>
       <guid>https://github.com/ringlesoft/laravel-process-approval</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ringlesoft/laravel-process-approval" target="_blank">ringlesoft/laravel-process-approval: Laravel Process Approval 是一个 Laravel 软件包，它能让你轻松地在 Laravel 应用程序中添加审批功能。它允许你为任何模型定义审批工作流，并为管理审批提供了简单易用的 API/UI。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>theshreyanshpanchal/atlas: Laravel 软件包为您的下一个项目提供全面的全球数据</title>
-      <pubDate>Thu, 11 Jul 2024 11:12:48 +0800</pubDate>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/theshreyanshpanchal/atlas</link>
       <guid>https://github.com/theshreyanshpanchal/atlas</guid>
       <content:encoded><![CDATA[<a href="https://github.com/theshreyanshpanchal/atlas" target="_blank">theshreyanshpanchal/atlas: Laravel 软件包为您的下一个项目提供全面的全球数据</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>kargnas/laravel-ai-translator: 针对 Laravel 语言文件的人工智能翻译工具</title>
-      <pubDate>Thu, 11 Jul 2024 11:12:48 +0800</pubDate>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/kargnas/laravel-ai-translator</link>
       <guid>https://github.com/kargnas/laravel-ai-translator</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kargnas/laravel-ai-translator" target="_blank">kargnas/laravel-ai-translator: 针对 Laravel 语言文件的人工智能翻译工具</a>
