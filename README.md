@@ -28,6 +28,7 @@
 - [tombonez/noTunes: 这是一款简单的 macOS 应用程序，可阻止 iTunes 或 Apple Music 启动。](https://github.com/tombonez/noTunes) 
 - [picosh/git-pr: 最简单的 Git 协作工具](https://github.com/picosh/git-pr) 
 - [m3m0r7/php-os: 用 PHP 编写的操作系统](https://github.com/m3m0r7/php-os) 
+- [chaitin/SafeLine: 网络安全网关可充当反向代理，保护网站免受攻击和利用。](https://github.com/chaitin/SafeLine) 
 ### July 12, 2024 
 - [go-gremlins/gremlins: Go 的突变测试工具](https://github.com/go-gremlins/gremlins) 
 - [cyppe/laravel-batch-jobs-redis-driver: Laravel 批量作业 Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver) 
