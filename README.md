@@ -27,6 +27,7 @@
 - [WatheqAlshowaiter/model-required-fields: 获取所需的模型字段，不包括主键、可为 null 的字段和具有默认值的字段。](https://github.com/WatheqAlshowaiter/model-required-fields) 
 - [tombonez/noTunes: 这是一款简单的 macOS 应用程序，可阻止 iTunes 或 Apple Music 启动。](https://github.com/tombonez/noTunes) 
 - [picosh/git-pr: 最简单的 Git 协作工具](https://github.com/picosh/git-pr) 
+- [m3m0r7/php-os: 用 PHP 编写的操作系统](https://github.com/m3m0r7/php-os) 
 ### July 12, 2024 
 - [go-gremlins/gremlins: Go 的突变测试工具](https://github.com/go-gremlins/gremlins) 
 - [cyppe/laravel-batch-jobs-redis-driver: Laravel 批量作业 Redis 驱动程序 (Laravel Batch Jobs Redis Driver) 为在 Laravel 中处理批量作业提供了一个性能优化的替代方案。](https://github.com/cyppe/laravel-batch-jobs-redis-driver) 
