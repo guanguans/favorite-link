@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-15T15:05:51+08:00</updated>
+  <updated>2024-07-16T09:35:55+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。]]></title>
+    <published>2024-07-16T09:35:55+08:00</published>
+    <updated>2024-07-16T09:35:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Lakr233/Asspp"/>
+    <id>https://github.com/Lakr233/Asspp</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Lakr233/Asspp" target="_blank">Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Lakr233/Asspp" target="_blank">https://github.com/Lakr233/Asspp</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[WatheqAlshowaiter/model-required-fields: 获取所需的模型字段，不包括主键、可为 null 的字段和具有默认值的字段。]]></title>
-    <published>2024-07-15T15:05:51+08:00</published>
-    <updated>2024-07-15T15:05:51+08:00</updated>
+    <published>2024-07-15T00:00:00+08:00</published>
+    <updated>2024-07-15T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/WatheqAlshowaiter/model-required-fields"/>
     <id>https://github.com/WatheqAlshowaiter/model-required-fields</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tombonez/noTunes: 这是一款简单的 macOS 应用程序，可阻止 iTunes 或 Apple Music 启动。]]></title>
-    <published>2024-07-15T15:05:51+08:00</published>
-    <updated>2024-07-15T15:05:51+08:00</updated>
+    <published>2024-07-15T00:00:00+08:00</published>
+    <updated>2024-07-15T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/tombonez/noTunes"/>
     <id>https://github.com/tombonez/noTunes</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -48,8 +64,8 @@ Music 启动。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[picosh/git-pr: 最简单的 Git 协作工具]]></title>
-    <published>2024-07-15T15:05:51+08:00</published>
-    <updated>2024-07-15T15:05:51+08:00</updated>
+    <published>2024-07-15T00:00:00+08:00</published>
+    <updated>2024-07-15T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/picosh/git-pr"/>
     <id>https://github.com/picosh/git-pr</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -64,8 +80,8 @@ Music 启动。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[m3m0r7/php-os: 用 PHP 编写的操作系统]]></title>
-    <published>2024-07-15T15:05:51+08:00</published>
-    <updated>2024-07-15T15:05:51+08:00</updated>
+    <published>2024-07-15T00:00:00+08:00</published>
+    <updated>2024-07-15T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/m3m0r7/php-os"/>
     <id>https://github.com/m3m0r7/php-os</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -80,8 +96,8 @@ Music 启动。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[chaitin/SafeLine: 网络安全网关可充当反向代理，保护网站免受攻击和利用。]]></title>
-    <published>2024-07-15T15:05:51+08:00</published>
-    <updated>2024-07-15T15:05:51+08:00</updated>
+    <published>2024-07-15T00:00:00+08:00</published>
+    <updated>2024-07-15T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/chaitin/SafeLine"/>
     <id>https://github.com/chaitin/SafeLine</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">

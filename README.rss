@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 15 Jul 2024 15:05:51 +0800</pubDate>
+    <pubDate>Tue, 16 Jul 2024 09:35:55 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</title>
+      <pubDate>Tue, 16 Jul 2024 09:35:55 +0800</pubDate>
+      <link>https://github.com/Lakr233/Asspp</link>
+      <guid>https://github.com/Lakr233/Asspp</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Lakr233/Asspp" target="_blank">Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Lakr233/Asspp" target="_blank">https://github.com/Lakr233/Asspp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>WatheqAlshowaiter/model-required-fields: 获取所需的模型字段，不包括主键、可为 null 的字段和具有默认值的字段。</title>
-      <pubDate>Mon, 15 Jul 2024 15:05:51 +0800</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/WatheqAlshowaiter/model-required-fields</link>
       <guid>https://github.com/WatheqAlshowaiter/model-required-fields</guid>
       <content:encoded><![CDATA[<a href="https://github.com/WatheqAlshowaiter/model-required-fields" target="_blank">WatheqAlshowaiter/model-required-fields: 获取所需的模型字段，不包括主键、可为 null 的字段和具有默认值的字段。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>tombonez/noTunes: 这是一款简单的 macOS 应用程序，可阻止 iTunes 或 Apple Music 启动。</title>
-      <pubDate>Mon, 15 Jul 2024 15:05:51 +0800</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/tombonez/noTunes</link>
       <guid>https://github.com/tombonez/noTunes</guid>
       <content:encoded><![CDATA[<a href="https://github.com/tombonez/noTunes" target="_blank">tombonez/noTunes: 这是一款简单的 macOS 应用程序，可阻止 iTunes 或 Apple Music 启动。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>picosh/git-pr: 最简单的 Git 协作工具</title>
-      <pubDate>Mon, 15 Jul 2024 15:05:51 +0800</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/picosh/git-pr</link>
       <guid>https://github.com/picosh/git-pr</guid>
       <content:encoded><![CDATA[<a href="https://github.com/picosh/git-pr" target="_blank">picosh/git-pr: 最简单的 Git 协作工具</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>m3m0r7/php-os: 用 PHP 编写的操作系统</title>
-      <pubDate>Mon, 15 Jul 2024 15:05:51 +0800</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/m3m0r7/php-os</link>
       <guid>https://github.com/m3m0r7/php-os</guid>
       <content:encoded><![CDATA[<a href="https://github.com/m3m0r7/php-os" target="_blank">m3m0r7/php-os: 用 PHP 编写的操作系统</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>chaitin/SafeLine: 网络安全网关可充当反向代理，保护网站免受攻击和利用。</title>
-      <pubDate>Mon, 15 Jul 2024 15:05:51 +0800</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/chaitin/SafeLine</link>
       <guid>https://github.com/chaitin/SafeLine</guid>
       <content:encoded><![CDATA[<a href="https://github.com/chaitin/SafeLine" target="_blank">chaitin/SafeLine: 网络安全网关可充当反向代理，保护网站免受攻击和利用。</a>
