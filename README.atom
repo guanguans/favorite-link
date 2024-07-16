@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-16T09:36:58+08:00</updated>
+  <updated>2024-07-16T10:00:21+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。]]></title>
-    <published>2024-07-16T09:36:58+08:00</published>
-    <updated>2024-07-16T09:36:58+08:00</updated>
+    <published>2024-07-16T10:00:21+08:00</published>
+    <updated>2024-07-16T10:00:21+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Lakr233/Asspp"/>
     <id>https://github.com/Lakr233/Asspp</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Lessica/TrollRecorder: (i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。]]></title>
-    <published>2024-07-16T09:36:58+08:00</published>
-    <updated>2024-07-16T09:36:58+08:00</updated>
+    <published>2024-07-16T10:00:21+08:00</published>
+    <updated>2024-07-16T10:00:21+08:00</updated>
     <link rel="alternate" type="text/html" href="i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder"/>
     <id>i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -41,6 +41,23 @@ TrollStore 的最好的电话录音软件。</xhtml:a>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="i18n/CLI)%20%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%EF%BC%8C%E4%BD%86%E5%8D%B4%E6%98%AF%E5%B8%A6%E6%9C%89%20TrollStore%20%E7%9A%84%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%B5%E8%AF%9D%E5%BD%95%E9%9F%B3%E8%BD%AF%E4%BB%B6%E3%80%82](https://github.com/Lessica/TrollRecorder" target="_blank">i18n/CLI) 不是第一个，但却是带有 TrollStore
 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[DaltonMcCleery/remote-models: 有时您想使用 Eloquent，但该数据位于不同应用程序的另一个数据库中。]]></title>
+    <published>2024-07-16T10:00:21+08:00</published>
+    <updated>2024-07-16T10:00:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/DaltonMcCleery/remote-models"/>
+    <id>https://github.com/DaltonMcCleery/remote-models</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/DaltonMcCleery/remote-models" target="_blank">DaltonMcCleery/remote-models: 有时您想使用
+Eloquent，但该数据位于不同应用程序的另一个数据库中。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/DaltonMcCleery/remote-models" target="_blank">https://github.com/DaltonMcCleery/remote-models</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
