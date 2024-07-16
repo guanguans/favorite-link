@@ -23,6 +23,9 @@
 
 
 
+
+### July 16, 2024 
+- [Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。](https://github.com/Lakr233/Asspp) 
 ### July 15, 2024 
 - [WatheqAlshowaiter/model-required-fields: 获取所需的模型字段，不包括主键、可为 null 的字段和具有默认值的字段。](https://github.com/WatheqAlshowaiter/model-required-fields) 
 - [tombonez/noTunes: 这是一款简单的 macOS 应用程序，可阻止 iTunes 或 Apple Music 启动。](https://github.com/tombonez/noTunes) 
