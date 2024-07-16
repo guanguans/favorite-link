@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 16 Jul 2024 09:35:55 +0800</pubDate>
+    <pubDate>Tue, 16 Jul 2024 09:36:58 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</title>
-      <pubDate>Tue, 16 Jul 2024 09:35:55 +0800</pubDate>
+      <pubDate>Tue, 16 Jul 2024 09:36:58 +0800</pubDate>
       <link>https://github.com/Lakr233/Asspp</link>
       <guid>https://github.com/Lakr233/Asspp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Lakr233/Asspp" target="_blank">Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Lakr233/Asspp" target="_blank">https://github.com/Lakr233/Asspp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Lessica/TrollRecorder: (i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。</title>
+      <pubDate>Tue, 16 Jul 2024 09:36:58 +0800</pubDate>
+      <link>i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</link>
+      <guid isPermaLink="false">i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</guid>
+      <content:encoded><![CDATA[<a href="i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder" target="_blank">Lessica/TrollRecorder: (i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder" target="_blank">i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
