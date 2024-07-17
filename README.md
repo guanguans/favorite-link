@@ -27,6 +27,7 @@
 
 ### July 17, 2024 
 - [gitleaks/gitleaks: 使用 Gitleaks 🔑 保护和发现密钥](https://github.com/gitleaks/gitleaks) 
+- [wflixu/RClick: Macos Finder 上下文菜单](https://github.com/wflixu/RClick) 
 ### July 16, 2024 
 - [Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。](https://github.com/Lakr233/Asspp) 
 - [Lessica/TrollRecorder: (i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder) 
