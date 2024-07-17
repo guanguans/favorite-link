@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 16 Jul 2024 10:00:21 +0800</pubDate>
+    <pubDate>Wed, 17 Jul 2024 10:40:59 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>gitleaks/gitleaks: 使用 Gitleaks 🔑 保护和发现密钥</title>
+      <pubDate>Wed, 17 Jul 2024 10:40:59 +0800</pubDate>
+      <link>https://github.com/gitleaks/gitleaks</link>
+      <guid>https://github.com/gitleaks/gitleaks</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gitleaks/gitleaks" target="_blank">gitleaks/gitleaks: 使用 Gitleaks 🔑 保护和发现密钥</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/gitleaks/gitleaks" target="_blank">https://github.com/gitleaks/gitleaks</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</title>
-      <pubDate>Tue, 16 Jul 2024 10:00:21 +0800</pubDate>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Lakr233/Asspp</link>
       <guid>https://github.com/Lakr233/Asspp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Lakr233/Asspp" target="_blank">Lakr233/Asspp: 就是有多账号支持的 App Store 辅助工具。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>Lessica/TrollRecorder: (i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。</title>
-      <pubDate>Tue, 16 Jul 2024 10:00:21 +0800</pubDate>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0800</pubDate>
       <link>i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</link>
       <guid isPermaLink="false">i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder</guid>
       <content:encoded><![CDATA[<a href="i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。](https://github.com/Lessica/TrollRecorder" target="_blank">Lessica/TrollRecorder: (i18n/CLI) 不是第一个，但却是带有 TrollStore 的最好的电话录音软件。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>DaltonMcCleery/remote-models: 有时您想使用 Eloquent，但该数据位于不同应用程序的另一个数据库中。</title>
-      <pubDate>Tue, 16 Jul 2024 10:00:21 +0800</pubDate>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/DaltonMcCleery/remote-models</link>
       <guid>https://github.com/DaltonMcCleery/remote-models</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DaltonMcCleery/remote-models" target="_blank">DaltonMcCleery/remote-models: 有时您想使用 Eloquent，但该数据位于不同应用程序的另一个数据库中。</a>
