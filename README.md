@@ -25,6 +25,9 @@
 
 
 
+
+### July 18, 2024 
+- [HiEventsDev/Hi.Events: 开源活动管理和门票销售平台 🎟️](https://github.com/HiEventsDev/hi.events) 
 ### July 17, 2024 
 - [gitleaks/gitleaks: 使用 Gitleaks 🔑 保护和发现密钥](https://github.com/gitleaks/gitleaks) 
 - [wflixu/RClick: Macos Finder 上下文菜单](https://github.com/wflixu/RClick) 
