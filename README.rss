@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 19 Jul 2024 17:29:57 +0800</pubDate>
+    <pubDate>Fri, 19 Jul 2024 17:32:12 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Raphire/Win11Debloat: 这是一个简单易用的 PowerShell 脚本，可用于从 windows 中移除预装的应用程序、禁用遥测功能、从 windows 搜索中移除必应，以及执行其他各种更改来整理和改善您的 windows 体验。</title>
-      <pubDate>Fri, 19 Jul 2024 17:29:57 +0800</pubDate>
+      <pubDate>Fri, 19 Jul 2024 17:32:12 +0800</pubDate>
       <link>https://github.com/Raphire/Win11Debloat</link>
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Raphire/Win11Debloat" target="_blank">Raphire/Win11Debloat: 这是一个简单易用的 PowerShell 脚本，可用于从 windows 中移除预装的应用程序、禁用遥测功能、从 windows 搜索中移除必应，以及执行其他各种更改来整理和改善您的 windows 体验。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>kattouf/ProgressLine: 以紧凑的单行格式跟踪命令进度</title>
-      <pubDate>Fri, 19 Jul 2024 17:29:57 +0800</pubDate>
+      <pubDate>Fri, 19 Jul 2024 17:32:12 +0800</pubDate>
       <link>https://github.com/kattouf/ProgressLine</link>
       <guid>https://github.com/kattouf/ProgressLine</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kattouf/ProgressLine" target="_blank">kattouf/ProgressLine: 以紧凑的单行格式跟踪命令进度</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/kattouf/ProgressLine" target="_blank">https://github.com/kattouf/ProgressLine</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>dantsec/rand-ua: 这是一个纯 PHP 库，可为不同的浏览器和设备生成随机的用户代理，让您更轻松地在应用程序中模拟各种用户环境！</title>
+      <pubDate>Fri, 19 Jul 2024 17:32:12 +0800</pubDate>
+      <link>https://github.com/dantsec/rand-ua</link>
+      <guid>https://github.com/dantsec/rand-ua</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/dantsec/rand-ua" target="_blank">dantsec/rand-ua: 这是一个纯 PHP 库，可为不同的浏览器和设备生成随机的用户代理，让您更轻松地在应用程序中模拟各种用户环境！</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/dantsec/rand-ua" target="_blank">https://github.com/dantsec/rand-ua</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
