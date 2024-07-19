@@ -30,6 +30,7 @@
 ### July 19, 2024 
 - [Raphire/Win11Debloat: 这是一个简单易用的 PowerShell 脚本，可用于从 windows 中移除预装的应用程序、禁用遥测功能、从 windows 搜索中移除必应，以及执行其他各种更改来整理和改善您的 windows 体验。](https://github.com/Raphire/Win11Debloat) 
 - [kattouf/ProgressLine: 以紧凑的单行格式跟踪命令进度](https://github.com/kattouf/ProgressLine) 
+- [dantsec/rand-ua: 这是一个纯 PHP 库，可为不同的浏览器和设备生成随机的用户代理，让您更轻松地在应用程序中模拟各种用户环境！](https://github.com/dantsec/rand-ua) 
 ### July 18, 2024 
 - [HiEventsDev/Hi.Events: 开源活动管理和门票销售平台 🎟️](https://github.com/HiEventsDev/hi.events) 
 ### July 17, 2024 
