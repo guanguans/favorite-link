@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 22 Jul 2024 09:41:12 +0800</pubDate>
+    <pubDate>Mon, 22 Jul 2024 09:45:44 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>PHPExpertsInc/SimpleDTO: 一个易于使用的 PHP 通用 DTO 包。</title>
-      <pubDate>Mon, 22 Jul 2024 09:41:12 +0800</pubDate>
+      <pubDate>Mon, 22 Jul 2024 09:45:44 +0800</pubDate>
       <link>https://github.com/PHPExpertsInc/SimpleDTO</link>
       <guid>https://github.com/PHPExpertsInc/SimpleDTO</guid>
       <content:encoded><![CDATA[<a href="https://github.com/PHPExpertsInc/SimpleDTO" target="_blank">PHPExpertsInc/SimpleDTO: 一个易于使用的 PHP 通用 DTO 包。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>m3m0r7/async-promise: 用 PHP 编写的异步 Promise 库</title>
-      <pubDate>Mon, 22 Jul 2024 09:41:12 +0800</pubDate>
+      <pubDate>Mon, 22 Jul 2024 09:45:44 +0800</pubDate>
       <link>https://github.com/m3m0r7/async-promise</link>
       <guid>https://github.com/m3m0r7/async-promise</guid>
       <content:encoded><![CDATA[<a href="https://github.com/m3m0r7/async-promise" target="_blank">m3m0r7/async-promise: 用 PHP 编写的异步 Promise 库</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/m3m0r7/async-promise" target="_blank">https://github.com/m3m0r7/async-promise</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>academico-sis/academico: 基于 Lavarel 的中小学管理平台</title>
+      <pubDate>Mon, 22 Jul 2024 09:45:44 +0800</pubDate>
+      <link>https://github.com/academico-sis/academico</link>
+      <guid>https://github.com/academico-sis/academico</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/academico-sis/academico" target="_blank">academico-sis/academico: 基于 Lavarel 的中小学管理平台</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/academico-sis/academico" target="_blank">https://github.com/academico-sis/academico</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
