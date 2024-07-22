@@ -31,6 +31,7 @@
 ### July 22, 2024 
 - [PHPExpertsInc/SimpleDTO: 一个易于使用的 PHP 通用 DTO 包。](https://github.com/PHPExpertsInc/SimpleDTO) 
 - [m3m0r7/async-promise: 用 PHP 编写的异步 Promise 库](https://github.com/m3m0r7/async-promise) 
+- [academico-sis/academico: 基于 Lavarel 的中小学管理平台](https://github.com/academico-sis/academico) 
 ### July 19, 2024 
 - [Raphire/Win11Debloat: 这是一个简单易用的 PowerShell 脚本，可用于从 windows 中移除预装的应用程序、禁用遥测功能、从 windows 搜索中移除必应，以及执行其他各种更改来整理和改善您的 windows 体验。](https://github.com/Raphire/Win11Debloat) 
 - [kattouf/ProgressLine: 以紧凑的单行格式跟踪命令进度](https://github.com/kattouf/ProgressLine) 
