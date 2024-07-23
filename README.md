@@ -33,6 +33,7 @@
 - [s-ichikawa/laravel-sendgrid-driver: 这个库可以在 laravel 的邮件配置中添加 sendgrid 驱动程序。](https://github.com/s-ichikawa/laravel-sendgrid-driver) 
 - [ChrisBuilds/terminaltexteffects: TerminalTextEffects (TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。](https://github.com/ChrisBuilds/terminaltexteffects) 
 - [urlappgroup/urlapp: 使用、发布、讨论和开发 urlapp 的地方。](https://github.com/urlappgroup/urlapp) 
+- [hellzerg/optimizer: 最优秀的 Windows 优化程序](https://github.com/hellzerg/optimizer?tab=readme-ov-file) 
 ### July 22, 2024 
 - [PHPExpertsInc/SimpleDTO: 一个易于使用的 PHP 通用 DTO 包。](https://github.com/PHPExpertsInc/SimpleDTO) 
 - [m3m0r7/async-promise: 用 PHP 编写的异步 Promise 库](https://github.com/m3m0r7/async-promise) 
