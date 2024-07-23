@@ -28,6 +28,9 @@
 
 
 
+
+### July 23, 2024 
+- [s-ichikawa/laravel-sendgrid-driver: 这个库可以在 laravel 的邮件配置中添加 sendgrid 驱动程序。](https://github.com/s-ichikawa/laravel-sendgrid-driver) 
 ### July 22, 2024 
 - [PHPExpertsInc/SimpleDTO: 一个易于使用的 PHP 通用 DTO 包。](https://github.com/PHPExpertsInc/SimpleDTO) 
 - [m3m0r7/async-promise: 用 PHP 编写的异步 Promise 库](https://github.com/m3m0r7/async-promise) 
