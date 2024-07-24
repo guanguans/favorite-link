@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 23 Jul 2024 17:06:59 +0800</pubDate>
+    <pubDate>Wed, 24 Jul 2024 09:35:56 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具</title>
+      <pubDate>Wed, 24 Jul 2024 09:35:56 +0800</pubDate>
+      <link>https://github.com/lihaoyun6/Logoer</link>
+      <guid>https://github.com/lihaoyun6/Logoer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lihaoyun6/Logoer" target="_blank">lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lihaoyun6/Logoer" target="_blank">https://github.com/lihaoyun6/Logoer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>s-ichikawa/laravel-sendgrid-driver: 这个库可以在 laravel 的邮件配置中添加 sendgrid 驱动程序。</title>
-      <pubDate>Tue, 23 Jul 2024 17:06:59 +0800</pubDate>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/s-ichikawa/laravel-sendgrid-driver</link>
       <guid>https://github.com/s-ichikawa/laravel-sendgrid-driver</guid>
       <content:encoded><![CDATA[<a href="https://github.com/s-ichikawa/laravel-sendgrid-driver" target="_blank">s-ichikawa/laravel-sendgrid-driver: 这个库可以在 laravel 的邮件配置中添加 sendgrid 驱动程序。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>ChrisBuilds/terminaltexteffects: TerminalTextEffects (TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。</title>
-      <pubDate>Tue, 23 Jul 2024 17:06:59 +0800</pubDate>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0800</pubDate>
       <link>TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。](https://github.com/ChrisBuilds/terminaltexteffects</link>
       <guid isPermaLink="false">TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。](https://github.com/ChrisBuilds/terminaltexteffects</guid>
       <content:encoded><![CDATA[<a href="TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。](https://github.com/ChrisBuilds/terminaltexteffects" target="_blank">ChrisBuilds/terminaltexteffects: TerminalTextEffects (TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>urlappgroup/urlapp: 使用、发布、讨论和开发 urlapp 的地方。</title>
-      <pubDate>Tue, 23 Jul 2024 17:06:59 +0800</pubDate>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/urlappgroup/urlapp</link>
       <guid>https://github.com/urlappgroup/urlapp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/urlappgroup/urlapp" target="_blank">urlappgroup/urlapp: 使用、发布、讨论和开发 urlapp 的地方。</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>hellzerg/optimizer: 最优秀的 Windows 优化程序</title>
-      <pubDate>Tue, 23 Jul 2024 17:06:59 +0800</pubDate>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/hellzerg/optimizer?tab=readme-ov-file</link>
       <guid>https://github.com/hellzerg/optimizer?tab=readme-ov-file</guid>
       <content:encoded><![CDATA[<a href="https://github.com/hellzerg/optimizer?tab=readme-ov-file" target="_blank">hellzerg/optimizer: 最优秀的 Windows 优化程序</a>

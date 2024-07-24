@@ -31,7 +31,7 @@
 
 
 ### July 24, 2024 
-- [lihaoyun6/Logoer: 更换macOS菜单栏苹果Logo样式的小工具](https://github.com/lihaoyun6/Logoer) 
+- [lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具](https://github.com/lihaoyun6/Logoer) 
 ### July 23, 2024 
 - [s-ichikawa/laravel-sendgrid-driver: 这个库可以在 laravel 的邮件配置中添加 sendgrid 驱动程序。](https://github.com/s-ichikawa/laravel-sendgrid-driver) 
 - [ChrisBuilds/terminaltexteffects: TerminalTextEffects (TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。](https://github.com/ChrisBuilds/terminaltexteffects) 
