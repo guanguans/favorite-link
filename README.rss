@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 24 Jul 2024 12:19:50 +0800</pubDate>
+    <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具</title>
-      <pubDate>Wed, 24 Jul 2024 12:19:50 +0800</pubDate>
+      <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
       <link>https://github.com/lihaoyun6/Logoer</link>
       <guid>https://github.com/lihaoyun6/Logoer</guid>
       <content:encoded><![CDATA[<a href="https://github.com/lihaoyun6/Logoer" target="_blank">lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>Dokploy/dokploy: Vercel、Netlify 和 Heroku 的开源替代方案。</title>
-      <pubDate>Wed, 24 Jul 2024 12:19:50 +0800</pubDate>
+      <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
       <link>https://github.com/Dokploy/dokploy</link>
       <guid>https://github.com/Dokploy/dokploy</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Dokploy/dokploy" target="_blank">Dokploy/dokploy: Vercel、Netlify 和 Heroku 的开源替代方案。</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>docmost/docmost: Docmost 是一款开源协作式维基和文档软件。它是 Confluence 和 Notion 的开源替代软件。</title>
-      <pubDate>Wed, 24 Jul 2024 12:19:50 +0800</pubDate>
+      <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
       <link>https://github.com/docmost/docmost</link>
       <guid>https://github.com/docmost/docmost</guid>
       <content:encoded><![CDATA[<a href="https://github.com/docmost/docmost" target="_blank">docmost/docmost: Docmost 是一款开源协作式维基和文档软件。它是 Confluence 和 Notion 的开源替代软件。</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>Exifly/ApiVault: 您通向公共应用程序接口世界的门户。</title>
-      <pubDate>Wed, 24 Jul 2024 12:19:50 +0800</pubDate>
+      <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
       <link>https://github.com/Exifly/ApiVault</link>
       <guid>https://github.com/Exifly/ApiVault</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Exifly/ApiVault" target="_blank">Exifly/ApiVault: 您通向公共应用程序接口世界的门户。</a>
@@ -63,13 +63,26 @@
     </item>
     <item>
       <title>nicepkg/aide: Master Any Code: 在 VSCode 里掌握任何屎山代码：一键注释和语言转换。💪</title>
-      <pubDate>Wed, 24 Jul 2024 12:19:50 +0800</pubDate>
+      <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
       <link>https://github.com/nicepkg/aide</link>
       <guid>https://github.com/nicepkg/aide</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nicepkg/aide" target="_blank">nicepkg/aide: Master Any Code: 在 VSCode 里掌握任何屎山代码：一键注释和语言转换。💪</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/nicepkg/aide" target="_blank">https://github.com/nicepkg/aide</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>orhun/daktilo: 把键盘变成打字机 📇</title>
+      <pubDate>Wed, 24 Jul 2024 12:23:34 +0800</pubDate>
+      <link>https://github.com/orhun/daktilo</link>
+      <guid>https://github.com/orhun/daktilo</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/orhun/daktilo" target="_blank">orhun/daktilo: 把键盘变成打字机 📇</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/orhun/daktilo" target="_blank">https://github.com/orhun/daktilo</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

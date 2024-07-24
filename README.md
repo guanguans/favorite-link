@@ -36,7 +36,7 @@
 - [docmost/docmost: Docmost 是一款开源协作式维基和文档软件。它是 Confluence 和 Notion 的开源替代软件。](https://github.com/docmost/docmost) 
 - [Exifly/ApiVault: 您通向公共应用程序接口世界的门户。](https://github.com/Exifly/ApiVault) 
 - [nicepkg/aide: Master Any Code: 在 VSCode 里掌握任何屎山代码：一键注释和语言转换。💪](https://github.com/nicepkg/aide) 
-- [orhun/daktilo: 把键盘变成打字机📇](https://github.com/orhun/daktilo) 
+- [orhun/daktilo: 把键盘变成打字机 📇](https://github.com/orhun/daktilo) 
 ### July 23, 2024 
 - [s-ichikawa/laravel-sendgrid-driver: 这个库可以在 laravel 的邮件配置中添加 sendgrid 驱动程序。](https://github.com/s-ichikawa/laravel-sendgrid-driver) 
 - [ChrisBuilds/terminaltexteffects: TerminalTextEffects (TTE) 是一个终端视觉效果引擎、应用程序和 Python 库。](https://github.com/ChrisBuilds/terminaltexteffects) 
