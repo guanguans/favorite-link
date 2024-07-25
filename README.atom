@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-24T12:23:34+08:00</updated>
+  <updated>2024-07-25T09:34:46+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。]]></title>
+    <published>2024-07-25T09:34:46+08:00</published>
+    <updated>2024-07-25T09:34:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pug-php/js-phpize"/>
+    <id>https://github.com/pug-php/js-phpize</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/pug-php/js-phpize" target="_blank">pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/pug-php/js-phpize" target="_blank">https://github.com/pug-php/js-phpize</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具]]></title>
-    <published>2024-07-24T12:23:34+08:00</published>
-    <updated>2024-07-24T12:23:34+08:00</updated>
+    <published>2024-07-24T00:00:00+08:00</published>
+    <updated>2024-07-24T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/lihaoyun6/Logoer"/>
     <id>https://github.com/lihaoyun6/Logoer</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Dokploy/dokploy: Vercel、Netlify 和 Heroku 的开源替代方案。]]></title>
-    <published>2024-07-24T12:23:34+08:00</published>
-    <updated>2024-07-24T12:23:34+08:00</updated>
+    <published>2024-07-24T00:00:00+08:00</published>
+    <updated>2024-07-24T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Dokploy/dokploy"/>
     <id>https://github.com/Dokploy/dokploy</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[docmost/docmost: Docmost 是一款开源协作式维基和文档软件。它是 Confluence 和 Notion 的开源替代软件。]]></title>
-    <published>2024-07-24T12:23:34+08:00</published>
-    <updated>2024-07-24T12:23:34+08:00</updated>
+    <published>2024-07-24T00:00:00+08:00</published>
+    <updated>2024-07-24T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/docmost/docmost"/>
     <id>https://github.com/docmost/docmost</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -63,8 +79,8 @@ Notion 的开源替代软件。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Exifly/ApiVault: 您通向公共应用程序接口世界的门户。]]></title>
-    <published>2024-07-24T12:23:34+08:00</published>
-    <updated>2024-07-24T12:23:34+08:00</updated>
+    <published>2024-07-24T00:00:00+08:00</published>
+    <updated>2024-07-24T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Exifly/ApiVault"/>
     <id>https://github.com/Exifly/ApiVault</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -79,8 +95,8 @@ Notion 的开源替代软件。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nicepkg/aide: Master Any Code: 在 VSCode 里掌握任何屎山代码：一键注释和语言转换。💪]]></title>
-    <published>2024-07-24T12:23:34+08:00</published>
-    <updated>2024-07-24T12:23:34+08:00</updated>
+    <published>2024-07-24T00:00:00+08:00</published>
+    <updated>2024-07-24T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/nicepkg/aide"/>
     <id>https://github.com/nicepkg/aide</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -96,8 +112,8 @@ Notion 的开源替代软件。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[orhun/daktilo: 把键盘变成打字机 📇]]></title>
-    <published>2024-07-24T12:23:34+08:00</published>
-    <updated>2024-07-24T12:23:34+08:00</updated>
+    <published>2024-07-24T00:00:00+08:00</published>
+    <updated>2024-07-24T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/orhun/daktilo"/>
     <id>https://github.com/orhun/daktilo</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
