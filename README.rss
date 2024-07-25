@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 25 Jul 2024 09:41:02 +0800</pubDate>
+    <pubDate>Thu, 25 Jul 2024 09:44:12 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。</title>
-      <pubDate>Thu, 25 Jul 2024 09:41:02 +0800</pubDate>
+      <pubDate>Thu, 25 Jul 2024 09:44:12 +0800</pubDate>
       <link>https://github.com/pug-php/js-phpize</link>
       <guid>https://github.com/pug-php/js-phpize</guid>
       <content:encoded><![CDATA[<a href="https://github.com/pug-php/js-phpize" target="_blank">pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>voidint/g: Golang 版本管理器</title>
-      <pubDate>Thu, 25 Jul 2024 09:41:02 +0800</pubDate>
+      <pubDate>Thu, 25 Jul 2024 09:44:12 +0800</pubDate>
       <link>https://github.com/voidint/g</link>
       <guid>https://github.com/voidint/g</guid>
       <content:encoded><![CDATA[<a href="https://github.com/voidint/g" target="_blank">voidint/g: Golang 版本管理器</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>waydabber/BetterDisplay: 在 Mac 上解锁你的显示器！灵活的 HiDPI 缩放、XDR/HDR 额外亮度、虚拟屏幕、DDC 控制、额外调光、PIP/流媒体、EDID 覆盖等！</title>
-      <pubDate>Thu, 25 Jul 2024 09:41:02 +0800</pubDate>
+      <pubDate>Thu, 25 Jul 2024 09:44:12 +0800</pubDate>
       <link>https://github.com/waydabber/BetterDisplay</link>
       <guid>https://github.com/waydabber/BetterDisplay</guid>
       <content:encoded><![CDATA[<a href="https://github.com/waydabber/BetterDisplay" target="_blank">waydabber/BetterDisplay: 在 Mac 上解锁你的显示器！灵活的 HiDPI 缩放、XDR/HDR 额外亮度、虚拟屏幕、DDC 控制、额外调光、PIP/流媒体、EDID 覆盖等！</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/waydabber/BetterDisplay" target="_blank">https://github.com/waydabber/BetterDisplay</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>TabbyML/tabby: 自主托管的人工智能编码助手</title>
+      <pubDate>Thu, 25 Jul 2024 09:44:12 +0800</pubDate>
+      <link>https://github.com/TabbyML/tabby</link>
+      <guid>https://github.com/TabbyML/tabby</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/TabbyML/tabby" target="_blank">TabbyML/tabby: 自主托管的人工智能编码助手</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/TabbyML/tabby" target="_blank">https://github.com/TabbyML/tabby</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
