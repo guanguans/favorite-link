@@ -36,6 +36,7 @@
 - [voidint/g: Golang 版本管理器](https://github.com/voidint/g) 
 - [waydabber/BetterDisplay: 在 Mac 上解锁你的显示器！灵活的 HiDPI 缩放、XDR/HDR 额外亮度、虚拟屏幕、DDC 控制、额外调光、PIP/流媒体、EDID 覆盖等！](https://github.com/waydabber/BetterDisplay) 
 - [TabbyML/tabby: 自主托管的人工智能编码助手](https://github.com/TabbyML/tabby) 
+- [Honeystone/Context: Laravel 应用程序上下文管理器](https://github.com/Honeystone/Context) 
 ### July 24, 2024 
 - [lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具](https://github.com/lihaoyun6/Logoer) 
 - [Dokploy/dokploy: Vercel、Netlify 和 Heroku 的开源替代方案。](https://github.com/Dokploy/dokploy) 
