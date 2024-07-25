@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 25 Jul 2024 09:34:46 +0800</pubDate>
+    <pubDate>Thu, 25 Jul 2024 09:38:12 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。</title>
-      <pubDate>Thu, 25 Jul 2024 09:34:46 +0800</pubDate>
+      <pubDate>Thu, 25 Jul 2024 09:38:12 +0800</pubDate>
       <link>https://github.com/pug-php/js-phpize</link>
       <guid>https://github.com/pug-php/js-phpize</guid>
       <content:encoded><![CDATA[<a href="https://github.com/pug-php/js-phpize" target="_blank">pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/pug-php/js-phpize" target="_blank">https://github.com/pug-php/js-phpize</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>voidint/g: Golang 版本管理器</title>
+      <pubDate>Thu, 25 Jul 2024 09:38:12 +0800</pubDate>
+      <link>https://github.com/voidint/g</link>
+      <guid>https://github.com/voidint/g</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/voidint/g" target="_blank">voidint/g: Golang 版本管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/voidint/g" target="_blank">https://github.com/voidint/g</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
