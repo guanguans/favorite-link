@@ -30,6 +30,9 @@
 
 
 
+
+### July 25, 2024 
+- [pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。](https://github.com/pug-php/js-phpize) 
 ### July 24, 2024 
 - [lihaoyun6/Logoer: 更换 macOS 菜单栏苹果 Logo 样式的小工具](https://github.com/lihaoyun6/Logoer) 
 - [Dokploy/dokploy: Vercel、Netlify 和 Heroku 的开源替代方案。](https://github.com/Dokploy/dokploy) 
