@@ -31,6 +31,9 @@
 
 
 
+
+### July 26, 2024 
+- [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) 
 ### July 25, 2024 
 - [pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。](https://github.com/pug-php/js-phpize) 
 - [voidint/g: Golang 版本管理器](https://github.com/voidint/g) 
