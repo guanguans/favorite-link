@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 26 Jul 2024 09:38:34 +0800</pubDate>
+    <pubDate>Fri, 26 Jul 2024 09:42:19 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。</title>
-      <pubDate>Fri, 26 Jul 2024 09:38:34 +0800</pubDate>
+      <pubDate>Fri, 26 Jul 2024 09:42:19 +0800</pubDate>
       <link>https://github.com/naxiaoduo/1000UserGuide</link>
       <guid>https://github.com/naxiaoduo/1000UserGuide</guid>
       <content:encoded><![CDATA[<a href="https://github.com/naxiaoduo/1000UserGuide" target="_blank">naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/naxiaoduo/1000UserGuide" target="_blank">https://github.com/naxiaoduo/1000UserGuide</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。</title>
+      <pubDate>Fri, 26 Jul 2024 09:42:19 +0800</pubDate>
+      <link>https://github.com/arthenica/ffmpeg-kit</link>
+      <guid>https://github.com/arthenica/ffmpeg-kit</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/arthenica/ffmpeg-kit" target="_blank">arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/arthenica/ffmpeg-kit" target="_blank">https://github.com/arthenica/ffmpeg-kit</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
