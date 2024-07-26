@@ -38,6 +38,7 @@
 - [joetannenbaum/chewie: Chewie 是一个利用 Laravel Prompts 构建基于文本的用户界面 (TUI) 的软件包。它有助于减少一些模板代码，并为对齐、动画等添加了一些助手。](https://github.com/joetannenbaum/chewie) 
 - [CouscousPHP/Couscous: Couscous 从您的 Markdown 文档生成一个 GitHub Pages 网站。](https://github.com/CouscousPHP/Couscous) 
 - [spatie/laravel-ciphersweet: 使用 CipherSweet 在 Laravel 中搜索和加密数据](https://github.com/spatie/laravel-ciphersweet) 
+- [NamanShergill/diohub: 一款开源的非官方 GitHub 移动客户端，旨在为移动设备提供极致的 GitHub 体验。](https://github.com/NamanShergill/diohub) 
 ### July 25, 2024 
 - [pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。](https://github.com/pug-php/js-phpize) 
 - [voidint/g: Golang 版本管理器](https://github.com/voidint/g) 
