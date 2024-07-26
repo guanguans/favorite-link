@@ -36,6 +36,7 @@
 - [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) 
 - [arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。](https://github.com/arthenica/ffmpeg-kit) 
 - [joetannenbaum/chewie: Chewie 是一个利用 Laravel Prompts 构建基于文本的用户界面 (TUI) 的软件包。它有助于减少一些模板代码，并为对齐、动画等添加了一些助手。](https://github.com/joetannenbaum/chewie) 
+- [CouscousPHP/Couscous: Couscous 从您的 Markdown 文档生成一个 GitHub Pages 网站。](https://github.com/CouscousPHP/Couscous) 
 ### July 25, 2024 
 - [pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。](https://github.com/pug-php/js-phpize) 
 - [voidint/g: Golang 版本管理器](https://github.com/voidint/g) 
