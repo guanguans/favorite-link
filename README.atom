@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-26T10:05:59+08:00</updated>
+  <updated>2024-07-26T14:17:49+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。]]></title>
-    <published>2024-07-26T10:05:59+08:00</published>
-    <updated>2024-07-26T10:05:59+08:00</updated>
+    <published>2024-07-26T14:17:49+08:00</published>
+    <updated>2024-07-26T14:17:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/naxiaoduo/1000UserGuide"/>
     <id>https://github.com/naxiaoduo/1000UserGuide</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。]]></title>
-    <published>2024-07-26T10:05:59+08:00</published>
-    <updated>2024-07-26T10:05:59+08:00</updated>
+    <published>2024-07-26T14:17:49+08:00</published>
+    <updated>2024-07-26T14:17:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/arthenica/ffmpeg-kit"/>
     <id>https://github.com/arthenica/ffmpeg-kit</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -49,8 +49,8 @@ Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中�
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[joetannenbaum/chewie: Chewie 是一个利用 Laravel Prompts 构建基于文本的用户界面 (TUI) 的软件包。它有助于减少一些模板代码，并为对齐、动画等添加了一些助手。]]></title>
-    <published>2024-07-26T10:05:59+08:00</published>
-    <updated>2024-07-26T10:05:59+08:00</updated>
+    <published>2024-07-26T14:17:49+08:00</published>
+    <updated>2024-07-26T14:17:49+08:00</updated>
     <link rel="alternate" type="text/html" href="TUI) 的软件包。它有助于减少一些模板代码，并为对齐、动画等添加了一些助手。](https://github.com/joetannenbaum/chewie"/>
     <id>TUI) 的软件包。它有助于减少一些模板代码，并为对齐、动画等添加了一些助手。](https://github.com/joetannenbaum/chewie</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -67,8 +67,8 @@ Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中�
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[CouscousPHP/Couscous: Couscous 从您的 Markdown 文档生成一个 GitHub Pages 网站。]]></title>
-    <published>2024-07-26T10:05:59+08:00</published>
-    <updated>2024-07-26T10:05:59+08:00</updated>
+    <published>2024-07-26T14:17:49+08:00</published>
+    <updated>2024-07-26T14:17:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/CouscousPHP/Couscous"/>
     <id>https://github.com/CouscousPHP/Couscous</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -84,8 +84,8 @@ Pages 网站。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/laravel-ciphersweet: 使用 CipherSweet 在 Laravel 中搜索和加密数据]]></title>
-    <published>2024-07-26T10:05:59+08:00</published>
-    <updated>2024-07-26T10:05:59+08:00</updated>
+    <published>2024-07-26T14:17:49+08:00</published>
+    <updated>2024-07-26T14:17:49+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/spatie/laravel-ciphersweet"/>
     <id>https://github.com/spatie/laravel-ciphersweet</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -94,6 +94,23 @@ Pages 网站。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/spatie/laravel-ciphersweet" target="_blank">https://github.com/spatie/laravel-ciphersweet</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[NamanShergill/diohub: 一款开源的非官方 GitHub 移动客户端，旨在为移动设备提供极致的 GitHub 体验。]]></title>
+    <published>2024-07-26T14:17:49+08:00</published>
+    <updated>2024-07-26T14:17:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/NamanShergill/diohub"/>
+    <id>https://github.com/NamanShergill/diohub</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/NamanShergill/diohub" target="_blank">NamanShergill/diohub: 一款开源的非官方 GitHub 移动客户端，旨在为移动设备提供极致的
+GitHub 体验。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/NamanShergill/diohub" target="_blank">https://github.com/NamanShergill/diohub</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
