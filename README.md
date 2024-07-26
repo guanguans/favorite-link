@@ -37,6 +37,7 @@
 - [arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。](https://github.com/arthenica/ffmpeg-kit) 
 - [joetannenbaum/chewie: Chewie 是一个利用 Laravel Prompts 构建基于文本的用户界面 (TUI) 的软件包。它有助于减少一些模板代码，并为对齐、动画等添加了一些助手。](https://github.com/joetannenbaum/chewie) 
 - [CouscousPHP/Couscous: Couscous 从您的 Markdown 文档生成一个 GitHub Pages 网站。](https://github.com/CouscousPHP/Couscous) 
+- [spatie/laravel-ciphersweet: 使用 CipherSweet 在 Laravel 中搜索和加密数据](https://github.com/spatie/laravel-ciphersweet) 
 ### July 25, 2024 
 - [pug-php/js-phpize: 将类似 js 的语法转换为独立的 PHP 代码。](https://github.com/pug-php/js-phpize) 
 - [voidint/g: Golang 版本管理器](https://github.com/voidint/g) 
