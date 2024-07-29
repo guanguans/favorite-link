@@ -32,6 +32,9 @@
 
 
 
+
+### July 29, 2024 
+- [oligot/go-mod-upgrade: 以交互方式更新过时的 Go 依赖项](https://github.com/oligot/go-mod-upgrade) 
 ### July 26, 2024 
 - [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) 
 - [arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。](https://github.com/arthenica/ffmpeg-kit) 
