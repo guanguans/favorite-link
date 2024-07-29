@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 29 Jul 2024 09:53:50 +0800</pubDate>
+    <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>oligot/go-mod-upgrade: 以交互方式更新过时的 Go 依赖项</title>
-      <pubDate>Mon, 29 Jul 2024 09:53:50 +0800</pubDate>
+      <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
       <link>https://github.com/oligot/go-mod-upgrade</link>
       <guid>https://github.com/oligot/go-mod-upgrade</guid>
       <content:encoded><![CDATA[<a href="https://github.com/oligot/go-mod-upgrade" target="_blank">oligot/go-mod-upgrade: 以交互方式更新过时的 Go 依赖项</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>ash-jc-allen/redactable-models: 一个可以在 Laravel 模型中编辑、混淆或屏蔽数据的软件包。</title>
-      <pubDate>Mon, 29 Jul 2024 09:53:50 +0800</pubDate>
+      <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
       <link>https://github.com/ash-jc-allen/redactable-models</link>
       <guid>https://github.com/ash-jc-allen/redactable-models</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ash-jc-allen/redactable-models" target="_blank">ash-jc-allen/redactable-models: 一个可以在 Laravel 模型中编辑、混淆或屏蔽数据的软件包。</a>
@@ -37,7 +37,7 @@
     </item>
     <item>
       <title>Sammyjo20/ssh-php: 用于构建 PHP SSH 应用程序的极其简单的框架！🔥</title>
-      <pubDate>Mon, 29 Jul 2024 09:53:50 +0800</pubDate>
+      <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
       <link>https://github.com/Sammyjo20/ssh-php</link>
       <guid>https://github.com/Sammyjo20/ssh-php</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Sammyjo20/ssh-php" target="_blank">Sammyjo20/ssh-php: 用于构建 PHP SSH 应用程序的极其简单的框架！🔥</a>
@@ -50,7 +50,7 @@
     </item>
     <item>
       <title>nunomaduro/laravel-optimize-database: 这个软件包提供了一种在 Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite 数据库的良好起点。</title>
-      <pubDate>Mon, 29 Jul 2024 09:53:50 +0800</pubDate>
+      <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
       <link>https://github.com/nunomaduro/laravel-optimize-database</link>
       <guid>https://github.com/nunomaduro/laravel-optimize-database</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nunomaduro/laravel-optimize-database" target="_blank">nunomaduro/laravel-optimize-database: 这个软件包提供了一种在 Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite 数据库的良好起点。</a>
@@ -63,13 +63,26 @@
     </item>
     <item>
       <title>mpstenson/laravel-advanced-string: 一个 Laravel 软件包，为内置 Str 类添加高级字符串操作方法。</title>
-      <pubDate>Mon, 29 Jul 2024 09:53:50 +0800</pubDate>
+      <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
       <link>https://github.com/mpstenson/laravel-advanced-string</link>
       <guid>https://github.com/mpstenson/laravel-advanced-string</guid>
       <content:encoded><![CDATA[<a href="https://github.com/mpstenson/laravel-advanced-string" target="_blank">mpstenson/laravel-advanced-string: 一个 Laravel 软件包，为内置 Str 类添加高级字符串操作方法。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/mpstenson/laravel-advanced-string" target="_blank">https://github.com/mpstenson/laravel-advanced-string</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>LANDrop/LANDrop: 将任何文件拖放到局域网上的任何设备上。</title>
+      <pubDate>Mon, 29 Jul 2024 10:12:02 +0800</pubDate>
+      <link>https://github.com/LANDrop/LANDrop</link>
+      <guid>https://github.com/LANDrop/LANDrop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/LANDrop/LANDrop" target="_blank">LANDrop/LANDrop: 将任何文件拖放到局域网上的任何设备上。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/LANDrop/LANDrop" target="_blank">https://github.com/LANDrop/LANDrop</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
