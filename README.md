@@ -40,6 +40,7 @@
 - [nunomaduro/laravel-optimize-database: 这个软件包提供了一种在 Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite 数据库的良好起点。](https://github.com/nunomaduro/laravel-optimize-database) 
 - [mpstenson/laravel-advanced-string: 一个 Laravel 软件包，为内置 Str 类添加高级字符串操作方法。](https://github.com/mpstenson/laravel-advanced-string) 
 - [LANDrop/LANDrop: 将任何文件拖放到局域网上的任何设备上。](https://github.com/LANDrop/LANDrop) 
+- [Flix 快传](https://flix.center/) 
 ### July 26, 2024 
 - [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) 
 - [arthenica/ffmpeg-kit: FFmpegKit 是在 Android、iOS、Linux、macOS、tvOS、Flutter 和 React Native 应用程序中使用 FFmpeg 的工具集合。](https://github.com/arthenica/ffmpeg-kit) 
