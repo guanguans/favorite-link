@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-07-29T10:12:02+08:00</updated>
+  <updated>2024-07-29T14:13:10+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[oligot/go-mod-upgrade: 以交互方式更新过时的 Go 依赖项]]></title>
-    <published>2024-07-29T10:12:02+08:00</published>
-    <updated>2024-07-29T10:12:02+08:00</updated>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/oligot/go-mod-upgrade"/>
     <id>https://github.com/oligot/go-mod-upgrade</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ash-jc-allen/redactable-models: 一个可以在 Laravel 模型中编辑、混淆或屏蔽数据的软件包。]]></title>
-    <published>2024-07-29T10:12:02+08:00</published>
-    <updated>2024-07-29T10:12:02+08:00</updated>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ash-jc-allen/redactable-models"/>
     <id>https://github.com/ash-jc-allen/redactable-models</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +47,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Sammyjo20/ssh-php: 用于构建 PHP SSH 应用程序的极其简单的框架！🔥]]></title>
-    <published>2024-07-29T10:12:02+08:00</published>
-    <updated>2024-07-29T10:12:02+08:00</updated>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Sammyjo20/ssh-php"/>
     <id>https://github.com/Sammyjo20/ssh-php</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -63,8 +63,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nunomaduro/laravel-optimize-database: 这个软件包提供了一种在 Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite 数据库的良好起点。]]></title>
-    <published>2024-07-29T10:12:02+08:00</published>
-    <updated>2024-07-29T10:12:02+08:00</updated>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/nunomaduro/laravel-optimize-database"/>
     <id>https://github.com/nunomaduro/laravel-optimize-database</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -80,8 +80,8 @@ Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mpstenson/laravel-advanced-string: 一个 Laravel 软件包，为内置 Str 类添加高级字符串操作方法。]]></title>
-    <published>2024-07-29T10:12:02+08:00</published>
-    <updated>2024-07-29T10:12:02+08:00</updated>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/mpstenson/laravel-advanced-string"/>
     <id>https://github.com/mpstenson/laravel-advanced-string</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -97,8 +97,8 @@ Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[LANDrop/LANDrop: 将任何文件拖放到局域网上的任何设备上。]]></title>
-    <published>2024-07-29T10:12:02+08:00</published>
-    <updated>2024-07-29T10:12:02+08:00</updated>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/LANDrop/LANDrop"/>
     <id>https://github.com/LANDrop/LANDrop</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -106,6 +106,22 @@ Laravel 中优化 SQLite 数据库的简单方法；它是生产就绪的 SQLite
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/LANDrop/LANDrop" target="_blank">https://github.com/LANDrop/LANDrop</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Flix 快传]]></title>
+    <published>2024-07-29T14:13:10+08:00</published>
+    <updated>2024-07-29T14:13:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flix.center/"/>
+    <id>https://flix.center/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://flix.center/" target="_blank">Flix 快传</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://flix.center/" target="_blank">https://flix.center/</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
