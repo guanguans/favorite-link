@@ -33,6 +33,9 @@
 
 
 
+
+### July 30, 2024 
+- [Nikeev/LangSwitch: 一款超级简单的 MacOS 应用程序，只需按下 Fn/🌐 按钮，即可逐一切换键盘语言。无弹出窗口，无延迟。](https://github.com/Nikeev/LangSwitch) 
 ### July 29, 2024 
 - [oligot/go-mod-upgrade: 以交互方式更新过时的 Go 依赖项](https://github.com/oligot/go-mod-upgrade) 
 - [ash-jc-allen/redactable-models: 一个可以在 Laravel 模型中编辑、混淆或屏蔽数据的软件包。](https://github.com/ash-jc-allen/redactable-models) 
