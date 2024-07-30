@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 30 Jul 2024 09:33:21 +0800</pubDate>
+    <pubDate>Tue, 30 Jul 2024 09:37:01 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Nikeev/LangSwitch: 一款超级简单的 MacOS 应用程序，只需按下 Fn/🌐 按钮，即可逐一切换键盘语言。无弹出窗口，无延迟。</title>
-      <pubDate>Tue, 30 Jul 2024 09:33:21 +0800</pubDate>
+      <pubDate>Tue, 30 Jul 2024 09:37:01 +0800</pubDate>
       <link>https://github.com/Nikeev/LangSwitch</link>
       <guid>https://github.com/Nikeev/LangSwitch</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Nikeev/LangSwitch" target="_blank">Nikeev/LangSwitch: 一款超级简单的 MacOS 应用程序，只需按下 Fn/🌐 按钮，即可逐一切换键盘语言。无弹出窗口，无延迟。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Nikeev/LangSwitch" target="_blank">https://github.com/Nikeev/LangSwitch</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>chainreactors/fingers: 多指纹库聚合识别引擎. 当前支持 fingers (主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹</title>
+      <pubDate>Tue, 30 Jul 2024 09:37:01 +0800</pubDate>
+      <link>主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers</link>
+      <guid isPermaLink="false">主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers</guid>
+      <content:encoded><![CDATA[<a href="主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers" target="_blank">chainreactors/fingers: 多指纹库聚合识别引擎. 当前支持 fingers (主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers" target="_blank">主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
