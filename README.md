@@ -34,6 +34,9 @@
 
 
 
+
+### July 31, 2024 
+- [JunkFood02/Seal: 基于 yt-dlp、使用 Material You 设计的 Android 版视频/音频下载器](https://github.com/JunkFood02/Seal) 
 ### July 30, 2024 
 - [Nikeev/LangSwitch: 一款超级简单的 MacOS 应用程序，只需按下 Fn/🌐 按钮，即可逐一切换键盘语言。无弹出窗口，无延迟。](https://github.com/Nikeev/LangSwitch) 
 - [chainreactors/fingers: 多指纹库聚合识别引擎. 当前支持 fingers (主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers) 
