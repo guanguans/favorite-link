@@ -39,6 +39,7 @@
 ### August 1, 2024 
 - [DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。](https://github.com/DiceDB/dice) 
 - [Safemood/laravel-workflow: Laravel 软件包通过清晰的操作定义和事件跟踪简化了工作流程。](https://github.com/Safemood/laravel-workflow) 
+- [iteks/laravel-enum: 一个全面的 Laravel 软件包，提供增强的枚举功能，包括属性处理、选择数组转换和流畅的门面交互，从而在 Laravel 应用程序中实现稳健的枚举管理。](https://github.com/iteks/laravel-enum) 
 ### July 31, 2024 
 - [JunkFood02/Seal: 基于 yt-dlp、使用 Material You 设计的 Android 版视频/音频下载器](https://github.com/JunkFood02/Seal) 
 - [gitattributes/gitattributes: 实用的. gitattributes 模板集锦](https://github.com/gitattributes/gitattributes) 
