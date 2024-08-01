@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 01 Aug 2024 09:33:49 +0800</pubDate>
+    <pubDate>Thu, 01 Aug 2024 09:35:10 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。</title>
-      <pubDate>Thu, 01 Aug 2024 09:33:49 +0800</pubDate>
+      <pubDate>Thu, 01 Aug 2024 09:35:10 +0800</pubDate>
       <link>https://github.com/DiceDB/dice</link>
       <guid>https://github.com/DiceDB/dice</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DiceDB/dice" target="_blank">DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/DiceDB/dice" target="_blank">https://github.com/DiceDB/dice</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Safemood/laravel-workflow: Laravel 软件包通过清晰的操作定义和事件跟踪简化了工作流程。</title>
+      <pubDate>Thu, 01 Aug 2024 09:35:10 +0800</pubDate>
+      <link>https://github.com/Safemood/laravel-workflow</link>
+      <guid>https://github.com/Safemood/laravel-workflow</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Safemood/laravel-workflow" target="_blank">Safemood/laravel-workflow: Laravel 软件包通过清晰的操作定义和事件跟踪简化了工作流程。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Safemood/laravel-workflow" target="_blank">https://github.com/Safemood/laravel-workflow</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
