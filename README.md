@@ -35,6 +35,9 @@
 
 
 
+
+### August 1, 2024 
+- [DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。](https://github.com/DiceDB/dice) 
 ### July 31, 2024 
 - [JunkFood02/Seal: 基于 yt-dlp、使用 Material You 设计的 Android 版视频/音频下载器](https://github.com/JunkFood02/Seal) 
 - [gitattributes/gitattributes: 实用的. gitattributes 模板集锦](https://github.com/gitattributes/gitattributes) 
