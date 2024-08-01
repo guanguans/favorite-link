@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 01 Aug 2024 09:35:10 +0800</pubDate>
+    <pubDate>Thu, 01 Aug 2024 09:59:23 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。</title>
-      <pubDate>Thu, 01 Aug 2024 09:35:10 +0800</pubDate>
+      <pubDate>Thu, 01 Aug 2024 09:59:23 +0800</pubDate>
       <link>https://github.com/DiceDB/dice</link>
       <guid>https://github.com/DiceDB/dice</guid>
       <content:encoded><![CDATA[<a href="https://github.com/DiceDB/dice" target="_blank">DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>Safemood/laravel-workflow: Laravel 软件包通过清晰的操作定义和事件跟踪简化了工作流程。</title>
-      <pubDate>Thu, 01 Aug 2024 09:35:10 +0800</pubDate>
+      <pubDate>Thu, 01 Aug 2024 09:59:23 +0800</pubDate>
       <link>https://github.com/Safemood/laravel-workflow</link>
       <guid>https://github.com/Safemood/laravel-workflow</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Safemood/laravel-workflow" target="_blank">Safemood/laravel-workflow: Laravel 软件包通过清晰的操作定义和事件跟踪简化了工作流程。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Safemood/laravel-workflow" target="_blank">https://github.com/Safemood/laravel-workflow</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>iteks/laravel-enum: 一个全面的 Laravel 软件包，提供增强的枚举功能，包括属性处理、选择数组转换和流畅的门面交互，从而在 Laravel 应用程序中实现稳健的枚举管理。</title>
+      <pubDate>Thu, 01 Aug 2024 09:59:23 +0800</pubDate>
+      <link>https://github.com/iteks/laravel-enum</link>
+      <guid>https://github.com/iteks/laravel-enum</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/iteks/laravel-enum" target="_blank">iteks/laravel-enum: 一个全面的 Laravel 软件包，提供增强的枚举功能，包括属性处理、选择数组转换和流畅的门面交互，从而在 Laravel 应用程序中实现稳健的枚举管理。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/iteks/laravel-enum" target="_blank">https://github.com/iteks/laravel-enum</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
