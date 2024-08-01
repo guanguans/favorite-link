@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 31 Jul 2024 09:41:50 +0800</pubDate>
+    <pubDate>Thu, 01 Aug 2024 09:33:49 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。</title>
+      <pubDate>Thu, 01 Aug 2024 09:33:49 +0800</pubDate>
+      <link>https://github.com/DiceDB/dice</link>
+      <guid>https://github.com/DiceDB/dice</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/DiceDB/dice" target="_blank">DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/DiceDB/dice" target="_blank">https://github.com/DiceDB/dice</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>JunkFood02/Seal: 基于 yt-dlp、使用 Material You 设计的 Android 版视频/音频下载器</title>
-      <pubDate>Wed, 31 Jul 2024 09:41:50 +0800</pubDate>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/JunkFood02/Seal</link>
       <guid>https://github.com/JunkFood02/Seal</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JunkFood02/Seal" target="_blank">JunkFood02/Seal: 基于 yt-dlp、使用 Material You 设计的 Android 版视频/音频下载器</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>gitattributes/gitattributes: 实用的. gitattributes 模板集锦</title>
-      <pubDate>Wed, 31 Jul 2024 09:41:50 +0800</pubDate>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/gitattributes/gitattributes</link>
       <guid>https://github.com/gitattributes/gitattributes</guid>
       <content:encoded><![CDATA[<a href="https://github.com/gitattributes/gitattributes" target="_blank">gitattributes/gitattributes: 实用的. gitattributes 模板集锦</a>
