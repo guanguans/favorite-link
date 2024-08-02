@@ -42,6 +42,7 @@
 - [ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作](https://github.com/ByteStorage/FlyDB) 
 - [Sti3bas/laravel-scout-array-driver: Laravel Scout 的数组驱动程序](https://github.com/Sti3bas/laravel-scout-array-driver) 
 - [Laravel 11 JSON WeLaravel 11 JSON Web Token(JWT) API 身份验证教程 b Token(JWT) API Authentication Tutorial - ItSolutionStuff.com](https://www.itsolutionstuff.com/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html) 
+- [spatie/pest-plugin-route-testing: 可以轻松测试 Laravel 应用程序的所有简单页面。新页面也会自动进行测试。](https://github.com/spatie/pest-plugin-route-testing/) 
 ### August 1, 2024 
 - [DiceDB/dice: DiceDB 是 Redis 的直接替代品，内置基于 SQL 的实时反应能力。](https://github.com/DiceDB/dice) 
 - [Safemood/laravel-workflow: Laravel 软件包通过清晰的操作定义和事件跟踪简化了工作流程。](https://github.com/Safemood/laravel-workflow) 
