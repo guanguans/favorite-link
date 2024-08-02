@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-08-02T09:32:07+08:00</updated>
+  <updated>2024-08-02T09:36:50+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nextapps-be/laravel-swagger-ui: 为 Laravel 应用程序添加 Swagger UI。]]></title>
-    <published>2024-08-02T09:32:07+08:00</published>
-    <updated>2024-08-02T09:32:07+08:00</updated>
+    <published>2024-08-02T09:36:50+08:00</published>
+    <updated>2024-08-02T09:36:50+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/nextapps-be/laravel-swagger-ui"/>
     <id>https://github.com/nextapps-be/laravel-swagger-ui</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -24,6 +24,23 @@ UI。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/nextapps-be/laravel-swagger-ui" target="_blank">https://github.com/nextapps-be/laravel-swagger-ui</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作]]></title>
+    <published>2024-08-02T09:36:50+08:00</published>
+    <updated>2024-08-02T09:36:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ByteStorage/FlyDB"/>
+    <id>https://github.com/ByteStorage/FlyDB</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ByteStorage/FlyDB" target="_blank">ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang
+制作</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ByteStorage/FlyDB" target="_blank">https://github.com/ByteStorage/FlyDB</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
