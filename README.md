@@ -37,6 +37,9 @@
 
 
 
+
+### August 5, 2024 
+- [JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。](https://github.com/JonPurvis/profanify) 
 ### August 2, 2024 
 - [nextapps-be/laravel-swagger-ui: 为 Laravel 应用程序添加 Swagger UI。](https://github.com/nextapps-be/laravel-swagger-ui) 
 - [ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作](https://github.com/ByteStorage/FlyDB) 
