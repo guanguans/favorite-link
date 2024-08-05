@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 02 Aug 2024 10:03:15 +0800</pubDate>
+    <pubDate>Mon, 05 Aug 2024 09:40:06 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。</title>
+      <pubDate>Mon, 05 Aug 2024 09:40:06 +0800</pubDate>
+      <link>https://github.com/JonPurvis/profanify</link>
+      <guid>https://github.com/JonPurvis/profanify</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JonPurvis/profanify" target="_blank">JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JonPurvis/profanify" target="_blank">https://github.com/JonPurvis/profanify</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nextapps-be/laravel-swagger-ui: 为 Laravel 应用程序添加 Swagger UI。</title>
-      <pubDate>Fri, 02 Aug 2024 10:03:15 +0800</pubDate>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/nextapps-be/laravel-swagger-ui</link>
       <guid>https://github.com/nextapps-be/laravel-swagger-ui</guid>
       <content:encoded><![CDATA[<a href="https://github.com/nextapps-be/laravel-swagger-ui" target="_blank">nextapps-be/laravel-swagger-ui: 为 Laravel 应用程序添加 Swagger UI。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作</title>
-      <pubDate>Fri, 02 Aug 2024 10:03:15 +0800</pubDate>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ByteStorage/FlyDB</link>
       <guid>https://github.com/ByteStorage/FlyDB</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ByteStorage/FlyDB" target="_blank">ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>Sti3bas/laravel-scout-array-driver: Laravel Scout 的数组驱动程序</title>
-      <pubDate>Fri, 02 Aug 2024 10:03:15 +0800</pubDate>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/Sti3bas/laravel-scout-array-driver</link>
       <guid>https://github.com/Sti3bas/laravel-scout-array-driver</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Sti3bas/laravel-scout-array-driver" target="_blank">Sti3bas/laravel-scout-array-driver: Laravel Scout 的数组驱动程序</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>Laravel 11 JSON WeLaravel 11 JSON Web Token(JWT) API 身份验证教程 b Token(JWT) API Authentication Tutorial - ItSolutionStuff.com</title>
-      <pubDate>Fri, 02 Aug 2024 10:03:15 +0800</pubDate>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0800</pubDate>
       <link>JWT) API 身份验证教程 b Token(JWT) API Authentication Tutorial - ItSolutionStuff.com](https://www.itsolutionstuff.com/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html</link>
       <guid isPermaLink="false">JWT) API 身份验证教程 b Token(JWT) API Authentication Tutorial - ItSolutionStuff.com](https://www.itsolutionstuff.com/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html</guid>
       <content:encoded><![CDATA[<a href="JWT) API 身份验证教程 b Token(JWT) API Authentication Tutorial - ItSolutionStuff.com](https://www.itsolutionstuff.com/post/laravel-11-json-web-tokenjwt-api-authentication-tutorialexample.html" target="_blank">Laravel 11 JSON WeLaravel 11 JSON Web Token(JWT) API 身份验证教程 b Token(JWT) API Authentication Tutorial - ItSolutionStuff.com</a>
@@ -63,7 +76,7 @@
     </item>
     <item>
       <title>spatie/pest-plugin-route-testing: 可以轻松测试 Laravel 应用程序的所有简单页面。新页面也会自动进行测试。</title>
-      <pubDate>Fri, 02 Aug 2024 10:03:15 +0800</pubDate>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/spatie/pest-plugin-route-testing/</link>
       <guid>https://github.com/spatie/pest-plugin-route-testing/</guid>
       <content:encoded><![CDATA[<a href="https://github.com/spatie/pest-plugin-route-testing/" target="_blank">spatie/pest-plugin-route-testing: 可以轻松测试 Laravel 应用程序的所有简单页面。新页面也会自动进行测试。</a>
