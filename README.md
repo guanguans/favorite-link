@@ -42,6 +42,7 @@
 - [JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。](https://github.com/JonPurvis/profanify) 
 - [ldez/tagliatelle: 该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。](https://github.com/ldez/tagliatelle) 
 - [surge-ai/profanity: 世界上最大的脏话列表。](https://github.com/surge-ai/profanity) 
+- [reqable/reqable-app: Reqable 是新一代 API 调试和测试一站式解决方案。Reqable 完全支持 HTTP1 和 HTTP2，部分支持 HTTP3(QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。](https://github.com/reqable/reqable-app) 
 ### August 2, 2024 
 - [nextapps-be/laravel-swagger-ui: 为 Laravel 应用程序添加 Swagger UI。](https://github.com/nextapps-be/laravel-swagger-ui) 
 - [ByteStorage/FlyDB: 基于 bitcask 论文的高性能 kv 存储引擎由 golang 制作](https://github.com/ByteStorage/FlyDB) 
