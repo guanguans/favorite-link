@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-08-05T09:53:33+08:00</updated>
+  <updated>2024-08-05T14:04:13+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。]]></title>
-    <published>2024-08-05T09:53:33+08:00</published>
-    <updated>2024-08-05T09:53:33+08:00</updated>
+    <published>2024-08-05T14:04:13+08:00</published>
+    <updated>2024-08-05T14:04:13+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/JonPurvis/profanify"/>
     <id>https://github.com/JonPurvis/profanify</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +30,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ldez/tagliatelle: 该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。]]></title>
-    <published>2024-08-05T09:53:33+08:00</published>
-    <updated>2024-08-05T09:53:33+08:00</updated>
+    <published>2024-08-05T14:04:13+08:00</published>
+    <updated>2024-08-05T14:04:13+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ldez/tagliatelle"/>
     <id>https://github.com/ldez/tagliatelle</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[surge-ai/profanity: 世界上最大的脏话列表。]]></title>
-    <published>2024-08-05T09:53:33+08:00</published>
-    <updated>2024-08-05T09:53:33+08:00</updated>
+    <published>2024-08-05T14:04:13+08:00</published>
+    <updated>2024-08-05T14:04:13+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/surge-ai/profanity"/>
     <id>https://github.com/surge-ai/profanity</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -55,6 +55,25 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/surge-ai/profanity" target="_blank">https://github.com/surge-ai/profanity</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[reqable/reqable-app: Reqable 是新一代 API 调试和测试一站式解决方案。Reqable 完全支持 HTTP1 和 HTTP2，部分支持 HTTP3(QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。]]></title>
+    <published>2024-08-05T14:04:13+08:00</published>
+    <updated>2024-08-05T14:04:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。](https://github.com/reqable/reqable-app"/>
+    <id>QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。](https://github.com/reqable/reqable-app</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="QUIC)%E3%80%82%E7%8E%B0%E5%9C%A8%E5%8F%AF%E5%9C%A8%20Windows%E3%80%81Mac%E3%80%81Linux%E3%80%81Android%20%E5%92%8C%20iOS%20%E4%B8%8A%E4%BD%BF%E7%94%A8%E3%80%82](https://github.com/reqable/reqable-app" target="_blank">reqable/reqable-app: Reqable 是新一代 API
+调试和测试一站式解决方案。Reqable 完全支持 HTTP1 和 HTTP2，部分支持 HTTP3(QUIC)。现在可在
+Windows、Mac、Linux、Android 和 iOS 上使用。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="QUIC)%E3%80%82%E7%8E%B0%E5%9C%A8%E5%8F%AF%E5%9C%A8%20Windows%E3%80%81Mac%E3%80%81Linux%E3%80%81Android%20%E5%92%8C%20iOS%20%E4%B8%8A%E4%BD%BF%E7%94%A8%E3%80%82](https://github.com/reqable/reqable-app" target="_blank">QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS
+上使用。](https://github.com/reqable/reqable-app</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
