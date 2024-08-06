@@ -38,6 +38,9 @@
 
 
 
+
+### August 6, 2024 
+- [logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。](https://github.com/logdyhq/logdy-core) 
 ### August 5, 2024 
 - [JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。](https://github.com/JonPurvis/profanify) 
 - [ldez/tagliatelle: 该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。](https://github.com/ldez/tagliatelle) 
