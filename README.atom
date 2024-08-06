@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-08-06T09:45:22+08:00</updated>
+  <updated>2024-08-06T09:50:19+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。]]></title>
-    <published>2024-08-06T09:45:22+08:00</published>
-    <updated>2024-08-06T09:45:22+08:00</updated>
+    <published>2024-08-06T09:50:19+08:00</published>
+    <updated>2024-08-06T09:50:19+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/logdyhq/logdy-core"/>
     <id>https://github.com/logdyhq/logdy-core</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[chapar-rest/chapar: Chapar 是一个简单易用的 api 测试工具，旨在帮助开发人员测试他们的 api 端点。它支持 http 和 grpc 协议。]]></title>
-    <published>2024-08-06T09:45:22+08:00</published>
-    <updated>2024-08-06T09:45:22+08:00</updated>
+    <published>2024-08-06T09:50:19+08:00</published>
+    <updated>2024-08-06T09:50:19+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/chapar-rest/chapar"/>
     <id>https://github.com/chapar-rest/chapar</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -41,6 +41,23 @@ api 端点。它支持 http 和 grpc 协议。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/chapar-rest/chapar" target="_blank">https://github.com/chapar-rest/chapar</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[neilotoole/sq: sq 是一个命令行工具，提供 jq 风格的结构化数据源访问：SQL 数据库或 CSV 或 Excel 等文档格式。它是 sql+jq 的结晶。]]></title>
+    <published>2024-08-06T09:50:19+08:00</published>
+    <updated>2024-08-06T09:50:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/neilotoole/sq"/>
+    <id>https://github.com/neilotoole/sq</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/neilotoole/sq" target="_blank">neilotoole/sq: sq 是一个命令行工具，提供 jq 风格的结构化数据源访问：SQL 数据库或 CSV
+或 Excel 等文档格式。它是 sql+jq 的结晶。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/neilotoole/sq" target="_blank">https://github.com/neilotoole/sq</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
