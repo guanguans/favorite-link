@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 05 Aug 2024 14:04:13 +0800</pubDate>
+    <pubDate>Tue, 06 Aug 2024 09:40:22 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。</title>
+      <pubDate>Tue, 06 Aug 2024 09:40:22 +0800</pubDate>
+      <link>https://github.com/logdyhq/logdy-core</link>
+      <guid>https://github.com/logdyhq/logdy-core</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/logdyhq/logdy-core" target="_blank">logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/logdyhq/logdy-core" target="_blank">https://github.com/logdyhq/logdy-core</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。</title>
-      <pubDate>Mon, 05 Aug 2024 14:04:13 +0800</pubDate>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/JonPurvis/profanify</link>
       <guid>https://github.com/JonPurvis/profanify</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JonPurvis/profanify" target="_blank">JonPurvis/profanify: 🧼 一个 PestPHP 插件，可帮助捕获应用程序中的亵渎内容。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>ldez/tagliatelle: 该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。</title>
-      <pubDate>Mon, 05 Aug 2024 14:04:13 +0800</pubDate>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/ldez/tagliatelle</link>
       <guid>https://github.com/ldez/tagliatelle</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ldez/tagliatelle" target="_blank">ldez/tagliatelle: 该工具可根据您定义的规则验证标签。该工具还可以根据您定义的规则修复标签。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>surge-ai/profanity: 世界上最大的脏话列表。</title>
-      <pubDate>Mon, 05 Aug 2024 14:04:13 +0800</pubDate>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/surge-ai/profanity</link>
       <guid>https://github.com/surge-ai/profanity</guid>
       <content:encoded><![CDATA[<a href="https://github.com/surge-ai/profanity" target="_blank">surge-ai/profanity: 世界上最大的脏话列表。</a>
@@ -50,7 +63,7 @@
     </item>
     <item>
       <title>reqable/reqable-app: Reqable 是新一代 API 调试和测试一站式解决方案。Reqable 完全支持 HTTP1 和 HTTP2，部分支持 HTTP3(QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。</title>
-      <pubDate>Mon, 05 Aug 2024 14:04:13 +0800</pubDate>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0800</pubDate>
       <link>QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。](https://github.com/reqable/reqable-app</link>
       <guid isPermaLink="false">QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。](https://github.com/reqable/reqable-app</guid>
       <content:encoded><![CDATA[<a href="QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。](https://github.com/reqable/reqable-app" target="_blank">reqable/reqable-app: Reqable 是新一代 API 调试和测试一站式解决方案。Reqable 完全支持 HTTP1 和 HTTP2，部分支持 HTTP3(QUIC)。现在可在 Windows、Mac、Linux、Android 和 iOS 上使用。</a>
