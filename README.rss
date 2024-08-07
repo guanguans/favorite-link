@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 06 Aug 2024 09:50:19 +0800</pubDate>
+    <pubDate>Wed, 07 Aug 2024 09:38:17 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.</title>
+      <pubDate>Wed, 07 Aug 2024 09:38:17 +0800</pubDate>
+      <link>https://github.com/moderato-app/approf</link>
+      <guid>https://github.com/moderato-app/approf</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/moderato-app/approf" target="_blank">moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/moderato-app/approf" target="_blank">https://github.com/moderato-app/approf</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。</title>
-      <pubDate>Tue, 06 Aug 2024 09:50:19 +0800</pubDate>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/logdyhq/logdy-core</link>
       <guid>https://github.com/logdyhq/logdy-core</guid>
       <content:encoded><![CDATA[<a href="https://github.com/logdyhq/logdy-core" target="_blank">logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>chapar-rest/chapar: Chapar 是一个简单易用的 api 测试工具，旨在帮助开发人员测试他们的 api 端点。它支持 http 和 grpc 协议。</title>
-      <pubDate>Tue, 06 Aug 2024 09:50:19 +0800</pubDate>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/chapar-rest/chapar</link>
       <guid>https://github.com/chapar-rest/chapar</guid>
       <content:encoded><![CDATA[<a href="https://github.com/chapar-rest/chapar" target="_blank">chapar-rest/chapar: Chapar 是一个简单易用的 api 测试工具，旨在帮助开发人员测试他们的 api 端点。它支持 http 和 grpc 协议。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>neilotoole/sq: sq 是一个命令行工具，提供 jq 风格的结构化数据源访问：SQL 数据库或 CSV 或 Excel 等文档格式。它是 sql+jq 的结晶。</title>
-      <pubDate>Tue, 06 Aug 2024 09:50:19 +0800</pubDate>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/neilotoole/sq</link>
       <guid>https://github.com/neilotoole/sq</guid>
       <content:encoded><![CDATA[<a href="https://github.com/neilotoole/sq" target="_blank">neilotoole/sq: sq 是一个命令行工具，提供 jq 风格的结构化数据源访问：SQL 数据库或 CSV 或 Excel 等文档格式。它是 sql+jq 的结晶。</a>
