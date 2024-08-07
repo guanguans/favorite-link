@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 07 Aug 2024 09:38:17 +0800</pubDate>
+    <pubDate>Wed, 07 Aug 2024 09:40:06 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.</title>
-      <pubDate>Wed, 07 Aug 2024 09:38:17 +0800</pubDate>
+      <pubDate>Wed, 07 Aug 2024 09:40:06 +0800</pubDate>
       <link>https://github.com/moderato-app/approf</link>
       <guid>https://github.com/moderato-app/approf</guid>
       <content:encoded><![CDATA[<a href="https://github.com/moderato-app/approf" target="_blank">moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/moderato-app/approf" target="_blank">https://github.com/moderato-app/approf</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>yikeke/zh-style-guide: 用于撰写中文技术文档的开源风格指南</title>
+      <pubDate>Wed, 07 Aug 2024 09:40:06 +0800</pubDate>
+      <link>https://github.com/yikeke/zh-style-guide</link>
+      <guid>https://github.com/yikeke/zh-style-guide</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/yikeke/zh-style-guide" target="_blank">yikeke/zh-style-guide: 用于撰写中文技术文档的开源风格指南</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/yikeke/zh-style-guide" target="_blank">https://github.com/yikeke/zh-style-guide</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
