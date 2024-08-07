@@ -44,6 +44,7 @@
 - [moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.](https://github.com/moderato-app/approf) 
 - [yikeke/zh-style-guide: 用于撰写中文技术文档的开源风格指南](https://github.com/yikeke/zh-style-guide) 
 - [liberu-crm/crm-laravel: 使用 Filament 3 用 Laravel 11 / PHP 8.3 编写的 CRM 应用程序](https://github.com/liberu-crm/crm-laravel) 
+- [jaywcjlove/copybook-generator: 《字帖生成器》是一款功能强大的字帖生成工具，旨在满足不同用户的写作练习需求。](https://github.com/jaywcjlove/copybook-generator) 
 ### August 6, 2024 
 - [logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。](https://github.com/logdyhq/logdy-core) 
 - [chapar-rest/chapar: Chapar 是一个简单易用的 api 测试工具，旨在帮助开发人员测试他们的 api 端点。它支持 http 和 grpc 协议。](https://github.com/chapar-rest/chapar) 
