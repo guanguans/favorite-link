@@ -39,6 +39,9 @@
 
 
 
+
+### August 7, 2024 
+- [moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.](https://github.com/moderato-app/approf) 
 ### August 6, 2024 
 - [logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。](https://github.com/logdyhq/logdy-core) 
 - [chapar-rest/chapar: Chapar 是一个简单易用的 api 测试工具，旨在帮助开发人员测试他们的 api 端点。它支持 http 和 grpc 协议。](https://github.com/chapar-rest/chapar) 
