@@ -45,6 +45,7 @@
 - [yikeke/zh-style-guide: 用于撰写中文技术文档的开源风格指南](https://github.com/yikeke/zh-style-guide) 
 - [liberu-crm/crm-laravel: 使用 Filament 3 用 Laravel 11 / PHP 8.3 编写的 CRM 应用程序](https://github.com/liberu-crm/crm-laravel) 
 - [jaywcjlove/copybook-generator: 《字帖生成器》是一款功能强大的字帖生成工具，旨在满足不同用户的写作练习需求。](https://github.com/jaywcjlove/copybook-generator) 
+- [当涉及到一个简单的速率限制器时，您希望对 IP 地址和用户名/电子邮件进行速率限制，同时保持它们彼此独立，以防止其中一个很容易旋转以绕过限制器。](https://securinglaravel.com/security-tip-multiple-rate-limits/) 
 ### August 6, 2024 
 - [logdyhq/logdy-core: 基于网络的实时日志查看器。利用自动生成的过滤器，将任何内容流式传输到网络用户界面。](https://github.com/logdyhq/logdy-core) 
 - [chapar-rest/chapar: Chapar 是一个简单易用的 api 测试工具，旨在帮助开发人员测试他们的 api 端点。它支持 http 和 grpc 协议。](https://github.com/chapar-rest/chapar) 
