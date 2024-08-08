@@ -45,6 +45,7 @@
 - [kakserpom/phpdaemon: 使用 libevent 在 PHP 中为网络应用程序实施异步服务器端框架](https://github.com/kakserpom/phpdaemon) 
 - [netdcy/FlowVision: 适用于 macOS 的瀑布式图片浏览器，提供流畅、身临其境的浏览体验。](https://github.com/netdcy/FlowVision) 
 - [DeGraciaMathieu/php-variable-lifetime-analyzer: php-变量生命周期分析器](https://github.com/DeGraciaMathieu/php-variable-lifetime-analyzer) 
+- [rahulalam31/Laravel-Abuse-IP: 为 Laravel 添加了一个安全机制，用于检查 IP 地址是否安全或是否被标记为垃圾邮件，以避免垃圾邮件发送者和伪造数据对网站造成影响。](https://github.com/rahulalam31/Laravel-Abuse-IP) 
 ### August 7, 2024 
 - [moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.](https://github.com/moderato-app/approf) 
 - [yikeke/zh-style-guide: 用于撰写中文技术文档的开源风格指南](https://github.com/yikeke/zh-style-guide) 
