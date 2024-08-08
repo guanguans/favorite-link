@@ -43,6 +43,7 @@
 
 ### August 8, 2024 
 - [kakserpom/phpdaemon: 使用 libevent 在 PHP 中为网络应用程序实施异步服务器端框架](https://github.com/kakserpom/phpdaemon) 
+- [netdcy/FlowVision: 适用于 macOS 的瀑布式图片浏览器，提供流畅、身临其境的浏览体验。](https://github.com/netdcy/FlowVision) 
 ### August 7, 2024 
 - [moderato-app/approf: 无需命令行即可打开 pprof 配置文件 ✨.](https://github.com/moderato-app/approf) 
 - [yikeke/zh-style-guide: 用于撰写中文技术文档的开源风格指南](https://github.com/yikeke/zh-style-guide) 
