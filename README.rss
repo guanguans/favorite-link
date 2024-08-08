@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 08 Aug 2024 13:06:09 +0800</pubDate>
+    <pubDate>Thu, 08 Aug 2024 13:09:44 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,39 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>kakserpom/phpdaemon: 使用 libevent 在 PHP 中为网络应用程序实施异步服务器端框架</title>
-      <pubDate>Thu, 08 Aug 2024 13:06:09 +0800</pubDate>
+      <pubDate>Thu, 08 Aug 2024 13:09:44 +0800</pubDate>
       <link>https://github.com/kakserpom/phpdaemon</link>
       <guid>https://github.com/kakserpom/phpdaemon</guid>
       <content:encoded><![CDATA[<a href="https://github.com/kakserpom/phpdaemon" target="_blank">kakserpom/phpdaemon: 使用 libevent 在 PHP 中为网络应用程序实施异步服务器端框架</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/kakserpom/phpdaemon" target="_blank">https://github.com/kakserpom/phpdaemon</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>netdcy/FlowVision: 适用于 macOS 的瀑布式图片浏览器，提供流畅、身临其境的浏览体验。</title>
+      <pubDate>Thu, 08 Aug 2024 13:09:44 +0800</pubDate>
+      <link>https://github.com/netdcy/FlowVision</link>
+      <guid>https://github.com/netdcy/FlowVision</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/netdcy/FlowVision" target="_blank">netdcy/FlowVision: 适用于 macOS 的瀑布式图片浏览器，提供流畅、身临其境的浏览体验。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/netdcy/FlowVision" target="_blank">https://github.com/netdcy/FlowVision</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>DeGraciaMathieu/php-variable-lifetime-analyzer: php-变量生命周期分析器</title>
+      <pubDate>Thu, 08 Aug 2024 13:09:44 +0800</pubDate>
+      <link>https://github.com/DeGraciaMathieu/php-variable-lifetime-analyzer</link>
+      <guid>https://github.com/DeGraciaMathieu/php-variable-lifetime-analyzer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/DeGraciaMathieu/php-variable-lifetime-analyzer" target="_blank">DeGraciaMathieu/php-variable-lifetime-analyzer: php-变量生命周期分析器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/DeGraciaMathieu/php-variable-lifetime-analyzer" target="_blank">https://github.com/DeGraciaMathieu/php-variable-lifetime-analyzer</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
