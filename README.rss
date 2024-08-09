@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 09 Aug 2024 09:35:46 +0800</pubDate>
+    <pubDate>Fri, 09 Aug 2024 18:19:09 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>benbjurstrom/prezet: 🚀 Laravel 的 Markdown 博客！</title>
-      <pubDate>Fri, 09 Aug 2024 09:35:46 +0800</pubDate>
+      <pubDate>Fri, 09 Aug 2024 18:19:09 +0800</pubDate>
       <link>https://github.com/benbjurstrom/prezet</link>
       <guid>https://github.com/benbjurstrom/prezet</guid>
       <content:encoded><![CDATA[<a href="https://github.com/benbjurstrom/prezet" target="_blank">benbjurstrom/prezet: 🚀 Laravel 的 Markdown 博客！</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>rajentrivedi/tokenizer-x: OpenAI 令牌计算器</title>
-      <pubDate>Fri, 09 Aug 2024 09:35:46 +0800</pubDate>
+      <pubDate>Fri, 09 Aug 2024 18:19:09 +0800</pubDate>
       <link>https://github.com/rajentrivedi/tokenizer-x</link>
       <guid>https://github.com/rajentrivedi/tokenizer-x</guid>
       <content:encoded><![CDATA[<a href="https://github.com/rajentrivedi/tokenizer-x" target="_blank">rajentrivedi/tokenizer-x: OpenAI 令牌计算器</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>EchoVault/EchoVault: Redis 的可嵌入和分布式内存替代方案。</title>
-      <pubDate>Fri, 09 Aug 2024 09:35:46 +0800</pubDate>
+      <pubDate>Fri, 09 Aug 2024 18:19:09 +0800</pubDate>
       <link>https://github.com/EchoVault/EchoVault</link>
       <guid>https://github.com/EchoVault/EchoVault</guid>
       <content:encoded><![CDATA[<a href="https://github.com/EchoVault/EchoVault" target="_blank">EchoVault/EchoVault: Redis 的可嵌入和分布式内存替代方案。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/EchoVault/EchoVault" target="_blank">https://github.com/EchoVault/EchoVault</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>luckjiawei/frpc-desktop: 一个 frpc 桌面客户端</title>
+      <pubDate>Fri, 09 Aug 2024 18:19:09 +0800</pubDate>
+      <link>https://github.com/luckjiawei/frpc-desktop</link>
+      <guid>https://github.com/luckjiawei/frpc-desktop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/luckjiawei/frpc-desktop" target="_blank">luckjiawei/frpc-desktop: 一个 frpc 桌面客户端</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/luckjiawei/frpc-desktop" target="_blank">https://github.com/luckjiawei/frpc-desktop</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

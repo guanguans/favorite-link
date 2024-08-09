@@ -46,7 +46,7 @@
 - [benbjurstrom/prezet: 🚀 Laravel 的 Markdown 博客！](https://github.com/benbjurstrom/prezet) 
 - [rajentrivedi/tokenizer-x: OpenAI 令牌计算器](https://github.com/rajentrivedi/tokenizer-x) 
 - [EchoVault/EchoVault: Redis 的可嵌入和分布式内存替代方案。](https://github.com/EchoVault/EchoVault) 
-- [luckjiawei/frpc-desktop: 一个frpc桌面客户端](https://github.com/luckjiawei/frpc-desktop) 
+- [luckjiawei/frpc-desktop: 一个 frpc 桌面客户端](https://github.com/luckjiawei/frpc-desktop) 
 ### August 8, 2024 
 - [kakserpom/phpdaemon: 使用 libevent 在 PHP 中为网络应用程序实施异步服务器端框架](https://github.com/kakserpom/phpdaemon) 
 - [netdcy/FlowVision: 适用于 macOS 的瀑布式图片浏览器，提供流畅、身临其境的浏览体验。](https://github.com/netdcy/FlowVision) 
