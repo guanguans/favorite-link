@@ -42,6 +42,9 @@
 
 
 
+
+### August 12, 2024 
+- [Laravel 中的 SOLID 原则](https://fajar.labkita.my.id/posts/solid-principles-in-laravel) 
 ### August 9, 2024 
 - [benbjurstrom/prezet: 🚀 Laravel 的 Markdown 博客！](https://github.com/benbjurstrom/prezet) 
 - [rajentrivedi/tokenizer-x: OpenAI 令牌计算器](https://github.com/rajentrivedi/tokenizer-x) 
