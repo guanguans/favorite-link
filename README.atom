@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-08-09T18:19:09+08:00</updated>
+  <updated>2024-08-12T09:38:26+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Laravel 中的 SOLID 原则]]></title>
+    <published>2024-08-12T09:38:26+08:00</published>
+    <updated>2024-08-12T09:38:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://fajar.labkita.my.id/posts/solid-principles-in-laravel"/>
+    <id>https://fajar.labkita.my.id/posts/solid-principles-in-laravel</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://fajar.labkita.my.id/posts/solid-principles-in-laravel" target="_blank">Laravel 中的 SOLID 原则</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://fajar.labkita.my.id/posts/solid-principles-in-laravel" target="_blank">https://fajar.labkita.my.id/posts/solid-principles-in-laravel</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[benbjurstrom/prezet: 🚀 Laravel 的 Markdown 博客！]]></title>
-    <published>2024-08-09T18:19:09+08:00</published>
-    <updated>2024-08-09T18:19:09+08:00</updated>
+    <published>2024-08-09T00:00:00+08:00</published>
+    <updated>2024-08-09T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/benbjurstrom/prezet"/>
     <id>https://github.com/benbjurstrom/prezet</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rajentrivedi/tokenizer-x: OpenAI 令牌计算器]]></title>
-    <published>2024-08-09T18:19:09+08:00</published>
-    <updated>2024-08-09T18:19:09+08:00</updated>
+    <published>2024-08-09T00:00:00+08:00</published>
+    <updated>2024-08-09T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/rajentrivedi/tokenizer-x"/>
     <id>https://github.com/rajentrivedi/tokenizer-x</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -46,8 +62,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[EchoVault/EchoVault: Redis 的可嵌入和分布式内存替代方案。]]></title>
-    <published>2024-08-09T18:19:09+08:00</published>
-    <updated>2024-08-09T18:19:09+08:00</updated>
+    <published>2024-08-09T00:00:00+08:00</published>
+    <updated>2024-08-09T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/EchoVault/EchoVault"/>
     <id>https://github.com/EchoVault/EchoVault</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -62,8 +78,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[luckjiawei/frpc-desktop: 一个 frpc 桌面客户端]]></title>
-    <published>2024-08-09T18:19:09+08:00</published>
-    <updated>2024-08-09T18:19:09+08:00</updated>
+    <published>2024-08-09T00:00:00+08:00</published>
+    <updated>2024-08-09T00:00:00+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/luckjiawei/frpc-desktop"/>
     <id>https://github.com/luckjiawei/frpc-desktop</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
