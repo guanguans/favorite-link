@@ -46,6 +46,7 @@
 ### August 12, 2024 
 - [Laravel 中的 SOLID 原则](https://fajar.labkita.my.id/posts/solid-principles-in-laravel) 
 - [vcian/pulse-active-sessions: 用于统计活跃用户数的 Laravel Pulse 卡。](https://github.com/vcian/pulse-active-sessions) 
+- [wflixu/AIME: 根据当前应用自动切换输入法](https://github.com/wflixu/AIME) 
 ### August 9, 2024 
 - [benbjurstrom/prezet: 🚀 Laravel 的 Markdown 博客！](https://github.com/benbjurstrom/prezet) 
 - [rajentrivedi/tokenizer-x: OpenAI 令牌计算器](https://github.com/rajentrivedi/tokenizer-x) 
