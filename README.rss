@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 12 Aug 2024 09:47:34 +0800</pubDate>
+    <pubDate>Mon, 12 Aug 2024 09:58:02 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Laravel 中的 SOLID 原则</title>
-      <pubDate>Mon, 12 Aug 2024 09:47:34 +0800</pubDate>
+      <pubDate>Mon, 12 Aug 2024 09:58:02 +0800</pubDate>
       <link>https://fajar.labkita.my.id/posts/solid-principles-in-laravel</link>
       <guid>https://fajar.labkita.my.id/posts/solid-principles-in-laravel</guid>
       <content:encoded><![CDATA[<a href="https://fajar.labkita.my.id/posts/solid-principles-in-laravel" target="_blank">Laravel 中的 SOLID 原则</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>vcian/pulse-active-sessions: 用于统计活跃用户数的 Laravel Pulse 卡。</title>
-      <pubDate>Mon, 12 Aug 2024 09:47:34 +0800</pubDate>
+      <pubDate>Mon, 12 Aug 2024 09:58:02 +0800</pubDate>
       <link>https://github.com/vcian/pulse-active-sessions</link>
       <guid>https://github.com/vcian/pulse-active-sessions</guid>
       <content:encoded><![CDATA[<a href="https://github.com/vcian/pulse-active-sessions" target="_blank">vcian/pulse-active-sessions: 用于统计活跃用户数的 Laravel Pulse 卡。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/vcian/pulse-active-sessions" target="_blank">https://github.com/vcian/pulse-active-sessions</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>wflixu/AIME: 根据当前应用自动切换输入法</title>
+      <pubDate>Mon, 12 Aug 2024 09:58:02 +0800</pubDate>
+      <link>https://github.com/wflixu/AIME</link>
+      <guid>https://github.com/wflixu/AIME</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/wflixu/AIME" target="_blank">wflixu/AIME: 根据当前应用自动切换输入法</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/wflixu/AIME" target="_blank">https://github.com/wflixu/AIME</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
