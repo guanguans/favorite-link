@@ -47,6 +47,7 @@
 ### August 13, 2024 
 - [recca0120/laravel-repository: 带有 Eloquent 或 Collection 的 Laravel 的存储库设计模式](https://github.com/recca0120/laravel-repository) 
 - [awes-io/repository: 🖖Laravel 中的存储库模式。该软件包允许开箱即用地按请求进行过滤，以及集成定制标准和任何类型的过滤器。](https://github.com/awes-io/repository) 
+- [PHP OPCache：提升Laravel性能的秘密武器](https://qirolab.com/posts/php-opcache-the-secret-weapon-for-laravel-performance-boost) 
 ### August 12, 2024 
 - [Laravel 中的 SOLID 原则](https://fajar.labkita.my.id/posts/solid-principles-in-laravel) 
 - [vcian/pulse-active-sessions: 用于统计活跃用户数的 Laravel Pulse 卡。](https://github.com/vcian/pulse-active-sessions) 
