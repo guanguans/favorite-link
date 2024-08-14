@@ -47,6 +47,7 @@
 
 ### August 14, 2024 
 - [安全提示：定时攻击的时间盒](https://securinglaravel.com/security-tip-timebox-for-timing-attacks/) 
+- [linux-china/Workspaces: JetBrains 该插件使您能够在项目内创建和管理命名的文件组或“工作区”。您可以将名称绑定到一组一个或多个文件，然后作为一组打开/关闭该组文件。](https://github.com/linux-china/Workspaces) 
 ### August 13, 2024 
 - [recca0120/laravel-repository: 带有 Eloquent 或 Collection 的 Laravel 的存储库设计模式](https://github.com/recca0120/laravel-repository) 
 - [awes-io/repository: 🖖Laravel 中的存储库模式。该软件包允许开箱即用地按请求进行过滤，以及集成定制标准和任何类型的过滤器。](https://github.com/awes-io/repository) 
