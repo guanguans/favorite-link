@@ -49,6 +49,7 @@
 ### August 15, 2024 
 - [divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。](https://github.com/divengine/laze) 
 - [Releem/mysqlconfigurer: Releem 是一款简单的 MySQL 调整工具，可提高数据库性能并降低服务器成本。](https://github.com/Releem/mysqlconfigurer) 
+- [Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表](https://github.com/Releem/awesome-mysql-performance) 
 ### August 14, 2024 
 - [安全提示：定时攻击的时间盒](https://securinglaravel.com/security-tip-timebox-for-timing-attacks/) 
 - [linux-china/Workspaces: JetBrains 该插件使您能够在项目内创建和管理命名的文件组或“工作区”。您可以将名称绑定到一组一个或多个文件，然后作为一组打开/关闭该组文件。](https://github.com/linux-china/Workspaces) 
