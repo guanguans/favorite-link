@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 14 Aug 2024 18:22:42 +0800</pubDate>
+    <pubDate>Thu, 15 Aug 2024 09:36:59 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。</title>
+      <pubDate>Thu, 15 Aug 2024 09:36:59 +0800</pubDate>
+      <link>https://github.com/divengine/laze</link>
+      <guid>https://github.com/divengine/laze</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/divengine/laze" target="_blank">divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/divengine/laze" target="_blank">https://github.com/divengine/laze</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>安全提示：定时攻击的时间盒</title>
-      <pubDate>Wed, 14 Aug 2024 18:22:42 +0800</pubDate>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://securinglaravel.com/security-tip-timebox-for-timing-attacks/</link>
       <guid>https://securinglaravel.com/security-tip-timebox-for-timing-attacks/</guid>
       <content:encoded><![CDATA[<a href="https://securinglaravel.com/security-tip-timebox-for-timing-attacks/" target="_blank">安全提示：定时攻击的时间盒</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>linux-china/Workspaces: JetBrains 该插件使您能够在项目内创建和管理命名的文件组或“工作区”。您可以将名称绑定到一组一个或多个文件，然后作为一组打开/关闭该组文件。</title>
-      <pubDate>Wed, 14 Aug 2024 18:22:42 +0800</pubDate>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0800</pubDate>
       <link>https://github.com/linux-china/Workspaces</link>
       <guid>https://github.com/linux-china/Workspaces</guid>
       <content:encoded><![CDATA[<a href="https://github.com/linux-china/Workspaces" target="_blank">linux-china/Workspaces: JetBrains 该插件使您能够在项目内创建和管理命名的文件组或“工作区”。您可以将名称绑定到一组一个或多个文件，然后作为一组打开/关闭该组文件。</a>
