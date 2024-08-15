@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 15 Aug 2024 09:36:59 +0800</pubDate>
+    <pubDate>Thu, 15 Aug 2024 10:27:55 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,39 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。</title>
-      <pubDate>Thu, 15 Aug 2024 09:36:59 +0800</pubDate>
+      <pubDate>Thu, 15 Aug 2024 10:27:55 +0800</pubDate>
       <link>https://github.com/divengine/laze</link>
       <guid>https://github.com/divengine/laze</guid>
       <content:encoded><![CDATA[<a href="https://github.com/divengine/laze" target="_blank">divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/divengine/laze" target="_blank">https://github.com/divengine/laze</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Releem/mysqlconfigurer: Releem 是一款简单的 MySQL 调整工具，可提高数据库性能并降低服务器成本。</title>
+      <pubDate>Thu, 15 Aug 2024 10:27:55 +0800</pubDate>
+      <link>https://github.com/Releem/mysqlconfigurer</link>
+      <guid>https://github.com/Releem/mysqlconfigurer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Releem/mysqlconfigurer" target="_blank">Releem/mysqlconfigurer: Releem 是一款简单的 MySQL 调整工具，可提高数据库性能并降低服务器成本。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Releem/mysqlconfigurer" target="_blank">https://github.com/Releem/mysqlconfigurer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表</title>
+      <pubDate>Thu, 15 Aug 2024 10:27:55 +0800</pubDate>
+      <link>https://github.com/Releem/awesome-mysql-performance</link>
+      <guid>https://github.com/Releem/awesome-mysql-performance</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Releem/awesome-mysql-performance" target="_blank">Releem/awesome-mysql-performance: 与 MySQL / MariaDB / Percona 性能调优相关的超赞链接精选列表</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Releem/awesome-mysql-performance" target="_blank">https://github.com/Releem/awesome-mysql-performance</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
