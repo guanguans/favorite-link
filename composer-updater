@@ -220,7 +220,7 @@ $status = (new SingleCommandApplication)
 
             private function getComposerBinary(?string $composerBinary = null, ?string $phpBinary = null): string
             {
-                return sprintf(
+                return \sprintf(
                     '%s %s',
                     $phpBinary ?? (new PhpExecutableFinder)->find(),
                     $composerBinary ?? (new ExecutableFinder)->find('composer')
