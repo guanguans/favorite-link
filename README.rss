@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>amphp/redis: 与 Redis 服务器进行高效的异步通信，实现可扩展、响应迅速的数据存储和检索。</title>
+      <pubDate>Wed, 14 Aug 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/amphp/redis</link>
+      <guid>https://github.com/amphp/redis</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/amphp/redis" target="_blank">amphp/redis: 与 Redis 服务器进行高效的异步通信，实现可扩展、响应迅速的数据存储和检索。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/amphp/redis" target="_blank">https://github.com/amphp/redis</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。</title>
       <pubDate>Wed, 14 Aug 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/divengine/laze</link>

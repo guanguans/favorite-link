@@ -82,6 +82,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[amphp/redis: 与 Redis 服务器进行高效的异步通信，实现可扩展、响应迅速的数据存储和检索。]]></title>
+    <published>2024-08-14T08:00:00+00:00</published>
+    <updated>2024-08-14T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/amphp/redis"/>
+    <id>https://github.com/amphp/redis</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/amphp/redis" target="_blank">amphp/redis: 与 Redis 服务器进行高效的异步通信，实现可扩展、响应迅速的数据存储和检索。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/amphp/redis" target="_blank">https://github.com/amphp/redis</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。]]></title>
     <published>2024-08-14T16:00:00+00:00</published>
     <updated>2024-08-14T16:00:00+00:00</updated>
