@@ -14,6 +14,7 @@ declare(strict_types=1);
 use Rector\Caching\ValueObject\Storage\FileCacheStorage;
 use Rector\CodeQuality\Rector\If_\ExplicitBoolCompareRector;
 use Rector\CodeQuality\Rector\LogicalAnd\LogicalToBooleanRector;
+use Rector\CodingStyle\Rector\ArrowFunction\StaticArrowFunctionRector;
 use Rector\CodingStyle\Rector\Closure\StaticClosureRector;
 use Rector\CodingStyle\Rector\Encapsed\EncapsedStringsToSprintfRector;
 use Rector\CodingStyle\Rector\Encapsed\WrapEncapsedVariableInCurlyBracesRector;
@@ -22,7 +23,6 @@ use Rector\Config\RectorConfig;
 use Rector\DeadCode\Rector\ClassMethod\RemoveEmptyClassMethodRector;
 use Rector\DeadCode\Rector\ClassMethod\RemoveUselessReturnTagRector;
 use Rector\DowngradePhp80\Rector\FuncCall\DowngradeArrayFilterNullableCallbackRector;
-use Rector\EarlyReturn\Rector\If_\ChangeAndIfToEarlyReturnRector;
 use Rector\EarlyReturn\Rector\Return_\ReturnBinaryOrToEarlyReturnRector;
 use Rector\Php73\Rector\String_\SensitiveHereNowDocRector;
 use Rector\PHPUnit\CodeQuality\Rector\Class_\AddSeeTestAnnotationRector;
@@ -75,7 +75,6 @@ return static function (RectorConfig $rectorConfig): void {
 
     $rectorConfig->skip([
         AddSeeTestAnnotationRector::class,
-        ChangeAndIfToEarlyReturnRector::class,
         DowngradeArrayFilterNullableCallbackRector::class,
         EncapsedStringsToSprintfRector::class,
         ExplicitBoolCompareRector::class,
@@ -132,6 +131,10 @@ return static function (RectorConfig $rectorConfig): void {
     $rectorConfig->rules([
         // SortAssociativeArrayByKeyRector::class,
         // ToInternalExceptionRector::class,
+        AddSeeTestAnnotationRector::class,
+        DowngradeArrayFilterNullableCallbackRector::class,
+        StaticArrowFunctionRector::class,
+        StaticClosureRector::class,
     ]);
 
     $rectorConfig->ruleWithConfiguration(RenameFunctionRector::class, [
