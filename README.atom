@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-08-16T10:55:56+08:00</updated>
+  <updated>2024-08-16T11:24:46+08:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ranchero-Software/NetNewsWire: 适用于 macOS 和 iOS 的 RSS 阅读器。]]></title>
-    <published>2024-08-16T10:55:56+08:00</published>
-    <updated>2024-08-16T10:55:56+08:00</updated>
+    <published>2024-08-16T11:24:46+08:00</published>
+    <updated>2024-08-16T11:24:46+08:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Ranchero-Software/NetNewsWire"/>
     <id>https://github.com/Ranchero-Software/NetNewsWire</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +31,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币 (secp256k1、ed25519、..)]]></title>
-    <published>2024-08-16T10:55:56+08:00</published>
-    <updated>2024-08-16T10:55:56+08:00</updated>
+    <published>2024-08-16T11:24:46+08:00</published>
+    <updated>2024-08-16T11:24:46+08:00</updated>
     <link rel="alternate" type="text/html" href="secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php"/>
     <id>secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -48,8 +48,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kornrunner/php-keccak: Keccak (SHA-3) 的纯 PHP 实现]]></title>
-    <published>2024-08-16T10:55:56+08:00</published>
-    <updated>2024-08-16T10:55:56+08:00</updated>
+    <published>2024-08-16T11:24:46+08:00</published>
+    <updated>2024-08-16T11:24:46+08:00</updated>
     <link rel="alternate" type="text/html" href="SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak"/>
     <id>SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -58,6 +58,24 @@
 <xhtml:ul>
 <xhtml:li><xhtml:a href="SHA-3)%20%E7%9A%84%E7%BA%AF%20PHP%20%E5%AE%9E%E7%8E%B0](https://github.com/kornrunner/php-keccak" target="_blank">SHA-3) 的纯 PHP
 实现](https://github.com/kornrunner/php-keccak</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[continuedev/continue: ⏩ Continue 是领先的开源代码助手。您可以连接任何模型和任何上下文，以在 VS Code 和 JetBrains 中构建自定义自动完成和聊天体验]]></title>
+    <published>2024-08-16T11:24:46+08:00</published>
+    <updated>2024-08-16T11:24:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/continuedev/continue"/>
+    <id>https://github.com/continuedev/continue</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/continuedev/continue" target="_blank">continuedev/continue: ⏩ Continue
+是领先的开源代码助手。您可以连接任何模型和任何上下文，以在 VS Code 和 JetBrains
+中构建自定义自动完成和聊天体验</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/continuedev/continue" target="_blank">https://github.com/continuedev/continue</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>

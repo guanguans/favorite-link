@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 16 Aug 2024 10:55:56 +0800</pubDate>
+    <pubDate>Fri, 16 Aug 2024 11:24:46 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Ranchero-Software/NetNewsWire: 适用于 macOS 和 iOS 的 RSS 阅读器。</title>
-      <pubDate>Fri, 16 Aug 2024 10:55:56 +0800</pubDate>
+      <pubDate>Fri, 16 Aug 2024 11:24:46 +0800</pubDate>
       <link>https://github.com/Ranchero-Software/NetNewsWire</link>
       <guid>https://github.com/Ranchero-Software/NetNewsWire</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Ranchero-Software/NetNewsWire" target="_blank">Ranchero-Software/NetNewsWire: 适用于 macOS 和 iOS 的 RSS 阅读器。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币 (secp256k1、ed25519、..)</title>
-      <pubDate>Fri, 16 Aug 2024 10:55:56 +0800</pubDate>
+      <pubDate>Fri, 16 Aug 2024 11:24:46 +0800</pubDate>
       <link>secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php</link>
       <guid isPermaLink="false">secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php</guid>
       <content:encoded><![CDATA[<a href="secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php" target="_blank">simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币 (secp256k1、ed25519、..)</a>
@@ -37,13 +37,26 @@
     </item>
     <item>
       <title>kornrunner/php-keccak: Keccak (SHA-3) 的纯 PHP 实现</title>
-      <pubDate>Fri, 16 Aug 2024 10:55:56 +0800</pubDate>
+      <pubDate>Fri, 16 Aug 2024 11:24:46 +0800</pubDate>
       <link>SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak</link>
       <guid isPermaLink="false">SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak</guid>
       <content:encoded><![CDATA[<a href="SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak" target="_blank">kornrunner/php-keccak: Keccak (SHA-3) 的纯 PHP 实现</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak" target="_blank">SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>continuedev/continue: ⏩ Continue 是领先的开源代码助手。您可以连接任何模型和任何上下文，以在 VS Code 和 JetBrains 中构建自定义自动完成和聊天体验</title>
+      <pubDate>Fri, 16 Aug 2024 11:24:46 +0800</pubDate>
+      <link>https://github.com/continuedev/continue</link>
+      <guid>https://github.com/continuedev/continue</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/continuedev/continue" target="_blank">continuedev/continue: ⏩ Continue 是领先的开源代码助手。您可以连接任何模型和任何上下文，以在 VS Code 和 JetBrains 中构建自定义自动完成和聊天体验</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/continuedev/continue" target="_blank">https://github.com/continuedev/continue</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
