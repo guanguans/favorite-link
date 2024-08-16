@@ -16,6 +16,7 @@
 - [simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币 (secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php) 
 - [kornrunner/php-keccak: Keccak (SHA-3) 的纯 PHP 实现](https://github.com/kornrunner/php-keccak) 
 - [continuedev/continue: ⏩ Continue 是领先的开源代码助手。您可以连接任何模型和任何上下文，以在 VS Code 和 JetBrains 中构建自定义自动完成和聊天体验](https://github.com/continuedev/continue) 
+- [amphp/redis: 与 Redis 服务器进行高效的异步通信，实现可扩展、响应迅速的数据存储和检索。](https://github.com/amphp/redis) 
 ### August 15, 2024 
 - [divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。](https://github.com/divengine/laze) 
 - [Releem/mysqlconfigurer: Releem 是一款简单的 MySQL 调整工具，可提高数据库性能并降低服务器成本。](https://github.com/Releem/mysqlconfigurer) 
