@@ -49,7 +49,7 @@
 
 ### August 16, 2024 
 - [Ranchero-Software/NetNewsWire: 适用于 macOS 和 iOS 的 RSS 阅读器。](https://github.com/Ranchero-Software/NetNewsWire) 
-- [simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币（secp256k1、ed25519、..）](https://github.com/simplito/elliptic-php) 
+- [simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币 (secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php) 
 ### August 15, 2024 
 - [divengine/laze: 用于使用不可变值和约束条件进行懒惰评估的 PHP 库，可实现高效的资源管理、灵活的配置以及安全的条件评估数据。](https://github.com/divengine/laze) 
 - [Releem/mysqlconfigurer: Releem 是一款简单的 MySQL 调整工具，可提高数据库性能并降低服务器成本。](https://github.com/Releem/mysqlconfigurer) 
