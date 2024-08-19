@@ -62,6 +62,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[romanzipp/Laravel-Projectable-Aggregates: 🖇️ 在模型中轻松存储聚合值，如计数、总和、平均值等]]></title>
+    <published>2024-08-17T16:00:00+00:00</published>
+    <updated>2024-08-17T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/romanzipp/Laravel-Projectable-Aggregates"/>
+    <id>https://github.com/romanzipp/Laravel-Projectable-Aggregates</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/romanzipp/Laravel-Projectable-Aggregates" target="_blank">romanzipp/Laravel-Projectable-Aggregates: 🖇️
+在模型中轻松存储聚合值，如计数、总和、平均值等</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/romanzipp/Laravel-Projectable-Aggregates" target="_blank">https://github.com/romanzipp/Laravel-Projectable-Aggregates</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ranchero-Software/NetNewsWire: 适用于 macOS 和 iOS 的 RSS 阅读器。]]></title>
     <published>2024-08-15T16:00:00+00:00</published>
     <updated>2024-08-15T16:00:00+00:00</updated>
