@@ -17,6 +17,7 @@
 - [apih/laravel-route-list-web: 通过浏览器中的网页查看 Laravel 应用程序的所有路径](https://github.com/apih/laravel-route-list-web) 
 - [Thavarshan/comet: 由 FFmpeg 支持的跨平台应用程序，可实现简单、美观的视频转换。](https://github.com/Thavarshan/comet) 
 - [romanzipp/Laravel-Projectable-Aggregates: 🖇️ 在模型中轻松存储聚合值，如计数、总和、平均值等](https://github.com/romanzipp/Laravel-Projectable-Aggregates) 
+- [kkguan/php-accessor: 为 PHP 生成 getter 和 setter 方法](https://github.com/kkguan/php-accessor) 
 ### August 16, 2024 
 - [Ranchero-Software/NetNewsWire: 适用于 macOS 和 iOS 的 RSS 阅读器。](https://github.com/Ranchero-Software/NetNewsWire) 
 - [simplito/elliptic-php: 快速、通用的椭圆曲线加密库。支持比特币、以太坊和其他加密货币 (secp256k1、ed25519、..)](https://github.com/simplito/elliptic-php) 
