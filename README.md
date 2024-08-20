@@ -12,6 +12,9 @@
 
 
 
+
+### August 20, 2024 
+- [hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写](https://github.com/hadolint/hadolint) 
 ### August 19, 2024 
 - [cloudwego/goref: Go 堆对象引用分析工具](https://github.com/cloudwego/goref) 
 - [apih/laravel-route-list-web: 通过浏览器中的网页查看 Laravel 应用程序的所有路径](https://github.com/apih/laravel-route-list-web) 
