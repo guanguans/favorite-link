@@ -16,6 +16,7 @@
 ### August 20, 2024 
 - [hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写](https://github.com/hadolint/hadolint) 
 - [butschster/proto-parser: Proto 解析器是将协议缓冲区文件解析为 AST 的库](https://github.com/butschster/proto-parser) 
+- [027xiguapi/code-box: 本插件可以用于CSDN/知乎/脚本之家/博客园等网站,实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.](https://github.com/027xiguapi/code-box) 
 ### August 19, 2024 
 - [cloudwego/goref: Go 堆对象引用分析工具](https://github.com/cloudwego/goref) 
 - [apih/laravel-route-list-web: 通过浏览器中的网页查看 Laravel 应用程序的所有路径](https://github.com/apih/laravel-route-list-web) 
