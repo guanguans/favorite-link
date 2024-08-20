@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>027xiguapi/code-box: 本插件可以用于 CSDN/知乎/脚本之家/博客园等网站, 实现无需登录一键复制代码; 支持选中代码; 或者代码右上角按钮的一键复制; 解除关注博主即可阅读全文提示; 去除登录弹窗; 去除跳转 APP 弹窗.</title>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/027xiguapi/code-box</link>
+      <guid>https://github.com/027xiguapi/code-box</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/027xiguapi/code-box" target="_blank">027xiguapi/code-box: 本插件可以用于 CSDN/知乎/脚本之家/博客园等网站, 实现无需登录一键复制代码; 支持选中代码; 或者代码右上角按钮的一键复制; 解除关注博主即可阅读全文提示; 去除登录弹窗; 去除跳转 APP 弹窗.</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/027xiguapi/code-box" target="_blank">https://github.com/027xiguapi/code-box</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>cloudwego/goref: Go 堆对象引用分析工具</title>
       <pubDate>Sun, 18 Aug 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/cloudwego/goref</link>

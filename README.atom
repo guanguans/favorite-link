@@ -46,6 +46,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[027xiguapi/code-box: 本插件可以用于 CSDN/知乎/脚本之家/博客园等网站, 实现无需登录一键复制代码; 支持选中代码; 或者代码右上角按钮的一键复制; 解除关注博主即可阅读全文提示; 去除登录弹窗; 去除跳转 APP 弹窗.]]></title>
+    <published>2024-08-19T00:00:00+00:00</published>
+    <updated>2024-08-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/027xiguapi/code-box"/>
+    <id>https://github.com/027xiguapi/code-box</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/027xiguapi/code-box" target="_blank">027xiguapi/code-box: 本插件可以用于 CSDN/知乎/脚本之家/博客园等网站,
+实现无需登录一键复制代码; 支持选中代码; 或者代码右上角按钮的一键复制; 解除关注博主即可阅读全文提示; 去除登录弹窗; 去除跳转
+APP 弹窗.</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/027xiguapi/code-box" target="_blank">https://github.com/027xiguapi/code-box</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cloudwego/goref: Go 堆对象引用分析工具]]></title>
     <published>2024-08-18T16:00:00+00:00</published>
     <updated>2024-08-18T16:00:00+00:00</updated>
