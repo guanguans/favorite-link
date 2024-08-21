@@ -17,6 +17,7 @@
 ### August 21, 2024 
 - [mfridman/tparse: 用于汇总 go test 输出的 CLI 工具。管道友好。CI/CD 友好。](https://github.com/mfridman/tparse) 
 - [gtramontina/ooze: 🧬 Go 突变测试](https://github.com/gtramontina/ooze) 
+- [lucky-media/reactor: Reactor for Laravel 是 Laravel 的一个固定脚手架，它配备了 React、Inertia.js、Radix UI、Eslint、Prettier、Husky 等等。](https://github.com/lucky-media/reactor) 
 ### August 20, 2024 
 - [hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写](https://github.com/hadolint/hadolint) 
 - [butschster/proto-parser: Proto 解析器是将协议缓冲区文件解析为 AST 的库](https://github.com/butschster/proto-parser) 
