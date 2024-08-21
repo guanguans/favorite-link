@@ -64,6 +64,25 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pionl/laravel-chunk-upload: 支持多种提供商 (如 jQuery-file-upload、pupload、DropZone 和 resumable.js) 的大块上传基本实现]]></title>
+    <published>2024-08-19T16:00:00+00:00</published>
+    <updated>2024-08-19T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="如 jQuery-file-upload、pupload、DropZone 和 resumable.js) 的大块上传基本实现](https://github.com/pionl/laravel-chunk-upload"/>
+    <id>如 jQuery-file-upload、pupload、DropZone 和 resumable.js) 的大块上传基本实现](https://github.com/pionl/laravel-chunk-upload</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%A6%82%20jQuery-file-upload%E3%80%81pupload%E3%80%81DropZone%20%E5%92%8C%20resumable.js)%20%E7%9A%84%E5%A4%A7%E5%9D%97%E4%B8%8A%E4%BC%A0%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0](https://github.com/pionl/laravel-chunk-upload" target="_blank">pionl/laravel-chunk-upload: 支持多种提供商 (如
+jQuery-file-upload、pupload、DropZone 和 resumable.js) 的大块上传基本实现</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%A6%82%20jQuery-file-upload%E3%80%81pupload%E3%80%81DropZone%20%E5%92%8C%20resumable.js)%20%E7%9A%84%E5%A4%A7%E5%9D%97%E4%B8%8A%E4%BC%A0%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0](https://github.com/pionl/laravel-chunk-upload" target="_blank">如 jQuery-file-upload、pupload、DropZone 和
+resumable.js)
+的大块上传基本实现](https://github.com/pionl/laravel-chunk-upload</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写]]></title>
     <published>2024-08-19T16:00:00+00:00</published>
     <updated>2024-08-19T16:00:00+00:00</updated>
