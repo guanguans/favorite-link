@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>lucky-media/reactor: Reactor for Laravel 是 Laravel 的一个固定脚手架，它配备了 React、Inertia.js、Radix UI、Eslint、Prettier、Husky 等等。</title>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/lucky-media/reactor</link>
+      <guid>https://github.com/lucky-media/reactor</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lucky-media/reactor" target="_blank">lucky-media/reactor: Reactor for Laravel 是 Laravel 的一个固定脚手架，它配备了 React、Inertia.js、Radix UI、Eslint、Prettier、Husky 等等。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lucky-media/reactor" target="_blank">https://github.com/lucky-media/reactor</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写</title>
       <pubDate>Mon, 19 Aug 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/hadolint/hadolint</link>
