@@ -62,6 +62,22 @@ Gemini AI 模型</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[使用 Laravel 的 Cache::lock() 掌握并发性]]></title>
+    <published>2024-08-20T16:00:00+00:00</published>
+    <updated>2024-08-20T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href=" 掌握并发性](https://www.harrisrafto.eu/mastering-concurrency-with-laravel-cache-lock/"/>
+    <id> 掌握并发性](https://www.harrisrafto.eu/mastering-concurrency-with-laravel-cache-lock/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E6%8E%8C%E6%8F%A1%E5%B9%B6%E5%8F%91%E6%80%A7](https://www.harrisrafto.eu/mastering-concurrency-with-laravel-cache-lock/" target="_blank">使用 Laravel 的 Cache::lock() 掌握并发性</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E6%8E%8C%E6%8F%A1%E5%B9%B6%E5%8F%91%E6%80%A7](https://www.harrisrafto.eu/mastering-concurrency-with-laravel-cache-lock/" target="_blank">掌握并发性](https://www.harrisrafto.eu/mastering-concurrency-with-laravel-cache-lock/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mfridman/tparse: 用于汇总 go test 输出的 CLI 工具。管道友好。CI/CD 友好。]]></title>
     <published>2024-08-20T16:00:00+00:00</published>
     <updated>2024-08-20T16:00:00+00:00</updated>
