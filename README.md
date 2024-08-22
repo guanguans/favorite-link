@@ -14,6 +14,9 @@
 
 
 
+
+### August 22, 2024 
+- [shadps4-emu/shadPS4: 适用于 Windows、Linux、MacOS 的 PS4 模拟器](https://github.com/shadps4-emu/shadPS4) 
 ### August 21, 2024 
 - [mfridman/tparse: 用于汇总 go test 输出的 CLI 工具。管道友好。CI/CD 友好。](https://github.com/mfridman/tparse) 
 - [gtramontina/ooze: 🧬 Go 突变测试](https://github.com/gtramontina/ooze) 
