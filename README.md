@@ -18,6 +18,7 @@
 ### August 22, 2024 
 - [shadps4-emu/shadPS4: 适用于 Windows、Linux、MacOS 的 PS4 模拟器](https://github.com/shadps4-emu/shadPS4) 
 - [gemini-api-php/client: Google Gemini API PHP 客户端允许您使用 Gemini AI 模型](https://github.com/gemini-api-php/client) 
+- [medilies/xssless: 清除富文本中的 XSS 威胁。](https://github.com/medilies/xssless) 
 ### August 21, 2024 
 - [mfridman/tparse: 用于汇总 go test 输出的 CLI 工具。管道友好。CI/CD 友好。](https://github.com/mfridman/tparse) 
 - [gtramontina/ooze: 🧬 Go 突变测试](https://github.com/gtramontina/ooze) 
