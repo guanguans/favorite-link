@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[approvals/ApprovalTests.php: ApprovalTests 是一个开源的断言/验证库，用于辅助单元测试。]]></title>
+    <published>2024-08-22T08:00:00+00:00</published>
+    <updated>2024-08-22T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/approvals/ApprovalTests.php"/>
+    <id>https://github.com/approvals/ApprovalTests.php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/approvals/ApprovalTests.php" target="_blank">approvals/ApprovalTests.php: ApprovalTests
+是一个开源的断言/验证库，用于辅助单元测试。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/approvals/ApprovalTests.php" target="_blank">https://github.com/approvals/ApprovalTests.php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[shadps4-emu/shadPS4: 适用于 Windows、Linux、MacOS 的 PS4 模拟器]]></title>
     <published>2024-08-21T16:00:00+00:00</published>
     <updated>2024-08-21T16:00:00+00:00</updated>
