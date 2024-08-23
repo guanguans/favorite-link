@@ -15,6 +15,9 @@
 
 
 
+
+### August 23, 2024 
+- [TheDragonCode/laravel-http-macros: 扩展 Laravel HTTP 客户端的功能](https://github.com/TheDragonCode/laravel-http-macros) 
 ### August 22, 2024 
 - [shadps4-emu/shadPS4: 适用于 Windows、Linux、MacOS 的 PS4 模拟器](https://github.com/shadps4-emu/shadPS4) 
 - [gemini-api-php/client: Google Gemini API PHP 客户端允许您使用 Gemini AI 模型](https://github.com/gemini-api-php/client) 
