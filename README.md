@@ -19,6 +19,7 @@
 
 ### August 26, 2024 
 - [MaestroError/eloquent-regex: Eloquent Regex 为正则表达式带来了简洁与优雅。](https://github.com/MaestroError/eloquent-regex) 
+- [Laravel 模型技巧](https://laravel-news.com/laravel-model-tips) 
 ### August 23, 2024 
 - [TheDragonCode/laravel-http-macros: 扩展 Laravel HTTP 客户端的功能](https://github.com/TheDragonCode/laravel-http-macros) 
 - [approvals/ApprovalTests.php: ApprovalTests 是一个开源的断言/验证库，用于辅助单元测试。](https://github.com/approvals/ApprovalTests.php) 
