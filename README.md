@@ -17,6 +17,9 @@
 
 
 
+
+### August 27, 2024 
+- [spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案](https://github.com/spatie/laravel-error-solutions) 
 ### August 26, 2024 
 - [MaestroError/eloquent-regex: Eloquent Regex 为正则表达式带来了简洁与优雅。](https://github.com/MaestroError/eloquent-regex) 
 - [Laravel 模型技巧](https://laravel-news.com/laravel-model-tips) 
