@@ -18,6 +18,9 @@
 
 
 
+
+### August 28, 2024 
+- [twigstan/twigstan: TwigStan 是由 PHPStan 支持的 Twig 模板静态分析器。](https://github.com/twigstan/twigstan) 
 ### August 27, 2024 
 - [spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案](https://github.com/spatie/laravel-error-solutions) 
 - [TicketSwap/phpstan-error-formatter: PHPStan 的简约错误格式化工具](https://github.com/TicketSwap/phpstan-error-formatter) 
