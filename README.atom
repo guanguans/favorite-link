@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mpyw/laravel-cached-database-stickiness: 在同一用户的连续请求中保证数据库的粘性。]]></title>
+    <published>2024-08-27T08:00:00+00:00</published>
+    <updated>2024-08-27T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mpyw/laravel-cached-database-stickiness"/>
+    <id>https://github.com/mpyw/laravel-cached-database-stickiness</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mpyw/laravel-cached-database-stickiness" target="_blank">mpyw/laravel-cached-database-stickiness:
+在同一用户的连续请求中保证数据库的粘性。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mpyw/laravel-cached-database-stickiness" target="_blank">https://github.com/mpyw/laravel-cached-database-stickiness</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案]]></title>
     <published>2024-08-26T16:00:00+00:00</published>
     <updated>2024-08-26T16:00:00+00:00</updated>
