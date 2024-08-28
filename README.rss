@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>mpyw/streamable-console: 使用任意数据流而不是 STDIN 调用交互式 artisan 命令。</title>
+      <pubDate>Mon, 26 Aug 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/mpyw/streamable-console</link>
+      <guid>https://github.com/mpyw/streamable-console</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mpyw/streamable-console" target="_blank">mpyw/streamable-console: 使用任意数据流而不是 STDIN 调用交互式 artisan 命令。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mpyw/streamable-console" target="_blank">https://github.com/mpyw/streamable-console</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案</title>
       <pubDate>Mon, 26 Aug 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/spatie/laravel-error-solutions</link>

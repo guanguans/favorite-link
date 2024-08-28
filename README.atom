@@ -64,6 +64,23 @@ Postgres/MySQL/MariaDB 的锁定功能</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mpyw/streamable-console: 使用任意数据流而不是 STDIN 调用交互式 artisan 命令。]]></title>
+    <published>2024-08-26T16:00:00+00:00</published>
+    <updated>2024-08-26T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mpyw/streamable-console"/>
+    <id>https://github.com/mpyw/streamable-console</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mpyw/streamable-console" target="_blank">mpyw/streamable-console: 使用任意数据流而不是 STDIN 调用交互式 artisan
+命令。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mpyw/streamable-console" target="_blank">https://github.com/mpyw/streamable-console</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案]]></title>
     <published>2024-08-26T16:00:00+00:00</published>
     <updated>2024-08-26T16:00:00+00:00</updated>
