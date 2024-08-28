@@ -24,6 +24,7 @@
 - [mpyw/laravel-cached-database-stickiness: 在同一用户的连续请求中保证数据库的粘性。](https://github.com/mpyw/laravel-cached-database-stickiness) 
 - [mpyw/laravel-database-advisory-lock: 在 Laravel 上咨询 Postgres/MySQL/MariaDB 的锁定功能](https://github.com/mpyw/laravel-database-advisory-lock) 
 - [mpyw/streamable-console: 使用任意数据流而不是 STDIN 调用交互式 artisan 命令。](https://github.com/mpyw/streamable-console) 
+- [mpyw/sharable-value-objects: 共享包含与单例相同原始值的值对象](https://github.com/mpyw/sharable-value-objects) 
 ### August 27, 2024 
 - [spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案](https://github.com/spatie/laravel-error-solutions) 
 - [TicketSwap/phpstan-error-formatter: PHPStan 的简约错误格式化工具](https://github.com/TicketSwap/phpstan-error-formatter) 
