@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>mpyw/laravel-database-advisory-lock: 在 Laravel 上咨询 Postgres/MySQL/MariaDB 的锁定功能</title>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/mpyw/laravel-database-advisory-lock</link>
+      <guid>https://github.com/mpyw/laravel-database-advisory-lock</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mpyw/laravel-database-advisory-lock" target="_blank">mpyw/laravel-database-advisory-lock: 在 Laravel 上咨询 Postgres/MySQL/MariaDB 的锁定功能</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mpyw/laravel-database-advisory-lock" target="_blank">https://github.com/mpyw/laravel-database-advisory-lock</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案</title>
       <pubDate>Mon, 26 Aug 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/spatie/laravel-error-solutions</link>
