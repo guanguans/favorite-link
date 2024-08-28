@@ -23,6 +23,7 @@
 - [twigstan/twigstan: TwigStan 是由 PHPStan 支持的 Twig 模板静态分析器。](https://github.com/twigstan/twigstan) 
 - [mpyw/laravel-cached-database-stickiness: 在同一用户的连续请求中保证数据库的粘性。](https://github.com/mpyw/laravel-cached-database-stickiness) 
 - [mpyw/laravel-database-advisory-lock: 在 Laravel 上咨询 Postgres/MySQL/MariaDB 的锁定功能](https://github.com/mpyw/laravel-database-advisory-lock) 
+- [mpyw/streamable-console: 使用任意数据流而不是 STDIN 调用交互式 artisan 命令。](https://github.com/mpyw/streamable-console) 
 ### August 27, 2024 
 - [spatie/laravel-error-solutions: 在 Laravel 错误页面显示解决方案](https://github.com/spatie/laravel-error-solutions) 
 - [TicketSwap/phpstan-error-formatter: PHPStan 的简约错误格式化工具](https://github.com/TicketSwap/phpstan-error-formatter) 
