@@ -24,6 +24,7 @@
 - [square/ttcache: TTCache 或标签树缓存是一种缓存实现，它构建标签的递归树并将其应用于正在缓存的值。这允许递归缓存，其中清除树深处缓存的值也会清除依赖于它的任何缓存值。](https://github.com/square/ttcache) 
 - [square/vermillion: Laravel 应用程序的 API 版本控制工具包](https://github.com/square/vermillion) 
 - [mvaliolahi/blaze: Blaze 是一款先进的 Laravel 软件包，旨在利用现代、高效的缓存技术提高应用程序的性能。](https://github.com/mvaliolahi/blaze) 
+- [mysql 查询缓存优化](https://releem.com/docs/mysql-performance-tuning/query-cache) 
 ### August 28, 2024 
 - [twigstan/twigstan: TwigStan 是由 PHPStan 支持的 Twig 模板静态分析器。](https://github.com/twigstan/twigstan) 
 - [mpyw/laravel-cached-database-stickiness: 在同一用户的连续请求中保证数据库的粘性。](https://github.com/mpyw/laravel-cached-database-stickiness) 
