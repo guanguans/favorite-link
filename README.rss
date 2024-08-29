@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 27 Aug 2024 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 28 Aug 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>square/ttcache: TTCache 或标签树缓存是一种缓存实现，它构建标签的递归树并将其应用于正在缓存的值。这允许递归缓存，其中清除树深处缓存的值也会清除依赖于它的任何缓存值。</title>
+      <pubDate>Wed, 28 Aug 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/square/ttcache</link>
+      <guid>https://github.com/square/ttcache</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/square/ttcache" target="_blank">square/ttcache: TTCache 或标签树缓存是一种缓存实现，它构建标签的递归树并将其应用于正在缓存的值。这允许递归缓存，其中清除树深处缓存的值也会清除依赖于它的任何缓存值。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/square/ttcache" target="_blank">https://github.com/square/ttcache</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>twigstan/twigstan: TwigStan 是由 PHPStan 支持的 Twig 模板静态分析器。</title>
       <pubDate>Tue, 27 Aug 2024 16:00:00 +0000</pubDate>
