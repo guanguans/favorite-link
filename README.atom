@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Laravel 中的惰性集合]]></title>
+    <published>2024-08-29T08:00:00+00:00</published>
+    <updated>2024-08-29T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://josephsilber.com/posts/2020/07/29/lazy-collections-in-laravel#streaming-file-downloads-with-lazy-collections"/>
+    <id>https://josephsilber.com/posts/2020/07/29/lazy-collections-in-laravel#streaming-file-downloads-with-lazy-collections</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://josephsilber.com/posts/2020/07/29/lazy-collections-in-laravel#streaming-file-downloads-with-lazy-collections" target="_blank">Laravel 中的惰性集合</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://josephsilber.com/posts/2020/07/29/lazy-collections-in-laravel#streaming-file-downloads-with-lazy-collections" target="_blank">https://josephsilber.com/posts/2020/07/29/lazy-collections-in-laravel#streaming-file-downloads-with-lazy-collections</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[square/ttcache: TTCache 或标签树缓存是一种缓存实现，它构建标签的递归树并将其应用于正在缓存的值。这允许递归缓存，其中清除树深处缓存的值也会清除依赖于它的任何缓存值。]]></title>
     <published>2024-08-28T16:00:00+00:00</published>
     <updated>2024-08-28T16:00:00+00:00</updated>
