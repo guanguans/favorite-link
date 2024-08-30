@@ -20,6 +20,9 @@
 
 
 
+
+### August 30, 2024 
+- [pxp-lang/composer-downloads-plugin: 自动下载 Composer 软件包的远程资产。](https://github.com/pxp-lang/composer-downloads-plugin) 
 ### August 29, 2024 
 - [square/ttcache: TTCache 或标签树缓存是一种缓存实现，它构建标签的递归树并将其应用于正在缓存的值。这允许递归缓存，其中清除树深处缓存的值也会清除依赖于它的任何缓存值。](https://github.com/square/ttcache) 
 - [square/vermillion: Laravel 应用程序的 API 版本控制工具包](https://github.com/square/vermillion) 
