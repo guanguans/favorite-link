@@ -26,6 +26,7 @@
 - [coder/aicommit: 成为世界上最懒惰的 Committer](https://github.com/coder/aicommit) 
 - [fajarwz/laravel-review: fajarwz/laravel-review: 灵活而强大的 Laravel 审核系统，让任何模型审核和被审核。](https://github.com/fajarwz/laravel-review) 
 - [gwleuverink/blade-hints: 在您的页面上标记各种不同 Blade 指令的用法，以便您可以轻松发现缺失的 authorization/auth/env 检查](https://github.com/gwleuverink/blade-hints) 
+- [serversideup/spin: 不要再浪费时间修复你已经解决的生产问题了。Spin 是一款 bash 工具，可改善使用 Docker 的团队的用户体验。](https://github.com/serversideup/spin) 
 ### August 30, 2024 
 - [pxp-lang/composer-downloads-plugin: 自动下载 Composer 软件包的远程资产。](https://github.com/pxp-lang/composer-downloads-plugin) 
 - [Laravel 中的惰性集合](https://josephsilber.com/posts/2020/07/29/lazy-collections-in-laravel#streaming-file-downloads-with-lazy-collections) 
