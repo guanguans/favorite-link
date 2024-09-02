@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>glhd/linen: Linen 是一款适用于 Laravel 的轻量级电子表格工具。它是 openspout 的一个简单封装，具有一些数据规范化的便利性。</title>
+      <pubDate>Sat, 31 Aug 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/glhd/linen</link>
+      <guid>https://github.com/glhd/linen</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/glhd/linen" target="_blank">glhd/linen: Linen 是一款适用于 Laravel 的轻量级电子表格工具。它是 openspout 的一个简单封装，具有一些数据规范化的便利性。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/glhd/linen" target="_blank">https://github.com/glhd/linen</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>pxp-lang/composer-downloads-plugin: 自动下载 Composer 软件包的远程资产。</title>
       <pubDate>Thu, 29 Aug 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/pxp-lang/composer-downloads-plugin</link>

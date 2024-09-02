@@ -80,6 +80,24 @@ Laravel 审核系统，让任何模型审核和被审核。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[glhd/linen: Linen 是一款适用于 Laravel 的轻量级电子表格工具。它是 openspout 的一个简单封装，具有一些数据规范化的便利性。]]></title>
+    <published>2024-08-31T08:00:00+00:00</published>
+    <updated>2024-08-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/glhd/linen"/>
+    <id>https://github.com/glhd/linen</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/glhd/linen" target="_blank">glhd/linen:
+Linen 是一款适用于 Laravel 的轻量级电子表格工具。它是 openspout
+的一个简单封装，具有一些数据规范化的便利性。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/glhd/linen" target="_blank">https://github.com/glhd/linen</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[pxp-lang/composer-downloads-plugin: 自动下载 Composer 软件包的远程资产。]]></title>
     <published>2024-08-29T16:00:00+00:00</published>
     <updated>2024-08-29T16:00:00+00:00</updated>
