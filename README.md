@@ -22,6 +22,9 @@
 
 
 
+
+### September 3, 2024 
+- [guanguans/laravel-api-response: 规范化和标准化 Laravel API 响应数据结构。](https://github.com/guanguans/laravel-api-response) 
 ### September 2, 2024 
 - [coder/aicommit: 成为世界上最懒惰的 Committer](https://github.com/coder/aicommit) 
 - [fajarwz/laravel-review: fajarwz/laravel-review: 灵活而强大的 Laravel 审核系统，让任何模型审核和被审核。](https://github.com/fajarwz/laravel-review) 
