@@ -26,6 +26,7 @@
 ### September 3, 2024 
 - [guanguans/laravel-api-response: 规范化和标准化 Laravel API 响应数据结构。](https://github.com/guanguans/laravel-api-response) 
 - [limewell/laravel-make-extender: 生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器](https://github.com/limewell/laravel-make-extender) 
+- [WatheqAlshowaiter/backup-tables: 轻松备份单个或多个数据库表。](https://github.com/WatheqAlshowaiter/backup-tables) 
 ### September 2, 2024 
 - [coder/aicommit: 成为世界上最懒惰的 Committer](https://github.com/coder/aicommit) 
 - [fajarwz/laravel-review: fajarwz/laravel-review: 灵活而强大的 Laravel 审核系统，让任何模型审核和被审核。](https://github.com/fajarwz/laravel-review) 
