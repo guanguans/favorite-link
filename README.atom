@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[limewell/laravel-make-extender: 生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器]]></title>
+    <published>2024-09-02T08:00:00+00:00</published>
+    <updated>2024-09-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/limewell/laravel-make-extender"/>
+    <id>https://github.com/limewell/laravel-make-extender</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/limewell/laravel-make-extender" target="_blank">limewell/laravel-make-extender:
+生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/limewell/laravel-make-extender" target="_blank">https://github.com/limewell/laravel-make-extender</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[coder/aicommit: 成为世界上最懒惰的 Committer]]></title>
     <published>2024-09-01T16:00:00+00:00</published>
     <updated>2024-09-01T16:00:00+00:00</updated>
