@@ -25,7 +25,7 @@
 
 
 ### September 4, 2024 
-- [czproject/phpdepend: 从PHP文件或代码片段中提取依赖项列表（类、接口和特征）。](https://github.com/czproject/phpdepend) 
+- [czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表 (类、接口和特征)。](https://github.com/czproject/phpdepend) 
 ### September 3, 2024 
 - [guanguans/laravel-api-response: 规范化和标准化 Laravel API 响应数据结构。](https://github.com/guanguans/laravel-api-response) 
 - [limewell/laravel-make-extender: 生成和自动加载自定义帮助程序、生成器范围、服务类、特质、自定义铸模、集合宏、视图合成器](https://github.com/limewell/laravel-make-extender) 

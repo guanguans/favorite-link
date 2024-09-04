@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-09-02T16:00:00+00:00</updated>
+  <updated>2024-09-03T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表 (类、接口和特征)。]]></title>
+    <published>2024-09-03T16:00:00+00:00</published>
+    <updated>2024-09-03T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="类、接口和特征)。](https://github.com/czproject/phpdepend"/>
+    <id>类、接口和特征)。](https://github.com/czproject/phpdepend</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E7%B1%BB%E3%80%81%E6%8E%A5%E5%8F%A3%E5%92%8C%E7%89%B9%E5%BE%81)%E3%80%82](https://github.com/czproject/phpdepend" target="_blank">czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表
+(类、接口和特征)。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E7%B1%BB%E3%80%81%E6%8E%A5%E5%8F%A3%E5%92%8C%E7%89%B9%E5%BE%81)%E3%80%82](https://github.com/czproject/phpdepend" target="_blank">类、接口和特征)。](https://github.com/czproject/phpdepend</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[guanguans/laravel-api-response: 规范化和标准化 Laravel API 响应数据结构。]]></title>
     <published>2024-09-02T16:00:00+00:00</published>
