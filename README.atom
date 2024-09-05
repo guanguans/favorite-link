@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[编写简洁、可维护代码的好处]]></title>
+    <published>2024-09-04T08:00:00+00:00</published>
+    <updated>2024-09-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/"/>
+    <id>https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/" target="_blank">编写简洁、可维护代码的好处</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/" target="_blank">https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表 (类、接口和特征)。]]></title>
     <published>2024-09-03T16:00:00+00:00</published>
     <updated>2024-09-03T16:00:00+00:00</updated>
