@@ -46,6 +46,26 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[alireza2000sajedi/otp-code-laravel: 这个 Laravel 包提供了一个用于生成、存储和验证一次性密码 (OTP) 的全面解决方案。它支持可定制的 OTP 配置，包括类型、长度、过期、加密和验证规则，确保 Laravel 应用程序中安全、灵活的 OTP 管理。]]></title>
+    <published>2024-09-04T00:00:00+00:00</published>
+    <updated>2024-09-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="OTP) 的全面解决方案。它支持可定制的 OTP 配置，包括类型、长度、过期、加密和验证规则，确保 Laravel 应用程序中安全、灵活的 OTP 管理。](https://github.com/alireza2000sajedi/otp-code-laravel"/>
+    <id>OTP) 的全面解决方案。它支持可定制的 OTP 配置，包括类型、长度、过期、加密和验证规则，确保 Laravel 应用程序中安全、灵活的 OTP 管理。](https://github.com/alireza2000sajedi/otp-code-laravel</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="OTP)%20%E7%9A%84%E5%85%A8%E9%9D%A2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%82%E5%AE%83%E6%94%AF%E6%8C%81%E5%8F%AF%E5%AE%9A%E5%88%B6%E7%9A%84%20OTP%20%E9%85%8D%E7%BD%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E7%B1%BB%E5%9E%8B%E3%80%81%E9%95%BF%E5%BA%A6%E3%80%81%E8%BF%87%E6%9C%9F%E3%80%81%E5%8A%A0%E5%AF%86%E5%92%8C%E9%AA%8C%E8%AF%81%E8%A7%84%E5%88%99%EF%BC%8C%E7%A1%AE%E4%BF%9D%20Laravel%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%AD%E5%AE%89%E5%85%A8%E3%80%81%E7%81%B5%E6%B4%BB%E7%9A%84%20OTP%20%E7%AE%A1%E7%90%86%E3%80%82](https://github.com/alireza2000sajedi/otp-code-laravel" target="_blank">alireza2000sajedi/otp-code-laravel: 这个 Laravel
+包提供了一个用于生成、存储和验证一次性密码 (OTP) 的全面解决方案。它支持可定制的 OTP
+配置，包括类型、长度、过期、加密和验证规则，确保 Laravel 应用程序中安全、灵活的 OTP 管理。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="OTP)%20%E7%9A%84%E5%85%A8%E9%9D%A2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%82%E5%AE%83%E6%94%AF%E6%8C%81%E5%8F%AF%E5%AE%9A%E5%88%B6%E7%9A%84%20OTP%20%E9%85%8D%E7%BD%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E7%B1%BB%E5%9E%8B%E3%80%81%E9%95%BF%E5%BA%A6%E3%80%81%E8%BF%87%E6%9C%9F%E3%80%81%E5%8A%A0%E5%AF%86%E5%92%8C%E9%AA%8C%E8%AF%81%E8%A7%84%E5%88%99%EF%BC%8C%E7%A1%AE%E4%BF%9D%20Laravel%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%AD%E5%AE%89%E5%85%A8%E3%80%81%E7%81%B5%E6%B4%BB%E7%9A%84%20OTP%20%E7%AE%A1%E7%90%86%E3%80%82](https://github.com/alireza2000sajedi/otp-code-laravel" target="_blank">OTP) 的全面解决方案。它支持可定制的 OTP 配置，包括类型、长度、过期、加密和验证规则，确保
+Laravel 应用程序中安全、灵活的 OTP
+管理。](https://github.com/alireza2000sajedi/otp-code-laravel</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表 (类、接口和特征)。]]></title>
     <published>2024-09-03T16:00:00+00:00</published>
     <updated>2024-09-03T16:00:00+00:00</updated>
