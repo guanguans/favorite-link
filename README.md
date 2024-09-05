@@ -27,6 +27,7 @@
 
 ### September 5, 2024 
 - [sauljabin/kaskade: Kaskade 是 Kafka 的文本用户界面，它允许您以时尚的方式从终端交互和使用主题！](https://github.com/sauljabin/kaskade) 
+- [编写简洁、可维护代码的好处](https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/) 
 ### September 4, 2024 
 - [czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表 (类、接口和特征)。](https://github.com/czproject/phpdepend) 
 - [当一切都失败时，您永远可以信任 Laravel 救援助手](https://flareapp.io/blog/when-everything-fails-you-can-always-trust-the-laravel-rescue-helper) 
