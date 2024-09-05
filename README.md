@@ -28,6 +28,7 @@
 ### September 5, 2024 
 - [sauljabin/kaskade: Kaskade 是 Kafka 的文本用户界面，它允许您以时尚的方式从终端交互和使用主题！](https://github.com/sauljabin/kaskade) 
 - [编写简洁、可维护代码的好处](https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/) 
+- [alireza2000sajedi/otp-code-laravel: 这个 Laravel 包提供了一个用于生成、存储和验证一次性密码 (OTP) 的全面解决方案。它支持可定制的 OTP 配置，包括类型、长度、过期、加密和验证规则，确保 Laravel 应用程序中安全、灵活的 OTP 管理。](https://github.com/alireza2000sajedi/otp-code-laravel) 
 ### September 4, 2024 
 - [czproject/phpdepend: 从 PHP 文件或代码片段中提取依赖项列表 (类、接口和特征)。](https://github.com/czproject/phpdepend) 
 - [当一切都失败时，您永远可以信任 Laravel 救援助手](https://flareapp.io/blog/when-everything-fails-you-can-always-trust-the-laravel-rescue-helper) 
