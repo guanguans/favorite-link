@@ -29,6 +29,7 @@
 ### September 6, 2024 
 - [shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码](https://github.com/shipmonk-rnd/dead-code-detector) 
 - [theseer/Autoload: 轻量级 php 命名空间感知自动加载生成器和 phar 归档生成器](https://github.com/theseer/Autoload) 
+- [theseer/Autoload: 轻量级php命名空间感知自动加载生成器和phar归档生成器](https://github.com/theseer/Autoload) 
 ### September 5, 2024 
 - [sauljabin/kaskade: Kaskade 是 Kafka 的文本用户界面，它允许您以时尚的方式从终端交互和使用主题！](https://github.com/sauljabin/kaskade) 
 - [编写简洁、可维护代码的好处](https://jump24.co.uk/journal/benefits-of-writing-clean-maintainable-code/) 
