@@ -75,6 +75,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>michael-rubel/laravel-octane-best-practices: 供您的团队遵循的 Laravel Octane 最佳实践的编译列表。</title>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/michael-rubel/laravel-octane-best-practices</link>
+      <guid>https://github.com/michael-rubel/laravel-octane-best-practices</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/michael-rubel/laravel-octane-best-practices" target="_blank">michael-rubel/laravel-octane-best-practices: 供您的团队遵循的 Laravel Octane 最佳实践的编译列表。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/michael-rubel/laravel-octane-best-practices" target="_blank">https://github.com/michael-rubel/laravel-octane-best-practices</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/shipmonk-rnd/dead-code-detector</link>
