@@ -34,6 +34,7 @@
 - [Laravel 11 Reverb 实时通知示例](https://www.itsolutionstuff.com/post/laravel-11-real-time-notifications-using-reverb-exampleexample.html) 
 - [在 MySQL 中存储货币值的不同策略](https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql) 
 - [michael-rubel/laravel-octane-best-practices: 供您的团队遵循的 Laravel Octane 最佳实践的编译列表。](https://github.com/michael-rubel/laravel-octane-best-practices) 
+- [abublihi/laravel-external-jwt-guard: 这是一个 laravel 自定义 auth guard，用于使用外部 JWT 对用户进行身份验证](https://github.com/abublihi/laravel-external-jwt-guard) 
 ### September 6, 2024 
 - [shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码](https://github.com/shipmonk-rnd/dead-code-detector) 
 - [theseer/Autoload: 轻量级 php 命名空间感知自动加载生成器和 phar 归档生成器](https://github.com/theseer/Autoload) 
