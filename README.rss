@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>在 MySQL 中存储货币值的不同策略</title>
+      <pubDate>Sat, 07 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql</link>
+      <guid>https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql</guid>
+      <content:encoded><![CDATA[<a href="https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql" target="_blank">在 MySQL 中存储货币值的不同策略</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql" target="_blank">https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/shipmonk-rnd/dead-code-detector</link>
