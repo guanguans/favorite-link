@@ -30,6 +30,7 @@
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
+- [gwleuverink/asset-injector: 将 JS 和 CSS 自动插入网页响应，从而简化 Laravel 软件包开发。让用户无需手动添加资产](https://github.com/gwleuverink/asset-injector) 
 ### September 6, 2024 
 - [shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码](https://github.com/shipmonk-rnd/dead-code-detector) 
 - [theseer/Autoload: 轻量级 php 命名空间感知自动加载生成器和 phar 归档生成器](https://github.com/theseer/Autoload) 
