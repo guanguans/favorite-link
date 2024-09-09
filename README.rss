@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 08 Sep 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。</title>
+      <pubDate>Sun, 08 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/Honeystone/laravel-dto-tools</link>
+      <guid>https://github.com/Honeystone/laravel-dto-tools</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Honeystone/laravel-dto-tools" target="_blank">Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Honeystone/laravel-dto-tools" target="_blank">https://github.com/Honeystone/laravel-dto-tools</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。</title>
+      <pubDate>Sun, 08 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/idootop/mi-gpt</link>
+      <guid>https://github.com/idootop/mi-gpt</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/idootop/mi-gpt" target="_blank">idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/idootop/mi-gpt" target="_blank">https://github.com/idootop/mi-gpt</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
