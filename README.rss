@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>gwleuverink/asset-injector: 将 JS 和 CSS 自动插入网页响应，从而简化 Laravel 软件包开发。让用户无需手动添加资产</title>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/gwleuverink/asset-injector</link>
+      <guid>https://github.com/gwleuverink/asset-injector</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gwleuverink/asset-injector" target="_blank">gwleuverink/asset-injector: 将 JS 和 CSS 自动插入网页响应，从而简化 Laravel 软件包开发。让用户无需手动添加资产</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/gwleuverink/asset-injector" target="_blank">https://github.com/gwleuverink/asset-injector</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/shipmonk-rnd/dead-code-detector</link>
