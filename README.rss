@@ -114,6 +114,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>scrivo/highlight.php: 将 highlight.js 移植到 PHP</title>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/scrivo/highlight.php</link>
+      <guid>https://github.com/scrivo/highlight.php</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/scrivo/highlight.php" target="_blank">scrivo/highlight.php: 将 highlight.js 移植到 PHP</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/scrivo/highlight.php" target="_blank">https://github.com/scrivo/highlight.php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/shipmonk-rnd/dead-code-detector</link>
