@@ -26,6 +26,9 @@
 
 
 
+
+### September 9, 2024 
+- [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 ### September 6, 2024 
 - [shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码](https://github.com/shipmonk-rnd/dead-code-detector) 
 - [theseer/Autoload: 轻量级 php 命名空间感知自动加载生成器和 phar 归档生成器](https://github.com/theseer/Autoload) 
