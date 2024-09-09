@@ -128,6 +128,23 @@ Laravel 软件包开发。让用户无需手动添加资产</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pinkary-project/pinkary.com: Pinkary 是您所有链接的登陆页面，也是一个与志趣相投的人进行无噪音联系的地方。]]></title>
+    <published>2024-09-06T08:00:00+00:00</published>
+    <updated>2024-09-06T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pinkary-project/pinkary.com"/>
+    <id>https://github.com/pinkary-project/pinkary.com</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/pinkary-project/pinkary.com" target="_blank">pinkary-project/pinkary.com: Pinkary
+是您所有链接的登陆页面，也是一个与志趣相投的人进行无噪音联系的地方。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/pinkary-project/pinkary.com" target="_blank">https://github.com/pinkary-project/pinkary.com</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码]]></title>
     <published>2024-09-05T16:00:00+00:00</published>
     <updated>2024-09-05T16:00:00+00:00</updated>

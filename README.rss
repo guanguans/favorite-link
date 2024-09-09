@@ -101,6 +101,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>pinkary-project/pinkary.com: Pinkary 是您所有链接的登陆页面，也是一个与志趣相投的人进行无噪音联系的地方。</title>
+      <pubDate>Fri, 06 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/pinkary-project/pinkary.com</link>
+      <guid>https://github.com/pinkary-project/pinkary.com</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/pinkary-project/pinkary.com" target="_blank">pinkary-project/pinkary.com: Pinkary 是您所有链接的登陆页面，也是一个与志趣相投的人进行无噪音联系的地方。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/pinkary-project/pinkary.com" target="_blank">https://github.com/pinkary-project/pinkary.com</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/shipmonk-rnd/dead-code-detector</link>
