@@ -32,6 +32,7 @@
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
 - [gwleuverink/asset-injector: 将 JS 和 CSS 自动插入网页响应，从而简化 Laravel 软件包开发。让用户无需手动添加资产](https://github.com/gwleuverink/asset-injector) 
 - [Laravel 11 Reverb 实时通知示例](https://www.itsolutionstuff.com/post/laravel-11-real-time-notifications-using-reverb-exampleexample.html) 
+- [在 MySQL 中存储货币值的不同策略](https://accreditly.io/articles/different-strategies-for-storing-currency-values-in-mysql) 
 ### September 6, 2024 
 - [shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码](https://github.com/shipmonk-rnd/dead-code-detector) 
 - [theseer/Autoload: 轻量级 php 命名空间感知自动加载生成器和 phar 归档生成器](https://github.com/theseer/Autoload) 
