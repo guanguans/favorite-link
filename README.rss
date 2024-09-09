@@ -88,6 +88,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>abublihi/laravel-external-jwt-guard: 这是一个 laravel 自定义 auth guard，用于使用外部 JWT 对用户进行身份验证</title>
+      <pubDate>Fri, 06 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/abublihi/laravel-external-jwt-guard</link>
+      <guid>https://github.com/abublihi/laravel-external-jwt-guard</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/abublihi/laravel-external-jwt-guard" target="_blank">abublihi/laravel-external-jwt-guard: 这是一个 laravel 自定义 auth guard，用于使用外部 JWT 对用户进行身份验证</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/abublihi/laravel-external-jwt-guard" target="_blank">https://github.com/abublihi/laravel-external-jwt-guard</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>shipmonk-rnd/dead-code-detector: PHPStan 规则和收集器，用于查找死亡和未使用的 PHP 代码</title>
       <pubDate>Thu, 05 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/shipmonk-rnd/dead-code-detector</link>
