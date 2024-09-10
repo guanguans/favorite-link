@@ -345,6 +345,38 @@ Laravel。自动更新。](https://github.com/beeyev/disposable-email-filter-php
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[如何在不让任何人落后的情况下提升最小 PHP 版本？]]></title>
+    <published>2024-09-03T00:00:00+00:00</published>
+    <updated>2024-09-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind"/>
+    <id>https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind" target="_blank">如何在不让任何人落后的情况下提升最小 PHP 版本？</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind" target="_blank">https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[如何在 PHP 8.1 中开发单一包并降级到 PHP 7.2]]></title>
+    <published>2024-09-02T16:00:00+00:00</published>
+    <updated>2024-09-02T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://tomasvotruba.com/blog/how-to-develop-sole-package-in-php81-and-downgrade-to-php72/"/>
+    <id>https://tomasvotruba.com/blog/how-to-develop-sole-package-in-php81-and-downgrade-to-php72/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://tomasvotruba.com/blog/how-to-develop-sole-package-in-php81-and-downgrade-to-php72/" target="_blank">如何在 PHP 8.1 中开发单一包并降级到 PHP 7.2</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://tomasvotruba.com/blog/how-to-develop-sole-package-in-php81-and-downgrade-to-php72/" target="_blank">https://tomasvotruba.com/blog/how-to-develop-sole-package-in-php81-and-downgrade-to-php72/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。]]></title>
     <published>2024-09-08T16:00:00+00:00</published>
     <updated>2024-09-08T16:00:00+00:00</updated>
