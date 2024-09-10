@@ -231,6 +231,23 @@ Laravel。自动更新。](https://github.com/beeyev/disposable-email-filter-php
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[RonasIT/laravel-swagger: Laravel-Swagger 是一款完全自动化的工具，可在成功完成应用程序的功能测试后生成并保存基于 swagger 的文档。]]></title>
+    <published>2024-09-05T08:00:00+00:00</published>
+    <updated>2024-09-05T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/RonasIT/laravel-swagger"/>
+    <id>https://github.com/RonasIT/laravel-swagger</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/RonasIT/laravel-swagger" target="_blank">RonasIT/laravel-swagger: Laravel-Swagger
+是一款完全自动化的工具，可在成功完成应用程序的功能测试后生成并保存基于 swagger 的文档。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/RonasIT/laravel-swagger" target="_blank">https://github.com/RonasIT/laravel-swagger</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。]]></title>
     <published>2024-09-08T16:00:00+00:00</published>
     <updated>2024-09-08T16:00:00+00:00</updated>
