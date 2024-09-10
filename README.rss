@@ -192,6 +192,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>PHP 泛型和集合的状态</title>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/</link>
+      <guid>https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/</guid>
+      <content:encoded><![CDATA[<a href="https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/" target="_blank">PHP 泛型和集合的状态</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/" target="_blank">https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。</title>
       <pubDate>Sun, 08 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/Honeystone/laravel-dto-tools</link>
