@@ -49,6 +49,7 @@
 - [infocyph/InterMix: 依赖注入器 (PSR-11)、栅栏、类宏、Memoize](https://github.com/infocyph/InterMix) 
 - [双引号与否，这是个问题！](https://dev.to/realflowcontrol/too-double-quote-or-not-thats-the-question-78l) 
 - [如何在同一版本库中发布 PHP 8.1 和 7.2 软件包](https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/) 
+- [如何在不让任何人落后的情况下提升最小PHP版本？](https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
