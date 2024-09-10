@@ -40,6 +40,7 @@
 - [Laracon US 2024：Laravel 11 个提高性能的小功能](https://qirolab.com/posts/laravel-11-features-that-enhance-performance) 
 - [tursodatabase/turso-driver-laravel: LibSQL 是 SQLite 的一个分支，这个包是 #1 LibSQL 驱动程序，它使用 LibSQL 本机扩展/驱动程序/任何内容本地运行，并支持 Laravel 生态系统。](https://github.com/tursodatabase/turso-driver-laravel) 
 - [beeyev/value-objects-php: 专为领域驱动设计 (DDD) 而设计的 PHP 不可变值对象。用具有表现力、可靠性和可维护性的代码来增强您的应用程序。](https://github.com/beeyev/value-objects-php) 
+- [beeyev/disposable-email-filter-php: 🗑 一次性（临时/丢弃/伪造）电子邮件检测库。与框架无关，支持 Laravel。自动更新。](https://github.com/beeyev/disposable-email-filter-php) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
