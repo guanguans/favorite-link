@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit
-  bootstrap="vendor/autoload.php"
-  cacheResultFile="build/phpunit/.phpunit.result.cache"
-  colors="true"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  bootstrap="vendor/autoload.php"
+  colors="true"
   xsi:noNamespaceSchemaLocation="./vendor/phpunit/phpunit/phpunit.xsd"
 >
-
   <testsuites>
     <testsuite name="Feature">
       <directory>./tests/Feature</directory>

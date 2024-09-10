@@ -25,7 +25,7 @@
         "php": "^8.3",
         "cerbero/command-validator": "^2.5",
         "graham-campbell/github": "^12.6",
-        "illuminate/validation": "^11.20",
+        "illuminate/validation": "^11.22",
         "laminas/laminas-feed": "^2.22",
         "laravel-zero/framework": "^11.0"
     },
@@ -39,7 +39,7 @@
         "mockery/mockery": "^1.6",
         "pestphp/pest": "^3.0",
         "phpstan/extension-installer": "^1.4",
-        "phpstan/phpstan": "^1.11",
+        "phpstan/phpstan": "^1.12",
         "rector/rector": "^1.2",
         "roave/security-advisories": "dev-latest"
     },
@@ -126,7 +126,7 @@
         ],
         "md-fix": "@md-lint --fix",
         "md-lint": "lint-md 'README.md' --config=.lintmdrc --threads",
-        "pest": "@php ./vendor/bin/pest --configuration=phpunit.xml.dist --coverage --profile",
+        "pest": "@php ./vendor/bin/pest --configuration=phpunit.xml.dist --coverage --profile --parallel -v",
         "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./.build/phpunit/clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",
         "pest-profile": "@pest --profile",

@@ -14,6 +14,11 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
+// arch()->preset()->php();
+// arch()->preset()->security();
+// arch()->preset()->strict();
+// arch()->preset()->relaxed();
+
 arch('will not use debugging functions')
     ->group(__DIR__, __FILE__)
     ->skip()
