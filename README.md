@@ -46,6 +46,7 @@
 - [PHP 泛型和集合的状态](https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/) 
 - [arokettu/composer-license-manager: 用于 Composer 的许可证管理插件](https://github.com/arokettu/composer-license-manager) 
 - [zenstruck/console-extra: 一套模块化功能，可减少 Symfony 命令的配置模板。](https://github.com/zenstruck/console-extra) 
+- [infocyph/InterMix: 依赖注入器 (PSR-11)、栅栏、类宏、Memoize](https://github.com/infocyph/InterMix) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
