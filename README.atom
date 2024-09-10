@@ -377,6 +377,22 @@ Laravel。自动更新。](https://github.com/beeyev/disposable-email-filter-php
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[如何使用 PHP-VCR 在 PHP 中录制和重放 API 调用]]></title>
+    <published>2024-09-02T08:00:00+00:00</published>
+    <updated>2024-09-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8"/>
+    <id>https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8" target="_blank">如何使用 PHP-VCR 在 PHP 中录制和重放 API 调用</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8" target="_blank">https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。]]></title>
     <published>2024-09-08T16:00:00+00:00</published>
     <updated>2024-09-08T16:00:00+00:00</updated>
