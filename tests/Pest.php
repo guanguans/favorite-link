@@ -19,7 +19,18 @@ use Illuminate\Support\Facades\Process;
 use Pest\Expectation;
 
 uses(Tests\TestCase::class)
-    ->beforeAll(function (): void {})
+    ->beforeAll(function (): void {
+        foreach (
+            Symfony\Component\Finder\Finder::create()
+                ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
+                ->notName('helpers.php')
+                ->name('*.php') as $splFileInfo
+        ) {
+            unlink($splFileInfo->getPathname());
+        }
+
+        file_put_contents(__DIR__.'/../vendor/guanguans/ai-commit/app/Support/helpers.php', '<?php');
+    })
     ->beforeEach(function (): void {})
     ->afterEach(function (): void {})
     ->afterAll(function (): void {

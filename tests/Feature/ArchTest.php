@@ -1,5 +1,6 @@
 <?php
 
+/** @noinspection PhpUndefinedMethodInspection */
 /** @noinspection StaticClosureCanBeUsedInspection */
 /** @noinspection PhpUnhandledExceptionInspection */
 
@@ -14,14 +15,17 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
-// arch()->preset()->php();
-// arch()->preset()->security();
-// arch()->preset()->strict();
+arch()->preset()->php();
+arch()->preset()->security();
+arch()->preset()->strict()->ignoring([
+    App\Commands\Command::class,
+    App\Commands\FeedCommand::class,
+]);
 // arch()->preset()->relaxed();
 
 arch('will not use debugging functions')
     ->group(__DIR__, __FILE__)
-    ->skip()
+    // ->skip()
     ->expect([
         'echo',
         'print',

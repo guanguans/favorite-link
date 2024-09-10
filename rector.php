@@ -24,6 +24,7 @@ use Rector\DeadCode\Rector\ClassMethod\RemoveEmptyClassMethodRector;
 use Rector\DeadCode\Rector\ClassMethod\RemoveUselessReturnTagRector;
 use Rector\DowngradePhp80\Rector\FuncCall\DowngradeArrayFilterNullableCallbackRector;
 use Rector\EarlyReturn\Rector\Return_\ReturnBinaryOrToEarlyReturnRector;
+use Rector\Naming\Rector\Foreach_\RenameForeachValueVariableToMatchMethodCallReturnTypeRector;
 use Rector\Php73\Rector\String_\SensitiveHereNowDocRector;
 use Rector\PHPUnit\CodeQuality\Rector\Class_\AddSeeTestAnnotationRector;
 use Rector\PHPUnit\Set\PHPUnitSetList;
@@ -86,6 +87,9 @@ return static function (RectorConfig $rectorConfig): void {
         WrapEncapsedVariableInCurlyBracesRector::class,
         RemoveEmptyClassMethodRector::class => [
             __DIR__.'/app/Providers/AppServiceProvider.php',
+        ],
+        RenameForeachValueVariableToMatchMethodCallReturnTypeRector::class => [
+            __DIR__.'/tests/Pest.php',
         ],
         StaticClosureRector::class => [
             __DIR__.'/tests',
