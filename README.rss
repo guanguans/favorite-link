@@ -257,6 +257,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>如何在同一版本库中发布 PHP 8.1 和 7.2 软件包</title>
+      <pubDate>Tue, 03 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/</link>
+      <guid>https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/</guid>
+      <content:encoded><![CDATA[<a href="https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/" target="_blank">如何在同一版本库中发布 PHP 8.1 和 7.2 软件包</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/" target="_blank">https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。</title>
       <pubDate>Sun, 08 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/Honeystone/laravel-dto-tools</link>

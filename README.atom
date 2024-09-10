@@ -329,6 +329,22 @@ Laravel。自动更新。](https://github.com/beeyev/disposable-email-filter-php
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[如何在同一版本库中发布 PHP 8.1 和 7.2 软件包]]></title>
+    <published>2024-09-03T08:00:00+00:00</published>
+    <updated>2024-09-03T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/"/>
+    <id>https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/" target="_blank">如何在同一版本库中发布 PHP 8.1 和 7.2 软件包</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/" target="_blank">https://tomasvotruba.com/blog/how-to-release-php-81-and-72-package-in-the-same-repository/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。]]></title>
     <published>2024-09-08T16:00:00+00:00</published>
     <updated>2024-09-08T16:00:00+00:00</updated>
