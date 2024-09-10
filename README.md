@@ -38,6 +38,7 @@
 - [SabatinoMasala/artisan-dev: 通过单个命令并行运行多个脚本，并集成日志记录功能。](https://github.com/SabatinoMasala/artisan-dev) 
 - [如何使用 AI 和 TransformersPHP 以编程方式翻译内容](https://dev.to/robertobutti/how-to-translate-content-programmatically-using-ai-and-transformersphp-48jp) 
 - [Laracon US 2024：Laravel 11 个提高性能的小功能](https://qirolab.com/posts/laravel-11-features-that-enhance-performance) 
+- [tursodatabase/turso-driver-laravel: LibSQL 是 SQLite 的一个分支，这个包是 #1 LibSQL 驱动程序，它使用 LibSQL 本机扩展/驱动程序/任何内容本地运行，并支持 Laravel 生态系统。](https://github.com/tursodatabase/turso-driver-laravel) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
