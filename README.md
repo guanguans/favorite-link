@@ -43,6 +43,7 @@
 - [beeyev/disposable-email-filter-php: 🗑 一次性 (临时/丢弃/伪造) 电子邮件检测库。与框架无关，支持 Laravel。自动更新。](https://github.com/beeyev/disposable-email-filter-php) 
 - [rudashi/fluent-regex: 真正流畅的 PHP 正则表达式助手，可简化正则表达式的编写。](https://github.com/rudashi/fluent-regex) 
 - [RonasIT/laravel-swagger: Laravel-Swagger 是一款完全自动化的工具，可在成功完成应用程序的功能测试后生成并保存基于 swagger 的文档。](https://github.com/RonasIT/laravel-swagger) 
+- [PHP 泛型和集合的状态](https://thephp.foundation/blog/2024/08/19/state-of-generics-and-collections/) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
