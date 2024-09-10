@@ -30,6 +30,7 @@
 
 ### September 10, 2024 
 - [imputnet/cobalt: 保存你所爱的最好方法](https://github.com/imputnet/cobalt) 
+- [michael-rubel/livewire-best-practices: Laravel Livewire 最佳实践](https://github.com/michael-rubel/livewire-best-practices) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
