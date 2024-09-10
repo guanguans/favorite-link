@@ -34,6 +34,7 @@
 - [michael-rubel/laravel-value-objects: 您可以在 Laravel 应用程序中使用的一系列通用值对象。](https://github.com/michael-rubel/laravel-value-objects) 
 - [DeGraciaMathieu/dummy-stub-spy-mock: 区分 PHP 中不同类型的测试替身的小练习](https://github.com/DeGraciaMathieu/dummy-stub-spy-mock) 
 - [cybercog/php-opentsdb-client: OpenTSDB PHP HTTP API 客户端](https://github.com/cybercog/php-opentsdb-client) 
+- [在 PHP 中使用泛型](https://www.youtube.com/watch?v=4omuIb6Hlxg&ab_channel=Laracasts) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
