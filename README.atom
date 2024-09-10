@@ -161,6 +161,24 @@ Livewire 最佳实践</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[tursodatabase/turso-driver-laravel: LibSQL 是 SQLite 的一个分支，这个包是 #1 LibSQL 驱动程序，它使用 LibSQL 本机扩展/驱动程序/任何内容本地运行，并支持 Laravel 生态系统。]]></title>
+    <published>2024-09-06T16:00:00+00:00</published>
+    <updated>2024-09-06T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tursodatabase/turso-driver-laravel"/>
+    <id>https://github.com/tursodatabase/turso-driver-laravel</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/tursodatabase/turso-driver-laravel" target="_blank">tursodatabase/turso-driver-laravel: LibSQL 是 SQLite
+的一个分支，这个包是 #1 LibSQL 驱动程序，它使用 LibSQL 本机扩展/驱动程序/任何内容本地运行，并支持 Laravel
+生态系统。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/tursodatabase/turso-driver-laravel" target="_blank">https://github.com/tursodatabase/turso-driver-laravel</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。]]></title>
     <published>2024-09-08T16:00:00+00:00</published>
     <updated>2024-09-08T16:00:00+00:00</updated>
