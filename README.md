@@ -28,6 +28,9 @@
 
 
 
+
+### September 11, 2024 
+- [saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器](https://github.com/saeedvaziry/laravel-monitoring) 
 ### September 10, 2024 
 - [imputnet/cobalt: 保存你所爱的最好方法](https://github.com/imputnet/cobalt) 
 - [michael-rubel/livewire-best-practices: Laravel Livewire 最佳实践](https://github.com/michael-rubel/livewire-best-practices) 
