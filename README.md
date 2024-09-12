@@ -34,6 +34,7 @@
 - [ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。](https://github.com/ryangjchandler/blade-capture-directive) 
 - [pestphp/pest-plugin-mutate: Pest 变异插件](https://github.com/pestphp/pest-plugin-mutate) 
 - [AnourValar/eloquent-serialize: Eloquent 查询生成器的序列化](https://github.com/AnourValar/eloquent-serialize) 
+- [AuroraWebSoftware/FlexyField: Laravel FlexyField 是用于动态模型字段的实用软件包。](https://github.com/AuroraWebSoftware/FlexyField) 
 ### September 11, 2024 
 - [saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器](https://github.com/saeedvaziry/laravel-monitoring) 
 ### September 10, 2024 
