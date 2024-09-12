@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 10 Sep 2024 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。</title>
+      <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/ryangjchandler/blade-capture-directive</link>
+      <guid>https://github.com/ryangjchandler/blade-capture-directive</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/blade-capture-directive" target="_blank">ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ryangjchandler/blade-capture-directive" target="_blank">https://github.com/ryangjchandler/blade-capture-directive</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>pestphp/pest-plugin-mutate: Pest 变异插件</title>
+      <pubDate>Wed, 11 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/pestphp/pest-plugin-mutate</link>
+      <guid>https://github.com/pestphp/pest-plugin-mutate</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/pestphp/pest-plugin-mutate" target="_blank">pestphp/pest-plugin-mutate: Pest 变异插件</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/pestphp/pest-plugin-mutate" target="_blank">https://github.com/pestphp/pest-plugin-mutate</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器</title>
       <pubDate>Tue, 10 Sep 2024 16:00:00 +0000</pubDate>
