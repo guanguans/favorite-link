@@ -79,6 +79,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sprout-laravel/sprout: 适用于 Laravel 的灵活、无缝、易用的多租户解决方案]]></title>
+    <published>2024-09-10T08:00:00+00:00</published>
+    <updated>2024-09-10T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sprout-laravel/sprout"/>
+    <id>https://github.com/sprout-laravel/sprout</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sprout-laravel/sprout" target="_blank">sprout-laravel/sprout: 适用于 Laravel 的灵活、无缝、易用的多租户解决方案</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sprout-laravel/sprout" target="_blank">https://github.com/sprout-laravel/sprout</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器]]></title>
     <published>2024-09-10T16:00:00+00:00</published>
     <updated>2024-09-10T16:00:00+00:00</updated>
