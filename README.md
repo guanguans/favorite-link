@@ -32,6 +32,7 @@
 
 ### September 12, 2024 
 - [ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。](https://github.com/ryangjchandler/blade-capture-directive) 
+- [pestphp/pest-plugin-mutate: Pest 变异插件](https://github.com/pestphp/pest-plugin-mutate) 
 ### September 11, 2024 
 - [saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器](https://github.com/saeedvaziry/laravel-monitoring) 
 ### September 10, 2024 
