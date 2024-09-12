@@ -29,6 +29,9 @@
 
 
 
+
+### September 12, 2024 
+- [ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。](https://github.com/ryangjchandler/blade-capture-directive) 
 ### September 11, 2024 
 - [saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器](https://github.com/saeedvaziry/laravel-monitoring) 
 ### September 10, 2024 
