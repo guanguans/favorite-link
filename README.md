@@ -35,6 +35,7 @@
 - [pestphp/pest-plugin-mutate: Pest 变异插件](https://github.com/pestphp/pest-plugin-mutate) 
 - [AnourValar/eloquent-serialize: Eloquent 查询生成器的序列化](https://github.com/AnourValar/eloquent-serialize) 
 - [AuroraWebSoftware/FlexyField: Laravel FlexyField 是用于动态模型字段的实用软件包。](https://github.com/AuroraWebSoftware/FlexyField) 
+- [sprout-laravel/sprout: 适用于 Laravel 的灵活、无缝、易用的多租户解决方案](https://github.com/sprout-laravel/sprout) 
 ### September 11, 2024 
 - [saeedvaziry/laravel-monitoring: 监控您的 Laravel 服务器](https://github.com/saeedvaziry/laravel-monitoring) 
 ### September 10, 2024 
