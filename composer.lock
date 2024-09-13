@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "80dc0d66c75c06e0a68d732805a46119",
+    "content-hash": "55186513998b44d5b989cbaee5d983df",
     "packages": [
         {
             "name": "brick/math",
@@ -137,28 +137,30 @@
         },
         {
             "name": "cerbero/command-validator",
-            "version": "2.5.0",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cerbero90/command-validator.git",
-                "reference": "ff64e574d907e7f938267c20f6bcd9d176a4a7c0"
+                "reference": "677686480f3ed4789f7fe0489c0bcc79d8a1ef1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cerbero90/command-validator/zipball/ff64e574d907e7f938267c20f6bcd9d176a4a7c0",
-                "reference": "ff64e574d907e7f938267c20f6bcd9d176a4a7c0",
+                "url": "https://api.github.com/repos/cerbero90/command-validator/zipball/677686480f3ed4789f7fe0489c0bcc79d8a1ef1b",
+                "reference": "677686480f3ed4789f7fe0489c0bcc79d8a1ef1b",
                 "shasum": ""
             },
             "require": {
-                "illuminate/contracts": ">=5.5",
-                "illuminate/support": ">=5.5",
-                "php": "^7.0||^8.0",
-                "symfony/console": ">=3.3.7"
+                "illuminate/contracts": ">=11.0",
+                "php": "^8.2",
+                "symfony/console": "^7.0"
             },
             "require-dev": {
-                "orchestra/testbench": ">=3.5",
-                "phpunit/phpunit": ">=6.0",
-                "squizlabs/php_codesniffer": "^3.0"
+                "orchestra/testbench": ">=9.0",
+                "pestphp/pest": "^3.0",
+                "phpstan/phpstan": "^1.9",
+                "squizlabs/php_codesniffer": "^3.0",
+                "tightenco/duster": "^2.0",
+                "uma/ocular": "^2.0"
             },
             "type": "library",
             "extra": {
@@ -183,21 +185,29 @@
                     "role": "Developer"
                 }
             ],
-            "description": "Validate Laravel console commands input.",
+            "description": "Laravel package to validate the input of console commands.",
             "homepage": "https://github.com/cerbero90/command-validator",
             "keywords": [
-                "cerbero",
-                "command-validator",
-                "commands",
+                "command-line",
                 "console",
-                "validation",
-                "validator"
+                "laravel",
+                "validation"
             ],
             "support": {
                 "issues": "https://github.com/cerbero90/command-validator/issues",
-                "source": "https://github.com/cerbero90/command-validator/tree/2.5.0"
+                "source": "https://github.com/cerbero90/command-validator/tree/3.0.0"
             },
-            "time": "2021-04-24T02:31:27+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/cerbero90",
+                    "type": "github"
+                },
+                {
+                    "url": "https://ko-fi.com/cerbero90",
+                    "type": "ko_fi"
+                }
+            ],
+            "time": "2024-09-12T17:49:42+00:00"
         },
         {
             "name": "clue/stream-filter",
