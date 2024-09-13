@@ -36,6 +36,7 @@
 - [elastic/go-freelru: 适用于 Go 的无 GC、快速、通用 LRU hashmap 库](https://github.com/elastic/go-freelru) 
 - [处理大型 JSON 负载并扩展 Request 类](https://geoligard.com/handling-large-json-payloads-and-extending-the-request-class) 
 - [CodeWithDennis/larament: 这个节省时间的入门套件包括一个已经安装和设置了 FilamentPHP 3 的 Laravel 11，以及额外的功能。](https://github.com/CodeWithDennis/larament) 
+- [x-cmd/x-cmd: X bootstrap 1000+ 工具和脚本。](https://github.com/x-cmd/x-cmd) 
 ### September 12, 2024 
 - [ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。](https://github.com/ryangjchandler/blade-capture-directive) 
 - [pestphp/pest-plugin-mutate: Pest 变异插件](https://github.com/pestphp/pest-plugin-mutate) 
