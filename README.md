@@ -30,6 +30,9 @@
 
 
 
+
+### September 13, 2024 
+- [morishin/XDeck: 适用于 macOS 的𝕏 客户端应用程序，是 TweetDeck (X Pro) 的替代品。](https://github.com/morishin/XDeck) 
 ### September 12, 2024 
 - [ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。](https://github.com/ryangjchandler/blade-capture-directive) 
 - [pestphp/pest-plugin-mutate: Pest 变异插件](https://github.com/pestphp/pest-plugin-mutate) 
