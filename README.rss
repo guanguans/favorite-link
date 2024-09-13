@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 12 Sep 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>morishin/XDeck: 适用于 macOS 的 𝕏 客户端应用程序，是 TweetDeck (X Pro) 的替代品。</title>
+      <pubDate>Thu, 12 Sep 2024 16:00:00 +0000</pubDate>
+      <link>X Pro) 的替代品。](https://github.com/morishin/XDeck</link>
+      <guid isPermaLink="false">X Pro) 的替代品。](https://github.com/morishin/XDeck</guid>
+      <content:encoded><![CDATA[<a href="X Pro) 的替代品。](https://github.com/morishin/XDeck" target="_blank">morishin/XDeck: 适用于 macOS 的 𝕏 客户端应用程序，是 TweetDeck (X Pro) 的替代品。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="X Pro) 的替代品。](https://github.com/morishin/XDeck" target="_blank">X Pro) 的替代品。](https://github.com/morishin/XDeck</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>elastic/go-freelru: 适用于 Go 的无 GC、快速、通用 LRU hashmap 库</title>
+      <pubDate>Thu, 12 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/elastic/go-freelru</link>
+      <guid>https://github.com/elastic/go-freelru</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/elastic/go-freelru" target="_blank">elastic/go-freelru: 适用于 Go 的无 GC、快速、通用 LRU hashmap 库</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/elastic/go-freelru" target="_blank">https://github.com/elastic/go-freelru</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>处理大型 JSON 负载并扩展 Request 类</title>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://geoligard.com/handling-large-json-payloads-and-extending-the-request-class</link>
+      <guid>https://geoligard.com/handling-large-json-payloads-and-extending-the-request-class</guid>
+      <content:encoded><![CDATA[<a href="https://geoligard.com/handling-large-json-payloads-and-extending-the-request-class" target="_blank">处理大型 JSON 负载并扩展 Request 类</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://geoligard.com/handling-large-json-payloads-and-extending-the-request-class" target="_blank">https://geoligard.com/handling-large-json-payloads-and-extending-the-request-class</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>ryangjchandler/blade-capture-directive: 在刀片模板中轻松创建内嵌部分。</title>
       <pubDate>Wed, 11 Sep 2024 16:00:00 +0000</pubDate>
