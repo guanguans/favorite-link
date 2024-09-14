@@ -25,7 +25,7 @@
         "php": "^8.3",
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^12.6",
-        "illuminate/validation": "^11.22",
+        "illuminate/validation": "^11.23",
         "laminas/laminas-feed": "^2.22",
         "laravel-zero/framework": "^11.0"
     },

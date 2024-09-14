@@ -20,16 +20,7 @@ use Pest\Expectation;
 
 uses(Tests\TestCase::class)
     ->beforeAll(function (): void {
-        foreach (
-            Symfony\Component\Finder\Finder::create()
-                ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
-                ->notName('helpers.php')
-                ->name('*.php') as $splFileInfo
-        ) {
-            unlink($splFileInfo->getPathname());
-        }
-
-        file_put_contents(__DIR__.'/../vendor/guanguans/ai-commit/app/Support/helpers.php', '<?php');
+        clear_name_namespace();
     })
     ->beforeEach(function (): void {})
     ->afterEach(function (): void {})
@@ -86,4 +77,18 @@ function class_namespace(object|string $class): string
 function fixtures_path(string $path = ''): string
 {
     return __DIR__.'/Fixtures'.($path ? \DIRECTORY_SEPARATOR.$path : $path);
+}
+
+function clear_name_namespace(): void
+{
+    foreach (
+        Symfony\Component\Finder\Finder::create()
+            ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
+            ->notName('helpers.php')
+            ->name('*.php') as $splFileInfo
+    ) {
+        unlink($splFileInfo->getPathname());
+    }
+
+    file_put_contents(__DIR__.'/../vendor/guanguans/ai-commit/app/Support/helpers.php', '<?php');
 }
