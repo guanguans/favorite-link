@@ -23,7 +23,7 @@
     },
     "require": {
         "php": "^8.3",
-        "cerbero/command-validator": "^2.5",
+        "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^12.6",
         "illuminate/validation": "^11.22",
         "laminas/laminas-feed": "^2.22",
