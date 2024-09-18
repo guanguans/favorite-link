@@ -39,6 +39,7 @@
 - [spriebsch/identifier-generator: 基于 UUID 的索引值对象的代码生成器。](https://github.com/spriebsch/identifier-generator) 
 - [Thavarshan/fetch-php: 🚀 一个轻量级 HTTP 库，其灵感来自 JavaScript 的 fetch，为 PHP HTTP 请求带来了简单性和灵活性。](https://github.com/Thavarshan/fetch-php) 
 - [lightszentip/laravel-release-changelog-generator: 使用 artisan 生成版本管理更新日志和发布版本](https://github.com/lightszentip/laravel-release-changelog-generator) 
+- [codecoz/aim-admin: 强大的 Laravel 软件包可简化管理任务，加快开发可扩展的企业网络应用程序](https://github.com/codecoz/aim-admin) 
 ### September 14, 2024 
 - [chesslablab/php-chess: PHP 的国际象棋库。](https://github.com/chesslablab/php-chess) 
 ### September 13, 2024 
