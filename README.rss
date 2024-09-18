@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 13 Sep 2024 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 17 Sep 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>alvin0/redis-model: Redis Model 将帮助在 Redis 中创建多个具有相同前缀的键，并将这些键组合在一起，作为 SQL 数据库中的一个表。</title>
+      <pubDate>Tue, 17 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/alvin0/redis-model</link>
+      <guid>https://github.com/alvin0/redis-model</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/alvin0/redis-model" target="_blank">alvin0/redis-model: Redis Model 将帮助在 Redis 中创建多个具有相同前缀的键，并将这些键组合在一起，作为 SQL 数据库中的一个表。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/alvin0/redis-model" target="_blank">https://github.com/alvin0/redis-model</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>AuroraWebSoftware/FlyModel: FlyModel 是一个 Laravel 软件包，它能让你动态地创建和管理模型。</title>
+      <pubDate>Tue, 17 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/AuroraWebSoftware/FlyModel</link>
+      <guid>https://github.com/AuroraWebSoftware/FlyModel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/AuroraWebSoftware/FlyModel" target="_blank">AuroraWebSoftware/FlyModel: FlyModel 是一个 Laravel 软件包，它能让你动态地创建和管理模型。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/AuroraWebSoftware/FlyModel" target="_blank">https://github.com/AuroraWebSoftware/FlyModel</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>spriebsch/identifier-generator: 基于 UUID 的索引值对象的代码生成器。</title>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/spriebsch/identifier-generator</link>
+      <guid>https://github.com/spriebsch/identifier-generator</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/spriebsch/identifier-generator" target="_blank">spriebsch/identifier-generator: 基于 UUID 的索引值对象的代码生成器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/spriebsch/identifier-generator" target="_blank">https://github.com/spriebsch/identifier-generator</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>chesslablab/php-chess: PHP 的国际象棋库。</title>
       <pubDate>Fri, 13 Sep 2024 16:00:00 +0000</pubDate>
