@@ -37,6 +37,7 @@
 - [alvin0/redis-model: Redis Model 将帮助在 Redis 中创建多个具有相同前缀的键，并将这些键组合在一起，作为 SQL 数据库中的一个表。](https://github.com/alvin0/redis-model) 
 - [AuroraWebSoftware/FlyModel: FlyModel 是一个 Laravel 软件包，它能让你动态地创建和管理模型。](https://github.com/AuroraWebSoftware/FlyModel) 
 - [spriebsch/identifier-generator: 基于 UUID 的索引值对象的代码生成器。](https://github.com/spriebsch/identifier-generator) 
+- [Thavarshan/fetch-php: 🚀 一个轻量级 HTTP 库，其灵感来自 JavaScript 的 fetch，为 PHP HTTP 请求带来了简单性和灵活性。](https://github.com/Thavarshan/fetch-php) 
 ### September 14, 2024 
 - [chesslablab/php-chess: PHP 的国际象棋库。](https://github.com/chesslablab/php-chess) 
 ### September 13, 2024 
