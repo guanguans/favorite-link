@@ -80,6 +80,23 @@ fetch，为 PHP HTTP 请求带来了简单性和灵活性。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[lightszentip/laravel-release-changelog-generator: 使用 artisan 生成版本管理更新日志和发布版本]]></title>
+    <published>2024-09-16T08:00:00+00:00</published>
+    <updated>2024-09-16T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/lightszentip/laravel-release-changelog-generator"/>
+    <id>https://github.com/lightszentip/laravel-release-changelog-generator</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/lightszentip/laravel-release-changelog-generator" target="_blank">lightszentip/laravel-release-changelog-generator:
+使用 artisan 生成版本管理更新日志和发布版本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/lightszentip/laravel-release-changelog-generator" target="_blank">https://github.com/lightszentip/laravel-release-changelog-generator</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[chesslablab/php-chess: PHP 的国际象棋库。]]></title>
     <published>2024-09-13T16:00:00+00:00</published>
     <updated>2024-09-13T16:00:00+00:00</updated>
