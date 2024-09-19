@@ -33,6 +33,9 @@
 
 
 
+
+### September 19, 2024 
+- [rapidphp/laplus: Laravel plus+ 为您的模型添加演示文稿](https://github.com/rapidphp/laplus) 
 ### September 18, 2024 
 - [alvin0/redis-model: Redis Model 将帮助在 Redis 中创建多个具有相同前缀的键，并将这些键组合在一起，作为 SQL 数据库中的一个表。](https://github.com/alvin0/redis-model) 
 - [AuroraWebSoftware/FlyModel: FlyModel 是一个 Laravel 软件包，它能让你动态地创建和管理模型。](https://github.com/AuroraWebSoftware/FlyModel) 
