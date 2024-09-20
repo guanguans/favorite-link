@@ -37,6 +37,7 @@
 
 ### September 20, 2024 
 - [onursimsek/laravel-extended: 扩展你的 Laravel 项目 🪄](https://github.com/onursimsek/laravel-extended) 
+- [theshreyanshpanchal/Framework-Dev-Assist: Framework Dev Assist 是一个 Chrome 扩展，旨在帮助开发人员使用框架。目前，它专注于为 Laravel 开发者提供有价值的信息和工具，包括命令详细信息、快捷方式以及收集方法的说明。](https://github.com/theshreyanshpanchal/Framework-Dev-Assist) 
 ### September 19, 2024 
 - [rapidphp/laplus: Laravel plus+ 为您的模型添加演示文稿](https://github.com/rapidphp/laplus) 
 ### September 18, 2024 
