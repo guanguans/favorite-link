@@ -29,6 +29,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[theshreyanshpanchal/Framework-Dev-Assist: Framework Dev Assist 是一个 Chrome 扩展，旨在帮助开发人员使用框架。目前，它专注于为 Laravel 开发者提供有价值的信息和工具，包括命令详细信息、快捷方式以及收集方法的说明。]]></title>
+    <published>2024-09-19T08:00:00+00:00</published>
+    <updated>2024-09-19T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/theshreyanshpanchal/Framework-Dev-Assist"/>
+    <id>https://github.com/theshreyanshpanchal/Framework-Dev-Assist</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/theshreyanshpanchal/Framework-Dev-Assist" target="_blank">theshreyanshpanchal/Framework-Dev-Assist: Framework
+Dev Assist 是一个 Chrome 扩展，旨在帮助开发人员使用框架。目前，它专注于为 Laravel
+开发者提供有价值的信息和工具，包括命令详细信息、快捷方式以及收集方法的说明。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/theshreyanshpanchal/Framework-Dev-Assist" target="_blank">https://github.com/theshreyanshpanchal/Framework-Dev-Assist</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rapidphp/laplus: Laravel plus+ 为您的模型添加演示文稿]]></title>
     <published>2024-09-18T16:00:00+00:00</published>
     <updated>2024-09-18T16:00:00+00:00</updated>
