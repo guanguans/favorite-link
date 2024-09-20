@@ -34,6 +34,9 @@
 
 
 
+
+### September 20, 2024 
+- [onursimsek/laravel-extended: 扩展你的 Laravel 项目 🪄](https://github.com/onursimsek/laravel-extended) 
 ### September 19, 2024 
 - [rapidphp/laplus: Laravel plus+ 为您的模型添加演示文稿](https://github.com/rapidphp/laplus) 
 ### September 18, 2024 
