@@ -33,7 +33,10 @@ use Rector\Renaming\Rector\FuncCall\RenameFunctionRector;
 use Rector\Set\ValueObject\DowngradeLevelSetList;
 use Rector\Set\ValueObject\LevelSetList;
 use Rector\Set\ValueObject\SetList;
+use Rector\Transform\Rector\ClassMethod\ReturnTypeWillChangeRector;
+use Rector\Transform\Rector\FileWithoutNamespace\RectorConfigBuilderRector;
 use Rector\Transform\Rector\String_\StringToClassConstantRector;
+use Rector\Transform\ValueObject\ClassMethodReference;
 use Rector\Transform\ValueObject\StringToClassConstant;
 use Rector\ValueObject\PhpVersion;
 
@@ -139,10 +142,15 @@ return static function (RectorConfig $rectorConfig): void {
         DowngradeArrayFilterNullableCallbackRector::class,
         StaticArrowFunctionRector::class,
         StaticClosureRector::class,
+        RectorConfigBuilderRector::class,
     ]);
 
     $rectorConfig->ruleWithConfiguration(RenameFunctionRector::class, [
         'test' => 'it',
+    ]);
+
+    $rectorConfig->ruleWithConfiguration(ReturnTypeWillChangeRector::class, [
+        new ClassMethodReference(ArrayAccess::class, 'offsetGet'),
     ]);
 
     // (function ($rectorConfig): void {
