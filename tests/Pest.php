@@ -22,7 +22,9 @@ uses(Tests\TestCase::class)
     ->beforeAll(function (): void {
         clear_same_namespace();
     })
-    ->beforeEach(function (): void {})
+    ->beforeEach(function (): void {
+        clear_same_namespace();
+    })
     ->afterEach(function (): void {})
     ->afterAll(function (): void {
         Process::run('git checkout -- README.atom README.rss');

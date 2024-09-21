@@ -17,6 +17,7 @@ declare(strict_types=1);
 
 arch()->preset()->php();
 arch()->preset()->security();
+// arch()->preset()->laravel();
 arch()->preset()->strict()->ignoring([
     App\Commands\Command::class,
     App\Commands\FeedCommand::class,
