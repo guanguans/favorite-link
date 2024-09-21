@@ -20,7 +20,7 @@ use Pest\Expectation;
 
 uses(Tests\TestCase::class)
     ->beforeAll(function (): void {
-        clear_name_namespace();
+        clear_same_namespace();
     })
     ->beforeEach(function (): void {})
     ->afterEach(function (): void {})
@@ -79,16 +79,13 @@ function fixtures_path(string $path = ''): string
     return __DIR__.'/Fixtures'.($path ? \DIRECTORY_SEPARATOR.$path : $path);
 }
 
-function clear_name_namespace(): void
+function clear_same_namespace(): void
 {
     foreach (
         Symfony\Component\Finder\Finder::create()
             ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
-            ->notName('helpers.php')
             ->name('*.php') as $splFileInfo
     ) {
-        unlink($splFileInfo->getPathname());
+        file_put_contents($splFileInfo->getPathname(), '<?php');
     }
-
-    file_put_contents(__DIR__.'/../vendor/guanguans/ai-commit/app/Support/helpers.php', '<?php');
 }
