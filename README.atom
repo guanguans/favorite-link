@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[genesisweb/valet-linux-plus: Valet Linux+ 是面向 Linux 极简主义者的高级开发环境。]]></title>
+    <published>2024-09-22T00:00:00+00:00</published>
+    <updated>2024-09-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/genesisweb/valet-linux-plus"/>
+    <id>https://github.com/genesisweb/valet-linux-plus</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/genesisweb/valet-linux-plus" target="_blank">genesisweb/valet-linux-plus: Valet Linux+ 是面向 Linux
+极简主义者的高级开发环境。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/genesisweb/valet-linux-plus" target="_blank">https://github.com/genesisweb/valet-linux-plus</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[onursimsek/laravel-extended: 扩展你的 Laravel 项目 🪄]]></title>
     <published>2024-09-19T16:00:00+00:00</published>
     <updated>2024-09-19T16:00:00+00:00</updated>
