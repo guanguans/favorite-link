@@ -40,6 +40,7 @@
 - [cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。](https://github.com/cerbero90/command-validator) 
 - [yamadashy/phpstan-friendly-formatter: 🤝 PHPStan 的友好错误格式化扩展，提供可读性更强、信息更丰富的输出，包括代码片段和彩色高亮显示。](https://github.com/yamadashy/phpstan-friendly-formatter) 
 - [genesisweb/valet-linux-plus: Valet Linux+ 是面向 Linux 极简主义者的高级开发环境。](https://github.com/genesisweb/valet-linux-plus) 
+- [lmc-eu/http-constants: HTTP 头信息字段缺失的 PHP 常量](https://github.com/lmc-eu/http-constants) 
 ### September 20, 2024 
 - [onursimsek/laravel-extended: 扩展你的 Laravel 项目 🪄](https://github.com/onursimsek/laravel-extended) 
 - [theshreyanshpanchal/Framework-Dev-Assist: Framework Dev Assist 是一个 Chrome 扩展，旨在帮助开发人员使用框架。目前，它专注于为 Laravel 开发者提供有价值的信息和工具，包括命令详细信息、快捷方式以及收集方法的说明。](https://github.com/theshreyanshpanchal/Framework-Dev-Assist) 
