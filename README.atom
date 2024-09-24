@@ -61,6 +61,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[binafy/artisan-finder: Artisan Finder 是一个 Laravel 软件包，它引入了一个名为 find:art 的便捷命令。此命令提供交互式选择输入，允许您快速搜索可用的工匠命令并立即执行它们。]]></title>
+    <published>2024-09-22T16:00:00+00:00</published>
+    <updated>2024-09-22T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/binafy/artisan-finder"/>
+    <id>https://github.com/binafy/artisan-finder</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/binafy/artisan-finder" target="_blank">binafy/artisan-finder: Artisan Finder 是一个 Laravel
+软件包，它引入了一个名为 find:art 的便捷命令。此命令提供交互式选择输入，允许您快速搜索可用的工匠命令并立即执行它们。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/binafy/artisan-finder" target="_blank">https://github.com/binafy/artisan-finder</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。]]></title>
     <published>2024-09-22T16:00:00+00:00</published>
     <updated>2024-09-22T16:00:00+00:00</updated>

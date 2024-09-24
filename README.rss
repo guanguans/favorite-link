@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>binafy/artisan-finder: Artisan Finder 是一个 Laravel 软件包，它引入了一个名为 find:art 的便捷命令。此命令提供交互式选择输入，允许您快速搜索可用的工匠命令并立即执行它们。</title>
+      <pubDate>Sun, 22 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/binafy/artisan-finder</link>
+      <guid>https://github.com/binafy/artisan-finder</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/binafy/artisan-finder" target="_blank">binafy/artisan-finder: Artisan Finder 是一个 Laravel 软件包，它引入了一个名为 find:art 的便捷命令。此命令提供交互式选择输入，允许您快速搜索可用的工匠命令并立即执行它们。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/binafy/artisan-finder" target="_blank">https://github.com/binafy/artisan-finder</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。</title>
       <pubDate>Sun, 22 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/cerbero90/command-validator</link>
