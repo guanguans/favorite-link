@@ -45,6 +45,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[eduardolat/pgbackweb: 通过用户友好的 Web 界面轻松备份 PostgreSQL！🌐💾]]></title>
+    <published>2024-09-23T00:00:00+00:00</published>
+    <updated>2024-09-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/eduardolat/pgbackweb"/>
+    <id>https://github.com/eduardolat/pgbackweb</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/eduardolat/pgbackweb" target="_blank">eduardolat/pgbackweb: 通过用户友好的 Web 界面轻松备份 PostgreSQL！🌐💾</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/eduardolat/pgbackweb" target="_blank">https://github.com/eduardolat/pgbackweb</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。]]></title>
     <published>2024-09-22T16:00:00+00:00</published>
     <updated>2024-09-22T16:00:00+00:00</updated>
