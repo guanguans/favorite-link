@@ -39,6 +39,7 @@
 
 ### September 24, 2024 
 - [ThijmenDam/BarTranslate: 🚀 一款适用于 macOS 的便捷菜单栏翻译小工具。](https://github.com/ThijmenDam/BarTranslate) 
+- [binafy/laravel-user-monitoring: 监控用户和应用程序上的所有活动](https://github.com/binafy/laravel-user-monitoring) 
 ### September 23, 2024 
 - [cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。](https://github.com/cerbero90/command-validator) 
 - [yamadashy/phpstan-friendly-formatter: 🤝 PHPStan 的友好错误格式化扩展，提供可读性更强、信息更丰富的输出，包括代码片段和彩色高亮显示。](https://github.com/yamadashy/phpstan-friendly-formatter) 
