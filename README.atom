@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[binafy/laravel-user-monitoring: 监控用户和应用程序上的所有活动]]></title>
+    <published>2024-09-23T08:00:00+00:00</published>
+    <updated>2024-09-23T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/binafy/laravel-user-monitoring"/>
+    <id>https://github.com/binafy/laravel-user-monitoring</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/binafy/laravel-user-monitoring" target="_blank">binafy/laravel-user-monitoring: 监控用户和应用程序上的所有活动</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/binafy/laravel-user-monitoring" target="_blank">https://github.com/binafy/laravel-user-monitoring</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。]]></title>
     <published>2024-09-22T16:00:00+00:00</published>
     <updated>2024-09-22T16:00:00+00:00</updated>
