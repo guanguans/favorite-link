@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>Laravel 管道指南</title>
+      <pubDate>Sun, 22 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://www.honeybadger.io/blog/laravel-pipeline/</link>
+      <guid>https://www.honeybadger.io/blog/laravel-pipeline/</guid>
+      <content:encoded><![CDATA[<a href="https://www.honeybadger.io/blog/laravel-pipeline/" target="_blank">Laravel 管道指南</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://www.honeybadger.io/blog/laravel-pipeline/" target="_blank">https://www.honeybadger.io/blog/laravel-pipeline/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。</title>
       <pubDate>Sun, 22 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/cerbero90/command-validator</link>
