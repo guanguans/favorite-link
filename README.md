@@ -42,6 +42,7 @@
 - [binafy/laravel-user-monitoring: 监控用户和应用程序上的所有活动](https://github.com/binafy/laravel-user-monitoring) 
 - [eduardolat/pgbackweb: 通过用户友好的 Web 界面轻松备份 PostgreSQL！🌐💾](https://github.com/eduardolat/pgbackweb) 
 - [binafy/artisan-finder: Artisan Finder 是一个 Laravel 软件包，它引入了一个名为 find:art 的便捷命令。此命令提供交互式选择输入，允许您快速搜索可用的工匠命令并立即执行它们。](https://github.com/binafy/artisan-finder) 
+- [Laravel 管道指南](https://www.honeybadger.io/blog/laravel-pipeline/) 
 ### September 23, 2024 
 - [cerbero90/command-validator: ✅ 用于验证控制台命令输入的 Laravel 软件包。](https://github.com/cerbero90/command-validator) 
 - [yamadashy/phpstan-friendly-formatter: 🤝 PHPStan 的友好错误格式化扩展，提供可读性更强、信息更丰富的输出，包括代码片段和彩色高亮显示。](https://github.com/yamadashy/phpstan-friendly-formatter) 
