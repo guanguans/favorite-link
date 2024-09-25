@@ -41,6 +41,7 @@
 ### September 25, 2024 
 - [DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active Record。](https://github.com/DirectoryTree/ActiveRedis) 
 - [permafrost-dev/code-snippets: 轻松创建和使用 PHP 代码片段](https://github.com/permafrost-dev/code-snippets) 
+- [mettle/sendportal: 开源自托管电子邮件营销。以极低的成本管理自己的新闻邮件。](https://github.com/mettle/sendportal) 
 ### September 24, 2024 
 - [ThijmenDam/BarTranslate: 🚀 一款适用于 macOS 的便捷菜单栏翻译小工具。](https://github.com/ThijmenDam/BarTranslate) 
 - [binafy/laravel-user-monitoring: 监控用户和应用程序上的所有活动](https://github.com/binafy/laravel-user-monitoring) 
