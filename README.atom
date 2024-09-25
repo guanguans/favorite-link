@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-09-23T16:00:00+00:00</updated>
+  <updated>2024-09-24T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active Record。]]></title>
+    <published>2024-09-24T16:00:00+00:00</published>
+    <updated>2024-09-24T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/DirectoryTree/ActiveRedis"/>
+    <id>https://github.com/DirectoryTree/ActiveRedis</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/DirectoryTree/ActiveRedis" target="_blank">DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active
+Record。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/DirectoryTree/ActiveRedis" target="_blank">https://github.com/DirectoryTree/ActiveRedis</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ThijmenDam/BarTranslate: 🚀 一款适用于 macOS 的便捷菜单栏翻译小工具。]]></title>
     <published>2024-09-23T16:00:00+00:00</published>
