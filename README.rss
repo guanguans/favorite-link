@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>为你的项目快速生成 docker-compose.yml 文件。</title>
+      <pubDate>Wed, 25 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://composebuilder.com/</link>
+      <guid>https://composebuilder.com/</guid>
+      <content:encoded><![CDATA[<a href="https://composebuilder.com/" target="_blank">为你的项目快速生成 docker-compose.yml 文件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://composebuilder.com/" target="_blank">https://composebuilder.com/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active Record。</title>
       <pubDate>Tue, 24 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/DirectoryTree/ActiveRedis</link>
