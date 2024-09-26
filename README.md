@@ -42,6 +42,7 @@
 ### September 26, 2024 
 - [p0deje/Maccy: 适用于 macOS 的轻量级剪贴板管理器](https://github.com/p0deje/Maccy) 
 - [为你的项目快速生成 docker-compose.yml 文件。](https://composebuilder.com/) 
+- [chrisdicarlo/laravel-config-checker: 通过扫描代码库中的使用情况，检查配置值是否存在。](https://github.com/chrisdicarlo/laravel-config-checker) 
 ### September 25, 2024 
 - [DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active Record。](https://github.com/DirectoryTree/ActiveRedis) 
 - [permafrost-dev/code-snippets: 轻松创建和使用 PHP 代码片段](https://github.com/permafrost-dev/code-snippets) 
