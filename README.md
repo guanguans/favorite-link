@@ -44,6 +44,7 @@
 - [为你的项目快速生成 docker-compose.yml 文件。](https://composebuilder.com/) 
 - [chrisdicarlo/laravel-config-checker: 通过扫描代码库中的使用情况，检查配置值是否存在。](https://github.com/chrisdicarlo/laravel-config-checker) 
 - [chrisdicarlo/eloquent-human-timestamps: 为 Laravel Eloquent 模型自动添加人工时间戳。](https://github.com/chrisdicarlo/eloquent-human-timestamps) 
+- [rajentrivedi/queue-watch: 检测 Laravel 应用程序的作业、事件和侦听器文件夹中的文件变化，并在检测到变化时自动重启队列工作者。](https://github.com/rajentrivedi/queue-watch) 
 ### September 25, 2024 
 - [DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active Record。](https://github.com/DirectoryTree/ActiveRedis) 
 - [permafrost-dev/code-snippets: 轻松创建和使用 PHP 代码片段](https://github.com/permafrost-dev/code-snippets) 
