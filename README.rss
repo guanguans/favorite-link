@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>chrisdicarlo/eloquent-human-timestamps: 为 Laravel Eloquent 模型自动添加人工时间戳。</title>
+      <pubDate>Tue, 24 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/chrisdicarlo/eloquent-human-timestamps</link>
+      <guid>https://github.com/chrisdicarlo/eloquent-human-timestamps</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/chrisdicarlo/eloquent-human-timestamps" target="_blank">chrisdicarlo/eloquent-human-timestamps: 为 Laravel Eloquent 模型自动添加人工时间戳。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/chrisdicarlo/eloquent-human-timestamps" target="_blank">https://github.com/chrisdicarlo/eloquent-human-timestamps</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>DirectoryTree/ActiveRedis: 在 Laravel 中实现 Redis 哈希值的 Active Record。</title>
       <pubDate>Tue, 24 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/DirectoryTree/ActiveRedis</link>
