@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>jonas/tig: Tig 是一个基于 ncurses 的 Git 文本模式界面。它的主要功能是 Git 仓库浏览器，但也可以帮助暂存更改，以便在块级提交，并充当各种 Git 命令输出的分页器。</title>
+      <pubDate>Thu, 26 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/jonas/tig</link>
+      <guid>https://github.com/jonas/tig</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jonas/tig" target="_blank">jonas/tig: Tig 是一个基于 ncurses 的 Git 文本模式界面。它的主要功能是 Git 仓库浏览器，但也可以帮助暂存更改，以便在块级提交，并充当各种 Git 命令输出的分页器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jonas/tig" target="_blank">https://github.com/jonas/tig</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>p0deje/Maccy: 适用于 macOS 的轻量级剪贴板管理器</title>
       <pubDate>Wed, 25 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/p0deje/Maccy</link>

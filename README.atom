@@ -29,6 +29,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[jonas/tig: Tig 是一个基于 ncurses 的 Git 文本模式界面。它的主要功能是 Git 仓库浏览器，但也可以帮助暂存更改，以便在块级提交，并充当各种 Git 命令输出的分页器。]]></title>
+    <published>2024-09-26T08:00:00+00:00</published>
+    <updated>2024-09-26T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/jonas/tig"/>
+    <id>https://github.com/jonas/tig</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/jonas/tig" target="_blank">jonas/tig:
+Tig 是一个基于 ncurses 的 Git 文本模式界面。它的主要功能是 Git
+仓库浏览器，但也可以帮助暂存更改，以便在块级提交，并充当各种 Git 命令输出的分页器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/jonas/tig" target="_blank">https://github.com/jonas/tig</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[p0deje/Maccy: 适用于 macOS 的轻量级剪贴板管理器]]></title>
     <published>2024-09-25T16:00:00+00:00</published>
     <updated>2024-09-25T16:00:00+00:00</updated>
