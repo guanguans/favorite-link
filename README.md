@@ -39,6 +39,9 @@
 
 
 
+
+### September 27, 2024 
+- [owlchester/kanka: 世界构建和 RPG 战役管理工具](https://github.com/owlchester/kanka) 
 ### September 26, 2024 
 - [p0deje/Maccy: 适用于 macOS 的轻量级剪贴板管理器](https://github.com/p0deje/Maccy) 
 - [为你的项目快速生成 docker-compose.yml 文件。](https://composebuilder.com/) 
