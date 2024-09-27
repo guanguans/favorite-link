@@ -43,6 +43,7 @@
 ### September 27, 2024 
 - [owlchester/kanka: 世界构建和 RPG 战役管理工具](https://github.com/owlchester/kanka) 
 - [jonas/tig: Tig 是一个基于 ncurses 的 Git 文本模式界面。它的主要功能是 Git 仓库浏览器，但也可以帮助暂存更改，以便在块级提交，并充当各种 Git 命令输出的分页器。](https://github.com/jonas/tig) 
+- [dg/composer-cleaner: 删除供应商目录中不必要的文件](https://github.com/dg/composer-cleaner) 
 ### September 26, 2024 
 - [p0deje/Maccy: 适用于 macOS 的轻量级剪贴板管理器](https://github.com/p0deje/Maccy) 
 - [为你的项目快速生成 docker-compose.yml 文件。](https://composebuilder.com/) 
