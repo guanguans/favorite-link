@@ -7994,33 +7994,34 @@
         },
         {
             "name": "ergebnis/license",
-            "version": "2.4.0",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ergebnis/license.git",
-                "reference": "629cbbdaa4980e2cf770b9be9ffb5c1b0ceb5160"
+                "reference": "124f72689988a988cd32910ca8504030b0987117"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ergebnis/license/zipball/629cbbdaa4980e2cf770b9be9ffb5c1b0ceb5160",
-                "reference": "629cbbdaa4980e2cf770b9be9ffb5c1b0ceb5160",
+                "url": "https://api.github.com/repos/ergebnis/license/zipball/124f72689988a988cd32910ca8504030b0987117",
+                "reference": "124f72689988a988cd32910ca8504030b0987117",
                 "shasum": ""
             },
             "require": {
                 "ext-filter": "*",
-                "php": "~7.4.0 || ~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0"
+                "php": "~7.4.0 || ~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0"
             },
             "require-dev": {
-                "ergebnis/composer-normalize": "^2.28.3",
-                "ergebnis/data-provider": "^1.2.0",
-                "ergebnis/php-cs-fixer-config": "^6.13.0",
-                "fakerphp/faker": "^1.23.0",
+                "ergebnis/composer-normalize": "^2.43.0",
+                "ergebnis/data-provider": "^3.2.0",
+                "ergebnis/php-cs-fixer-config": "^6.36.0",
+                "ergebnis/phpunit-slow-test-detector": "^2.15.1",
+                "fakerphp/faker": "^1.23.1",
                 "infection/infection": "~0.26.6",
-                "phpunit/phpunit": "^9.6.13",
-                "psalm/plugin-phpunit": "~0.18.4",
-                "rector/rector": "~0.18.11",
-                "symfony/filesystem": "^5.0.0 || ^6.0.0",
-                "vimeo/psalm": "^5.16.0"
+                "phpunit/phpunit": "^9.6.19",
+                "psalm/plugin-phpunit": "~0.19.0",
+                "rector/rector": "^1.2.5",
+                "symfony/filesystem": "^5.4.41",
+                "vimeo/psalm": "^5.26.1"
             },
             "type": "library",
             "autoload": {
@@ -8049,7 +8050,7 @@
                 "security": "https://github.com/ergebnis/license/blob/main/.github/SECURITY.md",
                 "source": "https://github.com/ergebnis/license"
             },
-            "time": "2023-11-30T13:28:53+00:00"
+            "time": "2024-09-27T14:52:18+00:00"
         },
         {
             "name": "ergebnis/php-cs-fixer-config",
