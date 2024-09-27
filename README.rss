@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 25 Sep 2024 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 26 Sep 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>owlchester/kanka: 世界构建和 RPG 战役管理工具</title>
+      <pubDate>Thu, 26 Sep 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/owlchester/kanka</link>
+      <guid>https://github.com/owlchester/kanka</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/owlchester/kanka" target="_blank">owlchester/kanka: 世界构建和 RPG 战役管理工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/owlchester/kanka" target="_blank">https://github.com/owlchester/kanka</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>p0deje/Maccy: 适用于 macOS 的轻量级剪贴板管理器</title>
       <pubDate>Wed, 25 Sep 2024 16:00:00 +0000</pubDate>
