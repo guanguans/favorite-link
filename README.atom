@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。]]></title>
+    <published>2024-09-28T08:00:00+00:00</published>
+    <updated>2024-09-28T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pelican-dev/panel"/>
+    <id>https://github.com/pelican-dev/panel</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/pelican-dev/panel" target="_blank">pelican-dev/panel: Pelican Panel 是一款基于 Web
+的开源应用程序，设计用于轻松管理游戏服务器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/pelican-dev/panel" target="_blank">https://github.com/pelican-dev/panel</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[owlchester/kanka: 世界构建和 RPG 战役管理工具]]></title>
     <published>2024-09-26T16:00:00+00:00</published>
     <updated>2024-09-26T16:00:00+00:00</updated>
