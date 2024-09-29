@@ -43,6 +43,7 @@
 
 ### September 29, 2024 
 - [Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释](https://github.com/Orphail/laravel-ddd) 
+- [pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。](https://github.com/pelican-dev/panel) 
 ### September 27, 2024 
 - [owlchester/kanka: 世界构建和 RPG 战役管理工具](https://github.com/owlchester/kanka) 
 - [jonas/tig: Tig 是一个基于 ncurses 的 Git 文本模式界面。它的主要功能是 Git 仓库浏览器，但也可以帮助暂存更改，以便在块级提交，并充当各种 Git 命令输出的分页器。](https://github.com/jonas/tig) 
