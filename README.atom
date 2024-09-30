@@ -68,6 +68,23 @@ OpenAI、Claude 和其他 LLM
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MGeurts/genealogy: Genealogy 是一款免费开源的家谱 PHP 应用程序，用于记录家庭成员及其关系，使用 Laravel 11 构建。]]></title>
+    <published>2024-09-28T16:00:00+00:00</published>
+    <updated>2024-09-28T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/MGeurts/genealogy"/>
+    <id>https://github.com/MGeurts/genealogy</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/MGeurts/genealogy" target="_blank">MGeurts/genealogy: Genealogy 是一款免费开源的家谱 PHP
+应用程序，用于记录家庭成员及其关系，使用 Laravel 11 构建。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/MGeurts/genealogy" target="_blank">https://github.com/MGeurts/genealogy</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释]]></title>
     <published>2024-09-28T16:00:00+00:00</published>
     <updated>2024-09-28T16:00:00+00:00</updated>
