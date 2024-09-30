@@ -53,6 +53,7 @@
 - [SQL 操作真实顺序的初学者指南](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/) 
 - [container-interop/service-provider: 该项目试图为服务提供商 (又称各种框架中的 "捆绑包" 或 "模块") 定义一个通用标准。](https://github.com/container-interop/service-provider) 
 - [ben-gibson/GitLink: 一个 Jetbrains 插件，可使用默认浏览器在远程主机上打开 Git 版本控制下的本地文件。](https://github.com/ben-gibson/GitLink) 
+- [chrisant996/clink: Clink 将本地 Windows shell cmd.exe 与 GNU Readline 库强大的命令行编辑功能相结合，后者提供了丰富的补全、历史记录和行编辑功能。](https://github.com/chrisant996/clink) 
 ### September 29, 2024 
 - [Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释](https://github.com/Orphail/laravel-ddd) 
 - [pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。](https://github.com/pelican-dev/panel) 
