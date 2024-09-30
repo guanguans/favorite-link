@@ -51,6 +51,7 @@
 - [ben-n93/SQL-tips-and-tricks: SQL 提示和技巧](https://github.com/ben-n93/SQL-tips-and-tricks) 
 - [creagia/laravel-sign-pad: 一个 Laravel 软件包，用于签署文件，并可选择生成与 Eloquent 模型相关的认证 PDF。](https://github.com/creagia/laravel-sign-pad) 
 - [SQL 操作真实顺序的初学者指南](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/) 
+- [container-interop/service-provider: 该项目试图为服务提供商（又称各种框架中的 "捆绑包 "或 "模块"）定义一个通用标准。](https://github.com/container-interop/service-provider) 
 ### September 29, 2024 
 - [Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释](https://github.com/Orphail/laravel-ddd) 
 - [pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。](https://github.com/pelican-dev/panel) 
