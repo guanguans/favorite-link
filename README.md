@@ -41,6 +41,9 @@
 
 
 
+
+### September 30, 2024 
+- [vtsykun/packeton: 📦 自托管的私有 Packagist/Composer/Satis 仓库，可使用无限量的私有仓库。](https://github.com/vtsykun/packeton) 
 ### September 29, 2024 
 - [Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释](https://github.com/Orphail/laravel-ddd) 
 - [pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。](https://github.com/pelican-dev/panel) 
