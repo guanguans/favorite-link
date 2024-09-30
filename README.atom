@@ -170,6 +170,23 @@ Eloquent 模型相关的认证 PDF。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ben-gibson/GitLink: 一个 Jetbrains 插件，可使用默认浏览器在远程主机上打开 Git 版本控制下的本地文件。]]></title>
+    <published>2024-09-26T16:00:00+00:00</published>
+    <updated>2024-09-26T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ben-gibson/GitLink"/>
+    <id>https://github.com/ben-gibson/GitLink</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ben-gibson/GitLink" target="_blank">ben-gibson/GitLink: 一个 Jetbrains 插件，可使用默认浏览器在远程主机上打开 Git
+版本控制下的本地文件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ben-gibson/GitLink" target="_blank">https://github.com/ben-gibson/GitLink</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释]]></title>
     <published>2024-09-28T16:00:00+00:00</published>
     <updated>2024-09-28T16:00:00+00:00</updated>
