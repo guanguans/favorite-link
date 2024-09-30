@@ -187,6 +187,23 @@ Eloquent 模型相关的认证 PDF。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[chrisant996/clink: Clink 将本地 Windows shell cmd.exe 与 GNU Readline 库强大的命令行编辑功能相结合，后者提供了丰富的补全、历史记录和行编辑功能。]]></title>
+    <published>2024-09-26T08:00:00+00:00</published>
+    <updated>2024-09-26T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/chrisant996/clink"/>
+    <id>https://github.com/chrisant996/clink</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/chrisant996/clink" target="_blank">chrisant996/clink: Clink 将本地 Windows shell cmd.exe 与 GNU
+Readline 库强大的命令行编辑功能相结合，后者提供了丰富的补全、历史记录和行编辑功能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/chrisant996/clink" target="_blank">https://github.com/chrisant996/clink</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释]]></title>
     <published>2024-09-28T16:00:00+00:00</published>
     <updated>2024-09-28T16:00:00+00:00</updated>
