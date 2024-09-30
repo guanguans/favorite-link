@@ -101,6 +101,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>SQL 操作真实顺序的初学者指南</title>
+      <pubDate>Fri, 27 Sep 2024 08:00:00 +0000</pubDate>
+      <link>https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/</link>
+      <guid>https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/</guid>
+      <content:encoded><![CDATA[<a href="https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/" target="_blank">SQL 操作真实顺序的初学者指南</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/" target="_blank">https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释</title>
       <pubDate>Sat, 28 Sep 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/Orphail/laravel-ddd</link>

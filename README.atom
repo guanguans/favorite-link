@@ -136,6 +136,22 @@ Eloquent 模型相关的认证 PDF。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[SQL 操作真实顺序的初学者指南]]></title>
+    <published>2024-09-27T08:00:00+00:00</published>
+    <updated>2024-09-27T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/"/>
+    <id>https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/" target="_blank">SQL 操作真实顺序的初学者指南</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/" target="_blank">https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释]]></title>
     <published>2024-09-28T16:00:00+00:00</published>
     <updated>2024-09-28T16:00:00+00:00</updated>
