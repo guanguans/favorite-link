@@ -44,7 +44,7 @@
 
 ### September 30, 2024 
 - [vtsykun/packeton: 📦 自托管的私有 Packagist/Composer/Satis 仓库，可使用无限量的私有仓库。](https://github.com/vtsykun/packeton) 
-- [jerowork/class-dependencies-parser: 解析类（如类、特征、接口、枚举）中使用的所有依赖关系（FQN）。](https://github.com/jerowork/class-dependencies-parser) 
+- [jerowork/class-dependencies-parser: 解析类 (如类、特征、接口、枚举) 中使用的所有依赖关系 (FQN)。](https://github.com/jerowork/class-dependencies-parser) 
 ### September 29, 2024 
 - [Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释](https://github.com/Orphail/laravel-ddd) 
 - [pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。](https://github.com/pelican-dev/panel) 
