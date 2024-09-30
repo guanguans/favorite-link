@@ -52,6 +52,7 @@
 - [creagia/laravel-sign-pad: 一个 Laravel 软件包，用于签署文件，并可选择生成与 Eloquent 模型相关的认证 PDF。](https://github.com/creagia/laravel-sign-pad) 
 - [SQL 操作真实顺序的初学者指南](https://blog.jooq.org/a-beginners-guide-to-the-true-order-of-sql-operations/) 
 - [container-interop/service-provider: 该项目试图为服务提供商 (又称各种框架中的 "捆绑包" 或 "模块") 定义一个通用标准。](https://github.com/container-interop/service-provider) 
+- [ben-gibson/GitLink: 一个 Jetbrains 插件，可使用默认浏览器在远程主机上打开 Git 版本控制下的本地文件。](https://github.com/ben-gibson/GitLink) 
 ### September 29, 2024 
 - [Orphail/laravel-ddd: 另一种 Laravel 10 DDD 解释](https://github.com/Orphail/laravel-ddd) 
 - [pelican-dev/panel: Pelican Panel 是一款基于 Web 的开源应用程序，设计用于轻松管理游戏服务器。](https://github.com/pelican-dev/panel) 
