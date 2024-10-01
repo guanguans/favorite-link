@@ -42,6 +42,9 @@
 
 
 
+
+### October 1, 2024 
+- [staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval($code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector) 
 ### September 30, 2024 
 - [vtsykun/packeton: 📦 自托管的私有 Packagist/Composer/Satis 仓库，可使用无限量的私有仓库。](https://github.com/vtsykun/packeton) 
 - [jerowork/class-dependencies-parser: 解析类 (如类、特征、接口、枚举) 中使用的所有依赖关系 (FQN)。](https://github.com/jerowork/class-dependencies-parser) 
