@@ -48,6 +48,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sunspikes/php-ratelimiter: 用于 PHP 的独立于框架的速率限制器]]></title>
+    <published>2024-09-30T00:00:00+00:00</published>
+    <updated>2024-09-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sunspikes/php-ratelimiter"/>
+    <id>https://github.com/sunspikes/php-ratelimiter</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sunspikes/php-ratelimiter" target="_blank">sunspikes/php-ratelimiter: 用于 PHP 的独立于框架的速率限制器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sunspikes/php-ratelimiter" target="_blank">https://github.com/sunspikes/php-ratelimiter</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vtsykun/packeton: 📦 自托管的私有 Packagist/Composer/Satis 仓库，可使用无限量的私有仓库。]]></title>
     <published>2024-09-29T16:00:00+00:00</published>
     <updated>2024-09-29T16:00:00+00:00</updated>
