@@ -31,6 +31,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[bonaysoft/relingo-desktop: 这是一个非官方的 Relingo 桌面客户端，主要用来背单词。]]></title>
+    <published>2024-09-30T08:00:00+00:00</published>
+    <updated>2024-09-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/bonaysoft/relingo-desktop"/>
+    <id>https://github.com/bonaysoft/relingo-desktop</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/bonaysoft/relingo-desktop" target="_blank">bonaysoft/relingo-desktop: 这是一个非官方的 Relingo
+桌面客户端，主要用来背单词。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/bonaysoft/relingo-desktop" target="_blank">https://github.com/bonaysoft/relingo-desktop</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vtsykun/packeton: 📦 自托管的私有 Packagist/Composer/Satis 仓库，可使用无限量的私有仓库。]]></title>
     <published>2024-09-29T16:00:00+00:00</published>
     <updated>2024-09-29T16:00:00+00:00</updated>
