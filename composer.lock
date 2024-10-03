@@ -10790,21 +10790,21 @@
         },
         {
             "name": "rector/rector",
-            "version": "1.2.5",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector.git",
-                "reference": "e98aa793ca3fcd17e893cfaf9103ac049775d339"
+                "reference": "6ca85da28159dbd3bb36211c5104b7bc91278e99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector/zipball/e98aa793ca3fcd17e893cfaf9103ac049775d339",
-                "reference": "e98aa793ca3fcd17e893cfaf9103ac049775d339",
+                "url": "https://api.github.com/repos/rectorphp/rector/zipball/6ca85da28159dbd3bb36211c5104b7bc91278e99",
+                "reference": "6ca85da28159dbd3bb36211c5104b7bc91278e99",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.2|^8.0",
-                "phpstan/phpstan": "^1.12.2"
+                "phpstan/phpstan": "^1.12.5"
             },
             "conflict": {
                 "rector/rector-doctrine": "*",
@@ -10837,7 +10837,7 @@
             ],
             "support": {
                 "issues": "https://github.com/rectorphp/rector/issues",
-                "source": "https://github.com/rectorphp/rector/tree/1.2.5"
+                "source": "https://github.com/rectorphp/rector/tree/1.2.6"
             },
             "funding": [
                 {
@@ -10845,7 +10845,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-08T17:43:24+00:00"
+            "time": "2024-10-03T08:56:44+00:00"
         },
         {
             "name": "roave/security-advisories",
