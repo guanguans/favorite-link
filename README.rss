@@ -153,6 +153,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>扩展 Laravel 的身份验证：创建自定义守卫</title>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://www.harrisrafto.eu/extending-laravel-authentication-creating-cutom-guards/</link>
+      <guid>https://www.harrisrafto.eu/extending-laravel-authentication-creating-cutom-guards/</guid>
+      <content:encoded><![CDATA[<a href="https://www.harrisrafto.eu/extending-laravel-authentication-creating-cutom-guards/" target="_blank">扩展 Laravel 的身份验证：创建自定义守卫</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://www.harrisrafto.eu/extending-laravel-authentication-creating-cutom-guards/" target="_blank">https://www.harrisrafto.eu/extending-laravel-authentication-creating-cutom-guards/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。</title>
       <pubDate>Mon, 30 Sep 2024 16:00:00 +0000</pubDate>
       <link>$code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector</link>
