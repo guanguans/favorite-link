@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>PapaRascal2020/sidekick: 这是一个 Laravel 软件包，提供了使用 Claude、Mistral、Cohere 和 OpenAi API 的通用语法。</title>
+      <pubDate>Sat, 05 Oct 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/PapaRascal2020/sidekick</link>
+      <guid>https://github.com/PapaRascal2020/sidekick</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/PapaRascal2020/sidekick" target="_blank">PapaRascal2020/sidekick: 这是一个 Laravel 软件包，提供了使用 Claude、Mistral、Cohere 和 OpenAi API 的通用语法。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/PapaRascal2020/sidekick" target="_blank">https://github.com/PapaRascal2020/sidekick</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。</title>
       <pubDate>Mon, 30 Sep 2024 16:00:00 +0000</pubDate>
       <link>$code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector</link>
