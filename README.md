@@ -50,6 +50,7 @@
 - [Thavarshan/phpvm: 🧑‍💻 适用于 MacOS 和 Linux 的简单 PHP 版本管理器。](https://github.com/Thavarshan/phpvm) 
 - [mkeremcansev/laravel-commission: 一个灵活的软件包，用于在 Laravel 中计算和记录佣金。](https://github.com/mkeremcansev/laravel-commission) 
 - [PapaRascal2020/sidekick: 这是一个 Laravel 软件包，提供了使用 Claude、Mistral、Cohere 和 OpenAi API 的通用语法。](https://github.com/PapaRascal2020/sidekick) 
+- [pdphilip/cf-request: Cloudflare Laravel 请求利用 Cloudflare 提供的位置、时区和僵尸/威胁信息，以及用户的设备类型、操作系统和浏览器，丰富了标准 Laravel HTTP 请求。](https://github.com/pdphilip/cf-request) 
 ### October 1, 2024 
 - [staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector) 
 - [bonaysoft/relingo-desktop: 这是一个非官方的 Relingo 桌面客户端，主要用来背单词。](https://github.com/bonaysoft/relingo-desktop) 
