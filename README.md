@@ -43,6 +43,9 @@
 
 
 
+
+### October 7, 2024 
+- [imliam/cpx: 运行任何 composer 软件包中的任何命令，即使它没有安装在你的项目中。](https://github.com/imliam/cpx) 
 ### October 1, 2024 
 - [staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector) 
 - [bonaysoft/relingo-desktop: 这是一个非官方的 Relingo 桌面客户端，主要用来背单词。](https://github.com/bonaysoft/relingo-desktop) 
