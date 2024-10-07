@@ -53,6 +53,7 @@
 - [pdphilip/cf-request: Cloudflare Laravel 请求利用 Cloudflare 提供的位置、时区和僵尸/威胁信息，以及用户的设备类型、操作系统和浏览器，丰富了标准 Laravel HTTP 请求。](https://github.com/pdphilip/cf-request) 
 - [Lakshan-Madushanka/nopass: Laravel 中无密码身份验证的适配器](https://github.com/Lakshan-Madushanka/nopass) 
 - [c-tanner/laravel-deep-sync: 在任何关系中优雅地同步属性](https://github.com/c-tanner/laravel-deep-sync) 
+- [Thavarshan/matrix: ⚛︎ Matrix 是一个用于异步任务管理的前沿 PHP 库，其灵感来自 JavaScript 的 async/await 范式，但利用了 PHP 的本地 Fibers。Matrix 提供了一个精简的非阻塞 API，用于运行任务、管理错误和处理结果--所有这些都不需要显式任务启动。](https://github.com/Thavarshan/matrix) 
 ### October 1, 2024 
 - [staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector) 
 - [bonaysoft/relingo-desktop: 这是一个非官方的 Relingo 桌面客户端，主要用来背单词。](https://github.com/bonaysoft/relingo-desktop) 
