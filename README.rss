@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>Thavarshan/phpvm: 🧑‍💻 适用于 MacOS 和 Linux 的简单 PHP 版本管理器。</title>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/Thavarshan/phpvm</link>
+      <guid>https://github.com/Thavarshan/phpvm</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Thavarshan/phpvm" target="_blank">Thavarshan/phpvm: 🧑‍💻 适用于 MacOS 和 Linux 的简单 PHP 版本管理器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Thavarshan/phpvm" target="_blank">https://github.com/Thavarshan/phpvm</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。</title>
       <pubDate>Mon, 30 Sep 2024 16:00:00 +0000</pubDate>
       <link>$code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector</link>

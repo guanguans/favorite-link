@@ -46,6 +46,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Thavarshan/phpvm: 🧑‍💻 适用于 MacOS 和 Linux 的简单 PHP 版本管理器。]]></title>
+    <published>2024-10-06T00:00:00+00:00</published>
+    <updated>2024-10-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Thavarshan/phpvm"/>
+    <id>https://github.com/Thavarshan/phpvm</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Thavarshan/phpvm" target="_blank">Thavarshan/phpvm: 🧑‍💻 适用于 MacOS 和 Linux 的简单 PHP 版本管理器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Thavarshan/phpvm" target="_blank">https://github.com/Thavarshan/phpvm</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。]]></title>
     <published>2024-09-30T16:00:00+00:00</published>
     <updated>2024-09-30T16:00:00+00:00</updated>
