@@ -114,6 +114,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>Thavarshan/matrix: ⚛︎ Matrix 是一个用于异步任务管理的前沿 PHP 库，其灵感来自 JavaScript 的 async/await 范式，但利用了 PHP 的本地 Fibers。Matrix 提供了一个精简的非阻塞 API，用于运行任务、管理错误和处理结果--所有这些都不需要显式任务启动。</title>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/Thavarshan/matrix</link>
+      <guid>https://github.com/Thavarshan/matrix</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Thavarshan/matrix" target="_blank">Thavarshan/matrix: ⚛︎ Matrix 是一个用于异步任务管理的前沿 PHP 库，其灵感来自 JavaScript 的 async/await 范式，但利用了 PHP 的本地 Fibers。Matrix 提供了一个精简的非阻塞 API，用于运行任务、管理错误和处理结果--所有这些都不需要显式任务启动。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Thavarshan/matrix" target="_blank">https://github.com/Thavarshan/matrix</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。</title>
       <pubDate>Mon, 30 Sep 2024 16:00:00 +0000</pubDate>
       <link>$code) 而不会产生干扰。](https://github.com/staabm/side-effects-detector</link>

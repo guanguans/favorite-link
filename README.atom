@@ -145,6 +145,24 @@ Claude、Mistral、Cohere 和 OpenAi API 的通用语法。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Thavarshan/matrix: ⚛︎ Matrix 是一个用于异步任务管理的前沿 PHP 库，其灵感来自 JavaScript 的 async/await 范式，但利用了 PHP 的本地 Fibers。Matrix 提供了一个精简的非阻塞 API，用于运行任务、管理错误和处理结果--所有这些都不需要显式任务启动。]]></title>
+    <published>2024-10-04T00:00:00+00:00</published>
+    <updated>2024-10-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Thavarshan/matrix"/>
+    <id>https://github.com/Thavarshan/matrix</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Thavarshan/matrix" target="_blank">Thavarshan/matrix: ⚛︎ Matrix 是一个用于异步任务管理的前沿 PHP 库，其灵感来自
+JavaScript 的 async/await 范式，但利用了 PHP 的本地 Fibers。Matrix 提供了一个精简的非阻塞
+API，用于运行任务、管理错误和处理结果--所有这些都不需要显式任务启动。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Thavarshan/matrix" target="_blank">https://github.com/Thavarshan/matrix</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[staabm/side-effects-detector: 分析 php 代码的副作用。如果代码没有副作用，则可以在同一进程中使用 eval ($code) 而不会产生干扰。]]></title>
     <published>2024-09-30T16:00:00+00:00</published>
     <updated>2024-09-30T16:00:00+00:00</updated>
