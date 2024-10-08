@@ -44,6 +44,9 @@
 
 
 
+
+### October 8, 2024 
+- [TomasVotruba/handyman: 添加典型的开发包](https://github.com/TomasVotruba/handyman) 
 ### October 7, 2024 
 - [imliam/cpx: 运行任何 composer 软件包中的任何命令，即使它没有安装在你的项目中。](https://github.com/imliam/cpx) 
 - [Laravel 模型提示](https://laravel-news.com/laravel-model-tips) 
