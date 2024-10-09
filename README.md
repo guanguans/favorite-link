@@ -45,6 +45,9 @@
 
 
 
+
+### October 9, 2024 
+- [stripe/pg-schema-diff: 用于比较 Postgres 模式和生成 SQL 迁移的 Go 库](https://github.com/stripe/pg-schema-diff) 
 ### October 8, 2024 
 - [TomasVotruba/handyman: 添加典型的开发包](https://github.com/TomasVotruba/handyman) 
 ### October 7, 2024 
