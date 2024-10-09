@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[vildanbina/laravel-versions: Laravel Versions 是一个用于管理草稿和发布对 Eloquent 模型的更改的软件包。轻松创建、跟踪和管理模型的多个版本，确保无缝的发布工作流程。非常适合需要详细版本控制和草稿管理的应用程序。]]></title>
+    <published>2024-10-08T08:00:00+00:00</published>
+    <updated>2024-10-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/vildanbina/laravel-versions"/>
+    <id>https://github.com/vildanbina/laravel-versions</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/vildanbina/laravel-versions" target="_blank">vildanbina/laravel-versions: Laravel Versions
+是一个用于管理草稿和发布对 Eloquent
+模型的更改的软件包。轻松创建、跟踪和管理模型的多个版本，确保无缝的发布工作流程。非常适合需要详细版本控制和草稿管理的应用程序。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/vildanbina/laravel-versions" target="_blank">https://github.com/vildanbina/laravel-versions</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[TomasVotruba/handyman: 添加典型的开发包]]></title>
     <published>2024-10-07T16:00:00+00:00</published>
     <updated>2024-10-07T16:00:00+00:00</updated>
