@@ -48,6 +48,7 @@
 
 ### October 9, 2024 
 - [stripe/pg-schema-diff: 用于比较 Postgres 模式和生成 SQL 迁移的 Go 库](https://github.com/stripe/pg-schema-diff) 
+- [vildanbina/laravel-versions: Laravel Versions 是一个用于管理草稿和发布对 Eloquent 模型的更改的软件包。轻松创建、跟踪和管理模型的多个版本，确保无缝的发布工作流程。非常适合需要详细版本控制和草稿管理的应用程序。](https://github.com/vildanbina/laravel-versions) 
 ### October 8, 2024 
 - [TomasVotruba/handyman: 添加典型的开发包](https://github.com/TomasVotruba/handyman) 
 ### October 7, 2024 
