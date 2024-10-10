@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 09 Oct 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Vectorial1024/open-location-code-php: Open Location Code 的现代 PHP 实现</title>
+      <pubDate>Wed, 09 Oct 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/Vectorial1024/open-location-code-php</link>
+      <guid>https://github.com/Vectorial1024/open-location-code-php</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Vectorial1024/open-location-code-php" target="_blank">Vectorial1024/open-location-code-php: Open Location Code 的现代 PHP 实现</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Vectorial1024/open-location-code-php" target="_blank">https://github.com/Vectorial1024/open-location-code-php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>stripe/pg-schema-diff: 用于比较 Postgres 模式和生成 SQL 迁移的 Go 库</title>
       <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
