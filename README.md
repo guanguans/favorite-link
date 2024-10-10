@@ -51,6 +51,7 @@
 - [Vectorial1024/open-location-code-php: Open Location Code 的现代 PHP 实现](https://github.com/Vectorial1024/open-location-code-php) 
 - [echolabsdev/prism: 在 Laravel 中使用 LLM 的统一界面](https://github.com/echolabsdev/prism) 
 - [shipmonk-rnd/phpstan-baseline-per-identifier: 将 PHPStan 基线分割成多个文件，每个错误标识符一个文件：](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) 
+- [eramitgupta/InstallerErag: Laravel Web 安装程序 🔥🤩](https://github.com/eramitgupta/InstallerErag) 
 ### October 9, 2024 
 - [stripe/pg-schema-diff: 用于比较 Postgres 模式和生成 SQL 迁移的 Go 库](https://github.com/stripe/pg-schema-diff) 
 - [vildanbina/laravel-versions: Laravel Versions 是一个用于管理草稿和发布对 Eloquent 模型的更改的软件包。轻松创建、跟踪和管理模型的多个版本，确保无缝的发布工作流程。非常适合需要详细版本控制和草稿管理的应用程序。](https://github.com/vildanbina/laravel-versions) 
