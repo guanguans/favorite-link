@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>php/pie: 扩展程序的 PHP 安装程序</title>
+      <pubDate>Tue, 08 Oct 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/php/pie/</link>
+      <guid>https://github.com/php/pie/</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/php/pie/" target="_blank">php/pie: 扩展程序的 PHP 安装程序</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/php/pie/" target="_blank">https://github.com/php/pie/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>stripe/pg-schema-diff: 用于比较 Postgres 模式和生成 SQL 迁移的 Go 库</title>
       <pubDate>Tue, 08 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/stripe/pg-schema-diff</link>
