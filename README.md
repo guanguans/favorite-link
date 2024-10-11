@@ -50,6 +50,7 @@
 
 ### October 11, 2024 
 - [temistocle1998/laravel-model-tracker: 跟踪模型变化的轻量级 Laravel 软件包。自动记录所有更改，包括旧值、新值和负责更改的用户。](https://github.com/temistocle1998/laravel-model-tracker) 
+- [php/php-windows-builder: 在 Windows 上构建 PHP 和扩展程序的工具](https://github.com/php/php-windows-builder) 
 ### October 10, 2024 
 - [Vectorial1024/open-location-code-php: Open Location Code 的现代 PHP 实现](https://github.com/Vectorial1024/open-location-code-php) 
 - [echolabsdev/prism: 在 Laravel 中使用 LLM 的统一界面](https://github.com/echolabsdev/prism) 
