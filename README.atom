@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mineadmin/MineAdmin: 🎉🎉🎉 MineAdmin 是基于 Hyperf 框架和 Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。]]></title>
+    <published>2024-10-11T08:00:00+00:00</published>
+    <updated>2024-10-11T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mineadmin/MineAdmin"/>
+    <id>https://github.com/mineadmin/MineAdmin</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mineadmin/MineAdmin" target="_blank">mineadmin/MineAdmin: 🎉🎉🎉 MineAdmin 是基于 Hyperf 框架和
+Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mineadmin/MineAdmin" target="_blank">https://github.com/mineadmin/MineAdmin</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[temistocle1998/laravel-model-tracker: 跟踪模型变化的轻量级 Laravel 软件包。自动记录所有更改，包括旧值、新值和负责更改的用户。]]></title>
     <published>2024-10-10T16:00:00+00:00</published>
     <updated>2024-10-10T16:00:00+00:00</updated>

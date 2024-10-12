@@ -51,7 +51,7 @@
 
 ### October 12, 2024 
 - [spatie/laravel-honeypot: 防止通过表单提交垃圾邮件](https://github.com/spatie/laravel-honeypot) 
-- [mineadmin/MineAdmin: 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。](https://github.com/mineadmin/MineAdmin) 
+- [mineadmin/MineAdmin: 🎉🎉🎉 MineAdmin 是基于 Hyperf 框架和 Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。](https://github.com/mineadmin/MineAdmin) 
 ### October 11, 2024 
 - [temistocle1998/laravel-model-tracker: 跟踪模型变化的轻量级 Laravel 软件包。自动记录所有更改，包括旧值、新值和负责更改的用户。](https://github.com/temistocle1998/laravel-model-tracker) 
 - [php/php-windows-builder: 在 Windows 上构建 PHP 和扩展程序的工具](https://github.com/php/php-windows-builder) 
