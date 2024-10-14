@@ -53,6 +53,7 @@
 ### October 14, 2024 
 - [Team-Tea-Time/laravel-forum: 纤巧、精简的论坛软件包，专为快速、轻松地集成到 Laravel 项目中而设计](https://github.com/Team-Tea-Time/laravel-forum) 
 - [Uncommon/Xit: Mac OS X Git 图形用户界面](https://github.com/Uncommon/Xit) 
+- [echolabsdev/prism: 在 Laravel 中使用 LLM 的统一界面](https://github.com/echolabsdev/prism) 
 ### October 12, 2024 
 - [spatie/laravel-honeypot: 防止通过表单提交垃圾邮件](https://github.com/spatie/laravel-honeypot) 
 - [mineadmin/MineAdmin: 🎉🎉🎉 MineAdmin 是基于 Hyperf 框架和 Vue3+Vite5 开发的前后端分离权限管理系统，自适应多终端。](https://github.com/mineadmin/MineAdmin) 
