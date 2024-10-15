@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 13 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 14 Oct 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>panphp/pan: 简单、轻量、注重隐私的产品分析 php 软件包</title>
+      <pubDate>Mon, 14 Oct 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/panphp/pan</link>
+      <guid>https://github.com/panphp/pan</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/panphp/pan" target="_blank">panphp/pan: 简单、轻量、注重隐私的产品分析 php 软件包</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/panphp/pan" target="_blank">https://github.com/panphp/pan</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Team-Tea-Time/laravel-forum: 纤巧、精简的论坛软件包，专为快速、轻松地集成到 Laravel 项目中而设计</title>
       <pubDate>Sun, 13 Oct 2024 16:00:00 +0000</pubDate>
