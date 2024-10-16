@@ -58,6 +58,7 @@
 - [kamgrzeski/SoftCRM: 使用 Laravel 11 和 PHP 8.2 开发 B2B CRM 系统](https://github.com/kamgrzeski/SoftCRM) 
 - [altwaireb/laravel-world: 国家州城市数据提供者](https://github.com/altwaireb/laravel-world) 
 - [a-bashtannik/fasti: 具有基于日历的管理的 Laravel 任务调度程序](https://github.com/a-bashtannik/fasti) 
+- [maantje/charts: 用 PHP 制作 SVG 图表](https://github.com/maantje/charts) 
 ### October 15, 2024 
 - [panphp/pan: 简单、轻量、注重隐私的产品分析 php 软件包](https://github.com/panphp/pan) 
 ### October 14, 2024 
