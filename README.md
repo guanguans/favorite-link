@@ -57,6 +57,7 @@
 - [atk4/data: 适用于 SQL 和高延迟数据库的数据访问 PHP 框架](https://github.com/atk4/data) 
 - [kamgrzeski/SoftCRM: 使用 Laravel 11 和 PHP 8.2 开发 B2B CRM 系统](https://github.com/kamgrzeski/SoftCRM) 
 - [altwaireb/laravel-world: 国家州城市数据提供者](https://github.com/altwaireb/laravel-world) 
+- [a-bashtannik/fasti: 具有基于日历的管理的 Laravel 任务调度程序](https://github.com/a-bashtannik/fasti) 
 ### October 15, 2024 
 - [panphp/pan: 简单、轻量、注重隐私的产品分析 php 软件包](https://github.com/panphp/pan) 
 ### October 14, 2024 
