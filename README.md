@@ -55,6 +55,7 @@
 ### October 16, 2024 
 - [atk4/ui: 适用于 Web 应用程序的强大且易于使用的 PHP 框架](https://github.com/atk4/ui) 
 - [atk4/data: 适用于 SQL 和高延迟数据库的数据访问 PHP 框架](https://github.com/atk4/data) 
+- [kamgrzeski/SoftCRM: 使用 Laravel 11 和 PHP 8.2 开发 B2B CRM 系统](https://github.com/kamgrzeski/SoftCRM) 
 ### October 15, 2024 
 - [panphp/pan: 简单、轻量、注重隐私的产品分析 php 软件包](https://github.com/panphp/pan) 
 ### October 14, 2024 
