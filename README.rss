@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 15 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 16 Oct 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>amir9480/vscode-laravel-extra-intellisense: 该扩展为 VSCode 的 laravel 项目添加了额外的自动完成功能。</title>
+      <pubDate>Wed, 16 Oct 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/amir9480/vscode-laravel-extra-intellisense</link>
+      <guid>https://github.com/amir9480/vscode-laravel-extra-intellisense</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/amir9480/vscode-laravel-extra-intellisense" target="_blank">amir9480/vscode-laravel-extra-intellisense: 该扩展为 VSCode 的 laravel 项目添加了额外的自动完成功能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/amir9480/vscode-laravel-extra-intellisense" target="_blank">https://github.com/amir9480/vscode-laravel-extra-intellisense</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>atk4/ui: 适用于 Web 应用程序的强大且易于使用的 PHP 框架</title>
       <pubDate>Tue, 15 Oct 2024 16:00:00 +0000</pubDate>
