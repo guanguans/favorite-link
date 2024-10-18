@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 19 Oct 2024 01:04:35 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>salsify/jsonstreamingparser: PHP 中的 JSON 流解析器实现。</title>
+      <pubDate>Sat, 19 Oct 2024 01:04:35 +0800</pubDate>
+      <link>https://github.com/salsify/jsonstreamingparser</link>
+      <guid>https://github.com/salsify/jsonstreamingparser</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/salsify/jsonstreamingparser" target="_blank">salsify/jsonstreamingparser: PHP 中的 JSON 流解析器实现。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/salsify/jsonstreamingparser" target="_blank">https://github.com/salsify/jsonstreamingparser</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>clue/stream-filter: 用 PHP 进行流过滤的简单而现代的方法</title>
+      <pubDate>Sat, 19 Oct 2024 01:04:35 +0800</pubDate>
+      <link>https://github.com/clue/stream-filter</link>
+      <guid>https://github.com/clue/stream-filter</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/clue/stream-filter" target="_blank">clue/stream-filter: 用 PHP 进行流过滤的简单而现代的方法</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/clue/stream-filter" target="_blank">https://github.com/clue/stream-filter</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>ryangjchandler/commonmark-blade-block: 在 Markdown 模板中嵌入 Laravel Blade 代码。</title>
       <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
