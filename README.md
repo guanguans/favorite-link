@@ -53,6 +53,9 @@
 
 
 
+
+### October 18, 2024 
+- [ryangjchandler/commonmark-blade-block: 在 Markdown 模板中嵌入 Laravel Blade 代码。](https://github.com/ryangjchandler/commonmark-blade-block) 
 ### October 17, 2024 
 - [amir9480/vscode-laravel-extra-intellisense: 该扩展为 VSCode 的 laravel 项目添加了额外的自动完成功能。](https://github.com/amir9480/vscode-laravel-extra-intellisense) 
 ### October 16, 2024 
