@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-10-16T16:00:00+00:00</updated>
+  <updated>2024-10-17T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,39 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ryangjchandler/commonmark-blade-block: 在 Markdown 模板中嵌入 Laravel Blade 代码。]]></title>
+    <published>2024-10-17T16:00:00+00:00</published>
+    <updated>2024-10-17T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ryangjchandler/commonmark-blade-block"/>
+    <id>https://github.com/ryangjchandler/commonmark-blade-block</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ryangjchandler/commonmark-blade-block" target="_blank">ryangjchandler/commonmark-blade-block: 在 Markdown
+模板中嵌入 Laravel Blade 代码。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ryangjchandler/commonmark-blade-block" target="_blank">https://github.com/ryangjchandler/commonmark-blade-block</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[roblaszczak/vgt: 可视化 Go 测试的缺失工具]]></title>
+    <published>2024-10-17T08:00:00+00:00</published>
+    <updated>2024-10-17T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/roblaszczak/vgt"/>
+    <id>https://github.com/roblaszczak/vgt</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/roblaszczak/vgt" target="_blank">roblaszczak/vgt: 可视化 Go 测试的缺失工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/roblaszczak/vgt" target="_blank">https://github.com/roblaszczak/vgt</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[amir9480/vscode-laravel-extra-intellisense: 该扩展为 VSCode 的 laravel 项目添加了额外的自动完成功能。]]></title>
     <published>2024-10-16T16:00:00+00:00</published>

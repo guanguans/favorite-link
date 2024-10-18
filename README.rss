@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 16 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ryangjchandler/commonmark-blade-block: 在 Markdown 模板中嵌入 Laravel Blade 代码。</title>
+      <pubDate>Thu, 17 Oct 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/ryangjchandler/commonmark-blade-block</link>
+      <guid>https://github.com/ryangjchandler/commonmark-blade-block</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/commonmark-blade-block" target="_blank">ryangjchandler/commonmark-blade-block: 在 Markdown 模板中嵌入 Laravel Blade 代码。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ryangjchandler/commonmark-blade-block" target="_blank">https://github.com/ryangjchandler/commonmark-blade-block</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>roblaszczak/vgt: 可视化 Go 测试的缺失工具</title>
+      <pubDate>Thu, 17 Oct 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/roblaszczak/vgt</link>
+      <guid>https://github.com/roblaszczak/vgt</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/roblaszczak/vgt" target="_blank">roblaszczak/vgt: 可视化 Go 测试的缺失工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/roblaszczak/vgt" target="_blank">https://github.com/roblaszczak/vgt</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>amir9480/vscode-laravel-extra-intellisense: 该扩展为 VSCode 的 laravel 项目添加了额外的自动完成功能。</title>
       <pubDate>Wed, 16 Oct 2024 16:00:00 +0000</pubDate>
