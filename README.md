@@ -58,6 +58,7 @@
 
 ### October 21, 2024 
 - [mulaRahul/keyviz: Keyviz 是一款免费的开源工具，可实时可视化您的击键操作 ⌨️ 和鼠标操作 🖱️。](https://github.com/mulaRahul/keyviz) 
+- [phikiphp/phiki: 语法高亮功能由 PHP 中的 TextMate 语法提供支持。](https://github.com/phikiphp/phiki) 
 ### October 19, 2024 
 - [salsify/jsonstreamingparser: PHP 中的 JSON 流解析器实现。](https://github.com/salsify/jsonstreamingparser) 
 - [clue/stream-filter: 用 PHP 进行流过滤的简单而现代的方法](https://github.com/clue/stream-filter) 
