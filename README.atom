@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Blaspsoft/blasp: Blasp 是一款适用于 Laravel 的亵渎过滤软件包]]></title>
+    <published>2024-10-21T08:00:00+00:00</published>
+    <updated>2024-10-21T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Blaspsoft/blasp"/>
+    <id>https://github.com/Blaspsoft/blasp</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Blaspsoft/blasp" target="_blank">Blaspsoft/blasp: Blasp 是一款适用于 Laravel 的亵渎过滤软件包</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Blaspsoft/blasp" target="_blank">https://github.com/Blaspsoft/blasp</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mulaRahul/keyviz: Keyviz 是一款免费的开源工具，可实时可视化您的击键操作 ⌨️ 和鼠标操作 🖱️。]]></title>
     <published>2024-10-20T16:00:00+00:00</published>
     <updated>2024-10-20T16:00:00+00:00</updated>
