@@ -61,6 +61,7 @@
 ### October 23, 2024 
 - [notrab/dumbo: 一个轻量级、友好的 HTTP PHP 框架。](https://github.com/notrab/dumbo) 
 - [PHPJunior/laravel-xml: 这个软件包是一个适用于 Laravel 的简单 XML 到 Array 转换器。](https://github.com/PHPJunior/laravel-xml) 
+- [将 GitHub.com 升级到 MySQL 8.0](https://github.blog/engineering/infrastructure/upgrading-github-com-to-mysql-8-0/) 
 ### October 22, 2024 
 - [aldemeery/onion: PHP 应用程序的分层机制](https://github.com/aldemeery/onion) 
 - [Blaspsoft/blasp: Blasp 是一款适用于 Laravel 的亵渎过滤软件包](https://github.com/Blaspsoft/blasp) 
