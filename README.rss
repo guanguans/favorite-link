@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>将 GitHub.com 升级到 MySQL 8.0</title>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://github.blog/engineering/infrastructure/upgrading-github-com-to-mysql-8-0/</link>
+      <guid>https://github.blog/engineering/infrastructure/upgrading-github-com-to-mysql-8-0/</guid>
+      <content:encoded><![CDATA[<a href="https://github.blog/engineering/infrastructure/upgrading-github-com-to-mysql-8-0/" target="_blank">将 GitHub.com 升级到 MySQL 8.0</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.blog/engineering/infrastructure/upgrading-github-com-to-mysql-8-0/" target="_blank">https://github.blog/engineering/infrastructure/upgrading-github-com-to-mysql-8-0/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>aldemeery/onion: PHP 应用程序的分层机制</title>
       <pubDate>Mon, 21 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/aldemeery/onion</link>
