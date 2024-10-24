@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Laragear/Discover: 发现并过滤目录中的 PHP 类]]></title>
+    <published>2024-10-23T08:00:00+00:00</published>
+    <updated>2024-10-23T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Laragear/Discover"/>
+    <id>https://github.com/Laragear/Discover</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Laragear/Discover" target="_blank">Laragear/Discover: 发现并过滤目录中的 PHP 类</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Laragear/Discover" target="_blank">https://github.com/Laragear/Discover</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[notrab/dumbo: 一个轻量级、友好的 HTTP PHP 框架。]]></title>
     <published>2024-10-22T16:00:00+00:00</published>
     <updated>2024-10-22T16:00:00+00:00</updated>
