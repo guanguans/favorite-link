@@ -58,6 +58,9 @@
 
 
 
+
+### October 24, 2024 
+- [scalar/laravel: 在 Laravel 中使用 OpenAPI 文档来呈现现代 API 引用](https://github.com/scalar/laravel) 
 ### October 23, 2024 
 - [notrab/dumbo: 一个轻量级、友好的 HTTP PHP 框架。](https://github.com/notrab/dumbo) 
 - [PHPJunior/laravel-xml: 这个软件包是一个适用于 Laravel 的简单 XML 到 Array 转换器。](https://github.com/PHPJunior/laravel-xml) 
