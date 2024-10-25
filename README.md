@@ -63,6 +63,7 @@
 ### October 25, 2024 
 - [PantsuDango/Dango-Translator: 团子翻译器是一款生肉翻译软件，通过 OCR 识别屏幕特定范围内的文字，然后将识别到的文字调取各种翻译源，并实时输出翻译结果。](https://github.com/PantsuDango/Dango-Translator) 
 - [了解 Laravel 播种机和模型工厂](https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories) 
+- [huggingface/chat-macOS: HuggingChat macOS 是专为 macOS 用户设计的原生聊天界面，利用了开源语言模型的强大功能。它将先进的人工智能对话功能直接带到你的桌面，为你提供无缝、直观的体验。](https://github.com/huggingface/chat-macOS) 
 ### October 24, 2024 
 - [scalar/laravel: 在 Laravel 中使用 OpenAPI 文档来呈现现代 API 引用](https://github.com/scalar/laravel) 
 - [Laragear/Discover: 发现并过滤目录中的 PHP 类](https://github.com/Laragear/Discover) 
