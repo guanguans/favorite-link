@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[了解 Laravel 播种机和模型工厂]]></title>
+    <published>2024-10-24T08:00:00+00:00</published>
+    <updated>2024-10-24T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories"/>
+    <id>https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories" target="_blank">了解 Laravel 播种机和模型工厂</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories" target="_blank">https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[scalar/laravel: 在 Laravel 中使用 OpenAPI 文档来呈现现代 API 引用]]></title>
     <published>2024-10-23T16:00:00+00:00</published>
     <updated>2024-10-23T16:00:00+00:00</updated>

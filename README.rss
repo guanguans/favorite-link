@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>了解 Laravel 播种机和模型工厂</title>
+      <pubDate>Thu, 24 Oct 2024 08:00:00 +0000</pubDate>
+      <link>https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories</link>
+      <guid>https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories</guid>
+      <content:encoded><![CDATA[<a href="https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories" target="_blank">了解 Laravel 播种机和模型工厂</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories" target="_blank">https://askerakbar.com/posts/understanding-laravel-seeders-and-model-factories</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>scalar/laravel: 在 Laravel 中使用 OpenAPI 文档来呈现现代 API 引用</title>
       <pubDate>Wed, 23 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/scalar/laravel</link>
