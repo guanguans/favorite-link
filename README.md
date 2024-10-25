@@ -59,6 +59,9 @@
 
 
 
+
+### October 25, 2024 
+- [PantsuDango/Dango-Translator: 团子翻译器是一款生肉翻译软件，通过OCR识别屏幕特定范围内的文字，然后将识别到的文字调取各种翻译源，并实时输出翻译结果。](https://github.com/PantsuDango/Dango-Translator) 
 ### October 24, 2024 
 - [scalar/laravel: 在 Laravel 中使用 OpenAPI 文档来呈现现代 API 引用](https://github.com/scalar/laravel) 
 - [Laragear/Discover: 发现并过滤目录中的 PHP 类](https://github.com/Laragear/Discover) 
