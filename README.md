@@ -61,6 +61,9 @@
 
 
 
+
+### October 29, 2024 
+- [neelp03/ThrottleX: 采用 Go 和 Redis 构建的分布式速率限制解决方案，旨在控制 API 流量并确保系统稳定性。支持多种速率限制策略](https://github.com/neelp03/ThrottleX) 
 ### October 28, 2024 
 - [ichtrojan/laravel-otp: OTP 生成器和验证器](https://github.com/ichtrojan/laravel-otp) 
 - [Bottelet/translation-checker: 查找您忘记添加到语言文件中的翻译，检查并维护您的 Laravel 应用程序中的翻译](https://github.com/Bottelet/translation-checker) 
