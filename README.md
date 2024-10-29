@@ -67,6 +67,7 @@
 - [DeGraciaMathieu/php-class-dependencies-analyzer: 该工具可让您监控类的依赖性和不稳定性](https://github.com/DeGraciaMathieu/php-class-dependencies-analyzer) 
 - [shreifelagamy/laravel-service-modules: 服务模块模式](https://github.com/shreifelagamy/laravel-service-modules) 
 - [JustSteveKing/masking-engine: 一个 PHP 屏蔽引擎，可让您根据配置的格式快速、轻松地屏蔽数据。](https://github.com/JustSteveKing/masking-engine) 
+- [developerawam/generate-migration: Laravel 自动创建模型、迁移和表](https://github.com/developerawam/generate-migration) 
 ### October 28, 2024 
 - [ichtrojan/laravel-otp: OTP 生成器和验证器](https://github.com/ichtrojan/laravel-otp) 
 - [Bottelet/translation-checker: 查找您忘记添加到语言文件中的翻译，检查并维护您的 Laravel 应用程序中的翻译](https://github.com/Bottelet/translation-checker) 
