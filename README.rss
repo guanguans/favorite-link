@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 28 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 29 Oct 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>laravel-enso/enso: Laravel Vue SPA，Bulma 主题。</title>
+      <pubDate>Tue, 29 Oct 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/laravel-enso/enso</link>
+      <guid>https://github.com/laravel-enso/enso</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/laravel-enso/enso" target="_blank">laravel-enso/enso: Laravel Vue SPA，Bulma 主题。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/laravel-enso/enso" target="_blank">https://github.com/laravel-enso/enso</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>neelp03/ThrottleX: 采用 Go 和 Redis 构建的分布式速率限制解决方案，旨在控制 API 流量并确保系统稳定性。支持多种速率限制策略</title>
       <pubDate>Mon, 28 Oct 2024 16:00:00 +0000</pubDate>
