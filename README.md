@@ -62,6 +62,9 @@
 
 
 
+
+### October 30, 2024 
+- [laravel-enso/enso: Laravel Vue SPA，Bulma 主题。](https://github.com/laravel-enso/enso) 
 ### October 29, 2024 
 - [neelp03/ThrottleX: 采用 Go 和 Redis 构建的分布式速率限制解决方案，旨在控制 API 流量并确保系统稳定性。支持多种速率限制策略](https://github.com/neelp03/ThrottleX) 
 - [DeGraciaMathieu/php-class-dependencies-analyzer: 该工具可让您监控类的依赖性和不稳定性](https://github.com/DeGraciaMathieu/php-class-dependencies-analyzer) 
