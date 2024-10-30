@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>模块化 Laravel Monolith</title>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://stankobebek.com/posts/modularizing-the-laravel-monolith</link>
+      <guid>https://stankobebek.com/posts/modularizing-the-laravel-monolith</guid>
+      <content:encoded><![CDATA[<a href="https://stankobebek.com/posts/modularizing-the-laravel-monolith" target="_blank">模块化 Laravel Monolith</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://stankobebek.com/posts/modularizing-the-laravel-monolith" target="_blank">https://stankobebek.com/posts/modularizing-the-laravel-monolith</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>neelp03/ThrottleX: 采用 Go 和 Redis 构建的分布式速率限制解决方案，旨在控制 API 流量并确保系统稳定性。支持多种速率限制策略</title>
       <pubDate>Mon, 28 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/neelp03/ThrottleX</link>
