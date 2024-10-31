@@ -65,7 +65,7 @@
 
 
 ### October 31, 2024 
-- [kirilkirkov/Ecommerce-Laravel-Bootstrap: 响应式、多供应商、多语言在线商店平台（购物车解决方案）](https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap) 
+- [kirilkirkov/Ecommerce-Laravel-Bootstrap: 响应式、多供应商、多语言在线商店平台 (购物车解决方案)](https://github.com/kirilkirkov/Ecommerce-Laravel-Bootstrap) 
 ### October 30, 2024 
 - [laravel-enso/enso: Laravel Vue SPA，Bulma 主题。](https://github.com/laravel-enso/enso) 
 - [将所有路由导出到电子表格](https://masteringlaravel.io/daily/2024-10-29-exporting-all-routes-to-a-spreadsheet) 
