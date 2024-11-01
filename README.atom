@@ -47,6 +47,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github/gh-models: GitHub 模型服务的 CLI 扩展]]></title>
+    <published>2024-10-31T00:00:00+00:00</published>
+    <updated>2024-10-31T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/github/gh-models"/>
+    <id>https://github.com/github/gh-models</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/github/gh-models" target="_blank">github/gh-models: GitHub 模型服务的 CLI 扩展</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/github/gh-models" target="_blank">https://github.com/github/gh-models</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kirilkirkov/Ecommerce-Laravel-Bootstrap: 响应式、多供应商、多语言在线商店平台 (购物车解决方案)]]></title>
     <published>2024-10-30T16:00:00+00:00</published>
     <updated>2024-10-30T16:00:00+00:00</updated>
