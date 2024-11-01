@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API 骨架构建。]]></title>
+    <published>2024-10-31T08:00:00+00:00</published>
+    <updated>2024-10-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/dotkernel/api"/>
+    <id>https://github.com/dotkernel/api</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/dotkernel/api" target="_blank">dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API
+骨架构建。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/dotkernel/api" target="_blank">https://github.com/dotkernel/api</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kirilkirkov/Ecommerce-Laravel-Bootstrap: 响应式、多供应商、多语言在线商店平台 (购物车解决方案)]]></title>
     <published>2024-10-30T16:00:00+00:00</published>
     <updated>2024-10-30T16:00:00+00:00</updated>
