@@ -78,6 +78,7 @@
 - [use-the-fork/synapse: Synapse 允许您在 Laravel 应用程序中无缝集成和管理人工智能代理。](https://github.com/use-the-fork/synapse) 
 - [所有 Laravel PHP 属性供您使用](https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal) 
 - [olivernybroe/collector-intellij: 用于重构到集合的 PhpStorm 插件](https://github.com/olivernybroe/collector-intellij) 
+- [code-golf/code-golf: 这款游戏旨在让您用最少的字符数解决问题，从而展示您的代码功底。](https://github.com/code-golf/code-golf) 
 ### November 1, 2024 
 - [nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。](https://github.com/nbs-system/php-malware-finder) 
 - [dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API 骨架构建。](https://github.com/dotkernel/api) 
