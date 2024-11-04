@@ -67,7 +67,7 @@
 
 
 ### November 4, 2024 
-- [voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化（ascii）字符串函数。](https://github.com/voku/portable-ascii) 
+- [voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。](https://github.com/voku/portable-ascii) 
 ### November 1, 2024 
 - [nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。](https://github.com/nbs-system/php-malware-finder) 
 - [dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API 骨架构建。](https://github.com/dotkernel/api) 

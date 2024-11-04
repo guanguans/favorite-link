@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 03 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。</title>
+      <pubDate>Sun, 03 Nov 2024 16:00:00 +0000</pubDate>
+      <link>ascii) 字符串函数。](https://github.com/voku/portable-ascii</link>
+      <guid isPermaLink="false">ascii) 字符串函数。](https://github.com/voku/portable-ascii</guid>
+      <content:encoded><![CDATA[<a href="ascii) 字符串函数。](https://github.com/voku/portable-ascii" target="_blank">voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="ascii) 字符串函数。](https://github.com/voku/portable-ascii" target="_blank">ascii) 字符串函数。](https://github.com/voku/portable-ascii</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。</title>
       <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
