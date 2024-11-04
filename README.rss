@@ -127,6 +127,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>所有 Laravel PHP 属性供您使用</title>
+      <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
+      <link>https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal</link>
+      <guid>https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal</guid>
+      <content:encoded><![CDATA[<a href="https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal" target="_blank">所有 Laravel PHP 属性供您使用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal" target="_blank">https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。</title>
       <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/nbs-system/php-malware-finder</link>

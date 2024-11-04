@@ -165,6 +165,22 @@ Platform 框架集成。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[所有 Laravel PHP 属性供您使用]]></title>
+    <published>2024-10-31T16:00:00+00:00</published>
+    <updated>2024-10-31T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal"/>
+    <id>https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal" target="_blank">所有 Laravel PHP 属性供您使用</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal" target="_blank">https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。]]></title>
     <published>2024-10-31T16:00:00+00:00</published>
     <updated>2024-10-31T16:00:00+00:00</updated>
