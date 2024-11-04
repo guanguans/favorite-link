@@ -77,6 +77,7 @@
 - [使用 AI 生成 1MB 的 PHP 代码，MySQL 查询解析器的故事](https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/) 
 - [use-the-fork/synapse: Synapse 允许您在 Laravel 应用程序中无缝集成和管理人工智能代理。](https://github.com/use-the-fork/synapse) 
 - [所有 Laravel PHP 属性供您使用](https://christoph-rumpel.com/2024/9/all-laravel-php-attributes-at-your-disposal) 
+- [olivernybroe/collector-intellij: 用于重构到集合的PhpStorm插件](https://github.com/olivernybroe/collector-intellij) 
 ### November 1, 2024 
 - [nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。](https://github.com/nbs-system/php-malware-finder) 
 - [dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API 骨架构建。](https://github.com/dotkernel/api) 
