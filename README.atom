@@ -64,6 +64,23 @@ Platform 框架集成。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Ucar-Solutions/uri-signer: 用于在 PHP 应用程序中安全签署 PSR-15 URI 的最小软件包。]]></title>
+    <published>2024-11-02T16:00:00+00:00</published>
+    <updated>2024-11-02T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Ucar-Solutions/uri-signer"/>
+    <id>https://github.com/Ucar-Solutions/uri-signer</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Ucar-Solutions/uri-signer" target="_blank">Ucar-Solutions/uri-signer: 用于在 PHP 应用程序中安全签署 PSR-15 URI
+的最小软件包。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Ucar-Solutions/uri-signer" target="_blank">https://github.com/Ucar-Solutions/uri-signer</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。]]></title>
     <published>2024-10-31T16:00:00+00:00</published>
     <updated>2024-10-31T16:00:00+00:00</updated>
