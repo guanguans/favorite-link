@@ -73,6 +73,7 @@
 - [Ucar-Solutions/uri-signer: 用于在 PHP 应用程序中安全签署 PSR-15 URI 的最小软件包。](https://github.com/Ucar-Solutions/uri-signer) 
 - [Nejcc/php-datatypes: 该库在 PHP 中引入了一种灵活而严格的方法来处理整数、浮点数和字符串等原始数据类型。它强调类型安全和精度，支持有符号和无符号整数 (Int8、UInt8 等) 以及各种浮点格式 (Float32、Float64 等) 的操作。](https://github.com/Nejcc/php-datatypes) 
 - [beyondcode/php-spx: 简单明了的 PHP 剖析扩展，内置网络用户界面](https://github.com/beyondcode/php-spx) 
+- [MySQL Parser](https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php) 
 ### November 1, 2024 
 - [nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。](https://github.com/nbs-system/php-malware-finder) 
 - [dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API 骨架构建。](https://github.com/dotkernel/api) 
