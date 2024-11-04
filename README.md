@@ -70,6 +70,7 @@
 - [voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。](https://github.com/voku/portable-ascii) 
 - [通过 SOCKS 代理连接到 git 存储库](https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy) 
 - [api-platform/laravel: 将 Laravel 和 Illuminate 组件与 API Platform 框架集成。](https://github.com/api-platform/laravel) 
+- [Ucar-Solutions/uri-signer: 用于在 PHP 应用程序中安全签署 PSR-15 URI 的最小软件包。](https://github.com/Ucar-Solutions/uri-signer) 
 ### November 1, 2024 
 - [nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。](https://github.com/nbs-system/php-malware-finder) 
 - [dotkernel/api: DotKernel 的 PSR-7 REST 风格 API 围绕 Mezzio API 骨架构建。](https://github.com/dotkernel/api) 
