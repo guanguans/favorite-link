@@ -88,6 +88,32 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>MySQL Parser</title>
+      <pubDate>Fri, 01 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php</link>
+      <guid>https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php" target="_blank">MySQL Parser</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php" target="_blank">https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>使用 AI 生成 1MB 的 PHP 代码，MySQL 查询解析器的故事</title>
+      <pubDate>Fri, 01 Nov 2024 08:00:00 +0000</pubDate>
+      <link>https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/</link>
+      <guid>https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/</guid>
+      <content:encoded><![CDATA[<a href="https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/" target="_blank">使用 AI 生成 1MB 的 PHP 代码，MySQL 查询解析器的故事</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/" target="_blank">https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。</title>
       <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/nbs-system/php-malware-finder</link>

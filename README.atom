@@ -116,6 +116,38 @@ Platform 框架集成。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MySQL Parser]]></title>
+    <published>2024-11-01T16:00:00+00:00</published>
+    <updated>2024-11-01T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php"/>
+    <id>https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php" target="_blank">MySQL Parser</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php" target="_blank">https://github.com/WordPress/sqlite-database-integration/blob/1fe180c/wp-content/plugins/sqlite-database-integration/wp-includes/mysql-parser/MySQLParser.php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[使用 AI 生成 1MB 的 PHP 代码，MySQL 查询解析器的故事]]></title>
+    <published>2024-11-01T08:00:00+00:00</published>
+    <updated>2024-11-01T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/"/>
+    <id>https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/" target="_blank">使用 AI 生成 1MB 的 PHP 代码，MySQL 查询解析器的故事</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/" target="_blank">https://adamadam.blog/2024/09/09/generating-a-mysql-parser-with-ai-google-gemini/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。]]></title>
     <published>2024-10-31T16:00:00+00:00</published>
     <updated>2024-10-31T16:00:00+00:00</updated>
