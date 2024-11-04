@@ -81,6 +81,25 @@ Platform 框架集成。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Nejcc/php-datatypes: 该库在 PHP 中引入了一种灵活而严格的方法来处理整数、浮点数和字符串等原始数据类型。它强调类型安全和精度，支持有符号和无符号整数 (Int8、UInt8 等) 以及各种浮点格式 (Float32、Float64 等) 的操作。]]></title>
+    <published>2024-11-02T08:00:00+00:00</published>
+    <updated>2024-11-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="Int8、UInt8 等) 以及各种浮点格式 (Float32、Float64 等) 的操作。](https://github.com/Nejcc/php-datatypes"/>
+    <id>Int8、UInt8 等) 以及各种浮点格式 (Float32、Float64 等) 的操作。](https://github.com/Nejcc/php-datatypes</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="Int8%E3%80%81UInt8%20%E7%AD%89)%20%E4%BB%A5%E5%8F%8A%E5%90%84%E7%A7%8D%E6%B5%AE%E7%82%B9%E6%A0%BC%E5%BC%8F%20(Float32%E3%80%81Float64%20%E7%AD%89)%20%E7%9A%84%E6%93%8D%E4%BD%9C%E3%80%82](https://github.com/Nejcc/php-datatypes" target="_blank">Nejcc/php-datatypes: 该库在 PHP
+中引入了一种灵活而严格的方法来处理整数、浮点数和字符串等原始数据类型。它强调类型安全和精度，支持有符号和无符号整数
+(Int8、UInt8 等) 以及各种浮点格式 (Float32、Float64 等) 的操作。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="Int8%E3%80%81UInt8%20%E7%AD%89)%20%E4%BB%A5%E5%8F%8A%E5%90%84%E7%A7%8D%E6%B5%AE%E7%82%B9%E6%A0%BC%E5%BC%8F%20(Float32%E3%80%81Float64%20%E7%AD%89)%20%E7%9A%84%E6%93%8D%E4%BD%9C%E3%80%82](https://github.com/Nejcc/php-datatypes" target="_blank">Int8、UInt8 等) 以及各种浮点格式 (Float32、Float64 等)
+的操作。](https://github.com/Nejcc/php-datatypes</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。]]></title>
     <published>2024-10-31T16:00:00+00:00</published>
     <updated>2024-10-31T16:00:00+00:00</updated>
