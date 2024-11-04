@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>通过 SOCKS 代理连接到 git 存储库</title>
+      <pubDate>Sun, 03 Nov 2024 08:00:00 +0000</pubDate>
+      <link>https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy</link>
+      <guid>https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy</guid>
+      <content:encoded><![CDATA[<a href="https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy" target="_blank">通过 SOCKS 代理连接到 git 存储库</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy" target="_blank">https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nbs-system/php-malware-finder: PHP-malware-finder 会尽最大努力检测混淆/篡改代码，以及使用恶意软件/webshell 中常用 PHP 函数的文件。</title>
       <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/nbs-system/php-malware-finder</link>
