@@ -31,6 +31,22 @@ Antimalware Scanner) 是一款免费工具，可扫描 php 文件并分析项目
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[RubyMetric/chsrc: 全平台通用换源工具与框架.]]></title>
+    <published>2024-11-04T08:00:00+00:00</published>
+    <updated>2024-11-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/RubyMetric/chsrc"/>
+    <id>https://github.com/RubyMetric/chsrc</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/RubyMetric/chsrc" target="_blank">RubyMetric/chsrc: 全平台通用换源工具与框架.</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/RubyMetric/chsrc" target="_blank">https://github.com/RubyMetric/chsrc</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。]]></title>
     <published>2024-11-03T16:00:00+00:00</published>
     <updated>2024-11-03T16:00:00+00:00</updated>
