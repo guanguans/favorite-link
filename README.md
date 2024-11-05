@@ -66,6 +66,9 @@
 
 
 
+
+### November 5, 2024 
+- [marcocesarato/PHP-Antimalware-Scanner: AMWScan (PHP Antimalware Scanner) 是一款免费工具，可扫描 php 文件并分析项目，查找其中的恶意代码。](https://github.com/marcocesarato/PHP-Antimalware-Scanner) 
 ### November 4, 2024 
 - [voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。](https://github.com/voku/portable-ascii) 
 - [通过 SOCKS 代理连接到 git 存储库](https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy) 
