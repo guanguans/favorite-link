@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[thinhbuzz/laravel-google-captcha: 适用于 Laravel 5、Laravel 6、Laravel 7、Laravel 8、Laravel 9 和 Laravel 10 的谷歌验证码，支持页面上的多重验证码]]></title>
+    <published>2024-11-05T08:00:00+00:00</published>
+    <updated>2024-11-05T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/thinhbuzz/laravel-google-captcha"/>
+    <id>https://github.com/thinhbuzz/laravel-google-captcha</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/thinhbuzz/laravel-google-captcha" target="_blank">thinhbuzz/laravel-google-captcha: 适用于 Laravel
+5、Laravel 6、Laravel 7、Laravel 8、Laravel 9 和 Laravel 10
+的谷歌验证码，支持页面上的多重验证码</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/thinhbuzz/laravel-google-captcha" target="_blank">https://github.com/thinhbuzz/laravel-google-captcha</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[marcocesarato/PHP-Antimalware-Scanner: AMWScan (PHP Antimalware Scanner) 是一款免费工具，可扫描 php 文件并分析项目，查找其中的恶意代码。]]></title>
     <published>2024-11-04T16:00:00+00:00</published>
     <updated>2024-11-04T16:00:00+00:00</updated>
