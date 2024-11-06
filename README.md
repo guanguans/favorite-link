@@ -67,6 +67,9 @@
 
 
 
+
+### November 6, 2024 
+- [Abdenasser/neohtop: 基于 Svelte、Rust 和 Tauri 的现代跨平台系统监视器。](https://github.com/Abdenasser/neohtop) 
 ### November 5, 2024 
 - [marcocesarato/PHP-Antimalware-Scanner: AMWScan (PHP Antimalware Scanner) 是一款免费工具，可扫描 php 文件并分析项目，查找其中的恶意代码。](https://github.com/marcocesarato/PHP-Antimalware-Scanner) 
 - [RubyMetric/chsrc: 全平台通用换源工具与框架.](https://github.com/RubyMetric/chsrc) 
