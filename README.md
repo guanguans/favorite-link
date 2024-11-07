@@ -68,6 +68,9 @@
 
 
 
+
+### November 7, 2024 
+- [abbasudo/pulse-users: Pulse Users 为您提供每小时分布式请求图表。](https://github.com/abbasudo/pulse-users) 
 ### November 6, 2024 
 - [Abdenasser/neohtop: 基于 Svelte、Rust 和 Tauri 的现代跨平台系统监视器。](https://github.com/Abdenasser/neohtop) 
 - [thinhbuzz/laravel-google-captcha: 适用于 Laravel 5、Laravel 6、Laravel 7、Laravel 8、Laravel 9 和 Laravel 10 的谷歌验证码，支持页面上的多重验证码](https://github.com/thinhbuzz/laravel-google-captcha) 
