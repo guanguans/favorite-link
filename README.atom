@@ -46,6 +46,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[q2316367743/es-client: ES 查询客户端，elasticsearch 可视化工具]]></title>
+    <published>2024-11-06T00:00:00+00:00</published>
+    <updated>2024-11-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/q2316367743/es-client"/>
+    <id>https://github.com/q2316367743/es-client</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/q2316367743/es-client" target="_blank">q2316367743/es-client: ES 查询客户端，elasticsearch 可视化工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/q2316367743/es-client" target="_blank">https://github.com/q2316367743/es-client</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Abdenasser/neohtop: 基于 Svelte、Rust 和 Tauri 的现代跨平台系统监视器。]]></title>
     <published>2024-11-05T16:00:00+00:00</published>
     <updated>2024-11-05T16:00:00+00:00</updated>
