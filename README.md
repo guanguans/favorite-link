@@ -69,6 +69,9 @@
 
 
 
+
+### November 8, 2024 
+- [laminas/laminas-diagnostics: 用于在 PHP 应用程序中执行诊断测试的组件集](https://github.com/laminas/laminas-diagnostics) 
 ### November 7, 2024 
 - [abbasudo/pulse-users: Pulse Users 为您提供每小时分布式请求图表。](https://github.com/abbasudo/pulse-users) 
 - [Laravel-Backpack/basset: 无论你的 CSS/JS/etc 资产在哪里，都能轻松使用，而不仅仅是你的公共目录](https://github.com/Laravel-Backpack/basset) 
