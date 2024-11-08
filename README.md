@@ -73,6 +73,7 @@
 ### November 8, 2024 
 - [laminas/laminas-diagnostics: 用于在 PHP 应用程序中执行诊断测试的组件集](https://github.com/laminas/laminas-diagnostics) 
 - [aarondfrancis/solo: Solo for Laravel 是一个可同时运行多个命令的软件包，有助于本地开发。](https://github.com/aarondfrancis/solo) 
+- [MySQL 中的查询优化：优化 Top 查询与慢速查询](https://releem.com/blog/mysql-query-optimization-top-queries-vs-slow-queries) 
 ### November 7, 2024 
 - [abbasudo/pulse-users: Pulse Users 为您提供每小时分布式请求图表。](https://github.com/abbasudo/pulse-users) 
 - [Laravel-Backpack/basset: 无论你的 CSS/JS/etc 资产在哪里，都能轻松使用，而不仅仅是你的公共目录](https://github.com/Laravel-Backpack/basset) 
