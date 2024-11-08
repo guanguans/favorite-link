@@ -46,6 +46,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MySQL 中的查询优化：优化 Top 查询与慢速查询]]></title>
+    <published>2024-11-07T00:00:00+00:00</published>
+    <updated>2024-11-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://releem.com/blog/mysql-query-optimization-top-queries-vs-slow-queries"/>
+    <id>https://releem.com/blog/mysql-query-optimization-top-queries-vs-slow-queries</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://releem.com/blog/mysql-query-optimization-top-queries-vs-slow-queries" target="_blank">MySQL 中的查询优化：优化 Top 查询与慢速查询</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://releem.com/blog/mysql-query-optimization-top-queries-vs-slow-queries" target="_blank">https://releem.com/blog/mysql-query-optimization-top-queries-vs-slow-queries</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[abbasudo/pulse-users: Pulse Users 为您提供每小时分布式请求图表。]]></title>
     <published>2024-11-06T16:00:00+00:00</published>
     <updated>2024-11-06T16:00:00+00:00</updated>
