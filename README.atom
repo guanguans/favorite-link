@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Laravel Nightwatch 提供对应用程序性能的无与伦比的洞察，只有针对 Laravel 进行专门优化的系统才能提供智能。]]></title>
+    <published>2024-11-10T00:00:00+00:00</published>
+    <updated>2024-11-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://nightwatch.laravel.com/"/>
+    <id>https://nightwatch.laravel.com/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://nightwatch.laravel.com/" target="_blank">Laravel
+Nightwatch 提供对应用程序性能的无与伦比的洞察，只有针对 Laravel 进行专门优化的系统才能提供智能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://nightwatch.laravel.com/" target="_blank">https://nightwatch.laravel.com/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[laminas/laminas-diagnostics: 用于在 PHP 应用程序中执行诊断测试的组件集]]></title>
     <published>2024-11-07T16:00:00+00:00</published>
     <updated>2024-11-07T16:00:00+00:00</updated>
