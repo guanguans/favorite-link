@@ -73,6 +73,7 @@
 
 ### November 11, 2024 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
+- [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
 ### November 8, 2024 
 - [laminas/laminas-diagnostics: 用于在 PHP 应用程序中执行诊断测试的组件集](https://github.com/laminas/laminas-diagnostics) 
 - [aarondfrancis/solo: Solo for Laravel 是一个可同时运行多个命令的软件包，有助于本地开发。](https://github.com/aarondfrancis/solo) 
