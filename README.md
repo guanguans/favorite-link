@@ -75,6 +75,7 @@
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
 - [Laravel Nightwatch 提供对应用程序性能的无与伦比的洞察，只有针对 Laravel 进行专门优化的系统才能提供智能。](https://nightwatch.laravel.com/) 
+- [我们需要工具支持按键组分页](https://use-the-index-luke.com/no-offset) 
 ### November 8, 2024 
 - [laminas/laminas-diagnostics: 用于在 PHP 应用程序中执行诊断测试的组件集](https://github.com/laminas/laminas-diagnostics) 
 - [aarondfrancis/solo: Solo for Laravel 是一个可同时运行多个命令的软件包，有助于本地开发。](https://github.com/aarondfrancis/solo) 
