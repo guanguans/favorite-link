@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 10 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 11 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>liujuntao123/chines-history-video: 中国历朝代历史视频讲解</title>
+      <pubDate>Mon, 11 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/liujuntao123/chines-history-video</link>
+      <guid>https://github.com/liujuntao123/chines-history-video</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/liujuntao123/chines-history-video" target="_blank">liujuntao123/chines-history-video: 中国历朝代历史视频讲解</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/liujuntao123/chines-history-video" target="_blank">https://github.com/liujuntao123/chines-history-video</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>daytonaio/daytona: 开源开发环境管理器</title>
+      <pubDate>Mon, 11 Nov 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/daytonaio/daytona</link>
+      <guid>https://github.com/daytonaio/daytona</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/daytonaio/daytona" target="_blank">daytonaio/daytona: 开源开发环境管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/daytonaio/daytona" target="_blank">https://github.com/daytonaio/daytona</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>cmacrae/spacebar: 适用于 macOS 的最小状态栏。非常适合与 yabai 等平铺式窗口管理器配合使用</title>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://github.com/cmacrae/spacebar</link>
+      <guid>https://github.com/cmacrae/spacebar</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/cmacrae/spacebar" target="_blank">cmacrae/spacebar: 适用于 macOS 的最小状态栏。非常适合与 yabai 等平铺式窗口管理器配合使用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/cmacrae/spacebar" target="_blank">https://github.com/cmacrae/spacebar</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。</title>
       <pubDate>Sun, 10 Nov 2024 16:00:00 +0000</pubDate>
