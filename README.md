@@ -75,6 +75,7 @@
 ### November 12, 2024 
 - [liujuntao123/chines-history-video: 中国历朝代历史视频讲解](https://github.com/liujuntao123/chines-history-video) 
 - [daytonaio/daytona: 开源开发环境管理器](https://github.com/daytonaio/daytona) 
+- [cmacrae/spacebar: 适用于 macOS 的最小状态栏。非常适合与 yabai 等平铺式窗口管理器配合使用](https://github.com/cmacrae/spacebar) 
 ### November 11, 2024 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
