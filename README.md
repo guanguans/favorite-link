@@ -77,6 +77,7 @@
 - [daytonaio/daytona: 开源开发环境管理器](https://github.com/daytonaio/daytona) 
 - [cmacrae/spacebar: 适用于 macOS 的最小状态栏。非常适合与 yabai 等平铺式窗口管理器配合使用](https://github.com/cmacrae/spacebar) 
 - [Zakarialabib/myStockMaster: 使用 Laravel TALLSTACK 进行一体化库存和 ERP 管理](https://github.com/Zakarialabib/myStockMaster) 
+- [lihaoyun6/xHistory: 命令行历史记录管理工具](https://github.com/lihaoyun6/xHistory) 
 ### November 11, 2024 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
