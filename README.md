@@ -71,6 +71,9 @@
 
 
 
+
+### November 12, 2024 
+- [liujuntao123/chines-history-video: 中国历朝代历史视频讲解](https://github.com/liujuntao123/chines-history-video) 
 ### November 11, 2024 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
 - [jaywcjlove/rightmenu-master: jaywcjlove/rightmenu-master: 出色的 Finder 右键菜单增强工具，让你的右键菜单更加强大。](https://github.com/jaywcjlove/rightmenu-master) 
