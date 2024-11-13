@@ -72,6 +72,9 @@
 
 
 
+
+### November 13, 2024 
+- [exo-explore/exo: 在家利用日常设备运行自己的人工智能集群 📱 🖥️⌚](https://github.com/exo-explore/exo) 
 ### November 12, 2024 
 - [liujuntao123/chines-history-video: 中国历朝代历史视频讲解](https://github.com/liujuntao123/chines-history-video) 
 - [daytonaio/daytona: 开源开发环境管理器](https://github.com/daytonaio/daytona) 
