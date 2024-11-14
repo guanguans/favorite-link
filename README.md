@@ -73,6 +73,9 @@
 
 
 
+
+### November 14, 2024 
+- [Adyen/adyen-php-api-library: 适用于 PHP 的 Adyen API 库](https://github.com/Adyen/adyen-php-api-library) 
 ### November 13, 2024 
 - [exo-explore/exo: 在家利用日常设备运行自己的人工智能集群 📱 🖥️⌚](https://github.com/exo-explore/exo) 
 - [shailesh-ladumor/laravel-pwa: 使 laravel 网站成为渐进式网络应用程序。](https://github.com/shailesh-ladumor/laravel-pwa) 
