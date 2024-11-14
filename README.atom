@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mokhosh/muddle: 隐藏和保护电子邮件免受机器人的侵害。在 PHP 和 Laravel 中混淆电子邮件。]]></title>
+    <published>2024-11-13T08:00:00+00:00</published>
+    <updated>2024-11-13T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mokhosh/muddle"/>
+    <id>https://github.com/mokhosh/muddle</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mokhosh/muddle" target="_blank">mokhosh/muddle: 隐藏和保护电子邮件免受机器人的侵害。在 PHP 和 Laravel
+中混淆电子邮件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mokhosh/muddle" target="_blank">https://github.com/mokhosh/muddle</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[exo-explore/exo: 在家利用日常设备运行自己的人工智能集群 📱 🖥️⌚]]></title>
     <published>2024-11-12T16:00:00+00:00</published>
     <updated>2024-11-12T16:00:00+00:00</updated>

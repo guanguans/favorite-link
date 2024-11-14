@@ -76,7 +76,7 @@
 
 ### November 14, 2024 
 - [Adyen/adyen-php-api-library: 适用于 PHP 的 Adyen API 库](https://github.com/Adyen/adyen-php-api-library) 
-- [mokhosh/muddle: 隐藏和保护电子邮件免受机器人的侵害。在PHP和Laravel中混淆电子邮件。](https://github.com/mokhosh/muddle) 
+- [mokhosh/muddle: 隐藏和保护电子邮件免受机器人的侵害。在 PHP 和 Laravel 中混淆电子邮件。](https://github.com/mokhosh/muddle) 
 ### November 13, 2024 
 - [exo-explore/exo: 在家利用日常设备运行自己的人工智能集群 📱 🖥️⌚](https://github.com/exo-explore/exo) 
 - [shailesh-ladumor/laravel-pwa: 使 laravel 网站成为渐进式网络应用程序。](https://github.com/shailesh-ladumor/laravel-pwa) 
