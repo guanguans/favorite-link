@@ -77,7 +77,7 @@
 ### November 14, 2024 
 - [Adyen/adyen-php-api-library: 适用于 PHP 的 Adyen API 库](https://github.com/Adyen/adyen-php-api-library) 
 - [mokhosh/muddle: 隐藏和保护电子邮件免受机器人的侵害。在 PHP 和 Laravel 中混淆电子邮件。](https://github.com/mokhosh/muddle) 
-- [logrotate/logrotate: Logrotate实用程序旨在简化生成大量日志文件的系统日志文件的管理。Logrotate允许自动旋转压缩、删除和邮寄日志文件。](https://github.com/logrotate/logrotate) 
+- [logrotate/logrotate: Logrotate 实用程序旨在简化生成大量日志文件的系统日志文件的管理。Logrotate 允许自动旋转压缩、删除和邮寄日志文件。](https://github.com/logrotate/logrotate) 
 ### November 13, 2024 
 - [exo-explore/exo: 在家利用日常设备运行自己的人工智能集群 📱 🖥️⌚](https://github.com/exo-explore/exo) 
 - [shailesh-ladumor/laravel-pwa: 使 laravel 网站成为渐进式网络应用程序。](https://github.com/shailesh-ladumor/laravel-pwa) 

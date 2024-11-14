@@ -46,6 +46,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[logrotate/logrotate: Logrotate 实用程序旨在简化生成大量日志文件的系统日志文件的管理。Logrotate 允许自动旋转压缩、删除和邮寄日志文件。]]></title>
+    <published>2024-11-13T00:00:00+00:00</published>
+    <updated>2024-11-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/logrotate/logrotate"/>
+    <id>https://github.com/logrotate/logrotate</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/logrotate/logrotate" target="_blank">logrotate/logrotate: Logrotate
+实用程序旨在简化生成大量日志文件的系统日志文件的管理。Logrotate 允许自动旋转压缩、删除和邮寄日志文件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/logrotate/logrotate" target="_blank">https://github.com/logrotate/logrotate</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[exo-explore/exo: 在家利用日常设备运行自己的人工智能集群 📱 🖥️⌚]]></title>
     <published>2024-11-12T16:00:00+00:00</published>
     <updated>2024-11-12T16:00:00+00:00</updated>
