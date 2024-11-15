@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 13 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>google/go-safeweb: Go 中的默认安全 HTTP 服务器</title>
+      <pubDate>Thu, 14 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/google/go-safeweb</link>
+      <guid>https://github.com/google/go-safeweb</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/google/go-safeweb" target="_blank">google/go-safeweb: Go 中的默认安全 HTTP 服务器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/google/go-safeweb" target="_blank">https://github.com/google/go-safeweb</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Adyen/adyen-php-api-library: 适用于 PHP 的 Adyen API 库</title>
       <pubDate>Wed, 13 Nov 2024 16:00:00 +0000</pubDate>
