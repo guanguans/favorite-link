@@ -74,6 +74,9 @@
 
 
 
+
+### November 15, 2024 
+- [google/go-safeweb: Go 中的默认安全 HTTP 服务器](https://github.com/google/go-safeweb) 
 ### November 14, 2024 
 - [Adyen/adyen-php-api-library: 适用于 PHP 的 Adyen API 库](https://github.com/Adyen/adyen-php-api-library) 
 - [mokhosh/muddle: 隐藏和保护电子邮件免受机器人的侵害。在 PHP 和 Laravel 中混淆电子邮件。](https://github.com/mokhosh/muddle) 
