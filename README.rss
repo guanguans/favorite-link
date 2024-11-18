@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 14 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 17 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。</title>
+      <pubDate>Sun, 17 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/RonasIT/laravel-entity-generator</link>
+      <guid>https://github.com/RonasIT/laravel-entity-generator</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/RonasIT/laravel-entity-generator" target="_blank">RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/RonasIT/laravel-entity-generator" target="_blank">https://github.com/RonasIT/laravel-entity-generator</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>google/go-safeweb: Go 中的默认安全 HTTP 服务器</title>
       <pubDate>Thu, 14 Nov 2024 16:00:00 +0000</pubDate>
