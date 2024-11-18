@@ -75,6 +75,9 @@
 
 
 
+
+### November 18, 2024 
+- [RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。](https://github.com/RonasIT/laravel-entity-generator) 
 ### November 15, 2024 
 - [google/go-safeweb: Go 中的默认安全 HTTP 服务器](https://github.com/google/go-safeweb) 
 ### November 14, 2024 
