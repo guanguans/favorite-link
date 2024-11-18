@@ -80,6 +80,7 @@
 - [RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。](https://github.com/RonasIT/laravel-entity-generator) 
 - [silviolleite/laravel-pwa: 这个 Laravel 软件包能将你的项目转化为渐进式 web 应用程序。](https://github.com/silviolleite/laravel-pwa) 
 - [0xJacky/nginx-ui: Nginx 的另一个 WebUI](https://github.com/0xJacky/nginx-ui) 
+- [Nutlope/logocreator: 由 Together AI 上的 Flux 提供支持的免费 + 开放源码软件徽标生成器](https://github.com/Nutlope/logocreator) 
 ### November 15, 2024 
 - [google/go-safeweb: Go 中的默认安全 HTTP 服务器](https://github.com/google/go-safeweb) 
 ### November 14, 2024 
