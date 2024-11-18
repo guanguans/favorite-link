@@ -81,6 +81,7 @@
 - [silviolleite/laravel-pwa: 这个 Laravel 软件包能将你的项目转化为渐进式 web 应用程序。](https://github.com/silviolleite/laravel-pwa) 
 - [0xJacky/nginx-ui: Nginx 的另一个 WebUI](https://github.com/0xJacky/nginx-ui) 
 - [Nutlope/logocreator: 由 Together AI 上的 Flux 提供支持的免费 + 开放源码软件徽标生成器](https://github.com/Nutlope/logocreator) 
+- [Laravel 中的流式响应：高效数据交付指南 --- Streaming Responses in Laravel: A Guide to Efficient Data Delivery](https://www.harrisrafto.eu/streaming-responses-in-laravel-a-guide-to-efficient-data-delivery/) 
 ### November 15, 2024 
 - [google/go-safeweb: Go 中的默认安全 HTTP 服务器](https://github.com/google/go-safeweb) 
 ### November 14, 2024 
