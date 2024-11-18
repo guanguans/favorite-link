@@ -47,6 +47,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[0xJacky/nginx-ui: Nginx 的另一个 WebUI]]></title>
+    <published>2024-11-17T00:00:00+00:00</published>
+    <updated>2024-11-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/0xJacky/nginx-ui"/>
+    <id>https://github.com/0xJacky/nginx-ui</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/0xJacky/nginx-ui" target="_blank">0xJacky/nginx-ui: Nginx 的另一个 WebUI</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/0xJacky/nginx-ui" target="_blank">https://github.com/0xJacky/nginx-ui</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[google/go-safeweb: Go 中的默认安全 HTTP 服务器]]></title>
     <published>2024-11-14T16:00:00+00:00</published>
     <updated>2024-11-14T16:00:00+00:00</updated>
