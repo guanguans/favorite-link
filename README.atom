@@ -126,6 +126,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zenstruck/stream: PHP 资源的对象包装器。]]></title>
+    <published>2024-11-16T08:00:00+00:00</published>
+    <updated>2024-11-16T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zenstruck/stream"/>
+    <id>https://github.com/zenstruck/stream</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zenstruck/stream" target="_blank">zenstruck/stream: PHP 资源的对象包装器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zenstruck/stream" target="_blank">https://github.com/zenstruck/stream</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。]]></title>
     <published>2024-11-17T16:00:00+00:00</published>
     <updated>2024-11-17T16:00:00+00:00</updated>

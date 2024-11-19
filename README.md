@@ -85,7 +85,7 @@
 - [zenstruck/uri: parse_url 面向对象的封装器/操纵器](https://github.com/zenstruck/uri) 
 - [zenstruck/changelog: 使用提交日志和 Github API 生成漂亮的版本变更日志。](https://github.com/zenstruck/changelog) 
 - [zenstruck/callback: callable 包装器来验证和注入参数。](https://github.com/zenstruck/callback) 
-- [zenstruck/stream: PHP资源的对象包装器。](https://github.com/zenstruck/stream) 
+- [zenstruck/stream: PHP 资源的对象包装器。](https://github.com/zenstruck/stream) 
 ### November 18, 2024 
 - [RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。](https://github.com/RonasIT/laravel-entity-generator) 
 - [silviolleite/laravel-pwa: 这个 Laravel 软件包能将你的项目转化为渐进式 web 应用程序。](https://github.com/silviolleite/laravel-pwa) 
