@@ -94,6 +94,38 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zenstruck/changelog: 使用提交日志和 Github API 生成漂亮的版本变更日志。]]></title>
+    <published>2024-11-17T00:00:00+00:00</published>
+    <updated>2024-11-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zenstruck/changelog"/>
+    <id>https://github.com/zenstruck/changelog</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zenstruck/changelog" target="_blank">zenstruck/changelog: 使用提交日志和 Github API 生成漂亮的版本变更日志。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zenstruck/changelog" target="_blank">https://github.com/zenstruck/changelog</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zenstruck/callback: callable 包装器来验证和注入参数。]]></title>
+    <published>2024-11-16T16:00:00+00:00</published>
+    <updated>2024-11-16T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zenstruck/callback"/>
+    <id>https://github.com/zenstruck/callback</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zenstruck/callback" target="_blank">zenstruck/callback: callable 包装器来验证和注入参数。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zenstruck/callback" target="_blank">https://github.com/zenstruck/callback</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[RonasIT/laravel-entity-generator: 该生成器用于为新实体创建标准类栈。]]></title>
     <published>2024-11-17T16:00:00+00:00</published>
     <updated>2024-11-17T16:00:00+00:00</updated>
