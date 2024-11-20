@@ -80,6 +80,7 @@
 
 ### November 20, 2024 
 - [lav45/yii2-activity-logger: 该扩展可帮助您跟踪用户在网站上的活动](https://github.com/lav45/yii2-activity-logger) 
+- [nhedger/unicon: 🦄 Laravel 的通用图标组件](https://github.com/nhedger/unicon) 
 ### November 19, 2024 
 - [tidwall/match: Go 的简单字符串模式匹配器](https://github.com/tidwall/match) 
 - [omaralalwi/lexi-translate：通过 morph、relationships 和 caching 的强大功能简化多语言 Eloquent 模型的翻译管理。](https://github.com/omaralalwi/lexi-translate) 
