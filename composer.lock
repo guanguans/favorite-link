@@ -1373,7 +1373,7 @@
         },
         {
             "name": "illuminate/collections",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/collections.git",
@@ -1428,7 +1428,7 @@
         },
         {
             "name": "illuminate/conditionable",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/conditionable.git",
@@ -1588,7 +1588,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
@@ -1639,7 +1639,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -1742,7 +1742,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
@@ -1809,7 +1809,7 @@
         },
         {
             "name": "illuminate/macroable",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/macroable.git",
@@ -1954,7 +1954,7 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
@@ -2089,7 +2089,7 @@
         },
         {
             "name": "illuminate/translation",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/translation.git",
@@ -2140,7 +2140,7 @@
         },
         {
             "name": "illuminate/validation",
-            "version": "v11.33.1",
+            "version": "v11.33.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/validation.git",
