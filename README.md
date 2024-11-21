@@ -78,6 +78,9 @@
 
 
 
+
+### November 21, 2024 
+- [Bearer/bearer: 代码安全扫描工具 （SAST） 用于发现、筛选安全和隐私风险并确定其优先级。](https://github.com/Bearer/bearer) 
 ### November 20, 2024 
 - [lav45/yii2-activity-logger: 该扩展可帮助您跟踪用户在网站上的活动](https://github.com/lav45/yii2-activity-logger) 
 - [nhedger/unicon: 🦄 Laravel 的通用图标组件](https://github.com/nhedger/unicon) 
