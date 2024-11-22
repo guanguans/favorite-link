@@ -83,6 +83,7 @@
 ### November 22, 2024 
 - [FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。](https://github.com/FahimAnzamDip/triangle-pos) 
 - [如果仅在某些文件中启用严格类型，则如何工作？](https://masteringlaravel.io/daily/2024-11-21-how-do-strict-types-work-if-only-enabled-in-some-files) 
+- [ivoronin/TomatoBar: 🍅 世界上最整洁的 macOS 番茄钟菜单栏](https://github.com/ivoronin/TomatoBar) 
 ### November 21, 2024 
 - [Bearer/bearer: 代码安全扫描工具 (SAST) 用于发现、筛选安全和隐私风险并确定其优先级。](https://github.com/Bearer/bearer) 
 - [antofthy.gitlab.io/info/ascii/Spinners.txt: Spinners](https://antofthy.gitlab.io/info/ascii/Spinners.txt) 
