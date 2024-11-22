@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 20 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 21 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。</title>
+      <pubDate>Thu, 21 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/FahimAnzamDip/triangle-pos</link>
+      <guid>https://github.com/FahimAnzamDip/triangle-pos</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/FahimAnzamDip/triangle-pos" target="_blank">FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/FahimAnzamDip/triangle-pos" target="_blank">https://github.com/FahimAnzamDip/triangle-pos</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Bearer/bearer: 代码安全扫描工具 (SAST) 用于发现、筛选安全和隐私风险并确定其优先级。</title>
       <pubDate>Wed, 20 Nov 2024 16:00:00 +0000</pubDate>
