@@ -62,6 +62,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[s1ntoneli/Copi: macOS 剪贴板的安全替代品]]></title>
+    <published>2024-11-20T16:00:00+00:00</published>
+    <updated>2024-11-20T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/s1ntoneli/Copi"/>
+    <id>https://github.com/s1ntoneli/Copi</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/s1ntoneli/Copi" target="_blank">s1ntoneli/Copi: macOS 剪贴板的安全替代品</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/s1ntoneli/Copi" target="_blank">https://github.com/s1ntoneli/Copi</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Bearer/bearer: 代码安全扫描工具 (SAST) 用于发现、筛选安全和隐私风险并确定其优先级。]]></title>
     <published>2024-11-20T16:00:00+00:00</published>
     <updated>2024-11-20T16:00:00+00:00</updated>
