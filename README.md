@@ -86,6 +86,7 @@
 - [yusukebe/gh-markdown-preview: GitHub CLI 扩展，预览 Markdown 看起来像 GitHub。](https://github.com/yusukebe/gh-markdown-preview) 
 - [Melkeydev/go-blueprint: Go-blueprint 允许用户使用流行的框架快速启动一个 Go 项目](https://github.com/Melkeydev/go-blueprint) 
 - [robertogallea/pulse-api: 此包提供与 JSON API 端点完全相同的 Laravel Pulse 信息。](https://github.com/robertogallea/pulse-api) 
+- [zero-to-prod/data-model: A 提供了一种轻量级、非侵入性的方式来递归地激活类型安全的 PHP 对象。](https://github.com/zero-to-prod/data-model) 
 ### November 22, 2024 
 - [FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。](https://github.com/FahimAnzamDip/triangle-pos) 
 - [如果仅在某些文件中启用严格类型，则如何工作？](https://masteringlaravel.io/daily/2024-11-21-how-do-strict-types-work-if-only-enabled-in-some-files) 
