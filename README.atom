@@ -30,6 +30,23 @@ API。它可以轻松模拟和测试 API 行为，提供一个动态环境来制
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[yusukebe/gh-markdown-preview: GitHub CLI 扩展，预览 Markdown 看起来像 GitHub。]]></title>
+    <published>2024-11-24T08:00:00+00:00</published>
+    <updated>2024-11-24T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/yusukebe/gh-markdown-preview"/>
+    <id>https://github.com/yusukebe/gh-markdown-preview</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/yusukebe/gh-markdown-preview" target="_blank">yusukebe/gh-markdown-preview: GitHub CLI 扩展，预览 Markdown
+看起来像 GitHub。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/yusukebe/gh-markdown-preview" target="_blank">https://github.com/yusukebe/gh-markdown-preview</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。]]></title>
     <published>2024-11-21T16:00:00+00:00</published>
     <updated>2024-11-21T16:00:00+00:00</updated>
