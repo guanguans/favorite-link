@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>zero-to-prod/data-model: A 提供了一种轻量级、非侵入性的方式来递归地激活类型安全的 PHP 对象。</title>
+      <pubDate>Sat, 23 Nov 2024 08:00:00 +0000</pubDate>
+      <link>https://github.com/zero-to-prod/data-model</link>
+      <guid>https://github.com/zero-to-prod/data-model</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/zero-to-prod/data-model" target="_blank">zero-to-prod/data-model: A 提供了一种轻量级、非侵入性的方式来递归地激活类型安全的 PHP 对象。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/zero-to-prod/data-model" target="_blank">https://github.com/zero-to-prod/data-model</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。</title>
       <pubDate>Thu, 21 Nov 2024 16:00:00 +0000</pubDate>
       <link>https://github.com/FahimAnzamDip/triangle-pos</link>
