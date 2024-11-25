@@ -80,6 +80,9 @@
 
 
 
+
+### November 25, 2024 
+- [cyrilbois/jsoning-api: JSONing API 是一款多功能工具，可用于模拟 REST API。它可以轻松模拟和测试 API 行为，提供一个动态环境来制作自定义响应和逻辑。](https://github.com/cyrilbois/jsoning-api) 
 ### November 22, 2024 
 - [FahimAnzamDip/triangle-pos: Triangle POS 是一个带有 POS 系统的开源库存管理。使用 Laravel 10、Bootstrap 4 和 Livewire 3 开发。](https://github.com/FahimAnzamDip/triangle-pos) 
 - [如果仅在某些文件中启用严格类型，则如何工作？](https://masteringlaravel.io/daily/2024-11-21-how-do-strict-types-work-if-only-enabled-in-some-files) 
