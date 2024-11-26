@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 24 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>aldeebhasan/la-subscription: LA SUBSCRIPTION 是一个强大的软件包，旨在简化 Laravel 应用程序中基于订阅的服务的实施和管理。它提供了一种灵活的方法来处理各种订阅计划，使其成为 SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选择。</title>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/aldeebhasan/la-subscription</link>
+      <guid>https://github.com/aldeebhasan/la-subscription</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/aldeebhasan/la-subscription" target="_blank">aldeebhasan/la-subscription: LA SUBSCRIPTION 是一个强大的软件包，旨在简化 Laravel 应用程序中基于订阅的服务的实施和管理。它提供了一种灵活的方法来处理各种订阅计划，使其成为 SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选择。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/aldeebhasan/la-subscription" target="_blank">https://github.com/aldeebhasan/la-subscription</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>cyrilbois/jsoning-api: JSONing API 是一款多功能工具，可用于模拟 REST API。它可以轻松模拟和测试 API 行为，提供一个动态环境来制作自定义响应和逻辑。</title>
       <pubDate>Sun, 24 Nov 2024 16:00:00 +0000</pubDate>

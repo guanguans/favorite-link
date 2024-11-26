@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2024-11-24T16:00:00+00:00</updated>
+  <updated>2024-11-25T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[aldeebhasan/la-subscription: LA SUBSCRIPTION 是一个强大的软件包，旨在简化 Laravel 应用程序中基于订阅的服务的实施和管理。它提供了一种灵活的方法来处理各种订阅计划，使其成为 SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选择。]]></title>
+    <published>2024-11-25T16:00:00+00:00</published>
+    <updated>2024-11-25T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/aldeebhasan/la-subscription"/>
+    <id>https://github.com/aldeebhasan/la-subscription</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/aldeebhasan/la-subscription" target="_blank">aldeebhasan/la-subscription: LA SUBSCRIPTION
+是一个强大的软件包，旨在简化 Laravel 应用程序中基于订阅的服务的实施和管理。它提供了一种灵活的方法来处理各种订阅计划，使其成为
+SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选择。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/aldeebhasan/la-subscription" target="_blank">https://github.com/aldeebhasan/la-subscription</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cyrilbois/jsoning-api: JSONing API 是一款多功能工具，可用于模拟 REST API。它可以轻松模拟和测试 API 行为，提供一个动态环境来制作自定义响应和逻辑。]]></title>
     <published>2024-11-24T16:00:00+00:00</published>
