@@ -81,6 +81,9 @@
 
 
 
+
+### November 26, 2024 
+- [aldeebhasan/la-subscription: LA SUBSCRIPTION 是一个强大的软件包，旨在简化 Laravel 应用程序中基于订阅的服务的实施和管理。它提供了一种灵活的方法来处理各种订阅计划，使其成为 SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选择。](https://github.com/aldeebhasan/la-subscription) 
 ### November 25, 2024 
 - [cyrilbois/jsoning-api: JSONing API 是一款多功能工具，可用于模拟 REST API。它可以轻松模拟和测试 API 行为，提供一个动态环境来制作自定义响应和逻辑。](https://github.com/cyrilbois/jsoning-api) 
 - [yusukebe/gh-markdown-preview: GitHub CLI 扩展，预览 Markdown 看起来像 GitHub。](https://github.com/yusukebe/gh-markdown-preview) 
