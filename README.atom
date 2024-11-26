@@ -31,6 +31,22 @@ SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zyronon/V2Next: V2Next - 最好用的 V 站辅助工具]]></title>
+    <published>2024-11-25T08:00:00+00:00</published>
+    <updated>2024-11-25T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zyronon/V2Next"/>
+    <id>https://github.com/zyronon/V2Next</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zyronon/V2Next" target="_blank">zyronon/V2Next: V2Next - 最好用的 V 站辅助工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zyronon/V2Next" target="_blank">https://github.com/zyronon/V2Next</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cyrilbois/jsoning-api: JSONing API 是一款多功能工具，可用于模拟 REST API。它可以轻松模拟和测试 API 行为，提供一个动态环境来制作自定义响应和逻辑。]]></title>
     <published>2024-11-24T16:00:00+00:00</published>
     <updated>2024-11-24T16:00:00+00:00</updated>
