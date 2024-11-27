@@ -84,7 +84,7 @@
 
 
 ### November 27, 2024 
-- [EcoPasteHub/EcoPaste: 🎉跨平台的剪贴板管理工具](https://github.com/EcoPasteHub/EcoPaste) 
+- [EcoPasteHub/EcoPaste: 🎉 跨平台的剪贴板管理工具](https://github.com/EcoPasteHub/EcoPaste) 
 ### November 26, 2024 
 - [aldeebhasan/la-subscription: LA SUBSCRIPTION 是一个强大的软件包，旨在简化 Laravel 应用程序中基于订阅的服务的实施和管理。它提供了一种灵活的方法来处理各种订阅计划，使其成为 SaaS 应用程序、会员网站和任何需要定期计费的系统的理想选择。](https://github.com/aldeebhasan/la-subscription) 
 - [zyronon/V2Next: V2Next - 最好用的 V 站辅助工具](https://github.com/zyronon/V2Next) 
