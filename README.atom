@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mahmoudmohamedramadan/custom-fresh: 一个 Laravel 包，用于指定在刷新数据库时不想删除的表。]]></title>
+    <published>2024-11-27T08:00:00+00:00</published>
+    <updated>2024-11-27T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mahmoudmohamedramadan/custom-fresh"/>
+    <id>https://github.com/mahmoudmohamedramadan/custom-fresh</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mahmoudmohamedramadan/custom-fresh" target="_blank">mahmoudmohamedramadan/custom-fresh: 一个 Laravel
+包，用于指定在刷新数据库时不想删除的表。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mahmoudmohamedramadan/custom-fresh" target="_blank">https://github.com/mahmoudmohamedramadan/custom-fresh</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[EcoPasteHub/EcoPaste: 🎉 跨平台的剪贴板管理工具]]></title>
     <published>2024-11-26T16:00:00+00:00</published>
     <updated>2024-11-26T16:00:00+00:00</updated>
