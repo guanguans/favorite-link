@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 27 Nov 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>OussamaMater/Laravel-Tips: 每日 Laravel 和 PHP 提示。</title>
+      <pubDate>Wed, 27 Nov 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/OussamaMater/Laravel-Tips</link>
+      <guid>https://github.com/OussamaMater/Laravel-Tips</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/OussamaMater/Laravel-Tips" target="_blank">OussamaMater/Laravel-Tips: 每日 Laravel 和 PHP 提示。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/OussamaMater/Laravel-Tips" target="_blank">https://github.com/OussamaMater/Laravel-Tips</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>EcoPasteHub/EcoPaste: 🎉 跨平台的剪贴板管理工具</title>
       <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
