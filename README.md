@@ -83,6 +83,9 @@
 
 
 
+
+### November 28, 2024 
+- [OussamaMater/Laravel-Tips: 每日 Laravel 和 PHP 提示。](https://github.com/OussamaMater/Laravel-Tips) 
 ### November 27, 2024 
 - [EcoPasteHub/EcoPaste: 🎉 跨平台的剪贴板管理工具](https://github.com/EcoPasteHub/EcoPaste) 
 ### November 26, 2024 
