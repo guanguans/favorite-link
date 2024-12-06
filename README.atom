@@ -46,6 +46,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[vormkracht10/laravel-mails: 在您的 Laravel 应用程序中收集有关已发送邮件的所有信息]]></title>
+    <published>2024-12-05T00:00:00+00:00</published>
+    <updated>2024-12-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/vormkracht10/laravel-mails"/>
+    <id>https://github.com/vormkracht10/laravel-mails</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/vormkracht10/laravel-mails" target="_blank">vormkracht10/laravel-mails: 在您的 Laravel
+应用程序中收集有关已发送邮件的所有信息</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/vormkracht10/laravel-mails" target="_blank">https://github.com/vormkracht10/laravel-mails</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[pdphilip/laravel-elasticsearch: Laravel 的 Eloquent ORM 的 Elasticsearch 实现]]></title>
     <published>2024-11-28T16:00:00+00:00</published>
     <updated>2024-11-28T16:00:00+00:00</updated>
