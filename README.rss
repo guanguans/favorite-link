@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>jxhczhl/JsRpc: 远程调用 (rpc) 浏览器方法，免去抠代码补环境</title>
+      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
+      <link>rpc) 浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc</link>
+      <guid isPermaLink="false">rpc) 浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc</guid>
+      <content:encoded><![CDATA[<a href="rpc) 浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc" target="_blank">jxhczhl/JsRpc: 远程调用 (rpc) 浏览器方法，免去抠代码补环境</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="rpc) 浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc" target="_blank">rpc) 浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>pdphilip/laravel-elasticsearch: Laravel 的 Eloquent ORM 的 Elasticsearch 实现</title>
       <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>

@@ -87,7 +87,7 @@
 
 
 ### December 6, 2024 
-- [jxhczhl/JsRpc: 远程调用(rpc)浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc) 
+- [jxhczhl/JsRpc: 远程调用 (rpc) 浏览器方法，免去抠代码补环境](https://github.com/jxhczhl/JsRpc) 
 ### November 29, 2024 
 - [pdphilip/laravel-elasticsearch: Laravel 的 Eloquent ORM 的 Elasticsearch 实现](https://github.com/pdphilip/laravel-elasticsearch) 
 ### November 28, 2024 
