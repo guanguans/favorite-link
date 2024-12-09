@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[yassinebenaid/godump: 轻松转储任何 GO 变量]]></title>
+    <published>2024-12-08T08:00:00+00:00</published>
+    <updated>2024-12-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/yassinebenaid/godump"/>
+    <id>https://github.com/yassinebenaid/godump</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/yassinebenaid/godump" target="_blank">yassinebenaid/godump: 轻松转储任何 GO 变量</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/yassinebenaid/godump" target="_blank">https://github.com/yassinebenaid/godump</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jxhczhl/JsRpc: 远程调用 (rpc) 浏览器方法，免去抠代码补环境]]></title>
     <published>2024-12-05T16:00:00+00:00</published>
     <updated>2024-12-05T16:00:00+00:00</updated>
