@@ -88,6 +88,9 @@
 
 
 
+
+### December 20, 2024 
+- [openthc/pos: 零售业软件解决方案 - POS、CRM、交付、订购](https://github.com/openthc/pos) 
 ### December 10, 2024 
 - [abdulwahid880/School-Management-system-in-laravel-: 对于那些对自己的学校管理系统感到好奇的人来说，这是最好的解决方案，在这里您可以参加考勤管理考试，管理教师，学生和费用等等，继续根据您的需要进行更改，祝您好运](https://github.com/abdulwahid880/School-Management-system-in-laravel-) 
 ### December 9, 2024 
