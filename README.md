@@ -93,6 +93,7 @@
 
 ### December 25, 2024 
 - [peckphp/peck: Peck 是一个功能强大的 CLI 工具，旨在识别代码库中的措辞或拼写错误。](https://github.com/peckphp/peck) 
+- [tweakphp/tweakphp: 轻松调整 PHP 代码](https://github.com/tweakphp/tweakphp) 
 ### December 23, 2024 
 - [niladam/uri: 解析和操作 URI](https://github.com/niladam/uri) 
 ### December 20, 2024 
