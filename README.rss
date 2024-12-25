@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 22 Dec 2024 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 24 Dec 2024 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>peckphp/peck: Peck 是一个功能强大的 CLI 工具，旨在识别代码库中的措辞或拼写错误。</title>
+      <pubDate>Tue, 24 Dec 2024 16:00:00 +0000</pubDate>
+      <link>https://github.com/peckphp/peck</link>
+      <guid>https://github.com/peckphp/peck</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/peckphp/peck" target="_blank">peckphp/peck: Peck 是一个功能强大的 CLI 工具，旨在识别代码库中的措辞或拼写错误。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/peckphp/peck" target="_blank">https://github.com/peckphp/peck</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>niladam/uri: 解析和操作 URI</title>
       <pubDate>Sun, 22 Dec 2024 16:00:00 +0000</pubDate>
