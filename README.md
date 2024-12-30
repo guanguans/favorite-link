@@ -91,6 +91,9 @@
 
 
 
+
+### December 30, 2024 
+- [ghostty-org/ghostty: 👻 Ghostty 是一款快速、功能丰富且跨平台的终端仿真器，它使用平台原生 UI 和 GPU 加速。](https://github.com/ghostty-org/ghostty) 
 ### December 25, 2024 
 - [peckphp/peck: Peck 是一个功能强大的 CLI 工具，旨在识别代码库中的措辞或拼写错误。](https://github.com/peckphp/peck) 
 - [tweakphp/tweakphp: 轻松调整 PHP 代码](https://github.com/tweakphp/tweakphp) 
