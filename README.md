@@ -99,7 +99,7 @@
 - [cornernote/yii2-softdelete: Yii2 的软删除行为](https://github.com/cornernote/yii2-softdelete) 
 - [ghostwriter/phormat: PHP 代码格式化程序。](https://github.com/ghostwriter/phormat) 
 - [ghostwriter/syntax: PHP 的词法分析库 (Tokenizer、Lexer、Parser、Generator) 关闭](https://github.com/ghostwriter/syntax) 
-- [dcblogdev/laravel-microsoft-graph: 适用于 Microsoft Graph API 的 Laravel 包 （Microsoft365）](https://github.com/dcblogdev/laravel-microsoft-graph) 
+- [dcblogdev/laravel-microsoft-graph: 适用于 Microsoft Graph API 的 Laravel 包 (Microsoft365)](https://github.com/dcblogdev/laravel-microsoft-graph) 
 ### December 30, 2024 
 - [ghostty-org/ghostty: 👻 Ghostty 是一款快速、功能丰富且跨平台的终端仿真器，它使用平台原生 UI 和 GPU 加速。](https://github.com/ghostty-org/ghostty) 
 - [lihaoyun6/Topit: 在 Mac 上将你的任何窗口强制置顶](https://github.com/lihaoyun6/Topit) 
