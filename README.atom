@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sethvargo/go-limiter: 一个用于 Go with HTTP 中间件的超音速限速包。]]></title>
+    <published>2025-01-04T08:00:00+00:00</published>
+    <updated>2025-01-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sethvargo/go-limiter"/>
+    <id>https://github.com/sethvargo/go-limiter</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sethvargo/go-limiter" target="_blank">sethvargo/go-limiter: 一个用于 Go with HTTP 中间件的超音速限速包。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sethvargo/go-limiter" target="_blank">https://github.com/sethvargo/go-limiter</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ghostty-org/ghostty: 👻 Ghostty 是一款快速、功能丰富且跨平台的终端仿真器，它使用平台原生 UI 和 GPU 加速。]]></title>
     <published>2024-12-29T16:00:00+00:00</published>
     <updated>2024-12-29T16:00:00+00:00</updated>
