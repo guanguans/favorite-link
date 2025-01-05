@@ -97,6 +97,7 @@
 - [nassiry/flash-messages: 一个轻量级的 PHP 库，用于处理带有会话存储和渲染的 flash 消息。](https://github.com/nassiry/flash-messages) 
 - [sethvargo/go-limiter: 一个用于 Go with HTTP 中间件的超音速限速包。](https://github.com/sethvargo/go-limiter) 
 - [cornernote/yii2-softdelete: Yii2 的软删除行为](https://github.com/cornernote/yii2-softdelete) 
+- [ghostwriter/phormat: PHP 代码格式化程序。](https://github.com/ghostwriter/phormat) 
 ### December 30, 2024 
 - [ghostty-org/ghostty: 👻 Ghostty 是一款快速、功能丰富且跨平台的终端仿真器，它使用平台原生 UI 和 GPU 加速。](https://github.com/ghostty-org/ghostty) 
 - [lihaoyun6/Topit: 在 Mac 上将你的任何窗口强制置顶](https://github.com/lihaoyun6/Topit) 
