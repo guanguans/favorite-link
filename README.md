@@ -97,6 +97,7 @@
 ### January 8, 2025 
 - [patricktalmadge/bootstrapper: Laravel Twitter Bootstrap 捆绑包](https://github.com/patricktalmadge/bootstrapper) 
 - [kalynasolutions/laravel-tus: Laravel 软件包，用于处理具有 tus 协议和本机 Uppy.js 支持的断点文件上传，而无需额外的 tus 服务器。](https://github.com/kalynasolutions/laravel-tus) 
+- [robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard](https://github.com/robsontenorio/laravel-keycloak-guard) 
 ### January 5, 2025 
 - [nassiry/flash-messages: 一个轻量级的 PHP 库，用于处理带有会话存储和渲染的 flash 消息。](https://github.com/nassiry/flash-messages) 
 - [sethvargo/go-limiter: 一个用于 Go with HTTP 中间件的超音速限速包。](https://github.com/sethvargo/go-limiter) 
