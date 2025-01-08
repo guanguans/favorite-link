@@ -47,6 +47,23 @@ Uppy.js 支持的断点文件上传，而无需额外的 tus 服务器。</xhtml
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard]]></title>
+    <published>2025-01-07T00:00:00+00:00</published>
+    <updated>2025-01-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/robsontenorio/laravel-keycloak-guard"/>
+    <id>https://github.com/robsontenorio/laravel-keycloak-guard</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/robsontenorio/laravel-keycloak-guard" target="_blank">robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单
+Keycloak Guard</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/robsontenorio/laravel-keycloak-guard" target="_blank">https://github.com/robsontenorio/laravel-keycloak-guard</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nassiry/flash-messages: 一个轻量级的 PHP 库，用于处理带有会话存储和渲染的 flash 消息。]]></title>
     <published>2025-01-04T16:00:00+00:00</published>
     <updated>2025-01-04T16:00:00+00:00</updated>
