@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>kalynasolutions/laravel-tus: Laravel 软件包，用于处理具有 tus 协议和本机 Uppy.js 支持的断点文件上传，而无需额外的 tus 服务器。</title>
+      <pubDate>Tue, 07 Jan 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/kalynasolutions/laravel-tus</link>
+      <guid>https://github.com/kalynasolutions/laravel-tus</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/kalynasolutions/laravel-tus" target="_blank">kalynasolutions/laravel-tus: Laravel 软件包，用于处理具有 tus 协议和本机 Uppy.js 支持的断点文件上传，而无需额外的 tus 服务器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/kalynasolutions/laravel-tus" target="_blank">https://github.com/kalynasolutions/laravel-tus</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nassiry/flash-messages: 一个轻量级的 PHP 库，用于处理带有会话存储和渲染的 flash 消息。</title>
       <pubDate>Sat, 04 Jan 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/nassiry/flash-messages</link>
