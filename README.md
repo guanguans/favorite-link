@@ -94,6 +94,9 @@
 
 
 
+
+### January 9, 2025 
+- [nuta/operating-system-in-1000-lines: 用 1000 行编写操作系统。](https://github.com/nuta/operating-system-in-1000-lines) 
 ### January 8, 2025 
 - [patricktalmadge/bootstrapper: Laravel Twitter Bootstrap 捆绑包](https://github.com/patricktalmadge/bootstrapper) 
 - [kalynasolutions/laravel-tus: Laravel 软件包，用于处理具有 tus 协议和本机 Uppy.js 支持的断点文件上传，而无需额外的 tus 服务器。](https://github.com/kalynasolutions/laravel-tus) 
