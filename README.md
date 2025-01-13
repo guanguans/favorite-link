@@ -96,6 +96,9 @@
 
 
 
+
+### January 13, 2025 
+- [debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...](https://github.com/debugly/ijkplayer) 
 ### January 12, 2025 
 - [boyter/cs: 命令行代码 Pelunker 或代码搜索](https://github.com/boyter/cs) 
 - [jaywcjlove/rightmenu-master: 通过右键单击菜单新建文件](https://github.com/jaywcjlove/rightmenu-master) 
