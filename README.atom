@@ -63,6 +63,23 @@ Keycloak Guard 到 Laravel Web 路由</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[CodeWithKyrian/whisper.php: 借助 Whisper.cpp 和 OpenAI，PHP 中的本地语音转文本变得容易]]></title>
+    <published>2025-01-13T16:00:00+00:00</published>
+    <updated>2025-01-13T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/CodeWithKyrian/whisper.php"/>
+    <id>https://github.com/CodeWithKyrian/whisper.php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/CodeWithKyrian/whisper.php" target="_blank">CodeWithKyrian/whisper.php: 借助 Whisper.cpp 和 OpenAI，PHP
+中的本地语音转文本变得容易</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/CodeWithKyrian/whisper.php" target="_blank">https://github.com/CodeWithKyrian/whisper.php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...]]></title>
     <published>2025-01-12T16:00:00+00:00</published>
     <updated>2025-01-12T16:00:00+00:00</updated>
