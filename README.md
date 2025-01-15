@@ -101,6 +101,7 @@
 ### January 15, 2025 
 - [fschmtt/keycloak-rest-api-client-php: PHP 客户端与 Keycloak 的 Admin REST API 交互。](https://github.com/fschmtt/keycloak-rest-api-client-php) 
 - [Jaennaet/pISSStream: macOS 菜单栏应用程序，可实时显示国际空间站的尿瓶装满情况](https://github.com/Jaennaet/pISSStream) 
+- [mariovalney/laravel-keycloak-web-guard: 简单的 Keycloak Guard 到 Laravel Web 路由](https://github.com/mariovalney/laravel-keycloak-web-guard) 
 ### January 13, 2025 
 - [debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...](https://github.com/debugly/ijkplayer) 
 ### January 12, 2025 
