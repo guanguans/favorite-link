@@ -113,6 +113,23 @@ Laravel 包装器，用于与 laravel 应用程序的无缝 deepseek API 集成�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zackAJ/laravel-debounce: zackAJ/laravel-debounce: 一个 Laravel 包，可为您提供对作业、通知和 Artisan 命令的防抖效果，并提供很好的事件报告。]]></title>
+    <published>2025-01-12T16:00:00+00:00</published>
+    <updated>2025-01-12T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zackAJ/laravel-debounce"/>
+    <id>https://github.com/zackAJ/laravel-debounce</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zackAJ/laravel-debounce" target="_blank">zackAJ/laravel-debounce: zackAJ/laravel-debounce: 一个
+Laravel 包，可为您提供对作业、通知和 Artisan 命令的防抖效果，并提供很好的事件报告。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zackAJ/laravel-debounce" target="_blank">https://github.com/zackAJ/laravel-debounce</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...]]></title>
     <published>2025-01-12T16:00:00+00:00</published>
     <updated>2025-01-12T16:00:00+00:00</updated>
