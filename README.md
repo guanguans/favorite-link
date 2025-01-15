@@ -106,6 +106,7 @@
 - [luadotsh/lua: 专为现代团队设计的开源、下一代可扩展 URL 缩短器。](https://github.com/luadotsh/lua) 
 - [deepseek-php/deepseek-laravel: 用于 Deepseek PHP 客户端的 Laravel 包装器，用于与 laravel 应用程序的无缝 deepseek API 集成。](https://github.com/deepseek-php/deepseek-laravel) 
 - [zackAJ/laravel-debounce: zackAJ/laravel-debounce: 一个 Laravel 包，可为您提供对作业、通知和 Artisan 命令的防抖效果，并提供很好的事件报告。](https://github.com/zackAJ/laravel-debounce) 
+- [waadmawlood/laravel-model-metadata: 一个 Laravel 包，旨在通过 JSON 管理模型元数据，支持多种数据类型](https://github.com/waadmawlood/laravel-model-metadata) 
 ### January 13, 2025 
 - [debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...](https://github.com/debugly/ijkplayer) 
 ### January 12, 2025 
