@@ -80,6 +80,39 @@ Keycloak Guard 到 Laravel Web 路由</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[luadotsh/lua: 专为现代团队设计的开源、下一代可扩展 URL 缩短器。]]></title>
+    <published>2025-01-13T08:00:00+00:00</published>
+    <updated>2025-01-13T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/luadotsh/lua"/>
+    <id>https://github.com/luadotsh/lua</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/luadotsh/lua" target="_blank">luadotsh/lua: 专为现代团队设计的开源、下一代可扩展 URL 缩短器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/luadotsh/lua" target="_blank">https://github.com/luadotsh/lua</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[deepseek-php/deepseek-laravel: 用于 Deepseek PHP 客户端的 Laravel 包装器，用于与 laravel 应用程序的无缝 deepseek API 集成。]]></title>
+    <published>2025-01-13T00:00:00+00:00</published>
+    <updated>2025-01-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/deepseek-php/deepseek-laravel"/>
+    <id>https://github.com/deepseek-php/deepseek-laravel</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/deepseek-php/deepseek-laravel" target="_blank">deepseek-php/deepseek-laravel: 用于 Deepseek PHP 客户端的
+Laravel 包装器，用于与 laravel 应用程序的无缝 deepseek API 集成。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/deepseek-php/deepseek-laravel" target="_blank">https://github.com/deepseek-php/deepseek-laravel</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...]]></title>
     <published>2025-01-12T16:00:00+00:00</published>
     <updated>2025-01-12T16:00:00+00:00</updated>
