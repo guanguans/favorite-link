@@ -104,6 +104,7 @@
 - [mariovalney/laravel-keycloak-web-guard: 简单的 Keycloak Guard 到 Laravel Web 路由](https://github.com/mariovalney/laravel-keycloak-web-guard) 
 - [CodeWithKyrian/whisper.php: 借助 Whisper.cpp 和 OpenAI，PHP 中的本地语音转文本变得容易](https://github.com/CodeWithKyrian/whisper.php) 
 - [luadotsh/lua: 专为现代团队设计的开源、下一代可扩展 URL 缩短器。](https://github.com/luadotsh/lua) 
+- [deepseek-php/deepseek-laravel: 用于 Deepseek PHP 客户端的 Laravel 包装器，用于与 laravel 应用程序的无缝 deepseek API 集成。](https://github.com/deepseek-php/deepseek-laravel) 
 ### January 13, 2025 
 - [debugly/ijkplayer: 基于 ijkplayer 的 iOS/macOS/tvOS 视频播放器，使用 FFmpeg 6，支持 Metal、hw accel、HDR、ass 字幕效果...](https://github.com/debugly/ijkplayer) 
 ### January 12, 2025 
