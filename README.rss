@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 14 Jan 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 15 Jan 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用</title>
+      <pubDate>Wed, 15 Jan 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/simplesamlphp/assert</link>
+      <guid>https://github.com/simplesamlphp/assert</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/simplesamlphp/assert" target="_blank">simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/simplesamlphp/assert" target="_blank">https://github.com/simplesamlphp/assert</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>fschmtt/keycloak-rest-api-client-php: PHP 客户端与 Keycloak 的 Admin REST API 交互。</title>
       <pubDate>Tue, 14 Jan 2025 16:00:00 +0000</pubDate>
