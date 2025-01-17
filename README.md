@@ -104,6 +104,7 @@
 - [nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。](https://github.com/nimbly/Syndicate) 
 - [https://github.com/nimbly](https://github.com/nimbly) 
 - [nimbly/Carton: 一个简单的 PSR-11 容器实现。](https://github.com/nimbly/Carton) 
+- [jlorente/php-credit-cards: 一个 PHP 包，用于对借记卡和信用卡执行操作，例如验证品牌、数字和 Luhn 算法和格式。它验证了 Visa、Mastercard、American Express 等流行品牌。](https://github.com/jlorente/php-credit-cards) 
 ### January 16, 2025 
 - [simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用](https://github.com/simplesamlphp/assert) 
 ### January 15, 2025 
