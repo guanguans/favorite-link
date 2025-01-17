@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>jlorente/php-credit-cards: 一个 PHP 包，用于对借记卡和信用卡执行操作，例如验证品牌、数字和 Luhn 算法和格式。它验证了 Visa、Mastercard、American Express 等流行品牌。</title>
+      <pubDate>Wed, 15 Jan 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/jlorente/php-credit-cards</link>
+      <guid>https://github.com/jlorente/php-credit-cards</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jlorente/php-credit-cards" target="_blank">jlorente/php-credit-cards: 一个 PHP 包，用于对借记卡和信用卡执行操作，例如验证品牌、数字和 Luhn 算法和格式。它验证了 Visa、Mastercard、American Express 等流行品牌。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jlorente/php-credit-cards" target="_blank">https://github.com/jlorente/php-credit-cards</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用</title>
       <pubDate>Wed, 15 Jan 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/simplesamlphp/assert</link>
