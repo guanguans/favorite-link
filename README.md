@@ -103,6 +103,7 @@
 ### January 17, 2025 
 - [nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。](https://github.com/nimbly/Syndicate) 
 - [https://github.com/nimbly](https://github.com/nimbly) 
+- [nimbly/Carton: 一个简单的 PSR-11 容器实现。](https://github.com/nimbly/Carton) 
 ### January 16, 2025 
 - [simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用](https://github.com/simplesamlphp/assert) 
 ### January 15, 2025 
