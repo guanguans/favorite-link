@@ -29,6 +29,38 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[https://github.com/nimbly]]></title>
+    <published>2025-01-16T08:00:00+00:00</published>
+    <updated>2025-01-16T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nimbly"/>
+    <id>https://github.com/nimbly</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nimbly" target="_blank">https://github.com/nimbly</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nimbly" target="_blank">https://github.com/nimbly</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[nimbly/Carton: 一个简单的 PSR-11 容器实现。]]></title>
+    <published>2025-01-16T00:00:00+00:00</published>
+    <updated>2025-01-16T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nimbly/Carton"/>
+    <id>https://github.com/nimbly/Carton</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nimbly/Carton" target="_blank">nimbly/Carton: 一个简单的 PSR-11 容器实现。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nimbly/Carton" target="_blank">https://github.com/nimbly/Carton</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用]]></title>
     <published>2025-01-15T16:00:00+00:00</published>
     <updated>2025-01-15T16:00:00+00:00</updated>
