@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 15 Jan 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 16 Jan 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。</title>
+      <pubDate>Thu, 16 Jan 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/nimbly/Syndicate</link>
+      <guid>https://github.com/nimbly/Syndicate</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nimbly/Syndicate" target="_blank">nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nimbly/Syndicate" target="_blank">https://github.com/nimbly/Syndicate</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>simplesamlphp/assert: webmozart/assert 的包装器，使其在检查方法参数之外有用</title>
       <pubDate>Wed, 15 Jan 2025 16:00:00 +0000</pubDate>
