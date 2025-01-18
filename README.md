@@ -106,7 +106,7 @@
 - [Naoray/laravel-github-monolog: GitHub 问题的 Laravel 日志频道](https://github.com/Naoray/laravel-github-monolog) 
 - [alexpasmantier/television: 是一款快速且多功能的模糊查找器 TUI。](https://github.com/alexpasmantier/television) 
 - [damms005/devdb-vscode: 零配置 VS Code 数据库扩展，具有辅助开发和调试的功能。](https://github.com/damms005/devdb-vscode) 
-- [byawitz/ggh: 调用您的 SSH 会话（同时搜索您的 SSH 配置文件）](https://github.com/byawitz/ggh/) 
+- [byawitz/ggh: 调用您的 SSH 会话 (同时搜索您的 SSH 配置文件)](https://github.com/byawitz/ggh/) 
 ### January 17, 2025 
 - [nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。](https://github.com/nimbly/Syndicate) 
 - [https://github.com/nimbly](https://github.com/nimbly) 
