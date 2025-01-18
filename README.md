@@ -100,6 +100,9 @@
 
 
 
+
+### January 18, 2025 
+- [mainframecomputer/fullmoon-ios: fullmoon 是一款 iOS 应用程序，用于与本地大型语言模型聊天，它针对 Apple silicon 进行了优化，可在 iPhone、iPad 和 Mac 上运行。您的聊天记录会保存在本地，您还可以自定义应用程序的外观。](https://github.com/mainframecomputer/fullmoon-ios) 
 ### January 17, 2025 
 - [nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。](https://github.com/nimbly/Syndicate) 
 - [https://github.com/nimbly](https://github.com/nimbly) 
