@@ -31,6 +31,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Naoray/laravel-github-monolog: GitHub 问题的 Laravel 日志频道]]></title>
+    <published>2025-01-17T08:00:00+00:00</published>
+    <updated>2025-01-17T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Naoray/laravel-github-monolog"/>
+    <id>https://github.com/Naoray/laravel-github-monolog</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Naoray/laravel-github-monolog" target="_blank">Naoray/laravel-github-monolog: GitHub 问题的 Laravel 日志频道</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Naoray/laravel-github-monolog" target="_blank">https://github.com/Naoray/laravel-github-monolog</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nimbly/Syndicate: 强大的队列和 pubsub 消息发布者和使用者框架。]]></title>
     <published>2025-01-16T16:00:00+00:00</published>
     <updated>2025-01-16T16:00:00+00:00</updated>
