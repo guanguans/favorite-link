@@ -101,6 +101,9 @@
 
 
 
+
+### January 19, 2025 
+- [HandBrake/HandBrake：HandBrake 是一款适用于 Linux、Mac 和 Windows 的开源视频转码器](https://github.com/HandBrake/HandBrake) 
 ### January 18, 2025 
 - [mainframecomputer/fullmoon-ios: fullmoon 是一款 iOS 应用程序，用于与本地大型语言模型聊天，它针对 Apple silicon 进行了优化，可在 iPhone、iPad 和 Mac 上运行。您的聊天记录会保存在本地，您还可以自定义应用程序的外观。](https://github.com/mainframecomputer/fullmoon-ios) 
 - [Naoray/laravel-github-monolog: GitHub 问题的 Laravel 日志频道](https://github.com/Naoray/laravel-github-monolog) 
