@@ -107,6 +107,7 @@
 - [sapics/ip-location-db: sapics/ip-location-db:](https://github.com/sapics/ip-location-db) 
 - [sapics/ip-location-db: 通过 ASN、GeoFeed、Whois、iptoasn.com、db-ip lite、GeoLite2 的 IP 到位置数据库](https://github.com/sapics/ip-location-db) 
 - [mjelamanov/psr18-guzzle: 用于 guzzle 6 客户端的 PSR-18 适配器](https://github.com/mjelamanov/psr18-guzzle) 
+- [Stillat/dagger: 适用于 Laravel Blade 的强大组件创作库。](https://github.com/Stillat/dagger) 
 ### January 19, 2025 
 - [HandBrake/HandBrake：HandBrake 是一款适用于 Linux、Mac 和 Windows 的开源视频转码器](https://github.com/HandBrake/HandBrake) 
 - [alfg/ffmpeg-commander: 🛠️ FFmpeg 命令生成器 Web UI](https://github.com/alfg/ffmpeg-commander) 
