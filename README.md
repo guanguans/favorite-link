@@ -105,7 +105,7 @@
 
 
 ### January 23, 2025 
-- [cdsmths/laravel-ocr-space: Laravel OCR Space 是一个软件包，允许您在 Laravel 应用程序中使用 OCR.Space API 进行光学字符识别 （OCR）。](https://github.com/cdsmths/laravel-ocr-space) 
+- [cdsmths/laravel-ocr-space: Laravel OCR Space 是一个软件包，允许您在 Laravel 应用程序中使用 OCR.Space API 进行光学字符识别 (OCR)。](https://github.com/cdsmths/laravel-ocr-space) 
 ### January 22, 2025 
 - [sapics/ip-location-db: sapics/ip-location-db:](https://github.com/sapics/ip-location-db) 
 - [sapics/ip-location-db: 通过 ASN、GeoFeed、Whois、iptoasn.com、db-ip lite、GeoLite2 的 IP 到位置数据库](https://github.com/sapics/ip-location-db) 
