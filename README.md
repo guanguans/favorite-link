@@ -104,6 +104,9 @@
 
 
 
+
+### January 24, 2025 
+- [azjezz/php-pretty-diff: PHP + Rust：如何在 PHP 项目中使用 Rust 代码](https://github.com/azjezz/php-pretty-diff) 
 ### January 23, 2025 
 - [cdsmths/laravel-ocr-space: Laravel OCR Space 是一个软件包，允许您在 Laravel 应用程序中使用 OCR.Space API 进行光学字符识别 (OCR)。](https://github.com/cdsmths/laravel-ocr-space) 
 - [avocet-shores/laravel-rewind: Laravel Rewind 是一个功能强大且高效的版本控制包，适用于您的 Eloquent 模型](https://github.com/avocet-shores/laravel-rewind) 
