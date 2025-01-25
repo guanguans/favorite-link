@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 23 Jan 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 24 Jan 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>TheBoredTeam/boring.notch: TheBoringNotch：不那么无聊的 Notch That Rocks 🎸🎶</title>
+      <pubDate>Fri, 24 Jan 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/TheBoredTeam/boring.notch</link>
+      <guid>https://github.com/TheBoredTeam/boring.notch</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/TheBoredTeam/boring.notch" target="_blank">TheBoredTeam/boring.notch: TheBoringNotch：不那么无聊的 Notch That Rocks 🎸🎶</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/TheBoredTeam/boring.notch" target="_blank">https://github.com/TheBoredTeam/boring.notch</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>azjezz/php-pretty-diff: PHP + Rust：如何在 PHP 项目中使用 Rust 代码</title>
       <pubDate>Thu, 23 Jan 2025 16:00:00 +0000</pubDate>
