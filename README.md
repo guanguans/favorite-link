@@ -105,6 +105,9 @@
 
 
 
+
+### January 25, 2025 
+- [TheBoredTeam/boring.notch: TheBoringNotch：不那么无聊的 Notch That Rocks 🎸🎶](https://github.com/TheBoredTeam/boring.notch) 
 ### January 24, 2025 
 - [azjezz/php-pretty-diff: PHP + Rust：如何在 PHP 项目中使用 Rust 代码](https://github.com/azjezz/php-pretty-diff) 
 ### January 23, 2025 
