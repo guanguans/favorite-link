@@ -30,6 +30,23 @@ That Rocks 🎸🎶</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[webui-dev/go-webui: 使用任何 Web 浏览器作为 GUI，后端使用 Go，前端使用现代 Web 技术。]]></title>
+    <published>2025-01-24T08:00:00+00:00</published>
+    <updated>2025-01-24T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/webui-dev/go-webui"/>
+    <id>https://github.com/webui-dev/go-webui</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/webui-dev/go-webui" target="_blank">webui-dev/go-webui: 使用任何 Web 浏览器作为 GUI，后端使用 Go，前端使用现代 Web
+技术。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/webui-dev/go-webui" target="_blank">https://github.com/webui-dev/go-webui</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[azjezz/php-pretty-diff: PHP + Rust：如何在 PHP 项目中使用 Rust 代码]]></title>
     <published>2025-01-23T16:00:00+00:00</published>
     <updated>2025-01-23T16:00:00+00:00</updated>
