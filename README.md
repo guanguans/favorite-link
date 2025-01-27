@@ -107,6 +107,9 @@
 
 
 
+
+### January 27, 2025 
+- [chevere/workflow: PHP 库，用于定义和执行具有并行处理功能的工作流。允许创建具有依赖关系、条件执行和变量注入的复杂任务链。](https://github.com/chevere/workflow) 
 ### January 26, 2025 
 - [yassinebenaid/bunster: 将 shell 脚本编译为静态二进制文件。](https://github.com/yassinebenaid/bunster) 
 ### January 25, 2025 
