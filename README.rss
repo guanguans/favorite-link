@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 25 Jan 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 26 Jan 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>chevere/workflow: PHP 库，用于定义和执行具有并行处理功能的工作流。允许创建具有依赖关系、条件执行和变量注入的复杂任务链。</title>
+      <pubDate>Sun, 26 Jan 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/chevere/workflow</link>
+      <guid>https://github.com/chevere/workflow</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/chevere/workflow" target="_blank">chevere/workflow: PHP 库，用于定义和执行具有并行处理功能的工作流。允许创建具有依赖关系、条件执行和变量注入的复杂任务链。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/chevere/workflow" target="_blank">https://github.com/chevere/workflow</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>yassinebenaid/bunster: 将 shell 脚本编译为静态二进制文件。</title>
       <pubDate>Sat, 25 Jan 2025 16:00:00 +0000</pubDate>
