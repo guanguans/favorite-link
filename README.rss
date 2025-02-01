@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite 的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。</title>
+      <pubDate>Fri, 31 Jan 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/loupe-php/loupe</link>
+      <guid>https://github.com/loupe-php/loupe</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/loupe-php/loupe" target="_blank">loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite 的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/loupe-php/loupe" target="_blank">https://github.com/loupe-php/loupe</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器</title>
       <pubDate>Tue, 28 Jan 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/mstange/samply</link>

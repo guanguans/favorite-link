@@ -31,6 +31,23 @@ Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite 的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。]]></title>
+    <published>2025-01-31T08:00:00+00:00</published>
+    <updated>2025-01-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/loupe-php/loupe"/>
+    <id>https://github.com/loupe-php/loupe</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/loupe-php/loupe" target="_blank">loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite
+的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/loupe-php/loupe" target="_blank">https://github.com/loupe-php/loupe</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器]]></title>
     <published>2025-01-28T16:00:00+00:00</published>
     <updated>2025-01-28T16:00:00+00:00</updated>
