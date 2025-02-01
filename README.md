@@ -115,6 +115,7 @@
 - [loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite 的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。](https://github.com/loupe-php/loupe) 
 - [carthage-software/mago: Mago 是一个 PHP 工具链，旨在提供一组工具来帮助开发人员编写更好的代码。](https://github.com/carthage-software/mago) 
 - [smoqadam/pvm: 一个简单的 bash 脚本，用于管理 Linux 和 macOS 上的多个 PHP 版本。](https://github.com/smoqadam/pvm) 
+- [xepozz/meta-storm-idea-plugin: MetaStorm 将使您的 IDE 以前所未有的方式交互](https://github.com/xepozz/meta-storm-idea-plugin) 
 ### January 29, 2025 
 - [mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器](https://github.com/mstange/samply) 
 ### January 27, 2025 
