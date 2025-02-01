@@ -113,6 +113,7 @@
 ### February 1, 2025 
 - [hiddify/hiddify-app: 多平台自动代理客户端，支持 Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH 等。它是一个开源、安全且无广告的。](https://github.com/hiddify/hiddify-app) 
 - [loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite 的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。](https://github.com/loupe-php/loupe) 
+- [carthage-software/mago: Mago 是一个 PHP 工具链，旨在提供一组工具来帮助开发人员编写更好的代码。](https://github.com/carthage-software/mago) 
 ### January 29, 2025 
 - [mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器](https://github.com/mstange/samply) 
 ### January 27, 2025 
