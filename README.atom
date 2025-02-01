@@ -99,6 +99,41 @@ Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[buggregator/phpstorm-plugin: 该插件将 Buggregator 集成到 JetBrains IDE 中，让您能够轻松调试代码。现在，您无需切换到另一个窗口或屏幕来查看转储，然后返回运行测试。一切都摆在您面前，所有的捷径都有效。]]></title>
+    <published>2025-01-30T00:00:00+00:00</published>
+    <updated>2025-01-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/buggregator/phpstorm-plugin"/>
+    <id>https://github.com/buggregator/phpstorm-plugin</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/buggregator/phpstorm-plugin" target="_blank">buggregator/phpstorm-plugin: 该插件将 Buggregator 集成到
+JetBrains IDE
+中，让您能够轻松调试代码。现在，您无需切换到另一个窗口或屏幕来查看转储，然后返回运行测试。一切都摆在您面前，所有的捷径都有效。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/buggregator/phpstorm-plugin" target="_blank">https://github.com/buggregator/phpstorm-plugin</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[xepozz/crontab-intellij-plugin: Cron 和 Crontab 支持的公共存储库 Intellij 插件]]></title>
+    <published>2025-01-29T16:00:00+00:00</published>
+    <updated>2025-01-29T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/xepozz/crontab-intellij-plugin"/>
+    <id>https://github.com/xepozz/crontab-intellij-plugin</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/xepozz/crontab-intellij-plugin" target="_blank">xepozz/crontab-intellij-plugin: Cron 和 Crontab 支持的公共存储库
+Intellij 插件</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/xepozz/crontab-intellij-plugin" target="_blank">https://github.com/xepozz/crontab-intellij-plugin</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器]]></title>
     <published>2025-01-28T16:00:00+00:00</published>
     <updated>2025-01-28T16:00:00+00:00</updated>
