@@ -65,6 +65,23 @@ Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[smoqadam/pvm: 一个简单的 bash 脚本，用于管理 Linux 和 macOS 上的多个 PHP 版本。]]></title>
+    <published>2025-01-30T16:00:00+00:00</published>
+    <updated>2025-01-30T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/smoqadam/pvm"/>
+    <id>https://github.com/smoqadam/pvm</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/smoqadam/pvm" target="_blank">smoqadam/pvm: 一个简单的 bash 脚本，用于管理 Linux 和 macOS 上的多个 PHP
+版本。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/smoqadam/pvm" target="_blank">https://github.com/smoqadam/pvm</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器]]></title>
     <published>2025-01-28T16:00:00+00:00</published>
     <updated>2025-01-28T16:00:00+00:00</updated>
