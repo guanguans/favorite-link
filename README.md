@@ -117,6 +117,7 @@
 - [smoqadam/pvm: 一个简单的 bash 脚本，用于管理 Linux 和 macOS 上的多个 PHP 版本。](https://github.com/smoqadam/pvm) 
 - [xepozz/meta-storm-idea-plugin: MetaStorm 将使您的 IDE 以前所未有的方式交互](https://github.com/xepozz/meta-storm-idea-plugin) 
 - [buggregator/phpstorm-plugin: 该插件将 Buggregator 集成到 JetBrains IDE 中，让您能够轻松调试代码。现在，您无需切换到另一个窗口或屏幕来查看转储，然后返回运行测试。一切都摆在您面前，所有的捷径都有效。](https://github.com/buggregator/phpstorm-plugin) 
+- [xepozz/crontab-intellij-plugin: Cron 和 Crontab 支持的公共存储库Intellij插件](https://github.com/xepozz/crontab-intellij-plugin) 
 ### January 29, 2025 
 - [mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器](https://github.com/mstange/samply) 
 ### January 27, 2025 
