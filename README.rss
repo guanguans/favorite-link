@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 28 Jan 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 31 Jan 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>hiddify/hiddify-app: 多平台自动代理客户端，支持 Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH 等。它是一个开源、安全且无广告的。</title>
+      <pubDate>Fri, 31 Jan 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/hiddify/hiddify-app</link>
+      <guid>https://github.com/hiddify/hiddify-app</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/hiddify/hiddify-app" target="_blank">hiddify/hiddify-app: 多平台自动代理客户端，支持 Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH 等。它是一个开源、安全且无广告的。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/hiddify/hiddify-app" target="_blank">https://github.com/hiddify/hiddify-app</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器</title>
       <pubDate>Tue, 28 Jan 2025 16:00:00 +0000</pubDate>
