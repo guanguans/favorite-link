@@ -109,6 +109,9 @@
 
 
 
+
+### February 1, 2025 
+- [hiddify/hiddify-app: 多平台自动代理客户端，支持 Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH 等。它是一个开源、安全且无广告的。](https://github.com/hiddify/hiddify-app) 
 ### January 29, 2025 
 - [mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器](https://github.com/mstange/samply) 
 ### January 27, 2025 
