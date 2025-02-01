@@ -101,6 +101,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>构建可维护的 PHP 应用程序：数据传输对象</title>
+      <pubDate>Wed, 29 Jan 2025 08:00:00 +0000</pubDate>
+      <link>https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects</link>
+      <guid>https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects</guid>
+      <content:encoded><![CDATA[<a href="https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects" target="_blank">构建可维护的 PHP 应用程序：数据传输对象</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects" target="_blank">https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器</title>
       <pubDate>Tue, 28 Jan 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/mstange/samply</link>

@@ -134,6 +134,22 @@ Intellij 插件</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[构建可维护的 PHP 应用程序：数据传输对象]]></title>
+    <published>2025-01-29T08:00:00+00:00</published>
+    <updated>2025-01-29T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects"/>
+    <id>https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects" target="_blank">构建可维护的 PHP 应用程序：数据传输对象</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects" target="_blank">https://davorminchorov.com/articles/building-maintainable-php-applications-data-transfer-objects</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mstange/samply: 适用于 macOS 和 Linux 的命令行采样剖析器]]></title>
     <published>2025-01-28T16:00:00+00:00</published>
     <updated>2025-01-28T16:00:00+00:00</updated>
