@@ -110,6 +110,9 @@
 
 
 
+
+### February 2, 2025 
+- [stalwartlabs/mail-server: 安全且现代的一体化邮件服务器（IMAP、JMAP、POP3、SMTP）](https://github.com/stalwartlabs/mail-server) 
 ### February 1, 2025 
 - [hiddify/hiddify-app: 多平台自动代理客户端，支持 Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH 等。它是一个开源、安全且无广告的。](https://github.com/hiddify/hiddify-app) 
 - [loupe-php/loupe: 一个全文搜索引擎，具有仅基于 PHP 和 SQLite 的词汇切分、词干提取、拼写错误容忍度、过滤器和地理支持。](https://github.com/loupe-php/loupe) 
