@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 31 Jan 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 01 Feb 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>stalwartlabs/mail-server: 安全且现代的一体化邮件服务器 (IMAP、JMAP、POP3、SMTP)</title>
+      <pubDate>Sat, 01 Feb 2025 16:00:00 +0000</pubDate>
+      <link>IMAP、JMAP、POP3、SMTP)](https://github.com/stalwartlabs/mail-server</link>
+      <guid isPermaLink="false">IMAP、JMAP、POP3、SMTP)](https://github.com/stalwartlabs/mail-server</guid>
+      <content:encoded><![CDATA[<a href="IMAP、JMAP、POP3、SMTP)](https://github.com/stalwartlabs/mail-server" target="_blank">stalwartlabs/mail-server: 安全且现代的一体化邮件服务器 (IMAP、JMAP、POP3、SMTP)</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="IMAP、JMAP、POP3、SMTP)](https://github.com/stalwartlabs/mail-server" target="_blank">IMAP、JMAP、POP3、SMTP)](https://github.com/stalwartlabs/mail-server</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>hiddify/hiddify-app: 多平台自动代理客户端，支持 Sing-box、X-ray、TUIC、Hysteria、Reality、Trojan、SSH 等。它是一个开源、安全且无广告的。</title>
       <pubDate>Fri, 31 Jan 2025 16:00:00 +0000</pubDate>
