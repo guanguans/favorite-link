@@ -114,6 +114,7 @@
 
 ### February 4, 2025 
 - [AutomaApp/automa: 一个浏览器扩展，用于通过连接块来自动化您的浏览器](https://github.com/AutomaApp/automa) 
+- [tmdh/laravel-kit: 桌面 Laravel 管理面板应用程序](https://github.com/tmdh/laravel-kit) 
 ### February 2, 2025 
 - [stalwartlabs/mail-server: 安全且现代的一体化邮件服务器 (IMAP、JMAP、POP3、SMTP)](https://github.com/stalwartlabs/mail-server) 
 ### February 1, 2025 
