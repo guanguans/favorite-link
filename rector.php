@@ -50,7 +50,7 @@ return static function (RectorConfig $rectorConfig): void {
     $rectorConfig->parallel(240);
     // $rectorConfig->disableParallel();
     // $rectorConfig->phpstanConfig(__DIR__.'/phpstan.neon');
-    $rectorConfig->phpVersion(PhpVersion::PHP_83);
+    $rectorConfig->phpVersion(PhpVersion::PHP_84);
     // $rectorConfig->cacheClass(FileCacheStorage::class);
     // $rectorConfig->cacheDirectory(__DIR__.'/.build/rector');
     // $rectorConfig->containerCacheDirectory(__DIR__.'/.build/rector');
@@ -117,8 +117,8 @@ return static function (RectorConfig $rectorConfig): void {
     ]);
 
     $rectorConfig->sets([
-        // DowngradeLevelSetList::DOWN_TO_PHP_83,
-        LevelSetList::UP_TO_PHP_83,
+        // DowngradeLevelSetList::DOWN_TO_PHP_84,
+        LevelSetList::UP_TO_PHP_84,
         SetList::CODE_QUALITY,
         SetList::CODING_STYLE,
         SetList::DEAD_CODE,
