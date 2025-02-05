@@ -22,7 +22,7 @@
         "source": "https://github.com/laravel-zero/laravel-zero"
     },
     "require": {
-        "php": "^8.3",
+        "php": "^8.4",
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^12.6",
         "illuminate/validation": "^11.41",
@@ -120,11 +120,11 @@
         "composer-bin-all-update": "@composer bin all update --ansi -v",
         "composer-check-platform-reqs": "@composer check-platform-reqs --lock --ansi -v",
         "composer-normalize": "@composer normalize --dry-run --diff --ansi -v",
-        "composer-updater": "@php ./composer-updater --highest-php-binary=/opt/homebrew/opt/php@8.3/bin/php --except-packages=pestphp/pest-plugin-laravel --ansi",
+        "composer-updater": "@php ./composer-updater --highest-php-binary=/opt/homebrew/opt/php@8.4/bin/php --except-packages=pestphp/pest-plugin-laravel --ansi",
         "composer-updater-dry-run": "@composer-updater --dry-run",
         "composer-validate": "@composer validate --check-lock --strict --ansi -v",
         "facade-lint": "@facade-update --lint",
-        "facade-update": "/opt/homebrew/opt/php@8.3/bin/php -f ./facade.php -- App\\\\Facades\\\\Music",
+        "facade-update": "/opt/homebrew/opt/php@8.4/bin/php -f ./facade.php -- App\\\\Facades\\\\Music",
         "json-lint": "@php ./vendor/bin/jsonlint *.json .*rc",
         "lint": [
             "for DIR in .; do find $DIR -maxdepth 1 -type f -name '*.php' -type f ! -name 'xxx.php' -exec php -l {} \\; 2>&1 | (! grep -v '^No syntax errors detected'); done",
