@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-02-03T16:00:00+00:00</updated>
+  <updated>2025-02-04T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,42 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和 Mail) 并处理 php 错误和异常。]]></title>
+    <published>2025-02-04T16:00:00+00:00</published>
+    <updated>2025-02-04T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule"/>
+    <id>DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="DB%20%E5%92%8C%20Mail)%20%E5%B9%B6%E5%A4%84%E7%90%86%20php%20%E9%94%99%E8%AF%AF%E5%92%8C%E5%BC%82%E5%B8%B8%E3%80%82](https://github.com/samsonasik/ErrorHeroModule" target="_blank">samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend
+Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和
+Mail) 并处理 php 错误和异常。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="DB%20%E5%92%8C%20Mail)%20%E5%B9%B6%E5%A4%84%E7%90%86%20php%20%E9%94%99%E8%AF%AF%E5%92%8C%E5%BC%82%E5%B8%B8%E3%80%82](https://github.com/samsonasik/ErrorHeroModule" target="_blank">DB 和 Mail) 并处理 php
+错误和异常。](https://github.com/samsonasik/ErrorHeroModule</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[samsonasik/ArrayLookup: 🚀 一个快速查找库，可帮助您验证和搜索数组和 Traversable 数据。]]></title>
+    <published>2025-02-04T08:00:00+00:00</published>
+    <updated>2025-02-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/samsonasik/ArrayLookup"/>
+    <id>https://github.com/samsonasik/ArrayLookup</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/samsonasik/ArrayLookup" target="_blank">samsonasik/ArrayLookup: 🚀 一个快速查找库，可帮助您验证和搜索数组和 Traversable
+数据。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/samsonasik/ArrayLookup" target="_blank">https://github.com/samsonasik/ArrayLookup</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[AutomaApp/automa: 一个浏览器扩展，用于通过连接块来自动化您的浏览器]]></title>
     <published>2025-02-03T16:00:00+00:00</published>

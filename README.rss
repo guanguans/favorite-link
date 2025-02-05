@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 03 Feb 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 04 Feb 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和 Mail) 并处理 php 错误和异常。</title>
+      <pubDate>Tue, 04 Feb 2025 16:00:00 +0000</pubDate>
+      <link>DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule</link>
+      <guid isPermaLink="false">DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule</guid>
+      <content:encoded><![CDATA[<a href="DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule" target="_blank">samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和 Mail) 并处理 php 错误和异常。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule" target="_blank">DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>samsonasik/ArrayLookup: 🚀 一个快速查找库，可帮助您验证和搜索数组和 Traversable 数据。</title>
+      <pubDate>Tue, 04 Feb 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/samsonasik/ArrayLookup</link>
+      <guid>https://github.com/samsonasik/ArrayLookup</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/samsonasik/ArrayLookup" target="_blank">samsonasik/ArrayLookup: 🚀 一个快速查找库，可帮助您验证和搜索数组和 Traversable 数据。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/samsonasik/ArrayLookup" target="_blank">https://github.com/samsonasik/ArrayLookup</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>AutomaApp/automa: 一个浏览器扩展，用于通过连接块来自动化您的浏览器</title>
       <pubDate>Mon, 03 Feb 2025 16:00:00 +0000</pubDate>
