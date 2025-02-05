@@ -64,12 +64,12 @@ $status = (new SingleCommandApplication)
              * @noinspection ParameterDefaultsNullInspection
              */
             public function __construct(
-                private string $composerJsonPath,
+                private readonly string $composerJsonPath,
                 ?string $highestPhpBinary = null,
                 ?string $composerBinary = null,
                 array $exceptPackages = [],
                 array $exceptDependencyVersions = [],
-                private bool $dryRun = false,
+                private readonly bool $dryRun = false,
                 ?SymfonyStyle $symfonyStyle = null,
                 ?Differ $differ = null
             ) {
@@ -93,6 +93,9 @@ $status = (new SingleCommandApplication)
                 $this->differ = $differ ?? new Differ(new UnifiedDiffOutputBuilder("--- Original\n+++ New\n", true));
             }
 
+            /**
+             * @noinspection NullPointerExceptionInspection
+             */
             public function __invoke(): void
             {
                 $this
@@ -157,7 +160,7 @@ $status = (new SingleCommandApplication)
             {
                 $outdatedComposerPackages = $this->getOutdatedComposerPackages();
                 $decodedComposerJson = json_decode(file_get_contents($this->composerJsonPath), true);
-                (fn () => self::reload(null))->call(new InstalledVersions);
+                InstalledVersions::reload([]);
 
                 foreach ($decodedComposerJson as $name => &$value) {
                     if (!\in_array($name, ['require', 'require-dev'], true)) {
@@ -192,9 +195,12 @@ $status = (new SingleCommandApplication)
             {
                 return array_reduce(
                     json_decode(
-                        $this
-                            ->mustRunCommand("$this->highestComposerBinary outdated --format=json --direct --ansi")
-                            ->getOutput(),
+                        substr(
+                            $output = $this
+                                ->mustRunCommand("$this->highestComposerBinary outdated --format=json --direct --ansi")
+                                ->getOutput(),
+                            strpos($output, '{')
+                        ),
                         true
                     )['installed'],
                     function (array $carry, array $package): array {
@@ -203,10 +209,10 @@ $status = (new SingleCommandApplication)
                         $dependencyVersions = [$this->toDependencyVersion($package['version'])];
 
                         if ($lowestArrayVersion[0] !== $highestArrayVersion[0]) {
-                            $dependencyVersions = array_merge($dependencyVersions, array_map(
+                            $dependencyVersions = [...$dependencyVersions, ...array_map(
                                 static fn (string $major): string => "^$major.0",
                                 range($lowestArrayVersion[0] + 1, $highestArrayVersion[0])
-                            ));
+                            )];
                         }
 
                         $package['dependency_version'] = implode(' || ', $dependencyVersions);
@@ -228,7 +234,6 @@ $status = (new SingleCommandApplication)
             }
 
             /**
-             * @noinspection MissingParameterTypeDeclarationInspection
              * @noinspection PhpSameParameterValueInspection
              *
              * @param mixed $input The input as stream resource, scalar or \Traversable, or null for no input
@@ -267,7 +272,6 @@ $status = (new SingleCommandApplication)
             /**
              * @noinspection SuspiciousLoopInspection
              * @noinspection ComparisonScalarOrderInspection
-             * @noinspection MissingParameterTypeDeclarationInspection
              */
             private function strIs(array|string $pattern, string $value): bool
             {
@@ -302,19 +306,17 @@ $status = (new SingleCommandApplication)
                     $diff,
                 );
 
-                $formatted = array_map(static function (string $line): string {
-                    return preg_replace(
-                        [
-                            '/^(\+.*)$/',
-                            '/^(-.*)$/',
-                        ],
-                        [
-                            '<fg=green>$1</>',
-                            '<fg=red>$1</>',
-                        ],
-                        $line,
-                    );
-                }, $lines);
+                $formatted = array_map(static fn (string $line): string => preg_replace(
+                    [
+                        '/^(\+.*)$/',
+                        '/^(-.*)$/',
+                    ],
+                    [
+                        '<fg=green>$1</>',
+                        '<fg=red>$1</>',
+                    ],
+                    $line,
+                ), $lines);
 
                 return implode(
                     "\n",
