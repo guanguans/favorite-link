@@ -14,6 +14,7 @@
 - [samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule) 
 - [samsonasik/ArrayLookup: 🚀 一个快速查找库，可帮助您验证和搜索数组和 Traversable 数据。](https://github.com/samsonasik/ArrayLookup) 
 - [samsonasik/ForceHttpsModule: 🔗 用于在 Zend Framework/Laminas Mvc 和 ZF Expressive/Mezzio 应用程序中强制 https 的可配置模块。](https://github.com/samsonasik/ForceHttpsModule) 
+- [cline/cline: IDE 中的自主编码代理，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。](https://github.com/cline/cline) 
 ### February 4, 2025 
 - [AutomaApp/automa: 一个浏览器扩展，用于通过连接块来自动化您的浏览器](https://github.com/AutomaApp/automa) 
 - [tmdh/laravel-kit: 桌面 Laravel 管理面板应用程序](https://github.com/tmdh/laravel-kit) 
