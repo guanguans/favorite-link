@@ -99,8 +99,14 @@
             "@composer-bin-all-update"
         ],
         "post-autoload-dump": [],
-        "ai-commit": "@php ./vendor/bin/ai-commit commit --generator=bito_cli --ansi",
-        "ai-commit-no-verify": "@ai-commit --commit-options=--no-verify",
+        "ai-commit": "@php ./vendor/bin/ai-commit commit --ansi",
+        "ai-commit-bito": "@ai-commit --generator=bito_cli",
+        "ai-commit-bito-no-verify": "@ai-commit-bito --no-verify",
+        "ai-commit-github-copilot": "@ai-commit --generator=github_copilot_cli",
+        "ai-commit-github-copilot-no-verify": "@ai-commit-github-copilot --no-verify",
+        "ai-commit-github-models": "@ai-commit --generator=github_models_cli",
+        "ai-commit-github-models-no-verify": "@ai-commit-github-models --no-verify",
+        "ai-commit-no-verify": "@ai-commit --no-verify",
         "cghooks": "@php ./vendor/bin/cghooks --ansi -v",
         "checks": [
             "@composer-normalize",

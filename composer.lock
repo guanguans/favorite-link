@@ -8525,12 +8525,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guanguans/ai-commit.git",
-                "reference": "5179b266f1780122d580b65cbde85967f1665ba6"
+                "reference": "8581e4514d1b61068ac2e15182ff33da0e8d6ec4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guanguans/ai-commit/zipball/5179b266f1780122d580b65cbde85967f1665ba6",
-                "reference": "5179b266f1780122d580b65cbde85967f1665ba6",
+                "url": "https://api.github.com/repos/guanguans/ai-commit/zipball/8581e4514d1b61068ac2e15182ff33da0e8d6ec4",
+                "reference": "8581e4514d1b61068ac2e15182ff33da0e8d6ec4",
                 "shasum": ""
             },
             "require": {
@@ -8549,7 +8549,7 @@
                 "laravel-zero/framework": "^8.10 || ^9.0 || ^10.0 || ^11.0",
                 "laravel-zero/phar-updater": "^1.1",
                 "mockery/mockery": "^1.6",
-                "pestphp/pest": "^1.23 || ^2.0",
+                "pestphp/pest": "^1.23 || ^2.0 || ^3.0",
                 "php-mock/php-mock-phpunit": "^2.10"
             },
             "default-branch": true,
@@ -8558,14 +8558,6 @@
             ],
             "type": "project",
             "extra": {
-                "bamarni-bin": {
-                    "bin-links": true,
-                    "forward-command": true,
-                    "target-directory": "vendor-bin"
-                },
-                "branch-alias": {
-                    "dev-main": "1.x-dev"
-                },
                 "hooks": {
                     "post-merge": [
                         "composer checks"
@@ -8576,6 +8568,14 @@
                 },
                 "phpstan": {
                     "includes": []
+                },
+                "bamarni-bin": {
+                    "bin-links": true,
+                    "forward-command": true,
+                    "target-directory": "vendor-bin"
+                },
+                "branch-alias": {
+                    "dev-main": "1.x-dev"
                 }
             },
             "autoload": {
@@ -8606,22 +8606,32 @@
             "homepage": "https://github.com/guanguans/ai-commit",
             "keywords": [
                 "ChatGpt",
-                "ERNIE Bot",
                 "ai",
                 "bito",
+                "bot",
                 "changelog",
                 "chat",
+                "cli",
                 "commit",
                 "commit-message",
                 "commitizen",
                 "commitlint",
                 "conventional",
                 "conventional-commit",
+                "copilot",
                 "diff",
+                "ernie",
+                "gh",
+                "gh-models",
                 "git",
                 "git-diff",
+                "github",
                 "gpt",
                 "keepachangelog",
+                "kimi",
+                "model",
+                "models",
+                "moonshot",
                 "openai",
                 "文心一言"
             ],
@@ -8635,7 +8645,7 @@
                     "type": "wechat"
                 }
             ],
-            "time": "2024-09-16T22:02:35+00:00"
+            "time": "2025-01-30T21:51:57+00:00"
         },
         {
             "name": "hamcrest/hamcrest-php",
@@ -13221,6 +13231,6 @@
     "platform": {
         "php": "^8.3"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
