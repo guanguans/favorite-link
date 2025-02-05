@@ -144,6 +144,15 @@
         ],
         "psalm": "@php ./vendor/bin/psalm",
         "psalm-baseline": "@psalm --update-baseline",
+        "putenvs": [
+            "@putenv PHP73=/opt/homebrew/opt/php@7.3/bin/php",
+            "@putenv PHP74=/opt/homebrew/opt/php@7.4/bin/php",
+            "@putenv PHP80=/opt/homebrew/opt/php@8.0/bin/php",
+            "@putenv PHP81=/opt/homebrew/opt/php@8.1/bin/php",
+            "@putenv PHP82=/opt/homebrew/opt/php@8.2/bin/php",
+            "@putenv PHP83=/opt/homebrew/opt/php@8.3/bin/php",
+            "@putenv PHP_CS_FIXER_IGNORE_ENV=1"
+        ],
         "readme-fix": [
             "@md-fix",
             "@zh-fix"
@@ -157,7 +166,10 @@
         "release-minor-dry-run": "@release-minor --dry-run",
         "release-patch": "@release patch",
         "release-patch-dry-run": "@release-patch --dry-run",
-        "style-fix": "@php ./vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.php --show-progress=dots --diff --ansi -v",
+        "style-fix": [
+            "@putenvs",
+            "@php ./vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.php --show-progress=dots --diff --ansi -v"
+        ],
         "style-lint": "@style-fix --dry-run",
         "test": "@pest",
         "test-coverage": "@pest-coverage",
