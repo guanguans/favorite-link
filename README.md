@@ -112,6 +112,9 @@
 
 
 
+
+### February 5, 2025 
+- [samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的Zend Framework/Laminas和Expressive/Mezzio应用程序在Mvc过程中/请求和响应之间记录（DB和Mail）并处理php错误和异常。](https://github.com/samsonasik/ErrorHeroModule) 
 ### February 4, 2025 
 - [AutomaApp/automa: 一个浏览器扩展，用于通过连接块来自动化您的浏览器](https://github.com/AutomaApp/automa) 
 - [tmdh/laravel-kit: 桌面 Laravel 管理面板应用程序](https://github.com/tmdh/laravel-kit) 
