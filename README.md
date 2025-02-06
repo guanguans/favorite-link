@@ -13,6 +13,7 @@
 
 ### February 6, 2025 
 - [meanmail-dev/nginx-intellij-plugin: Intellij Plugin for Nginx 配置文件](https://github.com/meanmail-dev/nginx-intellij-plugin) 
+- [carlrobertoh/CodeGPT: 适用于 JetBrains 的领先开源 AI 副驾驶。连接到任何环境中的任何模型，并以您喜欢的任何方式自定义您的编码体验。](https://github.com/carlrobertoh/CodeGPT) 
 ### February 5, 2025 
 - [samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和 Mail) 并处理 php 错误和异常。](https://github.com/samsonasik/ErrorHeroModule) 
 - [samsonasik/ArrayLookup: 🚀 一个快速查找库，可帮助您验证和搜索数组和 Traversable 数据。](https://github.com/samsonasik/ArrayLookup) 
