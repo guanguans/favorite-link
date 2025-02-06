@@ -30,6 +30,23 @@ for Nginx 配置文件</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[carlrobertoh/CodeGPT: 适用于 JetBrains 的领先开源 AI 副驾驶。连接到任何环境中的任何模型，并以您喜欢的任何方式自定义您的编码体验。]]></title>
+    <published>2025-02-05T08:00:00+00:00</published>
+    <updated>2025-02-05T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/carlrobertoh/CodeGPT"/>
+    <id>https://github.com/carlrobertoh/CodeGPT</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/carlrobertoh/CodeGPT" target="_blank">carlrobertoh/CodeGPT: 适用于 JetBrains 的领先开源 AI
+副驾驶。连接到任何环境中的任何模型，并以您喜欢的任何方式自定义您的编码体验。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/carlrobertoh/CodeGPT" target="_blank">https://github.com/carlrobertoh/CodeGPT</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[samsonasik/ErrorHeroModule: 💎 一个英雄，用于您的 Zend Framework/Laminas 和 Expressive/Mezzio 应用程序在 Mvc 过程中/请求和响应之间记录 (DB 和 Mail) 并处理 php 错误和异常。]]></title>
     <published>2025-02-04T16:00:00+00:00</published>
     <updated>2025-02-04T16:00:00+00:00</updated>
