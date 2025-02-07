@@ -14,6 +14,7 @@
 
 ### February 7, 2025 
 - [jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。](https://github.com/jonathanlermitage/ij-ilove-devtoys) 
+- [behastan/behastan: 用于 Behat 检验的 Modren 静态分析](https://github.com/behastan/behastan) 
 ### February 6, 2025 
 - [meanmail-dev/nginx-intellij-plugin: Intellij Plugin for Nginx 配置文件](https://github.com/meanmail-dev/nginx-intellij-plugin) 
 - [carlrobertoh/CodeGPT: 适用于 JetBrains 的领先开源 AI 副驾驶。连接到任何环境中的任何模型，并以您喜欢的任何方式自定义您的编码体验。](https://github.com/carlrobertoh/CodeGPT) 
