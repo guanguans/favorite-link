@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 05 Feb 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 06 Feb 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。</title>
+      <pubDate>Thu, 06 Feb 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/jonathanlermitage/ij-ilove-devtoys</link>
+      <guid>https://github.com/jonathanlermitage/ij-ilove-devtoys</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jonathanlermitage/ij-ilove-devtoys" target="_blank">jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jonathanlermitage/ij-ilove-devtoys" target="_blank">https://github.com/jonathanlermitage/ij-ilove-devtoys</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>meanmail-dev/nginx-intellij-plugin: Intellij Plugin for Nginx 配置文件</title>
       <pubDate>Wed, 05 Feb 2025 16:00:00 +0000</pubDate>
