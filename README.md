@@ -21,6 +21,7 @@
 - [Mahmoud-Italy/laraotel-opentelemetry-laravel: 此软件包提供了一种简单的方法，可以使用从 OpenTelemetry Otel 到 Laravel 应用程序的遥测来测量作业和服务的性能。](https://github.com/Mahmoud-Italy/laraotel-opentelemetry-laravel) 
 - [packistry/packistry: 用于 PHP 软件包的开源、自托管、Composer 存储库](https://github.com/packistry/packistry) 
 - [maantje/pulse-database: 用于数据库状态的 Laravel Pulse 卡](https://github.com/maantje/pulse-database) 
+- [maantje/pulse-php-fpm: 适用于 Laravel Pulse 的 PHP FPM 状态卡](https://github.com/maantje/pulse-php-fpm) 
 ### February 7, 2025 
 - [jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。](https://github.com/jonathanlermitage/ij-ilove-devtoys) 
 - [behastan/behastan: 用于 Behat 检验的 Modren 静态分析](https://github.com/behastan/behastan) 
