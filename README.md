@@ -27,6 +27,7 @@
 - [BenMorel/weakmap-polyfill: 用于 PHP 7.4 的 WeakMap polyfill](https://github.com/BenMorel/weakmap-polyfill) 
 - [abreksa4/mysql-escape-string-polyfill: 对于非常有限的用例来说，一个非常不安全的 mysql_escape_string 实现](https://github.com/abreksa4/mysql-escape-string-polyfill) 
 - [roukmoute/polyfill-calendar: Calendar 扩展的 PHP Polyfill](https://github.com/roukmoute/polyfill-calendar) 
+- [ChristiaanBye/polyfill-each: PHP 8.x polyfill 用于已删除的 each（） 函数](https://github.com/ChristiaanBye/polyfill-each) 
 ### February 7, 2025 
 - [jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。](https://github.com/jonathanlermitage/ij-ilove-devtoys) 
 - [behastan/behastan: 用于 Behat 检验的 Modren 静态分析](https://github.com/behastan/behastan) 
