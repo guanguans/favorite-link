@@ -22,6 +22,7 @@
 - [packistry/packistry: 用于 PHP 软件包的开源、自托管、Composer 存储库](https://github.com/packistry/packistry) 
 - [maantje/pulse-database: 用于数据库状态的 Laravel Pulse 卡](https://github.com/maantje/pulse-database) 
 - [maantje/pulse-php-fpm: 适用于 Laravel Pulse 的 PHP FPM 状态卡](https://github.com/maantje/pulse-php-fpm) 
+- [Yoast/PHPUnit-Polyfills: 一组 polyfill，用于更改 PHPUnit 功能，允许创建 PHPUnit 跨版本兼容测试](https://github.com/Yoast/PHPUnit-Polyfills) 
 ### February 7, 2025 
 - [jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。](https://github.com/jonathanlermitage/ij-ilove-devtoys) 
 - [behastan/behastan: 用于 Behat 检验的 Modren 静态分析](https://github.com/behastan/behastan) 
