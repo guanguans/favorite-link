@@ -25,7 +25,7 @@
 - [Yoast/PHPUnit-Polyfills: 一组 polyfill，用于更改 PHPUnit 功能，允许创建 PHPUnit 跨版本兼容测试](https://github.com/Yoast/PHPUnit-Polyfills) 
 - [php-ds/polyfill: PHP 的数据结构](https://github.com/php-ds/polyfill) 
 - [BenMorel/weakmap-polyfill: 用于 PHP 7.4 的 WeakMap polyfill](https://github.com/BenMorel/weakmap-polyfill) 
-- [abreksa4/mysql-escape-string-polyfill: 对于非常有限的用例来说，一个非常不安全的mysql_escape_string实现](https://github.com/abreksa4/mysql-escape-string-polyfill) 
+- [abreksa4/mysql-escape-string-polyfill: 对于非常有限的用例来说，一个非常不安全的 mysql_escape_string 实现](https://github.com/abreksa4/mysql-escape-string-polyfill) 
 ### February 7, 2025 
 - [jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。](https://github.com/jonathanlermitage/ij-ilove-devtoys) 
 - [behastan/behastan: 用于 Behat 检验的 Modren 静态分析](https://github.com/behastan/behastan) 
