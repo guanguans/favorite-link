@@ -179,6 +179,23 @@ PHPUnit 跨版本兼容测试</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[BenMorel/weakmap-polyfill: 用于 PHP 7.4 的 WeakMap polyfill]]></title>
+    <published>2025-02-04T08:00:00+00:00</published>
+    <updated>2025-02-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BenMorel/weakmap-polyfill"/>
+    <id>https://github.com/BenMorel/weakmap-polyfill</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/BenMorel/weakmap-polyfill" target="_blank">BenMorel/weakmap-polyfill: 用于 PHP 7.4 的 WeakMap
+polyfill</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/BenMorel/weakmap-polyfill" target="_blank">https://github.com/BenMorel/weakmap-polyfill</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。]]></title>
     <published>2025-02-06T16:00:00+00:00</published>
     <updated>2025-02-06T16:00:00+00:00</updated>
