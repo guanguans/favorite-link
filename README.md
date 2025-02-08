@@ -15,6 +15,7 @@
 
 ### February 8, 2025 
 - [junstyle/vscode-php-cs-fixer: VS Code 的 PHP CS Fixer 扩展](https://github.com/junstyle/vscode-php-cs-fixer) 
+- [aniftyco/skeletor: 召唤 Skeletor 的仆从：一个 Composer 伴侣，通过每个“create-project”命令释放额外的功能。](https://github.com/aniftyco/skeletor) 
 ### February 7, 2025 
 - [jonathanlermitage/ij-ilove-devtoys: 基于 IntelliJ IDEA 的 IDE 插件，受到 DevToys 软件的高度启发，提供了哈希工具、多种数据转换和生成工具、转义工具、集合差异查看器等功能。](https://github.com/jonathanlermitage/ij-ilove-devtoys) 
 - [behastan/behastan: 用于 Behat 检验的 Modren 静态分析](https://github.com/behastan/behastan) 
