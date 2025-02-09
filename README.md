@@ -13,6 +13,9 @@
 
 
 
+
+### February 9, 2025 
+- [spatie/laravel-onboard: 一个 Laravel 包，用于帮助跟踪用户引导步骤](https://github.com/spatie/laravel-onboard) 
 ### February 8, 2025 
 - [junstyle/vscode-php-cs-fixer: VS Code 的 PHP CS Fixer 扩展](https://github.com/junstyle/vscode-php-cs-fixer) 
 - [aniftyco/skeletor: 召唤 Skeletor 的仆从：一个 Composer 伴侣，通过每个“create-project”命令释放额外的功能。](https://github.com/aniftyco/skeletor) 
