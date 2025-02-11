@@ -14,6 +14,9 @@
 
 
 
+
+### February 11, 2025 
+- [cars10/elasticvue: Elasticsearch GUI - 适用于桌面和您的浏览器](https://github.com/cars10/elasticvue) 
 ### February 9, 2025 
 - [spatie/laravel-onboard: 一个 Laravel 包，用于帮助跟踪用户引导步骤](https://github.com/spatie/laravel-onboard) 
 ### February 8, 2025 
