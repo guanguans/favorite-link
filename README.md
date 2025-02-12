@@ -17,7 +17,7 @@
 
 
 ### February 12, 2025 
-- [RightCapitalHQ/phpdoc-parser: 支持交集类型和泛型的下一代 PHPDoc 解析器（TypeScript 版本）](https://github.com/RightCapitalHQ/phpdoc-parser) 
+- [RightCapitalHQ/phpdoc-parser: 支持交集类型和泛型的下一代 PHPDoc 解析器 (TypeScript 版本)](https://github.com/RightCapitalHQ/phpdoc-parser) 
 ### February 11, 2025 
 - [cars10/elasticvue: Elasticsearch GUI - 适用于桌面和您的浏览器](https://github.com/cars10/elasticvue) 
 - [DirectoryTree/ImapEngine: 将 IMAP 邮箱交互集成到您的 PHP 应用程序中。](https://github.com/DirectoryTree/ImapEngine) 
