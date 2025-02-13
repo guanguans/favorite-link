@@ -20,6 +20,7 @@
 ### February 13, 2025 
 - [King2500/idea-php-advanced-autocomplete: PhpStorm IDE 插件。添加对各种内置 PHP 函数的自动完成支持，其中 parameter 是字符串文字。](https://github.com/King2500/idea-php-advanced-autocomplete) 
 - [aatrooox/imgx: 一行 URL 动态生成封面图](https://github.com/aatrooox/imgx) 
+- [CherryHQ/cherry-studio: 🍒 Cherry Studio 是一个桌面客户端，支持多个 LLM 提供程序。](https://github.com/CherryHQ/cherry-studio) 
 ### February 12, 2025 
 - [RightCapitalHQ/phpdoc-parser: 支持交集类型和泛型的下一代 PHPDoc 解析器 (TypeScript 版本)](https://github.com/RightCapitalHQ/phpdoc-parser) 
 - [turbanoff/RunConfigurationAsAction: 提供一种将 IntelliJ 运行配置用作按钮的方法](https://github.com/turbanoff/RunConfigurationAsAction) 
