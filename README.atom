@@ -30,6 +30,39 @@ IDE 插件。添加对各种内置 PHP 函数的自动完成支持，其中 para
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[aatrooox/imgx: 一行 URL 动态生成封面图]]></title>
+    <published>2025-02-12T08:00:00+00:00</published>
+    <updated>2025-02-12T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/aatrooox/imgx"/>
+    <id>https://github.com/aatrooox/imgx</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/aatrooox/imgx" target="_blank">aatrooox/imgx: 一行 URL 动态生成封面图</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/aatrooox/imgx" target="_blank">https://github.com/aatrooox/imgx</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[CherryHQ/cherry-studio: 🍒 Cherry Studio 是一个桌面客户端，支持多个 LLM 提供程序。]]></title>
+    <published>2025-02-12T00:00:00+00:00</published>
+    <updated>2025-02-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/CherryHQ/cherry-studio"/>
+    <id>https://github.com/CherryHQ/cherry-studio</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/CherryHQ/cherry-studio" target="_blank">CherryHQ/cherry-studio: 🍒 Cherry Studio 是一个桌面客户端，支持多个 LLM
+提供程序。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/CherryHQ/cherry-studio" target="_blank">https://github.com/CherryHQ/cherry-studio</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[RightCapitalHQ/phpdoc-parser: 支持交集类型和泛型的下一代 PHPDoc 解析器 (TypeScript 版本)]]></title>
     <published>2025-02-11T16:00:00+00:00</published>
     <updated>2025-02-11T16:00:00+00:00</updated>
