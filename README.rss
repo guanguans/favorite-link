@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 11 Feb 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 12 Feb 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>King2500/idea-php-advanced-autocomplete: PhpStorm IDE 插件。添加对各种内置 PHP 函数的自动完成支持，其中 parameter 是字符串文字。</title>
+      <pubDate>Wed, 12 Feb 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/King2500/idea-php-advanced-autocomplete</link>
+      <guid>https://github.com/King2500/idea-php-advanced-autocomplete</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/King2500/idea-php-advanced-autocomplete" target="_blank">King2500/idea-php-advanced-autocomplete: PhpStorm IDE 插件。添加对各种内置 PHP 函数的自动完成支持，其中 parameter 是字符串文字。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/King2500/idea-php-advanced-autocomplete" target="_blank">https://github.com/King2500/idea-php-advanced-autocomplete</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>RightCapitalHQ/phpdoc-parser: 支持交集类型和泛型的下一代 PHPDoc 解析器 (TypeScript 版本)</title>
       <pubDate>Tue, 11 Feb 2025 16:00:00 +0000</pubDate>
