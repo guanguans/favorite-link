@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mindplay-dk/php-vite: 一个用于 Vite 的轻量级 PHP 后端集成包]]></title>
+    <published>2025-02-15T08:00:00+00:00</published>
+    <updated>2025-02-15T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/mindplay-dk/php-vite"/>
+    <id>https://github.com/mindplay-dk/php-vite</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/mindplay-dk/php-vite" target="_blank">mindplay-dk/php-vite: 一个用于 Vite 的轻量级 PHP 后端集成包</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/mindplay-dk/php-vite" target="_blank">https://github.com/mindplay-dk/php-vite</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[christophrumpel/artisan-benchmark]]></title>
     <published>2025-02-14T16:00:00+00:00</published>
     <updated>2025-02-14T16:00:00+00:00</updated>
