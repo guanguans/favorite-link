@@ -22,6 +22,7 @@
 
 ### February 16, 2025 
 - [fusion-php/fusion: 将您的现代前端与 Laravel 后端相结合。](https://github.com/fusion-php/fusion) 
+- [mindplay-dk/php-vite: 一个用于 Vite 的轻量级 PHP 后端集成包](https://github.com/mindplay-dk/php-vite) 
 ### February 15, 2025 
 - [christophrumpel/artisan-benchmark](https://github.com/christophrumpel/artisan-benchmark) 
 - [recloudstream/cloudstream：用于流式传输和下载媒体的 Android 应用程序。](https://github.com/recloudstream/cloudstream) 
