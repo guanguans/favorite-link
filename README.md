@@ -20,6 +20,9 @@
 
 
 
+
+### February 17, 2025 
+- [chengpohi/edql: Elasticsearch Query GUI 客户端](https://github.com/chengpohi/edql) 
 ### February 16, 2025 
 - [fusion-php/fusion: 将您的现代前端与 Laravel 后端相结合。](https://github.com/fusion-php/fusion) 
 - [mindplay-dk/php-vite: 一个用于 Vite 的轻量级 PHP 后端集成包](https://github.com/mindplay-dk/php-vite) 
