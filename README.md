@@ -21,6 +21,9 @@
 
 
 
+
+### February 19, 2025 
+- [sosauce/CuteMusic: CuteMusic 是一款适用于 Android 的简单、轻量级和开源离线音乐播放器应用程序。](https://github.com/sosauce/CuteMusic) 
 ### February 17, 2025 
 - [chengpohi/edql: Elasticsearch Query GUI 客户端](https://github.com/chengpohi/edql) 
 ### February 16, 2025 
