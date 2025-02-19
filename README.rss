@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 16 Feb 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 18 Feb 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>sosauce/CuteMusic: CuteMusic 是一款适用于 Android 的简单、轻量级和开源离线音乐播放器应用程序。</title>
+      <pubDate>Tue, 18 Feb 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/sosauce/CuteMusic</link>
+      <guid>https://github.com/sosauce/CuteMusic</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sosauce/CuteMusic" target="_blank">sosauce/CuteMusic: CuteMusic 是一款适用于 Android 的简单、轻量级和开源离线音乐播放器应用程序。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sosauce/CuteMusic" target="_blank">https://github.com/sosauce/CuteMusic</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sosauce/CuteCalc: CuteCalc 是一款适用于 Android 的简单、轻量级和开源计算器应用程序。</title>
+      <pubDate>Tue, 18 Feb 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/sosauce/CuteCalc</link>
+      <guid>https://github.com/sosauce/CuteCalc</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sosauce/CuteCalc" target="_blank">sosauce/CuteCalc: CuteCalc 是一款适用于 Android 的简单、轻量级和开源计算器应用程序。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sosauce/CuteCalc" target="_blank">https://github.com/sosauce/CuteCalc</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>chengpohi/edql: Elasticsearch Query GUI 客户端</title>
       <pubDate>Sun, 16 Feb 2025 16:00:00 +0000</pubDate>
