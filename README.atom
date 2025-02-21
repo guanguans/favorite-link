@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[spatie/laravel-ignition: Laravel 应用程序的美丽错误页面]]></title>
+    <published>2025-02-20T08:00:00+00:00</published>
+    <updated>2025-02-20T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/spatie/laravel-ignition"/>
+    <id>https://github.com/spatie/laravel-ignition</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/spatie/laravel-ignition" target="_blank">spatie/laravel-ignition: Laravel 应用程序的美丽错误页面</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/spatie/laravel-ignition" target="_blank">https://github.com/spatie/laravel-ignition</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[aeon-php/aeon: PHP 完全不可变的 DateTime 库]]></title>
     <published>2025-02-19T16:00:00+00:00</published>
     <updated>2025-02-19T16:00:00+00:00</updated>
