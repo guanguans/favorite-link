@@ -23,6 +23,9 @@
 
 
 
+
+### February 21, 2025 
+- [umlx5h/gtrash: 功能强大的垃圾桶 CLI 管理器：rm 和 trash-cli 的替代品](https://github.com/umlx5h/gtrash) 
 ### February 20, 2025 
 - [aeon-php/aeon: PHP 完全不可变的 DateTime 库](https://github.com/aeon-php/aeon) 
 ### February 19, 2025 
