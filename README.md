@@ -24,6 +24,9 @@
 
 
 
+
+### February 23, 2025 
+- [alekitto/class-finder: 帮助发现其他类/命名空间的实用程序类](https://github.com/alekitto/class-finder) 
 ### February 21, 2025 
 - [umlx5h/gtrash: 功能强大的垃圾桶 CLI 管理器：rm 和 trash-cli 的替代品](https://github.com/umlx5h/gtrash) 
 - [spatie/laravel-ignition: Laravel 应用程序的美丽错误页面](https://github.com/spatie/laravel-ignition) 
