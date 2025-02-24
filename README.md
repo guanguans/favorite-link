@@ -25,6 +25,9 @@
 
 
 
+
+### February 24, 2025 
+- [Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。](https://gitlab.com/hpierce1102/ClassFinder) 
 ### February 23, 2025 
 - [alekitto/class-finder: 帮助发现其他类/命名空间的实用程序类](https://github.com/alekitto/class-finder) 
 ### February 21, 2025 
