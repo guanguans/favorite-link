@@ -34,6 +34,7 @@
 - [cesargb/laravel-logs-rotate: 使用压缩旋转文件日志](https://github.com/cesargb/laravel-logs-rotate) 
 - [TheDragonCode/size-sorter: 轻松排序衣服尺寸、身高、胸罩尺寸、家具尺寸等](https://github.com/TheDragonCode/size-sorter) 
 - [cesargb/laravel-cascade-delete: 实现多态关系的 Eloquent 模型的级联删除](https://github.com/cesargb/laravel-cascade-delete) 
+- [milon/barcode: Laravel 条形码生成器](https://github.com/milon/barcode) 
 ### February 24, 2025 
 - [Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。](https://gitlab.com/hpierce1102/ClassFinder) 
 - [thephpleague/construct-finder: PHP 代码构造搜索器](https://github.com/thephpleague/construct-finder) 
