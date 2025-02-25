@@ -95,6 +95,39 @@ dbdocs.io)](https://github.com/aphisitworachorch/kacher</xhtml:a></xhtml:li>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[cesargb/laravel-cascade-delete: 实现多态关系的 Eloquent 模型的级联删除]]></title>
+    <published>2025-02-23T00:00:00+00:00</published>
+    <updated>2025-02-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/cesargb/laravel-cascade-delete"/>
+    <id>https://github.com/cesargb/laravel-cascade-delete</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/cesargb/laravel-cascade-delete" target="_blank">cesargb/laravel-cascade-delete: 实现多态关系的 Eloquent
+模型的级联删除</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/cesargb/laravel-cascade-delete" target="_blank">https://github.com/cesargb/laravel-cascade-delete</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[milon/barcode: Laravel 条形码生成器]]></title>
+    <published>2025-02-22T16:00:00+00:00</published>
+    <updated>2025-02-22T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/milon/barcode"/>
+    <id>https://github.com/milon/barcode</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/milon/barcode" target="_blank">milon/barcode: Laravel 条形码生成器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/milon/barcode" target="_blank">https://github.com/milon/barcode</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。]]></title>
     <published>2025-02-23T16:00:00+00:00</published>
     <updated>2025-02-23T16:00:00+00:00</updated>

@@ -75,6 +75,32 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>cesargb/laravel-cascade-delete: 实现多态关系的 Eloquent 模型的级联删除</title>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/cesargb/laravel-cascade-delete</link>
+      <guid>https://github.com/cesargb/laravel-cascade-delete</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/cesargb/laravel-cascade-delete" target="_blank">cesargb/laravel-cascade-delete: 实现多态关系的 Eloquent 模型的级联删除</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/cesargb/laravel-cascade-delete" target="_blank">https://github.com/cesargb/laravel-cascade-delete</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>milon/barcode: Laravel 条形码生成器</title>
+      <pubDate>Sat, 22 Feb 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/milon/barcode</link>
+      <guid>https://github.com/milon/barcode</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/milon/barcode" target="_blank">milon/barcode: Laravel 条形码生成器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/milon/barcode" target="_blank">https://github.com/milon/barcode</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。</title>
       <pubDate>Sun, 23 Feb 2025 16:00:00 +0000</pubDate>
       <link>https://gitlab.com/hpierce1102/ClassFinder</link>
