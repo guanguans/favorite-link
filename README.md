@@ -32,6 +32,7 @@
 - [aphisitworachorch/kacher: Laravel DB (Doctrine) 转 DBML (dbdiagram.io / dbdocs.io)](https://github.com/aphisitworachorch/kacher) 
 - [holistics/dbml: 数据库标记语言 (DBML)，用于定义和记录数据库结构](https://github.com/holistics/dbml) 
 - [cesargb/laravel-logs-rotate: 使用压缩旋转文件日志](https://github.com/cesargb/laravel-logs-rotate) 
+- [TheDragonCode/size-sorter: 轻松排序衣服尺寸、身高、胸罩尺寸、家具尺寸等](https://github.com/TheDragonCode/size-sorter) 
 ### February 24, 2025 
 - [Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。](https://gitlab.com/hpierce1102/ClassFinder) 
 - [thephpleague/construct-finder: PHP 代码构造搜索器](https://github.com/thephpleague/construct-finder) 
