@@ -177,6 +177,22 @@ dbdocs.io)](https://github.com/aphisitworachorch/kacher</xhtml:a></xhtml:li>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[dcblogdev/laravel-db-sync: 将远程数据库同步到本地数据库]]></title>
+    <published>2025-02-21T08:00:00+00:00</published>
+    <updated>2025-02-21T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/dcblogdev/laravel-db-sync"/>
+    <id>https://github.com/dcblogdev/laravel-db-sync</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/dcblogdev/laravel-db-sync" target="_blank">dcblogdev/laravel-db-sync: 将远程数据库同步到本地数据库</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/dcblogdev/laravel-db-sync" target="_blank">https://github.com/dcblogdev/laravel-db-sync</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。]]></title>
     <published>2025-02-23T16:00:00+00:00</published>
     <updated>2025-02-23T16:00:00+00:00</updated>
