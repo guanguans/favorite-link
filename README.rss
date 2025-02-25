@@ -101,6 +101,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>josezenem/laravel-make-migration-pivot: 这将允许您通过简单地传递两个模型，使用新的 Laravel 9 闭包迁移格式创建数据透视表迁移文件。</title>
+      <pubDate>Sat, 22 Feb 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/josezenem/laravel-make-migration-pivot</link>
+      <guid>https://github.com/josezenem/laravel-make-migration-pivot</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/josezenem/laravel-make-migration-pivot" target="_blank">josezenem/laravel-make-migration-pivot: 这将允许您通过简单地传递两个模型，使用新的 Laravel 9 闭包迁移格式创建数据透视表迁移文件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/josezenem/laravel-make-migration-pivot" target="_blank">https://github.com/josezenem/laravel-make-migration-pivot</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。</title>
       <pubDate>Sun, 23 Feb 2025 16:00:00 +0000</pubDate>
       <link>https://gitlab.com/hpierce1102/ClassFinder</link>

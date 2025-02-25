@@ -128,6 +128,23 @@ dbdocs.io)](https://github.com/aphisitworachorch/kacher</xhtml:a></xhtml:li>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[josezenem/laravel-make-migration-pivot: 这将允许您通过简单地传递两个模型，使用新的 Laravel 9 闭包迁移格式创建数据透视表迁移文件。]]></title>
+    <published>2025-02-22T08:00:00+00:00</published>
+    <updated>2025-02-22T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/josezenem/laravel-make-migration-pivot"/>
+    <id>https://github.com/josezenem/laravel-make-migration-pivot</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/josezenem/laravel-make-migration-pivot" target="_blank">josezenem/laravel-make-migration-pivot:
+这将允许您通过简单地传递两个模型，使用新的 Laravel 9 闭包迁移格式创建数据透视表迁移文件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/josezenem/laravel-make-migration-pivot" target="_blank">https://github.com/josezenem/laravel-make-migration-pivot</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。]]></title>
     <published>2025-02-23T16:00:00+00:00</published>
     <updated>2025-02-23T16:00:00+00:00</updated>
