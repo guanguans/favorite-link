@@ -38,6 +38,7 @@
 - [josezenem/laravel-make-migration-pivot: 这将允许您通过简单地传递两个模型，使用新的 Laravel 9 闭包迁移格式创建数据透视表迁移文件。](https://github.com/josezenem/laravel-make-migration-pivot) 
 - [dcblogdev/laravel-sent-emails: 在 Laravel 中存储传出电子邮件](https://github.com/dcblogdev/laravel-sent-emails) 
 - [dcblogdev/laravel-sent-emails: 记录和查看所有已发送的电子邮件](https://github.com/dcblogdev/laravel-sent-emails) 
+- [dcblogdev/laravel-db-sync: 将远程数据库同步到本地数据库](https://github.com/dcblogdev/laravel-db-sync) 
 ### February 24, 2025 
 - [Hayden Pierce / ClassFinder: 这是一个非常简单的工具，用于识别给定命名空间中的类。](https://gitlab.com/hpierce1102/ClassFinder) 
 - [thephpleague/construct-finder: PHP 代码构造搜索器](https://github.com/thephpleague/construct-finder) 
