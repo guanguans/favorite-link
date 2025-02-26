@@ -32,7 +32,7 @@
 - [robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard](https://github.com/robsontenorio/laravel-keycloak-guard) 
 - [ytake/Laravel.Smarty: 适用于 Laravel 的 Smarty 模板引擎](https://github.com/ytake/Laravel.Smarty) 
 - [dwightwatson/sitemap: ytake/Laravel.Smarty: 适用于 Laravel 的 Smarty 模板引擎](https://github.com/dwightwatson/sitemap) 
-- [aarondfrancis/flaky: 处理由不可靠的第三方引起的间歇性故障(断路器)](https://github.com/aarondfrancis/flaky) 
+- [aarondfrancis/flaky: 处理由不可靠的第三方引起的间歇性故障 (断路器)](https://github.com/aarondfrancis/flaky) 
 ### February 25, 2025 
 - [grikdotnet/generics：泛型编程的 PHP 实现](https://github.com/grikdotnet/generics) 
 - [aphisitworachorch/kacher: Laravel DB (Doctrine) 转 DBML (dbdiagram.io / dbdocs.io)](https://github.com/aphisitworachorch/kacher) 
