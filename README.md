@@ -27,6 +27,9 @@
 
 
 
+
+### February 26, 2025 
+- [robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard](https://github.com/robsontenorio/laravel-keycloak-guard) 
 ### February 25, 2025 
 - [grikdotnet/generics：泛型编程的 PHP 实现](https://github.com/grikdotnet/generics) 
 - [aphisitworachorch/kacher: Laravel DB (Doctrine) 转 DBML (dbdiagram.io / dbdocs.io)](https://github.com/aphisitworachorch/kacher) 
