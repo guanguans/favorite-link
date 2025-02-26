@@ -79,6 +79,23 @@ Smarty 模板引擎</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[creagia/laravel-web-mailer: Laravel 邮件程序可捕捉所有已发送的邮件，并将其显示在应用程序视图中。]]></title>
+    <published>2025-02-24T08:00:00+00:00</published>
+    <updated>2025-02-24T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/creagia/laravel-web-mailer"/>
+    <id>https://github.com/creagia/laravel-web-mailer</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/creagia/laravel-web-mailer" target="_blank">creagia/laravel-web-mailer: Laravel
+邮件程序可捕捉所有已发送的邮件，并将其显示在应用程序视图中。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/creagia/laravel-web-mailer" target="_blank">https://github.com/creagia/laravel-web-mailer</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[grikdotnet/generics：泛型编程的 PHP 实现]]></title>
     <published>2025-02-24T16:00:00+00:00</published>
     <updated>2025-02-24T16:00:00+00:00</updated>
