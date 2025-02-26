@@ -34,6 +34,7 @@
 - [dwightwatson/sitemap: ytake/Laravel.Smarty: 适用于 Laravel 的 Smarty 模板引擎](https://github.com/dwightwatson/sitemap) 
 - [aarondfrancis/flaky: 处理由不可靠的第三方引起的间歇性故障 (断路器)](https://github.com/aarondfrancis/flaky) 
 - [creagia/laravel-web-mailer: Laravel 邮件程序可捕捉所有已发送的邮件，并将其显示在应用程序视图中。](https://github.com/creagia/laravel-web-mailer) 
+- [clickbar/laravel-magellan: 适用于 Laravel 的现代 PostGIS 工具箱](https://github.com/clickbar/laravel-magellan) 
 ### February 25, 2025 
 - [grikdotnet/generics：泛型编程的 PHP 实现](https://github.com/grikdotnet/generics) 
 - [aphisitworachorch/kacher: Laravel DB (Doctrine) 转 DBML (dbdiagram.io / dbdocs.io)](https://github.com/aphisitworachorch/kacher) 
