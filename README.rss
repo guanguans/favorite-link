@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>使用 Laravel 的 afterQuery 方法优雅地对查询结果进行后处理</title>
+      <pubDate>Fri, 28 Feb 2025 08:00:00 +0000</pubDate>
+      <link>https://www.harrisrafto.eu/post-process-query-results-elegantly-with-laravels-afterquery-method/</link>
+      <guid>https://www.harrisrafto.eu/post-process-query-results-elegantly-with-laravels-afterquery-method/</guid>
+      <content:encoded><![CDATA[<a href="https://www.harrisrafto.eu/post-process-query-results-elegantly-with-laravels-afterquery-method/" target="_blank">使用 Laravel 的 afterQuery 方法优雅地对查询结果进行后处理</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://www.harrisrafto.eu/post-process-query-results-elegantly-with-laravels-afterquery-method/" target="_blank">https://www.harrisrafto.eu/post-process-query-results-elegantly-with-laravels-afterquery-method/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard</title>
       <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/robsontenorio/laravel-keycloak-guard</link>
