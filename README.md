@@ -31,6 +31,7 @@
 
 ### March 1, 2025 
 - [richan-fongdasen/eloquent-blameable: Laravel 中 Eloquent 模型的可责备行为实现](https://github.com/richan-fongdasen/eloquent-blameable) 
+- [使用 Laravel 的 afterQuery 方法优雅地对查询结果进行后处理](https://www.harrisrafto.eu/post-process-query-results-elegantly-with-laravels-afterquery-method/) 
 ### February 26, 2025 
 - [robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard](https://github.com/robsontenorio/laravel-keycloak-guard) 
 - [ytake/Laravel.Smarty: 适用于 Laravel 的 Smarty 模板引擎](https://github.com/ytake/Laravel.Smarty) 
