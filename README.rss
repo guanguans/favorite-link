@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>使用 Laravel 的 mapInto 方法将数组值转换为枚举实例</title>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <link>https://www.harrisrafto.eu/transform-array-values-into-enum-instances-with-laravels-mapinto-method/</link>
+      <guid>https://www.harrisrafto.eu/transform-array-values-into-enum-instances-with-laravels-mapinto-method/</guid>
+      <content:encoded><![CDATA[<a href="https://www.harrisrafto.eu/transform-array-values-into-enum-instances-with-laravels-mapinto-method/" target="_blank">使用 Laravel 的 mapInto 方法将数组值转换为枚举实例</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://www.harrisrafto.eu/transform-array-values-into-enum-instances-with-laravels-mapinto-method/" target="_blank">https://www.harrisrafto.eu/transform-array-values-into-enum-instances-with-laravels-mapinto-method/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>robsontenorio/laravel-keycloak-guard: 🔑 Laravel 的简单 Keycloak Guard</title>
       <pubDate>Tue, 25 Feb 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/robsontenorio/laravel-keycloak-guard</link>
