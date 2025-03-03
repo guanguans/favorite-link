@@ -30,6 +30,9 @@
 
 
 
+
+### March 3, 2025 
+- [tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。](https://github.com/tonysm/importmap-laravel) 
 ### March 2, 2025 
 - [juliomotol/laravel-auth-timeout: Laravel 的身份验证超时](https://github.com/juliomotol/laravel-auth-timeout) 
 - [juliomotol/lapiv: 轻松实现 Laravel 的 API 版本管理](https://github.com/juliomotol/lapiv) 
