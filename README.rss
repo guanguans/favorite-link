@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 02 Mar 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 03 Mar 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>archtechx/laravel-seo: Laravel 的 SEO 软件包</title>
+      <pubDate>Mon, 03 Mar 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/archtechx/laravel-seo</link>
+      <guid>https://github.com/archtechx/laravel-seo</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/archtechx/laravel-seo" target="_blank">archtechx/laravel-seo: Laravel 的 SEO 软件包</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/archtechx/laravel-seo" target="_blank">https://github.com/archtechx/laravel-seo</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。</title>
       <pubDate>Sun, 02 Mar 2025 16:00:00 +0000</pubDate>
