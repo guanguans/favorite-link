@@ -34,6 +34,7 @@
 
 ### March 4, 2025 
 - [archtechx/laravel-seo: Laravel 的 SEO 软件包](https://github.com/archtechx/laravel-seo) 
+- [jaxon-php/jaxon-config: 将配置选项保存在不可变对象中](https://github.com/jaxon-php/jaxon-config) 
 ### March 3, 2025 
 - [tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。](https://github.com/tonysm/importmap-laravel) 
 ### March 2, 2025 
