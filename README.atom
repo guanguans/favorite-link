@@ -79,6 +79,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[grosv/laravel-passwordless-login: 一个简单、安全的 Laravel 魔术登录链接生成器]]></title>
+    <published>2025-03-02T08:00:00+00:00</published>
+    <updated>2025-03-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/grosv/laravel-passwordless-login"/>
+    <id>https://github.com/grosv/laravel-passwordless-login</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/grosv/laravel-passwordless-login" target="_blank">grosv/laravel-passwordless-login: 一个简单、安全的 Laravel
+魔术登录链接生成器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/grosv/laravel-passwordless-login" target="_blank">https://github.com/grosv/laravel-passwordless-login</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。]]></title>
     <published>2025-03-02T16:00:00+00:00</published>
     <updated>2025-03-02T16:00:00+00:00</updated>
