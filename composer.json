@@ -24,7 +24,7 @@
     "require": {
         "php": "^8.4",
         "cerbero/command-validator": "^3.0",
-        "graham-campbell/github": "^12.6",
+        "graham-campbell/github": "^13.0",
         "illuminate/validation": "^11.41",
         "laminas/laminas-feed": "^2.23",
         "laravel-zero/framework": "^11.36"
