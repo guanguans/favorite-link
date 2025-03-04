@@ -37,6 +37,7 @@
 - [jaxon-php/jaxon-config: 将配置选项保存在不可变对象中](https://github.com/jaxon-php/jaxon-config) 
 - [jaxon-php/jaxon-core: Jaxon 是一个开源 PHP 库，用于轻松创建 Ajax Web 应用程序。它允许网页直接对 PHP 类进行 Ajax 调用，这些类将依次更新其内容，而无需重新加载整个页面。](https://github.com/jaxon-php/jaxon-core) 
 - [hexadog/laravel-themes-manager: 功能齐全的主题管理器可为您的 Laravel 应用程序提供多主题支持](https://github.com/hexadog/laravel-themes-manager) 
+- [grosv/laravel-passwordless-login: 一个简单、安全的 Laravel 魔术登录链接生成器](https://github.com/grosv/laravel-passwordless-login) 
 ### March 3, 2025 
 - [tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。](https://github.com/tonysm/importmap-laravel) 
 ### March 2, 2025 
