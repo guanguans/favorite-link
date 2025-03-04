@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>jaxon-php/jaxon-core: Jaxon 是一个开源 PHP 库，用于轻松创建 Ajax Web 应用程序。它允许网页直接对 PHP 类进行 Ajax 调用，这些类将依次更新其内容，而无需重新加载整个页面。</title>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/jaxon-php/jaxon-core</link>
+      <guid>https://github.com/jaxon-php/jaxon-core</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jaxon-php/jaxon-core" target="_blank">jaxon-php/jaxon-core: Jaxon 是一个开源 PHP 库，用于轻松创建 Ajax Web 应用程序。它允许网页直接对 PHP 类进行 Ajax 调用，这些类将依次更新其内容，而无需重新加载整个页面。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jaxon-php/jaxon-core" target="_blank">https://github.com/jaxon-php/jaxon-core</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。</title>
       <pubDate>Sun, 02 Mar 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/tonysm/importmap-laravel</link>

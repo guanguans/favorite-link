@@ -45,6 +45,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[jaxon-php/jaxon-core: Jaxon 是一个开源 PHP 库，用于轻松创建 Ajax Web 应用程序。它允许网页直接对 PHP 类进行 Ajax 调用，这些类将依次更新其内容，而无需重新加载整个页面。]]></title>
+    <published>2025-03-03T00:00:00+00:00</published>
+    <updated>2025-03-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/jaxon-php/jaxon-core"/>
+    <id>https://github.com/jaxon-php/jaxon-core</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/jaxon-php/jaxon-core" target="_blank">jaxon-php/jaxon-core: Jaxon 是一个开源 PHP 库，用于轻松创建 Ajax Web
+应用程序。它允许网页直接对 PHP 类进行 Ajax 调用，这些类将依次更新其内容，而无需重新加载整个页面。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/jaxon-php/jaxon-core" target="_blank">https://github.com/jaxon-php/jaxon-core</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tonysm/importmap-laravel: 将 ESM 与导入映射结合使用，无需转译或捆绑即可在 Laravel 中管理现代 JavaScript。]]></title>
     <published>2025-03-02T16:00:00+00:00</published>
     <updated>2025-03-02T16:00:00+00:00</updated>
