@@ -28,6 +28,7 @@ declare(strict_types=1);
 
 $autoloader = require file_exists(__DIR__.'/vendor/autoload.php') ? __DIR__.'/vendor/autoload.php' : __DIR__.'/../../autoload.php';
 
+/** @noinspection UsingInclusionOnceReturnValueInspection */
 $app = require_once __DIR__.'/bootstrap/app.php';
 
 /*

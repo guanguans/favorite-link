@@ -42,7 +42,7 @@ $status = (new SingleCommandApplication)
         \assert($this instanceof SingleCommandApplication);
         \assert((bool) $input->getOption('highest-php-binary'));
 
-        (new class(
+        new class(
             $input->getOption('composer-json-path') ?: __DIR__.'/composer.json',
             $input->getOption('highest-php-binary'),
             $input->getOption('composer-binary'),
@@ -213,10 +213,10 @@ $status = (new SingleCommandApplication)
                         $dependencyVersions = [$this->toDependencyVersion($package['version'])];
 
                         if ($lowestArrayVersion[0] !== $highestArrayVersion[0]) {
-                            $dependencyVersions = array_merge($dependencyVersions, array_map(
+                            $dependencyVersions = [...$dependencyVersions, ...array_map(
                                 static fn (string $major): string => "^$major.0",
                                 range($lowestArrayVersion[0] + 1, $highestArrayVersion[0])
-                            ));
+                            )];
                         }
 
                         $package['dependency_version'] = implode(' || ', $dependencyVersions);
@@ -333,7 +333,7 @@ $status = (new SingleCommandApplication)
                     $formatted,
                 );
             }
-        })();
+        }();
     })
     ->run();
 
