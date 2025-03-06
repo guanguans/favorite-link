@@ -23,7 +23,7 @@ it('will throw an InvalidArgumentException of Symfony', function (): void {
 
 it('will throw an InvalidArgumentException of Laminas', function (): void {
     $this->artisan(FeedCommand::class, ['--from' => fixtures_path('README.md')])->assertOk();
-})->group(__DIR__, __FILE__)->throws(\Laminas\Feed\Writer\Exception\InvalidArgumentException::class);
+})->group(__DIR__, __FILE__)->throws(Laminas\Feed\Writer\Exception\InvalidArgumentException::class);
 
 it('can generate feed', function (): void {
     $this->artisan(FeedCommand::class)->assertOk();

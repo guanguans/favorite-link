@@ -158,7 +158,7 @@
             "@md-fix",
             "@zh-fix"
         ],
-        "rector": "@php ./vendor/bin/rector --config=rector.php --ansi -v",
+        "rector": "@php ./vendor/bin/rector --ansi -v",
         "rector-dry-run": "@rector --dry-run",
         "release": "@php ./vendor/bin/monorepo-builder release --ansi -v",
         "release-major": "@release major",
