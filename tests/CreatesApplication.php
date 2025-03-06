@@ -21,6 +21,7 @@ trait CreatesApplication
     /**
      * Creates the application.
      */
+    #[\Override]
     public function createApplication(): Application
     {
         $app = require __DIR__.'/../bootstrap/app.php';

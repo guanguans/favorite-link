@@ -14,11 +14,15 @@ declare(strict_types=1);
 namespace Tests;
 
 use LaravelZero\Framework\Testing\TestCase as BaseTestCase;
+use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
+use Symfony\Component\VarDumper\Test\VarDumperTestTrait;
 
 abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
     use Faker;
+    use MockeryPHPUnitIntegration;
+    use VarDumperTestTrait;
 
     /**
      * This method is called before each test.
@@ -28,6 +32,7 @@ abstract class TestCase extends BaseTestCase
     {
         parent::setUp();
         // \DG\BypassFinals::enable();
+        $this->startMockery();
     }
 
     /**
@@ -36,9 +41,9 @@ abstract class TestCase extends BaseTestCase
     #[\Override]
     protected function tearDown(): void
     {
-        parent::tearDown();
         $this->finish();
-        \Mockery::close();
+        $this->closeMockery();
+        parent::tearDown();
     }
 
     /**

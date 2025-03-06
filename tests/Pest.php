@@ -75,7 +75,7 @@ function class_namespace(object|string $class): string
 {
     $class = \is_object($class) ? $class::class : $class;
 
-    return (new ReflectionClass($class))->getNamespaceName();
+    return new ReflectionClass($class)->getNamespaceName();
 }
 
 function fixtures_path(string $path = ''): string
@@ -88,7 +88,8 @@ function clear_same_namespace(): void
     foreach (
         Finder::create()
             ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
-            ->name('*.php') as $finder
+            ->name('*.php')
+        as $finder
     ) {
         file_put_contents($finder->getPathname(), '<?php');
     }

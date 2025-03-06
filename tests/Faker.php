@@ -18,7 +18,7 @@ use Faker\Generator;
 
 trait Faker
 {
-    final protected static function faker(string $locale = 'en_US'): Generator
+    final protected static function faker(string $locale = Factory::DEFAULT_LOCALE): Generator
     {
         /** @var array<string, Generator> $fakers */
         static $fakers = [];
