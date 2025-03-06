@@ -52,11 +52,13 @@ $status = (new SingleCommandApplication)
             new SymfonyStyle($input, $output),
             new Differ(new UnifiedDiffOutputBuilder("--- Original\n+++ New\n", true)),
         ) {
+            private string $composerJsonPath;
             private string $composerJsonContents;
             private string $highestComposerBinary;
             private string $composerBinary;
             private array $exceptPackages;
             private array $exceptDependencyVersions;
+            private bool $dryRun;
             private SymfonyStyle $symfonyStyle;
             private Differ $differ;
 
@@ -64,18 +66,19 @@ $status = (new SingleCommandApplication)
              * @noinspection ParameterDefaultsNullInspection
              */
             public function __construct(
-                private readonly string $composerJsonPath,
+                string $composerJsonPath,
                 ?string $highestPhpBinary = null,
                 ?string $composerBinary = null,
                 array $exceptPackages = [],
                 array $exceptDependencyVersions = [],
-                private readonly bool $dryRun = false,
+                bool $dryRun = false,
                 ?SymfonyStyle $symfonyStyle = null,
                 ?Differ $differ = null
             ) {
                 // assert_options(\ASSERT_BAIL, 1);
                 \assert((bool) $composerJsonPath);
 
+                $this->composerJsonPath = $composerJsonPath;
                 $this->composerJsonContents = file_get_contents($composerJsonPath);
                 $this->highestComposerBinary = $this->getComposerBinary($composerBinary, $highestPhpBinary);
                 $this->composerBinary = $this->getComposerBinary($composerBinary);
@@ -89,6 +92,7 @@ $status = (new SingleCommandApplication)
                     '*@*',
                     // '*|*',
                 ], $exceptDependencyVersions);
+                $this->dryRun = $dryRun;
                 $this->symfonyStyle = $symfonyStyle ?? new SymfonyStyle(new ArgvInput, new ConsoleOutput);
                 $this->differ = $differ ?? new Differ(new UnifiedDiffOutputBuilder("--- Original\n+++ New\n", true));
             }
@@ -104,7 +108,7 @@ $status = (new SingleCommandApplication)
                     ->updateComposerPackages()
                     ->updateOutdatedComposerPackages()
                     ->updateComposerPackages()
-                    ->normalizeComposerJson()
+                    // ->normalizeComposerJson()
                     ->success();
             }
 
@@ -209,10 +213,10 @@ $status = (new SingleCommandApplication)
                         $dependencyVersions = [$this->toDependencyVersion($package['version'])];
 
                         if ($lowestArrayVersion[0] !== $highestArrayVersion[0]) {
-                            $dependencyVersions = [...$dependencyVersions, ...array_map(
+                            $dependencyVersions = array_merge($dependencyVersions, array_map(
                                 static fn (string $major): string => "^$major.0",
                                 range($lowestArrayVersion[0] + 1, $highestArrayVersion[0])
-                            )];
+                            ));
                         }
 
                         $package['dependency_version'] = implode(' || ', $dependencyVersions);
@@ -245,9 +249,16 @@ $status = (new SingleCommandApplication)
                 mixed $input = null,
                 ?float $timeout = 300
             ): Process {
+                $additionalOptions = [
+                    '--no-interaction',
+                    '--no-plugins',
+                    '--no-scripts',
+                    '--ansi',
+                ];
+
                 $process = \is_string($command)
-                    ? Process::fromShellCommandline($command, $cwd, $env, $input, $timeout)
-                    : new Process($command, $cwd, $env, $input, $timeout);
+                    ? Process::fromShellCommandline(\sprintf("$command %s", implode(' ', $additionalOptions)), $cwd, $env, $input, $timeout)
+                    : new Process($command + $additionalOptions, $cwd, $env, $input, $timeout);
 
                 $this->symfonyStyle->warning($process->getCommandLine());
 
@@ -271,7 +282,6 @@ $status = (new SingleCommandApplication)
 
             /**
              * @noinspection SuspiciousLoopInspection
-             * @noinspection ComparisonScalarOrderInspection
              */
             private function strIs(array|string $pattern, string $value): bool
             {

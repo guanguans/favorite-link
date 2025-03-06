@@ -25,7 +25,7 @@
         "php": "^8.4",
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^13.0",
-        "illuminate/validation": "^11.41",
+        "illuminate/validation": "^11.44 || ^12.0",
         "laminas/laminas-feed": "^2.23",
         "laravel-zero/framework": "^11.36"
     },
@@ -120,7 +120,7 @@
         "composer-bin-all-update": "@composer bin all update --ansi -v",
         "composer-check-platform-reqs": "@composer check-platform-reqs --lock --ansi -v",
         "composer-normalize": "@composer normalize --dry-run --diff --ansi -v",
-        "composer-updater": "@php ./composer-updater --highest-php-binary=/opt/homebrew/opt/php@8.4/bin/php --except-packages=pestphp/pest-plugin-laravel --ansi",
+        "composer-updater": "@php ./composer-updater --highest-php-binary=/opt/homebrew/opt/php@8.4/bin/php --ansi",
         "composer-updater-dry-run": "@composer-updater --dry-run",
         "composer-validate": "@composer validate --check-lock --strict --ansi -v",
         "facade-lint": "@facade-update --lint",
@@ -151,6 +151,7 @@
             "@putenv PHP81=/opt/homebrew/opt/php@8.1/bin/php",
             "@putenv PHP82=/opt/homebrew/opt/php@8.2/bin/php",
             "@putenv PHP83=/opt/homebrew/opt/php@8.3/bin/php",
+            "@putenv PHP84=/opt/homebrew/opt/php@8.4/bin/php",
             "@putenv PHP_CS_FIXER_IGNORE_ENV=1"
         ],
         "readme-fix": [
