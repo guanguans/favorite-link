@@ -1,7 +1,7 @@
 <?php
 
-/** @noinspection PhpUnhandledExceptionInspection */
 /** @noinspection PhpInternalEntityUsedInspection */
+/** @noinspection PhpUnhandledExceptionInspection */
 
 declare(strict_types=1);
 
@@ -20,129 +20,98 @@ use Rector\CodingStyle\Rector\ArrowFunction\StaticArrowFunctionRector;
 use Rector\CodingStyle\Rector\Closure\StaticClosureRector;
 use Rector\CodingStyle\Rector\Encapsed\EncapsedStringsToSprintfRector;
 use Rector\CodingStyle\Rector\Encapsed\WrapEncapsedVariableInCurlyBracesRector;
+use Rector\CodingStyle\Rector\FuncCall\ArraySpreadInsteadOfArrayMergeRector;
 use Rector\CodingStyle\Rector\Stmt\NewlineAfterStatementRector;
 use Rector\Config\RectorConfig;
+use Rector\DeadCode\Rector\ClassLike\RemoveAnnotationRector;
 use Rector\DeadCode\Rector\ClassMethod\RemoveEmptyClassMethodRector;
-use Rector\DeadCode\Rector\ClassMethod\RemoveUselessReturnTagRector;
-use Rector\DowngradePhp80\Rector\FuncCall\DowngradeArrayFilterNullableCallbackRector;
 use Rector\EarlyReturn\Rector\Return_\ReturnBinaryOrToEarlyReturnRector;
-use Rector\Naming\Rector\Foreach_\RenameForeachValueVariableToMatchMethodCallReturnTypeRector;
-use Rector\Php73\Rector\String_\SensitiveHereNowDocRector;
-use Rector\PHPUnit\CodeQuality\Rector\Class_\AddSeeTestAnnotationRector;
 use Rector\PHPUnit\Set\PHPUnitSetList;
 use Rector\Renaming\Rector\FuncCall\RenameFunctionRector;
-use Rector\Transform\Rector\ClassMethod\ReturnTypeWillChangeRector;
-use Rector\Transform\Rector\FileWithoutNamespace\RectorConfigBuilderRector;
-use Rector\Transform\ValueObject\ClassMethodReference;
+use Rector\ValueObject\PhpVersion;
 
 return RectorConfig::configure()
     ->withPaths([
         __DIR__.'/app',
         __DIR__.'/tests',
-        __DIR__.'/.*.php',
-        __DIR__.'/*.php',
         __DIR__.'/composer-updater',
+        ...glob(__DIR__.'/{*,.*}.php', \GLOB_BRACE),
+    ])
+    ->withRootFiles()
+    // ->withSkipPath(__DIR__.'/tests.php')
+    ->withSkip([
+        __DIR__.'/tests.php',
+        '**/Fixtures/*',
+        '**/__snapshots__/*',
     ])
     ->withCache(__DIR__.'/.build/rector/')
     ->withParallel()
     // ->withoutParallel()
-    ->withImportNames(false)
-    ->withAttributesSets(
-        symfony : true,
-        doctrine : true,
-        mongoDb : true,
-        gedmo : true,
-        phpunit : true,
-        fosRest : true,
-        jms : true,
-        sensiolabs : true,
-        behat : true,
-        all : true
-    )
-    // ->withDeadCodeLevel(42)
-    // ->withTypeCoverageLevel(37)
+    ->withImportNames(importNames: false)
+    // ->withImportNames(importDocBlockNames: false, importShortClasses: false)
     ->withFluentCallNewLine()
-    // ->withPhp74Sets()
-    ->withPhpSets(php84: true)
+    ->withAttributesSets(phpunit: true)
+    ->withComposerBased(phpunit: true)
+    ->withPhpVersion(PhpVersion::PHP_84)
     // ->withDowngradeSets(php84: true)
-    ->withPreparedSets(
-        deadCode : \true,
-        codeQuality : \true,
-        codingStyle : \true,
-        typeDeclarations : true,
-        privatization : true,
-        naming : true,
-        instanceOf : true,
-        earlyReturn : true,
-        // strictBooleans : true,
-        carbon : true,
-        rectorPreset : true,
-        phpunitCodeQuality : true,
-        doctrineCodeQuality : true,
-        symfonyCodeQuality : true,
-        symfonyConfigs : true
-    )
+    ->withPhpSets(php84: true)
     ->withSets([
-        PHPUnitSetList::PHPUNIT_100,
-        PHPUnitSetList::PHPUNIT_CODE_QUALITY,
-        PHPUnitSetList::ANNOTATIONS_TO_ATTRIBUTES,
+        PHPUnitSetList::PHPUNIT_110,
     ])
-    ->withComposerBased(twig: true, doctrine: true, phpunit: true, symfony: true)
+    ->withPreparedSets(
+        deadCode: true,
+        codeQuality: true,
+        codingStyle: true,
+        typeDeclarations: true,
+        privatization: true,
+        naming: true,
+        instanceOf: true,
+        earlyReturn: true,
+        phpunitCodeQuality: true,
+    )
     ->withRules([
-        // SortAssociativeArrayByKeyRector::class,
-        AddSeeTestAnnotationRector::class,
-        DowngradeArrayFilterNullableCallbackRector::class,
-        RectorConfigBuilderRector::class,
+        ArraySpreadInsteadOfArrayMergeRector::class,
         StaticArrowFunctionRector::class,
         StaticClosureRector::class,
     ])
-    ->withConfiguredRule(
-        RenameFunctionRector::class,
+    ->withConfiguredRule(RemoveAnnotationRector::class, [
+        'phpstan-ignore',
+        'phpstan-ignore-next-line',
+        'psalm-suppress',
+    ])
+    ->withConfiguredRule(RenameFunctionRector::class, [
+        'Pest\Faker\fake' => 'fake',
+        'Pest\Faker\faker' => 'faker',
+        // 'faker' => 'fake',
+        'test' => 'it',
+    ] + array_reduce(
         [
-            'test' => 'it',
-        ] + array_reduce(
-            [
-                // 'make',
-                // 'env_explode',
-            ],
-            static function (array $carry, string $func): array {
-                /** @see https://github.com/laravel/framework/blob/11.x/src/Illuminate/Support/functions.php */
-                $carry[$func] = "Guanguans\\SoarPHP\\Support\\$func";
+            // 'value',
+            // 'base64_encode_file',
+            // 'tap',
+        ],
+        static function (array $carry, string $func): array {
+            /** @see https://github.com/laravel/framework/blob/11.x/src/Illuminate/Support/functions.php */
+            $carry[$func] = "App\\Support\\$func";
 
-                return $carry;
-            },
-            []
-        )
-    )
-    ->withConfiguredRule(ReturnTypeWillChangeRector::class, [
-        new ClassMethodReference(ArrayAccess::class, 'offsetGet'),
-    ])
+            return $carry;
+        },
+        []
+    ))
     ->withSkip([
-        '**/__snapshots__/*',
-        '**/Fixtures/*',
-        __DIR__.'/tests.php',
-    ])
-    ->withSkip([
-        AddSeeTestAnnotationRector::class,
-        DowngradeArrayFilterNullableCallbackRector::class,
         EncapsedStringsToSprintfRector::class,
         ExplicitBoolCompareRector::class,
         LogicalToBooleanRector::class,
         NewlineAfterStatementRector::class,
-        RemoveUselessReturnTagRector::class,
         ReturnBinaryOrToEarlyReturnRector::class,
-        SensitiveHereNowDocRector::class,
         WrapEncapsedVariableInCurlyBracesRector::class,
     ])
     ->withSkip([
         RemoveEmptyClassMethodRector::class => [
             __DIR__.'/app/Providers/AppServiceProvider.php',
         ],
-        RenameForeachValueVariableToMatchMethodCallReturnTypeRector::class => [
-            __DIR__.'/tests/Pest.php',
-        ],
-        StaticArrowFunctionRector::class => $staticClosureSkipPaths = [
+        StaticArrowFunctionRector::class => $staticArrowFunctionPaths = [
             __DIR__.'/tests',
         ],
-        StaticClosureRector::class => $staticClosureSkipPaths,
+        StaticClosureRector::class => $staticArrowFunctionPaths,
     ]);

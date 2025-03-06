@@ -86,8 +86,8 @@ function clear_same_namespace(): void
     foreach (
         Symfony\Component\Finder\Finder::create()
             ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
-            ->name('*.php') as $splFileInfo
+            ->name('*.php') as $finder
     ) {
-        file_put_contents($splFileInfo->getPathname(), '<?php');
+        file_put_contents($finder->getPathname(), '<?php');
     }
 }
