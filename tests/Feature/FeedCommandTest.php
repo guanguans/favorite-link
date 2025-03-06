@@ -15,11 +15,10 @@ declare(strict_types=1);
  */
 
 use App\Commands\FeedCommand;
-use Symfony\Component\Console\Exception\InvalidArgumentException;
 
 it('will throw an InvalidArgumentException of Symfony', function (): void {
-    $this->artisan(FeedCommand::class, ['--from' => $this->faker()->filePath()]);
-})->group(__DIR__, __FILE__)->throws(InvalidArgumentException::class);
+    $this->artisan(FeedCommand::class, ['--from' => $this->faker()->filePath()])->assertFailed();
+})->group(__DIR__, __FILE__);
 
 it('will throw an InvalidArgumentException of Laminas', function (): void {
     $this->artisan(FeedCommand::class, ['--from' => fixtures_path('README.md')])->assertOk();
