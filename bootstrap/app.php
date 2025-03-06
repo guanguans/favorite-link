@@ -1,5 +1,8 @@
 <?php
 
+/** @noinspection PhpUndefinedNamespaceInspection */
+/** @noinspection PhpUndefinedClassInspection */
+
 declare(strict_types=1);
 
 /**
@@ -33,10 +36,6 @@ return Application::configure(basePath: \dirname(__DIR__))
     //     });
     // })
     ->withExceptions(static function (Exceptions $exceptions): void {
-        $exceptions->reportable(static function (Throwable $throwable) {
-            if (Phar::running()) {
-                return false;
-            }
-        });
+        $exceptions->reportable(static fn (Throwable $throwable): bool => !Phar::running());
     })
     ->create();

@@ -13,7 +13,6 @@ declare(strict_types=1);
 
 namespace App\Commands;
 
-use GrahamCampbell\GitHub\Facades\GitHub;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Facades\File;
@@ -34,6 +33,9 @@ final class FeedCommand extends Command
         SIGNATURE;
     protected $description = 'Generate feed.';
 
+    /**
+     * @throws \Illuminate\Contracts\Filesystem\FileNotFoundException
+     */
     public function handle(): void
     {
         /** @noinspection NullPointerExceptionInspection */
@@ -44,18 +46,18 @@ final class FeedCommand extends Command
             ->filter(filled(...))
             ->reduce(
                 static function (Collection $carry, string $line) use (&$date): Collection {
-                    $line = str($line);
+                    $stringable = str($line);
 
-                    if ($line->startsWith(self::FLAG)) {
-                        $date = $line->remove(self::FLAG)->trim();
+                    if ($stringable->startsWith(self::FLAG)) {
+                        $date = $stringable->remove(self::FLAG)->trim();
 
                         return $carry;
                     }
 
                     return $carry->add([
                         'date' => ($date = Date::createFromTimestamp(strtotime((string) $date)))->isCurrentDay() ? now() : $date,
-                        'title' => $title = (string) $line->match('/\[.*\]/')->trim('[]'),
-                        'link' => $link = (string) $line->match('/\(.*\)/')->trim('()'),
+                        'title' => $title = (string) $stringable->match('/\[.*\]/')->trim('[]'),
+                        'link' => $link = (string) $stringable->match('/\(.*\)/')->trim('()'),
                         'repository_link' => $repositoryLink = self::REPOSITORY_LINK,
                         'content' => <<<HTML
                             <a href="$link" target="_blank">$title</a>
