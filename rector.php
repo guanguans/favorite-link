@@ -33,22 +33,25 @@ use Rector\ValueObject\PhpVersion;
 return RectorConfig::configure()
     ->withPaths([
         __DIR__.'/app',
+        __DIR__.'/bootstrap',
         __DIR__.'/tests',
         __DIR__.'/composer-updater',
+        __DIR__.'/favorite-link',
         ...glob(__DIR__.'/{*,.*}.php', \GLOB_BRACE),
     ])
     ->withRootFiles()
     // ->withSkipPath(__DIR__.'/tests.php')
     ->withSkip([
-        __DIR__.'/tests.php',
-        '**/Fixtures/*',
         '**/__snapshots__/*',
+        '**/Fixtures/*',
+        __DIR__.'/tests.php',
+        __FILE__,
     ])
     ->withCache(__DIR__.'/.build/rector/')
     ->withParallel()
     // ->withoutParallel()
-    ->withImportNames(importNames: false)
-    // ->withImportNames(importDocBlockNames: false, importShortClasses: false)
+    // ->withImportNames(importNames: false)
+    ->withImportNames(importDocBlockNames: false, importShortClasses: false)
     ->withFluentCallNewLine()
     ->withAttributesSets(phpunit: true)
     ->withComposerBased(phpunit: true)

@@ -12,24 +12,34 @@ declare(strict_types=1);
  */
 
 use Ergebnis\License;
-use Ergebnis\PhpCsFixer\Config;
+use Ergebnis\License\Holder;
+use Ergebnis\License\Range;
+use Ergebnis\License\Type\MIT;
+use Ergebnis\License\Url;
+use Ergebnis\License\Year;
+use Ergebnis\PhpCsFixer\Config\Factory;
+use Ergebnis\PhpCsFixer\Config\Fixers;
+use Ergebnis\PhpCsFixer\Config\Rules;
+use Ergebnis\PhpCsFixer\Config\RuleSet\Php83;
 use PhpCsFixer\Finder;
+use PhpCsFixer\Fixer\DeprecatedFixerInterface;
+use PhpCsFixerCustomFixers\Fixer\AbstractFixer;
 
-$license = License\Type\MIT::text(
+$license = MIT::text(
     __DIR__.'/LICENSE',
-    License\Range::since(
-        License\Year::fromString('2018'),
+    Range::since(
+        Year::fromString('2018'),
         new DateTimeZone('Asia/Shanghai'),
     ),
-    License\Holder::fromString('guanguans<ityaozm@gmail.com>'),
-    License\Url::fromString('https://github.com/guanguans/favorite-link'),
+    Holder::fromString('guanguans<ityaozm@gmail.com>'),
+    Url::fromString('https://github.com/guanguans/favorite-link'),
 );
 
 // $license->save();
 
-$ruleSet = Config\RuleSet\Php83::create()
+$ruleSet = Php83::create()
     ->withHeader($license->header())
-    ->withRules(Config\Rules::fromArray([
+    ->withRules(Rules::fromArray([
         '@PHP70Migration' => true,
         '@PHP70Migration:risky' => true,
         '@PHP71Migration' => true,
@@ -177,17 +187,17 @@ $ruleSet = Config\RuleSet\Php83::create()
         'static_lambda' => false, // pest
     ]));
 
-$ruleSet->withCustomFixers(Config\Fixers::fromFixers(
+$ruleSet->withCustomFixers(Fixers::fromFixers(
     ...array_filter(
         iterator_to_array(new PhpCsFixerCustomFixers\Fixers),
         static fn (
-            PhpCsFixerCustomFixers\Fixer\AbstractFixer $fixer
-        ): bool => !$fixer instanceof PhpCsFixer\Fixer\DeprecatedFixerInterface
+            AbstractFixer $fixer
+        ): bool => !$fixer instanceof DeprecatedFixerInterface
             && !\array_key_exists($fixer->getName(), $ruleSet->rules()->toArray())
     )
 ));
 
-return Config\Factory::fromRuleSet($ruleSet)
+return Factory::fromRuleSet($ruleSet)
     ->setFinder(
         Finder::create()
             ->in(__DIR__)

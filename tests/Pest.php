@@ -17,8 +17,10 @@ declare(strict_types=1);
 
 use Illuminate\Support\Facades\Process;
 use Pest\Expectation;
+use Symfony\Component\Finder\Finder;
+use Tests\TestCase;
 
-uses(Tests\TestCase::class)
+uses(TestCase::class)
     ->beforeAll(function (): void {
         clear_same_namespace();
     })
@@ -84,7 +86,7 @@ function fixtures_path(string $path = ''): string
 function clear_same_namespace(): void
 {
     foreach (
-        Symfony\Component\Finder\Finder::create()
+        Finder::create()
             ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
             ->name('*.php') as $finder
     ) {

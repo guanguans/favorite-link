@@ -15,12 +15,15 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
+use App\Commands\Command;
+use App\Commands\FeedCommand;
+
 arch()->preset()->php();
 arch()->preset()->security();
 // arch()->preset()->laravel();
 arch()->preset()->strict()->ignoring([
-    App\Commands\Command::class,
-    App\Commands\FeedCommand::class,
+    Command::class,
+    FeedCommand::class,
 ]);
 // arch()->preset()->relaxed();
 
