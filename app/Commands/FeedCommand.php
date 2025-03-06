@@ -17,6 +17,7 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Process;
+use Illuminate\Support\Stringable;
 use Laminas\Feed\Writer\Feed;
 
 /**
@@ -44,10 +45,9 @@ final class FeedCommand extends Command
             ->prepend(self::FLAG)
             ->explode(\PHP_EOL)
             ->filter(filled(...))
+            ->map(str(...))
             ->reduce(
-                static function (Collection $carry, string $line) use (&$date): Collection {
-                    $stringable = str($line);
-
+                static function (Collection $carry, Stringable $stringable) use (&$date): Collection {
                     if ($stringable->startsWith(self::FLAG)) {
                         $date = $stringable->remove(self::FLAG)->trim();
 
