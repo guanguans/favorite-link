@@ -13,6 +13,7 @@
 
 ### March 7, 2025 
 - [beyondcode/laravel-masked-db-dump: 从数据库中转储掩码信息](https://github.com/beyondcode/laravel-masked-db-dump) 
+- [hkdobrev/cleanmac: 使用脚本清理 macOS，而不是昂贵的应用程序](https://github.com/hkdobrev/cleanmac) 
 ### March 4, 2025 
 - [archtechx/laravel-seo: Laravel 的 SEO 软件包](https://github.com/archtechx/laravel-seo) 
 - [jaxon-php/jaxon-config: 将配置选项保存在不可变对象中](https://github.com/jaxon-php/jaxon-config) 
