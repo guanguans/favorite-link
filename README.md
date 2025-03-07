@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### March 7, 2025 
+- [beyondcode/laravel-masked-db-dump: 从数据库中转储掩码信息](https://github.com/beyondcode/laravel-masked-db-dump) 
 ### March 4, 2025 
 - [archtechx/laravel-seo: Laravel 的 SEO 软件包](https://github.com/archtechx/laravel-seo) 
 - [jaxon-php/jaxon-config: 将配置选项保存在不可变对象中](https://github.com/jaxon-php/jaxon-config) 
