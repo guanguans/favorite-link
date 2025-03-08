@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### March 8, 2025 
+- [xxnuo/MTranServer: 低占用速度快可私有部署的自由版 Google 翻译](https://github.com/xxnuo/MTranServer) 
 ### March 7, 2025 
 - [beyondcode/laravel-masked-db-dump: 从数据库中转储掩码信息](https://github.com/beyondcode/laravel-masked-db-dump) 
 - [hkdobrev/cleanmac: 使用脚本清理 macOS，而不是昂贵的应用程序](https://github.com/hkdobrev/cleanmac) 
