@@ -12,6 +12,9 @@
 
 
 
+
+### March 11, 2025 
+- [mrmarchone/laravel-auto-crud: Laravel Auto CRUD Generator 是一个软件包，可简化 Laravel 应用程序的 CRUD（创建、读取、更新、删除）作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。](https://github.com/mrmarchone/laravel-auto-crud) 
 ### March 8, 2025 
 - [xxnuo/MTranServer: 低占用速度快可私有部署的自由版 Google 翻译](https://github.com/xxnuo/MTranServer) 
 ### March 7, 2025 
