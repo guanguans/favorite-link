@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-03-07T16:00:00+00:00</updated>
+  <updated>2025-03-10T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[mrmarchone/laravel-auto-crud: Laravel Auto CRUD Generator 是一个软件包，可简化 Laravel 应用程序的 CRUD (创建、读取、更新、删除) 作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。]]></title>
+    <published>2025-03-10T16:00:00+00:00</published>
+    <updated>2025-03-10T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="创建、读取、更新、删除) 作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。](https://github.com/mrmarchone/laravel-auto-crud"/>
+    <id>创建、读取、更新、删除) 作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。](https://github.com/mrmarchone/laravel-auto-crud</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%88%9B%E5%BB%BA%E3%80%81%E8%AF%BB%E5%8F%96%E3%80%81%E6%9B%B4%E6%96%B0%E3%80%81%E5%88%A0%E9%99%A4)%20%E4%BD%9C%E3%80%82%E5%8F%AA%E9%9C%80%E4%B8%80%E4%B8%AA%E5%91%BD%E4%BB%A4%EF%BC%8C%E6%82%A8%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%B8%BA%E6%89%80%E9%80%89%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E5%BF%85%E8%A6%81%E7%9A%84%E6%96%87%E4%BB%B6%E5%92%8C%E9%80%BB%E8%BE%91%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%87%8F%E5%B0%91%E5%BC%80%E5%8F%91%E6%97%B6%E9%97%B4%E5%92%8C%E5%B7%A5%E4%BD%9C%E9%87%8F%E3%80%82](https://github.com/mrmarchone/laravel-auto-crud" target="_blank">mrmarchone/laravel-auto-crud: Laravel Auto CRUD
+Generator 是一个软件包，可简化 Laravel 应用程序的 CRUD (创建、读取、更新、删除)
+作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%88%9B%E5%BB%BA%E3%80%81%E8%AF%BB%E5%8F%96%E3%80%81%E6%9B%B4%E6%96%B0%E3%80%81%E5%88%A0%E9%99%A4)%20%E4%BD%9C%E3%80%82%E5%8F%AA%E9%9C%80%E4%B8%80%E4%B8%AA%E5%91%BD%E4%BB%A4%EF%BC%8C%E6%82%A8%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%B8%BA%E6%89%80%E9%80%89%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90%E6%89%80%E6%9C%89%E5%BF%85%E8%A6%81%E7%9A%84%E6%96%87%E4%BB%B6%E5%92%8C%E9%80%BB%E8%BE%91%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%87%8F%E5%B0%91%E5%BC%80%E5%8F%91%E6%97%B6%E9%97%B4%E5%92%8C%E5%B7%A5%E4%BD%9C%E9%87%8F%E3%80%82](https://github.com/mrmarchone/laravel-auto-crud" target="_blank">创建、读取、更新、删除)
+作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。](https://github.com/mrmarchone/laravel-auto-crud</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xxnuo/MTranServer: 低占用速度快可私有部署的自由版 Google 翻译]]></title>
     <published>2025-03-07T16:00:00+00:00</published>
