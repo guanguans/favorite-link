@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 10 Mar 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 11 Mar 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>qfcy/PyStackSnapshot: 一个在发生异常时，自动捕获异常发生时的完整栈帧，包括局部、全局变量的库。</title>
+      <pubDate>Tue, 11 Mar 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/qfcy/PyStackSnapshot</link>
+      <guid>https://github.com/qfcy/PyStackSnapshot</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/qfcy/PyStackSnapshot" target="_blank">qfcy/PyStackSnapshot: 一个在发生异常时，自动捕获异常发生时的完整栈帧，包括局部、全局变量的库。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/qfcy/PyStackSnapshot" target="_blank">https://github.com/qfcy/PyStackSnapshot</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>mrmarchone/laravel-auto-crud: Laravel Auto CRUD Generator 是一个软件包，可简化 Laravel 应用程序的 CRUD (创建、读取、更新、删除) 作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。</title>
       <pubDate>Mon, 10 Mar 2025 16:00:00 +0000</pubDate>
