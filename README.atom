@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[go-task/task: 用 Go 编写的任务运行程序/更简单的 Make 替代程序]]></title>
+    <published>2025-03-11T08:00:00+00:00</published>
+    <updated>2025-03-11T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/go-task/task"/>
+    <id>https://github.com/go-task/task</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/go-task/task" target="_blank">go-task/task: 用 Go 编写的任务运行程序/更简单的 Make 替代程序</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/go-task/task" target="_blank">https://github.com/go-task/task</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mrmarchone/laravel-auto-crud: Laravel Auto CRUD Generator 是一个软件包，可简化 Laravel 应用程序的 CRUD (创建、读取、更新、删除) 作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。]]></title>
     <published>2025-03-10T16:00:00+00:00</published>
     <updated>2025-03-10T16:00:00+00:00</updated>
