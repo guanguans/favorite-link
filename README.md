@@ -13,6 +13,9 @@
 
 
 
+
+### March 12, 2025 
+- [qfcy/PyStackSnapshot: 一个在发生异常时，自动捕获异常发生时的完整栈帧，包括局部、全局变量的库。](https://github.com/qfcy/PyStackSnapshot) 
 ### March 11, 2025 
 - [mrmarchone/laravel-auto-crud: Laravel Auto CRUD Generator 是一个软件包，可简化 Laravel 应用程序的 CRUD (创建、读取、更新、删除) 作。只需一个命令，您就可以为所选模型生成所有必要的文件和逻辑，从而减少开发时间和工作量。](https://github.com/mrmarchone/laravel-auto-crud) 
 ### March 8, 2025 
