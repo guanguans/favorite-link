@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>Blaspsoft/doxswap: 📄 🔄 Doxswap 是一个 Laravel 包，用于使用 LibreOffice 进行无缝文档转换。使用简单、优雅的 API 轻松转换 DOCX、PDF、ODT 等。支持 Laravel 存储、可配置设置和安全文件处理。</title>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/Blaspsoft/doxswap</link>
+      <guid>https://github.com/Blaspsoft/doxswap</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Blaspsoft/doxswap" target="_blank">Blaspsoft/doxswap: 📄 🔄 Doxswap 是一个 Laravel 包，用于使用 LibreOffice 进行无缝文档转换。使用简单、优雅的 API 轻松转换 DOCX、PDF、ODT 等。支持 Laravel 存储、可配置设置和安全文件处理。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Blaspsoft/doxswap" target="_blank">https://github.com/Blaspsoft/doxswap</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>qfcy/PyStackSnapshot: 一个在发生异常时，自动捕获异常发生时的完整栈帧，包括局部、全局变量的库。</title>
       <pubDate>Tue, 11 Mar 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/qfcy/PyStackSnapshot</link>
