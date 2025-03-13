@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### March 13, 2025 
+- [satnaing/astro-paper: 一个最小、可访问且对 SEO 友好的 Astro 博客主题](https://github.com/satnaing/astro-paper) 
 ### March 12, 2025 
 - [qfcy/PyStackSnapshot: 一个在发生异常时，自动捕获异常发生时的完整栈帧，包括局部、全局变量的库。](https://github.com/qfcy/PyStackSnapshot) 
 - [go-task/task: 用 Go 编写的任务运行程序/更简单的 Make 替代程序](https://github.com/go-task/task) 
