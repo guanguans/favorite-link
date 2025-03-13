@@ -13,6 +13,7 @@
 
 ### March 13, 2025 
 - [satnaing/astro-paper: 一个最小、可访问且对 SEO 友好的 Astro 博客主题](https://github.com/satnaing/astro-paper) 
+- [danjohnson95/pinout: 使用 Pinout 将您的 Laravel 应用程序连接到物理世界，代码与电路在这里相遇。硬件和 Web 无缝结合 🤝](https://github.com/danjohnson95/pinout) 
 ### March 12, 2025 
 - [qfcy/PyStackSnapshot: 一个在发生异常时，自动捕获异常发生时的完整栈帧，包括局部、全局变量的库。](https://github.com/qfcy/PyStackSnapshot) 
 - [go-task/task: 用 Go 编写的任务运行程序/更简单的 Make 替代程序](https://github.com/go-task/task) 
