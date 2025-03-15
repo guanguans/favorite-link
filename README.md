@@ -13,7 +13,7 @@
 
 
 ### March 15, 2025 
-- [JoeyMckenzie/nasastan: PHPStan扩展，用于在您的PHP代码中强制执行NASA的Power of Ten。](https://github.com/JoeyMckenzie/nasastan) 
+- [JoeyMckenzie/nasastan: PHPStan 扩展，用于在您的 PHP 代码中强制执行 NASA 的 Power of Ten。](https://github.com/JoeyMckenzie/nasastan) 
 ### March 13, 2025 
 - [satnaing/astro-paper: 一个最小、可访问且对 SEO 友好的 Astro 博客主题](https://github.com/satnaing/astro-paper) 
 - [danjohnson95/pinout: 使用 Pinout 将您的 Laravel 应用程序连接到物理世界，代码与电路在这里相遇。硬件和 Web 无缝结合 🤝](https://github.com/danjohnson95/pinout) 

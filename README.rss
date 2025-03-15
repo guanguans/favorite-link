@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 12 Mar 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 14 Mar 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>JoeyMckenzie/nasastan: PHPStan 扩展，用于在您的 PHP 代码中强制执行 NASA 的 Power of Ten。</title>
+      <pubDate>Fri, 14 Mar 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/JoeyMckenzie/nasastan</link>
+      <guid>https://github.com/JoeyMckenzie/nasastan</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JoeyMckenzie/nasastan" target="_blank">JoeyMckenzie/nasastan: PHPStan 扩展，用于在您的 PHP 代码中强制执行 NASA 的 Power of Ten。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JoeyMckenzie/nasastan" target="_blank">https://github.com/JoeyMckenzie/nasastan</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>satnaing/astro-paper: 一个最小、可访问且对 SEO 友好的 Astro 博客主题</title>
       <pubDate>Wed, 12 Mar 2025 16:00:00 +0000</pubDate>
