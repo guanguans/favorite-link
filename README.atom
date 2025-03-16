@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[xykt/NetQuality: 用于网络质量检测的脚本]]></title>
+    <published>2025-03-15T08:00:00+00:00</published>
+    <updated>2025-03-15T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/xykt/NetQuality"/>
+    <id>https://github.com/xykt/NetQuality</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/xykt/NetQuality" target="_blank">xykt/NetQuality: 用于网络质量检测的脚本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/xykt/NetQuality" target="_blank">https://github.com/xykt/NetQuality</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JoeyMckenzie/nasastan: PHPStan 扩展，用于在您的 PHP 代码中强制执行 NASA 的 Power of Ten。]]></title>
     <published>2025-03-14T16:00:00+00:00</published>
     <updated>2025-03-14T16:00:00+00:00</updated>
