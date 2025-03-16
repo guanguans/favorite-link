@@ -52,7 +52,7 @@
 - [tobert/pcstat: 获取 Linux 上文件的页面缓存统计信息](https://github.com/tobert/pcstat)
 - [marcj/topsort.php: PHP 中的高性能拓扑排序/依赖解析器](https://github.com/marcj/topsort.php)
 ### December 14, 2022
-- [PlexPt/chatgpt-java: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.](https://github.com/PlexPt/chatgpt-java)
+- [PlexPt/chatgpt-java: ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版。开箱即用。](https://github.com/PlexPt/chatgpt-java)
 ### December 13, 2022
 - [bbdshow/qelog: 轻量级、高性能、低成本的日志记录服务。支持告警、指标 (公制) 统计、快速查询、访问等](https://github.com/bbdshow/qelog)
 - [fruitl00p/php-mt940: php-mt940 包为 SWIFT (斯威夫特) 使用的 MT940 格式提供了一个轻量级解析器。输出被转换 (转换) 为易于使用的数据类 Transaction_banking，它本身包含 Statement_banking 对象。](https://github.com/fruitl00p/php-mt940)
@@ -66,7 +66,7 @@
 - [wuchangming/chat-gpt-ask-question-engineer-handbook: 🤖️ChatGPT 提问工程师开发指南](https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook)
 ### December 8, 2022
 - [akrylysov/pogreb: 用 Go 编写 (写) 的重读工作负载的嵌入式键值存储](https://github.com/akrylysov/pogreb)
-- [Wanchaochao/laravel-repository: laravel repository, 基于 Eloquent Model 二次封装, 抛弃传统的链式调用, 让代码更简洁, 使用更直观的数组来操作 model](https://github.com/Wanchaochao/laravel-repository)
+- [Wanchaochao/laravel-repository: laravel repository, 基于 Eloquent Model 二次封装，抛弃传统的链式调用，让代码更简洁，使用更直观的数组来操作 model](https://github.com/Wanchaochao/laravel-repository)
 ### December 7, 2022
 - [go-faker/faker: Go (Golang) 用于结构的假数据生成器](https://github.com/go-faker/faker)
 - [rjeczalik/notify: 类型化的文件系统事件通知库。](https://github.com/rjeczalik/notify)
@@ -98,7 +98,7 @@
 - [cedricblondeau/world-cup-2022-cli-dashboard: 在您的终端中观看 2022 年世界杯直播比赛。⚽🏆](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard)
 - [rs/dnscache: Go 的 DNS 查找缓存](https://github.com/rs/dnscache)
 - [jhillyerd/enmime: Go 的 MIME 邮件编解码包](https://github.com/jhillyerd/enmime)
-- [go-gorp/gorp: Go 关系持久性-一个类 ORM 的 Go 库](https://github.com/go-gorp/gorp)
+- [go-gorp/gorp: Go 关系持久性 - 一个类 ORM 的 Go 库](https://github.com/go-gorp/gorp)
 ### November 29, 2022
 - [laravie/serialize-queries: 可序列化的 Laravel 查询生成器](https://github.com/laravie/serialize-queries)
 - [costela/wesher: Wireguard 覆盖网状网络管理器](https://github.com/costela/wesher)
@@ -146,7 +146,7 @@
 - [mvdan/unparam: 在 Go 中查找未使用的参数](https://github.com/mvdan/unparam)
 ### November 21, 2022
 - [bbrks/go-blurhash: Blurhash 的纯 Go 实现](https://github.com/bbrks/go-blurhash)
-- [ckaznocha/protoc-gen-lint: ckaznocha/protoc-gen-lint: Google 协议缓冲区 (protobufs) 编译器的插件，用于检查. proto 文件是否存在样式违规。](https://github.com/ckaznocha/protoc-gen-lint)
+- [ckaznocha/protoc-gen-lint: ckaznocha/protoc-gen-lint: Google 协议缓冲区 (protobufs) 编译器的插件，用于检查。proto 文件是否存在样式违规。](https://github.com/ckaznocha/protoc-gen-lint)
 - [wneessen/go-mail: 📧 易于使用，但使用 Go 发送邮件的综合库](https://github.com/wneessen/go-mail)
 - [antonmedv/llama: 终端文件管理器](https://github.com/antonmedv/llama)
 - [Landish/pingcrm-react: 一个演示应用程序，用于说明 Inertia.js 如何与 Laravel 和 React 一起工作](https://github.com/Landish/pingcrm-react)
@@ -368,7 +368,7 @@
 ### October 9, 2022
 - [nfx/go-htmltable: 从 Go 中的 URL 中提取结构化的 HTML 表格数据，几乎没有外部依赖](https://github.com/nfx/go-htmltable)
 - [fluxcd/flagger: 渐进式交付 Kubernetes 操作员 (Canary、A/B 测试和蓝/绿部署)](https://github.com/fluxcd/flagger)
-- [peachpiecompiler/peachpie: PeachPie-. NET 和. NET 核心的 PHP 编译器和运行时](https://github.com/peachpiecompiler/peachpie)
+- [peachpiecompiler/peachpie: PeachPie-. NET 和。NET 核心的 PHP 编译器和运行时](https://github.com/peachpiecompiler/peachpie)
 ### September 30, 2022
 - [robinovitch61/wander: HashiCorp Nomad 的终端应用程序/TUI](https://github.com/robinovitch61/wander)
 - [tonybaloney/vscode-pets: 在您的 VS Code 窗口中添加好玩的宠物 🦀🐱🐶](https://github.com/tonybaloney/vscode-pets)
@@ -454,7 +454,7 @@
 - [tio/tio: 一个简单的串口设备 I/O 工具](https://github.com/tio/tio)
 ### September 9, 2022
 - [friends-of-reactphp/stomp: ReactPHP 的 STOMP 绑定。](https://github.com/friends-of-reactphp/stomp)
-- [cweijan/vscode-office: 让 VSCode 支持预览 PDF,Excel 等格式, 并增加 markdown 所见即所得编辑器](https://github.com/cweijan/vscode-office)
+- [cweijan/vscode-office: 让 VSCode 支持预览 PDF,Excel 等格式，并增加 markdown 所见即所得编辑器](https://github.com/cweijan/vscode-office)
 - [revel/revel: Go 语言的高生产力、全栈 Web 框架。](https://github.com/revel/revel)
 ### September 8, 2022
 - [stomp-php/stomp-php: Stomp PHP 客户端](https://github.com/stomp-php/stomp-php)
@@ -550,7 +550,7 @@
 - [codebyray/laravel-review-rateable: Laravel 6、7、8 和 9 的审查和评级系统](https://github.com/codebyray/laravel-review-rateable)
 ### August 17, 2022
 - [go-eden/routine: 提供一些方便的 API，包括 Goid()、GetG() 和 LocalStorage，这是一个 goroutine 的本地存储，就像其他语言中的 ThreadLocal 一样。](https://github.com/go-eden/routine)
-- [hktalent/scan4all: 23 种应用密码破解；7000+网络指纹；146 种协议和 90000+条规则端口扫描](https://github.com/hktalent/scan4all)
+- [hktalent/scan4all: 23 种应用密码破解；7000+ 网络指纹；146 种协议和 90000+ 条规则端口扫描](https://github.com/hktalent/scan4all)
 - [tecnickcom/TCPDF: 生成 PDF 文档和条形码的 PHP 库的官方克隆](https://github.com/tecnickcom/TCPDF)
 ### August 16, 2022
 - [nareix/joy5: AV toolkit](https://github.com/nareix/joy5)
@@ -564,7 +564,7 @@
 - [dgryski/go-jump: go-jump: 跳转一致性哈希](https://github.com/dgryski/go-jump)
 - [googleapis/release-please: 根据常规提交规范生成发布 PR](https://github.com/googleapis/release-please)
 - [google-github-actions/release-please-action: 基于常规提交的自动发布](https://github.com/google-github-actions/release-please-action)
-- [googleapis/repo-automation-bots: 一个用 Probot 构建的 GitHub 应用程序，它根据由常规提交. org 定义的语义版本提交提出发布。](https://github.com/googleapis/repo-automation-bots/tree/main/packages/release-please)
+- [googleapis/repo-automation-bots: 一个用 Probot 构建的 GitHub 应用程序，它根据由常规提交。org 定义的语义版本提交提出发布。](https://github.com/googleapis/repo-automation-bots/tree/main/packages/release-please)
 - [ytake/Laravel-Aspect: laravel 框架的面向切面编程包](https://github.com/ytake/Laravel-Aspect)
 ### August 12, 2022
 - [memphisdev/memphis-broker: 面向现代开发人员的强大消息传递平台](https://github.com/memphisdev/memphis-broker)
@@ -918,7 +918,7 @@
 - [radondb/radon: RadonDB 是一个开源的云原生 MySQL 数据库，用于构建全球可扩展的云服务](https://github.com/radondb/radon)
 ### June 7, 2022
 - [p-chess/chess: Chess 是一个 PHP 国际象棋库](https://github.com/p-chess/chess)
-- [StarCrossPortal/QingTing: 蜻蜓安全一个安全工具编排平台, 可以自由编排你的工具流](https://github.com/StarCrossPortal/QingTing)
+- [StarCrossPortal/QingTing: 蜻蜓安全一个安全工具编排平台，可以自由编排你的工具流](https://github.com/StarCrossPortal/QingTing)
 - [crunzphp/crunz: 基于 PHP 的作业调度程序](https://github.com/crunzphp/crunz)
 - [rectorphp/rector-laravel: Laravel 的 Rector 升级规则](https://github.com/rectorphp/rector-laravel)
 ### June 6, 2022
@@ -1000,7 +1000,7 @@
 - [dairongpeng/algorithm-note: 数组、链表、树、图、递归、DP、有序表等相关数据结构与算法](https://github.com/dairongpeng/algorithm-note)
 - [distribworks/dkron: 分布式、容错作业调度系统](https://github.com/distribworks/dkron)
 - [OldSmokeGun/go-scaffold: Go 开发基础脚手架](https://github.com/OldSmokeGun/go-scaffold)
-- [devcoder-xyz/php-dotenv: 解析. env 文件](https://github.com/devcoder-xyz/php-dotenv)
+- [devcoder-xyz/php-dotenv: 解析。env 文件](https://github.com/devcoder-xyz/php-dotenv)
 - [christofferok/laravel-emojione: Laravel 软件包，便于使用 EmojiOne 的华丽表情符号](https://github.com/christofferok/laravel-emojione)
 - [DirectoryTree/LdapRecord-Laravel: 面向 Laravel 的多域 LDAP 认证与管理。](https://github.com/DirectoryTree/LdapRecord-Laravel)
 - [qirolab/laravel-reactions: Laravel 反应包，用于在 Eloquent 模型上实现反应 (例如：喜欢、不喜欢、爱、情感等)。](https://github.com/qirolab/laravel-reactions)
@@ -1013,7 +1013,7 @@
 - [drud/ddev: 本地 PHP 开发环境系统](https://github.com/drud/ddev)
 - [friendica/friendica: Friendica 通讯平台](https://github.com/friendica/friendica)
 - [malwaredllc/minicache: 具有客户端一致哈希、分布式领导者选举和动态节点发现的分布式缓存。支持使用 mTLS 保护的 HTTP/gRPC 接口。](https://github.com/malwaredllc/minicache)
-- [newpanjing/gofound: o 语言全文检索引擎基于平衡二叉树+正排索引、倒排索引实现](https://github.com/newpanjing/gofound)
+- [newpanjing/gofound: o 语言全文检索引擎基于平衡二叉树 + 正排索引、倒排索引实现](https://github.com/newpanjing/gofound)
 - [zhukovaskychina/xmysql-server: 基于 Golang 实现的 mysql 数据库](https://github.com/zhukovaskychina/xmysql-server)
 ### May 17, 2022
 - [mattiasgeniar/phpunit-query-count-assertions: PHPUnit 的自定义断言，允许您计算测试中使用的 SQL 查询的数量。](https://github.com/mattiasgeniar/phpunit-query-count-assertions)
@@ -1177,7 +1177,7 @@
 - [quasilyte/phpgrep: PHP 代码的语法感知 grep。](https://github.com/quasilyte/phpgrep)
 - [ClementTsang/bottom: 又一个跨平台图形进程/系统监视器。](https://github.com/ClementTsang/bottom)
 - [smartcontractkit/chainlink: 分散 oracle 网络的节点，连接链上和链下计算](https://github.com/smartcontractkit/chainlink)
-- [jvoisin/snuffleupagus: Php7 和 php8 的安全模块-清除 bug 类并虚拟修补其余部分！](https://github.com/jvoisin/snuffleupagus)
+- [jvoisin/snuffleupagus: Php7 和 php8 的安全模块 - 清除 bug 类并虚拟修补其余部分！](https://github.com/jvoisin/snuffleupagus)
 ### April 6, 2022
 - [Hansimov/csapp: 《深入理解计算机系统》中文电子版 (原书第 3 版) 与实验材料](https://github.com/Hansimov/csapp)
 - [kitar/laravel-dynamodb: 基于 DynamoDB 的 Eloquent 模型和 Laravel 查询构建器。](https://github.com/kitar/laravel-dynamodb)
@@ -1232,7 +1232,7 @@
 - [Textalk/websocket-php: PHP 中的 WebSocket 客户端和服务器](https://github.com/Textalk/websocket-php)
 ### March 25, 2022
 - [charlieuki/receipt-printer: 用于集成 ECS/POS 打印驱动程序的 Laravel 包](https://github.com/charlieuki/receipt-printer)
-- [LarsWiegers/laravel-translations-checker: 不要再担心错过翻译了! 使用翻译检查器。](https://github.com/LarsWiegers/laravel-translations-checker)
+- [LarsWiegers/laravel-translations-checker: 不要再担心错过翻译了！使用翻译检查器。](https://github.com/LarsWiegers/laravel-translations-checker)
 - [onflow/cadence: Cadence，面向资源的智能合约编程语言 🏃‍♂️](https://github.com/onflow/cadence)
 - [hidehalo/nanoid-php: PHP 实现 Nanoid，安全 url 友好的唯一 ID 生成器](https://github.com/hidehalo/nanoid-php)
 - [brittonhayes/pillager: 用 Go 掠夺敏感信息的文件系统。](https://github.com/brittonhayes/pillager)
@@ -1312,7 +1312,7 @@
 - [sroze/messenger-enqueue-transport: 使用带 Symfony 的 Messenger 组件的 Enqueue。](https://github.com/sroze/messenger-enqueue-transport)
 - [Soft/iter: iter 是 Go 的通用迭代器库](https://github.com/Soft/iter)
 - [bnkamalesh/goapp: 构建和开发 Go Web 应用程序/服务的自以为是的指南](https://github.com/bnkamalesh/goapp)
-- [BrainMaestro/envman: 轻松管理您的. env 配置](https://github.com/BrainMaestro/envman)
+- [BrainMaestro/envman: 轻松管理您的。env 配置](https://github.com/BrainMaestro/envman)
 ### March 4, 2022
 - [samber/lo: 💥 基于 Go 1.18+ 泛型 (map、filter、contains、find...) 的 Lodash 风格的 Go 库](https://github.com/samber/lo)
 - [oschwald/geoip2-golang: 用于 Go 的非官方 MaxMind GeoIP2 阅读器](https://github.com/oschwald/geoip2-golang)
@@ -1331,11 +1331,11 @@
 - [maize-tech/laravel-encryptable: 通过有说服力的查询轻松地匿名敏感数据](https://github.com/maize-tech/laravel-encryptable)
 - [tray-labs/laravel-influxdb: 在 Laravel 中使用 InfluxDB 的 Lib](https://github.com/tray-labs/laravel-influxdb)
 - [woai3c/MIT6.828: 实现一个操作系统内核](https://github.com/woai3c/MIT6.828)
-- [woai3c/nand2tetris: 计算机系统要素-从零开始构建现代计算机](https://github.com/woai3c/nand2tetris)
+- [woai3c/nand2tetris: 计算机系统要素 - 从零开始构建现代计算机](https://github.com/woai3c/nand2tetris)
 - [monitoror/monitoror: 统一监控墙板 ーー 轻便、符合人体工程学及可靠的监控。](https://github.com/monitoror/monitoror)
 ### February 28, 2022
 - [Laravel-Backpack/LangFileManager: 用于编辑 Laravel 语言文件的快速界面，适用于 Backpack。](https://github.com/Laravel-Backpack/LangFileManager)
-- [sanmai/later: 稍后: 一个延迟的对象管理器。不需要回调](https://github.com/sanmai/later)
+- [sanmai/later: 稍后：一个延迟的对象管理器。不需要回调](https://github.com/sanmai/later)
 - [OndraM/ci-detector: 检测持续集成环境并获取当前构建的信息](https://github.com/OndraM/ci-detector)
 - [rindow/rindow-neuralnetworks: 用于 PHP 机器学习的神经网络库](https://github.com/rindow/rindow-neuralnetworks)
 - [getlantern/systray: Systemray 是一个跨平台的 Go 库，用于在通知区域放置图标和菜单。](https://github.com/getlantern/systray)
@@ -1381,8 +1381,8 @@
 - [archtechx/enums: 使 PHP 枚举更可爱的助手。](https://github.com/archtechx/enums)
 - [GuoYaxiang/craftinginterpreters_zh: 手撸解释器教程](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 ### February 21, 2022
-- [Mrs4s/go-cqhttp: cqhttp 的 golang 实现，轻量、原生跨平台.](https://github.com/Mrs4s/go-cqhttp)
-- [Mrs4s/MiraiGo: qq 协议的 golang 实现, 移植于 mirai](https://github.com/Mrs4s/MiraiGo)
+- [Mrs4s/go-cqhttp: cqhttp 的 golang 实现，轻量、原生跨平台。](https://github.com/Mrs4s/go-cqhttp)
+- [Mrs4s/MiraiGo: qq 协议的 golang 实现，移植于 mirai](https://github.com/Mrs4s/MiraiGo)
 - [myokyawhtun/PDFMerger: PDFMerger 与 PHP 5、PHP 7 和 PHP 8 兼容](https://github.com/myokyawhtun/PDFMerger)
 - [freshbitsweb/laravel-log-enhancer: 通过向 laravel 日志中添加更多数据来简化调试](https://github.com/freshbitsweb/laravel-log-enhancer)
 - [davidhsianturi/blade-bootstrap-icons: 一个可以在 Laravel Blade 视图中轻松使用 Bootstrap 图标的包](https://github.com/davidhsianturi/blade-bootstrap-icons)
@@ -1434,7 +1434,7 @@
 - [Code-Hex/pget: 最快的文件下载客户端](https://github.com/Code-Hex/pget)
 - [jorenvh/laravel-share: Laravel 生成社交分享链接的可选包。](https://github.com/jorenvh/laravel-share)
 - [ttacon/libphonenumber: 谷歌的 libphonenumber 的 golang 端口](https://github.com/ttacon/libphonenumber)
-- [jasonmccreary/laravel-test-assertions: 一组在测试 Laravel 应用程序时有用的断言.](https://github.com/jasonmccreary/laravel-test-assertions)
+- [jasonmccreary/laravel-test-assertions: 一组在测试 Laravel 应用程序时有用的断言。](https://github.com/jasonmccreary/laravel-test-assertions)
 - [GeneaLabs/laravel-pivot-events：此包为 BelongsToMany 和 MorphToMany 关系上的 sync()、attach()、detach() 或 updateExistingPivot() 方法引入了新的 eloquent 事件。](https://github.com/GeneaLabs/laravel-pivot-events)
 - [GeneaLabs/laravel-messenger: 提供一个落地的、应用范围内的警报功能，以响应用户的行动，向他们显示各种类型的警报和通知。](https://github.com/GeneaLabs/laravel-messenger)
 - [GeneaLabs/laravel-governor: 在你的 Laravel 应用程序中用基于角色的细化权限来管理授权。](https://github.com/GeneaLabs/laravel-governor)
@@ -1444,7 +1444,7 @@
 - [GoogleChromeLabs/text-app: 适用于 ChromeOS 和 Chrome 的文本编辑器](https://github.com/GoogleChromeLabs/text-app)
 ### February 11, 2022
 - [oleiade/trousseau: 基于文件的加密键值存储](https://github.com/oleiade/trousseau)
-- [worksome/envy: 保持你的. env.example 文件是最新的](https://github.com/worksome/envy)
+- [worksome/envy: 保持你的。env.example 文件是最新的](https://github.com/worksome/envy)
 - [Ecodev/graphql-upload: 一个 PSR-15 中间件，支持 GraphQL 中的文件上传](https://github.com/Ecodev/graphql-upload)
 - [neoshiftlab/tree: 这个包提供了一个树形结构。](https://github.com/neoshiftlab/tree)
 - [fluent/fluent-logger-php: 一个用于 Fluentd 的结构化日志记录器 (PHP)](https://github.com/fluent/fluent-logger-php)
@@ -1456,7 +1456,7 @@
 - [hammerstonedev/sidecar: 从你的 Laravel 应用程序中部署和执行 AWS Lambda 函数。](https://github.com/hammerstonedev/sidecar)
 - [stefanzweifel/sidecar-browsershot: 一个 Sidecar 函数，用于在 Lambda 上运行 Browsershot。](https://github.com/stefanzweifel/sidecar-browsershot)
 - [fanpei91/torsniff: torsniff - 一个嗅探器，可以嗅探 BitTorrent 网络中的 torrents。](https://github.com/fanpei91/torsniff)
-- [jeanphorn/log4go: 一个类似于 log4j 或 log4c++的 golang 日志包，支持控制台、文件和网络。](https://github.com/jeanphorn/log4go)
+- [jeanphorn/log4go: 一个类似于 log4j 或 log4c++ 的 golang 日志包，支持控制台、文件和网络。](https://github.com/jeanphorn/log4go)
 - [symplify/vendor-patches: 用一个命令为软件包生成供应商补丁。](https://github.com/symplify/vendor-patches)
 - [ObuchiYuki/DevToysMac: Mac 版 DevToys](https://github.com/ObuchiYuki/DevToysMac)
 ### February 9, 2022
@@ -1479,7 +1479,7 @@
 ### February 7, 2022
 - [42wim/matterbridge: 在 mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk 和更多的 REST API 之间搭建桥梁](https://github.com/42wim/matterbridge)
 - [nicoverbruggen/phpmon: 轻量级，原生的 Mac 菜单栏应用程序，与 Laravel Valet 互动。](https://github.com/nicoverbruggen/phpmon)
-- [IrineSistiana/mosdns: 一个 DNS 转发器?](https://github.com/IrineSistiana/mosdns)
+- [IrineSistiana/mosdns: 一个 DNS 转发器？](https://github.com/IrineSistiana/mosdns)
 - [hfpp2012/railstart-niceadmin: 基于 Bootstrap 5 和 NiceAdmin 以及 Rails 7 的后端管理仪表板管理系统](https://github.com/hfpp2012/railstart-niceadmin)
 - [gera2ld/markmap: 使用 Markmap 将您的 Markdown 可视化为思维导图。](https://github.com/gera2ld/markmap)
 ### February 1, 2022

@@ -283,7 +283,7 @@
 - [atongen/gosaic: 创建您自己的图像马赛克。](https://github.com/atongen/gosaic)
 - [tylertreat/comcast: 模拟糟糕的网络连接，以便您可以构建更好的系统。](https://github.com/tylertreat/comcast)
 - [hyperjumptech/grule-rule-engine: Grule 是 Go (Golang) 编程语言的规则引擎库。](https://github.com/hyperjumptech/grule-rule-engine)
-- [xxjwxc/caoguo: golang, 微信小程序, 电商系统](https://github.com/xxjwxc/caoguo)
+- [xxjwxc/caoguo: golang, 微信小程序，电商系统](https://github.com/xxjwxc/caoguo)
 - [getcandy/candy-api: GetCandy 电子商务 API](https://github.com/getcandy/candy-api)
 ### October 26, 2021
 - [rfyiamcool/go-netflow: go netflow，捕获进程进/出流量，类似于 c Nethogs。](https://github.com/rfyiamcool/go-netflow)
@@ -319,7 +319,7 @@
 - [whyour/qinglong: 定时任务管理面板](https://github.com/whyour/qinglong)
 - [kitabisa/teler: 实时 HTTP 入侵检测](https://github.com/kitabisa/teler)
 - [go-openapi/spec: openapi 规范对象模型](https://github.com/go-openapi/spec)
-- [pinkhello/go-starter: Go 服务框架脚手架. 整合 echo、swag、viper、nsq、logrus、fx、xorm、cobra 等第三方库](https://github.com/pinkhello/go-starter)
+- [pinkhello/go-starter: Go 服务框架脚手架。整合 echo、swag、viper、nsq、logrus、fx、xorm、cobra 等第三方库](https://github.com/pinkhello/go-starter)
 - [Kagami/go-face: 🔍 使用 Go 进行人脸识别](https://github.com/Kagami/go-face)
 - [ikatyang/emoji-cheat-sheet: markdown 表情符号备忘单](https://github.com/ikatyang/emoji-cheat-sheet)
 ### October 16, 2021
@@ -452,18 +452,18 @@
 ### August 9, 2021
 - [togettoyou/super-signature: iOS 重签名应用 (iOS 超级签名、蒲公英 ios 内测分发)](https://github.com/togettoyou/super-signature)
 - [nyaruka/phonenumbers: Google 的 libphonenumber 库的 GoLang 端口](https://github.com/nyaruka/phonenumbers)
-- [lazy-luo/smarGate: 内网穿透，c++实现，无需公网 IP，小巧，易用，快速，安全，最好的多链路聚合 (p2p+proxy) 模式，不做之一...这才是你真正想要的内网穿透工具！](https://github.com/lazy-luo/smarGate)
+- [lazy-luo/smarGate: 内网穿透，c++ 实现，无需公网 IP，小巧，易用，快速，安全，最好的多链路聚合 (p2p+proxy) 模式，不做之一...这才是你真正想要的内网穿透工具！](https://github.com/lazy-luo/smarGate)
 - [protocolbuffers/protobuf-go: 支持 Google 的协议缓冲区](https://github.com/protocolbuffers/protobuf-go)
 - [wechaty/go-wechaty: Go Wechaty 是一个用 Go 编写的聊天机器人开发者对话 SDK](https://github.com/wechaty/go-wechaty)
 - [sebastiaanluca/php-pipe-operator: 为任何值和方法启用方法链接或连贯表达式。](https://github.com/sebastiaanluca/php-pipe-operator)
 ### August 5, 2021
 - [go-gl/mathgl: 纯 Go 3D 数学库。](https://github.com/go-gl/mathgl)
 - [matryer/xbar: 将任何脚本或程序的输出放入 macOS 菜单栏 (BitBar 重启)](https://github.com/matryer/xbar)
-- [mwitkow/go-proto-validators: 从. proto 注释生成消息验证器。](https://github.com/mwitkow/go-proto-validators)
+- [mwitkow/go-proto-validators: 从。proto 注释生成消息验证器。](https://github.com/mwitkow/go-proto-validators)
 - [adonovan/gopl.io: 来自“Go 编程语言”的示例程序](https://github.com/adonovan/gopl.io)
 - [matryer/xbar-plugins: xbar 的插件库](https://github.com/matryer/xbar-plugins)
 ### August 4, 2021
-- [awake1t/linglong: 一款甲方资产巡航扫描系统。系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示](https://github.com/awake1t/linglong)
+- [awake1t/linglong: 一款甲方资产巡航扫描系统。系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括：资产探测、端口爆破、定时任务、管理后台识别、报表展示](https://github.com/awake1t/linglong)
 - [microsoft/ML-For-Beginners: 12 周，25 节课，50 个测验，适合所有人的经典机器学习](https://github.com/microsoft/ML-For-Beginners)
 - [benmanns/goworker: goworker 是基于 Go 的后台工作线程，其运行速度比基于 Ruby 的工作线程快 10 到 100,000* 倍。](https://github.com/benmanns/goworker)
 - [nguyenthenguyen/docx: 用于替换 Microsoft Word (. docx) 文件中的文本的简单 Google Go (Golang) 库](https://github.com/nguyenthenguyen/docx)
@@ -493,7 +493,7 @@
 - [colinmarc/hdfs: HDFS 的本地 go 客户端](https://github.com/colinmarc/hdfs)
 - [mhinz/vim-startify: 🔗 精美的 Vim 启动屏幕。](https://github.com/mhinz/vim-startify)
 ### July 28, 2021
-- [Anonymous-ghost/AttackWebFrameworkTools: 本软件首先集成危害性较大框架和部分主流 cms 的 rce (无需登录, 或者登录绕过执行 rce) 和反序列化 (利用链简单)。](https://github.com/Anonymous-ghost/AttackWebFrameworkTools)
+- [Anonymous-ghost/AttackWebFrameworkTools: 本软件首先集成危害性较大框架和部分主流 cms 的 rce (无需登录，或者登录绕过执行 rce) 和反序列化 (利用链简单)。](https://github.com/Anonymous-ghost/AttackWebFrameworkTools)
 - [lizhichao/one-ck: 用于 clickhouse 的 php tcp 客户端](https://github.com/lizhichao/one-ck)
 - [s9e/TextFormatter: 文本格式库，通过插件支持 BBCode、HTML 和其他标记。处理表情符号、审查文字、自动嵌入媒体等。](https://github.com/s9e/TextFormatter)
 - [spatie/url-signer: 创建和验证具有有限生命周期的签名 URL](https://github.com/spatie/url-signer)
@@ -650,7 +650,7 @@
 - [mattn/go-shellwords: 将行解析为 shell 单词](https://github.com/mattn/go-shellwords)
 - [elves/elvish: Elvish = Elvish = 富有表现力的编程语言 + 多功能交互式 Shell](https://github.com/elves/elvish)
 ### June 25, 2021
-- [getzola/zola: 一个快速静态站点生成器，使用一个二进制文件，内置所有东西. getzola.org](https://github.com/getzola/zola)
+- [getzola/zola: 一个快速静态站点生成器，使用一个二进制文件，内置所有东西。getzola.org](https://github.com/getzola/zola)
 - [ksync/ksync: 在本地系统和 kubernetes 集群之间同步文件。](https://github.com/ksync/ksync)
 - [ochinchina/supervisord: a go-lang supervisor implementation](https://github.com/ochinchina/supervisord)
 - [AkihiroSuda/lima: macOS 上的 Linux 虚拟机 (非正式地又名“Linux-on-Mac”、“Linux 的 macOS 子系统”、“Mac 的容器”)](https://github.com/AkihiroSuda/lima)
@@ -815,7 +815,7 @@
 - [nikic/PHP-Fuzzer: 这个库实现了一个 fuzzer for PHP，它可以通过向库 (特别是解析库) 提供“随机”输入来查找库中的 bug。](https://github.com/nikic/PHP-Fuzzer)
 - [weepsafe/phpshell: php 大马|php 一句话|webshell|渗透](https://github.com/weepsafe/phpshell)
 - [umputun/reproxy: 简单边缘服务器/反向代理](https://github.com/umputun/reproxy)
-- [hua1995116/react-resume-site: 木及简历|一款用 `Markdown` 就能写出好看简历 (resume) 的在线工具。](https://github.com/hua1995116/react-resume-site)
+- [hua1995116/react-resume-site: 木及简历 | 一款用 `Markdown` 就能写出好看简历 (resume) 的在线工具。](https://github.com/hua1995116/react-resume-site)
 - [stephenafamo/goldmark-pdf: 用于 goldmark markdown 解析器的 PDF 渲染器。](https://github.com/stephenafamo/goldmark-pdf)
 - [lqs/sqlingo: 一个轻量级的 DSL & ORM，帮助您在 Go 中编写 SQL。](https://github.com/lqs/sqlingo)
 ### May 21, 2021
@@ -839,7 +839,7 @@
 ### May 18, 2021
 - [work-helper/command-search-alfred: alfred 命令搜索 workflow](https://github.com/work-helper/command-search-alfred)
 - [amrshawky/laravel-currency: 用于当前和历史货币汇率和加密汇率的 Laravel 包。基于免费 API exchangerate.host](https://github.com/amrshawky/laravel-currency)
-- [akavel/rsrc: 在 Windows 的 Go 程序中嵌入. ico 和 manifest 资源的工具。](https://github.com/akavel/rsrc)
+- [akavel/rsrc: 在 Windows 的 Go 程序中嵌入。ico 和 manifest 资源的工具。](https://github.com/akavel/rsrc)
 ### May 17, 2021
 - [sokil/php-mongo: PHP ODM for MongoDB.](https://github.com/sokil/php-mongo)
 - [armon/go-socks5: Golang 的 SOCKS5 服务器](https://github.com/armon/go-socks5)
@@ -877,7 +877,7 @@
 - [y123456yz/reading-and-annotate-mongodb-3.6: 分布式文档数据库 mongodb-3.6(mongos、mongod、wiredtiger 存储引擎) 源码中文注释分析，近期持续更新](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6)
 - [tabixio/tabix: 适用于 Clickhouse 的开源简单商务智能应用程序和 sql 编辑器工具。](https://github.com/tabixio/tabix)
 ### May 11, 2021
-- [zaphoyd/websocketpp: C++客户端发送消息的客户端/服务器库](https://github.com/zaphoyd/websocketpp)
+- [zaphoyd/websocketpp: C++ 客户端发送消息的客户端/服务器库](https://github.com/zaphoyd/websocketpp)
 - [nical/lyon: 使用路径镶嵌在生锈的 GPU 上的二维图形渲染。](https://github.com/nical/lyon)
 - [jlfwong/speedscope: 一个快速，交互式的基于网络的性能概况查看器。](https://github.com/jlfwong/speedscope)
 - [howie6879/2c: 构建一个多源 (公众号、RSS)、干净、个性化的阅读环境](https://github.com/howie6879/2c)
@@ -912,7 +912,7 @@
 - [m13253/dns-over-https: 基于 HTTPS 客户端和服务器的高性能 DNS](https://github.com/m13253/dns-over-https)
 - [SoftCreatR/JSONPath: PHP 的 JSONPath 实现。](https://github.com/SoftCreatR/JSONPath)
 - [Galbar/JsonPath-PHP: PHP 中的 JsonPath 实现](https://github.com/Galbar/JsonPath-PHP)
-- [jas502n/wxappUnpacker1: 反编译微信小程序, 支持分包](https://github.com/jas502n/wxappUnpacker1)
+- [jas502n/wxappUnpacker1: 反编译微信小程序，支持分包](https://github.com/jas502n/wxappUnpacker1)
 ### May 5, 2021
 - [tobyzerner/json-api-server: PHP 中的 JSON: API 服务器实现。](https://github.com/tobyzerner/json-api-server)
 - [BabDev/Pagerfanta: PHP 应用程序的分页库，支持多个数据提供程序](https://github.com/BabDev/Pagerfanta)
@@ -948,7 +948,7 @@
 - [treeverse/lakeFS: 类似 git 的对象存储功能](https://github.com/treeverse/lakeFS)
 - [huizhang-Easyswoole/memcache: memcache 协程客户端](https://github.com/huizhang-Easyswoole/memcache)
 - [skoro/yii2-admin-template: 针对后端的 Yii2 应用程序模板。](https://github.com/skoro/yii2-admin-template)
-- [zeruniverse/QQRobot: QQBot, QQ 机器人 (群聊小黄鸡) LINUX 挂机版, SmartQQ 协议。](https://github.com/zeruniverse/QQRobot)
+- [zeruniverse/QQRobot: QQBot, QQ 机器人 (群聊小黄鸡) LINUX 挂机版，SmartQQ 协议。](https://github.com/zeruniverse/QQRobot)
 - [exelban/stats: 菜单栏中的 macOS 系统监视器](https://github.com/exelban/stats)
 ### April 29, 2021
 - [woopen/nplayer: 无任何第三方运行时依赖，兼容 IE11，支持 SSR。高度可定制，可二次开发。和 B 站一样体验的弹幕系统。可以接入任何流媒体，支持直播。](https://github.com/woopen/nplayer)
@@ -987,7 +987,7 @@
 - [go-netty/go-netty: 基于 netty 的可扩展网络应用框架](https://github.com/go-netty/go-netty)
 - [c99koder/personal-influxdb: 从各种 api 导入数据到 InfluxDB](https://github.com/c99koder/personal-influxdb)
 - [xjh22222228/tomato-work: 🍅 Tomato Work for React 个人事务管理系统](https://github.com/xjh22222228/tomato-work)
-- [xjh22222228/nav: 🔍 发现导航, 一个非常强大的静态导航网站 (支持 SEO)](https://github.com/xjh22222228/nav)
+- [xjh22222228/nav: 🔍 发现导航，一个非常强大的静态导航网站 (支持 SEO)](https://github.com/xjh22222228/nav)
 - [xjh22222228/gosh: 🛺 Golang 实用程序库，带有其他函数，如 JavaScript/Python！戈兰尼实用程序库。](https://github.com/xjh22222228/gosh)
 - [xjh22222228/boomb: 基于 Github 轻松管理您的存储图库](https://github.com/xjh22222228/boomb)
 - [dxcweb/watermark: canvas 图片水印，用于身份证等个人信息添加仅用于 XXX 等字样保护个人信息](https://github.com/dxcweb/watermark)
@@ -1031,7 +1031,7 @@
 - [styled-components/styled-components: 组件年龄的可视化原语。使用 ES6 和 CSS 中最好的部分来为你的应用程序设计风格](https://github.com/styled-components/styled-components)
 - [dr5hn/countries-states-cities-database: 🌍 JSON、SQL、XML、PLIST、YAML 和 CSV 格式的世界国家、州、地区、省、市、镇。所有国家、州、具有 ISO2、ISO3、国家代码、电话代码、首都、母语、时区、纬度、经度、地区、次区域、国旗表情符号和货币的城市。#国家/州/城市](https://github.com/dr5hn/countries-states-cities-database)
 - [supabase/supabase: 开源的 Firebase 替代产品。](https://github.com/supabase/supabase)
-- [Yang0615777/SecondaryDevCobaltStrike: 二次开发过后的 CobaltStrike, 版本为 4.1. 在原来 CobaltStrike 的基础上修改多处特征, 解决流量查杀问题.](https://github.com/Yang0615777/SecondaryDevCobaltStrike)
+- [Yang0615777/SecondaryDevCobaltStrike: 二次开发过后的 CobaltStrike, 版本为 4.1. 在原来 CobaltStrike 的基础上修改多处特征，解决流量查杀问题。](https://github.com/Yang0615777/SecondaryDevCobaltStrike)
 ### April 17, 2021
 - [beekeeper-studio/beekeeper-studio: 现代化且易于使用的 SQL 客户端，适用于 MySQL、Postgres、SQLite、SQL Server 等。](https://github.com/beekeeper-studio/beekeeper-studio)
 - [encoredev/encore: 具有超能力的 Go 后端框架](https://github.com/encoredev/encore)
@@ -1096,14 +1096,14 @@
 - [studygolang/learn-go-with-tests: 通过测试驱动开发学习 Go 语言》中文翻译 ResourcesLicense](https://github.com/studygolang/learn-go-with-tests)
 - [thephpleague/openapi-psr7-validator: 它根据 OpenAPI 规范验证 PSR-7 消息 (HTTP 请求/响应)](https://github.com/thephpleague/openapi-psr7-validator)
 - [charmbracelet/lipgloss: 漂亮的终端布局的样式定义](https://github.com/charmbracelet/lipgloss)
-- [isocpp/CppCoreGuidelines: C++核心指南是一套关于 C++的测试指南和规则，以及关于编码的最佳实践。](https://github.com/isocpp/CppCoreGuidelines)
+- [isocpp/CppCoreGuidelines: C++ 核心指南是一套关于 C++ 的测试指南和规则，以及关于编码的最佳实践。](https://github.com/isocpp/CppCoreGuidelines)
 - [hyperium/tonic: 具有异步/等待支持的本机 gRPC 客户端和服务器实现。](https://github.com/hyperium/tonic)
 - [swiftmade/playback: 在 Laravel-la Stripe 中实现幂等端点](https://github.com/swiftmade/playback)
 ### March 26, 2021
 - [rotisserie/eris: Eris 提供了一种更好的方法来处理 Go 中的错误、跟踪和日志记录](https://github.com/rotisserie/eris)
 - [JetBrains/projector-server: 服务器端库，用于远程运行 Swing 应用程序](https://github.com/JetBrains/projector-server)
 - [Water-Melon/Melang: 一种单线程抢占调度协同程序的脚本语言](https://github.com/Water-Melon/Melang)
-- [liuyubobobo/Play-with-Algorithms: 我在慕课网上的课程《算法与数据结构》示例代码，包括 C++和 Java 版本。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。](https://github.com/liuyubobobo/Play-with-Algorithms)
+- [liuyubobobo/Play-with-Algorithms: 我在慕课网上的课程《算法与数据结构》示例代码，包括 C++ 和 Java 版本。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。](https://github.com/liuyubobobo/Play-with-Algorithms)
 - [chromium/permission.site: 一个测试 web api 和浏览器权限交互的网站。](https://github.com/chromium/permission.site)
 - [Adminisme/ServerScan: ServerScan 一款使用 Golang 开发的高并发网络扫描、服务探测工具。](https://github.com/Adminisme/ServerScan)
 - [crystal-lang/crystal: Crystal 程序设计语言](https://github.com/crystal-lang/crystal)
@@ -1156,7 +1156,7 @@
 - [bxcodec/go-clean-arch: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture](https://github.com/bxcodec/go-clean-arch)
 - [bettercap/bettercap: 瑞士军刀为 802.11、BLE 和以太网侦察和 MITM 攻击。](https://github.com/bettercap/bettercap)
 - [draveness/blog-comments: 面向信仰编程](https://github.com/draveness/blog-comments)
-- [ATQQ/resume: 个人简历在线生成, 自定义方便, 欢迎 Star 贡献模板](https://github.com/ATQQ/resume)
+- [ATQQ/resume: 个人简历在线生成，自定义方便，欢迎 Star 贡献模板](https://github.com/ATQQ/resume)
 - [williamnie/netSend: 内网传输工具](https://github.com/williamnie/netSend)
 - [google/gops: 用于列出和诊断系统上当前运行的 Go 进程的工具](https://github.com/google/gops)
 - [vicanso/elton: 高性能、简单的 Go-web 框架](https://github.com/vicanso/elton)
@@ -1175,8 +1175,8 @@
 - [localstack/localstack: 一个功能齐全的本地 AWS 云堆栈。离线开发和测试您的云和无服务器应用程序！](https://github.com/localstack/localstack)
 - [imgproxy/imgproxy: 快速安全的独立服务器，用于调整和转换远程图像](https://github.com/imgproxy/imgproxy)
 - [gengine/README_zh: 基于 golang 的规则引擎](https://github.com/bilibili/gengine/blob/main/README_zh.md)
-- [MrXujiang/h5-Dooring: 让 H5 制作像搭积木一样简单, 致力于提供一套简单方便、专业可靠、无限可能的 H5/PC 落地页解决方案.](https://github.com/MrXujiang/h5-Dooring)
-- [optiv/ScareCrow: 稻草人-围绕 EDR 旁路设计的有效负载创建框架。](https://github.com/optiv/ScareCrow)
+- [MrXujiang/h5-Dooring: 让 H5 制作像搭积木一样简单，致力于提供一套简单方便、专业可靠、无限可能的 H5/PC 落地页解决方案。](https://github.com/MrXujiang/h5-Dooring)
+- [optiv/ScareCrow: 稻草人 - 围绕 EDR 旁路设计的有效负载创建框架。](https://github.com/optiv/ScareCrow)
 - [amacneil/dbmate: 🚀 一个轻量级的、与框架无关的数据库迁移工具。](https://github.com/amacneil/dbmate)
 - [kodeine/laravel-meta: Metable Trait 增加了访问元数据的能力，就好像它是模型上的属性一样。Metable 是流畅的，就像使用一个有说服力的模型属性一样，您可以设置或取消设置 meta](https://github.com/kodeine/laravel-meta)
 - [thephpleague/glide-laravel: Glide adapter for Laravel](https://github.com/thephpleague/glide-laravel)
@@ -1209,7 +1209,7 @@
 - [improbable-eng/grpc-web: 用于 Golang 和 TypeScript 的 gRPC Web 实现](https://github.com/improbable-eng/grpc-web)
 - [schollz/progressbar: 一个非常基本的线程安全的进度条，用于 Golang 应用程序](https://github.com/schollz/progressbar)
 - [mozilla/sops: 简单而灵活的秘密管理工具](https://github.com/mozilla/sops)
-- [5ime/video_spider: 抖音, 皮皮虾, 火山, 微视, 微博, 绿洲, 最右, 轻视频, 快手, 全民小视频, 巴塞电影, 陌陌, Before 避风, 开眼, Vue Vlog 小咖秀, 皮皮搞笑, 全民 K 歌...短视频去水印](https://github.com/5ime/video_spider)
+- [5ime/video_spider: 抖音，皮皮虾，火山，微视，微博，绿洲，最右，轻视频，快手，全民小视频，巴塞电影，陌陌，Before 避风，开眼，Vue Vlog 小咖秀，皮皮搞笑，全民 K 歌...短视频去水印](https://github.com/5ime/video_spider)
 ### March 5, 2021
 - [openark/orchestrator: Orchestrator 是 MySQL 高可用性和复制管理工具，可作为服务运行，并提供命令行访问，HTTP API 和 Web 界面。协调器支持：](https://github.com/openark/orchestrator)
 - [LockGit/gochat: goim 服务器由 golang 编写！🚀](https://github.com/LockGit/gochat)
@@ -1295,7 +1295,7 @@
 - [thinkeridea/go-extend: go 语言扩展包，收集一些常用的操作函数](https://github.com/thinkeridea/go-extend)
 - [hezhizheng/repo-image-hosting: github / gitee 图床，使用 golang (Gin) 实现](https://github.com/hezhizheng/repo-image-hosting)
 ### February 20, 2021
-- [Jrohy/trojan: trojan 多用户管理部署程序, 支持 web 页面管理](https://github.com/Jrohy/trojan)
+- [Jrohy/trojan: trojan 多用户管理部署程序，支持 web 页面管理](https://github.com/Jrohy/trojan)
 - [Your GitHub story in 3D - GitHub Skyline](https://skyline.github.com/?utm_source=xinquji)
 - [raycast/script-commands: 脚本命令可以让你根据自己的需要定制 Raycast。](https://github.com/raycast/script-commands)
 - [nascent-africa/jetstrap: 一个 Laravel 8 软件包，可以轻松地将 Laravel Jetstream 和 Breeze 生成的 TailwindCSS 资源切换到 Bootstrap 4。](https://github.com/nascent-africa/jetstrap)
@@ -1323,7 +1323,7 @@
 - [CristalTeam/pptx: 🎞️ 使用 PHP 复制、移动、合并和模板 Powerpoint 文件 (. pptx)](https://github.com/CristalTeam/pptx)
 - [nobody132/masr: 中文语音识别](https://github.com/nobody132/masr)
 ### February 5, 2021
-- [Light-City/CPlusPlusThings: C++那些事](https://github.com/Light-City/CPlusPlusThings)
+- [Light-City/CPlusPlusThings: C++ 那些事](https://github.com/Light-City/CPlusPlusThings)
 - [herrbischoff/awesome-macos-command-line: 使用您的 macOS 终端 shell 来做一些很棒的事情。](https://github.com/herrbischoff/awesome-macos-command-line)
 - [muhdfaiz/laravel-tail-db: Artisan 命令用于监视应用程序执行的实时 sql 查询](https://github.com/muhdfaiz/laravel-tail-db)
 ### February 4, 2021
@@ -1337,7 +1337,7 @@
 - [qinjintian/qq-zone: QQ 空间 (Qzone) 爬虫，手机扫描登陆后即可并发下载相册的相片/视频，嗯~就是这么简单](https://github.com/qinjintian/qq-zone)
 - [tal-tech/alarm-dog: 哮天犬是一个通用的统一告警平台，提供配置化、流程化、标准化的能力，支持多种告警通知渠道，支持告警收敛、过滤、升级、工作流、自动恢复等功能，实现统一输入、不同输出](https://github.com/tal-tech/alarm-dog)
 - [mhinz/vim-galore: All things Vim!](https://github.com/mhinz/vim-galore)
-- [shidenggui/easytrader: 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易和实盘雪球组合, 量化交易组件](https://github.com/shidenggui/easytrader)
+- [shidenggui/easytrader: 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易和实盘雪球组合，量化交易组件](https://github.com/shidenggui/easytrader)
 - [twostraws/ControlRoom: 一个 macOS 应用程序来控制 Xcode 模拟器。](https://github.com/twostraws/ControlRoom)
 - [shuveb/containers-the-hard-way: 用 Go 实现迷你 Docker，包含 Docker 核心功能的开源项目](https://github.com/shuveb/containers-the-hard-way)
 ### February 2, 2021
@@ -1418,7 +1418,7 @@
 - [AzimoLabs/apple-sign-in-php-sdk: 使用 PHP 库验证和验证 Apple IdentityToken，并验证具有 Apple ID 的用户。](https://github.com/AzimoLabs/apple-sign-in-php-sdk)
 - [airplayx/gormat: Golang 方便的转换器支持数据库到 Struct，SQL 到 Struct，JSON 到 Struct。](https://github.com/airplayx/gormat)
 ### January 19, 2021
-- [mochat-cloud/mochat: 基于企业微信的开源应用开发框架&引擎，也是一套通用的企业私域流量管理系统!](https://github.com/mochat-cloud/mochat)
+- [mochat-cloud/mochat: 基于企业微信的开源应用开发框架&引擎，也是一套通用的企业私域流量管理系统！](https://github.com/mochat-cloud/mochat)
 - [StackExchange/dnscontrol: 从简单的 DSL 将您的 DNS 同步到多个提供程序](https://github.com/StackExchange/dnscontrol)
 - [ramsey/uuid-doctrine: 允许使用 ramsey/UUID 作为 Doctrine 字段类型。](https://github.com/ramsey/uuid-doctrine)
 - [joelbutcher/socialstream: 一个用于 Laravel Jetstream 的简单 Socialite 实现。](https://github.com/joelbutcher/socialstream)
@@ -1430,7 +1430,7 @@
 - [hasib32/rest-api-with-lumen: 用于 Lumen 微框架的 Rest API 样板。](https://github.com/hasib32/rest-api-with-lumen)
 - [jqhph/laravel-softdeletes: Laravel softdeletes 是一个用于替代 Laravel 内置软删除功能的扩展包，可以把软删数据存储到独立的数据表中，从而不影响原始表字段增加唯一索引，且可以起到提升性能的作用。](https://github.com/jqhph/laravel-softdeletes)
 - [squirephp/squire: 静态 Eloquent 模型库，用于通用夹具数据。](https://github.com/squirephp/squire)
-- [zu1k/tg-keyword-reply-bot: Telegram 关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作](https://github.com/zu1k/tg-keyword-reply-bot)
+- [zu1k/tg-keyword-reply-bot: Telegram 关键词自动回复机器人：根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作](https://github.com/zu1k/tg-keyword-reply-bot)
 ### January 15, 2021
 - [scheb/2fa: Symfony 应用程序的双因素认证 (bunde version ≥5)](https://github.com/scheb/2fa)
 - [tonysm/turbo-laravel: 该软件包为您提供了一系列约定，以使 Laravel 的 Hotwire 发挥最大作用 (受 Turbo-rails gem 启发)。](https://github.com/tonysm/turbo-laravel)
@@ -1446,13 +1446,13 @@
 - [ytake/Laravel-FluentLogger: 用于 laravel 的 fluent logger (带有用于 Fluentd 的 Monolog 处理程序)](https://github.com/ytake/Laravel-FluentLogger)
 - [luarocks/luarocks: Luarlocks 是 Lua 编程语言的包管理器。](https://github.com/luarocks/luarocks)
 - [PhiloNL/artisan-remote: Artisan Remote 是 Laravel 通过 HTTP API 与 Artisan 命令交互的软件包。](https://github.com/PhiloNL/artisan-remote)
-- [carlosas/phpat: PHP 架构测试-易于使用的 PHP 架构测试工具 ✔️](https://github.com/carlosas/phpat)
+- [carlosas/phpat: PHP 架构测试 - 易于使用的 PHP 架构测试工具 ✔️](https://github.com/carlosas/phpat)
 ### January 13, 2021
 - [src-d/hercules: 从 Git 存储库历史中获得高级见解。](https://github.com/src-d/hercules)
 - [EZLippi/WebBench: Webbench 是 Radim Kolar 在 1997 年写的一个在 linux 下使用的非常简单的网站压测工具。它使用 fork() 模拟多个客户端同时访问我们设定的 URL，测试网站在压力下工作的性能，最多可以模拟 3 万个并发连接去测试网站的负载能力。](https://github.com/EZLippi/WebBench)
 - [rogchap/v8go: Execute JavaScript from Go](https://github.com/rogchap/v8go)
 - [rogchap/v8go: 从 Go 执行 JavaScript](https://github.com/rogchap/v8go)
-- [pyroscope-io/pyroscope: 连续分析平台-找出代码中的瓶颈！](https://github.com/pyroscope-io/pyroscope)
+- [pyroscope-io/pyroscope: 连续分析平台 - 找出代码中的瓶颈！](https://github.com/pyroscope-io/pyroscope)
 ### January 12, 2021
 - [BurntSushi/xsv: 一个用 Rust 编写的快速 CSV 命令行工具包。](https://github.com/BurntSushi/xsv)
 - [tal-tech/go-zero: gozero 是一个用 go 编写的 web 和 rpc 框架。它的诞生是为了确保具有弹性设计的繁忙站点的稳定性。内置 goctl 极大地提高了开发效率](https://github.com/tal-tech/go-zero)
@@ -1472,7 +1472,7 @@
 ### January 8, 2021
 - [spatie/ray: 使用 Ray 进行调试以更快地解决问题](https://github.com/spatie/ray)
 - [jsyzchen/pan: 百度网盘开放平台 Go SDK](https://github.com/jsyzchen/pan)
-- [propelorm/Propel3: 高性能数据映射器 ORM，具有用于 RAD 和现代 PHP 7.2+的可选活动记录特征](https://github.com/propelorm/Propel3)
+- [propelorm/Propel3: 高性能数据映射器 ORM，具有用于 RAD 和现代 PHP 7.2+ 的可选活动记录特征](https://github.com/propelorm/Propel3)
 - [propelorm/Propel2: Propel2 是一种用于现代 PHP 的开源高性能对象关系映射 (ORM)](https://github.com/propelorm/Propel2)
 - [staudenmeir/laravel-migration-views: 使用 SQL 视图迁移 Laravel 数据库](https://github.com/staudenmeir/laravel-migration-views)
 - [mailru/easyjson: golang 的快速 JSON 序列化程序。](https://github.com/mailru/easyjson)

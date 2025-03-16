@@ -97,7 +97,7 @@
 - [huzaifaarain/telescope-guzzle-watcher: Telescope Guzzle Watcher 提供一个自定义监视器，用于拦截通过 guzzlehttp/guzzle php 库发出的 http 请求。](https://github.com/huzaifaarain/telescope-guzzle-watcher) 
 ### November 5, 2024 
 - [marcocesarato/PHP-Antimalware-Scanner: AMWScan (PHP Antimalware Scanner) 是一款免费工具，可扫描 php 文件并分析项目，查找其中的恶意代码。](https://github.com/marcocesarato/PHP-Antimalware-Scanner) 
-- [RubyMetric/chsrc: 全平台通用换源工具与框架.](https://github.com/RubyMetric/chsrc) 
+- [RubyMetric/chsrc: 全平台通用换源工具与框架。](https://github.com/RubyMetric/chsrc) 
 ### November 4, 2024 
 - [voku/portable-ascii: 🔡 便携式 ASCII 库 - 适用于 PHP 的性能优化 (ascii) 字符串函数。](https://github.com/voku/portable-ascii) 
 - [通过 SOCKS 代理连接到 git 存储库](https://masteringlaravel.io/daily/2024-11-01-connecting-to-a-git-repo-through-a-socks-proxy) 
@@ -189,7 +189,7 @@
 ### October 9, 2024 
 - [stripe/pg-schema-diff: 用于比较 Postgres 模式和生成 SQL 迁移的 Go 库](https://github.com/stripe/pg-schema-diff) 
 - [vildanbina/laravel-versions: Laravel Versions 是一个用于管理草稿和发布对 Eloquent 模型的更改的软件包。轻松创建、跟踪和管理模型的多个版本，确保无缝的发布工作流程。非常适合需要详细版本控制和草稿管理的应用程序。](https://github.com/vildanbina/laravel-versions) 
-- [msamgan/laravel-env-keys-checker: 检查所有. env 文件中的所有键是否可用。](https://github.com/msamgan/laravel-env-keys-checker) 
+- [msamgan/laravel-env-keys-checker: 检查所有。env 文件中的所有键是否可用。](https://github.com/msamgan/laravel-env-keys-checker) 
 ### October 8, 2024 
 - [TomasVotruba/handyman: 添加典型的开发包](https://github.com/TomasVotruba/handyman) 
 ### October 7, 2024 
@@ -303,7 +303,7 @@
 - [如何在不让任何人落后的情况下提升最小 PHP 版本？](https://getrector.com/blog/how-to-bump-minimal-version-without-leaving-anyone-behind) 
 - [如何在 PHP 8.1 中开发单一包并降级到 PHP 7.2](https://tomasvotruba.com/blog/how-to-develop-sole-package-in-php81-and-downgrade-to-php72/) 
 - [如何使用 PHP-VCR 在 PHP 中录制和重放 API 调用](https://medium.com/the-sensiolabs-tech-blog/how-to-use-php-vcr-to-record-and-replay-api-calls-in-php-cca397f9ede8) 
-- [wintercms/laravel-config-writer: 创建和更新 Laravel 配置和. env 文件的实用工具](https://github.com/wintercms/laravel-config-writer) 
+- [wintercms/laravel-config-writer: 创建和更新 Laravel 配置和。env 文件的实用工具](https://github.com/wintercms/laravel-config-writer) 
 ### September 9, 2024 
 - [Honeystone/laravel-dto-tools: 一套全面的 Laravel DTO 工具。](https://github.com/Honeystone/laravel-dto-tools) 
 - [idootop/mi-gpt: 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。](https://github.com/idootop/mi-gpt) 
@@ -375,7 +375,7 @@
 ### August 20, 2024 
 - [hadolint/hadolint: Dockerfile 语法检查器，验证内联 bash，使用 Haskell 编写](https://github.com/hadolint/hadolint) 
 - [butschster/proto-parser: Proto 解析器是将协议缓冲区文件解析为 AST 的库](https://github.com/butschster/proto-parser) 
-- [027xiguapi/code-box: 本插件可以用于 CSDN/知乎/脚本之家/博客园等网站, 实现无需登录一键复制代码; 支持选中代码; 或者代码右上角按钮的一键复制; 解除关注博主即可阅读全文提示; 去除登录弹窗; 去除跳转 APP 弹窗.](https://github.com/027xiguapi/code-box) 
+- [027xiguapi/code-box: 本插件可以用于 CSDN/知乎/脚本之家/博客园等网站, 实现无需登录一键复制代码; 支持选中代码; 或者代码右上角按钮的一键复制; 解除关注博主即可阅读全文提示; 去除登录弹窗; 去除跳转 APP 弹窗。](https://github.com/027xiguapi/code-box) 
 - [MrPunyapal/basic-crud: 适合初学者到高级的 CRUD 操作最佳实践示例](https://github.com/MrPunyapal/basic-crud) 
 ### August 19, 2024 
 - [cloudwego/goref: Go 堆对象引用分析工具](https://github.com/cloudwego/goref) 
@@ -442,10 +442,10 @@
 - [iteks/laravel-enum: 一个全面的 Laravel 软件包，提供增强的枚举功能，包括属性处理、选择数组转换和流畅的门面交互，从而在 Laravel 应用程序中实现稳健的枚举管理。](https://github.com/iteks/laravel-enum) 
 ### July 31, 2024 
 - [JunkFood02/Seal: 基于 yt-dlp、使用 Material You 设计的 Android 版视频/音频下载器](https://github.com/JunkFood02/Seal) 
-- [gitattributes/gitattributes: 实用的. gitattributes 模板集锦](https://github.com/gitattributes/gitattributes) 
+- [gitattributes/gitattributes: 实用的。gitattributes 模板集锦](https://github.com/gitattributes/gitattributes) 
 ### July 30, 2024 
 - [Nikeev/LangSwitch: 一款超级简单的 MacOS 应用程序，只需按下 Fn/🌐 按钮，即可逐一切换键盘语言。无弹出窗口，无延迟。](https://github.com/Nikeev/LangSwitch) 
-- [chainreactors/fingers: 多指纹库聚合识别引擎. 当前支持 fingers (主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers) 
+- [chainreactors/fingers: 多指纹库聚合识别引擎。当前支持 fingers (主指纹库) wappalyzer, fingerprinthub, ehole, goby 指纹](https://github.com/chainreactors/fingers) 
 ### July 29, 2024 
 - [oligot/go-mod-upgrade: 以交互方式更新过时的 Go 依赖项](https://github.com/oligot/go-mod-upgrade) 
 - [ash-jc-allen/redactable-models: 一个可以在 Laravel 模型中编辑、混淆或屏蔽数据的软件包。](https://github.com/ash-jc-allen/redactable-models) 
@@ -601,7 +601,7 @@
 - [cespare/reflex: 文件更改时运行命令](https://github.com/cespare/reflex) 
 - [IndexZer0/eloquent-filtering: 使用数组轻松过滤 eloquent 模型--非常适合从 http 请求中进行过滤](https://github.com/IndexZer0/eloquent-filtering) 
 ### June 17, 2024 
-- [envault/envault: 供整个团队使用的. env 共享工具。](https://github.com/envault/envault) 
+- [envault/envault: 供整个团队使用的。env 共享工具。](https://github.com/envault/envault) 
 - [spatie/laravel-error-share: 分享您的 Laravel 错误](https://github.com/spatie/laravel-error-share) 
 ### June 14, 2024 
 - [tebru/gson-php: 用 PHP 实现 Gson](https://github.com/tebru/gson-php) 
@@ -617,7 +617,7 @@
 ### June 11, 2024 
 - [gabotechs/dep-tree: 是一款帮助开发人员保持代码库整洁和解耦的工具。它可以使用文件的三维力导向图和文件之间的依赖关系来显示代码库的复杂性。](https://github.com/gabotechs/dep-tree) 
 - [maschmann/php-ansible: ansible 配置工具的 php oop 封装器](https://github.com/maschmann/php-ansible) 
-- [editorconfig-checker/editorconfig-checker: 验证文件是否与. editorconfig 一致的工具](https://github.com/editorconfig-checker/editorconfig-checker#installation) 
+- [editorconfig-checker/editorconfig-checker: 验证文件是否与。editorconfig 一致的工具](https://github.com/editorconfig-checker/editorconfig-checker#installation) 
 - [vrza/php-lrpm: PHP 长时间运行进程管理器](https://github.com/vrza/php-lrpm) 
 - [geerlingguy/ansible-role-composer: Composer PHP 依赖关系管理器](https://github.com/geerlingguy/ansible-role-composer) 
 - [BatFi – 最大限度延长 Mac 的电池寿命](https://micropixels.software/apps/batfi) 
@@ -655,7 +655,7 @@
 - [kelunik/acme-client: 用 PHP 编写的用于 CLI 的 Let's Encrypt / ACME 客户端。](https://github.com/kelunik/acme-client) 
 - [mac-cleanup/mac-cleanup-py: 用于 macOS 的 Python 清理脚本](https://github.com/mac-cleanup/mac-cleanup-py) 
 - [ccbikai/Sink: 简单/快速/安全的链接缩短器，带分析功能，100% 在 Cloudflare 上运行。](https://github.com/ccbikai/Sink) 
-- [liuchuancong/pure_live: 纯粹直播: 哔哩哔哩/虎牙/斗鱼/快手/抖音/网易 cc/M38 自定义源应有尽有。](https://github.com/liuchuancong/pure_live) 
+- [liuchuancong/pure_live: 纯粹直播：哔哩哔哩/虎牙/斗鱼/快手/抖音/网易 cc/M38 自定义源应有尽有。](https://github.com/liuchuancong/pure_live) 
 ### May 28, 2024 
 - [php-strictus/strictus：对 PHP 的内联变量进行严格键入](https://github.com/php-strictus/strictus) 
 - [caorushizi/mediago: 视频在线提取工具流媒体下载 m3u8 下载](https://github.com/caorushizi/mediago) 
@@ -711,7 +711,7 @@
 - [hotmeteor/spectator: PHP 的 OpenAPI 测试](https://github.com/hotmeteor/spectator) 
 ### May 16, 2024 
 - [paragonie/typed-arrays: 用户域类型化数组实现](https://github.com/paragonie/typed-arrays) 
-- [andreaswolf/fractor: 通用文件读取-分析-更改工具](https://github.com/andreaswolf/fractor) 
+- [andreaswolf/fractor: 通用文件读取 - 分析 - 更改工具](https://github.com/andreaswolf/fractor) 
 - [andydunstall/piko: Ngrok 的开源替代方案，旨在为生产流量提供服务，且易于托管](https://github.com/andydunstall/piko) 
 - [php-sepa-xml/php-sepa-xml: PHP 中的 SEPA 文件生成器](https://github.com/php-sepa-xml/php-sepa-xml) 
 - [bepass-org/oblivion: 安卓非官方 warp 客户端](https://github.com/bepass-org/oblivion) 
@@ -844,7 +844,7 @@
 - [rectorphp/swiss-knife: 每位升级架构师的口袋里都有一把瑞士刀！](https://github.com/rectorphp/swiss-knife) 
 ### April 16, 2024 
 - [mattn/go-isatty: Golang 的 Isatty](https://github.com/mattn/go-isatty) 
-- [templado/engine: 一种实用的 PHP 8.2+模板方法](https://github.com/templado/engine) 
+- [templado/engine: 一种实用的 PHP 8.2+ 模板方法](https://github.com/templado/engine) 
 - [xrash/smetrics: 用 Go 编写的字符串度量库。](https://github.com/xrash/smetrics) 
 ### April 15, 2024 
 - [nalgeon/redka: 用 SQLite 重新实现 Redis](https://github.com/nalgeon/redka) 
@@ -866,7 +866,7 @@
 ### April 10, 2024 
 - [lubusIN/laravel-decomposer: ⚙️ 一个 Laravel 包，用于分解您安装的包、它们的依赖关系、您的应用程序和服务器环境](https://github.com/lubusIN/laravel-decomposer) 
 - [gvcgo/version-manager: 多个 SDK 的通用版本经理，例如 Java，GO，Node.js，Deno，Bun，. net，. net，Python，Python，Python，Pypy，Php，Rust，Kotlin，Kotlin，Scala，Groovy，Groovy，Flutter，Julia，Julia，Julia，Zig，v，v，v，Typst，Android SDK。一个比 VFOX，FNM，GVM 等更好的选择。](https://github.com/gvcgo/version-manager) 
-- [lihaoyun6/AirBattery: 在 Mac 上获取你所有设备的电量信息并显示在 Dock / 状态栏 / 小组件上!](https://github.com/lihaoyun6/AirBattery) 
+- [lihaoyun6/AirBattery: 在 Mac 上获取你所有设备的电量信息并显示在 Dock / 状态栏 / 小组件上！](https://github.com/lihaoyun6/AirBattery) 
 ### April 9, 2024 
 - [face-hh/griddycode: 用 Godot 制作的代码编辑。代码从未如此点亮！](https://github.com/face-hh/griddycode) 
 - [jarun/advcpmv: 一个 GNU 核心工具组 cp 和 mv 的补丁，可以添加进度条](https://github.com/jarun/advcpmv) 
@@ -989,7 +989,7 @@
 - [mario-deluna/php-chip8: 另一个 CHIP-8 模拟器，但使用 PHP！](https://github.com/mario-deluna/php-chip8) 
 - [trzsz/trzsz-ssh: trzsz-ssh (tssh) 是 ssh 客户端的替代品，提供额外有用的功能，例如登录提示、trzsz (trz / tsz)、批量登录、记住密码、zmodem (rz / sz) 等](https://github.com/trzsz/trzsz-ssh) 
 ### March 4, 2024 
-- [gkd-kit/gkd: 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP](https://github.com/gkd-kit/gkd) 
+- [gkd-kit/gkd: 基于无障碍 + 高级选择器 + 订阅规则的自定义屏幕点击 Android APP](https://github.com/gkd-kit/gkd) 
 - [JonPurvis/lawman: 🤠 一个 PestPHP 插件，可帮助进行架构测试 SaloonPHP 集成](https://github.com/JonPurvis/lawman) 
 - [JonPurvis/pest-snippets: ✂️ Pest 常见测试列表，可以复制到您自己的应用程序中](https://github.com/JonPurvis/pest-snippets) 
 ### March 1, 2024 
@@ -1003,7 +1003,7 @@
 - [xepozz/test-it: 一种根据类方法签名生成带有测试用例的文件的工具。](https://github.com/xepozz/test-it) 
 - [javoscript/laravel-macroable-models: 用于动态向 Laravel 模型添加方法的包 🕊](https://github.com/javoscript/laravel-macroable-models) 
 - [guozhigq/pilipala: PiliPala 是使用 Flutter 开发的 BiliBili 第三方客户端，感谢使用。](https://github.com/guozhigq/pilipala) 
-- [guozhigq/flutter_v2ex: 使用 flutter 开发的 v2ex 客户端，支持 Android 和 iOS 设备。在 Android 12+机型上支持 Material You 取色](https://github.com/guozhigq/flutter_v2ex) 
+- [guozhigq/flutter_v2ex: 使用 flutter 开发的 v2ex 客户端，支持 Android 和 iOS 设备。在 Android 12+ 机型上支持 Material You 取色](https://github.com/guozhigq/flutter_v2ex) 
 - [xepozz/internal-mocker: 用于模拟内部 php 函数和类的工具](https://github.com/xepozz/internal-mocker) 
 ### February 27, 2024 
 - [pxlrbt/filament-spotlight: 快速浏览您的灯丝页面](https://github.com/pxlrbt/filament-spotlight) 

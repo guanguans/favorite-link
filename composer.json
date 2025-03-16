@@ -107,11 +107,15 @@
         "ai-commit-github-models": "@ai-commit --generator=github_models_cli",
         "ai-commit-github-models-no-verify": "@ai-commit-github-models --no-verify",
         "ai-commit-no-verify": "@ai-commit --no-verify",
+        "autocorrect": "autocorrect README.md",
+        "autocorrect-fix": "@autocorrect --fix",
+        "autocorrect-lint": "@autocorrect --lint",
         "cghooks": "@php ./vendor/bin/cghooks --ansi -v",
         "checks": [
             "@composer-normalize",
             "@composer-validate",
             "@style-lint",
+            "@autocorrect-lint",
             "@md-lint",
             "@zh-lint",
             "@test",
@@ -155,6 +159,7 @@
             "@putenv PHP_CS_FIXER_IGNORE_ENV=1"
         ],
         "readme-fix": [
+            "@autocorrect-fix",
             "@md-fix",
             "@zh-fix"
         ],

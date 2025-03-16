@@ -1,6 +1,6 @@
 # README-2018.md
 
-### December 31，2018
+### December 31, 2018
 - [一个 composer 包，用于验证以前是否使用 Have I Been Pwned API 在密码中使用了密码。](https://github.com/DragonBe/hibp)
 - [微信公众号管理系统，也是一套微信公众号开发框架。支持移动管理，几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。](https://github.com/geesondog/rhaphp)
 - [PrestaShop 提供完全可扩展的开源电子商务解决方案。](https://github.com/PrestaShop/PrestaShop)
@@ -8,7 +8,7 @@
 - [建立和管理 Phars 的申请。](https://github.com/box-project/box2)
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 - [科学上网的有趣项目集锦。](https://github.com/udpsec/awesome-vpn)
-### December 30，2018
+### December 30, 2018
 - [功能齐全的下载管理器。](https://github.com/agalwood/Motrix)
 - [一个用 PHP 和 Redis 编写的 Twitter 玩具克隆，在早期用于介绍 Redis 数据类型。](https://github.com/antirez/retwis)
 - [用于 golang 的 socket.io 库，一个实时应用程序框架。](https://github.com/googollee/go-socket.io)
@@ -18,7 +18,7 @@
 - [用于动态生成 PDF 文档的 PHP 库。](https://github.com/tecnickcom/tc-lib-pdf)
 - [aveo 基于 Laravel 框架的开源票务系统。](https://github.com/ladybirdweb/faveo-helpdesk)
 - [一个小型 JavaScript 库，可以从数字生成类似 YouTube 的 ID。当您不希望向用户公开数据库 ID 时使用它。](https://github.com/ivanakimov/hashids.js)
-### December 29，2018
+### December 29, 2018
 - [Spring Boot 教程。](https://github.com/dyc87112/SpringBoot-Learning)
 - [💰 微信/支付宝收款监控，个人收款无需签约支付宝、微信支付。为支付宝、微信支付的个人账户，提供即时到账收款服务。](https://github.com/Tinywan/xpay)
 - [常用交互式命令行用户界面的集合。](https://github.com/SBoudrias/Inquirer.js)
@@ -41,7 +41,7 @@
 - [务实地搜索模型和其他来源。](https://github.com/spatie/laravel-searchable)
 - [iBrand EC 是一个免费的开源电子商务解决方案，使用 PHP 基于 Laravel 框架进行编写。](https://github.com/ibrandcc/ecommerce-open-api)
 - [Laravel 的 Web 安装程序。](https://github.com/rashidlaasri/LaravelInstaller)
-### December 28，2018
+### December 28, 2018
 - [生辰八字，五行，算命。](https://github.com/teamshinetech/bazi)
 - [用于安全和可扩展的网络流量分析的框架。](https://github.com/dreadl0ck/netcap)
 - [一个检测移动设备的简单 JS 库。](https://github.com/kaimallea/isMobile)
@@ -56,10 +56,10 @@
 - [Spree 是一个完整的，模块化的，API 驱动的开源电子商务解决方案，适用于 Ruby on Rails。](https://github.com/spree/spree)
 - [微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。](https://github.com/littlecodersh/ItChat)
 - [VM and compiler for Lua in Go。](https://github.com/yuin/gopher-lua)
-### December 27，2018
+### December 27, 2018
 - [Segment Fault 在线讲堂代码工程。](https://github.com/mercyblitz/segmentfault-lessons)
 - [“小马哥技术周报”](https://github.com/mercyblitz/tech-weekly)
-### December 26，2018
+### December 26, 2018
 - [PHP TensorFlow 绑定。](https://github.com/dstogov/php-tensorflow)
 - [一个字体系列，为程序员提供了一个很好的等宽变体。](https://github.com/belluzj/fantasque-sans)
 - [📚 学习机器学习的实用方法。](https://github.com/GokuMohandas/practicalAI)
@@ -73,7 +73,7 @@
 - [htop 是 Unix 系统的交互式文本模式进程查看器。](https://github.com/hishamhm/htop)
 - [go-internals 本书是关于 Go 程序设计语言内部实现原理的阐释，当前正在进行中。](https://github.com/go-internals-cn/go-internals)
 - [Repo for gRPC PHP。](https://github.com/grpc/grpc-php)
-### December 25，2018
+### December 25, 2018
 - [由 Visual Studio Code 提供支持的在线 IDE。](https://github.com/stackblitz/core)
 - [将终端记录转换为 GIF 动画。](https://github.com/icholy/ttygif)
 - [在 Windows 上用 WSL 优雅开发。](https://github.com/spencerwooo/dowww)
@@ -82,7 +82,7 @@
 - [Cloud-Native API 网关和服务网格。](https://github.com/Kong/kong)
 - [PHP client/server for the telegram MTProto protocol](https://github.com/danog/MadelineProto)
 - [🐜 A UI Design Language。](https://github.com/ant-design/ant-design)
-### December 24，2018
+### December 24, 2018
 - [功能强大的免费软件，也恰好是开源 Python。](https://github.com/mahmoud/awesome-python-applications)
 - [乡村信息系统 (SID)。](https://github.com/OpenSID/OpenSID)
 - [ss-panel-v3-mod 是一款专为 shadowsocks 设计的 web 前端面板。](https://github.com/NimaQu/ss-panel-v3-mod_Uim)
@@ -92,7 +92,7 @@
 - [自动化收集 linux 信息。](https://github.com/l3m0n/linux_information)
 - [Gin 是一个用 Go (Golang) 编写的 HTTP Web 框架。](https://github.com/gin-gonic/gin)
 - [python-web 入坑指南。](https://github.com/PegasusWang/python-web-guide)
-### December 23，2018
+### December 23, 2018
 - [Flexihash 是一个小型 PHP 库，可实现一致的 hashing。](https://github.com/pda/flexihash)
 - [基于 iView 的 Vue 2.0 管理系统模板。](https://github.com/iview/iview-admin)
 - [通过动画 QR 码传输数据。](https://github.com/divan/txqr)
@@ -102,7 +102,7 @@
 - [这是 ZipArchive 方法的简单包装器，带有一些方便的功能。](https://github.com/Chumper/Zipper)
 - [用于 Git repos 和 npm 包的 CLI 发布工具。](https://github.com/webpro/release-it)
 - [PHP 的事件驱动，非阻塞 I/O。](https://github.com/reactphp/react)
-### December 22，2018
+### December 22, 2018
 - [通过 LD_PRELOA 绕过 disable_functions](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
 - [Rubix ML 是一个高级机器学习库，可让您构建使用 PHP 语言从数据中学习的程序。](https://github.com/RubixML/RubixML)
 - [一个方便实用的工具，用于在 redis 组之间迁移数据。](https://github.com/vipshop/redis-migrate-tool)
@@ -116,7 +116,7 @@
 - [持续收集国内免费优质 API。](https://github.com/yuyang2016/Chinese-Free-API)
 - [ip2region - 最自由的 ip 地址查询库，ip 到地区的映射库，提供 Binary,B 树和纯内存三种查询算法，妈妈再也不用担心我的 ip 地址定位。](https://github.com/lionsoul2014/ip2region)
 - [JavaScript 的“警报”的美丽替代品。](https://github.com/t4t5/sweetalert)
-### December 21，2018
+### December 21, 2018
 - [oh-my-posh。](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [适用于 WordPress 的 GraphQL API。](https://github.com/wp-graphql/wp-graphql)
 - [麻省理工学院 6.824 分布式系统类的基本资源。](https://github.com/chaozh/MIT-6.824)
@@ -126,7 +126,7 @@
 - [一个美丽的 hexo 博客主题与材料设计和响应设计。](https://github.com/blinkfox/hexo-theme-matery)
 - [电子表格分析器和编写器。](https://github.com/SheetJS/js-xlsx)
 - [Java 编程思想。](https://github.com/quanke/think-in-java)
-### December 20，2018
+### December 20, 2018
 - [Rails Girls Guides。](https://github.com/railsgirls/railsgirls.github.io)
 - [输入 SQL，输出索引优化建议。](https://github.com/Meituan-Dianping/SQLAdvisor)
 - [f-admin 是一套基于 Laravel 框架开发的基础权限后台系统。](https://github.com/fangzesheng/f-admin)
@@ -135,17 +135,17 @@
 - [💫 一系列精彩的列表，手册，博客，黑客，单行，cli / web 工具等等。特别是对于系统和网络管理员，DevOps，Pentesters 或安全研究人员。](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [NumPy 和 Pandas 与大数据的接口。](https://github.com/blaze/blaze)
 - [PHP 中文工具类，支持汉字转拼音、拼音分词、简繁互转。](https://github.com/Yurunsoft/ChineseUtil)
-- [Docker  - 初学者|中级|高级。](https://github.com/collabnix/dockerlabs)
+- [Docker  - 初学者 | 中级 | 高级。](https://github.com/collabnix/dockerlabs)
 - [基于 TP3.1 的多用户 BT 离线下载。](https://github.com/maysrp/yunBT)
 - [ftl-desktop 下载器。](https://github.com/FTLAPP/ftl-desktop)
 - [MongoDB 到 Elasticsearch 连接器。](https://github.com/jike-engineering/mongo-es)
-### December 19，2018
+### December 19, 2018
 - [一个更新鲜的“在 GitHub 上叉我”标注。](https://github.com/tholman/github-corners)
 - [将 markdown 文档可视化为思维导图。](https://github.com/dundalek/markmap)
 - [用纯 Python 编写的计算机代数系统。](https://github.com/sympy/sympy)
 - [Golang 好文推荐；收录平时阅读到的一些 Go 相关写的比较好、质量较高的干货文章。](https://github.com/chunlintang/golang-anything-recommend)
 - [memcached 和 redis 的快速，轻量级代理。](https://github.com/twitter/twemproxy)
-### December 18，2018
+### December 18, 2018
 - [GRPC 服务的 GUI 客户端。](https://github.com/uw-labs/bloomrpc)
 - [Github iOS 客户端用 RxSwift 和 MVVM 编写的干净架构。](https://github.com/khoren93/SwiftHub)
 - [PHP 的 Diff 实现，从 PHPUnit 中分解为一个独立的组件。](https://github.com/sebastianbergmann/diff)
@@ -166,7 +166,7 @@
 - [用于防止睡眠的 macOS 应用程序。](https://github.com/xiaozi/awake-app)
 - [小明 VPN。](https://github.com/xm19/v/blob/master/d.md)
 - [一个可以观看国内主流视频平台所有视频的客户端 (Mac、Windows、Linux)](https://github.com/phobal/ivideo)
-### December 17，2018
+### December 17, 2018
 - [TinySSH 是小型服务器 (少于 100000 字的代码)。](https://github.com/janmojzis/tinyssh)
 - [在 Node.js 和浏览器中生成大量真实的假数据。](https://github.com/Marak/faker.js)
 - [广告过滤 Adblock，uBlock Origin，Adguard。](https://github.com/MajkiIT/polish-ads-filter)
@@ -179,14 +179,14 @@
 - [Tideland GoLib。](https://github.com/tideland/golib/)
 - [一个小型 PHP 库，用于从数字生成类似 YouTube 的 ID。当您不希望向用户公开数据库 ID 时使用它。](https://github.com/ivanakimov/hashids.php)
 - [MinTTY 的一些配色方案。](https://github.com/oumu/mintty-color-schemes)
-### December 16，2018
+### December 16, 2018
 - [Docker 官方映像包装 PHP。](https://github.com/docker-library/php)
 - [由 Firebase 提供支持的协作文本编辑器。](https://github.com/FirebaseExtended/firepad)
 - [秒杀系统设计与实现。互联网工程师进阶与分析。](https://github.com/qiurunze123/miaosha)
 - [为 PHP 代码覆盖率信息提供收集，处理和呈现功能的库。](https://github.com/sebastianbergmann/php-code-coverage)
 - [Dillinger 是一款支持云端，移动就绪的离线存储，AngularJS 支持的 HTML5 Markdown 编辑器。](https://github.com/joemccann/dillinger)
 - [Win32 port of OpenSSH。](https://github.com/PowerShell/Win32-OpenSSH)
-### December 15，2018
+### December 15, 2018
 - [HTTP 负载测试工具和库。](https://github.com/tsenart/vegeta)
 - [自动生成 ppt。](https://github.com/ksky521/nodePPT)
 - [基于 vegeta 和 boom 的 http 基准 web 应用程序。](https://github.com/ireaderlab/alex)
@@ -194,7 +194,7 @@
 - [go 支持移动设备。](https://github.com/golang/mobile)
 - [node.js 命令行界面变得简单。](https://github.com/tj/commander.js)
 - [CKEditor 5 的开发环境 - 最好的基于浏览器的富文本编辑器。](https://github.com/ckeditor/ckeditor5/tree/master/.github)
-### December 14，2018
+### December 14, 2018
 - [一个通用字幕查找器，可以查找字幕并下载。](https://github.com/ausaki/subfinder)
 - [检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。](https://github.com/hustcc/lint-md)
 - [在 macOS 和 Linux 上更好的微信。用 Electron 制造。](https://github.com/geeeeeeeeek/electronic-wechat)
@@ -203,7 +203,7 @@
 - [JSON-RPC 1/2 传输实现。支持 python 2/3 和 pypy。](https://github.com/pavlov99/json-rpc)
 - [在 Android 上安装并运行 GNU / Linux。](https://github.com/meefik/linuxdeploy)
 - [WeHalo 简约风的微信小程序版博客。](https://github.com/aquanlerou/WeHalo)
-### December 13，2018
+### December 13, 2018
 - [GitLab CE Mirror。](https://github.com/gitlabhq/gitlabhq)
 - [Windows 的命令行安装程序。](https://github.com/lukesampson/scoop)
 - [一个更现代化的终端。](https://github.com/Eugeny/terminus/)
@@ -218,8 +218,8 @@
 - [Node.js 的可移植 Unix shell 命令。](https://github.com/shelljs/shelljs)
 - [学习 Golang。](https://github.com/go-training/training)
 - [准备好使用 JSONP 端点/有效负载来帮助绕过不同网站的内容安全策略。](https://github.com/zigoo0/JSONBee?utm_source=gold_browser_extension)
-- [HookPHP 一款基于 C 扩展搭建支持 AI 在线编程的 PHP 框架-安全秒杀 ThinkPHP-性能秒 Laravel-功能秒 YAF-易用秒 Symfony-入门秒 Zend-组件秒 Yii-耦合秒 Phalcon。](https://github.com/letwang/HookPHP)
-### December 12，2018
+- [HookPHP 一款基于 C 扩展搭建支持 AI 在线编程的 PHP 框架 - 安全秒杀 ThinkPHP-性能秒 Laravel-功能秒 YAF-易用秒 Symfony-入门秒 Zend-组件秒 Yii-耦合秒 Phalcon。](https://github.com/letwang/HookPHP)
+### December 12, 2018
 - [Python 代码的静态分析器。](https://github.com/google/pytype)
 - [Hoa 是一个模块化，可扩展和结构化的 PHP 库集。](https://github.com/hoaproject/Central)
 - [Hoa 是一个模块化，可扩展和结构化的 PHP 库集。](https://github.com/hoaproject/Central)
@@ -235,7 +235,7 @@
 - [有史以来为 PHP 创建的最棒的验证引擎。](https://github.com/Respect/Validation)
 - [收集工具和改进使 PhpStorm 更好一点。](https://github.com/Haehnchen/idea-php-toolbox)
 - [Atom 文件特定的图标。](https://github.com/file-icons/atom)
-### December 11，2018
+### December 11, 2018
 - [基于 NodeJS 的跨平台，免费和开源密码管理器。](https://github.com/buttercup/buttercup-desktop)
 - [A proxyee-down extension for baiduyun。](https://github.com/monkeyWie/baiduyun-helper)
 - [Proxyee Down 扩展存储库。](https://github.com/proxyee-down-org/proxyee-down-extension)
@@ -258,19 +258,19 @@
 - [检查以下 RFC 的电子邮件地址：3696,1123,4291,5321,5322 isemail.info](https://github.com/dominicsayers/isemail)
 - [Spotify Web API 的 Go 包装器。](https://github.com/zmb3/spotify)
 - [《Github 帮助文档》中文翻译。](https://github.com/waylau/github-help)
-### December 10，2018
+### December 10, 2018
 - [为每个人提供客户端 JavaScript PDF 生成。](https://github.com/MrRio/jsPDF)
 - [重新编写，使用 react，babel，webpack 和其他现代东西。](https://github.com/Pomax/BezierInfo-2)
 - [phpstorm 插件，用于 thinkphp5 框架的视图，配置，路由，数据库，模型智能提示和跳转。](https://github.com/fw6669998/Thinkphp5-Plugin)
 - [输入 `git open` 打开浏览器中存储库的 GitHub 页面或网站。](https://github.com/paulirish/git-open)
-### December 9，2018
+### December 9, 2018
 - [构建 OAuth 和 OpenID Connect 服务器的终极 Python 库。包括 JWS，JWE，JWK，JWA，JWT。](https://github.com/lepture/authlib)
 - [基于 workerman 的 PHP 中 socket.io 的服务器端替代实现。](https://github.com/walkor/phpsocket.io)
 - [使用一个命令设置 git，vim，zsh，SublimeText，tmux 等。](https://github.com/Wyntau/dotfiles)
 - [验证表单异步。](https://github.com/yiminghe/async-validator)
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 - [在 HOME 中以纯 PHP 形式存储和管理 PHP 版本。](https://github.com/phpbrew/phpbrew)
-### December 8，2018
+### December 8, 2018
 - [适用于 Golang 的类型安全的 Redis 客户端。](https://github.com/go-redis/redis)
 - [JavaScript 的 Base64 实现。](https://github.com/dankogai/js-base64)
 - [谷歌访问助手破解版。](https://github.com/haotian-wang/google-access-helper)
@@ -283,7 +283,7 @@
 - [更优雅的驾车体验。](https://github.com/SplashCodes/JAViewer/)
 - [Charles 破解工具。](https://github.com/8enet/Charles-Crack)
 - [listen1 desktop。](https://github.com/listen1/listen1_desktop)
-### December 7，2018
+### December 7, 2018
 - [Larastan - 在不运行代码的情况下发现代码中的错误。](https://github.com/nunomaduro/larastan)
 - [Go 设计模式，食谱和习语的精选列表。](https://github.com/tmrts/go-patterns)
 - [PHP 的简单多进程管理器，基于 pcntl 和 posix。](https://github.com/soliphp/process)
@@ -293,7 +293,7 @@
 - [Flutter 可以轻松快速地构建漂亮的移动应用程序。](https://github.com/flutter/flutter)
 - [PHP 的基本 CURL 包装器。](https://github.com/shuber/curl)
 - [easyProxy 是一款轻量级、高性能、功能最为强大的内网穿透代理服务器。](https://github.com/cnlh/easyProxy)
-### December 6，2018
+### December 6, 2018
 - [用于处理 Tumblr 博客的工具，Tumblr 备份。](https://github.com/bbolli/tumblr-utils)
 - [JSBox 扩展 demo。](https://github.com/cyanzhong/xTeko/blob/master/README_CN.md)
 - [jsbox、pin 使用技巧。](https://github.com/cyanzhong/app-tutorials)
@@ -304,7 +304,7 @@
 - [一个简单的本地图像，用 PHP 编写的缩略图生成脚本。](https://github.com/jamiebicknell/Thumb)
 - [我的 ZSH 配置和 dotfiles。](https://github.com/caius/zshrc)
 - [One for all free music in china for Windows with fluent UI。https://github.com/oyrx/listen1_desktop。](https://github.com/oyrx/listen1_desktop_fluent)
-### December 5，2018
+### December 5, 2018
 - [golang 库用于读写 Microsoft Excel。](https://github.com/360EntSecGroup-Skylar/excelize)
 - [Dan Abramov 的个人博客。](https://github.com/gaearon/overreacted.io)
 - [Rules / 规则：Surge / Shadowrocket / Quantumult。](https://github.com/lhie1/Rules)
@@ -323,7 +323,7 @@
 - [Tor Browser。](https://github.com/TheTorProject/gettorbrowser)
 - [中文暗网爬虫。](https://github.com/C4o/ChineseDarkWebCrawler)
 - [一个简单的交互式 Go 解释器。](https://github.com/sbinet/igo)
-### December 4，2018
+### December 4, 2018
 - [基于 Web 技术构建的终端。](https://github.com/zeit/hyper)
 - [基于 UWP 和 Web 技术的终端。](https://github.com/felixse/FluentTerminal)
 - [谷歌蜻蜓计划。](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on#%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B0%B7%E6%AD%8C%E7%9A%84%E8%9C%BB%E8%9C%93%E9%A1%B9%E7%9B%AE%E5%BF%85%E9%A1%BB%E7%BB%A7%E7%BB%AD)
@@ -337,17 +337,17 @@
 - [如何使用 golang 构建 Web 应用。](https://github.com/astaxie/build-web-application-with-golang)
 - [中文版 awesome-go。](https://github.com/hackstoic/golang-open-source-projects)
 - [Golang 标准库。](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-### December 3，2018
+### December 3, 2018
 - [微信里面的黑科技。](https://github.com/wxbug-cn/ticket)
 - [了解如何将动画引入您的 Web 项目。](https://github.com/cssanimation/css-animation-101)
-### December 2，2018
+### December 2, 2018
 - [👄 小程序 And 公众号商城，外加后台，功能齐全！](https://github.com/geekape/applet-h5-shop?utm_source=gold_browser_extension)
 - [🎬 豆瓣电影传送门。](https://github.com/Neulana/douban-movie-extension)
-### December 1，2018
+### December 1, 2018
 - [微信支付单文件版。一个 PHP 文件搞定微信支付系列。包括原生支付 (扫码支付)，H5 支付，公众号支付，现金红包、企业付款到零钱等。](https://github.com/dedemao/weixinPay)
 - [一个 PHP 文件搞定支付宝支付系列，包括电脑网站支付，手机网站支付，扫码支付，JSAPI 支付、单笔转账到支付宝账户、交易结算 (分账、分润)、网页授权获取用户信息等。](https://github.com/dedemao/alipay)
 - [Laravel 最佳实践。](https://github.com/kevinyan815/laravel_best_practices_cn)
-### November 30，2018
+### November 30, 2018
 - [Go Web 的 Go-Mega 教程。](https://github.com/bonfy/go-mega)
 - [免费的 Kindle 电子书资源。](https://github.com/crazyandcoder/kindle_free_books)
 - [精选的博客列表。](https://github.com/kilimchoi/engineering-blogs)
@@ -358,11 +358,11 @@
 - [《Go Web 编程》](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 - [《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [beego 是 Go 编程语言的开源，高性能 Web 框架。](https://github.com/astaxie/beego)
-### November 29，2018
+### November 29, 2018
 - [🛁 适用于 JavaScript 的 Clean Code 概念。](https://github.com/ryanmcdermott/clean-code-javascript)
 - [为 PhpStorm 和 IntelliJ 添加 PHP 注释支持。](https://github.com/Haehnchen/idea-php-annotation-plugin)
 - [Node.js CMS 和 Web 应用程序框架。](https://github.com/keystonejs/keystone)
-### November 28，2018
+### November 28, 2018
 - [Chrome 扩展：麻麻再也不用担心 Google API 抽风了。](https://github.com/xmcp/GoFW)
 - [这是 PHP 的一个实现，用纯 Go 编写 (尽可能，现在 pcre 在 pure go 中不存在并且需要使用 libpcre)。](https://github.com/MagicalTux/goro)
 - [功能强大且易于使用的 PHP 微框架，旨在帮助您快速构建动态，强大的 Web 应用程序！](https://github.com/bcosca/fatfree)
@@ -374,7 +374,7 @@
 - [用 electron 生成的 Shadowsocksr 客户端。](https://github.com/erguotou520/electron-ssr)
 - [MongoDB 对象文档映射器 (ODM)](https://github.com/doctrine/mongodb-odm)
 - [用于在 PHP 中使用 MongoDb。](https://github.com/colinmollenhour/mongodb-php-odm)
-### November 27，2018
+### November 27, 2018
 - [91 云服务器一键测试包。](https://github.com/91yun/91yuntest)
 - [用 Go (golang) 编写的完整比特币解决方案。](https://github.com/piotrnar/gocoin)
 - [Go 的执行日志。](https://github.com/golang/glog)
@@ -384,27 +384,27 @@
 - [锁定库提供 PHP 代码的序列化执行。](https://github.com/php-lock/lock)
 - [Yii3 web application template。](https://github.com/yiisoft/yii-base-web)
 - [Yii Framework 3.0 core。](https://github.com/yiisoft/yii-core)
-### November 26，2018
+### November 26, 2018
 - [Deepin wine for ubuntu。](https://github.com/wszqkzqk/deepin-wine-ubuntu)
 - [Flash OS 映像到 SD 卡和 USB 驱动器，安全，轻松。](https://github.com/balena-io/etcher)
 - [Chinese Identity Card package (中国大陆) 公民身份证类。](https://github.com/douyasi/identity-card)
 - [Linux 内核揭密。](https://github.com/MintCN/linux-insides-zh)
 - [带有详细注释的 Redis 3.0 代码 (annotated Redis 3.0 source code)。](https://github.com/huangz1990/redis-3.0-annotated)
-### November 25，2018
+### November 25, 2018
 - [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [“不要编写你的 UI 代码，画它！”](https://github.com/karanchahal/DoodleMaster)
 - [一个到处运行的科幻桌面。](https://github.com/GitSquared/edex-ui)
-### November 24，2018
+### November 24, 2018
 - [一套用于 Laravel 的高级 Eloquent。](https://github.com/reinink/advanced-eloquent)
 - [延迟队列。](https://github.com/ouqiang/delay-queue)
 - [我的油猴脚本。](https://github.com/jerone/UserScripts#readme)
 - [查看 Github 其他用户的时间表。](https://github.com/barisesen/github-timeline)
 - [如何成为一名程序员中文版。](https://github.com/braydie/HowToBeAProgrammer/tree/master/zh)
-### November 23，2018
+### November 23, 2018
 - [Tipask 是一款开放源码的 PHP 问答系统，基于 Laravel 框架开发，容易扩展，具有强大的负载能力和稳定性。](https://github.com/sdfsky/tipask)
 - [NGiИX 配置生成器。](https://github.com/valentinxxx/nginxconfig.io)
 - [京价保 (京价宝)—— 一个帮助你自动申请京东价格保护的 chrome 拓展。](https://github.com/sunoj/jjb)
-### November 22，2018
+### November 22, 2018
 - [标准图书馆。](https://github.com/zloirock/core-js)
 - [kafka php 客户端。](https://github.com/weiboad/kafka-php)
 - [The Elements of Statistical Learning (ESL) 的中文翻译、代码实现及其习题解答。](https://github.com/szcf-weiya/ESL-CN)
@@ -423,7 +423,7 @@
 - [在云端发送您的项目。](https://github.com/rocketeers/rocketeer)
 - [网站讨论平台 composer 包。](https://github.com/flarum/flarum)
 - [swoole 队列。](https://github.com/kcloze/swoole-jobs/blob/master/README.zh.md)
-### November 21，2018
+### November 21, 2018
 - [直接在 CSV 或 TSV 文件上运行 SQL。](https://github.com/harelba/q)
 - [多集群 Kubernetes 的 Web UI。](https://github.com/Qihoo360/wayne)
 - [WeUI 的轻量级 JavaScript 库。](https://github.com/Tencent/weui.js)
@@ -435,13 +435,13 @@
 - [灵活而强大的通用路由解决方案。](https://github.com/router5/router5)
 - [开源看板 (用 Meteor 建造)。](https://github.com/wekan/wekan)
 - [开放中文知识图谱的 schema。](https://github.com/cnschema/cnschema)
-### November 20，2018
+### November 20, 2018
 - [公共维护的 Pholcus 爬虫规则库。](https://github.com/henrylee2cn/pholcus_lib)
 - [Swagger 2.0 实现 go。](https://github.com/go-swagger/go-swagger)
 - [一个开源的自托管持续集成和部署系统。](https://github.com/)
 - [后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。](https://github.com/frank-lam/2019_campus_apply)
 - [“结巴”中文分词的 Node.js 版本。](https://github.com/yanyiwu/nodejieba)
-- [微信 ipad、微信 mac 协议，可实现微信 80%功能；支持 62 数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等。](https://github.com/changtuiqie/Mac.WeChat)
+- [微信 ipad、微信 mac 协议，可实现微信 80% 功能；支持 62 数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等。](https://github.com/changtuiqie/Mac.WeChat)
 - [淘气字符串的大清单是一个字符串列表，当用作用户输入数据时很可能导致问题。](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [在浏览器中运行 SQL。](https://github.com/rickbergfalk/sqlpad)
 - [支付宝 (蚂蚁金服) 开放平台第三方 PHP SDK，基于官方 3.3.0 版本，助力支付宝小程序后端开发。](https://github.com/wi1dcard/alipay-sdk-php)
@@ -449,7 +449,7 @@
 - [Spring Boot 教程、技术栈示例代码，快速简单上手教程。](https://github.com/ityouknow/spring-boot-examples)
 - [基于 Swift 的 iTu​​nes 插件，用于在桌面上显示歌词。](https://github.com/MichaelRow/Lyrics)
 - [适用于 Mac 的 TinyPNG 客户端。](https://github.com/kyleduo/TinyPNG4Mac)
-- [作曲家并行安装插件-加速包安装。](https://github.com/hirak/prestissimo)
+- [作曲家并行安装插件 - 加速包安装。](https://github.com/hirak/prestissimo)
 - [Caddy 是一款可立即投入生产的开源 Web 服务器，它快速，易用，并且可以提高您的工作效率。](https://github.com/mholt/caddy)
 - [Certbot 是 EFF 的工具，用于从 Let's Encrypt 获取证书，并且 (可选) 在您的服务器上自动启用 HTTPS。它还可以充当使用 ACME 协议的任何其他 CA 的客户端。](https://github.com/certbot/certbot)
 - [Laravel Echo 的 Socket.io 服务器。](https://github.com/tlaverdure/laravel-echo-server)
@@ -458,28 +458,28 @@
 - [微小版本的 gfwlist，仅关注常见网站。](https://github.com/gfwlist/tinylist)
 - [实时网络的开源数据库。](https://github.com/rethinkdb/rethinkdb)
 - [thumbor 是一个开源的照片缩略图服务。](https://github.com/thumbor/thumbor)
-### November 19，2018
+### November 19, 2018
 - [股票期权，RSU，税收阅读。](https://github.com/jlevy/og-equity-compensation)
 - [HTTP 相关的 RFC 中文翻译 (中英文对照)。](https://github.com/duoani/HTTP-RFCs.zh-cn)
 - [静态网页生成器大合集汇总网站。](https://www.staticgen.com/)
 - [一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具，让你的滚轮爽如触控板。](https://github.com/Caldis/Mos)
 - [使用 vue 构建 electron 应用程序。](https://github.com/SimulatedGREG/electron-vue)
 - [Postman 中文使用说明。](https://github.com/S0im/PostmanIssues)
-### November 18，2018
+### November 18, 2018
 - [使用 Go + HTML5 构建跨平台的现代桌面应用程序。](https://github.com/zserge/lorca)
 - [iOS 12 捷径创建者。](https://github.com/joshfarrant/shortcuts-js)
-### November 17，2018
+### November 17, 2018
 - [Cloudflare CNAME 接入。](https://github.com/ZE3kr/Cloudflare-CNAME-Setup)
 - [小米笔记本 PRO 安装 macOS Mojave & High Sierra 使用说明。](https://github.com/daliansky/XiaoMi-Pro/blob/master/README-CN.md)
 - [Go 的微型和可插拔 Web 框架。](https://github.com/lunny/tango)
 - [PHP 静态分析工具 - 发现代码中的错误而不运行它！](https://github.com/phpstan/phpstan)
 - [可组合 Docker 管理。](https://github.com/shipyard/shipyard)
 - [Compose setup for Portainer。](https://github.com/portainer/portainer-compose)
-### November 16，2018
+### November 16, 2018
 - [Golang 实现 JSON 网络令牌 (JWT)。](https://github.com/dgrijalva/jwt-go)
 - [轻松的文档。](https://github.com/leptosia/docute)
 - [灵活且可扩展的 CMS，可在网络上及以后创建定制的数字体验。](https://github.com/craftcms/cms)
-### November 15，2018
+### November 15, 2018
 - [Docker UI 管理器。](https://github.com/shipyard/shipyard)
 - [用于构建代理以绕过网络限制的平台。](https://github.com/v2ray/v2ray-core)
 - [最好用的 V2Ray 一键安装脚本 & 管理脚本。](https://github.com/233boy/v2ray)
@@ -487,7 +487,7 @@
 - [符合规范，默认情况下是安全的 PHP OAuth 2.0 服务器。](https://github.com/thephpleague/oauth2-server)
 - [swoole 开发的 mysql 数据库连接池。](https://github.com/louislivi/smproxy)
 - [Go 的解析器库。](https://github.com/alecthomas/participle)
-### November 14，2018
+### November 14, 2018
 - [MySQL JSON Explain Analyzer。](https://github.com/Preetam/explain-analyzer)
 - [将 Lua 的强大功能嵌入到 NGINX HTTP 服务器中。](https://github.com/openresty/lua-nginx-module)
 - [PHP 图像处理。](https://github.com/Intervention/image)
@@ -500,23 +500,23 @@
 - [Redis 在 PHP 中分布锁。](https://github.com/ronnylt/redlock-php)
 - [基于 Node.js 的中文分词模块。](https://github.com/leizongmin/node-segment)
 - [下一代 ShadowsocksX。](https://github.com/shadowsocks/ShadowsocksX-NG)
-### November 13，2018
+### November 13, 2018
 - [跨平台 Go 日志库。](https://github.com/google/logger)
 - [用 go 实现 laravel。](https://github.com/laragol/laragol)
 - [zsh 的下一代插件管理器。](https://github.com/zplug/zplug)
 - [awesome-zsh-plugins。](https://github.com/unixorn/awesome-zsh-plugins)
 - [google 的 ggrc-core。](https://github.com/google/ggrc-core)
 - [Go 的结构化可插入日志记录。](https://github.com/sirupsen/logrus)
-### November 12，2018
+### November 12, 2018
 - [Vue.js 的移动 UI 元素。](https://github.com/ElemeFE/mint-ui)
 - [PHP 的一个面向对象的多进程管理器。](https://github.com/TIGERB/naruto)
 - [PHP 中基于 Web 的文件管理器，使用 Tiny File Manager 高效，轻松地管理文件。](https://github.com/prasathmani/tinyfilemanager)
 - [JetBrains 系列软件汉化包。](https://github.com/pingfangx/jetbrains-in-chinese)
-### November 11，2018
+### November 11, 2018
 - [go 的依赖工具。](https://github.com/tools/godep)
 - [闲耘的 rime 输入法配置。](https://github.com/hotoo/rime)
 - [【鼠鬚管】Rime for macOS。](https://github.com/rime/squirrel)
-### November 10，2018
+### November 10, 2018
 - [iHosts 非常适合在 Mac OS X 上编辑/etc/hosts。](https://github.com/toolinbox/iHosts)
 - [host 管理 chrome 插件。](https://github.com/keelii/awesome-host-manager)
 - [📝 开发工具，用于记录 laravel 应用程序的所有查询。](https://github.com/overtrue/laravel-query-logger)
@@ -526,19 +526,19 @@
 - [Photopea 是在线图像编辑器。](https://github.com/photopea/photopea)
 - [一个面向全平台的代理客户端。](https://github.com/Dreamacro/clash)
 - [一个 Clash 的 Windows 用户图形界面。](https://github.com/Fndroid/clash_for_windows_pkg)
-### November 9，2018
+### November 9, 2018
 - [与 KeePass 兼容的免费跨平台密码管理器。](https://github.com/keeweb/keeweb)
 - [macOS KeePass 客户端。](https://github.com/MacPass/MacPass)
 - [KeePass 插件通过 HTTP 安全地公开密码条目。](https://github.com/pfn/keepasshttp)
 - [archiver。](https://github.com/mholt/archiver)
 - [命令行 JSON 处理工具 🔥](https://github.com/antonmedv/fx)
 - [for PHP 的感知图像散列 https://jenssegers.com](https://github.com/jenssegers/imagehash)
-### November 8，2018
+### November 8, 2018
 - [一刻社区后端 API 源码。](https://github.com/overtrue/api.yike.io)
 - [一刻社区前端源码。](https://github.com/overtrue/yike.io)
 - [Chatter 是一个简单的 Laravel 论坛包。](https://github.com/thedevdojo/chatter)
 - [docker 中文文档。](https://github.com/widuu/chinese_docker)
-### November 7，2018
+### November 7, 2018
 - [飞冰 - 让前端开发简单而友好，海量可复用物料，配套桌面工具极速构建前端应用，效率提升 100% 。](https://github.com/alibaba/ice)
 - [Yii 的依赖注入。](https://github.com/yiisoft/di)
 - [Gitbook 的高亮插件。](https://github.com/gaearon/gitbook-plugin-prism)
@@ -557,12 +557,12 @@
 - [百度网盘客户端 - Go 语言编写。](https://github.com/iikira/BaiduPCS-Go)
 - [为云音乐客户端解决不可用的歌曲。](https://github.com/nondanee/UnblockNeteaseMusic)
 - [网易云音乐第三方。](https://github.com/trazyn/ieaseMusic)
-### November 6，2018
+### November 6, 2018
 - [JSS 是 CSS 的创作工具，它使用 JavaScript 作为宿主语言。](https://github.com/cssinjs/jss)
 - [PHP Curl Class 可以轻松发送 HTTP 请求并与 Web API 集成。](https://github.com/php-curl-class/php-curl-class)
 - [PHP 的快速请求路由器。](https://github.com/nikic/FastRoute)
 - [Next Generation of ShadowsocksX。](https://github.com/shadowsocks/ShadowsocksX-NG)
-### November 5，2018
+### November 5, 2018
 - [HTTP API 设计指南。](https://github.com/cocoajin/http-api-design-ZH_CN)
 - [基于 Vue.js 2.0 构建的高质量 UI 工具包。](https://github.com/iview/iview)
 - [开源项目挣钱实用手册。](https://github.com/wizicer/FinancialSupportForOpenSource)
@@ -575,15 +575,15 @@
 - [使任何网页成为桌面应用程序。](https://github.com/jiahaog/nativefier/)
 - [简约的 Vue 驱动的静态站点生成器。](https://github.com/vuejs/vuepress)
 - [一个神奇的文档站点生成器。](https://github.com/docsifyjs/docsify/)
-### November 3，2018
+### November 3, 2018
 - [深度学习 500 问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。](https://github.com/scutan90/DeepLearning-500-questions)
 - [覃健祥的学习笔记，各种几十分钟入门的文档。](https://github.com/qinjx/30min_guides)
-- [中国运营商 IP 地址库-每日更新。](https://github.com/gaoyifan/china-operator-ip)
+- [中国运营商 IP 地址库 - 每日更新。](https://github.com/gaoyifan/china-operator-ip)
 - [使用 JavaScript，HTML 和 CSS 构建跨平台桌面应用程序。](https://github.com/electron/electron)
 - [最快的 shell 插件管理器。](https://github.com/getantibody/antibody)
 - [一种使用 Web 技术构建的开源屏幕录像机。](https://github.com/wulkano/kap)
 - [在终端中获取 Linux 桌面截图的系统/主题信息。](https://github.com/KittyKatt/screenFetch)
-### November 2，2018
+### November 2, 2018
 - [PHP 7 中的正确舍入，任意精度的十进制浮点运算。](https://github.com/php-decimal/extension)
 - [PHP 终端 NES 模拟器。](https://github.com/hasegawa-tomoki/php-terminal-nes-emulator)
 - [Sentry 是跨平台应用程序监控，专注于错误报告。](https://github.com/getsentry/sentry)
@@ -594,18 +594,18 @@
 - [适用于 macOS 的现代视频播放器。](https://github.com/lhc70000/iina)
 - [使我的 macOS 体验更加惊人的应用程序和工具列表。](https://github.com/nikitavoloboev/my-mac-os)
 - [使我的 iOS 体验更加惊人的应用程序和工具列表。](https://github.com/nikitavoloboev/my-ios)
-### November 1，2018
+### November 1, 2018
 - [程序员应该访问的最佳网站中文版。](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [使用 Golang 实现 PHP 的常见内置函数。](https://github.com/syyongx/php2go)
-- [【新】微信开 (微信服务号+微信小程序+微信支付)。](https://github.com/zoujingli/WeChatDeveloper)
-- [MIT-18.06-线性代数-完整笔记。](https://github.com/apachecn/math)
+- [【新】微信开 (微信服务号 + 微信小程序 + 微信支付)。](https://github.com/zoujingli/WeChatDeveloper)
+- [MIT-18.06-线性代数 - 完整笔记。](https://github.com/apachecn/math)
 - [《Redis Command Reference》全文的中文翻译版。](https://github.com/huangz1990/redis)
-- [PHP 非侵入式监控平台- 优化性能，定位 Bug 的神器，别再让你的 PHP 程序裸奔。](https://github.com/laynefyc/xhgui-branch)
+- [PHP 非侵入式监控平台 - 优化性能，定位 Bug 的神器，别再让你的 PHP 程序裸奔。](https://github.com/laynefyc/xhgui-branch)
 - [Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay)、Surfboard 的配置规则文件。](https://github.com/ConnersHua/Profiles)
 - [Swagger 整合到 Laravel 5。](https://github.com/DarkaOnLine/L5-Swagger)
 - [API 接口辅助库包，生成和校验 api 签名。](https://github.com/youwen21/apidog)
 - [以开发人员为中心的 HTTP 客户端，针对大多数常见用例进行了优化。](https://github.com/kitetail/zttp)
-### October 30，2018
+### October 30, 2018
 - [收集 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。](https://github.com/laravel-china/php-the-right-way)
 - [🔗 一些有用的程序员网站。](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [用 vue 写小程序，基于 mpvue 框架重写 weui。](https://github.com/KuangPF/mpvue-weui)
@@ -619,7 +619,7 @@
 - [密码哈希 Argon2，PHC 的获胜者。](https://github.com/p-h-c/phc-winner-argon2)
 - [兼容 PHP 5.5 附带的 password_ *函数。](https://github.com/ircmaxell/password_compat)
 - [PHP 项目的自动 cacert.pem 管理。](https://github.com/paragonie/certainty)
-### October 29，2018
+### October 29, 2018
 - [一个简单的 Jekyll 主题。](https://github.com/mmistakes/so-simple-theme)
 - [SparkPHP 框架。](https://github.com/spark-php/framework)
 - [PHP 中函数式编程。](https://github.com/lstrojny/functional-php)
@@ -631,12 +631,12 @@
 - [一个适用于的 OpenWRT 全的平台个人文库翻墙路由方案。](https://github.com/lifetyper/FreeRouter_V2)
 - [互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay 的架构。](https://github.com/davideuler/architecture.of.internet-product)
 - [后端架构师技术图谱。](https://github.com/xingshaocheng/architect-awesome)
-### October 26，2018
+### October 26, 2018
 - [vuejs Database Manager 数据管理系统——前端。](https://github.com/calebman/vue-DBM)
 - [vuejs Database Manager 数据管理系统——后端。](https://github.com/calebman/database-manager)
 - [A PHP framework for console artisans。](https://github.com/laravel-zero/laravel-zero)
 - [收集整理一些常用的 PHP 类库，资源以及技巧。](https://github.com/JingwenTian/awesome-php)
-### October 25，2018
+### October 25, 2018
 - [吾爱破解论坛爱盘 down.52pojie.cn 页面的源代码。](https://github.com/ganlvtech/down_52pojie_cn)
 - [微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。](https://github.com/littlecodersh/ItChat)
 - [基于 yaf 开发的免费、安全、稳定、高效的发卡系统，值得拥有！](https://github.com/zlkbdotnet/zfaka)
@@ -644,7 +644,7 @@
 - [基于 Swoole 的 PHP 中的高性能 Web 框架和应用程序服务器。](https://github.com/bixuehujin/blink)
 - [适用于 Web 客户端的 gRPC。](https://github.com/grpc/grpc-web)
 - [类似与 PHP Simple HTML DOM Parser，但是比它快好几倍。](https://github.com/bupt1987/html-parser)
-### October 24，2018
+### October 24, 2018
 - [Vagrant Manager for Windows。](https://github.com/lanayotech/vagrant-manager-windows)
 - [SQL 优化器和重写器。](https://github.com/XiaoMi/soar)
 - [将实时段落，单词和字符计数添加到 HTML 元素。](https://github.com/RadLikeWhoa/Countable)
@@ -654,7 +654,7 @@
 - [适用于 PayPal RESTful API 的 PHP SDK。](https://github.com/paypal/PayPal-PHP-SDK)
 - [百度网盘不限速下载支持 Windows 和 Mac。](https://github.com/high-speed-downloader/high-speed-downloader)
 - [Laravel 框架的优雅调试助手。Telescope 可深入了解进入应用程序的请求，异常，日志条目，数据库查询，排队作业，邮件，通知，缓存操作，计划任务，变量转储等。](https://github.com/laravel/telescope)
-### October 23，2018
+### October 23, 2018
 - [Nginx 开发从入门到精通。](https://github.com/taobao/nginx-book)
 - [opcache 状态页面。](https://github.com/rlerdorf/opcache-status)
 - [dcloudio 支付相关。](https://github.com/dcloudio/H5P.Server)
@@ -662,16 +662,16 @@
 - [每个 JavaScript 工程师都应懂的 33 个概念。](https://github.com/stephentian/33-js-concepts#17-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF)
 - [swoft 框架文件。](https://github.com/swoft-cloud/swoft-doc)
 - [macOS 的 MySQL / MariaDB 数据库管理。](https://github.com/sequelpro/sequelpro)
-### October 22，2018
+### October 22, 2018
 - [区块链 3.0 -> 超级账本 hyperledger fabirc 教程 v1.1。](https://github.com/itheima1/hyperledger)
 - [Google Hosts。](https://github.com/googlehosts/hosts-ipv6)
-### October 21，2018
+### October 21, 2018
 - [一些经典且高质量的电子书分享。](https://github.com/threerocks/studyFiles)
 - [中国程序员容易发音错误的单词。](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 - [中华人民共和国行政区划：省级 (省份直辖市自治区)、地级 (城市)、县级 (区县)、乡级 (乡镇街道)、村级 (村委会居委会)，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。](https://github.com/modood/Administrative-divisions-of-China)
 - [🌈 An elegant dashboard https://d2-projects.github.io/d2-admin/。](https://github.com/d2-projects/d2-admin)
 - [。vimrc 简单配置，没有插件。](https://github.com/wklken/vim-for-server)
-### October 20，2018
+### October 20, 2018
 - [在 macOS 上安装开发环境。](https://github.com/sb2nov/mac-setup)
 - [加盐密码哈希：如何正确使用。](http://blog.jobbole.com/61872/)
 - [Metabase 是一个开源的 BI 工具，最大的特点是具有可视化操作界面的数据分析和查询功能，让不懂 SQL 得用户可能够快速掌握业务数据，支持团队共享业务数据，并且支持 MySQL、Postgresql 等多种数据源，部署方便，为企业提供了一个很不错的 BI 解决方案。](https://github.com/metabase/metabase)
@@ -682,7 +682,7 @@
 - [这是书籍《深度学习框架 PyTorch：入门与实践》的对应代码，但是也可以作为一个独立的 PyTorch 入门指南和教程。](https://github.com/chenyuntc/pytorch-book)
 - [以各种方式使用 RabbitMQ 的教程。](https://github.com/rabbitmq/rabbitmq-tutorials)
 - [纯 Python MySQL 客户端。](https://github.com/PyMySQL/PyMySQL)
-### October 19，2018
+### October 19, 2018
 - [Shadowsocks for Windows。](https://github.com/shadowsocks/shadowsocks-windows)
 - [Nginx 安装维护入门学习笔记，以及各种实例。](https://github.com/jaywcjlove/nginx-tutorial)
 - [中国最大的 API 接口管理平台。](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP)
@@ -691,37 +691,37 @@
 - [萌音影视 - 在线影视应用 http://www.moeins.cn。](https://github.com/178146582/moeins)
 - [一个简单的图书 SDK，你可以使用它用于获取指定书籍的基本信息。](https://github.com/Littlesqx/douban-book?utm_source=gold_browser_extension)
 - [php 开源商城系统，基于 swoole、easyswoole 框架开发 https://www.fashop.cn。](https://github.com/mojisrc/fashop)
-### October 18，2018
+### October 18, 2018
 - [算法学习 Golang 版。](https://github.com/skybebe/Algorithms-Learning-With-Go)
 - [阿里巴巴 mysql 数据库 binlog 的增量订阅&消费组件。](https://github.com/alibaba/canal)
 - [和我一步步部署 kubernetes 集群。](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 - [PHPConChina 相关资源。](https://github.com/ThinkDevelopers/PHPConChina)
 - [Redis、Lua、Nginx、OpenResty 笔记。](https://github.com/Tinywan/lua-nginx-redis)
 - [MeepoPS 是 Meepo PHP Socket 的缩写，旨在提供稳定的 Socket 服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。](https://github.com/lixuancn/MeepoPS)
-### October 17，2018
+### October 17, 2018
 - [Git 常见问题、用法。](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 - [国家标准的软件开发文档。](https://github.com/GZzzhsmart/development-document)
 - [阮一峰 - 技术分享周刊，每周五发布。](https://github.com/ruanyf/weekly)
-### October 16，2018
+### October 16, 2018
 - [平常学习中收集的教程整理。](https://github.com/shaipe/course)
 - [Twitter 的 Snowflake 的 PHP 版。](https://github.com/zhouyuan24/IDWork)
 - [基于有赞云和有赞微小店实现个人收款解决方案。](https://github.com/slince/youzan-pay)
 - [PHPForker 是一个 PHP 多进程编程骨架，借鉴了 Workerman 诸多优良编程思想，剥离了其中的网络事件库抽象部分，集中围绕多进程编程，为了便于直观的调试以及保持最轻的多进程骨架，所以简单的内嵌了一个基于 select 多路复用技术的 TCP & UDP Server。](https://github.com/blogdaren/PHPForker)
 - [lnmp 一键安装包。](https://github.com/lj2007331/lnmp)
-### October 15，2018
+### October 15, 2018
 - [Yaf MVC 框架集成了一些常用类库。](https://github.com/elarity/yaf)
 - [Valitron 是一个简单，优雅，独立的验证库，没有依赖关系。](https://github.com/vlucas/valitron)
 - [复制 GitHub Markdown 样式的最小 CSS 量。](https://github.com/sindresorhus/github-markdown-css)
-### October 14，2018
+### October 14, 2018
 - [一个结构清晰的，易于维护的，现代的 PHP Markdown 解析器。](https://github.com/SegmentFault/HyperDown)
 - [OpenCV-Python-Tutorial。](https://github.com/makelove/OpenCV-Python-Tutorial)
 - [跨域本地存储，具有权限。](https://github.com/zendesk/cross-storage)
 - [通过缓存整个响应来加速 Laravel 应用程序。](https://github.com/spatie/laravel-responsecache)
 - [redis web 客户端。](https://github.com/prettyyjnic/redisSky)
-### October 12，2018
+### October 12, 2018
 - [后端架构师技术图谱。](https://github.com/xingshaocheng/architect-awesome)
 - [🔴 蓝灯最新版本下载。](https://github.com/getlantern/download)
-### October 11，2018
+### October 11, 2018
 - [IPsec VPN 服务器一键安装脚本。](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md)
 - [搬瓦工一键搭建酸酸 Shad0ws0cks 图文教程。](https://www.banwagongzw.com/7.html)
 - [一个可体验 Windows 95 的 app。](https://github.com/felixrieseberg/windows95)
@@ -730,11 +730,11 @@
 - [Luosimao 创新开发的人机验证，免去了复杂的输入过程，具有更加优秀的操作体验，更加美观的设计，可更好地融入到您的网站中。](https://gitee.com/dungang/yii2-luosimao-captcha)
 - [一个基于 PHP 的 jQuery 中文点击验证码插件 (php，jquery，captcha)。](https://gitee.com/hooray/clicaptcha)
 - [ckplayer (超酷网页视频播放器)，支持 http 协议下的 flv,f4v,mp4，支持 rtmp 视频流和 rtmp 视频回放，支持 m3u8 格式，是你做视频直播，视频点播的理想播放器 http://www.ckplayer.com](https://gitee.com/niandeng/ckplayer)
-- [🌻 HTML5 播放器、M3U8 直播/点播、RTMP 直播、低延迟、推流/播流地址鉴权、优化浏览器兼容性，HLS+扩展 http://github.tinywan.com/html5-dash-……](https://github.com/Tinywan/html5-dash-hls-rtmp)
+- [🌻 HTML5 播放器、M3U8 直播/点播、RTMP 直播、低延迟、推流/播流地址鉴权、优化浏览器兼容性，HLS+ 扩展 http://github.tinywan.com/html5-dash-……](https://github.com/Tinywan/html5-dash-hls-rtmp)
 - [一个支持自定义 UI 布局，流式 API，加密，直播，亮度，音量，快进等手势，广告视频预览，多种加载模式，多种分辨率切换，多种封面图，自定义数据源，列表播放，倍数播放，边播变缓存不是使用 AndroidVideoCache，离线播放，神奇的播放器。](https://github.com/yangchaojiang/yjPlay)
 - [SGPlayer 是一款基于 AVPlayer、FFmpeg 的媒体资源播放器框架。支持 360° 全景视频，VR 视频，RTMP、RTSP 等直播流；同时支持 iOS、macOS、tvOS 三个平台。](https://github.com/libobjc/SGPlayer/blob/master/documents/README-chs.md)
 - [云教务，摩码创想开源版云教务系统主要由教学、系统、账户三个大模块组成 http://www.yunjiaowu.cn。](https://gitee.com/moma_oa/yunjiaowu)
-### October 10，2018
+### October 10, 2018
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
 - [网易云音乐 Node.js API service。](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [我个人曾经做过的技术分享... http://xiaorui.cc](https://github.com/rfyiamcool/share_ppt)
@@ -742,47 +742,47 @@
 - [基于 laravel 免费的开源 IT 资产/许可证管理系统。](https://github.com/snipe/snipe-it)
 - [腾讯云 COS 对象存储 V5。](https://github.com/freyo/flysystem-qcloud-cos-v5)
 - [运用 swoole 在浏览器更友好的实现 vmstat。](https://github.com/toxmc/swoole-vmstat)
-### October 9，2018
+### October 9, 2018
 - [Laravel 为 Sentry 整合。](https://github.com/getsentry/sentry-laravel)
 - [中文人名语料库。中文姓名，姓氏，名字，称呼，日本人名，翻译人名，英文人名。](https://github.com/wainshine/Chinese-Names-Corpus)
 - [Wooyun 知识库，乌云知识库。](https://github.com/SuperKieran/WooyunDrops)
 - [一个能够 Hook 绝大多数函数/类、部分 opcode 的 PHP7 扩展。](https://github.com/fate0/xmark)
-### October 8，2018
+### October 8, 2018
 - [提供用于规范化 composer.json 的 composer 插件。](https://github.com/localheinz/composer-normalize)
-### October 7，2018
+### October 7, 2018
 - [终端主题配色。](https://github.com/mbadolato/iTerm2-Color-Schemes)
 - [spf13-vim。](https://github.com/spf13/spf13-vim)
-### October 6，2018
+### October 6, 2018
 - [Vue.js 的国际化插件。](https://github.com/kazupon/vue-i18n)
-### October 5，2018
+### October 5, 2018
 - [收集那些优秀的软件 (Windows & Mac)。](https://github.com/JustVita/Excellent-software/blob/master/Mac/README.md?utm_source=wechat_session&utm_medium=social&utm_oi=725110054159659008&from=singlemessage&isappinstalled=0)
-### October 4，2018
+### October 4, 2018
 - [《Redis 设计与实现》(网络版) 的书稿源码。](https://github.com/huangz1990/redisbook)
 - [Aria2GUI for macOS。](https://github.com/yangshun1029/aria2gui)
-### October 3，2018
+### October 3, 2018
 - [Laravel 深入浅出指南 —— Laravel 5.7 源代码解析，新手进阶指南。](https://github.com/xiaohuilam/laravel)
-### October 2，2018
+### October 2, 2018
 - [GitHub 虚假 Star 净网行动。](https://github.com/yulingtianxia/FuckFakeGitHubStars)
 - [Go 实战开发。](https://github.com/astaxie/go-best-practice)
-### October 1，2018
+### October 1, 2018
 - [hitokoto 本地源。](https://github.com/)
-### September 30，2018
+### September 30, 2018
 - [在 Blade 视图中使用自定义 html 组件。](https://github.com/)
 - [我的 macOS 配置：Zsh，Karabiner，VS Code，Sublime，Neovim，Nix，Hammerspoon。](https://github.com/nikitavoloboev/dotfiles)
 - [Fira 代码：具有编程连字的等宽字体。](https://github.com/tonsky/FiraCode)
 - [具有编程连字的等宽字体。](https://github.com/tonsky/FiraCode)
 - [基于 Laravel 开发的在线点播系统。](https://github.com/Qsnh/meedu)
-### September 29，2018
+### September 29, 2018
 - [蓝灯最新版本下载。](https://github.com/getlantern/lantern)
 - [来自 Laravel 生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。](https://github.com/nonfu/awesome-laravel)
 - [用于备份 Laravel 应用程序的软件包。](https://github.com/spatie/laravel-backup)
 - [一个用 vue 写的后台模板](https://github.com/PanJiaChen/vue-element-admin)
-### September 28，2018
+### September 28, 2018
 - [PHP 开发知识结构。](https://github.com/han8gui/PHPer)
-### September 27，2018
+### September 27, 2018
 - [前端笔试面试题题库。](https://github.com/jirengu/frontend-interview)
 - [快应用的例子。](https://github.com/RubyLouvre/quickdemo)
-### September 26，2018
+### September 26, 2018
 - [使用开源 Laravel Envoy 工具提供基本的“零停机”部署。](https://github.com/papertank/envoy-deploy)
 - [QR 码生成器。](https://github.com/alexeyten/qr-image)
 - [VPN Chrome 是基于 Google Chromium 的浏览器，具有内置的 VPN 功能，可让用户以安全和私密的方式上网。](https://github.com/free-vpn/chrome)
@@ -791,86 +791,86 @@
 - [用于与 blockchain.info API 交互的官方 PHP 库。](https://github.com/blockchain/api-v1-client-php)
 - [BitWasp 是一个开源 PHP 项目，允许任何人建立一个独立于其他集中服务的安全比特币市场。](https://github.com/Bit-Wasp/BitWasp)
 - [10 个你应该知道的 PHP 比特币开源项目。](https://laravel-china.org/articles/17574)
-### September 25，2018
+### September 25, 2018
 - [前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 替代的方法，暂时只支持 IE10 以上浏览器](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 - [ClickHouse 是一个面向开源列的数据库管理系统，可以实时生成分析数据报告。](https://github.com/yandex/ClickHouse)
 - [社会需求收集器 - 一些非技术文章。](https://github.com/wizardforcel/sorecol)
-### September 24，2018
+### September 24, 2018
 - [基于 PHP 的反病毒反木马反恶意软件解决方案。](https://github.com/phpMussel/phpMussel)
 - [一个简单的图书 SDK，你可以使用它用于获取指定书籍的基本信息。](https://github.com/Littlesqx/douban-book)
-### September 23，2018
+### September 23, 2018
 - [重新定义微信小程序的开发。](https://github.com/qiu8310/minapp)
 - [一个安全的私有聊天软件。](https://github.com/duckchat/gaga)
 - [微信/支付宝监控个人收款，无需签约支付宝、微信支付。为支付宝、微信支付的个人账户提供即时到账服务。](https://github.com/Tinywan/xpay)
 - [独立的 qrcode 生成 (不依赖于外部服务)。](https://github.com/jeromeetienne/jquery-qrcode)
-### September 22，2018
+### September 22, 2018
 - [PHP Server Monitor 是一个脚本，用于检查您的网站和服务器是否已启动并正在运行。它带有一个基于 Web 的用户界面，您可以在其中管理您的服务和网站，还可以使用手机号码和电子邮件地址管理每个服务器的用户。](https://github.com/phpservermon/phpservermon)
 - [php-interview-2018：面试总结。](https://github.com/sushengbuhuo/php-interview-2018)
 - [YApi 是一个可本地部署的、打通前后端及 QA 的、可视化的接口管理平台。](https://github.com/YMFE/yapi)
 - [swoole 内核分析，基于 swoole2.0.13。](https://github.com/aizsfgk/swoole-core-analysis)
 - [基于 Chrome 和 Vue.js 开发的第三方即刻通知插件。](https://github.com/coder-ysj/jike-meow)
 - [github 徽章服务。](https://github.com/badges/shields)
-### September 21，2018
+### September 21, 2018
 - [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现。](https://github.com/apachecn/awesome-leetcode)
 - [SimPic 是一个开源的 PHP 图床。](https://github.com/xinyewl/Simpic)
 - [谈谈一些有趣的 CSS 话题。](https://github.com/chokcoco/iCSS)
 - [PHP 比特币开发详解：本课程面向初学者，内容即涵盖比特币的核心概念。](https://github.com/jimilai/bitcoin)
 - [Laravel 的中大型專案架構 | 點燈坊。](https://oomusou.io/laravel/architecture/)
 - [Gitlab 安装和配置。](https://github.com/judasn/Linux-Tutorial/blob/master/markdown-file/Gitlab-Install-And-Settings.md)
-### September 20，2018
-- [Serialize closures (anonymous functions) https://opis.io/closure。](https://github.com/opis/closure)
-### September 19，2018
+### September 20, 2018
+- [Serialize closures (anonymous functions) https://opis.io/closure.](https://github.com/opis/closure)
+### September 19, 2018
 - [Laravel 5.7 blog application with Vue.js，Docker，Redis，Horizon and Pusher。](https://github.com/guillaumebriday/laravel-blog)
 - [独立开发/自由职业/远程工作资源列表。](https://github.com/apachecn/awesome-indie-zh)
-### September 18，2018
+### September 18, 2018
 - [Laravel 5 系列入门教程。](https://github.com/johnlui/Learn-Laravel-5)
 - [网页微信 PHP 登录的实现。](https://github.com/lbbniu/WebWechat)
 - [PHP 底层内核源码分析和扩展开发。](https://github.com/huqinlou0123/php-internals-extended-development-course)
-### September 17，2018
+### September 17, 2018
 - [PHP 代码职业生涯中的一些小技巧 🐘http://easy-tips.tigerb.cn。](https://github.com/TIGERB/easy-tips)
-### September 16，2018
+### September 16, 2018
 - [深度有趣 - 人工智能实战项目合集。](https://github.com/Honlan/DeepInterests)
 - [为互联网 IT 人打造的中文版 awesome-go。](https://github.com/hackstoic/golang-open-source-projects#%E7%9B%AE%E5%BD%95)
 - [开源书籍大搜罗。](https://github.com/hackstoic/open-source-books)
-### September 15，2018
+### September 15, 2018
 - [基于 Swoole 开发的协程 PHP 开发框架，常驻内存、协程异步。](https://github.com/Yurunsoft/IMI)
 - [Golang 标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解 Golang 的标准库。](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-### September 14，2018
+### September 14, 2018
 - [又一个 Linux VPS 测评脚本。](https://github.com/FunctionClub/ZBench)
 - [高性能，并发抢占锁，并发队列锁。](https://github.com/zhaocong6/lock)
 - [支持多家云存储的云盘系统。](https://github.com/HFO4/Cloudreve?utm_source=gold_browser_extension)
-### September 13，2018
+### September 13, 2018
 - [一个网站部署包。](https://github.com/deployphp/recipes)
 - [RSSHub 是一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。](https://github.com/DIYgod/RSSHub)
-### September 12，2018
+### September 12, 2018
 - [搜索互动地图以了解任何内容 https://learn-anything.xyz。](https://github.com/learn-anything/learn-anything)
 - [一堆初中生写的类库、框架。](https://www.v2ex.com/t/461811)
 - [前端精读周刊。](https://github.com/dt-fe/weekly)
-### September 11，2018
+### September 11, 2018
 - [2018 前端常见题汇总，不定时更新。](https://github.com/qianbin01/frontend_train)
-### September 10，2018
+### September 10, 2018
 - [Node.js API 中文文档。](https://github.com/nodejscn/node-api-cn)
-### September 9，2018
+### September 9, 2018
 - [eoLinker 是国内最大的在线 API 接口管理平台，提供自动生成 API 文档、API 自动化测试、Mock 测试、团队协作等功能。](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP)
 - [V2EX 撕逼大战。](https://github.com/greatghoul/sibi)
 - [一款功能强大的 macOS 版微信小助手。](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
-### September 8，2018
+### September 8, 2018
 - [📚 免费的计算机编程类中文书籍。](https://github.com/justjavac/free-programming-books-zh_CN)
 - [可能是让你受益匪浅的英语进阶指南。](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 - [用 PHP 像开发网站一样开发桌面应用软件。](https://github.com/lobtao/php_desktop)
-### September 7，2018
+### September 7, 2018
 - [中华人民共和国居民身份证号码验证工具。](https://github.com/jxlwqq/id-validator)
-### September 6，2018
+### September 6, 2018
 - [php7.x 新特性。](https://blog.csdn.net/yoloyy/article/details/80757910)
 - [Go 语言高级编程 (Advanced Go Programming)。](https://github.com/chai2010/advanced-go-programming-book)
-### September 4，2018
+### September 4, 2018
 - [《Go 语言高级编程》开源图书，涵盖 CGO、Go 汇编语言、RPC 实现、Protobuf 插件实现、Web 框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book)
 - [PHP 面试知识点汇总。](https://github.com/wudi/PHP-Interview-Best-Practices-in-China)
 - [PHP 工程师面试题目。](https://github.com/hookover/php-engineer-interview-questions)
 - [笔记、Laravel、PHP、面试题、HTML、CSS。](https://github.com/ycrao/mynotes)
-### September 3，2018
+### September 3, 2018
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等。](https://github.com/hzlzh/Best-App)
-### September 2，2018
+### September 2, 2018
 - [一个收集在 GitHub 上作弊用户的黑名单项目](https://github.com/cheathub/cheats)
 - [中华新华字典数据库。包括歇后语，成语，词语，汉字。提供新华字典 API。](https://github.com/pwxcoo/chinese-xinhua)
 - [大型系统设计的基础知识](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md#2-%E7%9A%84%E6%AC%A1%E6%96%B9%E8%A1%A8)
@@ -878,12 +878,12 @@
 - [GitHub 上最神奇的项目之一应该是这个了，一行代码都没，但有 2w+ stars。](https://github.com/kelseyhightower/nocode)
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [使用 Microsoft Style 的 GitHub 主题。](https://github.com/zhuowenli/MicroHub)
-### August 30，2018
+### August 30, 2018
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools/)
 - [clockwork-chrome - Clockwork 是一个浏览器扩展，提供调试和分析 PHP 应用程序的工具，包括请求数据，应用程序日志，数据库查询，路由，应用程序运行时的可视化等。](https://github.com/itsgoingd/clockwork-chrome)
 - [remotedebug-gateway - 允许您一次将客户端连接到多个浏览器](https://github.com/RemoteDebug/remotedebug-gateway)
 - [AwesomeList top](https://github-serendipity.github.io/repo/sindresorhus___awesome-nodejs)
-### August 29，2018
+### August 29, 2018
 - [浅谈常见的 NoSQL 技术方案和选型](https://juejin.im/post/5b85114be51d4559a81eda73?utm_source=gold_browser_extension)
 - [A collection of awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 - [composer 范例包](https://github.com/thephpleague/skeleton)
