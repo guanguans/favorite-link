@@ -117,7 +117,7 @@ final class FeedCommand extends Command
     protected function rules(): array
     {
         return [
-            'from' => 'required|ends_with:.md,.MD',
+            'from' => 'required|ends_with:.md',
         ];
     }
 
@@ -126,7 +126,7 @@ final class FeedCommand extends Command
     {
         return [
             'from.required' => 'The path of the README file is required.',
-            'from.ends_with' => 'The path of the README file must end with .md or .MD.',
+            'from.ends_with' => 'The path of the README file must end with .md',
         ];
     }
 
