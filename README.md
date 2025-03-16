@@ -15,6 +15,7 @@
 
 ### March 16, 2025 
 - [package-wizard/installer: Package Wizard 是一个使用 CLI 工具创建新包的库](https://github.com/package-wizard/installer) 
+- [xykt/NetQuality: 用于网络质量检测的脚本](https://github.com/xykt/NetQuality) 
 ### March 15, 2025 
 - [JoeyMckenzie/nasastan: PHPStan 扩展，用于在您的 PHP 代码中强制执行 NASA 的 Power of Ten。](https://github.com/JoeyMckenzie/nasastan) 
 - [JetBrains/xdebug-extension: 一个现代的、无依赖的、跨浏览器的 Xdebug 扩展。](https://github.com/JetBrains/xdebug-extension) 
