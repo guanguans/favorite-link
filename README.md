@@ -13,6 +13,9 @@
 
 
 
+
+### March 17, 2025 
+- [logiscape/mcp-sdk-php: 适用于 PHP 的模型上下文协议 SDK](https://github.com/logiscape/mcp-sdk-php) 
 ### March 16, 2025 
 - [package-wizard/installer: Package Wizard 是一个使用 CLI 工具创建新包的库](https://github.com/package-wizard/installer) 
 - [xykt/NetQuality: 用于网络质量检测的脚本](https://github.com/xykt/NetQuality) 
