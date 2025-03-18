@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### March 19, 2025 
+- [scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie](https://github.com/scify/laravel-cookie-guard) 
 ### March 17, 2025 
 - [logiscape/mcp-sdk-php: 适用于 PHP 的模型上下文协议 SDK](https://github.com/logiscape/mcp-sdk-php) 
 ### March 16, 2025 
