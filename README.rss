@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 19 Mar 2025 03:39:19 +0800</pubDate>
+    <pubDate>Wed, 19 Mar 2025 03:41:37 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie</title>
-      <pubDate>Wed, 19 Mar 2025 03:39:19 +0800</pubDate>
+      <pubDate>Wed, 19 Mar 2025 03:41:37 +0800</pubDate>
       <link>https://github.com/scify/laravel-cookie-guard</link>
       <guid>https://github.com/scify/laravel-cookie-guard</guid>
       <content:encoded><![CDATA[<a href="https://github.com/scify/laravel-cookie-guard" target="_blank">scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/scify/laravel-cookie-guard" target="_blank">https://github.com/scify/laravel-cookie-guard</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。</title>
+      <pubDate>Wed, 19 Mar 2025 03:41:37 +0800</pubDate>
+      <link>https://github.com/JonPurvis/squeaky</link>
+      <guid>https://github.com/JonPurvis/squeaky</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JonPurvis/squeaky" target="_blank">JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JonPurvis/squeaky" target="_blank">https://github.com/JonPurvis/squeaky</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

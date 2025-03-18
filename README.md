@@ -13,7 +13,7 @@
 
 ### March 19, 2025 
 - [scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie](https://github.com/scify/laravel-cookie-guard) 
-- [JonPurvis/squeaky: Laravel验证规则有助于在您的应用程序中捕捉脏话。](https://github.com/JonPurvis/squeaky) 
+- [JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。](https://github.com/JonPurvis/squeaky) 
 ### March 17, 2025 
 - [logiscape/mcp-sdk-php: 适用于 PHP 的模型上下文协议 SDK](https://github.com/logiscape/mcp-sdk-php) 
 ### March 16, 2025 
