@@ -65,6 +65,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Intervention/zodiac: PHP 星座计算器]]></title>
+    <published>2025-03-19T16:00:00+00:00</published>
+    <updated>2025-03-19T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Intervention/zodiac"/>
+    <id>https://github.com/Intervention/zodiac</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Intervention/zodiac" target="_blank">Intervention/zodiac: PHP 星座计算器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Intervention/zodiac" target="_blank">https://github.com/Intervention/zodiac</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie]]></title>
     <published>2025-03-18T16:00:00+00:00</published>
     <updated>2025-03-18T16:00:00+00:00</updated>
