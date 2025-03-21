@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-03-19T03:41:37+08:00</updated>
+  <updated>2025-03-20T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,45 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sinclairtarget/git-who: Git 查看文件树的修改责任人]]></title>
+    <published>2025-03-20T16:00:00+00:00</published>
+    <updated>2025-03-20T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sinclairtarget/git-who"/>
+    <id>https://github.com/sinclairtarget/git-who</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sinclairtarget/git-who" target="_blank">sinclairtarget/git-who: Git 查看文件树的修改责任人</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sinclairtarget/git-who" target="_blank">https://github.com/sinclairtarget/git-who</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sajya/client: 此软件包允许您通过 HTTP (S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。]]></title>
+    <published>2025-03-20T08:00:00+00:00</published>
+    <updated>2025-03-20T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client"/>
+    <id>S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="S)%20%E8%AE%BE%E7%BD%AE%20JSON-RPC%20%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%8C%E5%B9%B6%E4%BD%BF%E7%94%A8%20PHP%20%E4%BB%A3%E7%A0%81%E5%8F%91%E5%87%BA%E8%AF%B7%E6%B1%82%E3%80%82%E5%9B%B4%E7%BB%95%20Laravel%20(%E4%B8%8D%E9%9C%80%E8%A6%81%E6%95%B4%E4%B8%AA%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E5%85%B6%E7%BB%84%E4%BB%B6)%20%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E7%9A%84%20HTTP%20%E5%8C%85%E8%A3%85%E5%99%A8%E6%9E%84%E5%BB%BA%EF%BC%8C%E5%AE%83%E5%85%81%E8%AE%B8%E6%82%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%88%E6%9D%83%E3%80%81%E9%87%8D%E8%AF%95%E7%AD%89%E5%86%85%E5%AE%B9%E3%80%82](https://github.com/sajya/client" target="_blank">sajya/client: 此软件包允许您通过 HTTP (S) 设置 JSON-RPC
+客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP
+包装器构建，它允许您自定义授权、重试等内容。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="S)%20%E8%AE%BE%E7%BD%AE%20JSON-RPC%20%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%8C%E5%B9%B6%E4%BD%BF%E7%94%A8%20PHP%20%E4%BB%A3%E7%A0%81%E5%8F%91%E5%87%BA%E8%AF%B7%E6%B1%82%E3%80%82%E5%9B%B4%E7%BB%95%20Laravel%20(%E4%B8%8D%E9%9C%80%E8%A6%81%E6%95%B4%E4%B8%AA%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E5%85%B6%E7%BB%84%E4%BB%B6)%20%E5%AF%8C%E6%9C%89%E8%A1%A8%E7%8E%B0%E5%8A%9B%E7%9A%84%20HTTP%20%E5%8C%85%E8%A3%85%E5%99%A8%E6%9E%84%E5%BB%BA%EF%BC%8C%E5%AE%83%E5%85%81%E8%AE%B8%E6%82%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%88%E6%9D%83%E3%80%81%E9%87%8D%E8%AF%95%E7%AD%89%E5%86%85%E5%AE%B9%E3%80%82](https://github.com/sajya/client" target="_blank">S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel
+(不需要整个框架，只需要其组件) 富有表现力的 HTTP
+包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie]]></title>
-    <published>2025-03-19T03:41:37+08:00</published>
-    <updated>2025-03-19T03:41:37+08:00</updated>
+    <published>2025-03-18T16:00:00+00:00</published>
+    <updated>2025-03-18T16:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/scify/laravel-cookie-guard"/>
     <id>https://github.com/scify/laravel-cookie-guard</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +67,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。]]></title>
-    <published>2025-03-19T03:41:37+08:00</published>
-    <updated>2025-03-19T03:41:37+08:00</updated>
+    <published>2025-03-18T08:00:00+00:00</published>
+    <updated>2025-03-18T08:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/JonPurvis/squeaky"/>
     <id>https://github.com/JonPurvis/squeaky</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">

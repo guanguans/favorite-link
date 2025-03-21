@@ -3,15 +3,41 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 19 Mar 2025 03:41:37 +0800</pubDate>
+    <pubDate>Thu, 20 Mar 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>sinclairtarget/git-who: Git 查看文件树的修改责任人</title>
+      <pubDate>Thu, 20 Mar 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/sinclairtarget/git-who</link>
+      <guid>https://github.com/sinclairtarget/git-who</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sinclairtarget/git-who" target="_blank">sinclairtarget/git-who: Git 查看文件树的修改责任人</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sinclairtarget/git-who" target="_blank">https://github.com/sinclairtarget/git-who</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sajya/client: 此软件包允许您通过 HTTP (S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。</title>
+      <pubDate>Thu, 20 Mar 2025 08:00:00 +0000</pubDate>
+      <link>S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client</link>
+      <guid isPermaLink="false">S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client</guid>
+      <content:encoded><![CDATA[<a href="S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client" target="_blank">sajya/client: 此软件包允许您通过 HTTP (S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client" target="_blank">S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie</title>
-      <pubDate>Wed, 19 Mar 2025 03:41:37 +0800</pubDate>
+      <pubDate>Tue, 18 Mar 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/scify/laravel-cookie-guard</link>
       <guid>https://github.com/scify/laravel-cookie-guard</guid>
       <content:encoded><![CDATA[<a href="https://github.com/scify/laravel-cookie-guard" target="_blank">scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie</a>
@@ -24,7 +50,7 @@
     </item>
     <item>
       <title>JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。</title>
-      <pubDate>Wed, 19 Mar 2025 03:41:37 +0800</pubDate>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0000</pubDate>
       <link>https://github.com/JonPurvis/squeaky</link>
       <guid>https://github.com/JonPurvis/squeaky</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JonPurvis/squeaky" target="_blank">JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。</a>
