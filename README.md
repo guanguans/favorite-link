@@ -16,6 +16,7 @@
 - [sinclairtarget/git-who: Git 查看文件树的修改责任人](https://github.com/sinclairtarget/git-who) 
 - [sajya/client: 此软件包允许您通过 HTTP (S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client) 
 - [phpacker/phpacker: 将任何 PHP 脚本或 PHAR 打包到独立的跨平台可执行文件中](https://github.com/phpacker/phpacker) 
+- [Intervention/zodiac: PHP 星座计算器](https://github.com/Intervention/zodiac) 
 ### March 19, 2025 
 - [scify/laravel-cookie-guard: 一个 Laravel 包，它提供 Cookie 同意浮动窗口并发布不同同意类别的 Cookie](https://github.com/scify/laravel-cookie-guard) 
 - [JonPurvis/squeaky: Laravel 验证规则有助于在您的应用程序中捕捉脏话。](https://github.com/JonPurvis/squeaky) 
