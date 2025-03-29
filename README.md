@@ -15,6 +15,7 @@
 
 ### March 29, 2025 
 - [genericmilk/docudoodle: 这是 Docudoodle！👋 PHP 文档生成器，用于分析您的代码库并使用 AI 创建全面的文档。](https://github.com/genericmilk/docudoodle) 
+- [soloterm/dumps: 从 Laravel 应用程序截取转储的 Laravel 命令。](https://github.com/soloterm/dumps) 
 ### March 21, 2025 
 - [sinclairtarget/git-who: Git 查看文件树的修改责任人](https://github.com/sinclairtarget/git-who) 
 - [sajya/client: 此软件包允许您通过 HTTP (S) 设置 JSON-RPC 客户端，并使用 PHP 代码发出请求。围绕 Laravel (不需要整个框架，只需要其组件) 富有表现力的 HTTP 包装器构建，它允许您自定义授权、重试等内容。](https://github.com/sajya/client) 
