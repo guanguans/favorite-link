@@ -13,6 +13,9 @@
 
 
 
+
+### March 31, 2025 
+- [avito-tech/go-mutesting: go-mutesting 是一个对 Go 源代码执行突变测试的框架。它的主要目的是找到未被任何测试覆盖的源代码。](https://github.com/avito-tech/go-mutesting) 
 ### March 29, 2025 
 - [genericmilk/docudoodle: 这是 Docudoodle！👋 PHP 文档生成器，用于分析您的代码库并使用 AI 创建全面的文档。](https://github.com/genericmilk/docudoodle) 
 - [soloterm/dumps: 从 Laravel 应用程序截取转储的 Laravel 命令。](https://github.com/soloterm/dumps) 
