@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 30 Mar 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>BuilderIO/gpt-crawler: 抓取网站以生成知识文件，以从 URL 创建您自己的自定义 GPT</title>
+      <pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/BuilderIO/gpt-crawler</link>
+      <guid>https://github.com/BuilderIO/gpt-crawler</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/BuilderIO/gpt-crawler" target="_blank">BuilderIO/gpt-crawler: 抓取网站以生成知识文件，以从 URL 创建您自己的自定义 GPT</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/BuilderIO/gpt-crawler" target="_blank">https://github.com/BuilderIO/gpt-crawler</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>avito-tech/go-mutesting: go-mutesting 是一个对 Go 源代码执行突变测试的框架。它的主要目的是找到未被任何测试覆盖的源代码。</title>
       <pubDate>Sun, 30 Mar 2025 16:00:00 +0000</pubDate>
