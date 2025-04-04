@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 4, 2025 
+- [BuilderIO/gpt-crawler: 抓取网站以生成知识文件，以从 URL 创建您自己的自定义 GPT](https://github.com/BuilderIO/gpt-crawler) 
 ### March 31, 2025 
 - [avito-tech/go-mutesting: go-mutesting 是一个对 Go 源代码执行突变测试的框架。它的主要目的是找到未被任何测试覆盖的源代码。](https://github.com/avito-tech/go-mutesting) 
 - [torchlight-api/engine: Torchlight 使您能够向代码添加注释，将读者的注意力吸引到特定部分、突出显示行、可视化差异等等。结合 Phiki 提供的语法高亮显示，Torchlight 非常适合技术博客、文档等。](https://github.com/torchlight-api/engine) 
