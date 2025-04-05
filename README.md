@@ -13,7 +13,7 @@
 
 
 ### April 5, 2025 
-- [wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足PHP-FPM测试需求。](https://github.com/wstool/wst) 
+- [wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足 PHP-FPM 测试需求。](https://github.com/wstool/wst) 
 ### April 4, 2025 
 - [BuilderIO/gpt-crawler: 抓取网站以生成知识文件，以从 URL 创建您自己的自定义 GPT](https://github.com/BuilderIO/gpt-crawler) 
 ### March 31, 2025 
