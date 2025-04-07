@@ -16,6 +16,7 @@
 ### April 7, 2025 
 - [antfu/refined-github-last-read: 显示 GitHub 中问题和拉取请求的最后读取位置。](https://github.com/antfu/refined-github-last-read) 
 - [antfu/refined-github-notifications: 增强 GitHub 通知页面，使其更高效、更安静。](https://github.com/antfu/refined-github-notifications) 
+- [antfu/changelogithub: 从 Conventional Commits 为 GitHub 版本生成更改日志，由 changelogen 提供支持。](https://github.com/antfu/changelogithub) 
 ### April 5, 2025 
 - [wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足 PHP-FPM 测试需求。](https://github.com/wstool/wst) 
 ### April 4, 2025 
