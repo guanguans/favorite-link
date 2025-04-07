@@ -12,6 +12,9 @@
 
 
 
+
+### April 7, 2025 
+- [antfu/refined-github-last-read: 显示 GitHub 中问题和拉取请求的最后读取位置。](https://github.com/antfu/refined-github-last-read) 
 ### April 5, 2025 
 - [wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足 PHP-FPM 测试需求。](https://github.com/wstool/wst) 
 ### April 4, 2025 
