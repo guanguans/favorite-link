@@ -13,6 +13,9 @@
 
 
 
+
+### April 8, 2025 
+- [JaguarJack/packvault: PHP Composer 私有包管理，支持发放 License。](https://github.com/JaguarJack/packvault) 
 ### April 7, 2025 
 - [antfu/refined-github-last-read: 显示 GitHub 中问题和拉取请求的最后读取位置。](https://github.com/antfu/refined-github-last-read) 
 - [antfu/refined-github-notifications: 增强 GitHub 通知页面，使其更高效、更安静。](https://github.com/antfu/refined-github-notifications) 
