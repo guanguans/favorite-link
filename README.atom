@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[antfu/refined-github-notifications: 增强 GitHub 通知页面，使其更高效、更安静。]]></title>
+    <published>2025-04-06T08:00:00+00:00</published>
+    <updated>2025-04-06T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/antfu/refined-github-notifications"/>
+    <id>https://github.com/antfu/refined-github-notifications</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/antfu/refined-github-notifications" target="_blank">antfu/refined-github-notifications: 增强 GitHub
+通知页面，使其更高效、更安静。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/antfu/refined-github-notifications" target="_blank">https://github.com/antfu/refined-github-notifications</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足 PHP-FPM 测试需求。]]></title>
     <published>2025-04-04T16:00:00+00:00</published>
     <updated>2025-04-04T16:00:00+00:00</updated>
