@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>antfu/changelogithub: 从 Conventional Commits 为 GitHub 版本生成更改日志，由 changelogen 提供支持。</title>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/antfu/changelogithub</link>
+      <guid>https://github.com/antfu/changelogithub</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/antfu/changelogithub" target="_blank">antfu/changelogithub: 从 Conventional Commits 为 GitHub 版本生成更改日志，由 changelogen 提供支持。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/antfu/changelogithub" target="_blank">https://github.com/antfu/changelogithub</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足 PHP-FPM 测试需求。</title>
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/wstool/wst</link>
