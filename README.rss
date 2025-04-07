@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>antfu/userscript-open-in-codeflow: 添加一个按钮以在 GitHub 的 Codeflow 中打开 repo/issue/PR</title>
+      <pubDate>Sat, 05 Apr 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/antfu/userscript-open-in-codeflow</link>
+      <guid>https://github.com/antfu/userscript-open-in-codeflow</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/antfu/userscript-open-in-codeflow" target="_blank">antfu/userscript-open-in-codeflow: 添加一个按钮以在 GitHub 的 Codeflow 中打开 repo/issue/PR</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/antfu/userscript-open-in-codeflow" target="_blank">https://github.com/antfu/userscript-open-in-codeflow</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>wstool/wst: 一个为促进网络服务的部署和测试而开发的综合实用程序，尽管其最初的重点是满足 PHP-FPM 测试需求。</title>
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/wstool/wst</link>
