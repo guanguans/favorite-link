@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 08 Apr 2025 00:03:59 +0800</pubDate>
+    <pubDate>Tue, 08 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境</title>
+      <pubDate>Tue, 08 Apr 2025 16:00:00 +0000</pubDate>
+      <link>生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</link>
+      <guid isPermaLink="false">生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</guid>
+      <content:encoded><![CDATA[<a href="生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>JaguarJack/packvault: PHP Composer 私有包管理，支持发放 License。</title>
-      <pubDate>Tue, 08 Apr 2025 00:03:59 +0800</pubDate>
+      <pubDate>Mon, 07 Apr 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/JaguarJack/packvault</link>
       <guid>https://github.com/JaguarJack/packvault</guid>
       <content:encoded><![CDATA[<a href="https://github.com/JaguarJack/packvault" target="_blank">JaguarJack/packvault: PHP Composer 私有包管理，支持发放 License。</a>
