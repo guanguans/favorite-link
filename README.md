@@ -16,6 +16,7 @@
 - [lharries/whatsapp-mcp: WhatsApp MCP 服务器](https://github.com/lharries/whatsapp-mcp) 
 - [github/github-mcp-server: GitHub 官方 MCP 服务器](https://github.com/github/github-mcp-server) 
 - [prism-php/relay: 适用于 Prism 的 MCP 客户端工具](https://github.com/prism-php/relay) 
+- [mohamedahmed01/laravel-mcp-sdk: 基于 Laravel 的模型上下文协议实现](https://github.com/mohamedahmed01/laravel-mcp-sdk) 
 ### April 8, 2025 
 - [JaguarJack/packvault: PHP Composer 私有包管理，支持发放 License。](https://github.com/JaguarJack/packvault) 
 ### April 7, 2025 
