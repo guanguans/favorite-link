@@ -14,6 +14,7 @@
 ### April 9, 2025 
 - [ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 - [lharries/whatsapp-mcp: WhatsApp MCP 服务器](https://github.com/lharries/whatsapp-mcp) 
+- [github/github-mcp-server: GitHub 官方 MCP 服务器](https://github.com/github/github-mcp-server) 
 ### April 8, 2025 
 - [JaguarJack/packvault: PHP Composer 私有包管理，支持发放 License。](https://github.com/JaguarJack/packvault) 
 ### April 7, 2025 
