@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 9, 2025 
+- [ajaxray/laravel-server-sync: 轻松将服务器（生产/暂存）数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 ### April 8, 2025 
 - [JaguarJack/packvault: PHP Composer 私有包管理，支持发放 License。](https://github.com/JaguarJack/packvault) 
 ### April 7, 2025 
