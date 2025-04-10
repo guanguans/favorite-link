@@ -30,6 +30,39 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Laravel 12.8 中的自动关系加载]]></title>
+    <published>2025-04-09T08:00:00+00:00</published>
+    <updated>2025-04-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://laravel-news.com/laravel-12-8-0"/>
+    <id>https://laravel-news.com/laravel-12-8-0</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://laravel-news.com/laravel-12-8-0" target="_blank">Laravel 12.8 中的自动关系加载</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://laravel-news.com/laravel-12-8-0" target="_blank">https://laravel-news.com/laravel-12-8-0</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Blaspsoft/onym: 📂 🎨 一个灵活的 Laravel 包，用于使用各种策略生成结构化、唯一且可自定义的文件名。]]></title>
+    <published>2025-04-09T00:00:00+00:00</published>
+    <updated>2025-04-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Blaspsoft/onym"/>
+    <id>https://github.com/Blaspsoft/onym</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Blaspsoft/onym" target="_blank">Blaspsoft/onym: 📂 🎨 一个灵活的 Laravel
+包，用于使用各种策略生成结构化、唯一且可自定义的文件名。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Blaspsoft/onym" target="_blank">https://github.com/Blaspsoft/onym</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境]]></title>
     <published>2025-04-08T16:00:00+00:00</published>
     <updated>2025-04-08T16:00:00+00:00</updated>
