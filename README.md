@@ -15,6 +15,7 @@
 ### April 10, 2025 
 - [modernben/iptracker: 桌面工具，用于跟踪您的 IP 地址并在 IP 地址发生变化时向您更新](https://github.com/modernben/iptracker) 
 - [Laravel 12.8 中的自动关系加载](https://laravel-news.com/laravel-12-8-0) 
+- [Blaspsoft/onym: 📂 🎨 一个灵活的 Laravel 包，用于使用各种策略生成结构化、唯一且可自定义的文件名。](https://github.com/Blaspsoft/onym) 
 ### April 9, 2025 
 - [ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 - [lharries/whatsapp-mcp: WhatsApp MCP 服务器](https://github.com/lharries/whatsapp-mcp) 
