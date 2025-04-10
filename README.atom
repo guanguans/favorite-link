@@ -79,6 +79,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[omaressaouaf/query-builder-criteria: 定义可重用的查询条件，用于筛选、排序、搜索、字段选择，并包含在 Laravel Eloquent 模型中]]></title>
+    <published>2025-04-08T08:00:00+00:00</published>
+    <updated>2025-04-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/omaressaouaf/query-builder-criteria"/>
+    <id>https://github.com/omaressaouaf/query-builder-criteria</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/omaressaouaf/query-builder-criteria" target="_blank">omaressaouaf/query-builder-criteria:
+定义可重用的查询条件，用于筛选、排序、搜索、字段选择，并包含在 Laravel Eloquent 模型中</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/omaressaouaf/query-builder-criteria" target="_blank">https://github.com/omaressaouaf/query-builder-criteria</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境]]></title>
     <published>2025-04-08T16:00:00+00:00</published>
     <updated>2025-04-08T16:00:00+00:00</updated>
