@@ -18,6 +18,7 @@
 - [Blaspsoft/onym: 📂 🎨 一个灵活的 Laravel 包，用于使用各种策略生成结构化、唯一且可自定义的文件名。](https://github.com/Blaspsoft/onym) 
 - [WhispPHP/whisp: 纯 PHP SSH 服务器 - 构建 PHP SSH 应用程序的最简单方法](https://github.com/whispphp/whisp) 
 - [omaressaouaf/query-builder-criteria: 定义可重用的查询条件，用于筛选、排序、搜索、字段选择，并包含在 Laravel Eloquent 模型中](https://github.com/omaressaouaf/query-builder-criteria) 
+- [giacomomasseron/laravel-models-generator: 从现有数据库生成 Laravel 模型](https://github.com/giacomomasseron/laravel-models-generator) 
 ### April 9, 2025 
 - [ajaxray/laravel-server-sync: 轻松将服务器 (生产/暂存) 数据库和文件同步到本地环境](https://github.com/ajaxray/laravel-server-sync?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 - [lharries/whatsapp-mcp: WhatsApp MCP 服务器](https://github.com/lharries/whatsapp-mcp) 
