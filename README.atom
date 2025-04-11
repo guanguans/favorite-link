@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-04-09T16:00:00+00:00</updated>
+  <updated>2025-04-10T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,41 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Dolov/chrome-QuickGo: 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制]]></title>
+    <published>2025-04-10T16:00:00+00:00</published>
+    <updated>2025-04-10T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Dolov/chrome-QuickGo"/>
+    <id>https://github.com/Dolov/chrome-QuickGo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Dolov/chrome-QuickGo" target="_blank">Dolov/chrome-QuickGo: 🚀 QuickGo 外链直达 —
+无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Dolov/chrome-QuickGo" target="_blank">https://github.com/Dolov/chrome-QuickGo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[spatie/laravel-one-time-passwords: 使用一次性密码 (OTP) 在您的 Laravel 应用程序中进行身份验证]]></title>
+    <published>2025-04-10T08:00:00+00:00</published>
+    <updated>2025-04-10T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="OTP) 在您的 Laravel 应用程序中进行身份验证](https://github.com/spatie/laravel-one-time-passwords"/>
+    <id>OTP) 在您的 Laravel 应用程序中进行身份验证](https://github.com/spatie/laravel-one-time-passwords</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="OTP)%20%E5%9C%A8%E6%82%A8%E7%9A%84%20Laravel%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%BF%9B%E8%A1%8C%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81](https://github.com/spatie/laravel-one-time-passwords" target="_blank">spatie/laravel-one-time-passwords: 使用一次性密码 (OTP)
+在您的 Laravel 应用程序中进行身份验证</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="OTP)%20%E5%9C%A8%E6%82%A8%E7%9A%84%20Laravel%20%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%AD%E8%BF%9B%E8%A1%8C%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81](https://github.com/spatie/laravel-one-time-passwords" target="_blank">OTP) 在您的 Laravel
+应用程序中进行身份验证](https://github.com/spatie/laravel-one-time-passwords</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[modernben/iptracker: 桌面工具，用于跟踪您的 IP 地址并在 IP 地址发生变化时向您更新]]></title>
     <published>2025-04-09T16:00:00+00:00</published>

@@ -15,7 +15,7 @@
 
 ### April 11, 2025 
 - [Dolov/chrome-QuickGo: 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制](https://github.com/Dolov/chrome-QuickGo) 
-- [spatie/laravel-one-time-passwords: 使用一次性密码 （OTP） 在您的 Laravel 应用程序中进行身份验证](https://github.com/spatie/laravel-one-time-passwords) 
+- [spatie/laravel-one-time-passwords: 使用一次性密码 (OTP) 在您的 Laravel 应用程序中进行身份验证](https://github.com/spatie/laravel-one-time-passwords) 
 ### April 10, 2025 
 - [modernben/iptracker: 桌面工具，用于跟踪您的 IP 地址并在 IP 地址发生变化时向您更新](https://github.com/modernben/iptracker) 
 - [Laravel 12.8 中的自动关系加载](https://laravel-news.com/laravel-12-8-0) 
