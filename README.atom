@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-04-10T16:00:00+00:00</updated>
+  <updated>2025-04-11T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,22 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令]]></title>
+    <published>2025-04-11T16:00:00+00:00</published>
+    <updated>2025-04-11T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Lawondyss/Parex"/>
+    <id>https://github.com/Lawondyss/Parex</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Lawondyss/Parex" target="_blank">Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Lawondyss/Parex" target="_blank">https://github.com/Lawondyss/Parex</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Dolov/chrome-QuickGo: 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制]]></title>
     <published>2025-04-10T16:00:00+00:00</published>

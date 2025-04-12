@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 10 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 11 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令</title>
+      <pubDate>Fri, 11 Apr 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/Lawondyss/Parex</link>
+      <guid>https://github.com/Lawondyss/Parex</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Lawondyss/Parex" target="_blank">Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Lawondyss/Parex" target="_blank">https://github.com/Lawondyss/Parex</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Dolov/chrome-QuickGo: 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制</title>
       <pubDate>Thu, 10 Apr 2025 16:00:00 +0000</pubDate>
