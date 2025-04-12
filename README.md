@@ -12,6 +12,7 @@
 
 ### April 12, 2025 
 - [Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令](https://github.com/Lawondyss/Parex) 
+- [datacreativa/laravel-presentable: 为 Eloquent 模型创建演示者](https://github.com/datacreativa/laravel-presentable) 
 ### April 11, 2025 
 - [Dolov/chrome-QuickGo: 🚀 QuickGo 外链直达 — 无感知自动跳过知乎、简书、掘金、CSDN、少数派、Gitee 等 50+ 网站的安全中心跳转限制](https://github.com/Dolov/chrome-QuickGo) 
 - [spatie/laravel-one-time-passwords: 使用一次性密码 (OTP) 在您的 Laravel 应用程序中进行身份验证](https://github.com/spatie/laravel-one-time-passwords) 
