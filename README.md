@@ -13,6 +13,7 @@
 
 ### April 15, 2025 
 - [PHP 中的协变和逆变](https://ashallendesign.co.uk/blog/covariance-and-contravariance-in-php) 
+- [toramanlis/laravel-implicit-migrations: 此包是一个工具，它通过检查应用程序的模型来创建 Laravel 迁移文件。](https://github.com/toramanlis/laravel-implicit-migrations) 
 ### April 12, 2025 
 - [Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令](https://github.com/Lawondyss/Parex) 
 - [datacreativa/laravel-presentable: 为 Eloquent 模型创建演示者](https://github.com/datacreativa/laravel-presentable) 
