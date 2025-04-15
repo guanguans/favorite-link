@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 15, 2025 
+- [PHP 中的协变和逆变](https://ashallendesign.co.uk/blog/covariance-and-contravariance-in-php) 
 ### April 12, 2025 
 - [Lawondyss/Parex: 轻量级 PHP 库，用于使用 PHP 本机选项处理解析终端命令](https://github.com/Lawondyss/Parex) 
 - [datacreativa/laravel-presentable: 为 Eloquent 模型创建演示者](https://github.com/datacreativa/laravel-presentable) 
