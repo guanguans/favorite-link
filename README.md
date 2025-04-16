@@ -13,7 +13,7 @@
 
 
 ### April 16, 2025 
-- [tnylea/php-ext: 一个 chrome 扩展，用于显示 PHP （Laravel） devtools 控制台](https://github.com/tnylea/php-ext) 
+- [tnylea/php-ext: 一个 chrome 扩展，用于显示 PHP (Laravel) devtools 控制台](https://github.com/tnylea/php-ext) 
 ### April 15, 2025 
 - [PHP 中的协变和逆变](https://ashallendesign.co.uk/blog/covariance-and-contravariance-in-php) 
 - [toramanlis/laravel-implicit-migrations: 此包是一个工具，它通过检查应用程序的模型来创建 Laravel 迁移文件。](https://github.com/toramanlis/laravel-implicit-migrations) 
