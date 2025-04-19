@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 15 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 18 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>morrislaptop/laravel-popo-caster: 使用 Symfony 的序列化器在 Laravel 中自动将 JSON 列转换为丰富的 PHP 对象</title>
+      <pubDate>Fri, 18 Apr 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/morrislaptop/laravel-popo-caster</link>
+      <guid>https://github.com/morrislaptop/laravel-popo-caster</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/morrislaptop/laravel-popo-caster" target="_blank">morrislaptop/laravel-popo-caster: 使用 Symfony 的序列化器在 Laravel 中自动将 JSON 列转换为丰富的 PHP 对象</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/morrislaptop/laravel-popo-caster" target="_blank">https://github.com/morrislaptop/laravel-popo-caster</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>tnylea/php-ext: 一个 chrome 扩展，用于显示 PHP (Laravel) devtools 控制台</title>
       <pubDate>Tue, 15 Apr 2025 16:00:00 +0000</pubDate>
