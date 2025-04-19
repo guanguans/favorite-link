@@ -12,6 +12,9 @@
 
 
 
+
+### April 19, 2025 
+- [morrislaptop/laravel-popo-caster: 使用 Symfony 的序列化器在 Laravel 中自动将 JSON 列转换为丰富的 PHP 对象](https://github.com/morrislaptop/laravel-popo-caster) 
 ### April 16, 2025 
 - [tnylea/php-ext: 一个 chrome 扩展，用于显示 PHP (Laravel) devtools 控制台](https://github.com/tnylea/php-ext) 
 ### April 15, 2025 
