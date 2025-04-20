@@ -14,6 +14,7 @@
 - [keepalivedev/KeepAlive: 这款 Android 应用程序可在您一定时间内未使用设备时通知他人。](https://github.com/keepalivedev/KeepAlive) 
 - [elastic/elastic-transport-php: Elastic PHP 客户端的 HTTP 传输方式](https://github.com/elastic/elastic-transport-php) 
 - [r3labs/sse: 服务器发送事件 Golang 的服务器和客户端](https://github.com/r3labs/sse) 
+- [rectorphp/jack: Jack 可帮助您逐步更新依赖项，确保您的项目保持最新状态，而不会出现过时包的混乱。](https://github.com/rectorphp/jack) 
 ### April 19, 2025 
 - [morrislaptop/laravel-popo-caster: 使用 Symfony 的序列化器在 Laravel 中自动将 JSON 列转换为丰富的 PHP 对象](https://github.com/morrislaptop/laravel-popo-caster) 
 ### April 16, 2025 
