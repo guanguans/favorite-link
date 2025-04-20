@@ -10,10 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### April 20, 2025 
 - [keepalivedev/KeepAlive: 这款 Android 应用程序可在您一定时间内未使用设备时通知他人。](https://github.com/keepalivedev/KeepAlive) 
 ### April 19, 2025 
