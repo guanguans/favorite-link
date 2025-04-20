@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[r3labs/sse: 服务器发送事件 Golang 的服务器和客户端]]></title>
+    <published>2025-04-19T00:00:00+00:00</published>
+    <updated>2025-04-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/r3labs/sse"/>
+    <id>https://github.com/r3labs/sse</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/r3labs/sse" target="_blank">r3labs/sse:
+服务器发送事件 Golang 的服务器和客户端</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/r3labs/sse" target="_blank">https://github.com/r3labs/sse</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[morrislaptop/laravel-popo-caster: 使用 Symfony 的序列化器在 Laravel 中自动将 JSON 列转换为丰富的 PHP 对象]]></title>
     <published>2025-04-18T16:00:00+00:00</published>
     <updated>2025-04-18T16:00:00+00:00</updated>
