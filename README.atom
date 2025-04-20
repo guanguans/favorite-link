@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[elastic/elastic-transport-php: Elastic PHP 客户端的 HTTP 传输方式]]></title>
+    <published>2025-04-19T08:00:00+00:00</published>
+    <updated>2025-04-19T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/elastic/elastic-transport-php"/>
+    <id>https://github.com/elastic/elastic-transport-php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/elastic/elastic-transport-php" target="_blank">elastic/elastic-transport-php: Elastic PHP 客户端的 HTTP
+传输方式</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/elastic/elastic-transport-php" target="_blank">https://github.com/elastic/elastic-transport-php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[morrislaptop/laravel-popo-caster: 使用 Symfony 的序列化器在 Laravel 中自动将 JSON 列转换为丰富的 PHP 对象]]></title>
     <published>2025-04-18T16:00:00+00:00</published>
     <updated>2025-04-18T16:00:00+00:00</updated>
