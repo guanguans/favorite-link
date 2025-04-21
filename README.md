@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 21, 2025 
+- [astral-data/php-serialize: 一种高级 PHP 序列化工具，利用属性实现灵活的对象到数组和 JSON 转换。支持属性别名、类型转换和嵌套对象处理。非常适合 API、数据持久性和配置管理。](https://github.com/astral-data/php-serialize/tree/master) 
 ### April 20, 2025 
 - [keepalivedev/KeepAlive: 这款 Android 应用程序可在您一定时间内未使用设备时通知他人。](https://github.com/keepalivedev/KeepAlive) 
 - [elastic/elastic-transport-php: Elastic PHP 客户端的 HTTP 传输方式](https://github.com/elastic/elastic-transport-php) 
