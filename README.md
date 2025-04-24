@@ -14,7 +14,7 @@
 
 ### April 24, 2025 
 - [SanderSander/composer-link: 添加了在 Composer 中链接本地包以进行开发的功能。](https://github.com/SanderSander/composer-link) 
-- [x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models. FULL v0， Cursor， Manus， Same.dev， Lovable， Devin， Replit Agent， Windsurf Agent & VSCode Agent （以及其他开源的）系统提示、工具和AI模型。](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 
+- [x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models. FULL v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit Agent，Windsurf Agent & VSCode Agent (以及其他开源的) 系统提示、工具和 AI 模型。](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 
 ### April 21, 2025 
 - [astral-data/php-serialize: 一种高级 PHP 序列化工具，利用属性实现灵活的对象到数组和 JSON 转换。支持属性别名、类型转换和嵌套对象处理。非常适合 API、数据持久性和配置管理。](https://github.com/astral-data/php-serialize/tree/master) 
 ### April 20, 2025 

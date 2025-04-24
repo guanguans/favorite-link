@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-04-20T16:00:00+00:00</updated>
+  <updated>2025-04-23T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,47 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[SanderSander/composer-link: 添加了在 Composer 中链接本地包以进行开发的功能。]]></title>
+    <published>2025-04-23T16:00:00+00:00</published>
+    <updated>2025-04-23T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/SanderSander/composer-link"/>
+    <id>https://github.com/SanderSander/composer-link</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/SanderSander/composer-link" target="_blank">SanderSander/composer-link: 添加了在 Composer
+中链接本地包以进行开发的功能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/SanderSander/composer-link" target="_blank">https://github.com/SanderSander/composer-link</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models. FULL v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit Agent，Windsurf Agent & VSCode Agent (以及其他开源的) 系统提示、工具和 AI 模型。]]></title>
+    <published>2025-04-23T08:00:00+00:00</published>
+    <updated>2025-04-23T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="And other Open Sourced) System Prompts, Tools &amp; AI Models. FULL v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit Agent，Windsurf Agent &amp; VSCode Agent (以及其他开源的) 系统提示、工具和 AI 模型。](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"/>
+    <id>And other Open Sourced) System Prompts, Tools &amp; AI Models. FULL v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit Agent，Windsurf Agent &amp; VSCode Agent (以及其他开源的) 系统提示、工具和 AI 模型。](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="And%20other%20Open%20Sourced)%20System%20Prompts,%20Tools%20&amp;%20AI%20Models.%20FULL%20v0%EF%BC%8CCursor%EF%BC%8CManus%EF%BC%8CSame.dev%EF%BC%8CLovable%EF%BC%8CDevin%EF%BC%8CReplit%20Agent%EF%BC%8CWindsurf%20Agent%20&amp;%20VSCode%20Agent%20(%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E7%9A%84)%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E3%80%81%E5%B7%A5%E5%85%B7%E5%92%8C%20AI%20%E6%A8%A1%E5%9E%8B%E3%80%82](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">x1xhlol/system-prompts-and-models-of-ai-tools: FULL
+v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf
+Agent &amp; VSCode Agent (And other Open Sourced) System Prompts,
+Tools &amp; AI Models. FULL
+v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit Agent，Windsurf Agent
+&amp; VSCode Agent (以及其他开源的) 系统提示、工具和 AI 模型。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="And%20other%20Open%20Sourced)%20System%20Prompts,%20Tools%20&amp;%20AI%20Models.%20FULL%20v0%EF%BC%8CCursor%EF%BC%8CManus%EF%BC%8CSame.dev%EF%BC%8CLovable%EF%BC%8CDevin%EF%BC%8CReplit%20Agent%EF%BC%8CWindsurf%20Agent%20&amp;%20VSCode%20Agent%20(%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E5%BC%80%E6%BA%90%E7%9A%84)%20%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E3%80%81%E5%B7%A5%E5%85%B7%E5%92%8C%20AI%20%E6%A8%A1%E5%9E%8B%E3%80%82](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">And other Open Sourced) System Prompts, Tools &amp;
+AI Models. FULL v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit
+Agent，Windsurf Agent &amp; VSCode Agent (以及其他开源的) 系统提示、工具和 AI
+模型。](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[astral-data/php-serialize: 一种高级 PHP 序列化工具，利用属性实现灵活的对象到数组和 JSON 转换。支持属性别名、类型转换和嵌套对象处理。非常适合 API、数据持久性和配置管理。]]></title>
     <published>2025-04-20T16:00:00+00:00</published>
