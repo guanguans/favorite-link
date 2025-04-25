@@ -12,6 +12,9 @@
 
 
 
+
+### April 25, 2025 
+- [infinitypaul/idempotency-laravel: 一个生产就绪的 Laravel 中间件，用于在 API 请求中实现幂等性。安全地重试 API 调用，而无需担心重复处理。](https://github.com/infinitypaul/idempotency-laravel) 
 ### April 24, 2025 
 - [SanderSander/composer-link: 添加了在 Composer 中链接本地包以进行开发的功能。](https://github.com/SanderSander/composer-link) 
 - [x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models. FULL v0，Cursor，Manus，Same.dev，Lovable，Devin，Replit Agent，Windsurf Agent & VSCode Agent (以及其他开源的) 系统提示、工具和 AI 模型。](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) 
