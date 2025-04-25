@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 23 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 24 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>infinitypaul/idempotency-laravel: 一个生产就绪的 Laravel 中间件，用于在 API 请求中实现幂等性。安全地重试 API 调用，而无需担心重复处理。</title>
+      <pubDate>Thu, 24 Apr 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/infinitypaul/idempotency-laravel</link>
+      <guid>https://github.com/infinitypaul/idempotency-laravel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/infinitypaul/idempotency-laravel" target="_blank">infinitypaul/idempotency-laravel: 一个生产就绪的 Laravel 中间件，用于在 API 请求中实现幂等性。安全地重试 API 调用，而无需担心重复处理。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/infinitypaul/idempotency-laravel" target="_blank">https://github.com/infinitypaul/idempotency-laravel</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>swiss-devjoy/laravel-optimize-sqlite: 优化 SQLite 数据库以在 Laravel 中进行生产</title>
+      <pubDate>Thu, 24 Apr 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/swiss-devjoy/laravel-optimize-sqlite</link>
+      <guid>https://github.com/swiss-devjoy/laravel-optimize-sqlite</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/swiss-devjoy/laravel-optimize-sqlite" target="_blank">swiss-devjoy/laravel-optimize-sqlite: 优化 SQLite 数据库以在 Laravel 中进行生产</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/swiss-devjoy/laravel-optimize-sqlite" target="_blank">https://github.com/swiss-devjoy/laravel-optimize-sqlite</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>SanderSander/composer-link: 添加了在 Composer 中链接本地包以进行开发的功能。</title>
       <pubDate>Wed, 23 Apr 2025 16:00:00 +0000</pubDate>
