@@ -13,6 +13,9 @@
 
 
 
+
+### April 26, 2025 
+- [opencode-ai/opencode: 面向开发者的强大终端 AI 助手，直接在您的终端中提供智能编码辅助。](https://github.com/opencode-ai/opencode) 
 ### April 25, 2025 
 - [infinitypaul/idempotency-laravel: 一个生产就绪的 Laravel 中间件，用于在 API 请求中实现幂等性。安全地重试 API 调用，而无需担心重复处理。](https://github.com/infinitypaul/idempotency-laravel) 
 - [swiss-devjoy/laravel-optimize-sqlite: 优化 SQLite 数据库以在 Laravel 中进行生产](https://github.com/swiss-devjoy/laravel-optimize-sqlite) 
