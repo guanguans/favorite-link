@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 27, 2025 
+- [JetBrains/mcp-jetbrains: 与 JetBrains IDE 配合使用的模型上下文协议服务器：IntelliJ、PyCharm、WebStorm 等。](https://github.com/JetBrains/mcp-jetbrains) 
 ### April 26, 2025 
 - [opencode-ai/opencode: 面向开发者的强大终端 AI 助手，直接在您的终端中提供智能编码辅助。](https://github.com/opencode-ai/opencode) 
 ### April 25, 2025 
