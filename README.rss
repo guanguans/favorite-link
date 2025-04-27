@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 25 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 26 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>JetBrains/mcp-jetbrains: 与 JetBrains IDE 配合使用的模型上下文协议服务器：IntelliJ、PyCharm、WebStorm 等。</title>
+      <pubDate>Sat, 26 Apr 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/JetBrains/mcp-jetbrains</link>
+      <guid>https://github.com/JetBrains/mcp-jetbrains</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JetBrains/mcp-jetbrains" target="_blank">JetBrains/mcp-jetbrains: 与 JetBrains IDE 配合使用的模型上下文协议服务器：IntelliJ、PyCharm、WebStorm 等。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JetBrains/mcp-jetbrains" target="_blank">https://github.com/JetBrains/mcp-jetbrains</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>opencode-ai/opencode: 面向开发者的强大终端 AI 助手，直接在您的终端中提供智能编码辅助。</title>
       <pubDate>Fri, 25 Apr 2025 16:00:00 +0000</pubDate>
