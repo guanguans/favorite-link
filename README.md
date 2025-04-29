@@ -13,7 +13,7 @@
 
 
 ### April 29, 2025 
-- [mikinw/TabMover: IntelliJ Idea 插件，您可以使用它移动和重新排列 Editor 选项卡（甚至在多个显示器上的不同 IntelliJ 窗口之间）。](https://github.com/mikinw/TabMover) 
+- [mikinw/TabMover: IntelliJ Idea 插件，您可以使用它移动和重新排列 Editor 选项卡 (甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover) 
 ### April 27, 2025 
 - [JetBrains/mcp-jetbrains: 与 JetBrains IDE 配合使用的模型上下文协议服务器：IntelliJ、PyCharm、WebStorm 等。](https://github.com/JetBrains/mcp-jetbrains) 
 ### April 26, 2025 

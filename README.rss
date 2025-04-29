@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 26 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 28 Apr 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>mikinw/TabMover: IntelliJ Idea 插件，您可以使用它移动和重新排列 Editor 选项卡 (甚至在多个显示器上的不同 IntelliJ 窗口之间)。</title>
+      <pubDate>Mon, 28 Apr 2025 16:00:00 +0000</pubDate>
+      <link>甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover</link>
+      <guid isPermaLink="false">甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover</guid>
+      <content:encoded><![CDATA[<a href="甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover" target="_blank">mikinw/TabMover: IntelliJ Idea 插件，您可以使用它移动和重新排列 Editor 选项卡 (甚至在多个显示器上的不同 IntelliJ 窗口之间)。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover" target="_blank">甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>JetBrains/mcp-jetbrains: 与 JetBrains IDE 配合使用的模型上下文协议服务器：IntelliJ、PyCharm、WebStorm 等。</title>
       <pubDate>Sat, 26 Apr 2025 16:00:00 +0000</pubDate>
