@@ -15,6 +15,7 @@
 
 ### April 30, 2025 
 - [php-fig/cache-util: 这个软件包提供了一系列特征和基本类，以便快速实现符合 PSR-6 标准的缓存库。](https://github.com/php-fig/cache-util) 
+- [TheDragonCode/laravel-route-names: 为您的项目自动生成路由名称](https://github.com/TheDragonCode/laravel-route-names) 
 ### April 29, 2025 
 - [mikinw/TabMover: IntelliJ Idea 插件，您可以使用它移动和重新排列 Editor 选项卡 (甚至在多个显示器上的不同 IntelliJ 窗口之间)。](https://github.com/mikinw/TabMover) 
 ### April 27, 2025 
