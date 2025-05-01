@@ -13,6 +13,9 @@
 
 
 
+
+### May 1, 2025 
+- [Laragear/Populate: 使用增压的连续播种机填充您的数据库。](https://github.com/Laragear/Populate) 
 ### April 30, 2025 
 - [php-fig/cache-util: 这个软件包提供了一系列特征和基本类，以便快速实现符合 PSR-6 标准的缓存库。](https://github.com/php-fig/cache-util) 
 - [TheDragonCode/laravel-route-names: 为您的项目自动生成路由名称](https://github.com/TheDragonCode/laravel-route-names) 
