@@ -12,7 +12,7 @@
 
 
 ### May 3, 2025 
-- [tidwall/jj: JSON 流编辑器（命令行实用程序）](https://github.com/tidwall/jj) 
+- [tidwall/jj: JSON 流编辑器 (命令行实用程序)](https://github.com/tidwall/jj) 
 ### May 1, 2025 
 - [Laragear/Populate: 使用增压的连续播种机填充您的数据库。](https://github.com/Laragear/Populate) 
 ### April 30, 2025 

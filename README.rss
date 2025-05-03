@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 30 Apr 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 02 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>tidwall/jj: JSON 流编辑器 (命令行实用程序)</title>
+      <pubDate>Fri, 02 May 2025 16:00:00 +0000</pubDate>
+      <link>命令行实用程序)](https://github.com/tidwall/jj</link>
+      <guid isPermaLink="false">命令行实用程序)](https://github.com/tidwall/jj</guid>
+      <content:encoded><![CDATA[<a href="命令行实用程序)](https://github.com/tidwall/jj" target="_blank">tidwall/jj: JSON 流编辑器 (命令行实用程序)</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="命令行实用程序)](https://github.com/tidwall/jj" target="_blank">命令行实用程序)](https://github.com/tidwall/jj</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Laragear/Populate: 使用增压的连续播种机填充您的数据库。</title>
       <pubDate>Wed, 30 Apr 2025 16:00:00 +0000</pubDate>
