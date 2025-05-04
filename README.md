@@ -14,7 +14,7 @@
 
 ### May 4, 2025 
 - [crystalidea/macs-fan-control: 控制苹果电脑上的风扇](https://github.com/crystalidea/macs-fan-control) 
-- [runjuu/InputSourcePro: Input Source Pro 是一款免费的开源 macOS 实用程序，专为经常切换输入法的多语言用户而设计。它根据活动应用程序（甚至您正在浏览的特定网站）自动切换输入源，从而显著提高您的工作效率和打字体验。](https://github.com/runjuu/InputSourcePro) 
+- [runjuu/InputSourcePro: Input Source Pro 是一款免费的开源 macOS 实用程序，专为经常切换输入法的多语言用户而设计。它根据活动应用程序 (甚至您正在浏览的特定网站) 自动切换输入源，从而显著提高您的工作效率和打字体验。](https://github.com/runjuu/InputSourcePro) 
 ### May 3, 2025 
 - [tidwall/jj: JSON 流编辑器 (命令行实用程序)](https://github.com/tidwall/jj) 
 ### May 1, 2025 
