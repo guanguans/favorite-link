@@ -48,6 +48,22 @@ macOS 实用程序，专为经常切换输入法的多语言用户而设计。�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[wfxr/forgit: 💤 由 fzf 提供支持的实用工具，用于交互式使用 git。]]></title>
+    <published>2025-05-03T00:00:00+00:00</published>
+    <updated>2025-05-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/wfxr/forgit"/>
+    <id>https://github.com/wfxr/forgit</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/wfxr/forgit" target="_blank">wfxr/forgit: 💤 由 fzf 提供支持的实用工具，用于交互式使用 git。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/wfxr/forgit" target="_blank">https://github.com/wfxr/forgit</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tidwall/jj: JSON 流编辑器 (命令行实用程序)]]></title>
     <published>2025-05-02T16:00:00+00:00</published>
     <updated>2025-05-02T16:00:00+00:00</updated>
