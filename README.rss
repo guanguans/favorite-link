@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 02 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 03 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>crystalidea/macs-fan-control: 控制苹果电脑上的风扇</title>
+      <pubDate>Sat, 03 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/crystalidea/macs-fan-control</link>
+      <guid>https://github.com/crystalidea/macs-fan-control</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/crystalidea/macs-fan-control" target="_blank">crystalidea/macs-fan-control: 控制苹果电脑上的风扇</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/crystalidea/macs-fan-control" target="_blank">https://github.com/crystalidea/macs-fan-control</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>tidwall/jj: JSON 流编辑器 (命令行实用程序)</title>
       <pubDate>Fri, 02 May 2025 16:00:00 +0000</pubDate>
