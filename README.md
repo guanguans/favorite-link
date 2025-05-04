@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### May 4, 2025 
+- [crystalidea/macs-fan-control: 控制苹果电脑上的风扇](https://github.com/crystalidea/macs-fan-control) 
 ### May 3, 2025 
 - [tidwall/jj: JSON 流编辑器 (命令行实用程序)](https://github.com/tidwall/jj) 
 ### May 1, 2025 
