@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 03 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 04 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于 Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。</title>
+      <pubDate>Sun, 04 May 2025 16:00:00 +0000</pubDate>
+      <link>DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO</link>
+      <guid isPermaLink="false">DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO</guid>
+      <content:encoded><![CDATA[<a href="DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO" target="_blank">YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于 Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO" target="_blank">DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>crystalidea/macs-fan-control: 控制苹果电脑上的风扇</title>
       <pubDate>Sat, 03 May 2025 16:00:00 +0000</pubDate>

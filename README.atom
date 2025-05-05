@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-05-03T16:00:00+00:00</updated>
+  <updated>2025-05-04T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于 Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。]]></title>
+    <published>2025-05-04T16:00:00+00:00</published>
+    <updated>2025-05-04T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO"/>
+    <id>DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="DTO)%20%E5%8C%85%EF%BC%8C%E6%94%AF%E6%8C%81%E5%B5%8C%E5%A5%97%E9%93%B8%E9%80%A0%E3%80%81%E9%80%92%E5%BD%92%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%BC%80%E7%AE%B1%E5%8D%B3%E9%AA%8C%E8%AF%81%E3%80%82%E5%AE%83%E6%98%AF%E6%9C%8D%E5%8A%A1%E5%B1%82%E3%80%81API%20%E5%92%8C%E7%AE%80%E6%B4%81%E6%9E%B6%E6%9E%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%9A%84%E7%90%86%E6%83%B3%E9%80%89%E6%8B%A9%E3%80%82](https://github.com/YorCreative/Laravel-Argonaut-DTO" target="_blank">YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于
+Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API
+和简洁架构工作流的理想选择。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="DTO)%20%E5%8C%85%EF%BC%8C%E6%94%AF%E6%8C%81%E5%B5%8C%E5%A5%97%E9%93%B8%E9%80%A0%E3%80%81%E9%80%92%E5%BD%92%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%BC%80%E7%AE%B1%E5%8D%B3%E9%AA%8C%E8%AF%81%E3%80%82%E5%AE%83%E6%98%AF%E6%9C%8D%E5%8A%A1%E5%B1%82%E3%80%81API%20%E5%92%8C%E7%AE%80%E6%B4%81%E6%9E%B6%E6%9E%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%9A%84%E7%90%86%E6%83%B3%E9%80%89%E6%8B%A9%E3%80%82](https://github.com/YorCreative/Laravel-Argonaut-DTO" target="_blank">DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API
+和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[crystalidea/macs-fan-control: 控制苹果电脑上的风扇]]></title>
     <published>2025-05-03T16:00:00+00:00</published>
