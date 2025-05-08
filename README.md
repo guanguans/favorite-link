@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### May 8, 2025 
-- [uxiaohan/PayQrcode: 最新物理合并微信收款码和支付宝收款码为聚合二维码👍](https://github.com/uxiaohan/PayQrcode) 
+- [uxiaohan/PayQrcode: 最新物理合并微信收款码和支付宝收款码为聚合二维码 👍](https://github.com/uxiaohan/PayQrcode) 
 ### May 5, 2025 
 - [YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于 Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。](https://github.com/YorCreative/Laravel-Argonaut-DTO) 
 ### May 4, 2025 

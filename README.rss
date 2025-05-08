@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 04 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 07 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>uxiaohan/PayQrcode: 最新物理合并微信收款码和支付宝收款码为聚合二维码 👍</title>
+      <pubDate>Wed, 07 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/uxiaohan/PayQrcode</link>
+      <guid>https://github.com/uxiaohan/PayQrcode</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/uxiaohan/PayQrcode" target="_blank">uxiaohan/PayQrcode: 最新物理合并微信收款码和支付宝收款码为聚合二维码 👍</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/uxiaohan/PayQrcode" target="_blank">https://github.com/uxiaohan/PayQrcode</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于 Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。</title>
       <pubDate>Sun, 04 May 2025 16:00:00 +0000</pubDate>
