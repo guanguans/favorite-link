@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sansecio/composer-integrity-plugin：一个检查您已安装的 composer 包与已知正确校验和列表的 composer 插件。]]></title>
+    <published>2025-05-07T08:00:00+00:00</published>
+    <updated>2025-05-07T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sansecio/composer-integrity-plugin"/>
+    <id>https://github.com/sansecio/composer-integrity-plugin</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sansecio/composer-integrity-plugin" target="_blank">sansecio/composer-integrity-plugin：一个检查您已安装的
+composer 包与已知正确校验和列表的 composer 插件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sansecio/composer-integrity-plugin" target="_blank">https://github.com/sansecio/composer-integrity-plugin</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[YorCreative/Laravel-Argonaut-DTO: Argonaut 是适用于 Laravel 的轻量级数据传输对象 (DTO) 包，支持嵌套铸造、递归序列化和开箱即验证。它是服务层、API 和简洁架构工作流的理想选择。]]></title>
     <published>2025-05-04T16:00:00+00:00</published>
     <updated>2025-05-04T16:00:00+00:00</updated>
