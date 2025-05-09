@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 9, 2025 
+- [curlconverter/curlconverter: 将 curl 命令转译为 Python、JavaScript 和其他 27 种语言](https://github.com/curlconverter/curlconverter) 
 ### May 8, 2025 
 - [uxiaohan/PayQrcode: 最新物理合并微信收款码和支付宝收款码为聚合二维码 👍](https://github.com/uxiaohan/PayQrcode) 
 - [sansecio/composer-integrity-plugin：一个检查您已安装的 composer 包与已知正确校验和列表的 composer 插件。](https://github.com/sansecio/composer-integrity-plugin) 
