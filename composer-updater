@@ -52,15 +52,14 @@ $status = (new SingleCommandApplication)
             new SymfonyStyle($input, $output),
             new Differ(new UnifiedDiffOutputBuilder("--- Original\n+++ New\n", true)),
         ) {
-            private string $composerJsonPath;
-            private string $composerJsonContents;
-            private string $highestComposerBinary;
-            private string $composerBinary;
-            private array $exceptPackages;
-            private array $exceptDependencyVersions;
-            private bool $dryRun;
-            private SymfonyStyle $symfonyStyle;
-            private Differ $differ;
+            private readonly string $composerJsonPath;
+            private readonly string $composerJsonContents;
+            private readonly string $highestComposerBinary;
+            private readonly string $composerBinary;
+            private readonly array $exceptPackages;
+            private readonly array $exceptDependencyVersions;
+            private readonly SymfonyStyle $symfonyStyle;
+            private readonly Differ $differ;
 
             /**
              * @noinspection ParameterDefaultsNullInspection
@@ -71,7 +70,7 @@ $status = (new SingleCommandApplication)
                 ?string $composerBinary = null,
                 array $exceptPackages = [],
                 array $exceptDependencyVersions = [],
-                bool $dryRun = false,
+                private readonly bool $dryRun = false,
                 ?SymfonyStyle $symfonyStyle = null,
                 ?Differ $differ = null
             ) {
@@ -82,17 +81,8 @@ $status = (new SingleCommandApplication)
                 $this->composerJsonContents = file_get_contents($composerJsonPath);
                 $this->highestComposerBinary = $this->getComposerBinary($composerBinary, $highestPhpBinary);
                 $this->composerBinary = $this->getComposerBinary($composerBinary);
-                $this->exceptPackages = array_merge([
-                    'php',
-                    'ext-*',
-                ], $exceptPackages);
-                $this->exceptDependencyVersions = array_merge([
-                    '\*',
-                    '*-*',
-                    '*@*',
-                    // '*|*',
-                ], $exceptDependencyVersions);
-                $this->dryRun = $dryRun;
+                $this->exceptPackages = ['php', 'ext-*', ...$exceptPackages];
+                $this->exceptDependencyVersions = ['\*', '*-*', '*@*', ...$exceptDependencyVersions];
                 $this->symfonyStyle = $symfonyStyle ?? new SymfonyStyle(new ArgvInput, new ConsoleOutput);
                 $this->differ = $differ ?? new Differ(new UnifiedDiffOutputBuilder("--- Original\n+++ New\n", true));
             }
@@ -172,10 +162,11 @@ $status = (new SingleCommandApplication)
                     }
 
                     foreach ($value as $package => &$dependencyVersion) {
-                        if (
-                            $this->strIs($this->exceptPackages, $package)
-                            || $this->strIs($this->exceptDependencyVersions, $dependencyVersion)
-                        ) {
+                        if ($this->strIs($this->exceptPackages, $package)) {
+                            continue;
+                        }
+
+                        if ($this->strIs($this->exceptDependencyVersions, $dependencyVersion)) {
                             continue;
                         }
 
@@ -287,7 +278,7 @@ $status = (new SingleCommandApplication)
             {
                 $patterns = (array) $pattern;
 
-                if (empty($patterns)) {
+                if ([] === $patterns) {
                     return false;
                 }
 

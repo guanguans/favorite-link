@@ -88,8 +88,7 @@ function clear_same_namespace(): void
     foreach (
         Finder::create()
             ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
-            ->name('*.php')
-        as $finder
+            ->name('*.php') as $finder
     ) {
         file_put_contents($finder->getPathname(), '<?php');
     }

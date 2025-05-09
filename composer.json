@@ -31,13 +31,13 @@
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "^1.8",
-        "ergebnis/composer-normalize": "^2.45",
+        "ergebnis/composer-normalize": "^2.47",
         "ergebnis/license": "^2.6",
         "ergebnis/php-cs-fixer-config": "dev-main",
         "fakerphp/faker": "^1.24",
         "guanguans/ai-commit": "dev-main",
         "mockery/mockery": "^1.6",
-        "pestphp/pest": "^3.7",
+        "pestphp/pest": "^3.8",
         "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.1",
         "rector/rector": "^2.0",
@@ -98,7 +98,6 @@
         "post-update-cmd": [
             "@composer-bin-all-update"
         ],
-        "post-autoload-dump": [],
         "ai-commit": "@php ./vendor/bin/ai-commit commit --ansi",
         "ai-commit-bito": "@ai-commit --generator=bito_cli",
         "ai-commit-bito-no-verify": "@ai-commit-bito --no-verify",
@@ -136,7 +135,7 @@
         ],
         "md-fix": "@md-lint --fix",
         "md-lint": "lint-md 'README.md' --config=.lintmdrc --threads",
-        "pest": "@php ./vendor/bin/pest --configuration=phpunit.xml.dist --coverage --profile --parallel -v",
+        "pest": "@php ./vendor/bin/pest --configuration=phpunit.xml.dist --colors=always --coverage --profile --parallel -v",
         "pest-coverage": "@pest --coverage-html=./.build/phpunit/ --coverage-clover=./.build/phpunit/clover.xml",
         "pest-migrate-configuration": "@pest --migrate-configuration",
         "pest-profile": "@pest --profile",
