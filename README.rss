@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 08 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 10 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Intermax-Cloudsourcing/veil: Veil 是一个软件包，可帮助管理 Laravel 或 Laravel Zero 应用程序中的加密环境。它向 Laravel 加密环境命令添加了一个标志。</title>
+      <pubDate>Sat, 10 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</link>
+      <guid>https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&amp;utm_medium=link&amp;utm_campaign=laravelnews</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">Intermax-Cloudsourcing/veil: Veil 是一个软件包，可帮助管理 Laravel 或 Laravel Zero 应用程序中的加密环境。它向 Laravel 加密环境命令添加了一个标志。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews" target="_blank">https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>curlconverter/curlconverter: 将 curl 命令转译为 Python、JavaScript 和其他 27 种语言</title>
       <pubDate>Thu, 08 May 2025 16:00:00 +0000</pubDate>
