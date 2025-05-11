@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### May 11, 2025 
+- [Intermax-Cloudsourcing/veil: Veil 是一个软件包，可帮助管理 Laravel 或 Laravel Zero 应用程序中的加密环境。它向 Laravel 加密环境命令添加了一个标志。](https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 ### May 9, 2025 
 - [curlconverter/curlconverter: 将 curl 命令转译为 Python、JavaScript 和其他 27 种语言](https://github.com/curlconverter/curlconverter) 
 ### May 8, 2025 
