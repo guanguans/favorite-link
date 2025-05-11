@@ -17,6 +17,7 @@
 - [PHP 操作符](https://php-operators.com/operators/binary-and) 
 - [spatie/php-operators.com: PHP 运算符的交互式列表](https://github.com/spatie/php-operators.com) 
 - [orchestral/sidekick: Laravel 的 Packages Toolkit Utilities 和 Helpers](https://github.com/orchestral/sidekick) 
+- [fmhy/edit: 互联网上最大的免费资料库！](https://github.com/fmhy/edit) 
 ### May 9, 2025 
 - [curlconverter/curlconverter: 将 curl 命令转译为 Python、JavaScript 和其他 27 种语言](https://github.com/curlconverter/curlconverter) 
 ### May 8, 2025 
