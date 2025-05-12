@@ -12,6 +12,9 @@
 
 
 
+
+### May 12, 2025 
+- [asantibanez/laravel-eloquent-state-machines: Laravel Eloquent 模型的状态机](https://github.com/asantibanez/laravel-eloquent-state-machines) 
 ### May 11, 2025 
 - [Intermax-Cloudsourcing/veil: Veil 是一个软件包，可帮助管理 Laravel 或 Laravel Zero 应用程序中的加密环境。它向 Laravel 加密环境命令添加了一个标志。](https://github.com/Intermax-Cloudsourcing/veil?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews) 
 - [PHP 操作符](https://php-operators.com/operators/binary-and) 
