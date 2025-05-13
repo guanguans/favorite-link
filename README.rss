@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>symfony-tools/carsonbot: Carson 是目前运行在 symfony/symfony 仓库上的一个机器人。它的工作是帮助自动执行不同的问题和拉取请求工作流程。</title>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/symfony-tools/carsonbot</link>
+      <guid>https://github.com/symfony-tools/carsonbot</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/symfony-tools/carsonbot" target="_blank">symfony-tools/carsonbot: Carson 是目前运行在 symfony/symfony 仓库上的一个机器人。它的工作是帮助自动执行不同的问题和拉取请求工作流程。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/symfony-tools/carsonbot" target="_blank">https://github.com/symfony-tools/carsonbot</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>asantibanez/laravel-eloquent-state-machines: Laravel Eloquent 模型的状态机</title>
       <pubDate>Sun, 11 May 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/asantibanez/laravel-eloquent-state-machines</link>
