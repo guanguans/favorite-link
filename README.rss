@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 11 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 12 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>juampi92/api-resources: 管理您的 Laravel Eloquent 资源，维护 API 版本</title>
+      <pubDate>Mon, 12 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/juampi92/api-resources</link>
+      <guid>https://github.com/juampi92/api-resources</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/juampi92/api-resources" target="_blank">juampi92/api-resources: 管理您的 Laravel Eloquent 资源，维护 API 版本</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/juampi92/api-resources" target="_blank">https://github.com/juampi92/api-resources</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>asantibanez/laravel-eloquent-state-machines: Laravel Eloquent 模型的状态机</title>
       <pubDate>Sun, 11 May 2025 16:00:00 +0000</pubDate>
