@@ -12,7 +12,7 @@
 
 ### May 13, 2025 
 - [juampi92/api-resources: 管理您的 Laravel Eloquent 资源，维护 API 版本](https://github.com/juampi92/api-resources) 
-- [TapXWorld/ChinaTextbook: 所有小初高、大学PDF教材。](https://github.com/TapXWorld/ChinaTextbook) 
+- [TapXWorld/ChinaTextbook: 所有小初高、大学 PDF 教材。](https://github.com/TapXWorld/ChinaTextbook) 
 ### May 12, 2025 
 - [asantibanez/laravel-eloquent-state-machines: Laravel Eloquent 模型的状态机](https://github.com/asantibanez/laravel-eloquent-state-machines) 
 ### May 11, 2025 
