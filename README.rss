@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 12 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 15 May 2025 00:39:19 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>webriots/rate: 一个高性能的速率限制库，适用于具有多种速率限制策略的 Go 应用程序。</title>
+      <pubDate>Thu, 15 May 2025 00:39:19 +0800</pubDate>
+      <link>https://github.com/webriots/rate</link>
+      <guid>https://github.com/webriots/rate</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/webriots/rate" target="_blank">webriots/rate: 一个高性能的速率限制库，适用于具有多种速率限制策略的 Go 应用程序。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/webriots/rate" target="_blank">https://github.com/webriots/rate</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>juampi92/api-resources: 管理您的 Laravel Eloquent 资源，维护 API 版本</title>
       <pubDate>Mon, 12 May 2025 16:00:00 +0000</pubDate>
