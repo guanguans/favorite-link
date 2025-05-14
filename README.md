@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 15, 2025 
+- [webriots/rate: 一个高性能的速率限制库，适用于具有多种速率限制策略的 Go 应用程序。](https://github.com/webriots/rate) 
 ### May 13, 2025 
 - [juampi92/api-resources: 管理您的 Laravel Eloquent 资源，维护 API 版本](https://github.com/juampi92/api-resources) 
 - [TapXWorld/ChinaTextbook: 所有小初高、大学 PDF 教材。](https://github.com/TapXWorld/ChinaTextbook) 
