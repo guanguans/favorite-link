@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 15 May 2025 00:39:19 +0800</pubDate>
+    <pubDate>Thu, 15 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>happycola233/tchMaterial-parser: 国家中小学智慧教育平台电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。</title>
+      <pubDate>Thu, 15 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/happycola233/tchMaterial-parser</link>
+      <guid>https://github.com/happycola233/tchMaterial-parser</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/happycola233/tchMaterial-parser" target="_blank">happycola233/tchMaterial-parser: 国家中小学智慧教育平台电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/happycola233/tchMaterial-parser" target="_blank">https://github.com/happycola233/tchMaterial-parser</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>webriots/rate: 一个高性能的速率限制库，适用于具有多种速率限制策略的 Go 应用程序。</title>
-      <pubDate>Thu, 15 May 2025 00:39:19 +0800</pubDate>
+      <pubDate>Wed, 14 May 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/webriots/rate</link>
       <guid>https://github.com/webriots/rate</guid>
       <content:encoded><![CDATA[<a href="https://github.com/webriots/rate" target="_blank">webriots/rate: 一个高性能的速率限制库，适用于具有多种速率限制策略的 Go 应用程序。</a>

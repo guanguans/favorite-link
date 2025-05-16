@@ -13,7 +13,7 @@
 
 
 ### May 16, 2025 
-- [happycola233/tchMaterial-parser: 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。](https://github.com/happycola233/tchMaterial-parser) 
+- [happycola233/tchMaterial-parser: 国家中小学智慧教育平台电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。](https://github.com/happycola233/tchMaterial-parser) 
 ### May 15, 2025 
 - [webriots/rate: 一个高性能的速率限制库，适用于具有多种速率限制策略的 Go 应用程序。](https://github.com/webriots/rate) 
 ### May 13, 2025 
