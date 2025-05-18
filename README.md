@@ -15,6 +15,7 @@
 
 ### May 18, 2025 
 - [XiCheng148/Dockit: 一个可以将任何窗口固定到屏幕边缘的应用程序。](https://github.com/XiCheng148/Dockit) 
+- [wenyuanw/quick-prompt: ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt) 
 ### May 16, 2025 
 - [happycola233/tchMaterial-parser: 国家中小学智慧教育平台电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。](https://github.com/happycola233/tchMaterial-parser) 
 ### May 15, 2025 
