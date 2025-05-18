@@ -17,6 +17,7 @@
 - [XiCheng148/Dockit: 一个可以将任何窗口固定到屏幕边缘的应用程序。](https://github.com/XiCheng148/Dockit) 
 - [wenyuanw/quick-prompt: ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt) 
 - [git-bug/git-bug: 分布式、离线优先的嵌入在 Git 中的错误跟踪器](https://github.com/git-bug/git-bug) 
+- [taubyte/tau: 开源的分布式平台即服务（PaaS）。一个自托管的 Vercel / Netlify / Cloudflare 替代方案。](https://github.com/taubyte/tau) 
 ### May 16, 2025 
 - [happycola233/tchMaterial-parser: 国家中小学智慧教育平台电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。](https://github.com/happycola233/tchMaterial-parser) 
 ### May 15, 2025 
