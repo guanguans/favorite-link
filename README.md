@@ -13,6 +13,7 @@
 ### May 22, 2025 
 - [一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译](https://github.com/edulazaro/laratext) 
 - [edulazaro/laratext: 一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译](https://github.com/edulazaro/laratext) 
+- [WINBIGFOX/TimeScribe: 此存储库提供了一款现代化、灵活的时间跟踪应用程序，用于记录和管理个人工作时间。它可离线运行，无需注册，且完全免费和开源——非常适合希望高效跟踪工作时间的人，无论是在家还是在办公室。](https://github.com/WINBIGFOX/TimeScribe) 
 ### May 18, 2025 
 - [XiCheng148/Dockit: 一个可以将任何窗口固定到屏幕边缘的应用程序。](https://github.com/XiCheng148/Dockit) 
 - [wenyuanw/quick-prompt: ✨ 提示词管理与快速输入浏览器扩展](https://github.com/wenyuanw/quick-prompt) 
