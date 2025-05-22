@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 17 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译</title>
+      <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/edulazaro/laratext</link>
+      <guid>https://github.com/edulazaro/laratext</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/edulazaro/laratext" target="_blank">一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/edulazaro/laratext" target="_blank">https://github.com/edulazaro/laratext</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>edulazaro/laratext: 一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译</title>
+      <pubDate>Wed, 21 May 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/edulazaro/laratext</link>
+      <guid>https://github.com/edulazaro/laratext</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/edulazaro/laratext" target="_blank">edulazaro/laratext: 一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/edulazaro/laratext" target="_blank">https://github.com/edulazaro/laratext</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>XiCheng148/Dockit: 一个可以将任何窗口固定到屏幕边缘的应用程序。</title>
       <pubDate>Sat, 17 May 2025 16:00:00 +0000</pubDate>

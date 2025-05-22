@@ -10,10 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### May 22, 2025 
 - [一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译](https://github.com/edulazaro/laratext) 
 - [edulazaro/laratext: 一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译](https://github.com/edulazaro/laratext) 
