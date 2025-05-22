@@ -47,6 +47,23 @@ Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[WINBIGFOX/TimeScribe: 此存储库提供了一款现代化、灵活的时间跟踪应用程序，用于记录和管理个人工作时间。它可离线运行，无需注册，且完全免费和开源——非常适合希望高效跟踪工作时间的人，无论是在家还是在办公室。]]></title>
+    <published>2025-05-21T00:00:00+00:00</published>
+    <updated>2025-05-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/WINBIGFOX/TimeScribe"/>
+    <id>https://github.com/WINBIGFOX/TimeScribe</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/WINBIGFOX/TimeScribe" target="_blank">WINBIGFOX/TimeScribe:
+此存储库提供了一款现代化、灵活的时间跟踪应用程序，用于记录和管理个人工作时间。它可离线运行，无需注册，且完全免费和开源——非常适合希望高效跟踪工作时间的人，无论是在家还是在办公室。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/WINBIGFOX/TimeScribe" target="_blank">https://github.com/WINBIGFOX/TimeScribe</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[XiCheng148/Dockit: 一个可以将任何窗口固定到屏幕边缘的应用程序。]]></title>
     <published>2025-05-17T16:00:00+00:00</published>
     <updated>2025-05-17T16:00:00+00:00</updated>
