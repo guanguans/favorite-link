@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>olvlvl/composer-attribute-collector: composer-attribute-collector 是一个用于 Composer 的插件。它的目标是以一种方便且几乎零成本的方式检索 PHP 8 属性的目标。在自动加载器被转储后，该插件会收集属性目标并生成一个静态文件。这些目标可以通过一个方便的接口检索，而无需使用反射。当您需要在代码库中发现属性目标时，该插件非常有用——对于已知的目标，您可以使用反射。</title>
+      <pubDate>Sat, 24 May 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/olvlvl/composer-attribute-collector</link>
+      <guid>https://github.com/olvlvl/composer-attribute-collector</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/olvlvl/composer-attribute-collector" target="_blank">olvlvl/composer-attribute-collector: composer-attribute-collector 是一个用于 Composer 的插件。它的目标是以一种方便且几乎零成本的方式检索 PHP 8 属性的目标。在自动加载器被转储后，该插件会收集属性目标并生成一个静态文件。这些目标可以通过一个方便的接口检索，而无需使用反射。当您需要在代码库中发现属性目标时，该插件非常有用——对于已知的目标，您可以使用反射。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/olvlvl/composer-attribute-collector" target="_blank">https://github.com/olvlvl/composer-attribute-collector</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>一个 Laravel 包，可以轻松处理翻译文本，并通过 AI 或任何翻译服务进行翻译</title>
       <pubDate>Wed, 21 May 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/edulazaro/laratext</link>
