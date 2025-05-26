@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### May 26, 2025 
+- [zdharma-continuum/zinit: 🌻 灵活且快速的 ZSH 插件管理器](https://github.com/zdharma-continuum/zinit) 
 ### May 25, 2025 
 - [nunomaduro/pokio: Pokio 是一个非常简单的 PHP 异步 API。](https://github.com/nunomaduro/pokio) 
 - [olvlvl/composer-attribute-collector: composer-attribute-collector 是一个用于 Composer 的插件。它的目标是以一种方便且几乎零成本的方式检索 PHP 8 属性的目标。在自动加载器被转储后，该插件会收集属性目标并生成一个静态文件。这些目标可以通过一个方便的接口检索，而无需使用反射。当您需要在代码库中发现属性目标时，该插件非常有用——对于已知的目标，您可以使用反射。](https://github.com/olvlvl/composer-attribute-collector) 
