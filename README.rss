@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 24 May 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 25 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>zdharma-continuum/zinit: 🌻 灵活且快速的 ZSH 插件管理器</title>
+      <pubDate>Sun, 25 May 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/zdharma-continuum/zinit</link>
+      <guid>https://github.com/zdharma-continuum/zinit</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/zdharma-continuum/zinit" target="_blank">zdharma-continuum/zinit: 🌻 灵活且快速的 ZSH 插件管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/zdharma-continuum/zinit" target="_blank">https://github.com/zdharma-continuum/zinit</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>nunomaduro/pokio: Pokio 是一个非常简单的 PHP 异步 API。</title>
       <pubDate>Sat, 24 May 2025 16:00:00 +0000</pubDate>
