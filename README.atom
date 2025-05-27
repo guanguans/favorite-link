@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-05-25T16:00:00+00:00</updated>
+  <updated>2025-05-26T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[SpaceTimee/Sheas-Cealer-Droid: Ceal It (可用于无代理合法抵御网络监听和开展网络研究)]]></title>
+    <published>2025-05-26T16:00:00+00:00</published>
+    <updated>2025-05-26T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="可用于无代理合法抵御网络监听和开展网络研究)](https://github.com/SpaceTimee/Sheas-Cealer-Droid"/>
+    <id>可用于无代理合法抵御网络监听和开展网络研究)](https://github.com/SpaceTimee/Sheas-Cealer-Droid</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%8F%AF%E7%94%A8%E4%BA%8E%E6%97%A0%E4%BB%A3%E7%90%86%E5%90%88%E6%B3%95%E6%8A%B5%E5%BE%A1%E7%BD%91%E7%BB%9C%E7%9B%91%E5%90%AC%E5%92%8C%E5%BC%80%E5%B1%95%E7%BD%91%E7%BB%9C%E7%A0%94%E7%A9%B6)](https://github.com/SpaceTimee/Sheas-Cealer-Droid" target="_blank">SpaceTimee/Sheas-Cealer-Droid: Ceal It
+(可用于无代理合法抵御网络监听和开展网络研究)</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%8F%AF%E7%94%A8%E4%BA%8E%E6%97%A0%E4%BB%A3%E7%90%86%E5%90%88%E6%B3%95%E6%8A%B5%E5%BE%A1%E7%BD%91%E7%BB%9C%E7%9B%91%E5%90%AC%E5%92%8C%E5%BC%80%E5%B1%95%E7%BD%91%E7%BB%9C%E7%A0%94%E7%A9%B6)](https://github.com/SpaceTimee/Sheas-Cealer-Droid" target="_blank">可用于无代理合法抵御网络监听和开展网络研究)](https://github.com/SpaceTimee/Sheas-Cealer-Droid</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[zdharma-continuum/zinit: 🌻 灵活且快速的 ZSH 插件管理器]]></title>
     <published>2025-05-25T16:00:00+00:00</published>
