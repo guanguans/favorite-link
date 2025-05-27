@@ -12,6 +12,9 @@
 
 
 
+
+### May 27, 2025 
+- [SpaceTimee/Sheas-Cealer-Droid: Ceal It (可用于无代理合法抵御网络监听和开展网络研究)](https://github.com/SpaceTimee/Sheas-Cealer-Droid) 
 ### May 26, 2025 
 - [zdharma-continuum/zinit: 🌻 灵活且快速的 ZSH 插件管理器](https://github.com/zdharma-continuum/zinit) 
 ### May 25, 2025 
