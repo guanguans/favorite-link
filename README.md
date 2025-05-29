@@ -13,6 +13,7 @@
 
 ### May 30, 2025 
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
+- [pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序](https://github.com/pb30/phpstan-composer-analysis) 
 ### May 29, 2025 
 - [modelcontextprotocol/servers: 模型上下文协议服务器](https://github.com/modelcontextprotocol/servers) 
 - [johnste/finicky: 一款用于自定义启动哪个浏览器的 macOS 应用程序](https://github.com/johnste/finicky) 
