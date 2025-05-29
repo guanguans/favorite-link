@@ -12,6 +12,7 @@
 
 ### May 29, 2025 
 - [modelcontextprotocol/servers: 模型上下文协议服务器](https://github.com/modelcontextprotocol/servers) 
+- [johnste/finicky: 一款用于自定义启动哪个浏览器的macOS应用程序](https://github.com/johnste/finicky) 
 ### May 27, 2025 
 - [SpaceTimee/Sheas-Cealer-Droid: Ceal It (可用于无代理合法抵御网络监听和开展网络研究)](https://github.com/SpaceTimee/Sheas-Cealer-Droid) 
 ### May 26, 2025 
