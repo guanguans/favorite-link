@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 30, 2025 
+- [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 ### May 29, 2025 
 - [modelcontextprotocol/servers: 模型上下文协议服务器](https://github.com/modelcontextprotocol/servers) 
 - [johnste/finicky: 一款用于自定义启动哪个浏览器的 macOS 应用程序](https://github.com/johnste/finicky) 
