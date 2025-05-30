@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 30 May 2025 07:45:58 +0800</pubDate>
+    <pubDate>Thu, 29 May 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP</title>
-      <pubDate>Fri, 30 May 2025 07:45:58 +0800</pubDate>
+      <pubDate>Thu, 29 May 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/Ponderfly/GoogleTranslateIpCheck</link>
       <guid>https://github.com/Ponderfly/GoogleTranslateIpCheck</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Ponderfly/GoogleTranslateIpCheck" target="_blank">Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP</a>
@@ -24,13 +24,26 @@
     </item>
     <item>
       <title>pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序</title>
-      <pubDate>Fri, 30 May 2025 07:45:58 +0800</pubDate>
+      <pubDate>Thu, 29 May 2025 08:00:00 +0000</pubDate>
       <link>https://github.com/pb30/phpstan-composer-analysis</link>
       <guid>https://github.com/pb30/phpstan-composer-analysis</guid>
       <content:encoded><![CDATA[<a href="https://github.com/pb30/phpstan-composer-analysis" target="_blank">pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/pb30/phpstan-composer-analysis" target="_blank">https://github.com/pb30/phpstan-composer-analysis</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>runs-on/runs-on: 自托管的 GitHub Actions 运行器变得简单。适用于 AWS。成本降低 10 倍，速度快 30%，并提供无限缓存。Actions Runner Controller 的最佳替代方案。</title>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/runs-on/runs-on</link>
+      <guid>https://github.com/runs-on/runs-on</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/runs-on/runs-on" target="_blank">runs-on/runs-on: 自托管的 GitHub Actions 运行器变得简单。适用于 AWS。成本降低 10 倍，速度快 30%，并提供无限缓存。Actions Runner Controller 的最佳替代方案。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/runs-on/runs-on" target="_blank">https://github.com/runs-on/runs-on</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
