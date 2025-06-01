@@ -19,6 +19,7 @@
 - [pdphilip/elasticlens: 为您的 SQL 模型提供全文 Elasticsearch 支持](https://github.com/pdphilip/elasticlens) 
 - [platformatic/php-node: 用于 Node.js 的 PHP HTTP 请求处理程序](https://github.com/platformatic/php-node?lidx=21&wpid=571885&mkt_tok=NDI2LVFWRC0xMTQAAAGawQDAtxDzY-dDEmNiNUN8QmXVeaXWQNcyU4xGyP7eUj6EPbgYUvSlj5gzs2FF8tNKopMLc7xGwILwXQVrh47J0YELpODJV4dIGgx2b2u_j_zOytXI) 
 - [PHP-WebRTC/webrtc: 纯 PHP 实现的 WebRTC](https://github.com/PHP-WebRTC/webrtc) 
+- [yiisoft/injector: 基于自动连接和兼容 PSR-11 的依赖注入容器的依赖注入实现。](https://github.com/yiisoft/injector/) 
 ### May 30, 2025 
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 - [pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序](https://github.com/pb30/phpstan-composer-analysis) 
