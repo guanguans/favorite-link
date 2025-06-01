@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rybbit-io/rybbit: 🐸 开源且注重隐私的 Google Analytics 替代方案，直观性提升了 10 倍。]]></title>
+    <published>2025-05-31T08:00:00+00:00</published>
+    <updated>2025-05-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rybbit-io/rybbit"/>
+    <id>https://github.com/rybbit-io/rybbit</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/rybbit-io/rybbit" target="_blank">rybbit-io/rybbit: 🐸 开源且注重隐私的 Google Analytics 替代方案，直观性提升了
+10 倍。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/rybbit-io/rybbit" target="_blank">https://github.com/rybbit-io/rybbit</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP]]></title>
     <published>2025-05-29T16:00:00+00:00</published>
     <updated>2025-05-29T16:00:00+00:00</updated>
