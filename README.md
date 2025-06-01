@@ -17,6 +17,7 @@
 - [rybbit-io/rybbit: 🐸 开源且注重隐私的 Google Analytics 替代方案，直观性提升了 10 倍。](https://github.com/rybbit-io/rybbit) 
 - [devrabiul/livewire-doctor: 您的 Laravel Livewire 智能助手。检测并自动修复诸如缺失的资源、不正确的指令和过时的组件等问题。](https://github.com/devrabiul/livewire-doctor) 
 - [pdphilip/elasticlens: 为您的 SQL 模型提供全文 Elasticsearch 支持](https://github.com/pdphilip/elasticlens) 
+- [platformatic/php-node: 用于 Node.js 的 PHP HTTP 请求处理程序](https://github.com/platformatic/php-node?lidx=21&wpid=571885&mkt_tok=NDI2LVFWRC0xMTQAAAGawQDAtxDzY-dDEmNiNUN8QmXVeaXWQNcyU4xGyP7eUj6EPbgYUvSlj5gzs2FF8tNKopMLc7xGwILwXQVrh47J0YELpODJV4dIGgx2b2u_j_zOytXI) 
 ### May 30, 2025 
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 - [pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序](https://github.com/pb30/phpstan-composer-analysis) 
