@@ -22,6 +22,7 @@
 - [yiisoft/injector: 基于自动连接和兼容 PSR-11 的依赖注入容器的依赖注入实现。](https://github.com/yiisoft/injector/) 
 - [dereuromark/composer-prefer-lowest: 检查 composer.json 中实际定义的最小版本是否为 prefer-lowest 安装](https://github.com/dereuromark/composer-prefer-lowest) 
 - [inspector-apm/neuron-ai: 在任何 PHP 应用程序中创建作为独立组件的全功能 AI 代理](https://github.com/inspector-apm/neuron-ai?lidx=66&wpid=571885&mkt_tok=NDI2LVFWRC0xMTQAAAGawQDAtljYAkx1aEXlEmRSsbQhzduZKNJvJR1wBhSOtFCPi2juIfHWoMPYR7xJDMyLrfUKuei_UpIfTNMIKaOG1_m9PYm7i79cGFEIDPheojyCsXTM) 
+- [Capevace/laravel-introspect: 像查询数据库一样查询您的 Laravel 代码库，使用类似 Eloquent 的 API](https://github.com/capevace/laravel-introspect?lidx=78&wpid=571885&mkt_tok=NDI2LVFWRC0xMTQAAAGawQDAtVt0pi36cglTxP3LNtKscg4WDn_WIKbKlmUsee-tOT_Bwigl2PYE-GBcn_nXqsaUnb7NeluIa1m-LkDUl1PLdGO0xTsAWufBgIQ5jX8i3k-i) 
 ### May 30, 2025 
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 - [pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序](https://github.com/pb30/phpstan-composer-analysis) 
