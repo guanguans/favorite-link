@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[devrabiul/livewire-doctor: 您的 Laravel Livewire 智能助手。检测并自动修复诸如缺失的资源、不正确的指令和过时的组件等问题。]]></title>
+    <published>2025-05-31T00:00:00+00:00</published>
+    <updated>2025-05-31T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/devrabiul/livewire-doctor"/>
+    <id>https://github.com/devrabiul/livewire-doctor</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/devrabiul/livewire-doctor" target="_blank">devrabiul/livewire-doctor: 您的 Laravel Livewire
+智能助手。检测并自动修复诸如缺失的资源、不正确的指令和过时的组件等问题。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/devrabiul/livewire-doctor" target="_blank">https://github.com/devrabiul/livewire-doctor</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP]]></title>
     <published>2025-05-29T16:00:00+00:00</published>
     <updated>2025-05-29T16:00:00+00:00</updated>
