@@ -21,6 +21,7 @@
 - [PHP-WebRTC/webrtc: 纯 PHP 实现的 WebRTC](https://github.com/PHP-WebRTC/webrtc) 
 - [yiisoft/injector: 基于自动连接和兼容 PSR-11 的依赖注入容器的依赖注入实现。](https://github.com/yiisoft/injector/) 
 - [dereuromark/composer-prefer-lowest: 检查 composer.json 中实际定义的最小版本是否为 prefer-lowest 安装](https://github.com/dereuromark/composer-prefer-lowest) 
+- [inspector-apm/neuron-ai: 在任何PHP应用程序中创建作为独立组件的全功能AI代理](https://github.com/inspector-apm/neuron-ai?lidx=66&wpid=571885&mkt_tok=NDI2LVFWRC0xMTQAAAGawQDAtljYAkx1aEXlEmRSsbQhzduZKNJvJR1wBhSOtFCPi2juIfHWoMPYR7xJDMyLrfUKuei_UpIfTNMIKaOG1_m9PYm7i79cGFEIDPheojyCsXTM) 
 ### May 30, 2025 
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 - [pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序](https://github.com/pb30/phpstan-composer-analysis) 
