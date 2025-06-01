@@ -64,6 +64,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pdphilip/elasticlens: 为您的 SQL 模型提供全文 Elasticsearch 支持]]></title>
+    <published>2025-05-30T16:00:00+00:00</published>
+    <updated>2025-05-30T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pdphilip/elasticlens"/>
+    <id>https://github.com/pdphilip/elasticlens</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/pdphilip/elasticlens" target="_blank">pdphilip/elasticlens: 为您的 SQL 模型提供全文 Elasticsearch 支持</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/pdphilip/elasticlens" target="_blank">https://github.com/pdphilip/elasticlens</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP]]></title>
     <published>2025-05-29T16:00:00+00:00</published>
     <updated>2025-05-29T16:00:00+00:00</updated>
