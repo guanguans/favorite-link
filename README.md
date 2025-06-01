@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### June 1, 2025 
+- [boson-php/boson: ⚡ 使用 PHP、JavaScript、HTML 和 CSS 构建跨平台桌面应用程序](https://github.com/boson-php/boson) 
 ### May 30, 2025 
 - [Ponderfly/GoogleTranslateIpCheck: 扫描国内可用的谷歌翻译 IP](https://github.com/Ponderfly/GoogleTranslateIpCheck) 
 - [pb30/phpstan-composer-analysis: 用于 Composer 依赖性分析的 PHPStan 封装程序](https://github.com/pb30/phpstan-composer-analysis) 
