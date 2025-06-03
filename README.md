@@ -15,7 +15,7 @@
 
 ### June 3, 2025 
 - [editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与. editorconfig 保持一致的工具](https://github.com/editorconfig-checker/editorconfig-checker.php) 
-- [shipmonk-rnd/memory-scanner: 轻量级的PHP库，用于分析内存使用情况并查找PHP应用程序中的内存泄漏。](https://github.com/shipmonk-rnd/memory-scanner) 
+- [shipmonk-rnd/memory-scanner: 轻量级的 PHP 库，用于分析内存使用情况并查找 PHP 应用程序中的内存泄漏。](https://github.com/shipmonk-rnd/memory-scanner) 
 ### June 1, 2025 
 - [boson-php/boson: ⚡ 使用 PHP、JavaScript、HTML 和 CSS 构建跨平台桌面应用程序](https://github.com/boson-php/boson) 
 - [rybbit-io/rybbit: 🐸 开源且注重隐私的 Google Analytics 替代方案，直观性提升了 10 倍。](https://github.com/rybbit-io/rybbit) 
