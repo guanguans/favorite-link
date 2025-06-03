@@ -14,7 +14,7 @@
 
 
 ### June 3, 2025 
-- [editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与.editorconfig保持一致的工具](https://github.com/editorconfig-checker/editorconfig-checker.php) 
+- [editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与. editorconfig 保持一致的工具](https://github.com/editorconfig-checker/editorconfig-checker.php) 
 ### June 1, 2025 
 - [boson-php/boson: ⚡ 使用 PHP、JavaScript、HTML 和 CSS 构建跨平台桌面应用程序](https://github.com/boson-php/boson) 
 - [rybbit-io/rybbit: 🐸 开源且注重隐私的 Google Analytics 替代方案，直观性提升了 10 倍。](https://github.com/rybbit-io/rybbit) 
