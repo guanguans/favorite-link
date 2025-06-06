@@ -13,6 +13,9 @@
 
 
 
+
+### June 6, 2025 
+- [nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置](https://github.com/nunomaduro/essentials) 
 ### June 3, 2025 
 - [editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与. editorconfig 保持一致的工具](https://github.com/editorconfig-checker/editorconfig-checker.php) 
 - [shipmonk-rnd/memory-scanner: 轻量级的 PHP 库，用于分析内存使用情况并查找 PHP 应用程序中的内存泄漏。](https://github.com/shipmonk-rnd/memory-scanner) 
