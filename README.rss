@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>convergephp/converge: Converge 是一个模块化的 Laravel 文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它</title>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/convergephp/converge</link>
+      <guid>https://github.com/convergephp/converge</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/convergephp/converge" target="_blank">convergephp/converge: Converge 是一个模块化的 Laravel 文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/convergephp/converge" target="_blank">https://github.com/convergephp/converge</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置</title>
       <pubDate>Thu, 05 Jun 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/nunomaduro/essentials</link>

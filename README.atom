@@ -47,6 +47,23 @@ Chrome 扩展程序。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[convergephp/converge: Converge 是一个模块化的 Laravel 文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它]]></title>
+    <published>2025-06-10T00:00:00+00:00</published>
+    <updated>2025-06-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/convergephp/converge"/>
+    <id>https://github.com/convergephp/converge</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/convergephp/converge" target="_blank">convergephp/converge: Converge 是一个模块化的 Laravel
+文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/convergephp/converge" target="_blank">https://github.com/convergephp/converge</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置]]></title>
     <published>2025-06-05T16:00:00+00:00</published>
     <updated>2025-06-05T16:00:00+00:00</updated>
