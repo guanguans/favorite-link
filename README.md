@@ -13,6 +13,7 @@
 
 ### June 11, 2025 
 - [xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。](https://github.com/xxnuo/launchpadx) 
+- [qingmeng1/bilijump-ai: 一个使用 AI 自动跳过 Bilibili 视频植入广告的 Chrome 扩展程序。](https://github.com/qingmeng1/bilijump-ai) 
 ### June 6, 2025 
 - [nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置](https://github.com/nunomaduro/essentials) 
 ### June 3, 2025 
