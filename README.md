@@ -14,6 +14,7 @@
 ### June 11, 2025 
 - [xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。](https://github.com/xxnuo/launchpadx) 
 - [qingmeng1/bilijump-ai: 一个使用 AI 自动跳过 Bilibili 视频植入广告的 Chrome 扩展程序。](https://github.com/qingmeng1/bilijump-ai) 
+- [convergephp/converge: Converge 是一个模块化的 Laravel 文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它](https://github.com/convergephp/converge) 
 ### June 6, 2025 
 - [nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置](https://github.com/nunomaduro/essentials) 
 ### June 3, 2025 
