@@ -64,6 +64,58 @@ Chrome 扩展程序。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[过去五年，我在每天处理 100 万+任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。]]></title>
+    <published>2025-06-09T16:00:00+00:00</published>
+    <updated>2025-06-09T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it"/>
+    <id>https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it" target="_blank">过去五年，我在每天处理 100 万+任务的 Laravel 应用程序中使用了 Laravel
+Horizon。在这篇文章中，我将分享与 Laravel Horizon
+合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon
+配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it" target="_blank">https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[理解与检查 MySQL 中的索引：全面指南 --- Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide]]></title>
+    <published>2025-06-09T08:00:00+00:00</published>
+    <updated>2025-06-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://releem.com/blog/understanding-inspecting-indexes"/>
+    <id>https://releem.com/blog/understanding-inspecting-indexes</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://releem.com/blog/understanding-inspecting-indexes" target="_blank">理解与检查 MySQL 中的索引：全面指南 --- Understanding and
+Inspecting Indexes in MySQL: A Comprehensive Guide</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://releem.com/blog/understanding-inspecting-indexes" target="_blank">https://releem.com/blog/understanding-inspecting-indexes</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[理解与检查 MySQL 中的索引]]></title>
+    <published>2025-06-09T00:00:00+00:00</published>
+    <updated>2025-06-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://releem.com/blog/understanding-inspecting-indexes"/>
+    <id>https://releem.com/blog/understanding-inspecting-indexes</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://releem.com/blog/understanding-inspecting-indexes" target="_blank">理解与检查 MySQL 中的索引</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://releem.com/blog/understanding-inspecting-indexes" target="_blank">https://releem.com/blog/understanding-inspecting-indexes</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置]]></title>
     <published>2025-06-05T16:00:00+00:00</published>
     <updated>2025-06-05T16:00:00+00:00</updated>
