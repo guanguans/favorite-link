@@ -15,6 +15,7 @@
 - [xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。](https://github.com/xxnuo/launchpadx) 
 - [qingmeng1/bilijump-ai: 一个使用 AI 自动跳过 Bilibili 视频植入广告的 Chrome 扩展程序。](https://github.com/qingmeng1/bilijump-ai) 
 - [convergephp/converge: Converge 是一个模块化的 Laravel 文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它](https://github.com/convergephp/converge) 
+- [过去五年，我在每天处理 100 万+任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。](https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it) 
 ### June 6, 2025 
 - [nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置](https://github.com/nunomaduro/essentials) 
 ### June 3, 2025 
