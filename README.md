@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### June 11, 2025 
+- [xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。](https://github.com/xxnuo/launchpadx) 
 ### June 6, 2025 
 - [nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置](https://github.com/nunomaduro/essentials) 
 ### June 3, 2025 
