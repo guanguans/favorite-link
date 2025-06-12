@@ -64,6 +64,23 @@ Idempotency 中间件包</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[greenlion/PHP-SQL-Parser: 一个专门用于解析 MySQL SQL 语句的纯 PHP 解析器，不进行语法验证。]]></title>
+    <published>2025-06-10T16:00:00+00:00</published>
+    <updated>2025-06-10T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/greenlion/PHP-SQL-Parser"/>
+    <id>https://github.com/greenlion/PHP-SQL-Parser</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/greenlion/PHP-SQL-Parser" target="_blank">greenlion/PHP-SQL-Parser: 一个专门用于解析 MySQL SQL 语句的纯 PHP
+解析器，不进行语法验证。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/greenlion/PHP-SQL-Parser" target="_blank">https://github.com/greenlion/PHP-SQL-Parser</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。]]></title>
     <published>2025-06-10T16:00:00+00:00</published>
     <updated>2025-06-10T16:00:00+00:00</updated>
