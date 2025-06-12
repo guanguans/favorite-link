@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 11 Jun 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ory/ladon: 一个用于访问控制策略的 SDK：为微服务和物联网时代提供授权。灵感来源于 AWS IAM 策略。使用 Go 语言编写。</title>
+      <pubDate>Wed, 11 Jun 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ory/ladon</link>
+      <guid>https://github.com/ory/ladon</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ory/ladon" target="_blank">ory/ladon: 一个用于访问控制策略的 SDK：为微服务和物联网时代提供授权。灵感来源于 AWS IAM 策略。使用 Go 语言编写。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ory/ladon" target="_blank">https://github.com/ory/ladon</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>rive-app/rive-ios: 一个适用于 iOS/macOS 的 Rive 运行时库，支持 UIKit、AppKit 和 SwiftUI。</title>
+      <pubDate>Wed, 11 Jun 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/rive-app/rive-ios</link>
+      <guid>https://github.com/rive-app/rive-ios</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rive-app/rive-ios" target="_blank">rive-app/rive-ios: 一个适用于 iOS/macOS 的 Rive 运行时库，支持 UIKit、AppKit 和 SwiftUI。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/rive-app/rive-ios" target="_blank">https://github.com/rive-app/rive-ios</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。</title>
       <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>

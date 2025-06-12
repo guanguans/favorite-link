@@ -13,8 +13,8 @@
 
 
 ### June 12, 2025 
-- [ory/ladon: 一个用于访问控制策略的SDK：为微服务和物联网时代提供授权。灵感来源于AWS IAM策略。使用Go语言编写。](https://github.com/ory/ladon) 
-- [rive-app/rive-ios: 一个适用于iOS/macOS的Rive运行时库，支持UIKit、AppKit和SwiftUI。](https://github.com/rive-app/rive-ios) 
+- [ory/ladon: 一个用于访问控制策略的 SDK：为微服务和物联网时代提供授权。灵感来源于 AWS IAM 策略。使用 Go 语言编写。](https://github.com/ory/ladon) 
+- [rive-app/rive-ios: 一个适用于 iOS/macOS 的 Rive 运行时库，支持 UIKit、AppKit 和 SwiftUI。](https://github.com/rive-app/rive-ios) 
 ### June 11, 2025 
 - [xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。](https://github.com/xxnuo/launchpadx) 
 - [qingmeng1/bilijump-ai: 一个使用 AI 自动跳过 Bilibili 视频植入广告的 Chrome 扩展程序。](https://github.com/qingmeng1/bilijump-ai) 
