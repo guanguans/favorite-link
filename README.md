@@ -14,7 +14,7 @@
 
 
 ### June 13, 2025 
-- [ory/oathkeeper: 一个云原生的身份与访问代理/API (IAP) 和访问控制决策API，用于对传入的HTTP(s)请求进行身份验证、授权和修改。](https://github.com/ory/oathkeeper) 
+- [ory/oathkeeper: 一个云原生的身份与访问代理/API (IAP) 和访问控制决策 API，用于对传入的 HTTP(s) 请求进行身份验证、授权和修改。](https://github.com/ory/oathkeeper) 
 ### June 12, 2025 
 - [ory/ladon: 一个用于访问控制策略的 SDK：为微服务和物联网时代提供授权。灵感来源于 AWS IAM 策略。使用 Go 语言编写。](https://github.com/ory/ladon) 
 - [rive-app/rive-ios: 一个适用于 iOS/macOS 的 Rive 运行时库，支持 UIKit、AppKit 和 SwiftUI。](https://github.com/rive-app/rive-ios) 
