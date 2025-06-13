@@ -17,6 +17,7 @@
 - [ory/oathkeeper: 一个云原生的身份与访问代理/API (IAP) 和访问控制决策 API，用于对传入的 HTTP(s) 请求进行身份验证、授权和修改。](https://github.com/ory/oathkeeper) 
 - [calebdw/laravel-sql-entities: calebdw/laravel-sql-entities: 📚 在 Laravel 中轻松管理 SQL 实体！](https://github.com/calebdw/laravel-sql-entities) 
 - [国行 macOS 15.4.1 上永久启用 Apple AI，无需关闭 SIP 或运行后台服务 Quick RSS](https://wangchujiang.com/quick-rss/issue/153.html) 
+- [XcodesOrg/XcodesApp: 通过鼠标点击，最简单的方式安装和切换多个版本的Xcode。](https://github.com/XcodesOrg/XcodesApp) 
 ### June 12, 2025 
 - [ory/ladon: 一个用于访问控制策略的 SDK：为微服务和物联网时代提供授权。灵感来源于 AWS IAM 策略。使用 Go 语言编写。](https://github.com/ory/ladon) 
 - [rive-app/rive-ios: 一个适用于 iOS/macOS 的 Rive 运行时库，支持 UIKit、AppKit 和 SwiftUI。](https://github.com/rive-app/rive-ios) 
