@@ -31,6 +31,23 @@ API，用于对传入的 HTTP(s) 请求进行身份验证、授权和修改。</
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[calebdw/laravel-sql-entities: calebdw/laravel-sql-entities: 📚 在 Laravel 中轻松管理 SQL 实体！]]></title>
+    <published>2025-06-12T08:00:00+00:00</published>
+    <updated>2025-06-12T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/calebdw/laravel-sql-entities"/>
+    <id>https://github.com/calebdw/laravel-sql-entities</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/calebdw/laravel-sql-entities" target="_blank">calebdw/laravel-sql-entities:
+calebdw/laravel-sql-entities: 📚 在 Laravel 中轻松管理 SQL 实体！</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/calebdw/laravel-sql-entities" target="_blank">https://github.com/calebdw/laravel-sql-entities</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ory/ladon: 一个用于访问控制策略的 SDK：为微服务和物联网时代提供授权。灵感来源于 AWS IAM 策略。使用 Go 语言编写。]]></title>
     <published>2025-06-11T16:00:00+00:00</published>
     <updated>2025-06-11T16:00:00+00:00</updated>
