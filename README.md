@@ -12,6 +12,7 @@
 
 ### June 17, 2025 
 - [gtsteffaniak/filebrowser: 📂 最好的免费自托管网络文件管理器。](https://github.com/gtsteffaniak/filebrowser) 
+- [gety-ai/apple-on-device-openai: 适用于苹果设备模型的OpenAI兼容API服务器](https://github.com/gety-ai/apple-on-device-openai) 
 ### June 13, 2025 
 - [ory/oathkeeper: 一个云原生的身份与访问代理/API (IAP) 和访问控制决策 API，用于对传入的 HTTP(s) 请求进行身份验证、授权和修改。](https://github.com/ory/oathkeeper) 
 - [calebdw/laravel-sql-entities: calebdw/laravel-sql-entities: 📚 在 Laravel 中轻松管理 SQL 实体！](https://github.com/calebdw/laravel-sql-entities) 
