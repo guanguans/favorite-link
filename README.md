@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### June 18, 2025 
+- [dunglas/frankenphp-etcd: 使用官方用Go编写的etcd客户端的PHP扩展](https://github.com/dunglas/frankenphp-etcd) 
 ### June 17, 2025 
 - [gtsteffaniak/filebrowser: 📂 最好的免费自托管网络文件管理器。](https://github.com/gtsteffaniak/filebrowser) 
 - [gety-ai/apple-on-device-openai: 适用于苹果设备模型的 OpenAI 兼容 API 服务器](https://github.com/gety-ai/apple-on-device-openai) 
