@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### June 19, 2025 
+- [akuity/kargo: Kargo 是一个面向 Kubernetes 的下一代持续交付和应用生命周期编排平台。](https://github.com/akuity/kargo) 
 ### June 18, 2025 
 - [dunglas/frankenphp-etcd: 使用官方用 Go 编写的 etcd 客户端的 PHP 扩展](https://github.com/dunglas/frankenphp-etcd) 
 ### June 17, 2025 
