@@ -12,6 +12,9 @@
 
 
 
+
+### June 20, 2025 
+- [openziti/zrok: 基于OpenZiti构建的地理规模下一代点对点共享平台。](https://github.com/openziti/zrok) 
 ### June 19, 2025 
 - [akuity/kargo: Kargo 是一个面向 Kubernetes 的下一代持续交付和应用生命周期编排平台。](https://github.com/akuity/kargo) 
 ### June 18, 2025 
