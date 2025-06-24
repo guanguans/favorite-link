@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### June 24, 2025 
-- [efogdev/mpris-timer: 适用于Linux桌面的计时器应用](https://github.com/efogdev/mpris-timer) 
+- [efogdev/mpris-timer: 适用于 Linux 桌面的计时器应用](https://github.com/efogdev/mpris-timer) 
 - [AkihiroSuda/gomodjail: [实验性] Go 模块的隔离功能](https://github.com/AkihiroSuda/gomodjail) 
 ### June 20, 2025 
 - [openziti/zrok: 基于 OpenZiti 构建的地理规模下一代点对点共享平台。](https://github.com/openziti/zrok) 

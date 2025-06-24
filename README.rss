@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 19 Jun 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 23 Jun 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>efogdev/mpris-timer: 适用于 Linux 桌面的计时器应用</title>
+      <pubDate>Mon, 23 Jun 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/efogdev/mpris-timer</link>
+      <guid>https://github.com/efogdev/mpris-timer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/efogdev/mpris-timer" target="_blank">efogdev/mpris-timer: 适用于 Linux 桌面的计时器应用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/efogdev/mpris-timer" target="_blank">https://github.com/efogdev/mpris-timer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>AkihiroSuda/gomodjail: [实验性] Go 模块的隔离功能</title>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/AkihiroSuda/gomodjail</link>
+      <guid>https://github.com/AkihiroSuda/gomodjail</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/AkihiroSuda/gomodjail" target="_blank">AkihiroSuda/gomodjail: [实验性] Go 模块的隔离功能</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/AkihiroSuda/gomodjail" target="_blank">https://github.com/AkihiroSuda/gomodjail</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>openziti/zrok: 基于 OpenZiti 构建的地理规模下一代点对点共享平台。</title>
       <pubDate>Thu, 19 Jun 2025 16:00:00 +0000</pubDate>
