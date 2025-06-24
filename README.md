@@ -13,6 +13,7 @@
 ### June 24, 2025 
 - [efogdev/mpris-timer: 适用于 Linux 桌面的计时器应用](https://github.com/efogdev/mpris-timer) 
 - [AkihiroSuda/gomodjail: [实验性] Go 模块的隔离功能](https://github.com/AkihiroSuda/gomodjail) 
+- [ludoguenet/laravel-zap: 为 Laravel 提供闪电般快速的日程管理](https://github.com/ludoguenet/laravel-zap) 
 ### June 20, 2025 
 - [openziti/zrok: 基于 OpenZiti 构建的地理规模下一代点对点共享平台。](https://github.com/openziti/zrok) 
 ### June 19, 2025 
