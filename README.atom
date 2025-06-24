@@ -61,6 +61,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ace-of-aces/laravel-image-transform-url: 简单的基于 URL 的图像转换，灵感来自 Cloudflare Images。]]></title>
+    <published>2025-06-22T16:00:00+00:00</published>
+    <updated>2025-06-22T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ace-of-aces/laravel-image-transform-url"/>
+    <id>https://github.com/ace-of-aces/laravel-image-transform-url</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ace-of-aces/laravel-image-transform-url" target="_blank">ace-of-aces/laravel-image-transform-url: 简单的基于 URL
+的图像转换，灵感来自 Cloudflare Images。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ace-of-aces/laravel-image-transform-url" target="_blank">https://github.com/ace-of-aces/laravel-image-transform-url</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[openziti/zrok: 基于 OpenZiti 构建的地理规模下一代点对点共享平台。]]></title>
     <published>2025-06-19T16:00:00+00:00</published>
     <updated>2025-06-19T16:00:00+00:00</updated>
