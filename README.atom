@@ -45,6 +45,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ludoguenet/laravel-zap: 为 Laravel 提供闪电般快速的日程管理]]></title>
+    <published>2025-06-23T00:00:00+00:00</published>
+    <updated>2025-06-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ludoguenet/laravel-zap"/>
+    <id>https://github.com/ludoguenet/laravel-zap</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ludoguenet/laravel-zap" target="_blank">ludoguenet/laravel-zap: 为 Laravel 提供闪电般快速的日程管理</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ludoguenet/laravel-zap" target="_blank">https://github.com/ludoguenet/laravel-zap</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[openziti/zrok: 基于 OpenZiti 构建的地理规模下一代点对点共享平台。]]></title>
     <published>2025-06-19T16:00:00+00:00</published>
     <updated>2025-06-19T16:00:00+00:00</updated>
