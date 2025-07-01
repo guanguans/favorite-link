@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### July 1, 2025 
+- [microsoft/vscode-copilot-chat: 适用于 VS Code 的 Copilot 聊天扩展](https://github.com/microsoft/vscode-copilot-chat) 
 ### June 24, 2025 
 - [efogdev/mpris-timer: 适用于 Linux 桌面的计时器应用](https://github.com/efogdev/mpris-timer) 
 - [AkihiroSuda/gomodjail: [实验性] Go 模块的隔离功能](https://github.com/AkihiroSuda/gomodjail) 
