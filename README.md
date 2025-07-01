@@ -15,7 +15,7 @@
 - [microsoft/vscode-copilot-chat: 适用于 VS Code 的 Copilot 聊天扩展](https://github.com/microsoft/vscode-copilot-chat) 
 - [jbiaojerry/ebook-treasure-chest: 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。该库涵盖了帆书 app (原樊登读书)、微信读书、京东读书、喜马拉雅等读书 app 的大部分电子书。](https://github.com/jbiaojerry/ebook-treasure-chest) 
 - [m1k1o/neko: 一个自托管的虚拟浏览器，运行在 Docker 中并使用 WebRTC。](https://github.com/m1k1o/neko) 
-- [SocialSisterYi/bilibili-API-collect: 哔哩哔哩-API收集整理](https://github.com/SocialSisterYi/bilibili-API-collect) 
+- [SocialSisterYi/bilibili-API-collect: 哔哩哔哩-API 收集整理](https://github.com/SocialSisterYi/bilibili-API-collect) 
 ### June 24, 2025 
 - [efogdev/mpris-timer: 适用于 Linux 桌面的计时器应用](https://github.com/efogdev/mpris-timer) 
 - [AkihiroSuda/gomodjail: [实验性] Go 模块的隔离功能](https://github.com/AkihiroSuda/gomodjail) 
