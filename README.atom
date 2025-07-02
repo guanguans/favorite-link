@@ -80,6 +80,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[volt-test/laravel-performance-testing: 使用 VoltTest PHP SDK 进行性能测试的 Laravel 软件包。通过内置路线发现，CSRF 处理和全面报告，轻松为 Laravel 应用程序创建和运行负载测试。]]></title>
+    <published>2025-06-30T08:00:00+00:00</published>
+    <updated>2025-06-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/volt-test/laravel-performance-testing"/>
+    <id>https://github.com/volt-test/laravel-performance-testing</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/volt-test/laravel-performance-testing" target="_blank">volt-test/laravel-performance-testing: 使用 VoltTest
+PHP SDK 进行性能测试的 Laravel 软件包。通过内置路线发现，CSRF 处理和全面报告，轻松为 Laravel
+应用程序创建和运行负载测试。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/volt-test/laravel-performance-testing" target="_blank">https://github.com/volt-test/laravel-performance-testing</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[microsoft/vscode-copilot-chat: 适用于 VS Code 的 Copilot 聊天扩展]]></title>
     <published>2025-06-30T16:00:00+00:00</published>
     <updated>2025-06-30T16:00:00+00:00</updated>

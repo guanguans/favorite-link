@@ -17,7 +17,7 @@
 - [spatie/ping: 运行 ICMP ping 并获得结构化结果](https://github.com/spatie/ping) 
 - [codexu/note-gen: 一个跨平台标记记录应用程序，用于使用 AI 来桥接记录和写作，将零散的知识组织成可读的音符。](https://github.com/codexu/note-gen) 
 - [volt-test/php-sdk: 用于 PHP 应用的性能测试工具](https://github.com/volt-test/php-sdk) 
-- [volt-test/laravel-performance-testing: 使用VoltTest PHP SDK进行性能测试的Laravel软件包。通过内置路线发现，CSRF处理和全面报告，轻松为Laravel应用程序创建和运行负载测试。](https://github.com/volt-test/laravel-performance-testing) 
+- [volt-test/laravel-performance-testing: 使用 VoltTest PHP SDK 进行性能测试的 Laravel 软件包。通过内置路线发现，CSRF 处理和全面报告，轻松为 Laravel 应用程序创建和运行负载测试。](https://github.com/volt-test/laravel-performance-testing) 
 ### July 1, 2025 
 - [microsoft/vscode-copilot-chat: 适用于 VS Code 的 Copilot 聊天扩展](https://github.com/microsoft/vscode-copilot-chat) 
 - [jbiaojerry/ebook-treasure-chest: 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。该库涵盖了帆书 app (原樊登读书)、微信读书、京东读书、喜马拉雅等读书 app 的大部分电子书。](https://github.com/jbiaojerry/ebook-treasure-chest) 
