@@ -16,6 +16,7 @@
 - [kanshurichard/enableAppleAI: 一种在 MacOS 15.4.1，无需长期运行后台服务，也无需长期禁用 SIP，即可永久稳定开启中国销售 Mac 设备上 Apple AI 的方法。](https://github.com/kanshurichard/enableAppleAI) 
 - [spatie/ping: 运行 ICMP ping 并获得结构化结果](https://github.com/spatie/ping) 
 - [codexu/note-gen: 一个跨平台标记记录应用程序，用于使用 AI 来桥接记录和写作，将零散的知识组织成可读的音符。](https://github.com/codexu/note-gen) 
+- [volt-test/php-sdk: 用于 PHP 应用的性能测试工具](https://github.com/volt-test/php-sdk) 
 ### July 1, 2025 
 - [microsoft/vscode-copilot-chat: 适用于 VS Code 的 Copilot 聊天扩展](https://github.com/microsoft/vscode-copilot-chat) 
 - [jbiaojerry/ebook-treasure-chest: 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。该库涵盖了帆书 app (原樊登读书)、微信读书、京东读书、喜马拉雅等读书 app 的大部分电子书。](https://github.com/jbiaojerry/ebook-treasure-chest) 
