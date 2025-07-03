@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[hosmelq/name-of-person: 在您的 PHP 应用程序中处理人员名称，并具有优雅的格式选项。在多个演示格式之间转换名称。该软件包提供了一种干净，类型安全的方式，可以在您的应用程序中始终如一地解析，存储，操纵和显示人员名称。]]></title>
+    <published>2025-07-02T08:00:00+00:00</published>
+    <updated>2025-07-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/hosmelq/name-of-person"/>
+    <id>https://github.com/hosmelq/name-of-person</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/hosmelq/name-of-person" target="_blank">hosmelq/name-of-person: 在您的 PHP
+应用程序中处理人员名称，并具有优雅的格式选项。在多个演示格式之间转换名称。该软件包提供了一种干净，类型安全的方式，可以在您的应用程序中始终如一地解析，存储，操纵和显示人员名称。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/hosmelq/name-of-person" target="_blank">https://github.com/hosmelq/name-of-person</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kanshurichard/enableAppleAI: 一种在 MacOS 15.4.1，无需长期运行后台服务，也无需长期禁用 SIP，即可永久稳定开启中国销售 Mac 设备上 Apple AI 的方法。]]></title>
     <published>2025-07-01T16:00:00+00:00</published>
     <updated>2025-07-01T16:00:00+00:00</updated>

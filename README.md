@@ -15,7 +15,7 @@
 
 ### July 3, 2025 
 - [spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据](https://github.com/spatie/simple-tcp-client) 
-- [hosmelq/name-of-person: 在您的PHP应用程序中处理人员名称，并具有优雅的格式选项。在多个演示格式之间转换名称。该软件包提供了一种干净，类型安全的方式，可以在您的应用程序中始终如一地解析，存储，操纵和显示人员名称。](https://github.com/hosmelq/name-of-person) 
+- [hosmelq/name-of-person: 在您的 PHP 应用程序中处理人员名称，并具有优雅的格式选项。在多个演示格式之间转换名称。该软件包提供了一种干净，类型安全的方式，可以在您的应用程序中始终如一地解析，存储，操纵和显示人员名称。](https://github.com/hosmelq/name-of-person) 
 ### July 2, 2025 
 - [kanshurichard/enableAppleAI: 一种在 MacOS 15.4.1，无需长期运行后台服务，也无需长期禁用 SIP，即可永久稳定开启中国销售 Mac 设备上 Apple AI 的方法。](https://github.com/kanshurichard/enableAppleAI) 
 - [spatie/ping: 运行 ICMP ping 并获得结构化结果](https://github.com/spatie/ping) 
