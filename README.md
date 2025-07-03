@@ -12,6 +12,9 @@
 
 
 
+
+### July 3, 2025 
+- [spatie/simple-tcp-client: 通过TCP连接连接并发送数据](https://github.com/spatie/simple-tcp-client) 
 ### July 2, 2025 
 - [kanshurichard/enableAppleAI: 一种在 MacOS 15.4.1，无需长期运行后台服务，也无需长期禁用 SIP，即可永久稳定开启中国销售 Mac 设备上 Apple AI 的方法。](https://github.com/kanshurichard/enableAppleAI) 
 - [spatie/ping: 运行 ICMP ping 并获得结构化结果](https://github.com/spatie/ping) 
