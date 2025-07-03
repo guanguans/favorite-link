@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 01 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 02 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据</title>
+      <pubDate>Wed, 02 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/spatie/simple-tcp-client</link>
+      <guid>https://github.com/spatie/simple-tcp-client</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/spatie/simple-tcp-client" target="_blank">spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/spatie/simple-tcp-client" target="_blank">https://github.com/spatie/simple-tcp-client</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>kanshurichard/enableAppleAI: 一种在 MacOS 15.4.1，无需长期运行后台服务，也无需长期禁用 SIP，即可永久稳定开启中国销售 Mac 设备上 Apple AI 的方法。</title>
       <pubDate>Tue, 01 Jul 2025 16:00:00 +0000</pubDate>
