@@ -439,11 +439,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>过去五年，我在每天处理 100 万+任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。</title>
+      <title>过去五年，我在每天处理 100 万 + 任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。</title>
       <pubDate>Mon, 09 Jun 2025 16:00:00 +0000</pubDate>
       <link>https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it</link>
       <guid>https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it</guid>
-      <content:encoded><![CDATA[<a href="https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it" target="_blank">过去五年，我在每天处理 100 万+任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。</a>
+      <content:encoded><![CDATA[<a href="https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it" target="_blank">过去五年，我在每天处理 100 万 + 任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it" target="_blank">https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it</a></li>
@@ -491,11 +491,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与. editorconfig 保持一致的工具</title>
+      <title>editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与。editorconfig 保持一致的工具</title>
       <pubDate>Mon, 02 Jun 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/editorconfig-checker/editorconfig-checker.php</link>
       <guid>https://github.com/editorconfig-checker/editorconfig-checker.php</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/editorconfig-checker/editorconfig-checker.php" target="_blank">editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与. editorconfig 保持一致的工具</a>
+      <content:encoded><![CDATA[<a href="https://github.com/editorconfig-checker/editorconfig-checker.php" target="_blank">editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与。editorconfig 保持一致的工具</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/editorconfig-checker/editorconfig-checker.php" target="_blank">https://github.com/editorconfig-checker/editorconfig-checker.php</a></li>

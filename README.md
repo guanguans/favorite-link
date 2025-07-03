@@ -57,13 +57,13 @@
 - [xxnuo/launchpadx: 一个开源的 macOS 启动器，使用 SwiftUI 和 AppKit 开发。使用最新的液态玻璃效果。](https://github.com/xxnuo/launchpadx) 
 - [qingmeng1/bilijump-ai: 一个使用 AI 自动跳过 Bilibili 视频植入广告的 Chrome 扩展程序。](https://github.com/qingmeng1/bilijump-ai) 
 - [convergephp/converge: Converge 是一个模块化的 Laravel 文档系统，旨在根据版本、集群、组和文件的结构化层次动态生成、组织和呈现文档、API 参考和相关内容。它](https://github.com/convergephp/converge) 
-- [过去五年，我在每天处理 100 万+任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。](https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it) 
+- [过去五年，我在每天处理 100 万 + 任务的 Laravel 应用程序中使用了 Laravel Horizon。在这篇文章中，我将分享与 Laravel Horizon 合作五年的经验。包括我如何设计任务；如何隔离队列以防止瓶颈；最重要的是，Horizon 配置的隐藏陷阱以及如何避免它们。如果你曾经遇到过任务神秘失败或无缘无故消失的情况，请阅读这篇文章。](https://govigilant.io/articles/my-laravel-horizon-preferences-after-5-years-of-using-it) 
 - [理解与检查 MySQL 中的索引：全面指南 --- Understanding and Inspecting Indexes in MySQL: A Comprehensive Guide](https://releem.com/blog/understanding-inspecting-indexes) 
 - [理解与检查 MySQL 中的索引](https://releem.com/blog/understanding-inspecting-indexes) 
 ### June 6, 2025 
 - [nunomaduro/essentials: 为您的 Laravel 项目提供更好的默认设置](https://github.com/nunomaduro/essentials) 
 ### June 3, 2025 
-- [editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与. editorconfig 保持一致的工具](https://github.com/editorconfig-checker/editorconfig-checker.php) 
+- [editorconfig-checker/editorconfig-checker.php: 一个用于验证您的文件是否与。editorconfig 保持一致的工具](https://github.com/editorconfig-checker/editorconfig-checker.php) 
 - [shipmonk-rnd/memory-scanner: 轻量级的 PHP 库，用于分析内存使用情况并查找 PHP 应用程序中的内存泄漏。](https://github.com/shipmonk-rnd/memory-scanner) 
 ### June 1, 2025 
 - [boson-php/boson: ⚡ 使用 PHP、JavaScript、HTML 和 CSS 构建跨平台桌面应用程序](https://github.com/boson-php/boson) 
