@@ -19,8 +19,6 @@ use Symfony\Component\VarDumper\Test\VarDumperTestTrait;
 
 abstract class TestCase extends BaseTestCase
 {
-    use CreatesApplication;
-    use Faker;
     use MockeryPHPUnitIntegration;
     use VarDumperTestTrait;
 

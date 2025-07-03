@@ -18,7 +18,7 @@ use App\Commands\FeedCommand;
 use Laminas\Feed\Writer\Exception\InvalidArgumentException;
 
 it('will throw an InvalidArgumentException of Symfony', function (): void {
-    $this->artisan(FeedCommand::class, ['--from' => $this->faker()->filePath()])->assertFailed();
+    $this->artisan(FeedCommand::class, ['--from' => fake()->filePath()])->assertFailed();
 })->group(__DIR__, __FILE__);
 
 it('will throw an InvalidArgumentException of Laminas', function (): void {
