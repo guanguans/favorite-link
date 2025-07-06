@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 02 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 05 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>cshum/imagor: 使用 libvips 快速，安全的图像处理服务器和 GO 库</title>
+      <pubDate>Sat, 05 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/cshum/imagor</link>
+      <guid>https://github.com/cshum/imagor</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/cshum/imagor" target="_blank">cshum/imagor: 使用 libvips 快速，安全的图像处理服务器和 GO 库</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/cshum/imagor" target="_blank">https://github.com/cshum/imagor</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据</title>
       <pubDate>Wed, 02 Jul 2025 16:00:00 +0000</pubDate>
