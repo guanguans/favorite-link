@@ -13,7 +13,7 @@
 ### July 6, 2025 
 - [cshum/imagor: 使用 libvips 快速，安全的图像处理服务器和 GO 库](https://github.com/cshum/imagor) 
 - [kanshurichard/enableAppleAI: 在中国大陆出售的 Mac 启用 Apple Intelligence，并启用了 SIP，在 MacOS 15.4.1+和 26 个 Beta 上进行了测试](https://github.com/kanshurichard/enableAppleAI) 
-- [niedev/RTranslator: 本地运行的Android的开源实时翻译应用](https://github.com/niedev/RTranslator) 
+- [niedev/RTranslator: 本地运行的 Android 的开源实时翻译应用](https://github.com/niedev/RTranslator) 
 ### July 3, 2025 
 - [spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据](https://github.com/spatie/simple-tcp-client) 
 - [hosmelq/name-of-person: 在您的 PHP 应用程序中处理人员名称，并具有优雅的格式选项。在多个演示格式之间转换名称。该软件包提供了一种干净，类型安全的方式，可以在您的应用程序中始终如一地解析，存储，操纵和显示人员名称。](https://github.com/hosmelq/name-of-person) 

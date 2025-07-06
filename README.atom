@@ -46,6 +46,22 @@ Intelligence，并启用了 SIP，在 MacOS 15.4.1+和 26 个 Beta 上进行了�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[niedev/RTranslator: 本地运行的 Android 的开源实时翻译应用]]></title>
+    <published>2025-07-05T00:00:00+00:00</published>
+    <updated>2025-07-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/niedev/RTranslator"/>
+    <id>https://github.com/niedev/RTranslator</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/niedev/RTranslator" target="_blank">niedev/RTranslator: 本地运行的 Android 的开源实时翻译应用</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/niedev/RTranslator" target="_blank">https://github.com/niedev/RTranslator</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据]]></title>
     <published>2025-07-02T16:00:00+00:00</published>
     <updated>2025-07-02T16:00:00+00:00</updated>
