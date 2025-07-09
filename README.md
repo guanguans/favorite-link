@@ -13,6 +13,7 @@
 
 ### July 9, 2025 
 - [jackjackbits/bitchat: 一个安全，分散的，点对点消息传递应用程序，可在蓝牙网络网络上使用。无需互联网，无服务器，没有电话号码 - 仅仅是纯加密通信。](https://github.com/jackjackbits/bitchat) 
+- [googleapis/genai-toolbox: 数据库的MCP工具箱是用于数据库的开源MCP服务器。](https://github.com/googleapis/genai-toolbox) 
 ### July 6, 2025 
 - [cshum/imagor: 使用 libvips 快速，安全的图像处理服务器和 GO 库](https://github.com/cshum/imagor) 
 - [kanshurichard/enableAppleAI: 在中国大陆出售的 Mac 启用 Apple Intelligence，并启用了 SIP，在 MacOS 15.4.1+和 26 个 Beta 上进行了测试](https://github.com/kanshurichard/enableAppleAI) 
