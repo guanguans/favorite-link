@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 08 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 11 Jul 2025 03:02:12 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。</title>
+      <pubDate>Fri, 11 Jul 2025 03:02:12 +0800</pubDate>
+      <link>https://github.com/jdx/hk</link>
+      <guid>https://github.com/jdx/hk</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jdx/hk" target="_blank">jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jdx/hk" target="_blank">https://github.com/jdx/hk</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>jackjackbits/bitchat: 一个安全，分散的，点对点消息传递应用程序，可在蓝牙网络网络上使用。无需互联网，无服务器，没有电话号码 - 仅仅是纯加密通信。</title>
       <pubDate>Tue, 08 Jul 2025 16:00:00 +0000</pubDate>
