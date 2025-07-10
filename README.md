@@ -14,6 +14,7 @@
 
 ### July 11, 2025 
 - [jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。](https://github.com/jdx/hk) 
+- [walinejs/waline: 💬简单，安全的评论系统](https://github.com/walinejs/waline) 
 ### July 9, 2025 
 - [jackjackbits/bitchat: 一个安全，分散的，点对点消息传递应用程序，可在蓝牙网络网络上使用。无需互联网，无服务器，没有电话号码 - 仅仅是纯加密通信。](https://github.com/jackjackbits/bitchat) 
 - [googleapis/genai-toolbox: 数据库的 MCP 工具箱是用于数据库的开源 MCP 服务器。](https://github.com/googleapis/genai-toolbox) 
