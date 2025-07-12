@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 11 Jul 2025 03:03:49 +0800</pubDate>
+    <pubDate>Fri, 11 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat 免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实</title>
+      <pubDate>Fri, 11 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/DigitalPlatDev/FreeDomain</link>
+      <guid>https://github.com/DigitalPlatDev/FreeDomain</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat 免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">https://github.com/DigitalPlatDev/FreeDomain</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。</title>
-      <pubDate>Fri, 11 Jul 2025 03:03:49 +0800</pubDate>
+      <pubDate>Thu, 10 Jul 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/jdx/hk</link>
       <guid>https://github.com/jdx/hk</guid>
       <content:encoded><![CDATA[<a href="https://github.com/jdx/hk" target="_blank">jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>walinejs/waline: 💬 简单，安全的评论系统</title>
-      <pubDate>Fri, 11 Jul 2025 03:03:49 +0800</pubDate>
+      <pubDate>Thu, 10 Jul 2025 08:00:00 +0000</pubDate>
       <link>https://github.com/walinejs/waline</link>
       <guid>https://github.com/walinejs/waline</guid>
       <content:encoded><![CDATA[<a href="https://github.com/walinejs/waline" target="_blank">walinejs/waline: 💬 简单，安全的评论系统</a>

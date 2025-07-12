@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-07-11T03:03:49+08:00</updated>
+  <updated>2025-07-11T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,26 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat 免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实]]></title>
+    <published>2025-07-11T16:00:00+00:00</published>
+    <updated>2025-07-11T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/DigitalPlatDev/FreeDomain"/>
+    <id>https://github.com/DigitalPlatDev/FreeDomain</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat
+免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">https://github.com/DigitalPlatDev/FreeDomain</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。]]></title>
-    <published>2025-07-11T03:03:49+08:00</published>
-    <updated>2025-07-11T03:03:49+08:00</updated>
+    <published>2025-07-10T16:00:00+00:00</published>
+    <updated>2025-07-10T16:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/jdx/hk"/>
     <id>https://github.com/jdx/hk</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -31,8 +48,8 @@ Hook Manager 和 Project Linting 工具，重点是性能。</xhtml:a>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[walinejs/waline: 💬 简单，安全的评论系统]]></title>
-    <published>2025-07-11T03:03:49+08:00</published>
-    <updated>2025-07-11T03:03:49+08:00</updated>
+    <published>2025-07-10T08:00:00+00:00</published>
+    <updated>2025-07-10T08:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/walinejs/waline"/>
     <id>https://github.com/walinejs/waline</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
