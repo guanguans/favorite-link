@@ -12,6 +12,9 @@
 
 
 
+
+### July 12, 2025 
+- [DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat 免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实](https://github.com/DigitalPlatDev/FreeDomain) 
 ### July 11, 2025 
 - [jdx/hk: Git Hook Manager 和 Project Linting 工具，重点是性能。](https://github.com/jdx/hk) 
 - [walinejs/waline: 💬 简单，安全的评论系统](https://github.com/walinejs/waline) 
