@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### July 14, 2025 
-- [解决办法：Chrome插件不能用，这些扩展程序不再受支持，因此已停用](https://github.com/Kenshin/simpread/discussions/6633) 
+- [解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用](https://github.com/Kenshin/simpread/discussions/6633) 
 ### July 12, 2025 
 - [DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat 免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实](https://github.com/DigitalPlatDev/FreeDomain) 
 ### July 11, 2025 

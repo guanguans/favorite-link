@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 11 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 13 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用</title>
+      <pubDate>Sun, 13 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/Kenshin/simpread/discussions/6633</link>
+      <guid>https://github.com/Kenshin/simpread/discussions/6633</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Kenshin/simpread/discussions/6633" target="_blank">解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Kenshin/simpread/discussions/6633" target="_blank">https://github.com/Kenshin/simpread/discussions/6633</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>DigitalPlatDev/FreeDomain: 欢迎来到 DigitalPlat 免费域名，我们相信每个人都应该拥有数字身份。无论你是个人还是组织，我们都提供免费的域名，让你的想法变成现实</title>
       <pubDate>Fri, 11 Jul 2025 16:00:00 +0000</pubDate>
