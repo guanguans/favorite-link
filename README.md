@@ -18,7 +18,7 @@
 - [ekvedaras/class-factory: 🏭 通过构造函数参数创建对象的工厂](https://github.com/ekvedaras/class-factory) 
 - [nabilhassen/larasense: Larasense 是一个专门的，以 Laravel 为中心的内容聚合器，旨在 Laravel 开发人员掌握 Laravel 生态系统的最新新闻，更新和趋势。](https://github.com/nabilhassen/larasense) 
 - [livewire/flux: 官方 LiveWire UI 组件库](https://github.com/livewire/flux) 
-- [hosmelq/sse-php: 使用PHP消费服务器量事件（SSE）。](https://github.com/hosmelq/sse-php) 
+- [hosmelq/sse-php: 使用 PHP 消费服务器量事件 (SSE)。](https://github.com/hosmelq/sse-php) 
 ### July 14, 2025 
 - [解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用](https://github.com/Kenshin/simpread/discussions/6633) 
 ### July 12, 2025 
