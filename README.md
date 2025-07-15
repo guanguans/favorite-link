@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### July 15, 2025 
+- [bytedance/gg: 字节跳动开发的 Go 语言泛型基础库，基于 Go 1.18+ 泛型特性，提供高效、类型安全且丰富的泛型数据结构与工具函数。](https://github.com/bytedance/gg) 
 ### July 14, 2025 
 - [解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用](https://github.com/Kenshin/simpread/discussions/6633) 
 ### July 12, 2025 
