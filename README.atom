@@ -96,6 +96,22 @@ Messenger 模式和同行导航功能的 PHPSTORM/INTELLIJ 插件，可增强 PH
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[livewire/flux: 官方 LiveWire UI 组件库]]></title>
+    <published>2025-07-13T00:00:00+00:00</published>
+    <updated>2025-07-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/livewire/flux"/>
+    <id>https://github.com/livewire/flux</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/livewire/flux" target="_blank">livewire/flux: 官方 LiveWire UI 组件库</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/livewire/flux" target="_blank">https://github.com/livewire/flux</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用]]></title>
     <published>2025-07-13T16:00:00+00:00</published>
     <updated>2025-07-13T16:00:00+00:00</updated>

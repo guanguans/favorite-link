@@ -17,7 +17,7 @@
 - [micoli/intellij-php-companion: 具有高级导航和代码分析功能，尤其是针对 Symfony Messenger 模式和同行导航功能的 PHPSTORM/INTELLIJ 插件，可增强 PHP 开发工作流程。](https://github.com/micoli/intellij-php-companion) 
 - [ekvedaras/class-factory: 🏭 通过构造函数参数创建对象的工厂](https://github.com/ekvedaras/class-factory) 
 - [nabilhassen/larasense: Larasense 是一个专门的，以 Laravel 为中心的内容聚合器，旨在 Laravel 开发人员掌握 Laravel 生态系统的最新新闻，更新和趋势。](https://github.com/nabilhassen/larasense) 
-- [livewire/flux: 官方LiveWire UI组件库](https://github.com/livewire/flux) 
+- [livewire/flux: 官方 LiveWire UI 组件库](https://github.com/livewire/flux) 
 ### July 14, 2025 
 - [解决办法：Chrome 插件不能用，这些扩展程序不再受支持，因此已停用](https://github.com/Kenshin/simpread/discussions/6633) 
 ### July 12, 2025 
