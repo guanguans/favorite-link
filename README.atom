@@ -77,6 +77,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sarulabs/di: Go (Golang) 中的依赖注入容器]]></title>
+    <published>2025-07-17T08:00:00+00:00</published>
+    <updated>2025-07-17T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="Golang) 中的依赖注入容器](https://github.com/sarulabs/di"/>
+    <id>Golang) 中的依赖注入容器](https://github.com/sarulabs/di</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="Golang)%20%E4%B8%AD%E7%9A%84%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%AE%B9%E5%99%A8](https://github.com/sarulabs/di" target="_blank">sarulabs/di: Go (Golang) 中的依赖注入容器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="Golang)%20%E4%B8%AD%E7%9A%84%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%AE%B9%E5%99%A8](https://github.com/sarulabs/di" target="_blank">Golang)
+中的依赖注入容器](https://github.com/sarulabs/di</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。]]></title>
     <published>2025-07-16T16:00:00+00:00</published>
     <updated>2025-07-16T16:00:00+00:00</updated>
