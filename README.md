@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### July 19, 2025 
-- [ArdANANG/MacUpdateGuard: macOS系统更新管理工具](https://github.com/ArdANANG/MacUpdateGuard) 
+- [ArdANANG/MacUpdateGuard: macOS 系统更新管理工具](https://github.com/ArdANANG/MacUpdateGuard) 
 ### July 17, 2025 
 - [ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。](https://github.com/ramustha/unix-timestamp) 
 - [AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。](https://github.com/AtomMaterialUI/color-highlighter) 

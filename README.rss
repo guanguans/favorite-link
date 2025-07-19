@@ -3,15 +3,28 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 17 Jul 2025 02:36:43 +0800</pubDate>
+    <pubDate>Fri, 18 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
+      <title>ArdANANG/MacUpdateGuard: macOS 系统更新管理工具</title>
+      <pubDate>Fri, 18 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ArdANANG/MacUpdateGuard</link>
+      <guid>https://github.com/ArdANANG/MacUpdateGuard</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ArdANANG/MacUpdateGuard" target="_blank">ArdANANG/MacUpdateGuard: macOS 系统更新管理工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ArdANANG/MacUpdateGuard" target="_blank">https://github.com/ArdANANG/MacUpdateGuard</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。</title>
-      <pubDate>Thu, 17 Jul 2025 02:36:43 +0800</pubDate>
+      <pubDate>Wed, 16 Jul 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/ramustha/unix-timestamp</link>
       <guid>https://github.com/ramustha/unix-timestamp</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ramustha/unix-timestamp" target="_blank">ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。</a>
@@ -24,7 +37,7 @@
     </item>
     <item>
       <title>AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。</title>
-      <pubDate>Thu, 17 Jul 2025 02:36:43 +0800</pubDate>
+      <pubDate>Wed, 16 Jul 2025 08:00:00 +0000</pubDate>
       <link>https://github.com/AtomMaterialUI/color-highlighter</link>
       <guid>https://github.com/AtomMaterialUI/color-highlighter</guid>
       <content:encoded><![CDATA[<a href="https://github.com/AtomMaterialUI/color-highlighter" target="_blank">AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。</a>
@@ -37,7 +50,7 @@
     </item>
     <item>
       <title>dotenv-linter/dotenv-linter: ⚡️ 针对. env 文件的闪电般快速的代码检查工具。用 Rust 编写 🦀</title>
-      <pubDate>Thu, 17 Jul 2025 02:36:43 +0800</pubDate>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
       <link>https://github.com/dotenv-linter/dotenv-linter</link>
       <guid>https://github.com/dotenv-linter/dotenv-linter</guid>
       <content:encoded><![CDATA[<a href="https://github.com/dotenv-linter/dotenv-linter" target="_blank">dotenv-linter/dotenv-linter: ⚡️ 针对. env 文件的闪电般快速的代码检查工具。用 Rust 编写 🦀</a>

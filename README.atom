@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-07-17T02:36:43+08:00</updated>
+  <updated>2025-07-18T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -13,9 +13,25 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ArdANANG/MacUpdateGuard: macOS 系统更新管理工具]]></title>
+    <published>2025-07-18T16:00:00+00:00</published>
+    <updated>2025-07-18T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ArdANANG/MacUpdateGuard"/>
+    <id>https://github.com/ArdANANG/MacUpdateGuard</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ArdANANG/MacUpdateGuard" target="_blank">ArdANANG/MacUpdateGuard: macOS 系统更新管理工具</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ArdANANG/MacUpdateGuard" target="_blank">https://github.com/ArdANANG/MacUpdateGuard</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。]]></title>
-    <published>2025-07-17T02:36:43+08:00</published>
-    <updated>2025-07-17T02:36:43+08:00</updated>
+    <published>2025-07-16T16:00:00+00:00</published>
+    <updated>2025-07-16T16:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ramustha/unix-timestamp"/>
     <id>https://github.com/ramustha/unix-timestamp</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -30,8 +46,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。]]></title>
-    <published>2025-07-17T02:36:43+08:00</published>
-    <updated>2025-07-17T02:36:43+08:00</updated>
+    <published>2025-07-16T08:00:00+00:00</published>
+    <updated>2025-07-16T08:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/AtomMaterialUI/color-highlighter"/>
     <id>https://github.com/AtomMaterialUI/color-highlighter</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -47,8 +63,8 @@
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dotenv-linter/dotenv-linter: ⚡️ 针对. env 文件的闪电般快速的代码检查工具。用 Rust 编写 🦀]]></title>
-    <published>2025-07-17T02:36:43+08:00</published>
-    <updated>2025-07-17T02:36:43+08:00</updated>
+    <published>2025-07-16T00:00:00+00:00</published>
+    <updated>2025-07-16T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/dotenv-linter/dotenv-linter"/>
     <id>https://github.com/dotenv-linter/dotenv-linter</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
