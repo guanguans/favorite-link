@@ -45,6 +45,38 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[opencode-ai/opencode: 一个强大的 AI 编码代理。为终端而建。]]></title>
+    <published>2025-07-18T00:00:00+00:00</published>
+    <updated>2025-07-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/opencode-ai/opencode"/>
+    <id>https://github.com/opencode-ai/opencode</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/opencode-ai/opencode" target="_blank">opencode-ai/opencode: 一个强大的 AI 编码代理。为终端而建。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/opencode-ai/opencode" target="_blank">https://github.com/opencode-ai/opencode</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sst/opencode: 为终端构建的 AI 编码代理。]]></title>
+    <published>2025-07-17T16:00:00+00:00</published>
+    <updated>2025-07-17T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sst/opencode"/>
+    <id>https://github.com/sst/opencode</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sst/opencode" target="_blank">sst/opencode: 为终端构建的 AI 编码代理。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sst/opencode" target="_blank">https://github.com/sst/opencode</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。]]></title>
     <published>2025-07-16T16:00:00+00:00</published>
     <updated>2025-07-16T16:00:00+00:00</updated>

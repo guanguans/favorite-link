@@ -13,8 +13,8 @@
 ### July 19, 2025 
 - [ArdANANG/MacUpdateGuard: macOS 系统更新管理工具](https://github.com/ArdANANG/MacUpdateGuard) 
 - [linearmouse/linearmouse: 适用于 Mac 的鼠标和触控板工具。](https://github.com/linearmouse/linearmouse) 
-- [opencode-ai/opencode: 一个强大的AI编码代理。为终端而建。](https://github.com/opencode-ai/opencode) 
-- [sst/opencode: 为终端构建的AI编码代理。](https://github.com/sst/opencode) 
+- [opencode-ai/opencode: 一个强大的 AI 编码代理。为终端而建。](https://github.com/opencode-ai/opencode) 
+- [sst/opencode: 为终端构建的 AI 编码代理。](https://github.com/sst/opencode) 
 ### July 17, 2025 
 - [ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。](https://github.com/ramustha/unix-timestamp) 
 - [AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。](https://github.com/AtomMaterialUI/color-highlighter) 
