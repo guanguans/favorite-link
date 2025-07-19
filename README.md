@@ -16,6 +16,7 @@
 - [opencode-ai/opencode: 一个强大的 AI 编码代理。为终端而建。](https://github.com/opencode-ai/opencode) 
 - [sst/opencode: 为终端构建的 AI 编码代理。](https://github.com/sst/opencode) 
 - [sarulabs/di: Go (Golang) 中的依赖注入容器](https://github.com/sarulabs/di) 
+- [JustSteveKing/resume-php: Resume PHP 是一个库，提供了一种类型安全的方式来构建和处理遵循 JSON Resume 模式的简历。](https://github.com/JustSteveKing/resume-php) 
 ### July 17, 2025 
 - [ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。](https://github.com/ramustha/unix-timestamp) 
 - [AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。](https://github.com/AtomMaterialUI/color-highlighter) 
