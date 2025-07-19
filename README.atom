@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[linearmouse/linearmouse: 适用于 Mac 的鼠标和触控板工具。]]></title>
+    <published>2025-07-18T08:00:00+00:00</published>
+    <updated>2025-07-18T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/linearmouse/linearmouse"/>
+    <id>https://github.com/linearmouse/linearmouse</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/linearmouse/linearmouse" target="_blank">linearmouse/linearmouse: 适用于 Mac 的鼠标和触控板工具。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/linearmouse/linearmouse" target="_blank">https://github.com/linearmouse/linearmouse</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。]]></title>
     <published>2025-07-16T16:00:00+00:00</published>
     <updated>2025-07-16T16:00:00+00:00</updated>
