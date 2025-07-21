@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### July 21, 2025 
+- [Kk-ships/dnsforwarder: 一个用 Go 编写的轻量级 DNS 转发器。它旨在易于运行，并且如果您想加快 DNS 查询速度或减少上游服务器的负载，它会非常方便。](https://github.com/Kk-ships/dnsforwarder) 
 ### July 19, 2025 
 - [ArdANANG/MacUpdateGuard: macOS 系统更新管理工具](https://github.com/ArdANANG/MacUpdateGuard) 
 - [linearmouse/linearmouse: 适用于 Mac 的鼠标和触控板工具。](https://github.com/linearmouse/linearmouse) 
