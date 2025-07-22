@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 20 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 21 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ibnaleem/gosearch: 🔍 在 300 多个网站上搜索任何人的数字足迹</title>
+      <pubDate>Mon, 21 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ibnaleem/gosearch</link>
+      <guid>https://github.com/ibnaleem/gosearch</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ibnaleem/gosearch" target="_blank">ibnaleem/gosearch: 🔍 在 300 多个网站上搜索任何人的数字足迹</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ibnaleem/gosearch" target="_blank">https://github.com/ibnaleem/gosearch</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Kk-ships/dnsforwarder: 一个用 Go 编写的轻量级 DNS 转发器。它旨在易于运行，并且如果您想加快 DNS 查询速度或减少上游服务器的负载，它会非常方便。</title>
       <pubDate>Sun, 20 Jul 2025 16:00:00 +0000</pubDate>

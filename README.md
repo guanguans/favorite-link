@@ -13,7 +13,7 @@
 
 
 ### July 22, 2025 
-- [ibnaleem/gosearch: 🔍 在300多个网站上搜索任何人的数字足迹](https://github.com/ibnaleem/gosearch) 
+- [ibnaleem/gosearch: 🔍 在 300 多个网站上搜索任何人的数字足迹](https://github.com/ibnaleem/gosearch) 
 ### July 21, 2025 
 - [Kk-ships/dnsforwarder: 一个用 Go 编写的轻量级 DNS 转发器。它旨在易于运行，并且如果您想加快 DNS 查询速度或减少上游服务器的负载，它会非常方便。](https://github.com/Kk-ships/dnsforwarder) 
 ### July 19, 2025 
