@@ -30,6 +30,23 @@ MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[kayedspace/laravel-n8n: 一个完整、富有表现力且流畅的 Laravel 客户端，用于 n8n 公共 REST API 和 Webhooks 触发。]]></title>
+    <published>2025-07-22T08:00:00+00:00</published>
+    <updated>2025-07-22T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/kayedspace/laravel-n8n"/>
+    <id>https://github.com/kayedspace/laravel-n8n</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/kayedspace/laravel-n8n" target="_blank">kayedspace/laravel-n8n: 一个完整、富有表现力且流畅的 Laravel 客户端，用于 n8n
+公共 REST API 和 Webhooks 触发。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/kayedspace/laravel-n8n" target="_blank">https://github.com/kayedspace/laravel-n8n</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ibnaleem/gosearch: 🔍 在 300 多个网站上搜索任何人的数字足迹]]></title>
     <published>2025-07-21T16:00:00+00:00</published>
     <updated>2025-07-21T16:00:00+00:00</updated>
