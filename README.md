@@ -17,6 +17,7 @@
 - [KrishKrosh/TrackWeight: TrackWeight 是一款 macOS 应用程序，通过利用现代 MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触控板变成一个精确的称重工具。](https://github.com/KrishKrosh/TrackWeight) 
 - [kayedspace/laravel-n8n: 一个完整、富有表现力且流畅的 Laravel 客户端，用于 n8n 公共 REST API 和 Webhooks 触发。](https://github.com/kayedspace/laravel-n8n) 
 - [pad-ws/pad.ws: 一款在浏览器中充当开发环境的白板应用程序](https://github.com/pad-ws/pad.ws) 
+- [QwenLM/qwen-code: Qwen Code 是一个基于 Gemini CLI（请参考此文档了解更多详情）改编的命令行 AI 工作流工具，针对 Qwen3-Coder 模型进行了优化，并增强了解析器支持与工具支持。](https://github.com/QwenLM/qwen-code) 
 ### July 22, 2025 
 - [ibnaleem/gosearch: 🔍 在 300 多个网站上搜索任何人的数字足迹](https://github.com/ibnaleem/gosearch) 
 ### July 21, 2025 
