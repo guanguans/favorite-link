@@ -12,6 +12,9 @@
 
 
 
+
+### July 23, 2025 
+- [KrishKrosh/TrackWeight: TrackWeight 是一款 macOS 应用程序，通过利用现代 MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触控板变成一个精确的称重工具。](https://github.com/KrishKrosh/TrackWeight) 
 ### July 22, 2025 
 - [ibnaleem/gosearch: 🔍 在 300 多个网站上搜索任何人的数字足迹](https://github.com/ibnaleem/gosearch) 
 ### July 21, 2025 
