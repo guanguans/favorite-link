@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-07-22T16:00:00+00:00</updated>
+  <updated>2025-07-23T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[upstash/context7: Context7 MCP 服务器--LLM 和 AI 代码编辑器的最新代码文档]]></title>
+    <published>2025-07-23T16:00:00+00:00</published>
+    <updated>2025-07-23T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/upstash/context7"/>
+    <id>https://github.com/upstash/context7</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/upstash/context7" target="_blank">upstash/context7: Context7 MCP 服务器--LLM 和 AI
+代码编辑器的最新代码文档</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/upstash/context7" target="_blank">https://github.com/upstash/context7</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[KrishKrosh/TrackWeight: TrackWeight 是一款 macOS 应用程序，通过利用现代 MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触控板变成一个精确的称重工具。]]></title>
     <published>2025-07-22T16:00:00+00:00</published>

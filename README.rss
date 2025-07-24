@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 22 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 23 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>upstash/context7: Context7 MCP 服务器--LLM 和 AI 代码编辑器的最新代码文档</title>
+      <pubDate>Wed, 23 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/upstash/context7</link>
+      <guid>https://github.com/upstash/context7</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/upstash/context7" target="_blank">upstash/context7: Context7 MCP 服务器--LLM 和 AI 代码编辑器的最新代码文档</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/upstash/context7" target="_blank">https://github.com/upstash/context7</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>KrishKrosh/TrackWeight: TrackWeight 是一款 macOS 应用程序，通过利用现代 MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触控板变成一个精确的称重工具。</title>
       <pubDate>Tue, 22 Jul 2025 16:00:00 +0000</pubDate>
