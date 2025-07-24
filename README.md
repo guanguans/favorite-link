@@ -12,6 +12,7 @@
 
 ### July 24, 2025 
 - [upstash/context7: Context7 MCP 服务器--LLM 和 AI 代码编辑器的最新代码文档](https://github.com/upstash/context7) 
+- [toeverything/AFFiNE: 除了Notion和Miro，还可以有更多选择。AFFiNE（发音为[ə‘fain]）是一款下一代知识库，将规划、整理和创作融为一体。隐私优先，开源，可定制且随时可用。](https://github.com/toeverything/AFFiNE) 
 ### July 23, 2025 
 - [KrishKrosh/TrackWeight: TrackWeight 是一款 macOS 应用程序，通过利用现代 MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触控板变成一个精确的称重工具。](https://github.com/KrishKrosh/TrackWeight) 
 - [kayedspace/laravel-n8n: 一个完整、富有表现力且流畅的 Laravel 客户端，用于 n8n 公共 REST API 和 Webhooks 触发。](https://github.com/kayedspace/laravel-n8n) 
