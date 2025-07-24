@@ -49,6 +49,23 @@ Miro，还可以有更多选择。AFFiNE (发音为 [ə‘fain])
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sqlfluff/sqlfluff: 一个模块化的 SQL 语法检查器和自动格式化工具，支持多种方言和模板化代码。]]></title>
+    <published>2025-07-23T00:00:00+00:00</published>
+    <updated>2025-07-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sqlfluff/sqlfluff"/>
+    <id>https://github.com/sqlfluff/sqlfluff</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sqlfluff/sqlfluff" target="_blank">sqlfluff/sqlfluff: 一个模块化的 SQL
+语法检查器和自动格式化工具，支持多种方言和模板化代码。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sqlfluff/sqlfluff" target="_blank">https://github.com/sqlfluff/sqlfluff</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[KrishKrosh/TrackWeight: TrackWeight 是一款 macOS 应用程序，通过利用现代 MacBook 触控板内置的 Force Touch 压力传感器，将您的 MacBook 触控板变成一个精确的称重工具。]]></title>
     <published>2025-07-22T16:00:00+00:00</published>
     <updated>2025-07-22T16:00:00+00:00</updated>
