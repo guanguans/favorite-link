@@ -13,6 +13,7 @@
 
 ### July 25, 2025 
 - [kubawerlos/composer-smaller-lock: Composer 插件，用于保持 composer.lock 文件小而易于阅读。](https://github.com/kubawerlos/composer-smaller-lock) 
+- [ileeoyo/IDESync-VSCode-JetBrains: 一个同步系统，允许在VSCODE和JetBrains IDE之间无缝切换，同时保持当前文件和光标位置。](https://github.com/ileeoyo/IDESync-VSCode-JetBrains) 
 ### July 24, 2025 
 - [upstash/context7: Context7 MCP 服务器--LLM 和 AI 代码编辑器的最新代码文档](https://github.com/upstash/context7) 
 - [toeverything/AFFiNE: 除了 Notion 和 Miro，还可以有更多选择。AFFiNE (发音为 [ə‘fain]) 是一款下一代知识库，将规划、整理和创作融为一体。隐私优先，开源，可定制且随时可用。](https://github.com/toeverything/AFFiNE)
