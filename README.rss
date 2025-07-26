@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 24 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 25 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>mooxphp/moox: 这是 Moox 项目的 Monorepo。它是我们 Laravel 包和 Filament 插件生态系统的所在地，这些插件被开发用于构建 CMS、购物平台或其他网站或应用程序。</title>
+      <pubDate>Fri, 25 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/mooxphp/moox</link>
+      <guid>https://github.com/mooxphp/moox</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mooxphp/moox" target="_blank">mooxphp/moox: 这是 Moox 项目的 Monorepo。它是我们 Laravel 包和 Filament 插件生态系统的所在地，这些插件被开发用于构建 CMS、购物平台或其他网站或应用程序。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mooxphp/moox" target="_blank">https://github.com/mooxphp/moox</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>kubawerlos/composer-smaller-lock: Composer 插件，用于保持 composer.lock 文件小而易于阅读。</title>
       <pubDate>Thu, 24 Jul 2025 16:00:00 +0000</pubDate>
