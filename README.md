@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### July 26, 2025 
+- [mooxphp/moox: 这是Moox项目的Monorepo。它是我们Laravel包和Filament插件生态系统的所在地，这些插件被开发用于构建CMS、购物平台或其他网站或应用程序。](https://github.com/mooxphp/moox) 
 ### July 25, 2025 
 - [kubawerlos/composer-smaller-lock: Composer 插件，用于保持 composer.lock 文件小而易于阅读。](https://github.com/kubawerlos/composer-smaller-lock) 
 - [ileeoyo/IDESync-VSCode-JetBrains: 一个同步系统，允许在 VSCODE 和 JetBrains IDE 之间无缝切换，同时保持当前文件和光标位置。](https://github.com/ileeoyo/IDESync-VSCode-JetBrains) 
