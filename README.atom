@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[alperdrsnn/clime: 适用于 Go 的精美终端用户界面]]></title>
+    <published>2025-07-26T08:00:00+00:00</published>
+    <updated>2025-07-26T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/alperdrsnn/clime"/>
+    <id>https://github.com/alperdrsnn/clime</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/alperdrsnn/clime" target="_blank">alperdrsnn/clime: 适用于 Go 的精美终端用户界面</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/alperdrsnn/clime" target="_blank">https://github.com/alperdrsnn/clime</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mooxphp/moox: 这是 Moox 项目的 Monorepo。它是我们 Laravel 包和 Filament 插件生态系统的所在地，这些插件被开发用于构建 CMS、购物平台或其他网站或应用程序。]]></title>
     <published>2025-07-25T16:00:00+00:00</published>
     <updated>2025-07-25T16:00:00+00:00</updated>
