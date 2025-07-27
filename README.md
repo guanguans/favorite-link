@@ -15,6 +15,7 @@
 
 ### July 27, 2025 
 - [senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站](https://github.com/senshinya/MoonTV) 
+- [alperdrsnn/clime: 适用于 Go 的精美终端用户界面](https://github.com/alperdrsnn/clime) 
 ### July 26, 2025 
 - [mooxphp/moox: 这是 Moox 项目的 Monorepo。它是我们 Laravel 包和 Filament 插件生态系统的所在地，这些插件被开发用于构建 CMS、购物平台或其他网站或应用程序。](https://github.com/mooxphp/moox) 
 ### July 25, 2025 
