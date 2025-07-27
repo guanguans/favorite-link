@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-07-25T16:00:00+00:00</updated>
+  <updated>2025-07-26T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,22 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站]]></title>
+    <published>2025-07-26T16:00:00+00:00</published>
+    <updated>2025-07-26T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/senshinya/MoonTV"/>
+    <id>https://github.com/senshinya/MoonTV</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/senshinya/MoonTV" target="_blank">senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/senshinya/MoonTV" target="_blank">https://github.com/senshinya/MoonTV</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mooxphp/moox: 这是 Moox 项目的 Monorepo。它是我们 Laravel 包和 Filament 插件生态系统的所在地，这些插件被开发用于构建 CMS、购物平台或其他网站或应用程序。]]></title>
     <published>2025-07-25T16:00:00+00:00</published>
