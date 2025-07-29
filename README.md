@@ -13,6 +13,9 @@
 
 
 
+
+### July 29, 2025 
+- [oxc-project/oxc: 用Rust编写的JavaScript工具集。](https://github.com/oxc-project/oxc) 
 ### July 27, 2025 
 - [senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站](https://github.com/senshinya/MoonTV) 
 - [alperdrsnn/clime: 适用于 Go 的精美终端用户界面](https://github.com/alperdrsnn/clime) 
