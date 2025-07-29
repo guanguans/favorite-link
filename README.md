@@ -12,6 +12,7 @@
 
 ### July 29, 2025 
 - [oxc-project/oxc: 用 Rust 编写的 JavaScript 工具集。](https://github.com/oxc-project/oxc) 
+- [biomejs/biome: 一个用于网页项目的工具链，旨在提供维护功能。Biome 提供格式化工具和代码检查工具，可以通过命令行和语言服务器协议使用。](https://github.com/biomejs/biome) 
 ### July 27, 2025 
 - [senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站](https://github.com/senshinya/MoonTV) 
 - [alperdrsnn/clime: 适用于 Go 的精美终端用户界面](https://github.com/alperdrsnn/clime) 
