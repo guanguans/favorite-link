@@ -14,7 +14,7 @@
 - [oxc-project/oxc: 用 Rust 编写的 JavaScript 工具集。](https://github.com/oxc-project/oxc) 
 - [biomejs/biome: 一个用于网页项目的工具链，旨在提供维护功能。Biome 提供格式化工具和代码检查工具，可以通过命令行和语言服务器协议使用。](https://github.com/biomejs/biome) 
 - [Grazulex/laravel-flowpipe: Laravel Flowpipe 是 Laravel 内置 Pipeline 软件包的一个功能强大的现代化替代品，它提供了可组合、可跟踪、可声明的流水线。它非常适合构建复杂的业务工作流、数据处理管道、用户注册流、API 集成，以及任何需要可靠、可维护、可测试的分步处理的场景。](https://github.com/Grazulex/laravel-flowpipe) 
-- [LGUG2Z/komorebi: Komorebi是一款瓷砖窗口管理器，可作为Windows 10及更高版本Microsoft桌面窗口管理器的扩展。](https://github.com/LGUG2Z/komorebi) 
+- [LGUG2Z/komorebi: Komorebi 是一款瓷砖窗口管理器，可作为 Windows 10 及更高版本 Microsoft 桌面窗口管理器的扩展。](https://github.com/LGUG2Z/komorebi) 
 ### July 27, 2025 
 - [senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站](https://github.com/senshinya/MoonTV) 
 - [alperdrsnn/clime: 适用于 Go 的精美终端用户界面](https://github.com/alperdrsnn/clime) 
