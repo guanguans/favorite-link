@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### July 29, 2025 
-- [oxc-project/oxc: 用Rust编写的JavaScript工具集。](https://github.com/oxc-project/oxc) 
+- [oxc-project/oxc: 用 Rust 编写的 JavaScript 工具集。](https://github.com/oxc-project/oxc) 
 ### July 27, 2025 
 - [senshinya/MoonTV: 一个开箱即用的、跨平台的影视聚合播放站](https://github.com/senshinya/MoonTV) 
 - [alperdrsnn/clime: 适用于 Go 的精美终端用户界面](https://github.com/alperdrsnn/clime) 
