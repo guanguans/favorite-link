@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 28 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 29 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写</title>
+      <pubDate>Tue, 29 Jul 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/samuelcolvin/watchfiles</link>
+      <guid>https://github.com/samuelcolvin/watchfiles</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/samuelcolvin/watchfiles" target="_blank">samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/samuelcolvin/watchfiles" target="_blank">https://github.com/samuelcolvin/watchfiles</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>oxc-project/oxc: 用 Rust 编写的 JavaScript 工具集。</title>
       <pubDate>Mon, 28 Jul 2025 16:00:00 +0000</pubDate>
