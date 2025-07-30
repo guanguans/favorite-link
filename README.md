@@ -13,6 +13,7 @@
 
 ### July 30, 2025 
 - [samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写](https://github.com/samuelcolvin/watchfiles) 
+- [Done-0/fuck-u-code: 屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。](https://github.com/Done-0/fuck-u-code) 
 ### July 29, 2025 
 - [oxc-project/oxc: 用 Rust 编写的 JavaScript 工具集。](https://github.com/oxc-project/oxc) 
 - [biomejs/biome: 一个用于网页项目的工具链，旨在提供维护功能。Biome 提供格式化工具和代码检查工具，可以通过命令行和语言服务器协议使用。](https://github.com/biomejs/biome) 
