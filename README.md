@@ -16,6 +16,7 @@
 - [noborus/ov: 功能丰富的基于终端的文本查看器。](https://github.com/noborus/ov) 
 - [0xlane/wechat-dump-rs: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。](https://github.com/0xlane/wechat-dump-rs) 
 - [charmbracelet/crush: 你最喜欢的终端的迷人的人工智能编码代理](https://github.com/charmbracelet/crush) 
+- [overtrue/conventional-pr-title: 一个 GitHub Action，利用 AI 自动建议或更新 PR 标题，使其符合 Conventional Commits 标准。](https://github.com/overtrue/conventional-pr-title) 
 ### July 30, 2025 
 - [samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写](https://github.com/samuelcolvin/watchfiles) 
 - [Done-0/fuck-u-code: 屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。](https://github.com/Done-0/fuck-u-code)
