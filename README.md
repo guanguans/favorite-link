@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### July 31, 2025 
+- [noborus/ov: 功能丰富的基于终端的文本查看器。](https://github.com/noborus/ov) 
 ### July 30, 2025 
 - [samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写](https://github.com/samuelcolvin/watchfiles) 
 - [Done-0/fuck-u-code: 屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。](https://github.com/Done-0/fuck-u-code)
