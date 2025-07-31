@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[0xlane/wechat-dump-rs: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。]]></title>
+    <published>2025-07-30T08:00:00+00:00</published>
+    <updated>2025-07-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/0xlane/wechat-dump-rs"/>
+    <id>https://github.com/0xlane/wechat-dump-rs</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/0xlane/wechat-dump-rs" target="_blank">0xlane/wechat-dump-rs: 该工具用于导出正在运行中的微信进程的 key
+并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/0xlane/wechat-dump-rs" target="_blank">https://github.com/0xlane/wechat-dump-rs</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写]]></title>
     <published>2025-07-29T16:00:00+00:00</published>
     <updated>2025-07-29T16:00:00+00:00</updated>

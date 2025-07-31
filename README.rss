@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>0xlane/wechat-dump-rs: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。</title>
+      <pubDate>Wed, 30 Jul 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/0xlane/wechat-dump-rs</link>
+      <guid>https://github.com/0xlane/wechat-dump-rs</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/0xlane/wechat-dump-rs" target="_blank">0xlane/wechat-dump-rs: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/0xlane/wechat-dump-rs" target="_blank">https://github.com/0xlane/wechat-dump-rs</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>samuelcolvin/watchfiles: 简单，现代和快速的文件监视和代码重新加载 Python，用 Rust 编写</title>
       <pubDate>Tue, 29 Jul 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/samuelcolvin/watchfiles</link>
