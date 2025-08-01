@@ -15,6 +15,7 @@
 
 ### August 1, 2025 
 - [idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui) 
+- [Cretezy/lazyjj: Jujutsu/jj 的 TUI。使用 Rust 和 Ratatui 构建。与 jj CLI 交互。](https://github.com/Cretezy/lazyjj) 
 ### July 31, 2025 
 - [noborus/ov: 功能丰富的基于终端的文本查看器。](https://github.com/noborus/ov) 
 - [0xlane/wechat-dump-rs: 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。](https://github.com/0xlane/wechat-dump-rs) 
