@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 30 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 31 Jul 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。</title>
+      <pubDate>Thu, 31 Jul 2025 16:00:00 +0000</pubDate>
+      <link>jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui</link>
+      <guid isPermaLink="false">jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui</guid>
+      <content:encoded><![CDATA[<a href="jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui" target="_blank">idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui" target="_blank">jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>noborus/ov: 功能丰富的基于终端的文本查看器。</title>
       <pubDate>Wed, 30 Jul 2025 16:00:00 +0000</pubDate>
