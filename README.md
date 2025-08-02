@@ -13,6 +13,9 @@
 
 
 
+
+### August 2, 2025 
+- [wanniwa/EditorJumper: EditorJumper是一个Jetbrains IDE插件，可让您在Jetbrains IDE和其他流行的代码编辑器（例如VS Code，Cursor，Trae和Windsurf）之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper) 
 ### August 1, 2025 
 - [idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui) 
 - [Cretezy/lazyjj: Jujutsu/jj 的 TUI。使用 Rust 和 Ratatui 构建。与 jj CLI 交互。](https://github.com/Cretezy/lazyjj) 
