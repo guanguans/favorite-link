@@ -32,6 +32,24 @@ Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[yinzhenyu-su/weekly-git-summary: 一个跨平台的 CLI 工具，用于生成 Git 提交记录的周报汇总。支持多种输出格式 (文本、JSON、Markdown、HTML)，自动扫描项目目录并提取指定时间范围内的提交历史。]]></title>
+    <published>2025-08-01T08:00:00+00:00</published>
+    <updated>2025-08-01T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="文本、JSON、Markdown、HTML)，自动扫描项目目录并提取指定时间范围内的提交历史。](https://github.com/yinzhenyu-su/weekly-git-summary"/>
+    <id>文本、JSON、Markdown、HTML)，自动扫描项目目录并提取指定时间范围内的提交历史。](https://github.com/yinzhenyu-su/weekly-git-summary</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E6%96%87%E6%9C%AC%E3%80%81JSON%E3%80%81Markdown%E3%80%81HTML)%EF%BC%8C%E8%87%AA%E5%8A%A8%E6%89%AB%E6%8F%8F%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E5%B9%B6%E6%8F%90%E5%8F%96%E6%8C%87%E5%AE%9A%E6%97%B6%E9%97%B4%E8%8C%83%E5%9B%B4%E5%86%85%E7%9A%84%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2%E3%80%82](https://github.com/yinzhenyu-su/weekly-git-summary" target="_blank">yinzhenyu-su/weekly-git-summary: 一个跨平台的 CLI 工具，用于生成
+Git 提交记录的周报汇总。支持多种输出格式
+(文本、JSON、Markdown、HTML)，自动扫描项目目录并提取指定时间范围内的提交历史。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E6%96%87%E6%9C%AC%E3%80%81JSON%E3%80%81Markdown%E3%80%81HTML)%EF%BC%8C%E8%87%AA%E5%8A%A8%E6%89%AB%E6%8F%8F%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E5%B9%B6%E6%8F%90%E5%8F%96%E6%8C%87%E5%AE%9A%E6%97%B6%E9%97%B4%E8%8C%83%E5%9B%B4%E5%86%85%E7%9A%84%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2%E3%80%82](https://github.com/yinzhenyu-su/weekly-git-summary" target="_blank">文本、JSON、Markdown、HTML)，自动扫描项目目录并提取指定时间范围内的提交历史。](https://github.com/yinzhenyu-su/weekly-git-summary</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。]]></title>
     <published>2025-07-31T16:00:00+00:00</published>
     <updated>2025-07-31T16:00:00+00:00</updated>
