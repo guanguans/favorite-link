@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-07-31T16:00:00+00:00</updated>
+  <updated>2025-08-01T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[wanniwa/EditorJumper: EditorJumper 是一个 Jetbrains IDE 插件，可让您在 Jetbrains IDE 和其他流行的代码编辑器 (例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。]]></title>
+    <published>2025-08-01T16:00:00+00:00</published>
+    <updated>2025-08-01T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper"/>
+    <id>例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E4%BE%8B%E5%A6%82%20VS%20Code%EF%BC%8CCursor%EF%BC%8CTrae%20%E5%92%8C%20Windsurf)%20%E4%B9%8B%E9%97%B4%E6%97%A0%E7%BC%9D%E8%B7%B3%E8%B7%83%E3%80%82%E5%AE%83%E4%BF%9D%E6%8C%81%E6%82%A8%E7%9A%84%E5%85%89%E6%A0%87%E4%BD%8D%E7%BD%AE%E5%92%8C%E7%BC%96%E8%BE%91%E7%8E%AF%E5%A2%83%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%A4%A7%E5%A4%A7%E6%8F%90%E9%AB%98%E4%BA%86%E5%A4%9A%E7%BC%96%E8%BE%91%E5%99%A8%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E5%8F%91%E5%B1%95%E6%95%88%E7%8E%87%E3%80%82](https://github.com/wanniwa/EditorJumper" target="_blank">wanniwa/EditorJumper: EditorJumper 是一个 Jetbrains
+IDE 插件，可让您在 Jetbrains IDE 和其他流行的代码编辑器 (例如 VS Code，Cursor，Trae 和
+Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E4%BE%8B%E5%A6%82%20VS%20Code%EF%BC%8CCursor%EF%BC%8CTrae%20%E5%92%8C%20Windsurf)%20%E4%B9%8B%E9%97%B4%E6%97%A0%E7%BC%9D%E8%B7%B3%E8%B7%83%E3%80%82%E5%AE%83%E4%BF%9D%E6%8C%81%E6%82%A8%E7%9A%84%E5%85%89%E6%A0%87%E4%BD%8D%E7%BD%AE%E5%92%8C%E7%BC%96%E8%BE%91%E7%8E%AF%E5%A2%83%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%A4%A7%E5%A4%A7%E6%8F%90%E9%AB%98%E4%BA%86%E5%A4%9A%E7%BC%96%E8%BE%91%E5%99%A8%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E5%8F%91%E5%B1%95%E6%95%88%E7%8E%87%E3%80%82](https://github.com/wanniwa/EditorJumper" target="_blank">例如 VS Code，Cursor，Trae 和 Windsurf)
+之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。]]></title>
     <published>2025-07-31T16:00:00+00:00</published>

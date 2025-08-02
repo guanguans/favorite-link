@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 31 Jul 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 01 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>wanniwa/EditorJumper: EditorJumper 是一个 Jetbrains IDE 插件，可让您在 Jetbrains IDE 和其他流行的代码编辑器 (例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。</title>
+      <pubDate>Fri, 01 Aug 2025 16:00:00 +0000</pubDate>
+      <link>例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper</link>
+      <guid isPermaLink="false">例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper</guid>
+      <content:encoded><![CDATA[<a href="例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper" target="_blank">wanniwa/EditorJumper: EditorJumper 是一个 Jetbrains IDE 插件，可让您在 Jetbrains IDE 和其他流行的代码编辑器 (例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper" target="_blank">例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。</title>
       <pubDate>Thu, 31 Jul 2025 16:00:00 +0000</pubDate>
