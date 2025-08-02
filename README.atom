@@ -66,6 +66,25 @@ Git 提交记录的周报汇总。支持多种输出格式
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sansan0/TrendRadar: 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，1 分钟部署完毕，支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架]]></title>
+    <published>2025-07-31T16:00:00+00:00</published>
+    <updated>2025-07-31T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sansan0/TrendRadar"/>
+    <id>https://github.com/sansan0/TrendRadar</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sansan0/TrendRadar" target="_blank">sansan0/TrendRadar: 🎯 告别信息过载，只看真正关心的新闻 -
+多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35
+个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，1 分钟部署完毕，支持 docker
+部署。⭐ 让算法为你服务，而非被算法绑架</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sansan0/TrendRadar" target="_blank">https://github.com/sansan0/TrendRadar</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。]]></title>
     <published>2025-07-31T16:00:00+00:00</published>
     <updated>2025-07-31T16:00:00+00:00</updated>
