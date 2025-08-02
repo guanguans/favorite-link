@@ -16,7 +16,7 @@
 - [WXRIW/Lyricify-App: 一款为 Spotify 等各种应用提供滚动歌词的软件。](https://github.com/WXRIW/Lyricify-App) 
 - [sansan0/TrendRadar: 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，1 分钟部署完毕，支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架](https://github.com/sansan0/TrendRadar) 
 - [whoeevee/EeveeSpotify: 一个像 Spotilife 一样免费获取 Spotify Premium 的技巧](https://github.com/whoeevee/EeveeSpotify) 
-- [evilmartians/lefthook: Node.js，Ruby，Python和许多其他类型的项目的Git Hooks经理。](https://github.com/evilmartians/lefthook) 
+- [evilmartians/lefthook: Node.js，Ruby，Python 和许多其他类型的项目的 Git Hooks 经理。](https://github.com/evilmartians/lefthook) 
 ### August 1, 2025 
 - [idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。](https://github.com/idursun/jjui) 
 - [Cretezy/lazyjj: Jujutsu/jj 的 TUI。使用 Rust 和 Ratatui 构建。与 jj CLI 交互。](https://github.com/Cretezy/lazyjj) 
