@@ -85,6 +85,23 @@ Git 提交记录的周报汇总。支持多种输出格式
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[whoeevee/EeveeSpotify: 一个像 Spotilife 一样免费获取 Spotify Premium 的技巧]]></title>
+    <published>2025-07-31T08:00:00+00:00</published>
+    <updated>2025-07-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/whoeevee/EeveeSpotify"/>
+    <id>https://github.com/whoeevee/EeveeSpotify</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/whoeevee/EeveeSpotify" target="_blank">whoeevee/EeveeSpotify: 一个像 Spotilife 一样免费获取 Spotify
+Premium 的技巧</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/whoeevee/EeveeSpotify" target="_blank">https://github.com/whoeevee/EeveeSpotify</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[idursun/jjui: Jujutsu UI (jjui) 是一个用于与 Jujutsu 版本控制系统交互的文本用户界面 (TUI)。]]></title>
     <published>2025-07-31T16:00:00+00:00</published>
     <updated>2025-07-31T16:00:00+00:00</updated>
