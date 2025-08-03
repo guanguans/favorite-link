@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### August 3, 2025 
+- [favonia/cloudflare-ddns: 一款功能丰富且健壮的 Cloudflare DDNS 更新器，占用空间小。该程序将检测您机器的公网 IP 地址，并使用 Cloudflare API 更新 DNS 记录。](https://github.com/favonia/cloudflare-ddns) 
 ### August 2, 2025 
 - [wanniwa/EditorJumper: EditorJumper 是一个 Jetbrains IDE 插件，可让您在 Jetbrains IDE 和其他流行的代码编辑器 (例如 VS Code，Cursor，Trae 和 Windsurf) 之间无缝跳跃。它保持您的光标位置和编辑环境，从而大大提高了多编辑器环境中的发展效率。](https://github.com/wanniwa/EditorJumper) 
 - [yinzhenyu-su/weekly-git-summary: 一个跨平台的 CLI 工具，用于生成 Git 提交记录的周报汇总。支持多种输出格式 (文本、JSON、Markdown、HTML)，自动扫描项目目录并提取指定时间范围内的提交历史。](https://github.com/yinzhenyu-su/weekly-git-summary) 
