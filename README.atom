@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[AdguardTeam/AdGuardHome: AdGuard Home 是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。]]></title>
+    <published>2025-08-03T08:00:00+00:00</published>
+    <updated>2025-08-03T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/AdguardTeam/AdGuardHome"/>
+    <id>https://github.com/AdguardTeam/AdGuardHome</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/AdguardTeam/AdGuardHome" target="_blank">AdguardTeam/AdGuardHome: AdGuard Home
+是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/AdguardTeam/AdGuardHome" target="_blank">https://github.com/AdguardTeam/AdGuardHome</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[favonia/cloudflare-ddns: 一款功能丰富且健壮的 Cloudflare DDNS 更新器，占用空间小。该程序将检测您机器的公网 IP 地址，并使用 Cloudflare API 更新 DNS 记录。]]></title>
     <published>2025-08-02T16:00:00+00:00</published>
     <updated>2025-08-02T16:00:00+00:00</updated>

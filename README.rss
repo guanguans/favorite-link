@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>AdguardTeam/AdGuardHome: AdGuard Home 是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。</title>
+      <pubDate>Sun, 03 Aug 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/AdguardTeam/AdGuardHome</link>
+      <guid>https://github.com/AdguardTeam/AdGuardHome</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/AdguardTeam/AdGuardHome" target="_blank">AdguardTeam/AdGuardHome: AdGuard Home 是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/AdguardTeam/AdGuardHome" target="_blank">https://github.com/AdguardTeam/AdGuardHome</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>favonia/cloudflare-ddns: 一款功能丰富且健壮的 Cloudflare DDNS 更新器，占用空间小。该程序将检测您机器的公网 IP 地址，并使用 Cloudflare API 更新 DNS 记录。</title>
       <pubDate>Sat, 02 Aug 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/favonia/cloudflare-ddns</link>
