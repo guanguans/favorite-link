@@ -14,6 +14,7 @@
 
 ### August 4, 2025 
 - [DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。](https://github.com/DNSCrypt/encrypted-dns-server) 
+- [AdguardTeam/AdGuardHome: AdGuard Home 是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。](https://github.com/AdguardTeam/AdGuardHome) 
 ### August 3, 2025 
 - [favonia/cloudflare-ddns: 一款功能丰富且健壮的 Cloudflare DDNS 更新器，占用空间小。该程序将检测您机器的公网 IP 地址，并使用 Cloudflare API 更新 DNS 记录。](https://github.com/favonia/cloudflare-ddns) 
 - [vladopajic/go-test-coverage: Go-Test-Coverage 是一个工具，用于在测试覆盖率低于指定阈值时报告问题。](https://github.com/vladopajic/go-test-coverage) 
