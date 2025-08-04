@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 02 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 03 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。</title>
+      <pubDate>Sun, 03 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/DNSCrypt/encrypted-dns-server</link>
+      <guid>https://github.com/DNSCrypt/encrypted-dns-server</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/DNSCrypt/encrypted-dns-server" target="_blank">DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/DNSCrypt/encrypted-dns-server" target="_blank">https://github.com/DNSCrypt/encrypted-dns-server</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>favonia/cloudflare-ddns: 一款功能丰富且健壮的 Cloudflare DDNS 更新器，占用空间小。该程序将检测您机器的公网 IP 地址，并使用 Cloudflare API 更新 DNS 记录。</title>
       <pubDate>Sat, 02 Aug 2025 16:00:00 +0000</pubDate>
