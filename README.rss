@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>理解 MySQL 的 ONLY_FULL_GROUP_BY 模式</title>
+      <pubDate>Sun, 03 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode</link>
+      <guid>https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode</guid>
+      <content:encoded><![CDATA[<a href="https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode" target="_blank">理解 MySQL 的 ONLY_FULL_GROUP_BY 模式</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode" target="_blank">https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。</title>
       <pubDate>Sun, 03 Aug 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/DNSCrypt/encrypted-dns-server</link>

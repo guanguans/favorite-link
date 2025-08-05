@@ -62,6 +62,22 @@ webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[理解 MySQL 的 ONLY_FULL_GROUP_BY 模式]]></title>
+    <published>2025-08-03T16:00:00+00:00</published>
+    <updated>2025-08-03T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode"/>
+    <id>https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode" target="_blank">理解 MySQL 的 ONLY_FULL_GROUP_BY 模式</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode" target="_blank">https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。]]></title>
     <published>2025-08-03T16:00:00+00:00</published>
     <updated>2025-08-03T16:00:00+00:00</updated>
