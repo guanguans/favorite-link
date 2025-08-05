@@ -16,6 +16,7 @@
 ### August 5, 2025 
 - [编译时泛型：赞成还是反对？](https://thephp.foundation/blog/2025/08/05/compile-generics/) 
 - [dgtlss/warden: 一个 Laravel 包，通过运行自动化的 composer 审计并通过 webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏洞](https://github.com/dgtlss/warden) 
+- [xefi/faker-php: 按需生成虚假数据](https://github.com/xefi/faker-php) 
 ### August 4, 2025 
 - [DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。](https://github.com/DNSCrypt/encrypted-dns-server) 
 - [AdguardTeam/AdGuardHome: AdGuard Home 是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。](https://github.com/AdguardTeam/AdGuardHome) 
