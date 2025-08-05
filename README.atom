@@ -46,6 +46,22 @@ webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[xefi/faker-php: 按需生成虚假数据]]></title>
+    <published>2025-08-04T00:00:00+00:00</published>
+    <updated>2025-08-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/xefi/faker-php"/>
+    <id>https://github.com/xefi/faker-php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/xefi/faker-php" target="_blank">xefi/faker-php: 按需生成虚假数据</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/xefi/faker-php" target="_blank">https://github.com/xefi/faker-php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。]]></title>
     <published>2025-08-03T16:00:00+00:00</published>
     <updated>2025-08-03T16:00:00+00:00</updated>
