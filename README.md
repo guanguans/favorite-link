@@ -18,6 +18,7 @@
 - [dgtlss/warden: 一个 Laravel 包，通过运行自动化的 composer 审计并通过 webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏洞](https://github.com/dgtlss/warden) 
 - [xefi/faker-php: 按需生成虚假数据](https://github.com/xefi/faker-php) 
 - [理解 MySQL 的 ONLY_FULL_GROUP_BY 模式](https://masteringlaravel.io/daily/2025-08-04-understanding-mysql-only-full-group-by-mode) 
+- [WINBIGFOX/TimeScribe: 该存储库提供了一个现代，灵活的时间跟踪应用程序，用于捕获和管理个人工作时间。它是离线运行的，不需要注册，并且是免费的开放源代码，对于希望有效跟踪工作时间的任何人，无论是在家还是在办公室中。](https://github.com/WINBIGFOX/TimeScribe) 
 ### August 4, 2025 
 - [DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。](https://github.com/DNSCrypt/encrypted-dns-server) 
 - [AdguardTeam/AdGuardHome: AdGuard Home 是一款用于屏蔽广告和追踪的网络级软件。设置完成后，它将覆盖您家中所有设备，您无需任何客户端软件即可实现。](https://github.com/AdguardTeam/AdGuardHome) 
