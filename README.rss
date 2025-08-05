@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>dgtlss/warden: 一个 Laravel 包，通过运行自动化的 composer 审计并通过 webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏洞</title>
+      <pubDate>Mon, 04 Aug 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/dgtlss/warden</link>
+      <guid>https://github.com/dgtlss/warden</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/dgtlss/warden" target="_blank">dgtlss/warden: 一个 Laravel 包，通过运行自动化的 composer 审计并通过 webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏洞</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/dgtlss/warden" target="_blank">https://github.com/dgtlss/warden</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>DNSCrypt/encrypted-dns-server: 易于安装的，高性能的零维护代理，可运行加密的 DNS 服务器。</title>
       <pubDate>Sun, 03 Aug 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/DNSCrypt/encrypted-dns-server</link>
