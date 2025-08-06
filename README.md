@@ -10,10 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### August 6, 2025 
 - [Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs 等多种来源导出所有您的数字高亮内容到 Apple Notes。](https://github.com/Scarvy/apple-notes-readwise) 
 ### August 5, 2025 

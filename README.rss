@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 04 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs 等多种来源导出所有您的数字高亮内容到 Apple Notes。</title>
+      <pubDate>Tue, 05 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/Scarvy/apple-notes-readwise</link>
+      <guid>https://github.com/Scarvy/apple-notes-readwise</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Scarvy/apple-notes-readwise" target="_blank">Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs 等多种来源导出所有您的数字高亮内容到 Apple Notes。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Scarvy/apple-notes-readwise" target="_blank">https://github.com/Scarvy/apple-notes-readwise</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>编译时泛型：赞成还是反对？</title>
       <pubDate>Mon, 04 Aug 2025 16:00:00 +0000</pubDate>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-08-04T16:00:00+00:00</updated>
+  <updated>2025-08-05T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs 等多种来源导出所有您的数字高亮内容到 Apple Notes。]]></title>
+    <published>2025-08-05T16:00:00+00:00</published>
+    <updated>2025-08-05T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Scarvy/apple-notes-readwise"/>
+    <id>https://github.com/Scarvy/apple-notes-readwise</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Scarvy/apple-notes-readwise" target="_blank">Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple
+Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs
+等多种来源导出所有您的数字高亮内容到 Apple Notes。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Scarvy/apple-notes-readwise" target="_blank">https://github.com/Scarvy/apple-notes-readwise</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[编译时泛型：赞成还是反对？]]></title>
     <published>2025-08-04T16:00:00+00:00</published>
