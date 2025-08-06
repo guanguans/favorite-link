@@ -13,6 +13,9 @@
 
 
 
+
+### August 6, 2025 
+- [Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs 等多种来源导出所有您的数字高亮内容到 Apple Notes。](https://github.com/Scarvy/apple-notes-readwise) 
 ### August 5, 2025 
 - [编译时泛型：赞成还是反对？](https://thephp.foundation/blog/2025/08/05/compile-generics/) 
 - [dgtlss/warden: 一个 Laravel 包，通过运行自动化的 composer 审计并通过 webhooks 和电子邮件发送通知，主动监控您的依赖项的安全漏洞](https://github.com/dgtlss/warden) 
