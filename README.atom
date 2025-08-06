@@ -31,6 +31,25 @@ Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[kzaremski/apple-notes-exporter: 用 Swift 编写的 MacOS 应用程序，可将 Apple Notes (包括 iCloud) 中的笔记批量导出为 HTML、LaTeX、Markdown 和其他格式。]]></title>
+    <published>2025-08-05T08:00:00+00:00</published>
+    <updated>2025-08-05T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="包括 iCloud) 中的笔记批量导出为 HTML、LaTeX、Markdown 和其他格式。](https://github.com/kzaremski/apple-notes-exporter"/>
+    <id>包括 iCloud) 中的笔记批量导出为 HTML、LaTeX、Markdown 和其他格式。](https://github.com/kzaremski/apple-notes-exporter</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%8C%85%E6%8B%AC%20iCloud)%20%E4%B8%AD%E7%9A%84%E7%AC%94%E8%AE%B0%E6%89%B9%E9%87%8F%E5%AF%BC%E5%87%BA%E4%B8%BA%20HTML%E3%80%81LaTeX%E3%80%81Markdown%20%E5%92%8C%E5%85%B6%E4%BB%96%E6%A0%BC%E5%BC%8F%E3%80%82](https://github.com/kzaremski/apple-notes-exporter" target="_blank">kzaremski/apple-notes-exporter: 用 Swift 编写的 MacOS
+应用程序，可将 Apple Notes (包括 iCloud) 中的笔记批量导出为 HTML、LaTeX、Markdown
+和其他格式。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%8C%85%E6%8B%AC%20iCloud)%20%E4%B8%AD%E7%9A%84%E7%AC%94%E8%AE%B0%E6%89%B9%E9%87%8F%E5%AF%BC%E5%87%BA%E4%B8%BA%20HTML%E3%80%81LaTeX%E3%80%81Markdown%20%E5%92%8C%E5%85%B6%E4%BB%96%E6%A0%BC%E5%BC%8F%E3%80%82](https://github.com/kzaremski/apple-notes-exporter" target="_blank">包括 iCloud) 中的笔记批量导出为 HTML、LaTeX、Markdown
+和其他格式。](https://github.com/kzaremski/apple-notes-exporter</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[编译时泛型：赞成还是反对？]]></title>
     <published>2025-08-04T16:00:00+00:00</published>
     <updated>2025-08-04T16:00:00+00:00</updated>
