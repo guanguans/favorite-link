@@ -40,6 +40,11 @@ jobs:
       - name: Fix zh_CN
         run: zhlint 'README.md' --config=.zhlintrc --fix
 
+      - name: AutoCorrect
+        uses: huacnlee/autocorrect-action@v2
+        with:
+          args: README.md --fix
+
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
