@@ -88,7 +88,7 @@
 ### July 17, 2025 
 - [ramustha/unix-timestamp: 将 UNIX 时间戳格式转换为人类可读日期格式。](https://github.com/ramustha/unix-timestamp) 
 - [AtomMaterialUI/color-highlighter: Jetbrains 插件直接从代码中的颜色预览颜色。](https://github.com/AtomMaterialUI/color-highlighter) 
-- [dotenv-linter/dotenv-linter: ⚡️ 针对. env 文件的闪电般快速的代码检查工具。用 Rust 编写 🦀](https://github.com/dotenv-linter/dotenv-linter) 
+- [dotenv-linter/dotenv-linter: ⚡️ 针对。env 文件的闪电般快速的代码检查工具。用 Rust 编写 🦀](https://github.com/dotenv-linter/dotenv-linter) 
 ### July 16, 2025 
 - [kozhinhikkodan-dev/artisan-playground: Laravel Artisan 命令具有基于角色的访问控制，主题支持和全面的命令管理。](https://github.com/kozhinhikkodan-dev/artisan-playground) 
 ### July 15, 2025 
@@ -111,7 +111,7 @@
 - [googleapis/genai-toolbox: 数据库的 MCP 工具箱是用于数据库的开源 MCP 服务器。](https://github.com/googleapis/genai-toolbox) 
 ### July 6, 2025 
 - [cshum/imagor: 使用 libvips 快速，安全的图像处理服务器和 GO 库](https://github.com/cshum/imagor) 
-- [kanshurichard/enableAppleAI: 在中国大陆出售的 Mac 启用 Apple Intelligence，并启用了 SIP，在 MacOS 15.4.1+和 26 个 Beta 上进行了测试](https://github.com/kanshurichard/enableAppleAI) 
+- [kanshurichard/enableAppleAI: 在中国大陆出售的 Mac 启用 Apple Intelligence，并启用了 SIP，在 MacOS 15.4.1+ 和 26 个 Beta 上进行了测试](https://github.com/kanshurichard/enableAppleAI) 
 - [niedev/RTranslator: 本地运行的 Android 的开源实时翻译应用](https://github.com/niedev/RTranslator) 
 ### July 3, 2025 
 - [spatie/simple-tcp-client: 通过 TCP 连接连接并发送数据](https://github.com/spatie/simple-tcp-client) 
