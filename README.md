@@ -14,7 +14,7 @@
 ### August 7, 2025 
 - [likeyun/liKeYun_WeixinDomainCheck: 微信域名检测，检测域名在微信是否被拦截访问，被屏蔽访问，被禁止访问，被封了](https://github.com/likeyun/liKeYun_WeixinDomainCheck) 
 - [glzr-io/glazewm: GlazeWM 是一个易于 i3WM 启发的 Windows 的瓷砖窗口管理器。](https://github.com/glzr-io/glazewm) 
-- [aiselp/AutoX: 安卓平台上的JavaScript自动化工具](https://github.com/aiselp/AutoX) 
+- [aiselp/AutoX: 安卓平台上的 JavaScript 自动化工具](https://github.com/aiselp/AutoX) 
 ### August 6, 2025 
 - [Scarvy/apple-notes-readwise：这款应用使您能够轻松地从亚马逊 Kindle、Apple Books、Google Play Books、Instapaper、Pocket、Medium、Twitter、PDFs 等多种来源导出所有您的数字高亮内容到 Apple Notes。](https://github.com/Scarvy/apple-notes-readwise) 
 - [kzaremski/apple-notes-exporter: 用 Swift 编写的 MacOS 应用程序，可将 Apple Notes (包括 iCloud) 中的笔记批量导出为 HTML、LaTeX、Markdown 和其他格式。](https://github.com/kzaremski/apple-notes-exporter) 
