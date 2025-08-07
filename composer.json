@@ -26,7 +26,7 @@
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^13.0",
         "illuminate/validation": "^12.0",
-        "laminas/laminas-feed": "^2.24",
+        "laminas/laminas-feed": "^2.25",
         "laravel-zero/framework": "^12.0"
     },
     "require-dev": {
@@ -113,9 +113,9 @@
             "@composer-normalize",
             "@composer-validate",
             "@style-lint",
-            "@autocorrect-lint",
             "@md-lint",
             "@zh-lint",
+            "@autocorrect-lint",
             "@test",
             "@rector-dry-run"
         ],
@@ -157,9 +157,9 @@
             "@putenv PHP_CS_FIXER_IGNORE_ENV=1"
         ],
         "readme-fix": [
-            "@autocorrect-fix",
             "@md-fix",
-            "@zh-fix"
+            "@zh-fix",
+            "@autocorrect-fix"
         ],
         "rector": "@php ./vendor/bin/rector --ansi -v",
         "rector-dry-run": "@rector --dry-run",

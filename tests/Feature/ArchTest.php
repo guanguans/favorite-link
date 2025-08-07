@@ -21,10 +21,10 @@ use App\Commands\FeedCommand;
 arch()->preset()->php();
 arch()->preset()->security();
 // arch()->preset()->laravel();
-arch()->preset()->strict()->ignoring([
-    Command::class,
-    FeedCommand::class,
-]);
+// arch()->preset()->strict()->ignoring([
+//     Command::class,
+//     FeedCommand::class,
+// ]);
 // arch()->preset()->relaxed();
 
 arch('will not use debugging functions')
