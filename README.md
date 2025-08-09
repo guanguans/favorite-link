@@ -14,6 +14,7 @@
 
 ### August 9, 2025 
 - [outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。](https://github.com/outerbase/studio) 
+- [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器](https://github.com/Moonvy/OpenPromptStudio) 
 ### August 7, 2025 
 - [likeyun/liKeYun_WeixinDomainCheck: 微信域名检测，检测域名在微信是否被拦截访问，被屏蔽访问，被禁止访问，被封了](https://github.com/likeyun/liKeYun_WeixinDomainCheck) 
 - [glzr-io/glazewm: GlazeWM 是一个易于 i3WM 启发的 Windows 的瓷砖窗口管理器。](https://github.com/glzr-io/glazewm) 
