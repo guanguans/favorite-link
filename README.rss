@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 06 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 08 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。</title>
+      <pubDate>Fri, 08 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/outerbase/studio</link>
+      <guid>https://github.com/outerbase/studio</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/outerbase/studio" target="_blank">outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/outerbase/studio" target="_blank">https://github.com/outerbase/studio</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器</title>
+      <pubDate>Fri, 08 Aug 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/Moonvy/OpenPromptStudio</link>
+      <guid>https://github.com/Moonvy/OpenPromptStudio</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">https://github.com/Moonvy/OpenPromptStudio</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器</title>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/Moonvy/OpenPromptStudio</link>
+      <guid>https://github.com/Moonvy/OpenPromptStudio</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">https://github.com/Moonvy/OpenPromptStudio</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>likeyun/liKeYun_WeixinDomainCheck: 微信域名检测，检测域名在微信是否被拦截访问，被屏蔽访问，被禁止访问，被封了</title>
       <pubDate>Wed, 06 Aug 2025 16:00:00 +0000</pubDate>
