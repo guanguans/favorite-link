@@ -18,6 +18,7 @@
 - [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器](https://github.com/Moonvy/OpenPromptStudio) 
 - [gitextensions/gitextensions: Git Extensions 是一个独立的用户界面工具，用于管理 git 仓库。](https://github.com/gitextensions/gitextensions) 
 - [krillinai/KlicStudio: Klic Studio 是由 Krillin AI 开发的多功能音视频本地化和增强解决方案。这个极简而强大的工具集成了视频翻译、配音和语音克隆，支持横屏和竖屏格式，确保在所有主要平台 (Bilibili、小红书、抖音、微信视频、快手、YouTube、TikTok 等) 上完美呈现。](https://github.com/krillinai/KlicStudio) 
+- [TecharoHQ/anubis: Anubis 是一款 Web AI 防火墙工具，通过一个或多个挑战来衡量您的连接灵魂，以保护上游资源免受抓取机器人的侵害。](https://github.com/TecharoHQ/anubis) 
 ### August 7, 2025 
 - [likeyun/liKeYun_WeixinDomainCheck: 微信域名检测，检测域名在微信是否被拦截访问，被屏蔽访问，被禁止访问，被封了](https://github.com/likeyun/liKeYun_WeixinDomainCheck) 
 - [glzr-io/glazewm: GlazeWM 是一个易于 i3WM 启发的 Windows 的瓷砖窗口管理器。](https://github.com/glzr-io/glazewm) 
