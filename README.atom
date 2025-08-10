@@ -82,6 +82,23 @@ AI。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[RezaSi/go-interview-practice: Go 面试练习是一系列编码挑战，帮助您准备 Go 语言的技术面试。解决问题，提交您的解决方案，并通过自动测试获得即时反馈。通过每个挑战的排行榜跟踪您的进度，逐步提升您的编码技能。]]></title>
+    <published>2025-08-08T08:00:00+00:00</published>
+    <updated>2025-08-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/RezaSi/go-interview-practice"/>
+    <id>https://github.com/RezaSi/go-interview-practice</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/RezaSi/go-interview-practice" target="_blank">RezaSi/go-interview-practice: Go 面试练习是一系列编码挑战，帮助您准备 Go
+语言的技术面试。解决问题，提交您的解决方案，并通过自动测试获得即时反馈。通过每个挑战的排行榜跟踪您的进度，逐步提升您的编码技能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/RezaSi/go-interview-practice" target="_blank">https://github.com/RezaSi/go-interview-practice</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。]]></title>
     <published>2025-08-08T16:00:00+00:00</published>
     <updated>2025-08-08T16:00:00+00:00</updated>
