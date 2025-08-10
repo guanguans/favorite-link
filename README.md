@@ -16,6 +16,7 @@
 ### August 10, 2025 
 - [thehanimo/pr-title-checker: 一个自动检查 pull request 标题是否符合贡献指南的操作](https://github.com/thehanimo/pr-title-checker) 
 - [Bistutu/FluentRead: 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
+- [fishjar/kiss-translator: 一个简约、开源的 双语对照翻译扩展 & 油猴脚本](https://github.com/fishjar/kiss-translator) 
 ### August 9, 2025 
 - [outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。](https://github.com/outerbase/studio) 
 - [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器](https://github.com/Moonvy/OpenPromptStudio) 
