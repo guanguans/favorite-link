@@ -18,6 +18,7 @@
 - [Bistutu/FluentRead: 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
 - [fishjar/kiss-translator: 一个简约、开源的双语对照翻译扩展 & 油猴脚本](https://github.com/fishjar/kiss-translator) 
 - [anthropics/claude-code-action: 一个通用的 Claude Code 操作，适用于 GitHub 的 PR 和问题，可以回答问题并实现代码更改。该操作监听评论中的触发短语，并根据请求激活 Claude 操作。它支持多种身份验证方法，包括 Anthropic 直接 API、Amazon Bedrock 和 Google Vertex AI。](https://github.com/anthropics/claude-code-action) 
+- [RezaSi/go-interview-practice: Go面试练习是一系列编码挑战，帮助您准备Go语言的技术面试。解决问题，提交您的解决方案，并通过自动测试获得即时反馈。通过每个挑战的排行榜跟踪您的进度，逐步提升您的编码技能。](https://github.com/RezaSi/go-interview-practice) 
 ### August 9, 2025 
 - [outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。](https://github.com/outerbase/studio) 
 - [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器](https://github.com/Moonvy/OpenPromptStudio) 
