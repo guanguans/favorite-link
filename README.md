@@ -20,7 +20,7 @@
 - [anthropics/claude-code-action: 一个通用的 Claude Code 操作，适用于 GitHub 的 PR 和问题，可以回答问题并实现代码更改。该操作监听评论中的触发短语，并根据请求激活 Claude 操作。它支持多种身份验证方法，包括 Anthropic 直接 API、Amazon Bedrock 和 Google Vertex AI。](https://github.com/anthropics/claude-code-action) 
 - [RezaSi/go-interview-practice: Go 面试练习是一系列编码挑战，帮助您准备 Go 语言的技术面试。解决问题，提交您的解决方案，并通过自动测试获得即时反馈。通过每个挑战的排行榜跟踪您的进度，逐步提升您的编码技能。](https://github.com/RezaSi/go-interview-practice) 
 - [Grazulex/laravel-chronotrace: 🎥 以确定性方式记录和重放 Laravel 请求，并从生产跟踪生成测试。](https://github.com/Grazulex/laravel-chronotrace) 
-- [Bistutu/GoMusic: 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music](https://github.com/Bistutu/GoMusic) 
+- [Bistutu/GoMusic: 迁移网易云/汽水/QQ 音乐歌单至 Apple/Youtube/Spotify Music](https://github.com/Bistutu/GoMusic) 
 ### August 9, 2025 
 - [outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。](https://github.com/outerbase/studio) 
 - [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器](https://github.com/Moonvy/OpenPromptStudio) 
