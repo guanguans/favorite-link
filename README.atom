@@ -99,6 +99,23 @@ AI。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Grazulex/laravel-chronotrace: 🎥 以确定性方式记录和重放 Laravel 请求，并从生产跟踪生成测试。]]></title>
+    <published>2025-08-08T00:00:00+00:00</published>
+    <updated>2025-08-08T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Grazulex/laravel-chronotrace"/>
+    <id>https://github.com/Grazulex/laravel-chronotrace</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Grazulex/laravel-chronotrace" target="_blank">Grazulex/laravel-chronotrace: 🎥 以确定性方式记录和重放 Laravel
+请求，并从生产跟踪生成测试。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Grazulex/laravel-chronotrace" target="_blank">https://github.com/Grazulex/laravel-chronotrace</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。]]></title>
     <published>2025-08-08T16:00:00+00:00</published>
     <updated>2025-08-08T16:00:00+00:00</updated>
