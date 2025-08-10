@@ -63,6 +63,25 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[anthropics/claude-code-action: 一个通用的 Claude Code 操作，适用于 GitHub 的 PR 和问题，可以回答问题并实现代码更改。该操作监听评论中的触发短语，并根据请求激活 Claude 操作。它支持多种身份验证方法，包括 Anthropic 直接 API、Amazon Bedrock 和 Google Vertex AI。]]></title>
+    <published>2025-08-08T16:00:00+00:00</published>
+    <updated>2025-08-08T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/anthropics/claude-code-action"/>
+    <id>https://github.com/anthropics/claude-code-action</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/anthropics/claude-code-action" target="_blank">anthropics/claude-code-action: 一个通用的 Claude Code 操作，适用于
+GitHub 的 PR 和问题，可以回答问题并实现代码更改。该操作监听评论中的触发短语，并根据请求激活 Claude
+操作。它支持多种身份验证方法，包括 Anthropic 直接 API、Amazon Bedrock 和 Google Vertex
+AI。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/anthropics/claude-code-action" target="_blank">https://github.com/anthropics/claude-code-action</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。]]></title>
     <published>2025-08-08T16:00:00+00:00</published>
     <updated>2025-08-08T16:00:00+00:00</updated>

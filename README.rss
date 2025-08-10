@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>anthropics/claude-code-action: 一个通用的 Claude Code 操作，适用于 GitHub 的 PR 和问题，可以回答问题并实现代码更改。该操作监听评论中的触发短语，并根据请求激活 Claude 操作。它支持多种身份验证方法，包括 Anthropic 直接 API、Amazon Bedrock 和 Google Vertex AI。</title>
+      <pubDate>Fri, 08 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/anthropics/claude-code-action</link>
+      <guid>https://github.com/anthropics/claude-code-action</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/anthropics/claude-code-action" target="_blank">anthropics/claude-code-action: 一个通用的 Claude Code 操作，适用于 GitHub 的 PR 和问题，可以回答问题并实现代码更改。该操作监听评论中的触发短语，并根据请求激活 Claude 操作。它支持多种身份验证方法，包括 Anthropic 直接 API、Amazon Bedrock 和 Google Vertex AI。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/anthropics/claude-code-action" target="_blank">https://github.com/anthropics/claude-code-action</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。</title>
       <pubDate>Fri, 08 Aug 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/outerbase/studio</link>
