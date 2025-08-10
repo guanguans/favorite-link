@@ -30,6 +30,39 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Bistutu/FluentRead: 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。]]></title>
+    <published>2025-08-09T08:00:00+00:00</published>
+    <updated>2025-08-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Bistutu/FluentRead"/>
+    <id>https://github.com/Bistutu/FluentRead</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Bistutu/FluentRead" target="_blank">Bistutu/FluentRead:
+开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Bistutu/FluentRead" target="_blank">https://github.com/Bistutu/FluentRead</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[fishjar/kiss-translator: 一个简约、开源的双语对照翻译扩展 & 油猴脚本]]></title>
+    <published>2025-08-09T00:00:00+00:00</published>
+    <updated>2025-08-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/fishjar/kiss-translator"/>
+    <id>https://github.com/fishjar/kiss-translator</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/fishjar/kiss-translator" target="_blank">fishjar/kiss-translator: 一个简约、开源的双语对照翻译扩展 &amp; 油猴脚本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/fishjar/kiss-translator" target="_blank">https://github.com/fishjar/kiss-translator</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。]]></title>
     <published>2025-08-08T16:00:00+00:00</published>
     <updated>2025-08-08T16:00:00+00:00</updated>
