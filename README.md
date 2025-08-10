@@ -12,6 +12,9 @@
 
 
 
+
+### August 10, 2025 
+- [thehanimo/pr-title-checker: 一个自动检查 pull request 标题是否符合贡献指南的操作](https://github.com/thehanimo/pr-title-checker) 
 ### August 9, 2025 
 - [outerbase/studio: 一个轻量级的浏览器数据库 GUI。它支持连接到 Postgres、MySQL 和 SQLite。](https://github.com/outerbase/studio) 
 - [Moonvy/OpenPromptStudio: 🥣 AIGC 提示词可视化编辑器](https://github.com/Moonvy/OpenPromptStudio) 
