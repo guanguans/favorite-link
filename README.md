@@ -13,6 +13,9 @@
 
 
 
+
+### August 12, 2025 
+- [anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。](https://github.com/anthropics/claude-code-security-review) 
 ### August 10, 2025 
 - [thehanimo/pr-title-checker: 一个自动检查 pull request 标题是否符合贡献指南的操作](https://github.com/thehanimo/pr-title-checker) 
 - [Bistutu/FluentRead: 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。](https://github.com/Bistutu/FluentRead) 
