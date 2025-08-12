@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 09 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 11 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。</title>
+      <pubDate>Mon, 11 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/anthropics/claude-code-security-review</link>
+      <guid>https://github.com/anthropics/claude-code-security-review</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/anthropics/claude-code-security-review" target="_blank">anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/anthropics/claude-code-security-review" target="_blank">https://github.com/anthropics/claude-code-security-review</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>thehanimo/pr-title-checker: 一个自动检查 pull request 标题是否符合贡献指南的操作</title>
       <pubDate>Sat, 09 Aug 2025 16:00:00 +0000</pubDate>

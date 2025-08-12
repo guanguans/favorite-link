@@ -10,10 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### August 12, 2025 
 - [anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。](https://github.com/anthropics/claude-code-security-review) 
 ### August 10, 2025 
