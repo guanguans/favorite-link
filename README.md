@@ -12,7 +12,7 @@
 
 
 ### August 14, 2025 
-- [idosal/git-mcp: 结束代码幻觉！GitMCP是一个免费的开源远程MCP服务器，适用于任何GitHub项目](https://github.com/idosal/git-mcp) 
+- [idosal/git-mcp: 结束代码幻觉！GitMCP 是一个免费的开源远程 MCP 服务器，适用于任何 GitHub 项目](https://github.com/idosal/git-mcp) 
 ### August 12, 2025 
 - [anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。](https://github.com/anthropics/claude-code-security-review) 
 - [在 PHP 命令行应用中启动并行运行的七个步骤](https://tomasvotruba.com/blog/7-steps-to-start-with-parallel-run-in-php-cli-app/) 

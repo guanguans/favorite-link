@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 11 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 13 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>idosal/git-mcp: 结束代码幻觉！GitMCP 是一个免费的开源远程 MCP 服务器，适用于任何 GitHub 项目</title>
+      <pubDate>Wed, 13 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/idosal/git-mcp</link>
+      <guid>https://github.com/idosal/git-mcp</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/idosal/git-mcp" target="_blank">idosal/git-mcp: 结束代码幻觉！GitMCP 是一个免费的开源远程 MCP 服务器，适用于任何 GitHub 项目</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/idosal/git-mcp" target="_blank">https://github.com/idosal/git-mcp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。</title>
       <pubDate>Mon, 11 Aug 2025 16:00:00 +0000</pubDate>
