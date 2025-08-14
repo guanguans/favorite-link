@@ -30,6 +30,22 @@ GitHub 项目</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[你什么时候会使用 MySQL 的 ANY_VALUE() 函数？]]></title>
+    <published>2025-08-13T08:00:00+00:00</published>
+    <updated>2025-08-13T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href=" 函数？](https://masteringlaravel.io/daily/2025-08-12-when-would-you-use-mysql-any-value-function"/>
+    <id> 函数？](https://masteringlaravel.io/daily/2025-08-12-when-would-you-use-mysql-any-value-function</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%87%BD%E6%95%B0%EF%BC%9F](https://masteringlaravel.io/daily/2025-08-12-when-would-you-use-mysql-any-value-function" target="_blank">你什么时候会使用 MySQL 的 ANY_VALUE() 函数？</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%87%BD%E6%95%B0%EF%BC%9F](https://masteringlaravel.io/daily/2025-08-12-when-would-you-use-mysql-any-value-function" target="_blank">函数？](https://masteringlaravel.io/daily/2025-08-12-when-would-you-use-mysql-any-value-function</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[anthropics/claude-code-security-review: 一个由人工智能驱动的安全审查 GitHub Action，使用 Claude 分析代码变更中的安全漏洞。]]></title>
     <published>2025-08-11T16:00:00+00:00</published>
     <updated>2025-08-11T16:00:00+00:00</updated>
