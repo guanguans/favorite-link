@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 13 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>konsheng/Sensitive-lexicon: 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。</title>
+      <pubDate>Thu, 14 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/konsheng/Sensitive-lexicon</link>
+      <guid>https://github.com/konsheng/Sensitive-lexicon</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/konsheng/Sensitive-lexicon" target="_blank">konsheng/Sensitive-lexicon: 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/konsheng/Sensitive-lexicon" target="_blank">https://github.com/konsheng/Sensitive-lexicon</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>idosal/git-mcp: 结束代码幻觉！GitMCP 是一个免费的开源远程 MCP 服务器，适用于任何 GitHub 项目</title>
       <pubDate>Wed, 13 Aug 2025 16:00:00 +0000</pubDate>
