@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### August 15, 2025 
+- [konsheng/Sensitive-lexicon: 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。](https://github.com/konsheng/Sensitive-lexicon) 
 ### August 14, 2025 
 - [idosal/git-mcp: 结束代码幻觉！GitMCP 是一个免费的开源远程 MCP 服务器，适用于任何 GitHub 项目](https://github.com/idosal/git-mcp) 
 - [你什么时候会使用 MySQL 的 ANY_VALUE() 函数？](https://masteringlaravel.io/daily/2025-08-12-when-would-you-use-mysql-any-value-function) 
