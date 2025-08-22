@@ -14,7 +14,7 @@
 
 
 ### August 22, 2025 
-- [bgreenwell/doxx: 在不离开终端的情况下，暴露 .docx 文件的内容。快速、安全、智能——无需 Office！](https://github.com/bgreenwell/doxx) 
+- [bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！](https://github.com/bgreenwell/doxx) 
 ### August 15, 2025 
 - [konsheng/Sensitive-lexicon: 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。](https://github.com/konsheng/Sensitive-lexicon) 
 ### August 14, 2025 
