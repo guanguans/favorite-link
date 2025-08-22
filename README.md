@@ -16,6 +16,7 @@
 ### August 22, 2025 
 - [bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！](https://github.com/bgreenwell/doxx) 
 - [DaveLiddament/php-language-extensions: 用于定义新 PHP 语言特性的属性 (由静态分析强制执行)](https://github.com/DaveLiddament/php-language-extensions) 
+- [DaveLiddament/sarb：静态分析结果基线 (SARB)](https://github.com/DaveLiddament/sarb) 
 ### August 15, 2025 
 - [konsheng/Sensitive-lexicon: 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。](https://github.com/konsheng/Sensitive-lexicon) 
 ### August 14, 2025 
