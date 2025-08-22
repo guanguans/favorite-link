@@ -37,7 +37,7 @@
         "fakerphp/faker": "^1.24",
         "guanguans/ai-commit": "dev-main",
         "mockery/mockery": "^1.6",
-        "pestphp/pest": "^3.8",
+        "pestphp/pest": "^4.0",
         "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.1",
         "rector/rector": "^2.1"
