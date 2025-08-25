@@ -99,6 +99,23 @@ Laravel 应用程序，灵感来自 Django 表单。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Grazulex/laravel-devtoolbox: 🛠️ 瑞士军刀工匠 CLI 用于 Laravel — 从命令行扫描、检查、调试和探索您 Laravel 应用程序的每个方面。]]></title>
+    <published>2025-08-23T00:00:00+00:00</published>
+    <updated>2025-08-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/grazulex/laravel-devtoolbox"/>
+    <id>https://github.com/grazulex/laravel-devtoolbox</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/grazulex/laravel-devtoolbox" target="_blank">Grazulex/laravel-devtoolbox: 🛠️ 瑞士军刀工匠 CLI 用于 Laravel —
+从命令行扫描、检查、调试和探索您 Laravel 应用程序的每个方面。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/grazulex/laravel-devtoolbox" target="_blank">https://github.com/grazulex/laravel-devtoolbox</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！]]></title>
     <published>2025-08-21T16:00:00+00:00</published>
     <updated>2025-08-21T16:00:00+00:00</updated>
