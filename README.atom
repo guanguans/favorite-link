@@ -82,6 +82,23 @@ Dock 预览和 Alt+Tab 窗口切换器适用于 Mac - 以隐私为首的 Dock �
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[metalogico/laravel-formello: Formello 是一个全面的表单生成和处理工具，适用于 Laravel 应用程序，灵感来自 Django 表单。]]></title>
+    <published>2025-08-23T08:00:00+00:00</published>
+    <updated>2025-08-23T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/metalogico/laravel-formello"/>
+    <id>https://github.com/metalogico/laravel-formello</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/metalogico/laravel-formello" target="_blank">metalogico/laravel-formello: Formello 是一个全面的表单生成和处理工具，适用于
+Laravel 应用程序，灵感来自 Django 表单。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/metalogico/laravel-formello" target="_blank">https://github.com/metalogico/laravel-formello</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！]]></title>
     <published>2025-08-21T16:00:00+00:00</published>
     <updated>2025-08-21T16:00:00+00:00</updated>
