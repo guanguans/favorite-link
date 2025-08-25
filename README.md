@@ -13,6 +13,9 @@
 
 
 
+
+### August 25, 2025 
+- [AdguardTeam/AdGuardForSafari: Adguard for Safari应用程序扩展](https://github.com/AdguardTeam/AdGuardForSafari) 
 ### August 22, 2025 
 - [bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！](https://github.com/bgreenwell/doxx) 
 - [DaveLiddament/php-language-extensions: 用于定义新 PHP 语言特性的属性 (由静态分析强制执行)](https://github.com/DaveLiddament/php-language-extensions) 
