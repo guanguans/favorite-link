@@ -12,7 +12,7 @@
 
 ### August 25, 2025 
 - [AdguardTeam/AdGuardForSafari: Adguard for Safari 应用程序扩展](https://github.com/AdguardTeam/AdGuardForSafari) 
-- [byte5digital/laravel-passgenerator: 创建苹果钱包通行证的Laravel软件包。](https://github.com/byte5digital/laravel-passgenerator) 
+- [byte5digital/laravel-passgenerator: 创建苹果钱包通行证的 Laravel 软件包。](https://github.com/byte5digital/laravel-passgenerator) 
 ### August 22, 2025 
 - [bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！](https://github.com/bgreenwell/doxx) 
 - [DaveLiddament/php-language-extensions: 用于定义新 PHP 语言特性的属性 (由静态分析强制执行)](https://github.com/DaveLiddament/php-language-extensions) 
