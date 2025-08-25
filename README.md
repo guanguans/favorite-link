@@ -15,6 +15,7 @@
 - [byte5digital/laravel-passgenerator: 创建苹果钱包通行证的 Laravel 软件包。](https://github.com/byte5digital/laravel-passgenerator) 
 - [免费的 Dock 预览和 Alt+Tab 窗口切换器适用于 Mac - 以隐私为首的 Dock 预览和窗口管理，改变您的 macOS 工作流程。](https://github.com/ejbills/DockDoor) 
 - [ejbills/DockDoor: 免费的 Dock 预览和 Alt+Tab 窗口切换器适用于 Mac - 以隐私为首的 Dock 预览和窗口管理，改变您的 macOS 工作流程。](https://github.com/ejbills/DockDoor) 
+- [metalogico/laravel-formello: Formello 是一个全面的表单生成和处理工具，适用于 Laravel 应用程序，灵感来自 Django 表单。](https://github.com/metalogico/laravel-formello) 
 ### August 22, 2025 
 - [bgreenwell/doxx: 在不离开终端的情况下，暴露。docx 文件的内容。快速、安全、智能——无需 Office！](https://github.com/bgreenwell/doxx) 
 - [DaveLiddament/php-language-extensions: 用于定义新 PHP 语言特性的属性 (由静态分析强制执行)](https://github.com/DaveLiddament/php-language-extensions) 
