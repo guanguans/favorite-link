@@ -13,7 +13,7 @@
 
 ### August 27, 2025 
 - [asgeirtj/system_prompts_leaks: 从流行聊天机器人如 ChatGPT、Claude 和 Gemini 提取的系统提示集合](https://github.com/asgeirtj/system_prompts_leaks) 
-- [control-theory/gonzo: 一个强大的实时日志分析终端用户界面，灵感来自k9s。通过美丽的图表、人工智能驱动的洞察和高级过滤，分析日志流 - 所有这些都可以在您的终端中完成。](https://github.com/control-theory/gonzo) 
+- [control-theory/gonzo: 一个强大的实时日志分析终端用户界面，灵感来自 k9s。通过美丽的图表、人工智能驱动的洞察和高级过滤，分析日志流 - 所有这些都可以在您的终端中完成。](https://github.com/control-theory/gonzo) 
 ### August 25, 2025 
 - [AdguardTeam/AdGuardForSafari: Adguard for Safari 应用程序扩展](https://github.com/AdguardTeam/AdGuardForSafari) 
 - [byte5digital/laravel-passgenerator: 创建苹果钱包通行证的 Laravel 软件包。](https://github.com/byte5digital/laravel-passgenerator) 
