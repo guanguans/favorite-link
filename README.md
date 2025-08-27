@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### August 27, 2025 
+- [asgeirtj/system_prompts_leaks: 从流行聊天机器人如ChatGPT、Claude和Gemini提取的系统提示集合](https://github.com/asgeirtj/system_prompts_leaks) 
 ### August 25, 2025 
 - [AdguardTeam/AdGuardForSafari: Adguard for Safari 应用程序扩展](https://github.com/AdguardTeam/AdGuardForSafari) 
 - [byte5digital/laravel-passgenerator: 创建苹果钱包通行证的 Laravel 软件包。](https://github.com/byte5digital/laravel-passgenerator) 
