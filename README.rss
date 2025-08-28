@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 26 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 27 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>geek-fun/dockit: 适用于 Mac、Windows 和 Linux 的 Elasticsearch GUI 客户端，适用于 Mac、Windows 和 Linux 的 Opensearch GUI 客户端</title>
+      <pubDate>Wed, 27 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/geek-fun/dockit</link>
+      <guid>https://github.com/geek-fun/dockit</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/geek-fun/dockit" target="_blank">geek-fun/dockit: 适用于 Mac、Windows 和 Linux 的 Elasticsearch GUI 客户端，适用于 Mac、Windows 和 Linux 的 Opensearch GUI 客户端</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/geek-fun/dockit" target="_blank">https://github.com/geek-fun/dockit</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>asgeirtj/system_prompts_leaks: 从流行聊天机器人如 ChatGPT、Claude 和 Gemini 提取的系统提示集合</title>
       <pubDate>Tue, 26 Aug 2025 16:00:00 +0000</pubDate>
