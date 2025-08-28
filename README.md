@@ -14,6 +14,7 @@
 
 ### August 28, 2025 
 - [geek-fun/dockit: 适用于 Mac、Windows 和 Linux 的 Elasticsearch GUI 客户端，适用于 Mac、Windows 和 Linux 的 Opensearch GUI 客户端](https://github.com/geek-fun/dockit) 
+- [sulimanbenhalim/laravel-prose: 将Laravel Eloquent查询转换为自然语言描述。将复杂的数据库查询转换为可读的、易于理解的散文。](https://github.com/sulimanbenhalim/laravel-prose) 
 ### August 27, 2025 
 - [asgeirtj/system_prompts_leaks: 从流行聊天机器人如 ChatGPT、Claude 和 Gemini 提取的系统提示集合](https://github.com/asgeirtj/system_prompts_leaks) 
 - [control-theory/gonzo: 一个强大的实时日志分析终端用户界面，灵感来自 k9s。通过美丽的图表、人工智能驱动的洞察和高级过滤，分析日志流 - 所有这些都可以在您的终端中完成。](https://github.com/control-theory/gonzo) 
