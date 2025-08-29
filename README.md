@@ -14,7 +14,7 @@
 
 
 ### August 29, 2025 
-- [LiveContainer/LiveContainer: 一个可以运行iOS应用而无需实际安装的应用启动器！](https://github.com/LiveContainer/LiveContainer) 
+- [LiveContainer/LiveContainer: 一个可以运行 iOS 应用而无需实际安装的应用启动器！](https://github.com/LiveContainer/LiveContainer) 
 - [SideStore/SideStore: SideStore 是一个无束缚、社区驱动的替代应用商店，适用于未越狱的 iOS 设备](https://github.com/SideStore/SideStore) 
 ### August 28, 2025 
 - [geek-fun/dockit: 适用于 Mac、Windows 和 Linux 的 Elasticsearch GUI 客户端，适用于 Mac、Windows 和 Linux 的 Opensearch GUI 客户端](https://github.com/geek-fun/dockit) 
