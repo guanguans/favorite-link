@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### August 30, 2025 
-- [marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在Filament表单中的软件包。](https://github.com/marcogermani87/filament-captcha) 
+- [marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。](https://github.com/marcogermani87/filament-captcha) 
 ### August 29, 2025 
 - [LiveContainer/LiveContainer: 一个可以运行 iOS 应用而无需实际安装的应用启动器！](https://github.com/LiveContainer/LiveContainer) 
 - [SideStore/SideStore: SideStore 是一个无束缚、社区驱动的替代应用商店，适用于未越狱的 iOS 设备](https://github.com/SideStore/SideStore) 

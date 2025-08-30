@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 28 Aug 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 29 Aug 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。</title>
+      <pubDate>Fri, 29 Aug 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/marcogermani87/filament-captcha</link>
+      <guid>https://github.com/marcogermani87/filament-captcha</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/marcogermani87/filament-captcha" target="_blank">marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/marcogermani87/filament-captcha" target="_blank">https://github.com/marcogermani87/filament-captcha</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>LiveContainer/LiveContainer: 一个可以运行 iOS 应用而无需实际安装的应用启动器！</title>
       <pubDate>Thu, 28 Aug 2025 16:00:00 +0000</pubDate>
