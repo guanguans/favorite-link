@@ -12,6 +12,7 @@
 
 ### August 30, 2025 
 - [marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。](https://github.com/marcogermani87/filament-captcha) 
+- [TheDragonCode/laravel-feeds: Laravel Feeds 是一种简单快速的方法，可以将大量数据导出到市场和其他消费者的提要中。](https://github.com/TheDragonCode/laravel-feeds) 
 ### August 29, 2025 
 - [LiveContainer/LiveContainer: 一个可以运行 iOS 应用而无需实际安装的应用启动器！](https://github.com/LiveContainer/LiveContainer) 
 - [SideStore/SideStore: SideStore 是一个无束缚、社区驱动的替代应用商店，适用于未越狱的 iOS 设备](https://github.com/SideStore/SideStore) 
