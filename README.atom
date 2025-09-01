@@ -46,6 +46,22 @@ macOS 工作站上。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[RSSNext/Folo: 🧡 所有内容一站式关注]]></title>
+    <published>2025-08-31T00:00:00+00:00</published>
+    <updated>2025-08-31T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/RSSNext/Folo"/>
+    <id>https://github.com/RSSNext/Folo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/RSSNext/Folo" target="_blank">RSSNext/Folo: 🧡 所有内容一站式关注</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/RSSNext/Folo" target="_blank">https://github.com/RSSNext/Folo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。]]></title>
     <published>2025-08-29T16:00:00+00:00</published>
     <updated>2025-08-29T16:00:00+00:00</updated>
