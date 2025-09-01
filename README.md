@@ -15,6 +15,7 @@
 - [macstadium/orka-desktop: Orka Desktop 是一款免费的虚拟化工具，旨在部署到单个 macOS 工作站上。](https://github.com/macstadium/orka-desktop) 
 - [openai/codex: 可在终端运行的轻量级编码代理](https://github.com/openai/codex) 
 - [RSSNext/Folo: 🧡 所有内容一站式关注](https://github.com/RSSNext/Folo) 
+- [alexeymezenin/eloquent-sql-reference: Eloquent ORM引用生成的SQL查询](https://github.com/alexeymezenin/eloquent-sql-reference) 
 ### August 30, 2025 
 - [marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。](https://github.com/marcogermani87/filament-captcha) 
 - [TheDragonCode/laravel-feeds: Laravel Feeds 是一种简单快速的方法，可以将大量数据导出到市场和其他消费者的提要中。](https://github.com/TheDragonCode/laravel-feeds) 
