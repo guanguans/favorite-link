@@ -17,6 +17,7 @@
 - [RSSNext/Folo: 🧡 所有内容一站式关注](https://github.com/RSSNext/Folo) 
 - [alexeymezenin/eloquent-sql-reference: Eloquent ORM 引用生成的 SQL 查询](https://github.com/alexeymezenin/eloquent-sql-reference) 
 - [xixu-me/Xget: 超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等。](https://github.com/xixu-me/Xget) 
+- [dudor/BookmarkHub: BookmarkHub 是一款浏览器插件，可以在不同浏览器之间同步你的书签。](https://github.com/dudor/BookmarkHub) 
 ### August 30, 2025 
 - [marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。](https://github.com/marcogermani87/filament-captcha) 
 - [TheDragonCode/laravel-feeds: Laravel Feeds 是一种简单快速的方法，可以将大量数据导出到市场和其他消费者的提要中。](https://github.com/TheDragonCode/laravel-feeds) 
