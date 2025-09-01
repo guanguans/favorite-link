@@ -97,6 +97,23 @@ macOS 工作站上。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[dudor/BookmarkHub: BookmarkHub 是一款浏览器插件，可以在不同浏览器之间同步你的书签。]]></title>
+    <published>2025-08-30T00:00:00+00:00</published>
+    <updated>2025-08-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/dudor/BookmarkHub"/>
+    <id>https://github.com/dudor/BookmarkHub</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/dudor/BookmarkHub" target="_blank">dudor/BookmarkHub: BookmarkHub
+是一款浏览器插件，可以在不同浏览器之间同步你的书签。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/dudor/BookmarkHub" target="_blank">https://github.com/dudor/BookmarkHub</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[marcogermani87/filament-captcha: 一个可以轻松将验证码字段包含在 Filament 表单中的软件包。]]></title>
     <published>2025-08-29T16:00:00+00:00</published>
     <updated>2025-08-29T16:00:00+00:00</updated>
