@@ -29,6 +29,40 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zakirullin/cognitive-load: 这世上有如此多的流行术语和最佳实践，但它们中大多数无法真正落地。因此，让我们把注意力转向更根本的方面，比方说，开发者在阅读代码时所感受到的“困惑程度”。]]></title>
+    <published>2025-09-01T08:00:00+00:00</published>
+    <updated>2025-09-01T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zakirullin/cognitive-load"/>
+    <id>https://github.com/zakirullin/cognitive-load</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zakirullin/cognitive-load" target="_blank">zakirullin/cognitive-load:
+这世上有如此多的流行术语和最佳实践，但它们中大多数无法真正落地。因此，让我们把注意力转向更根本的方面，比方说，开发者在阅读代码时所感受到的“困惑程度”。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zakirullin/cognitive-load" target="_blank">https://github.com/zakirullin/cognitive-load</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[yii2-extensions/franken-php: 为 Yii2 应用程序提供的极速 FrankenPHP 集成，支持无缝的 HTTP/2 和 HTTP/3，自动内存管理，以及实时功能。]]></title>
+    <published>2025-09-01T00:00:00+00:00</published>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/yii2-extensions/franken-php"/>
+    <id>https://github.com/yii2-extensions/franken-php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/yii2-extensions/franken-php" target="_blank">yii2-extensions/franken-php: 为 Yii2 应用程序提供的极速 FrankenPHP
+集成，支持无缝的 HTTP/2 和 HTTP/3，自动内存管理，以及实时功能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/yii2-extensions/franken-php" target="_blank">https://github.com/yii2-extensions/franken-php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[macstadium/orka-desktop: Orka Desktop 是一款免费的虚拟化工具，旨在部署到单个 macOS 工作站上。]]></title>
     <published>2025-08-31T16:00:00+00:00</published>
     <updated>2025-08-31T16:00:00+00:00</updated>
