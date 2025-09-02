@@ -14,6 +14,7 @@
 
 ### September 2, 2025 
 - [dockur/windows: Docker 容器中的 Windows。](https://github.com/dockur/windows) 
+- [zakirullin/cognitive-load: 这世上有如此多的流行术语和最佳实践，但它们中大多数无法真正落地。因此，让我们把注意力转向更根本的方面，比方说，开发者在阅读代码时所感受到的“困惑程度”。](https://github.com/zakirullin/cognitive-load) 
 ### September 1, 2025 
 - [macstadium/orka-desktop: Orka Desktop 是一款免费的虚拟化工具，旨在部署到单个 macOS 工作站上。](https://github.com/macstadium/orka-desktop) 
 - [openai/codex: 可在终端运行的轻量级编码代理](https://github.com/openai/codex) 
