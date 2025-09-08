@@ -30,6 +30,23 @@ GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方 PHP SDK。]]></title>
+    <published>2025-09-07T08:00:00+00:00</published>
+    <updated>2025-09-07T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/php-sdk"/>
+    <id>https://github.com/modelcontextprotocol/php-sdk</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/modelcontextprotocol/php-sdk" target="_blank">modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方 PHP
+SDK。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/modelcontextprotocol/php-sdk" target="_blank">https://github.com/modelcontextprotocol/php-sdk</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dockur/windows: Docker 容器中的 Windows。]]></title>
     <published>2025-09-01T16:00:00+00:00</published>
     <updated>2025-09-01T16:00:00+00:00</updated>
