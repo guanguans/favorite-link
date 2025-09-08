@@ -15,6 +15,7 @@
 
 ### September 8, 2025 
 - [ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。](https://github.com/ergebnis/php-package-template) 
+- [modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方PHP SDK。](https://github.com/modelcontextprotocol/php-sdk) 
 ### September 2, 2025 
 - [dockur/windows: Docker 容器中的 Windows。](https://github.com/dockur/windows) 
 - [zakirullin/cognitive-load: 这世上有如此多的流行术语和最佳实践，但它们中大多数无法真正落地。因此，让我们把注意力转向更根本的方面，比方说，开发者在阅读代码时所感受到的“困惑程度”。](https://github.com/zakirullin/cognitive-load) 
