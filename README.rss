@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 01 Sep 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 07 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。</title>
+      <pubDate>Sun, 07 Sep 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ergebnis/php-package-template</link>
+      <guid>https://github.com/ergebnis/php-package-template</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ergebnis/php-package-template" target="_blank">ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ergebnis/php-package-template" target="_blank">https://github.com/ergebnis/php-package-template</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>dockur/windows: Docker 容器中的 Windows。</title>
       <pubDate>Mon, 01 Sep 2025 16:00:00 +0000</pubDate>

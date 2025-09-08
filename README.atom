@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-09-01T16:00:00+00:00</updated>
+  <updated>2025-09-07T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。]]></title>
+    <published>2025-09-07T16:00:00+00:00</published>
+    <updated>2025-09-07T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ergebnis/php-package-template"/>
+    <id>https://github.com/ergebnis/php-package-template</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ergebnis/php-package-template" target="_blank">ergebnis/php-package-template: + 📒 提供一个用于 composer 包的
+GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ergebnis/php-package-template" target="_blank">https://github.com/ergebnis/php-package-template</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dockur/windows: Docker 容器中的 Windows。]]></title>
     <published>2025-09-01T16:00:00+00:00</published>
