@@ -49,6 +49,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[bahdotsh/wrkflw: 在本地验证并运行 GitHub 操作。]]></title>
+    <published>2025-09-09T00:00:00+00:00</published>
+    <updated>2025-09-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/bahdotsh/wrkflw"/>
+    <id>https://github.com/bahdotsh/wrkflw</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/bahdotsh/wrkflw" target="_blank">bahdotsh/wrkflw: 在本地验证并运行 GitHub 操作。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/bahdotsh/wrkflw" target="_blank">https://github.com/bahdotsh/wrkflw</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。]]></title>
     <published>2025-09-07T16:00:00+00:00</published>
     <updated>2025-09-07T16:00:00+00:00</updated>
