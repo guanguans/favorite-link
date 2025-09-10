@@ -15,6 +15,7 @@
 - [rodrigocfd/windigo: Windows API 和 Go 语言中的 GUI。](https://github.com/rodrigocfd/windigo) 
 - [bahdotsh/wrkflw: 在本地验证并运行 GitHub 操作。](https://github.com/bahdotsh/wrkflw) 
 - [idootop/open-xiaoai: 让小爱音箱「听见你的声音」，解锁无限可能。](https://github.com/idootop/open-xiaoai) 
+- [datalab-to/surya: OCR，版面分析，阅读顺序，90多种语言的表格识别](https://github.com/datalab-to/surya) 
 ### September 8, 2025 
 - [ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。](https://github.com/ergebnis/php-package-template) 
 - [modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方 PHP SDK。](https://github.com/modelcontextprotocol/php-sdk) 
