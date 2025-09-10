@@ -14,6 +14,7 @@
 - [BeaconBay/ck: ck (seek) 可以按含义查找代码，而不仅仅是关键字。它是 grep 的直接替代品，能理解你在寻找什么--搜索 "错误处理"，即使没有出现这些确切的词，也能找到 try/catch 块、错误返回和异常处理代码。](https://github.com/BeaconBay/ck) 
 - [rodrigocfd/windigo: Windows API 和 Go 语言中的 GUI。](https://github.com/rodrigocfd/windigo) 
 - [bahdotsh/wrkflw: 在本地验证并运行 GitHub 操作。](https://github.com/bahdotsh/wrkflw) 
+- [idootop/open-xiaoai: 让小爱音箱「听见你的声音」，解锁无限可能。](https://github.com/idootop/open-xiaoai) 
 ### September 8, 2025 
 - [ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。](https://github.com/ergebnis/php-package-template) 
 - [modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方 PHP SDK。](https://github.com/modelcontextprotocol/php-sdk) 
