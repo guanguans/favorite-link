@@ -65,6 +65,56 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[idootop/open-xiaoai: 让小爱音箱“听见你的声音”，解锁无限可能。]]></title>
+    <published>2025-09-08T16:00:00+00:00</published>
+    <updated>2025-09-08T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/idootop/open-xiaoai"/>
+    <id>https://github.com/idootop/open-xiaoai</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/idootop/open-xiaoai" target="_blank">idootop/open-xiaoai: 让小爱音箱“听见你的声音”，解锁无限可能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/idootop/open-xiaoai" target="_blank">https://github.com/idootop/open-xiaoai</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[datalab-to/surya: OCR，版面分析，阅读顺序，90 多种语言的表格识别]]></title>
+    <published>2025-09-08T08:00:00+00:00</published>
+    <updated>2025-09-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/datalab-to/surya"/>
+    <id>https://github.com/datalab-to/surya</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/datalab-to/surya" target="_blank">datalab-to/surya: OCR，版面分析，阅读顺序，90 多种语言的表格识别</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/datalab-to/surya" target="_blank">https://github.com/datalab-to/surya</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[enetx/surf: 高级 Go HTTP 客户端，具有 Chrome/Firefox 浏览器伪装、支持 HTTP/3 的 QUIC 指纹识别、JA3/JA4 TLS 模拟，以及用于网络自动化和抓取的反机器人绕过功能]]></title>
+    <published>2025-09-08T00:00:00+00:00</published>
+    <updated>2025-09-08T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/enetx/surf"/>
+    <id>https://github.com/enetx/surf</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/enetx/surf" target="_blank">enetx/surf:
+高级 Go HTTP 客户端，具有 Chrome/Firefox 浏览器伪装、支持 HTTP/3 的 QUIC
+指纹识别、JA3/JA4 TLS 模拟，以及用于网络自动化和抓取的反机器人绕过功能</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/enetx/surf" target="_blank">https://github.com/enetx/surf</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。]]></title>
     <published>2025-09-07T16:00:00+00:00</published>
     <updated>2025-09-07T16:00:00+00:00</updated>
