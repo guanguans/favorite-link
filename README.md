@@ -16,6 +16,7 @@
 - [bahdotsh/wrkflw: 在本地验证并运行 GitHub 操作。](https://github.com/bahdotsh/wrkflw) 
 - [idootop/open-xiaoai: 让小爱音箱「听见你的声音」，解锁无限可能。](https://github.com/idootop/open-xiaoai) 
 - [datalab-to/surya: OCR，版面分析，阅读顺序，90多种语言的表格识别](https://github.com/datalab-to/surya) 
+- [enetx/surf: 高级 Go HTTP 客户端，具有 Chrome/Firefox 浏览器伪装、支持 HTTP/3 的 QUIC 指纹识别、JA3/JA4 TLS 模拟，以及用于网络自动化和抓取的反机器人绕过功能](https://github.com/enetx/surf) 
 ### September 8, 2025 
 - [ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。](https://github.com/ergebnis/php-package-template) 
 - [modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方 PHP SDK。](https://github.com/modelcontextprotocol/php-sdk) 
