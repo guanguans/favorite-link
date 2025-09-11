@@ -13,6 +13,7 @@
 
 ### September 11, 2025 
 - [buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI](https://github.com/buresdv/Cork) 
+- [abgox/InputTip: 一个输入法状态管理工具：实时提示(鼠标样式、符号显示) + 窗口自动切换状态 + 快捷键切换状态。](https://github.com/abgox/InputTip) 
 ### September 10, 2025 
 - [BeaconBay/ck: ck (seek) 可以按含义查找代码，而不仅仅是关键字。它是 grep 的直接替代品，能理解你在寻找什么--搜索 "错误处理"，即使没有出现这些确切的词，也能找到 try/catch 块、错误返回和异常处理代码。](https://github.com/BeaconBay/ck) 
 - [rodrigocfd/windigo: Windows API 和 Go 语言中的 GUI。](https://github.com/rodrigocfd/windigo) 
