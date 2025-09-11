@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 09 Sep 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 10 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI</title>
+      <pubDate>Wed, 10 Sep 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/buresdv/Cork</link>
+      <guid>https://github.com/buresdv/Cork</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/buresdv/Cork" target="_blank">buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/buresdv/Cork" target="_blank">https://github.com/buresdv/Cork</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>BeaconBay/ck: ck (seek) 可以按含义查找代码，而不仅仅是关键字。它是 grep 的直接替代品，能理解你在寻找什么--搜索 "错误处理"，即使没有出现这些确切的词，也能找到 try/catch 块、错误返回和异常处理代码。</title>
       <pubDate>Tue, 09 Sep 2025 16:00:00 +0000</pubDate>
