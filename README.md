@@ -16,6 +16,7 @@
 - [fgrosse/go-coverage-report: 一个 CLI 工具和 GitHub 操作来发布 Go 代码覆盖率报告，作为对您的拉取请求的注释。](https://github.com/fgrosse/go-coverage-report) 
 - [beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型 TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。](https://github.com/beacon-hq/beam) 
 - [me-shaon/laravel-request-analytics: Laravel 项目的简单请求数据分析包](https://github.com/me-shaon/laravel-request-analytics) 
+- [hosmelq/search-syntax-parser: 使用字段搜索、布尔逻辑、范围、列表和适配器将搜索查询解析为结构化数据。](https://github.com/hosmelq/search-syntax-parser) 
 ### September 11, 2025 
 - [buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI](https://github.com/buresdv/Cork) 
 - [abgox/InputTip: 一个输入法状态管理工具：实时提示 (鼠标样式、符号显示) + 窗口自动切换状态 + 快捷键切换状态。](https://github.com/abgox/InputTip) 
