@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型 TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。]]></title>
+    <published>2025-09-11T08:00:00+00:00</published>
+    <updated>2025-09-11T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/beacon-hq/beam"/>
+    <id>https://github.com/beacon-hq/beam</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/beacon-hq/beam" target="_blank">beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型
+TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/beacon-hq/beam" target="_blank">https://github.com/beacon-hq/beam</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI]]></title>
     <published>2025-09-10T16:00:00+00:00</published>
     <updated>2025-09-10T16:00:00+00:00</updated>

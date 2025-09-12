@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型 TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。</title>
+      <pubDate>Thu, 11 Sep 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/beacon-hq/beam</link>
+      <guid>https://github.com/beacon-hq/beam</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/beacon-hq/beam" target="_blank">beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型 TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/beacon-hq/beam" target="_blank">https://github.com/beacon-hq/beam</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI</title>
       <pubDate>Wed, 10 Sep 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/buresdv/Cork</link>
