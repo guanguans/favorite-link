@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 10 Sep 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 11 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>fgrosse/go-coverage-report: 一个 CLI 工具和 GitHub 操作来发布 Go 代码覆盖率报告，作为对您的拉取请求的注释。</title>
+      <pubDate>Thu, 11 Sep 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/fgrosse/go-coverage-report</link>
+      <guid>https://github.com/fgrosse/go-coverage-report</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/fgrosse/go-coverage-report" target="_blank">fgrosse/go-coverage-report: 一个 CLI 工具和 GitHub 操作来发布 Go 代码覆盖率报告，作为对您的拉取请求的注释。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/fgrosse/go-coverage-report" target="_blank">https://github.com/fgrosse/go-coverage-report</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI</title>
       <pubDate>Wed, 10 Sep 2025 16:00:00 +0000</pubDate>
