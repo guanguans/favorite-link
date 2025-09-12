@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### September 12, 2025 
+- [fgrosse/go-coverage-report: 一个CLI工具和GitHub操作来发布Go代码覆盖率报告，作为对您的拉取请求的注释。](https://github.com/fgrosse/go-coverage-report) 
 ### September 11, 2025 
 - [buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI](https://github.com/buresdv/Cork) 
 - [abgox/InputTip: 一个输入法状态管理工具：实时提示 (鼠标样式、符号显示) + 窗口自动切换状态 + 快捷键切换状态。](https://github.com/abgox/InputTip) 
