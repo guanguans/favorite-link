@@ -64,6 +64,23 @@ TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue �
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[hosmelq/search-syntax-parser: 使用字段搜索、布尔逻辑、范围、列表和适配器将搜索查询解析为结构化数据。]]></title>
+    <published>2025-09-10T16:00:00+00:00</published>
+    <updated>2025-09-10T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/hosmelq/search-syntax-parser"/>
+    <id>https://github.com/hosmelq/search-syntax-parser</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/hosmelq/search-syntax-parser" target="_blank">hosmelq/search-syntax-parser:
+使用字段搜索、布尔逻辑、范围、列表和适配器将搜索查询解析为结构化数据。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/hosmelq/search-syntax-parser" target="_blank">https://github.com/hosmelq/search-syntax-parser</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI]]></title>
     <published>2025-09-10T16:00:00+00:00</published>
     <updated>2025-09-10T16:00:00+00:00</updated>
