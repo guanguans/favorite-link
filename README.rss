@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>riddleling/iOS-OCR-Server:IOS OCR 服务器，使用 Apple 的 Vision Framework API。</title>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/riddleling/iOS-OCR-Server</link>
+      <guid>https://github.com/riddleling/iOS-OCR-Server</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/riddleling/iOS-OCR-Server" target="_blank">riddleling/iOS-OCR-Server:IOS OCR 服务器，使用 Apple 的 Vision Framework API。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/riddleling/iOS-OCR-Server" target="_blank">https://github.com/riddleling/iOS-OCR-Server</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>fgrosse/go-coverage-report: 一个 CLI 工具和 GitHub 操作来发布 Go 代码覆盖率报告，作为对您的拉取请求的注释。</title>
       <pubDate>Thu, 11 Sep 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/fgrosse/go-coverage-report</link>
