@@ -12,6 +12,9 @@
 
 
 
+
+### September 13, 2025 
+- [plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器](https://github.com/plutov/oq) 
 ### September 12, 2025 
 - [fgrosse/go-coverage-report: 一个 CLI 工具和 GitHub 操作来发布 Go 代码覆盖率报告，作为对您的拉取请求的注释。](https://github.com/fgrosse/go-coverage-report) 
 - [beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型 TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。](https://github.com/beacon-hq/beam) 
