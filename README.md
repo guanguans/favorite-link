@@ -13,6 +13,9 @@
 
 
 
+
+### September 14, 2025 
+- [php-mcp/laravel: 构建Laravel MCP服务器的SDK](https://github.com/php-mcp/laravel) 
 ### September 13, 2025 
 - [plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器](https://github.com/plutov/oq) 
 - [shaojiankui/SmartPush: SmartPush, 一款 IOS 苹果推送测试程序，Mac OS 下的 apns 工具 APP](https://github.com/shaojiankui/SmartPush) 
