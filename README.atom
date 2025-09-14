@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sheafui/components: 一套为 Laravel 应用程序开发的开源用户界面组件，基于 Blade、Alpine.js 和 Livewire 构建。]]></title>
+    <published>2025-09-13T08:00:00+00:00</published>
+    <updated>2025-09-13T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sheafui/components"/>
+    <id>https://github.com/sheafui/components</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sheafui/components" target="_blank">sheafui/components: 一套为 Laravel 应用程序开发的开源用户界面组件，基于
+Blade、Alpine.js 和 Livewire 构建。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sheafui/components" target="_blank">https://github.com/sheafui/components</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器]]></title>
     <published>2025-09-12T16:00:00+00:00</published>
     <updated>2025-09-12T16:00:00+00:00</updated>
