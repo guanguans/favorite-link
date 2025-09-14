@@ -12,6 +12,7 @@
 
 ### September 14, 2025 
 - [php-mcp/laravel: 构建 Laravel MCP 服务器的 SDK](https://github.com/php-mcp/laravel) 
+- [sheafui/components: 一套为Laravel应用程序开发的开源用户界面组件，基于Blade、Alpine.js和Livewire构建。](https://github.com/sheafui/components) 
 ### September 13, 2025 
 - [plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器](https://github.com/plutov/oq) 
 - [shaojiankui/SmartPush: SmartPush, 一款 IOS 苹果推送测试程序，Mac OS 下的 apns 工具 APP](https://github.com/shaojiankui/SmartPush) 
