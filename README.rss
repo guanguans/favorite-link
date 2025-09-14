@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>本文探讨了 Laravel 应用中竞态条件的问题，并提供了两种预防方法：Laravel 原子锁和 Redis 并发限制器。</title>
+      <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide</link>
+      <guid>https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide</guid>
+      <content:encoded><![CDATA[<a href="https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide" target="_blank">本文探讨了 Laravel 应用中竞态条件的问题，并提供了两种预防方法：Laravel 原子锁和 Redis 并发限制器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide" target="_blank">https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器</title>
       <pubDate>Fri, 12 Sep 2025 16:00:00 +0000</pubDate>
       <link>OAS) 查看器](https://github.com/plutov/oq</link>
