@@ -16,6 +16,7 @@
 - [本文探讨了 Laravel 应用中竞态条件的问题，并提供了两种预防方法：Laravel 原子锁和 Redis 并发限制器。](https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide) 
 - [sheafui/cli: Sheaf CLI – Sheaf CLI– 强大的 Artisan 命令行工具，用于在 Laravel 中无缝安装和管理高质量的 Sheaf 组件。](https://github.com/sheafui/cli) 
 - [zjkiza/sql-blade: 该包执行位于单独文件中的原始 SQL 查询，并具有嵌入 Blade 扩展的灵活性，能够使用 Blade 语法动态创建查询。](https://github.com/zjkiza/sql-blade) 
+- [WJZ-P/NekoCrypt: 一款Android上的神奇又好用的全局消息加解密软件，包括文字、图片、文件加密。 (｀・ω・´)ﾉ✧](https://github.com/WJZ-P/NekoCrypt) 
 ### September 13, 2025 
 - [plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器](https://github.com/plutov/oq) 
 - [shaojiankui/SmartPush: SmartPush, 一款 IOS 苹果推送测试程序，Mac OS 下的 apns 工具 APP](https://github.com/shaojiankui/SmartPush) 
