@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-09-13T16:00:00+00:00</updated>
+  <updated>2025-09-14T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[seemoo-lab/openhaystack: OpenHaystack 是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象 (钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。]]></title>
+    <published>2025-09-14T16:00:00+00:00</published>
+    <updated>2025-09-14T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack"/>
+    <id>钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E9%92%A5%E5%8C%99%E5%9C%88%E3%80%81%E8%83%8C%E5%8C%85%E7%AD%89)%20%E4%B8%8A%EF%BC%8C%E6%88%96%E5%B0%86%E5%85%B6%E9%9B%86%E6%88%90%E5%88%B0%E5%85%B6%E4%BB%96%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E7%9A%84%E8%AE%BE%E5%A4%87%E4%B8%AD%EF%BC%8C%E4%BE%8B%E5%A6%82%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E3%80%82](https://github.com/seemoo-lab/openhaystack" target="_blank">seemoo-lab/openhaystack: OpenHaystack
+是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象 (钥匙圈、背包等)
+上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E9%92%A5%E5%8C%99%E5%9C%88%E3%80%81%E8%83%8C%E5%8C%85%E7%AD%89)%20%E4%B8%8A%EF%BC%8C%E6%88%96%E5%B0%86%E5%85%B6%E9%9B%86%E6%88%90%E5%88%B0%E5%85%B6%E4%BB%96%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E7%9A%84%E8%AE%BE%E5%A4%87%E4%B8%AD%EF%BC%8C%E4%BE%8B%E5%A6%82%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E3%80%82](https://github.com/seemoo-lab/openhaystack" target="_blank">钥匙圈、背包等)
+上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[php-mcp/laravel: 构建 Laravel MCP 服务器的 SDK]]></title>
     <published>2025-09-13T16:00:00+00:00</published>

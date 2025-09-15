@@ -12,7 +12,7 @@
 
 
 ### September 15, 2025 
-- [seemoo-lab/openhaystack: OpenHaystack 是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象（钥匙圈、背包等）上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack) 
+- [seemoo-lab/openhaystack: OpenHaystack 是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象 (钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack) 
 ### September 14, 2025 
 - [php-mcp/laravel: 构建 Laravel MCP 服务器的 SDK](https://github.com/php-mcp/laravel) 
 - [sheafui/components: 一套为 Laravel 应用程序开发的开源用户界面组件，基于 Blade、Alpine.js 和 Livewire 构建。](https://github.com/sheafui/components) 
