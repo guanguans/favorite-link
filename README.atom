@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[stoplightio/elements: 使用可嵌入的 React 或 Web 组件构建漂亮的交互式 API 文档，由 OpenAPI 和 Markdown 提供支持。]]></title>
+    <published>2025-09-15T00:00:00+00:00</published>
+    <updated>2025-09-15T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stoplightio/elements"/>
+    <id>https://github.com/stoplightio/elements</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/stoplightio/elements" target="_blank">stoplightio/elements: 使用可嵌入的 React 或 Web 组件构建漂亮的交互式 API
+文档，由 OpenAPI 和 Markdown 提供支持。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/stoplightio/elements" target="_blank">https://github.com/stoplightio/elements</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[seemoo-lab/openhaystack: OpenHaystack 是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象 (钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。]]></title>
     <published>2025-09-14T16:00:00+00:00</published>
     <updated>2025-09-14T16:00:00+00:00</updated>

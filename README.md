@@ -15,7 +15,7 @@
 ### September 16, 2025 
 - [the-ora/browser: Ora 是一款快速、安全、美观的浏览器，专为 macOS 设计。受 Safari 和 Arc 的启发，Ora 提供了一个干净、原生的体验，让人感觉在 macOS 上使用得心应手——没有多余的臃肿。](https://github.com/the-ora/browser) 
 - [ryangjchandler/laravel-bunny-fonts: 在 Laravel 项目中以编程方式管理 Bunny 字体。](https://github.com/ryangjchandler/laravel-bunny-fonts) 
-- [stoplightio/elements: 使用可嵌入的React或Web组件构建漂亮的交互式API文档，由OpenAPI和Markdown提供支持。](https://github.com/stoplightio/elements) 
+- [stoplightio/elements: 使用可嵌入的 React 或 Web 组件构建漂亮的交互式 API 文档，由 OpenAPI 和 Markdown 提供支持。](https://github.com/stoplightio/elements) 
 ### September 15, 2025 
 - [seemoo-lab/openhaystack: OpenHaystack 是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象 (钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack) 
 ### September 14, 2025 
