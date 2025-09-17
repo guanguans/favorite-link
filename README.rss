@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 17 Sep 2025 00:50:55 +0800</pubDate>
+    <pubDate>Tue, 16 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,39 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>shalvah/clara: 🔊 适用于 PHP CLI 应用的简单、美观、可测试的控制台输出。</title>
-      <pubDate>Wed, 17 Sep 2025 00:50:55 +0800</pubDate>
+      <pubDate>Tue, 16 Sep 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/shalvah/clara</link>
       <guid>https://github.com/shalvah/clara</guid>
       <content:encoded><![CDATA[<a href="https://github.com/shalvah/clara" target="_blank">shalvah/clara: 🔊 适用于 PHP CLI 应用的简单、美观、可测试的控制台输出。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/shalvah/clara" target="_blank">https://github.com/shalvah/clara</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Jessecar96/SteamDesktopAuthenticator: Steam 的移动身份验证应用程序的桌面实现</title>
+      <pubDate>Tue, 16 Sep 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/Jessecar96/SteamDesktopAuthenticator</link>
+      <guid>https://github.com/Jessecar96/SteamDesktopAuthenticator</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Jessecar96/SteamDesktopAuthenticator" target="_blank">Jessecar96/SteamDesktopAuthenticator: Steam 的移动身份验证应用程序的桌面实现</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Jessecar96/SteamDesktopAuthenticator" target="_blank">https://github.com/Jessecar96/SteamDesktopAuthenticator</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>jaywcjlove/vidcrop: VidCrop 是一款视频裁剪工具，可帮助您轻松裁剪视频文件。</title>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/jaywcjlove/vidcrop</link>
+      <guid>https://github.com/jaywcjlove/vidcrop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jaywcjlove/vidcrop" target="_blank">jaywcjlove/vidcrop: VidCrop 是一款视频裁剪工具，可帮助您轻松裁剪视频文件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jaywcjlove/vidcrop" target="_blank">https://github.com/jaywcjlove/vidcrop</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
