@@ -16,6 +16,7 @@
 ### September 17, 2025 
 - [shalvah/clara: 🔊 适用于 PHP CLI 应用的简单、美观、可测试的控制台输出。](https://github.com/shalvah/clara) 
 - [Jessecar96/SteamDesktopAuthenticator: Steam的移动身份验证应用程序的桌面实现](https://github.com/Jessecar96/SteamDesktopAuthenticator) 
+- [jaywcjlove/vidcrop: VidCrop是一款视频裁剪工具，可帮助您轻松裁剪视频文件。](https://github.com/jaywcjlove/vidcrop) 
 ### September 16, 2025 
 - [the-ora/browser: Ora 是一款快速、安全、美观的浏览器，专为 macOS 设计。受 Safari 和 Arc 的启发，Ora 提供了一个干净、原生的体验，让人感觉在 macOS 上使用得心应手——没有多余的臃肿。](https://github.com/the-ora/browser) 
 - [ryangjchandler/laravel-bunny-fonts: 在 Laravel 项目中以编程方式管理 Bunny 字体。](https://github.com/ryangjchandler/laravel-bunny-fonts) 
