@@ -10,13 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### September 18, 2025 
-- [aureuserp/aureuserp: 免费开源ERP平台](https://github.com/aureuserp/aureuserp) 
-- [henrygd/beszel: 轻量级服务器监控中心，提供历史数据、Docker统计数据和警报。](https://github.com/henrygd/beszel) 
+- [aureuserp/aureuserp: 免费开源 ERP 平台](https://github.com/aureuserp/aureuserp) 
+- [henrygd/beszel: 轻量级服务器监控中心，提供历史数据、Docker 统计数据和警报。](https://github.com/henrygd/beszel) 
 ### September 17, 2025 
 - [shalvah/clara: 🔊 适用于 PHP CLI 应用的简单、美观、可测试的控制台输出。](https://github.com/shalvah/clara) 
 - [Jessecar96/SteamDesktopAuthenticator: Steam 的移动身份验证应用程序的桌面实现](https://github.com/Jessecar96/SteamDesktopAuthenticator) 
