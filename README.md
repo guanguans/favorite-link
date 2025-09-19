@@ -13,6 +13,7 @@
 
 ### September 19, 2025 
 - [microsoft/github-copilot-for-data-science: 在数据科学中应用有用的 GitHub Copilot 工作流和模式](https://github.com/microsoft/github-copilot-for-data-science) 
+- [wikimedia/AhoCorasick: AhoCorasick 是 Aho-Corasick 字符串搜索算法的 PHP 实现，这是一种高效搜索文本中多个关键词的方法。](https://github.com/wikimedia/AhoCorasick) 
 ### September 18, 2025 
 - [aureuserp/aureuserp: 免费开源 ERP 平台](https://github.com/aureuserp/aureuserp) 
 - [henrygd/beszel: 轻量级服务器监控中心，提供历史数据、Docker 统计数据和警报。](https://github.com/henrygd/beszel) 
