@@ -12,7 +12,7 @@
 
 
 ### September 19, 2025 
-- [microsoft/github-copilot-for-data-science: 在数据科学中应用有用的GitHub Copilot工作流和模式](https://github.com/microsoft/github-copilot-for-data-science) 
+- [microsoft/github-copilot-for-data-science: 在数据科学中应用有用的 GitHub Copilot 工作流和模式](https://github.com/microsoft/github-copilot-for-data-science) 
 ### September 18, 2025 
 - [aureuserp/aureuserp: 免费开源 ERP 平台](https://github.com/aureuserp/aureuserp) 
 - [henrygd/beszel: 轻量级服务器监控中心，提供历史数据、Docker 统计数据和警报。](https://github.com/henrygd/beszel) 
