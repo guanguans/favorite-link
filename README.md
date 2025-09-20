@@ -16,6 +16,7 @@
 - [spicetify/spicetify-themes: 这是一个用于 spicetify 的主题集合，spicetify 是一个用于自定义 Spotify 的命令行工具。](https://github.com/spicetify/spicetify-themes) 
 - [php-repos/phpkg: phpkg 是一个现代的 PHP 包管理器，可以提升您的代码，我们为您恢复了所有 PHP 功能，以便您可以随心所欲地编写代码。](https://github.com/php-repos/phpkg) 
 - [catppuccin/spicetify: Spotify 的舒缓粉彩主题](https://github.com/catppuccin/spicetify) 
+- [surfbryce/beautiful-lyrics: 通过引入实时歌词、动态背景和沉浸式视图，彻底改变了Spotify歌词体验](https://github.com/surfbryce/beautiful-lyrics) 
 ### September 19, 2025 
 - [microsoft/github-copilot-for-data-science: 在数据科学中应用有用的 GitHub Copilot 工作流和模式](https://github.com/microsoft/github-copilot-for-data-science) 
 - [wikimedia/AhoCorasick: AhoCorasick 是 Aho-Corasick 字符串搜索算法的 PHP 实现，这是一种高效搜索文本中多个关键词的方法。](https://github.com/wikimedia/AhoCorasick) 
