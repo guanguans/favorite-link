@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 20 Sep 2025 04:35:47 +0800</pubDate>
+    <pubDate>Fri, 19 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>spicetify/spicetify-themes: 这是一个用于 spicetify 的主题集合，spicetify 是一个用于自定义 Spotify 的命令行工具。</title>
-      <pubDate>Sat, 20 Sep 2025 04:35:47 +0800</pubDate>
+      <pubDate>Fri, 19 Sep 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/spicetify/spicetify-themes</link>
       <guid>https://github.com/spicetify/spicetify-themes</guid>
       <content:encoded><![CDATA[<a href="https://github.com/spicetify/spicetify-themes" target="_blank">spicetify/spicetify-themes: 这是一个用于 spicetify 的主题集合，spicetify 是一个用于自定义 Spotify 的命令行工具。</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/spicetify/spicetify-themes" target="_blank">https://github.com/spicetify/spicetify-themes</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>php-repos/phpkg: phpkg 是一个现代的 PHP 包管理器，可以提升您的代码，我们为您恢复了所有 PHP 功能，以便您可以随心所欲地编写代码。</title>
+      <pubDate>Fri, 19 Sep 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/php-repos/phpkg</link>
+      <guid>https://github.com/php-repos/phpkg</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/php-repos/phpkg" target="_blank">php-repos/phpkg: phpkg 是一个现代的 PHP 包管理器，可以提升您的代码，我们为您恢复了所有 PHP 功能，以便您可以随心所欲地编写代码。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/php-repos/phpkg" target="_blank">https://github.com/php-repos/phpkg</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
