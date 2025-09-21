@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 22 Sep 2025 02:23:20 +0800</pubDate>
+    <pubDate>Mon, 22 Sep 2025 02:33:18 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,13 +11,26 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>swaggyP36000/TrollStore-IPAs: 来自许多不同来源的 IPA 文件的集合，用于 TrollStore！</title>
-      <pubDate>Mon, 22 Sep 2025 02:23:20 +0800</pubDate>
+      <pubDate>Mon, 22 Sep 2025 02:33:18 +0800</pubDate>
       <link>https://github.com/swaggyP36000/TrollStore-IPAs</link>
       <guid>https://github.com/swaggyP36000/TrollStore-IPAs</guid>
       <content:encoded><![CDATA[<a href="https://github.com/swaggyP36000/TrollStore-IPAs" target="_blank">swaggyP36000/TrollStore-IPAs: 来自许多不同来源的 IPA 文件的集合，用于 TrollStore！</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/swaggyP36000/TrollStore-IPAs" target="_blank">https://github.com/swaggyP36000/TrollStore-IPAs</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>TheResonanceTeam/TrollApps: TrollStore 的 App Store 替代方案</title>
+      <pubDate>Mon, 22 Sep 2025 02:33:18 +0800</pubDate>
+      <link>https://github.com/TheResonanceTeam/TrollApps</link>
+      <guid>https://github.com/TheResonanceTeam/TrollApps</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/TheResonanceTeam/TrollApps" target="_blank">TheResonanceTeam/TrollApps: TrollStore 的 App Store 替代方案</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/TheResonanceTeam/TrollApps" target="_blank">https://github.com/TheResonanceTeam/TrollApps</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>

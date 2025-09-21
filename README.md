@@ -12,7 +12,7 @@
 
 ### September 22, 2025 
 - [swaggyP36000/TrollStore-IPAs: 来自许多不同来源的 IPA 文件的集合，用于 TrollStore！](https://github.com/swaggyP36000/TrollStore-IPAs) 
-- [TheResonanceTeam/TrollApps: TrollStore的App Store替代方案](https://github.com/TheResonanceTeam/TrollApps) 
+- [TheResonanceTeam/TrollApps: TrollStore 的 App Store 替代方案](https://github.com/TheResonanceTeam/TrollApps) 
 ### September 21, 2025 
 - [Comfy-Themes/Spicetify: 听音乐时保持舒适](https://github.com/Comfy-Themes/Spicetify) 
 ### September 20, 2025 
