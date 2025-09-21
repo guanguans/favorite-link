@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### September 22, 2025 
-- [swaggyP36000/TrollStore-IPAs: 来自许多不同来源的IPA文件的集合，用于TrollStore！](https://github.com/swaggyP36000/TrollStore-IPAs) 
+- [swaggyP36000/TrollStore-IPAs: 来自许多不同来源的 IPA 文件的集合，用于 TrollStore！](https://github.com/swaggyP36000/TrollStore-IPAs) 
 ### September 21, 2025 
 - [Comfy-Themes/Spicetify: 听音乐时保持舒适](https://github.com/Comfy-Themes/Spicetify) 
 ### September 20, 2025 
