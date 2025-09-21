@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 19 Sep 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 20 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Comfy-Themes/Spicetify: 听音乐时保持舒适</title>
+      <pubDate>Sat, 20 Sep 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/Comfy-Themes/Spicetify</link>
+      <guid>https://github.com/Comfy-Themes/Spicetify</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Comfy-Themes/Spicetify" target="_blank">Comfy-Themes/Spicetify: 听音乐时保持舒适</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Comfy-Themes/Spicetify" target="_blank">https://github.com/Comfy-Themes/Spicetify</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>spicetify/spicetify-themes: 这是一个用于 spicetify 的主题集合，spicetify 是一个用于自定义 Spotify 的命令行工具。</title>
       <pubDate>Fri, 19 Sep 2025 16:00:00 +0000</pubDate>
