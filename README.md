@@ -12,6 +12,9 @@
 
 
 
+
+### September 21, 2025 
+- [Comfy-Themes/Spicetify: 听音乐时保持舒适](https://github.com/Comfy-Themes/Spicetify) 
 ### September 20, 2025 
 - [spicetify/spicetify-themes: 这是一个用于 spicetify 的主题集合，spicetify 是一个用于自定义 Spotify 的命令行工具。](https://github.com/spicetify/spicetify-themes) 
 - [php-repos/phpkg: phpkg 是一个现代的 PHP 包管理器，可以提升您的代码，我们为您恢复了所有 PHP 功能，以便您可以随心所欲地编写代码。](https://github.com/php-repos/phpkg) 
