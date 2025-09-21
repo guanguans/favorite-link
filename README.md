@@ -13,6 +13,9 @@
 
 
 
+
+### September 22, 2025 
+- [swaggyP36000/TrollStore-IPAs: 来自许多不同来源的IPA文件的集合，用于TrollStore！](https://github.com/swaggyP36000/TrollStore-IPAs) 
 ### September 21, 2025 
 - [Comfy-Themes/Spicetify: 听音乐时保持舒适](https://github.com/Comfy-Themes/Spicetify) 
 ### September 20, 2025 
