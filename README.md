@@ -15,6 +15,7 @@
 - [TheResonanceTeam/TrollApps: TrollStore 的 App Store 替代方案](https://github.com/TheResonanceTeam/TrollApps) 
 - [Lessica/XcodeAnyTroll: 这使得开发基于 TrollStore 的系统应用程序变得非常简单，或者在不需要使用开发者证书签名的情况下测试自己的应用程序。](https://github.com/Lessica/XcodeAnyTroll) 
 - [Lessica/Reveil: 带回最先进的系统和安全分析工具。](https://github.com/Lessica/Reveil) 
+- [Lessica/TrollSpeed: 在 ios/ipados 的状态栏下方显示上传和下载速度。](https://github.com/Lessica/TrollSpeed) 
 ### September 21, 2025 
 - [Comfy-Themes/Spicetify: 听音乐时保持舒适](https://github.com/Comfy-Themes/Spicetify) 
 ### September 20, 2025 
