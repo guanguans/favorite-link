@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### September 23, 2025 
+- [massgravel/Microsoft-Activation-Scripts: 开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge、KMS38 和在线 KMS 激活方法，并提供高级故障排除功能。](https://github.com/massgravel/Microsoft-Activation-Scripts) 
 ### September 22, 2025 
 - [swaggyP36000/TrollStore-IPAs: 来自许多不同来源的 IPA 文件的集合，用于 TrollStore！](https://github.com/swaggyP36000/TrollStore-IPAs) 
 - [TheResonanceTeam/TrollApps: TrollStore 的 App Store 替代方案](https://github.com/TheResonanceTeam/TrollApps) 
