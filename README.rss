@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 22 Sep 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 24 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展</title>
+      <pubDate>Wed, 24 Sep 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/built-fast/phpstan-sensitive-parameter</link>
+      <guid>https://github.com/built-fast/phpstan-sensitive-parameter</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/built-fast/phpstan-sensitive-parameter" target="_blank">built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/built-fast/phpstan-sensitive-parameter" target="_blank">https://github.com/built-fast/phpstan-sensitive-parameter</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>massgravel/Microsoft-Activation-Scripts: 开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge、KMS38 和在线 KMS 激活方法，并提供高级故障排除功能。</title>
       <pubDate>Mon, 22 Sep 2025 16:00:00 +0000</pubDate>
