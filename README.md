@@ -15,6 +15,7 @@
 ### September 25, 2025 
 - [built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展](https://github.com/built-fast/phpstan-sensitive-parameter) 
 - [BeyondDimension/SteamTools: 🛠“Watt Toolkit”是一个开源跨平台的多功能 Steam 工具箱。](https://github.com/BeyondDimension/SteamTools) 
+- [straight-tamago/misaka: 该应用程序的目的是让 iPhone 用户能够在不越狱的情况下定制他们的手机。](https://github.com/straight-tamago/misaka) 
 ### September 23, 2025 
 - [massgravel/Microsoft-Activation-Scripts: 开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge、KMS38 和在线 KMS 激活方法，并提供高级故障排除功能。](https://github.com/massgravel/Microsoft-Activation-Scripts) 
 - [OpenCut-app/OpenCut: 开源的剪映替代品](https://github.com/OpenCut-app/OpenCut) 
