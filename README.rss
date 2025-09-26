@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 24 Sep 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 25 Sep 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。</title>
+      <pubDate>Thu, 25 Sep 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/lkrms/pretty-php</link>
+      <guid>https://github.com/lkrms/pretty-php</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lkrms/pretty-php" target="_blank">lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lkrms/pretty-php" target="_blank">https://github.com/lkrms/pretty-php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展</title>
       <pubDate>Wed, 24 Sep 2025 16:00:00 +0000</pubDate>
