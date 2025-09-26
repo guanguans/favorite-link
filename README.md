@@ -15,7 +15,7 @@
 
 ### September 26, 2025 
 - [lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。](https://github.com/lkrms/pretty-php) 
-- [nunomaduro/laravel-starter-kit: 严格的Laravel骨架-适用于那些在项目中要求一丝不苟的人。](https://github.com/nunomaduro/laravel-starter-kit) 
+- [nunomaduro/laravel-starter-kit: 严格的 Laravel 骨架 - 适用于那些在项目中要求一丝不苟的人。](https://github.com/nunomaduro/laravel-starter-kit) 
 ### September 25, 2025 
 - [built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展](https://github.com/built-fast/phpstan-sensitive-parameter) 
 - [BeyondDimension/SteamTools: 🛠“Watt Toolkit”是一个开源跨平台的多功能 Steam 工具箱。](https://github.com/BeyondDimension/SteamTools) 

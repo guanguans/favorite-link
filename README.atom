@@ -30,6 +30,23 @@ PHP 编写。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[nunomaduro/laravel-starter-kit: 严格的 Laravel 骨架 - 适用于那些在项目中要求一丝不苟的人。]]></title>
+    <published>2025-09-25T08:00:00+00:00</published>
+    <updated>2025-09-25T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nunomaduro/laravel-starter-kit"/>
+    <id>https://github.com/nunomaduro/laravel-starter-kit</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nunomaduro/laravel-starter-kit" target="_blank">nunomaduro/laravel-starter-kit: 严格的 Laravel 骨架 -
+适用于那些在项目中要求一丝不苟的人。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nunomaduro/laravel-starter-kit" target="_blank">https://github.com/nunomaduro/laravel-starter-kit</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展]]></title>
     <published>2025-09-24T16:00:00+00:00</published>
     <updated>2025-09-24T16:00:00+00:00</updated>
