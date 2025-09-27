@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### September 27, 2025 
-- [ChromeDevTools/chrome-devtools-mcp: 用于编码代理的Chrome开发工具](https://github.com/ChromeDevTools/chrome-devtools-mcp) 
+- [ChromeDevTools/chrome-devtools-mcp: 用于编码代理的 Chrome 开发工具](https://github.com/ChromeDevTools/chrome-devtools-mcp) 
 ### September 26, 2025 
 - [lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。](https://github.com/lkrms/pretty-php) 
 - [nunomaduro/laravel-starter-kit: 严格的 Laravel 骨架 - 适用于那些在项目中要求一丝不苟的人。](https://github.com/nunomaduro/laravel-starter-kit) 
