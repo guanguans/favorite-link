@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ZyperWave/ZyperWinOptimize: ZyperWin++ 是一个轻便的 Windows 优化工具，适用于 Win7-Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和 Office 快速安装。]]></title>
+    <published>2025-09-26T08:00:00+00:00</published>
+    <updated>2025-09-26T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ZyperWave/ZyperWinOptimize"/>
+    <id>https://github.com/ZyperWave/ZyperWinOptimize</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ZyperWave/ZyperWinOptimize" target="_blank">ZyperWave/ZyperWinOptimize: ZyperWin++ 是一个轻便的 Windows
+优化工具，适用于 Win7-Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和 Office
+快速安装。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ZyperWave/ZyperWinOptimize" target="_blank">https://github.com/ZyperWave/ZyperWinOptimize</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。]]></title>
     <published>2025-09-25T16:00:00+00:00</published>
     <updated>2025-09-25T16:00:00+00:00</updated>
