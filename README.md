@@ -13,6 +13,7 @@
 ### September 27, 2025 
 - [ChromeDevTools/chrome-devtools-mcp: 用于编码代理的 Chrome 开发工具](https://github.com/ChromeDevTools/chrome-devtools-mcp) 
 - [ZyperWave/ZyperWinOptimize: ZyperWin++ 是一个轻便的 Windows 优化工具，适用于 Win7-Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和 Office 快速安装。](https://github.com/ZyperWave/ZyperWinOptimize) 
+- [JerryZLiu/Dayflow：Dayflow 是一款原生 macOS 应用程序（使用 SwiftUI 开发），以 1 FPS 的速率录制您的屏幕，每 15 分钟使用 AI 进行分析，并生成您的活动时间线及摘要。](https://github.com/JerryZLiu/Dayflow) 
 ### September 26, 2025 
 - [lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。](https://github.com/lkrms/pretty-php) 
 - [nunomaduro/laravel-starter-kit: 严格的 Laravel 骨架 - 适用于那些在项目中要求一丝不苟的人。](https://github.com/nunomaduro/laravel-starter-kit) 
