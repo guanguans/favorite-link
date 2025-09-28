@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### September 28, 2025 
+- [github/copilot-cli: GitHub Copilot CLI将Copilot编码代理的强大功能直接带到您的终端。](https://github.com/github/copilot-cli) 
 ### September 27, 2025 
 - [ChromeDevTools/chrome-devtools-mcp: 用于编码代理的 Chrome 开发工具](https://github.com/ChromeDevTools/chrome-devtools-mcp) 
 - [ZyperWave/ZyperWinOptimize: ZyperWin++ 是一个轻便的 Windows 优化工具，适用于 Win7-Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和 Office 快速安装。](https://github.com/ZyperWave/ZyperWinOptimize) 
