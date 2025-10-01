@@ -16,6 +16,7 @@
 - [staabm/secure_dotenv: 具有加密密钥/值存储的安全。env 处理程序](https://github.com/staabm/secure_dotenv) 
 - [putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载！](https://github.com/putyy/res-downloader) 
 - [putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载！](https://github.com/putyy/res-downloader) 
+- [9001/copyparty: 便携式文件服务器，具有加速的可恢复上传、去重、WebDAV、FTP、TFTP、零配置、媒体索引器、缩略图++，所有功能集成在一个文件中，无需依赖](https://github.com/9001/copyparty) 
 ### September 28, 2025 
 - [github/copilot-cli: GitHub Copilot CLI 将 Copilot 编码代理的强大功能直接带到您的终端。](https://github.com/github/copilot-cli) 
 ### September 27, 2025 
