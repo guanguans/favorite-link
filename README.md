@@ -15,6 +15,7 @@
 ### October 1, 2025 
 - [staabm/secure_dotenv: 具有加密密钥/值存储的安全。env 处理程序](https://github.com/staabm/secure_dotenv) 
 - [putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!](https://github.com/putyy/res-downloader) 
+- [putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!](https://github.com/putyy/res-downloader) 
 ### September 28, 2025 
 - [github/copilot-cli: GitHub Copilot CLI 将 Copilot 编码代理的强大功能直接带到您的终端。](https://github.com/github/copilot-cli) 
 ### September 27, 2025 
