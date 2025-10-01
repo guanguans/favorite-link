@@ -13,7 +13,7 @@
 
 
 ### October 1, 2025 
-- [staabm/secure_dotenv: 具有加密密钥/值存储的安全.env处理程序](https://github.com/staabm/secure_dotenv) 
+- [staabm/secure_dotenv: 具有加密密钥/值存储的安全。env 处理程序](https://github.com/staabm/secure_dotenv) 
 ### September 28, 2025 
 - [github/copilot-cli: GitHub Copilot CLI 将 Copilot 编码代理的强大功能直接带到您的终端。](https://github.com/github/copilot-cli) 
 ### September 27, 2025 
