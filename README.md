@@ -14,7 +14,7 @@
 
 
 ### October 3, 2025 
-- [connectrpc/validate-go: 灵活、高效的Connect请求验证。](https://github.com/connectrpc/validate-go) 
+- [connectrpc/validate-go: 灵活、高效的 Connect 请求验证。](https://github.com/connectrpc/validate-go) 
 ### October 1, 2025 
 - [staabm/secure_dotenv: 具有加密密钥/值存储的安全。env 处理程序](https://github.com/staabm/secure_dotenv) 
 - [putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载！](https://github.com/putyy/res-downloader) 
