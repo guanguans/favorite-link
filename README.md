@@ -16,6 +16,7 @@
 ### October 3, 2025 
 - [connectrpc/validate-go: 灵活、高效的 Connect 请求验证。](https://github.com/connectrpc/validate-go) 
 - [tw93/Mole: 🦡 像鼹鼠一样深入挖掘来清理您的 Mac](https://github.com/tw93/Mole) 
+- [tw93/Maple: 🍁 隐藏书签栏，使用枫叶书签让你行云流水。](https://github.com/tw93/Maple) 
 ### October 1, 2025 
 - [staabm/secure_dotenv: 具有加密密钥/值存储的安全。env 处理程序](https://github.com/staabm/secure_dotenv) 
 - [putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载！](https://github.com/putyy/res-downloader) 
