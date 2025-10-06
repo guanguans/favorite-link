@@ -13,6 +13,9 @@
 
 
 
+
+### October 6, 2025 
+- [atuinsh/desktop: 可运行的运行手册。一个本地优先、可执行的运行手册编辑器，适用于真实的终端工作流程。Atuin Desktop 看起来像文档，但运行起来像你的终端。](https://github.com/atuinsh/desktop) 
 ### October 3, 2025 
 - [connectrpc/validate-go: 灵活、高效的 Connect 请求验证。](https://github.com/connectrpc/validate-go) 
 - [tw93/Mole: 🦡 像鼹鼠一样深入挖掘来清理您的 Mac](https://github.com/tw93/Mole) 
