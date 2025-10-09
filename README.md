@@ -14,6 +14,7 @@
 ### October 9, 2025 
 - [miniflux/v2: 极简和固执己见的提要阅读器](https://github.com/miniflux/v2) 
 - [songquanpeng/message-pusher: 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用](https://github.com/songquanpeng/message-pusher) 
+- [shipmonk-rnd/coverage-guard: 轻松在您的 CI 中强制执行代码覆盖率！不是按百分比，而是针对核心功能。](https://github.com/shipmonk-rnd/coverage-guard) 
 ### October 6, 2025 
 - [atuinsh/desktop: 可运行的运行手册。一个本地优先、可执行的运行手册编辑器，适用于真实的终端工作流程。Atuin Desktop 看起来像文档，但运行起来像你的终端。](https://github.com/atuinsh/desktop) 
 ### October 3, 2025 
