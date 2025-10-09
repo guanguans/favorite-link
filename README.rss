@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 05 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 08 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>miniflux/v2: 极简和固执己见的提要阅读器</title>
+      <pubDate>Wed, 08 Oct 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/miniflux/v2</link>
+      <guid>https://github.com/miniflux/v2</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/miniflux/v2" target="_blank">miniflux/v2: 极简和固执己见的提要阅读器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/miniflux/v2" target="_blank">https://github.com/miniflux/v2</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>songquanpeng/message-pusher: 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</title>
+      <pubDate>Wed, 08 Oct 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/songquanpeng/message-pusher</link>
+      <guid>https://github.com/songquanpeng/message-pusher</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/songquanpeng/message-pusher" target="_blank">songquanpeng/message-pusher: 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/songquanpeng/message-pusher" target="_blank">https://github.com/songquanpeng/message-pusher</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>atuinsh/desktop: 可运行的运行手册。一个本地优先、可执行的运行手册编辑器，适用于真实的终端工作流程。Atuin Desktop 看起来像文档，但运行起来像你的终端。</title>
       <pubDate>Sun, 05 Oct 2025 16:00:00 +0000</pubDate>

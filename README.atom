@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-10-05T16:00:00+00:00</updated>
+  <updated>2025-10-08T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,39 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[miniflux/v2: 极简和固执己见的提要阅读器]]></title>
+    <published>2025-10-08T16:00:00+00:00</published>
+    <updated>2025-10-08T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/miniflux/v2"/>
+    <id>https://github.com/miniflux/v2</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/miniflux/v2" target="_blank">miniflux/v2: 极简和固执己见的提要阅读器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/miniflux/v2" target="_blank">https://github.com/miniflux/v2</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[songquanpeng/message-pusher: 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用]]></title>
+    <published>2025-10-08T08:00:00+00:00</published>
+    <updated>2025-10-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/songquanpeng/message-pusher"/>
+    <id>https://github.com/songquanpeng/message-pusher</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/songquanpeng/message-pusher" target="_blank">songquanpeng/message-pusher: 搭建专属于你的消息推送服务，支持多种消息推送方式，支持
+Markdown，基于 Golang 仅单可执行文件，开箱即用</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/songquanpeng/message-pusher" target="_blank">https://github.com/songquanpeng/message-pusher</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[atuinsh/desktop: 可运行的运行手册。一个本地优先、可执行的运行手册编辑器，适用于真实的终端工作流程。Atuin Desktop 看起来像文档，但运行起来像你的终端。]]></title>
     <published>2025-10-05T16:00:00+00:00</published>
