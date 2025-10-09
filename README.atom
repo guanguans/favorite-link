@@ -63,6 +63,22 @@ Markdown，基于 Golang 仅单可执行文件，开箱即用</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[timelinize/timelinize: 在您的计算机上将所有帐户和设备的数据存储在一个统一的时间线上]]></title>
+    <published>2025-10-07T16:00:00+00:00</published>
+    <updated>2025-10-07T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/timelinize/timelinize"/>
+    <id>https://github.com/timelinize/timelinize</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/timelinize/timelinize" target="_blank">timelinize/timelinize: 在您的计算机上将所有帐户和设备的数据存储在一个统一的时间线上</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/timelinize/timelinize" target="_blank">https://github.com/timelinize/timelinize</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[atuinsh/desktop: 可运行的运行手册。一个本地优先、可执行的运行手册编辑器，适用于真实的终端工作流程。Atuin Desktop 看起来像文档，但运行起来像你的终端。]]></title>
     <published>2025-10-05T16:00:00+00:00</published>
     <updated>2025-10-05T16:00:00+00:00</updated>
