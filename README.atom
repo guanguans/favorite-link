@@ -46,6 +46,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[xxnuo/dns-benchmark: dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。]]></title>
+    <published>2025-10-09T00:00:00+00:00</published>
+    <updated>2025-10-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/xxnuo/dns-benchmark"/>
+    <id>https://github.com/xxnuo/dns-benchmark</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/xxnuo/dns-benchmark" target="_blank">xxnuo/dns-benchmark: dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的
+DNS 服务器的可访问性和性能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/xxnuo/dns-benchmark" target="_blank">https://github.com/xxnuo/dns-benchmark</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[miniflux/v2: 极简和固执己见的提要阅读器]]></title>
     <published>2025-10-08T16:00:00+00:00</published>
     <updated>2025-10-08T16:00:00+00:00</updated>
