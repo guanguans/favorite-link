@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[j-plugins/infection-plugin: 用于感染 PHP 变异测试框架的 IntelliJ IDEA 插件]]></title>
+    <published>2025-10-09T08:00:00+00:00</published>
+    <updated>2025-10-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/j-plugins/infection-plugin"/>
+    <id>https://github.com/j-plugins/infection-plugin</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/j-plugins/infection-plugin" target="_blank">j-plugins/infection-plugin: 用于感染 PHP 变异测试框架的 IntelliJ IDEA
+插件</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/j-plugins/infection-plugin" target="_blank">https://github.com/j-plugins/infection-plugin</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[miniflux/v2: 极简和固执己见的提要阅读器]]></title>
     <published>2025-10-08T16:00:00+00:00</published>
     <updated>2025-10-08T16:00:00+00:00</updated>
