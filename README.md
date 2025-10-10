@@ -14,6 +14,7 @@
 
 ### October 10, 2025 
 - [wizenheimer/blaze: 用 Go 编写的高性能全文搜索引擎](https://github.com/wizenheimer/blaze) 
+- [j-plugins/infection-plugin: 用于感染PHP变异测试框架的IntelliJ IDEA插件](https://github.com/j-plugins/infection-plugin) 
 ### October 9, 2025 
 - [miniflux/v2: 极简和固执己见的提要阅读器](https://github.com/miniflux/v2) 
 - [songquanpeng/message-pusher: 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用](https://github.com/songquanpeng/message-pusher) 
