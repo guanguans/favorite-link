@@ -15,6 +15,7 @@
 
 ### October 11, 2025 
 - [vectorifyai/guzzle-rate-limiter: Guzzle 的速率限制中间件](https://github.com/vectorifyai/guzzle-rate-limiter) 
+- [SQL 性能改进：寻找正确的查询来修复（第一部分）](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1) 
 ### October 10, 2025 
 - [wizenheimer/blaze: 用 Go 编写的高性能全文搜索引擎](https://github.com/wizenheimer/blaze) 
 - [j-plugins/infection-plugin: 用于感染 PHP 变异测试框架的 IntelliJ IDEA 插件](https://github.com/j-plugins/infection-plugin) 
