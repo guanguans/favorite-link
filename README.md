@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### October 12, 2025 
-- [joyce677/TrendRadar: 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用](https://github.com/joyce677/TrendRadar) 
+- [joyce677/TrendRadar: 一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，30 秒网页部署，1 分钟手机通知，无需编程基础。还有文字和图片版 api 可调用](https://github.com/joyce677/TrendRadar) 
 ### October 11, 2025 
 - [vectorifyai/guzzle-rate-limiter: Guzzle 的速率限制中间件](https://github.com/vectorifyai/guzzle-rate-limiter) 
 - [SQL 性能改进：寻找正确的查询来修复 (第一部分)](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1) 
