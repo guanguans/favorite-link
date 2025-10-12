@@ -12,6 +12,7 @@
 
 ### October 12, 2025 
 - [joyce677/TrendRadar: 一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，30 秒网页部署，1 分钟手机通知，无需编程基础。还有文字和图片版 api 可调用](https://github.com/joyce677/TrendRadar) 
+- [CapSoftware/Cap: Cap是Loom的开源替代品。这是一款视频消息工具，允许您在几秒钟内录制、编辑和分享视频。](https://github.com/CapSoftware/Cap) 
 ### October 11, 2025 
 - [vectorifyai/guzzle-rate-limiter: Guzzle 的速率限制中间件](https://github.com/vectorifyai/guzzle-rate-limiter) 
 - [SQL 性能改进：寻找正确的查询来修复 (第一部分)](https://ohdear.app/news-and-updates/sql-performance-improvements-finding-the-right-queries-to-fix-part-1) 
