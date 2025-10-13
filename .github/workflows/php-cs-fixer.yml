@@ -40,7 +40,7 @@ jobs:
         run: composer style-fix
 
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_options: '--no-verify'
           commit_message: Fix styling
