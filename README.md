@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### October 14, 2025 
+- [amir1376/ab-download-manager: AB Download Manager 是一款桌面应用程序，可帮助您比以往更有效地管理和组织下载。](https://github.com/amir1376/ab-download-manager) 
 ### October 12, 2025 
 - [joyce677/TrendRadar: 一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，30 秒网页部署，1 分钟手机通知，无需编程基础。还有文字和图片版 api 可调用](https://github.com/joyce677/TrendRadar) 
 - [CapSoftware/Cap: Cap 是 Loom 的开源替代品。这是一款视频消息工具，允许您在几秒钟内录制、编辑和分享视频。](https://github.com/CapSoftware/Cap) 
