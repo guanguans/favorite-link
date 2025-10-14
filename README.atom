@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-10-11T16:00:00+00:00</updated>
+  <updated>2025-10-13T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[amir1376/ab-download-manager: AB Download Manager 是一款桌面应用程序，可帮助您比以往更有效地管理和组织下载。]]></title>
+    <published>2025-10-13T16:00:00+00:00</published>
+    <updated>2025-10-13T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/amir1376/ab-download-manager"/>
+    <id>https://github.com/amir1376/ab-download-manager</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/amir1376/ab-download-manager" target="_blank">amir1376/ab-download-manager: AB Download Manager
+是一款桌面应用程序，可帮助您比以往更有效地管理和组织下载。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/amir1376/ab-download-manager" target="_blank">https://github.com/amir1376/ab-download-manager</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[joyce677/TrendRadar: 一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，30 秒网页部署，1 分钟手机通知，无需编程基础。还有文字和图片版 api 可调用]]></title>
     <published>2025-10-11T16:00:00+00:00</published>
