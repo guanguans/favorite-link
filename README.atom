@@ -47,6 +47,22 @@ FreeDomain：人人享有免费域名</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[code3-dev/DNS-XS: 测试和比较各种 DNS 服务器的性能]]></title>
+    <published>2025-10-13T00:00:00+00:00</published>
+    <updated>2025-10-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/code3-dev/DNS-XS"/>
+    <id>https://github.com/code3-dev/DNS-XS</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/code3-dev/DNS-XS" target="_blank">code3-dev/DNS-XS: 测试和比较各种 DNS 服务器的性能</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/code3-dev/DNS-XS" target="_blank">https://github.com/code3-dev/DNS-XS</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[joyce677/TrendRadar: 一键监控今日头条、百度热搜、微博、抖音、知乎、B 站等 35 个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram 推送，30 秒网页部署，1 分钟手机通知，无需编程基础。还有文字和图片版 api 可调用]]></title>
     <published>2025-10-11T16:00:00+00:00</published>
     <updated>2025-10-11T16:00:00+00:00</updated>
