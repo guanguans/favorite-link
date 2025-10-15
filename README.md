@@ -13,7 +13,7 @@
 
 
 ### October 15, 2025 
-- [rvben/rumdl: rumdl是一个高性能的Markdown linter和格式化程序，有助于确保Markdown文件中的一致性和最佳实践。](https://github.com/rvben/rumdl) 
+- [rvben/rumdl: rumdl 是一个高性能的 Markdown linter 和格式化程序，有助于确保 Markdown 文件中的一致性和最佳实践。](https://github.com/rvben/rumdl) 
 ### October 14, 2025 
 - [amir1376/ab-download-manager: AB Download Manager 是一款桌面应用程序，可帮助您比以往更有效地管理和组织下载。](https://github.com/amir1376/ab-download-manager) 
 - [DigitalPlatDev/FreeDomain: DigitalPlat FreeDomain：人人享有免费域名](https://github.com/DigitalPlatDev/FreeDomain) 

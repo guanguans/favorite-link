@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 13 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 14 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>rvben/rumdl: rumdl 是一个高性能的 Markdown linter 和格式化程序，有助于确保 Markdown 文件中的一致性和最佳实践。</title>
+      <pubDate>Tue, 14 Oct 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/rvben/rumdl</link>
+      <guid>https://github.com/rvben/rumdl</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rvben/rumdl" target="_blank">rvben/rumdl: rumdl 是一个高性能的 Markdown linter 和格式化程序，有助于确保 Markdown 文件中的一致性和最佳实践。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/rvben/rumdl" target="_blank">https://github.com/rvben/rumdl</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>amir1376/ab-download-manager: AB Download Manager 是一款桌面应用程序，可帮助您比以往更有效地管理和组织下载。</title>
       <pubDate>Mon, 13 Oct 2025 16:00:00 +0000</pubDate>
