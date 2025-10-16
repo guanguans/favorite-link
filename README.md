@@ -15,6 +15,7 @@
 
 ### October 16, 2025 
 - [codezero-be/browser-locale: 从访问者的浏览器中获取最喜欢的区域设置。](https://github.com/codezero-be/browser-locale) 
+- [game1024/OpenSpeedy: 🎮 一款开源的游戏变速器](https://github.com/game1024/OpenSpeedy) 
 ### October 15, 2025 
 - [rvben/rumdl: rumdl 是一个高性能的 Markdown linter 和格式化程序，有助于确保 Markdown 文件中的一致性和最佳实践。](https://github.com/rvben/rumdl) 
 - [zizmorcore/zizmor: GitHub 操作的静态分析](https://github.com/zizmorcore/zizmor) 
