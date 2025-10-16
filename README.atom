@@ -29,6 +29,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[game1024/OpenSpeedy: 🎮 一款开源的游戏变速器]]></title>
+    <published>2025-10-15T08:00:00+00:00</published>
+    <updated>2025-10-15T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/game1024/OpenSpeedy"/>
+    <id>https://github.com/game1024/OpenSpeedy</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/game1024/OpenSpeedy" target="_blank">game1024/OpenSpeedy: 🎮 一款开源的游戏变速器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/game1024/OpenSpeedy" target="_blank">https://github.com/game1024/OpenSpeedy</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rvben/rumdl: rumdl 是一个高性能的 Markdown linter 和格式化程序，有助于确保 Markdown 文件中的一致性和最佳实践。]]></title>
     <published>2025-10-14T16:00:00+00:00</published>
     <updated>2025-10-14T16:00:00+00:00</updated>
