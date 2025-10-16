@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 14 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>codezero-be/browser-locale: 从访问者的浏览器中获取最喜欢的区域设置。</title>
+      <pubDate>Wed, 15 Oct 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/codezero-be/browser-locale</link>
+      <guid>https://github.com/codezero-be/browser-locale</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/codezero-be/browser-locale" target="_blank">codezero-be/browser-locale: 从访问者的浏览器中获取最喜欢的区域设置。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/codezero-be/browser-locale" target="_blank">https://github.com/codezero-be/browser-locale</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>rvben/rumdl: rumdl 是一个高性能的 Markdown linter 和格式化程序，有助于确保 Markdown 文件中的一致性和最佳实践。</title>
       <pubDate>Tue, 14 Oct 2025 16:00:00 +0000</pubDate>
