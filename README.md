@@ -13,6 +13,7 @@
 ### October 18, 2025 
 - [Intentify-app/Intentify: 通过运行 JavaScript 并借助 Apple Intelligence 支持来扩展 Spotlight。](https://github.com/Intentify-app/Intentify) 
 - [LunarBar-app/LunarBar: 适用于 macOS 菜单栏的小巧农历。](https://github.com/LunarBar-app/LunarBar) 
+- [Lakr233/Asspp: 轻松管理多个 App Store 账户。](https://github.com/Lakr233/Asspp) 
 ### October 16, 2025 
 - [codezero-be/browser-locale: 从访问者的浏览器中获取最喜欢的区域设置。](https://github.com/codezero-be/browser-locale) 
 - [game1024/OpenSpeedy: 🎮 一款开源的游戏变速器](https://github.com/game1024/OpenSpeedy) 
