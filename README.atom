@@ -30,6 +30,22 @@ Intelligence 支持来扩展 Spotlight。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[LunarBar-app/LunarBar: 适用于 macOS 菜单栏的小巧农历。]]></title>
+    <published>2025-10-17T08:00:00+00:00</published>
+    <updated>2025-10-17T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/LunarBar-app/LunarBar"/>
+    <id>https://github.com/LunarBar-app/LunarBar</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/LunarBar-app/LunarBar" target="_blank">LunarBar-app/LunarBar: 适用于 macOS 菜单栏的小巧农历。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/LunarBar-app/LunarBar" target="_blank">https://github.com/LunarBar-app/LunarBar</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[codezero-be/browser-locale: 从访问者的浏览器中获取最喜欢的区域设置。]]></title>
     <published>2025-10-15T16:00:00+00:00</published>
     <updated>2025-10-15T16:00:00+00:00</updated>
