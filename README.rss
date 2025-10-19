@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>BenSeDev/laravel-inflight-query-lock: 使用分布式锁和异步执行删除重复的并发相同查询。当多个请求同时触发同一个慢查询时，只有一个请求执行，而其他请求则等待缓存结果。</title>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/BenSeDev/laravel-inflight-query-lock</link>
+      <guid>https://github.com/BenSeDev/laravel-inflight-query-lock</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/BenSeDev/laravel-inflight-query-lock" target="_blank">BenSeDev/laravel-inflight-query-lock: 使用分布式锁和异步执行删除重复的并发相同查询。当多个请求同时触发同一个慢查询时，只有一个请求执行，而其他请求则等待缓存结果。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/BenSeDev/laravel-inflight-query-lock" target="_blank">https://github.com/BenSeDev/laravel-inflight-query-lock</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Intentify-app/Intentify: 通过运行 JavaScript 并借助 Apple Intelligence 支持来扩展 Spotlight。</title>
       <pubDate>Fri, 17 Oct 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/Intentify-app/Intentify</link>
