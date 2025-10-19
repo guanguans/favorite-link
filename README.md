@@ -17,6 +17,7 @@
 - [BenSeDev/laravel-inflight-query-lock: 使用分布式锁和异步执行删除重复的并发相同查询。当多个请求同时触发同一个慢查询时，只有一个请求执行，而其他请求则等待缓存结果。](https://github.com/BenSeDev/laravel-inflight-query-lock) 
 - [解锁完整的 Apple 功能和集成服务](https://github.com/NSRingo) 
 - [cantino/mcfly: 浏览您的 Shell 历史记录。](https://github.com/cantino/mcfly) 
+- [HMYDK/AIGitCommit: 此插件使用AI根据代码中的更改自动生成提交消息。](https://github.com/HMYDK/AIGitCommit) 
 ### October 18, 2025 
 - [Intentify-app/Intentify: 通过运行 JavaScript 并借助 Apple Intelligence 支持来扩展 Spotlight。](https://github.com/Intentify-app/Intentify) 
 - [LunarBar-app/LunarBar: 适用于 macOS 菜单栏的小巧农历。](https://github.com/LunarBar-app/LunarBar) 
