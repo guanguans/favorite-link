@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[cleaniquecoders/traitify: Traitify 是一个 Laravel 扩展包，旨在通过提供一系列可复用的特性和契约来简化和增强您的开发流程。它允许开发人员轻松地将常用功能集成到他们的 Laravel 应用程序中，同时遵循一致、可维护的代码库。]]></title>
+    <published>2025-10-18T08:00:00+00:00</published>
+    <updated>2025-10-18T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/cleaniquecoders/traitify"/>
+    <id>https://github.com/cleaniquecoders/traitify</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/cleaniquecoders/traitify" target="_blank">cleaniquecoders/traitify: Traitify 是一个 Laravel
+扩展包，旨在通过提供一系列可复用的特性和契约来简化和增强您的开发流程。它允许开发人员轻松地将常用功能集成到他们的 Laravel
+应用程序中，同时遵循一致、可维护的代码库。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/cleaniquecoders/traitify" target="_blank">https://github.com/cleaniquecoders/traitify</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Intentify-app/Intentify: 通过运行 JavaScript 并借助 Apple Intelligence 支持来扩展 Spotlight。]]></title>
     <published>2025-10-17T16:00:00+00:00</published>
     <updated>2025-10-17T16:00:00+00:00</updated>
