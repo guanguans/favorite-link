@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### October 19, 2025 
+- [Linkxtr/laravel-qrcode: 一个美丽而简单的Laravel二维码生成器。这个包提供了一个表达式接口，用于以各种格式生成二维码，并具有广泛的自定义选项。](https://github.com/Linkxtr/laravel-qrcode) 
 ### October 18, 2025 
 - [Intentify-app/Intentify: 通过运行 JavaScript 并借助 Apple Intelligence 支持来扩展 Spotlight。](https://github.com/Intentify-app/Intentify) 
 - [LunarBar-app/LunarBar: 适用于 macOS 菜单栏的小巧农历。](https://github.com/LunarBar-app/LunarBar) 
