@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-10-18T16:00:00+00:00</updated>
+  <updated>2025-10-21T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[aviwad/LyricFever: MacOS 的最佳 Spotify Apple Music 歌词体验 (LyricsX 的精神继承者)]]></title>
+    <published>2025-10-21T16:00:00+00:00</published>
+    <updated>2025-10-21T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="LyricsX 的精神继承者)](https://github.com/aviwad/LyricFever"/>
+    <id>LyricsX 的精神继承者)](https://github.com/aviwad/LyricFever</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="LyricsX%20%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%BB%A7%E6%89%BF%E8%80%85)](https://github.com/aviwad/LyricFever" target="_blank">aviwad/LyricFever: MacOS 的最佳 Spotify Apple Music
+歌词体验 (LyricsX 的精神继承者)</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="LyricsX%20%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%BB%A7%E6%89%BF%E8%80%85)](https://github.com/aviwad/LyricFever" target="_blank">LyricsX
+的精神继承者)](https://github.com/aviwad/LyricFever</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Linkxtr/laravel-qrcode: 一个美丽而简单的 Laravel 二维码生成器。这个包提供了一个表达式接口，用于以各种格式生成二维码，并具有广泛的自定义选项。]]></title>
     <published>2025-10-18T16:00:00+00:00</published>
