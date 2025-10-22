@@ -14,6 +14,7 @@
 
 ### October 22, 2025 
 - [aviwad/LyricFever: MacOS 的最佳 Spotify Apple Music 歌词体验 (LyricsX 的精神继承者)](https://github.com/aviwad/LyricFever) 
+- [mountain-loop/yaak: 最直观的桌面API客户端。组织和执行REST、GraphQL、WebSockets、服务器发送事件和gRPC 🦬](https://github.com/mountain-loop/yaak) 
 ### October 19, 2025 
 - [Linkxtr/laravel-qrcode: 一个美丽而简单的 Laravel 二维码生成器。这个包提供了一个表达式接口，用于以各种格式生成二维码，并具有广泛的自定义选项。](https://github.com/Linkxtr/laravel-qrcode) 
 - [cleaniquecoders/traitify: Traitify 是一个 Laravel 扩展包，旨在通过提供一系列可复用的特性和契约来简化和增强您的开发流程。它允许开发人员轻松地将常用功能集成到他们的 Laravel 应用程序中，同时遵循一致、可维护的代码库。](https://github.com/cleaniquecoders/traitify) 
