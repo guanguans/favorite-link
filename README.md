@@ -15,6 +15,7 @@
 
 ### October 23, 2025 
 - [MarkEdit-app/MarkEdit：就像 Mac 上的 TextEdit 一样，但专用于 Markdown。](https://github.com/MarkEdit-app/MarkEdit) 
+- [evilmartians/lefthook: 快速而强大的Git钩子管理器，适用于任何类型的项目。](https://github.com/evilmartians/lefthook) 
 ### October 22, 2025 
 - [aviwad/LyricFever: MacOS 的最佳 Spotify Apple Music 歌词体验 (LyricsX 的精神继承者)](https://github.com/aviwad/LyricFever) 
 - [mountain-loop/yaak: 最直观的桌面 API 客户端。组织和执行 REST、GraphQL、WebSockets、服务器发送事件和 gRPC 🦬](https://github.com/mountain-loop/yaak) 
