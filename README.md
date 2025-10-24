@@ -12,7 +12,7 @@
 
 ### October 24, 2025 
 - [sfsam/Itsycal: Itsycal 是一款适用于 Mac 菜单栏的小型日历。](https://github.com/sfsam/Itsycal) 
-- [vincentneo/LosslessSwitcher: 为Mac上的音频设备自动切换Apple Music无损采样率。](https://github.com/vincentneo/LosslessSwitcher) 
+- [vincentneo/LosslessSwitcher: 为 Mac 上的音频设备自动切换 Apple Music 无损采样率。](https://github.com/vincentneo/LosslessSwitcher) 
 ### October 23, 2025 
 - [MarkEdit-app/MarkEdit：就像 Mac 上的 TextEdit 一样，但专用于 Markdown。](https://github.com/MarkEdit-app/MarkEdit) 
 - [evilmartians/lefthook: 快速而强大的 Git 钩子管理器，适用于任何类型的项目。](https://github.com/evilmartians/lefthook) 
