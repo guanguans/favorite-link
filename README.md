@@ -12,7 +12,7 @@
 
 
 ### October 25, 2025 
-- [magic-akari/lrc-maker: 歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具](https://github.com/magic-akari/lrc-maker) 
+- [magic-akari/lrc-maker: 歌词滚动姬 ｜ 可能是你所能见到的最好用的歌词制作工具](https://github.com/magic-akari/lrc-maker) 
 ### October 24, 2025 
 - [sfsam/Itsycal: Itsycal 是一款适用于 Mac 菜单栏的小型日历。](https://github.com/sfsam/Itsycal) 
 - [vincentneo/LosslessSwitcher: 为 Mac 上的音频设备自动切换 Apple Music 无损采样率。](https://github.com/vincentneo/LosslessSwitcher) 
