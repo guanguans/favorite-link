@@ -61,6 +61,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rhukster/sphp.sh: 用于在 BREW 安装的 PHP 版本之间切换的 Shell 脚本]]></title>
+    <published>2025-10-23T16:00:00+00:00</published>
+    <updated>2025-10-23T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rhukster/sphp.sh"/>
+    <id>https://github.com/rhukster/sphp.sh</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/rhukster/sphp.sh" target="_blank">rhukster/sphp.sh: 用于在 BREW 安装的 PHP 版本之间切换的 Shell 脚本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/rhukster/sphp.sh" target="_blank">https://github.com/rhukster/sphp.sh</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sfsam/Itsycal: Itsycal 是一款适用于 Mac 菜单栏的小型日历。]]></title>
     <published>2025-10-23T16:00:00+00:00</published>
     <updated>2025-10-23T16:00:00+00:00</updated>
