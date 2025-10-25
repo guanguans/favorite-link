@@ -15,6 +15,7 @@
 - [magic-akari/lrc-maker: 歌词滚动姬 ｜ 可能是你所能见到的最好用的歌词制作工具](https://github.com/magic-akari/lrc-maker) 
 - [xiaye13579/BBLL: 一个第三方哔哩哔哩客户端](https://github.com/xiaye13579/BBLL) 
 - [luzhenhua/NCE-Flow: 新概念英语在线点读，点句即读、连续播放](https://github.com/luzhenhua/NCE-Flow) 
+- [rhukster/sphp.sh: 用于在BREW安装的PHP版本之间切换的Shell脚本](https://github.com/rhukster/sphp.sh) 
 ### October 24, 2025 
 - [sfsam/Itsycal: Itsycal 是一款适用于 Mac 菜单栏的小型日历。](https://github.com/sfsam/Itsycal) 
 - [vincentneo/LosslessSwitcher: 为 Mac 上的音频设备自动切换 Apple Music 无损采样率。](https://github.com/vincentneo/LosslessSwitcher) 
