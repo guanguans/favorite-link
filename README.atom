@@ -50,6 +50,24 @@ Comet、Dia。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[krakjoe/em: em 是一个完整的 PHP 开发环境，可以完全在您的浏览器中运行或作为桌面应用程序。它将 PHP 编译为 WebAssembly，提供一个沙箱环境，您可以在其中编写、测试和运行 PHP 代码，而无需任何服务器设置。]]></title>
+    <published>2025-10-25T00:00:00+00:00</published>
+    <updated>2025-10-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/krakjoe/em"/>
+    <id>https://github.com/krakjoe/em</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/krakjoe/em" target="_blank">krakjoe/em:
+em 是一个完整的 PHP 开发环境，可以完全在您的浏览器中运行或作为桌面应用程序。它将 PHP 编译为
+WebAssembly，提供一个沙箱环境，您可以在其中编写、测试和运行 PHP 代码，而无需任何服务器设置。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/krakjoe/em" target="_blank">https://github.com/krakjoe/em</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[magic-akari/lrc-maker: 歌词滚动姬 ｜ 可能是你所能见到的最好用的歌词制作工具]]></title>
     <published>2025-10-24T16:00:00+00:00</published>
     <updated>2025-10-24T16:00:00+00:00</updated>
