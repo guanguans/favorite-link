@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### October 26, 2025 
+- [browseros-ai/BrowserOS: 🌐 BrowserOS is an open-source chromium fork that runs AI agents natively. Your open-source, privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia。](https://github.com/browseros-ai/BrowserOS) 
 ### October 25, 2025 
 - [magic-akari/lrc-maker: 歌词滚动姬 ｜ 可能是你所能见到的最好用的歌词制作工具](https://github.com/magic-akari/lrc-maker) 
 - [xiaye13579/BBLL: 一个第三方哔哩哔哩客户端](https://github.com/xiaye13579/BBLL) 
