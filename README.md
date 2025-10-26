@@ -15,6 +15,7 @@
 ### October 26, 2025 
 - [browseros-ai/BrowserOS: 🌐 BrowserOS is an open-source chromium fork that runs AI agents natively. Your open-source, privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia。](https://github.com/browseros-ai/BrowserOS) 
 - [browseros-ai/BrowserOS: 🌐 BrowserOS 是一个开源的 Chromium 分支，能够原生运行 AI 代理。您开源的、隐私优先的替代品，ChatGPT Atlas、Perplexity Comet、Dia。](https://github.com/browseros-ai/BrowserOS) 
+- [krakjoe/em: em 是一个完整的 PHP 开发环境，可以完全在您的浏览器中运行或作为桌面应用程序。它将 PHP 编译为 WebAssembly，提供一个沙箱环境，您可以在其中编写、测试和运行 PHP 代码，而无需任何服务器设置。](https://github.com/krakjoe/em) 
 ### October 25, 2025 
 - [magic-akari/lrc-maker: 歌词滚动姬 ｜ 可能是你所能见到的最好用的歌词制作工具](https://github.com/magic-akari/lrc-maker) 
 - [xiaye13579/BBLL: 一个第三方哔哩哔哩客户端](https://github.com/xiaye13579/BBLL) 
