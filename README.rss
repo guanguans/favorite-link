@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 25 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 26 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>AceDroidX/frp-Android: 一个 Android 的 frp 客户端</title>
+      <pubDate>Sun, 26 Oct 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/AceDroidX/frp-Android</link>
+      <guid>https://github.com/AceDroidX/frp-Android</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/AceDroidX/frp-Android" target="_blank">AceDroidX/frp-Android: 一个 Android 的 frp 客户端</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/AceDroidX/frp-Android" target="_blank">https://github.com/AceDroidX/frp-Android</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>browseros-ai/BrowserOS: 🌐 BrowserOS is an open-source chromium fork that runs AI agents natively. Your open-source, privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia。</title>
       <pubDate>Sat, 25 Oct 2025 16:00:00 +0000</pubDate>
