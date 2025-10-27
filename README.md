@@ -12,6 +12,9 @@
 
 
 
+
+### October 27, 2025 
+- [AceDroidX/frp-Android: 一个Android的frp客户端](https://github.com/AceDroidX/frp-Android) 
 ### October 26, 2025 
 - [browseros-ai/BrowserOS: 🌐 BrowserOS is an open-source chromium fork that runs AI agents natively. Your open-source, privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia。](https://github.com/browseros-ai/BrowserOS) 
 - [browseros-ai/BrowserOS: 🌐 BrowserOS 是一个开源的 Chromium 分支，能够原生运行 AI 代理。您开源的、隐私优先的替代品，ChatGPT Atlas、Perplexity Comet、Dia。](https://github.com/browseros-ai/BrowserOS) 
