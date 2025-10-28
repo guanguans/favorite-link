@@ -13,6 +13,7 @@
 ### October 28, 2025 
 - [firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。](https://github.com/firezone/firezone) 
 - [rango886/FreeBili: 一个高性能、使用方便的影视聚合搜索和播放工具](https://github.com/rango886/FreeBili) 
+- [webreinvent/vaahcms: VAAHCMS是一个基于Laravel的开源Web应用程序开发平台，附带一个无头内容管理系统（CMS）。](https://github.com/webreinvent/vaahcms) 
 ### October 27, 2025 
 - [AceDroidX/frp-Android: 一个 Android 的 frp 客户端](https://github.com/AceDroidX/frp-Android) 
 ### October 26, 2025 
