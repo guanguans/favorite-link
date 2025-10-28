@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 26 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。</title>
+      <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/firezone/firezone</link>
+      <guid>https://github.com/firezone/firezone</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/firezone/firezone" target="_blank">firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/firezone/firezone" target="_blank">https://github.com/firezone/firezone</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>AceDroidX/frp-Android: 一个 Android 的 frp 客户端</title>
       <pubDate>Sun, 26 Oct 2025 16:00:00 +0000</pubDate>

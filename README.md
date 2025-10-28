@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### October 28, 2025 
-- [firezone/firezone: 基于WireGuard®构建的企业-ready零信任访问平台。](https://github.com/firezone/firezone) 
+- [firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。](https://github.com/firezone/firezone) 
 ### October 27, 2025 
 - [AceDroidX/frp-Android: 一个 Android 的 frp 客户端](https://github.com/AceDroidX/frp-Android) 
 ### October 26, 2025 
