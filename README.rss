@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>maxkhim/laravel-storage-dedupler：Dedupler 是一个优雅的 Laravel 包，能够一次性解决这个问题。它通过使用 SHA-1 哈希自动防止文件重复，并提供一个美观的多态 API 来管理您的附件。</title>
+      <pubDate>Tue, 28 Oct 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/maxkhim/laravel-storage-dedupler</link>
+      <guid>https://github.com/maxkhim/laravel-storage-dedupler</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/maxkhim/laravel-storage-dedupler" target="_blank">maxkhim/laravel-storage-dedupler：Dedupler 是一个优雅的 Laravel 包，能够一次性解决这个问题。它通过使用 SHA-1 哈希自动防止文件重复，并提供一个美观的多态 API 来管理您的附件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/maxkhim/laravel-storage-dedupler" target="_blank">https://github.com/maxkhim/laravel-storage-dedupler</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。</title>
       <pubDate>Mon, 27 Oct 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/firezone/firezone</link>

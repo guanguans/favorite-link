@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[maxkhim/laravel-storage-dedupler：Dedupler 是一个优雅的 Laravel 包，能够一次性解决这个问题。它通过使用 SHA-1 哈希自动防止文件重复，并提供一个美观的多态 API 来管理您的附件。]]></title>
+    <published>2025-10-28T08:00:00+00:00</published>
+    <updated>2025-10-28T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/maxkhim/laravel-storage-dedupler"/>
+    <id>https://github.com/maxkhim/laravel-storage-dedupler</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/maxkhim/laravel-storage-dedupler" target="_blank">maxkhim/laravel-storage-dedupler：Dedupler 是一个优雅的
+Laravel 包，能够一次性解决这个问题。它通过使用 SHA-1 哈希自动防止文件重复，并提供一个美观的多态 API
+来管理您的附件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/maxkhim/laravel-storage-dedupler" target="_blank">https://github.com/maxkhim/laravel-storage-dedupler</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。]]></title>
     <published>2025-10-27T16:00:00+00:00</published>
     <updated>2025-10-27T16:00:00+00:00</updated>
