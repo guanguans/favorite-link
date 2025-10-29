@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### October 29, 2025 
+- [Ackites/Nrfr: 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制](https://github.com/Ackites/Nrfr) 
 ### October 28, 2025 
 - [firezone/firezone: 基于 WireGuard® 构建的企业-ready 零信任访问平台。](https://github.com/firezone/firezone) 
 - [rango886/FreeBili: 一个高性能、使用方便的影视聚合搜索和播放工具](https://github.com/rango886/FreeBili) 
