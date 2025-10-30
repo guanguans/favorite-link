@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 28 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 29 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！</title>
+      <pubDate>Wed, 29 Oct 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/oiwn/tarts</link>
+      <guid>https://github.com/oiwn/tarts</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/oiwn/tarts" target="_blank">oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/oiwn/tarts" target="_blank">https://github.com/oiwn/tarts</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Ackites/Nrfr: 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制</title>
       <pubDate>Tue, 28 Oct 2025 16:00:00 +0000</pubDate>
