@@ -30,6 +30,40 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[migueleliasweb/go-github-mock: 一个用于帮助单元测试使用 Golang 的 Github SDK 的代码的库]]></title>
+    <published>2025-10-29T08:00:00+00:00</published>
+    <updated>2025-10-29T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/migueleliasweb/go-github-mock"/>
+    <id>https://github.com/migueleliasweb/go-github-mock</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/migueleliasweb/go-github-mock" target="_blank">migueleliasweb/go-github-mock: 一个用于帮助单元测试使用 Golang 的
+Github SDK 的代码的库</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/migueleliasweb/go-github-mock" target="_blank">https://github.com/migueleliasweb/go-github-mock</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[HelgeSverre/toon-php: johannschopplich/toon 的 PHP 移植 - 一种紧凑的数据格式，旨在减少向大型语言模型发送结构化数据时的令牌消耗。]]></title>
+    <published>2025-10-29T00:00:00+00:00</published>
+    <updated>2025-10-29T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/HelgeSverre/toon-php"/>
+    <id>https://github.com/HelgeSverre/toon-php</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/HelgeSverre/toon-php" target="_blank">HelgeSverre/toon-php: johannschopplich/toon 的 PHP 移植 -
+一种紧凑的数据格式，旨在减少向大型语言模型发送结构化数据时的令牌消耗。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/HelgeSverre/toon-php" target="_blank">https://github.com/HelgeSverre/toon-php</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Ackites/Nrfr: 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制]]></title>
     <published>2025-10-28T16:00:00+00:00</published>
     <updated>2025-10-28T16:00:00+00:00</updated>
