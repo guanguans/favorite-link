@@ -14,6 +14,7 @@
 
 ### October 30, 2025 
 - [oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！](https://github.com/oiwn/tarts) 
+- [migueleliasweb/go-github-mock: 一个用于帮助单元测试使用Golang的Github SDK的代码的库](https://github.com/migueleliasweb/go-github-mock) 
 ### October 29, 2025 
 - [Ackites/Nrfr: 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制](https://github.com/Ackites/Nrfr) 
 - [maxkhim/laravel-storage-dedupler：Dedupler 是一个优雅的 Laravel 包，能够一次性解决这个问题。它通过使用 SHA-1 哈希自动防止文件重复，并提供一个美观的多态 API 来管理您的附件。](https://github.com/maxkhim/laravel-storage-dedupler) 
