@@ -14,7 +14,7 @@
 
 
 ### October 31, 2025 
-- [Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥（BYOK）。](https://github.com/Macaify/MacaifyApp) 
+- [Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥 (BYOK)。](https://github.com/Macaify/MacaifyApp) 
 ### October 30, 2025 
 - [oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！](https://github.com/oiwn/tarts) 
 - [migueleliasweb/go-github-mock: 一个用于帮助单元测试使用 Golang 的 Github SDK 的代码的库](https://github.com/migueleliasweb/go-github-mock) 

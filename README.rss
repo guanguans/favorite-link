@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 29 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 30 Oct 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥 (BYOK)。</title>
+      <pubDate>Thu, 30 Oct 2025 16:00:00 +0000</pubDate>
+      <link>BYOK)。](https://github.com/Macaify/MacaifyApp</link>
+      <guid isPermaLink="false">BYOK)。](https://github.com/Macaify/MacaifyApp</guid>
+      <content:encoded><![CDATA[<a href="BYOK)。](https://github.com/Macaify/MacaifyApp" target="_blank">Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥 (BYOK)。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="BYOK)。](https://github.com/Macaify/MacaifyApp" target="_blank">BYOK)。](https://github.com/Macaify/MacaifyApp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！</title>
       <pubDate>Wed, 29 Oct 2025 16:00:00 +0000</pubDate>
