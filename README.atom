@@ -32,6 +32,23 @@ API 密钥 (BYOK)。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[s1ntoneli/AppUpdater: MacOS 的一个简单的应用程序更新程序，检查您的 GitHub 发布的二进制资产，并静默更新您的应用程序。]]></title>
+    <published>2025-10-30T08:00:00+00:00</published>
+    <updated>2025-10-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/s1ntoneli/AppUpdater"/>
+    <id>https://github.com/s1ntoneli/AppUpdater</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/s1ntoneli/AppUpdater" target="_blank">s1ntoneli/AppUpdater: MacOS 的一个简单的应用程序更新程序，检查您的 GitHub
+发布的二进制资产，并静默更新您的应用程序。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/s1ntoneli/AppUpdater" target="_blank">https://github.com/s1ntoneli/AppUpdater</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！]]></title>
     <published>2025-10-29T16:00:00+00:00</published>
     <updated>2025-10-29T16:00:00+00:00</updated>
