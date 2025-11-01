@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### November 1, 2025 
-- [idootop/MagicMirror: 即时AI换脸一键AI换脸，发现更美的你。](https://github.com/idootop/MagicMirror) 
+- [idootop/MagicMirror: 即时 AI 换脸一键 AI 换脸，发现更美的你。](https://github.com/idootop/MagicMirror) 
 ### October 31, 2025 
 - [Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥 (BYOK)。](https://github.com/Macaify/MacaifyApp) 
 - [s1ntoneli/AppUpdater: MacOS 的一个简单的应用程序更新程序，检查您的 GitHub 发布的二进制资产，并静默更新您的应用程序。](https://github.com/s1ntoneli/AppUpdater) 
