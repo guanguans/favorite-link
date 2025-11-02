@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 31 Oct 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 01 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。</title>
+      <pubDate>Sat, 01 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/segmentio/golines</link>
+      <guid>https://github.com/segmentio/golines</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/segmentio/golines" target="_blank">segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/segmentio/golines" target="_blank">https://github.com/segmentio/golines</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>open-domains/register: 个人网站、开源项目等的免费子域。</title>
+      <pubDate>Sat, 01 Nov 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/open-domains/register</link>
+      <guid>https://github.com/open-domains/register</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/open-domains/register" target="_blank">open-domains/register: 个人网站、开源项目等的免费子域。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/open-domains/register" target="_blank">https://github.com/open-domains/register</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>idootop/MagicMirror: 即时 AI 换脸一键 AI 换脸，发现更美的你。</title>
       <pubDate>Fri, 31 Oct 2025 16:00:00 +0000</pubDate>
