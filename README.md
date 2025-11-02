@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### November 2, 2025 
+- [segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。](https://github.com/segmentio/golines) 
 ### November 1, 2025 
 - [idootop/MagicMirror: 即时 AI 换脸一键 AI 换脸，发现更美的你。](https://github.com/idootop/MagicMirror) 
 - [whatsdiff/whatsdiff: What's diff 是一款 CLI 工具，可以帮助你检查 composer 更新或 npm 更新后依赖项中发生了哪些变化。](https://github.com/whatsdiff/whatsdiff) 
