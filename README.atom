@@ -46,6 +46,23 @@ optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[tarunkorat/laravel-migration-squasher: 将旧的 Laravel 迁移压缩到单个模式文件中]]></title>
+    <published>2025-11-02T00:00:00+00:00</published>
+    <updated>2025-11-02T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tarunkorat/laravel-migration-squasher"/>
+    <id>https://github.com/tarunkorat/laravel-migration-squasher</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/tarunkorat/laravel-migration-squasher" target="_blank">tarunkorat/laravel-migration-squasher: 将旧的 Laravel
+迁移压缩到单个模式文件中</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/tarunkorat/laravel-migration-squasher" target="_blank">https://github.com/tarunkorat/laravel-migration-squasher</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。]]></title>
     <published>2025-11-01T16:00:00+00:00</published>
     <updated>2025-11-01T16:00:00+00:00</updated>
