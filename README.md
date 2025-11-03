@@ -14,6 +14,7 @@
 
 ### November 3, 2025 
 - [ImageOptim/ImageOptim: 适用于 Mac 的 GUI 图像优化器](https://github.com/ImageOptim/ImageOptim) 
+- [psliwa/image-optimizer: 该库是一款方便易用的图像文件优化工具。它使用 optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之前，应在服务器上安装适当的库。](https://github.com/psliwa/image-optimizer) 
 ### November 2, 2025 
 - [segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。](https://github.com/segmentio/golines) 
 - [open-domains/register: 个人网站、开源项目等的免费子域。](https://github.com/open-domains/register) 
