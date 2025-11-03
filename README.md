@@ -13,7 +13,7 @@
 
 
 ### November 3, 2025 
-- [ImageOptim/ImageOptim: 适用于Mac的GUI图像优化器](https://github.com/ImageOptim/ImageOptim) 
+- [ImageOptim/ImageOptim: 适用于 Mac 的 GUI 图像优化器](https://github.com/ImageOptim/ImageOptim) 
 ### November 2, 2025 
 - [segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。](https://github.com/segmentio/golines) 
 - [open-domains/register: 个人网站、开源项目等的免费子域。](https://github.com/open-domains/register) 
