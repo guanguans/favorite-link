@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>psliwa/image-optimizer: 该库是一款方便易用的图像文件优化工具。它使用 optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之前，应在服务器上安装适当的库。</title>
+      <pubDate>Sun, 02 Nov 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/psliwa/image-optimizer</link>
+      <guid>https://github.com/psliwa/image-optimizer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/psliwa/image-optimizer" target="_blank">psliwa/image-optimizer: 该库是一款方便易用的图像文件优化工具。它使用 optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之前，应在服务器上安装适当的库。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/psliwa/image-optimizer" target="_blank">https://github.com/psliwa/image-optimizer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。</title>
       <pubDate>Sat, 01 Nov 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/segmentio/golines</link>
