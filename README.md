@@ -17,7 +17,7 @@
 - [ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语](https://github.com/ahpxex/Aictionary) 
 - [php-internal/promise: 改进的 React Promise 软件包](https://github.com/php-internal/promise) 
 - [rxliuli/apps.apple.com: 提取自 https://apps.apple.com/。使用 Chrome 扩展程序 Save All Resources 保存。](https://github.com/rxliuli/apps.apple.com) 
-- [dprint/dprint: 用Rust编写的可插拔和可配置的代码格式化平台。](https://github.com/dprint/dprint) 
+- [dprint/dprint: 用 Rust 编写的可插拔和可配置的代码格式化平台。](https://github.com/dprint/dprint) 
 ### November 3, 2025 
 - [ImageOptim/ImageOptim: 适用于 Mac 的 GUI 图像优化器](https://github.com/ImageOptim/ImageOptim) 
 - [psliwa/image-optimizer: 该库是一款方便易用的图像文件优化工具。它使用 optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之前，应在服务器上安装适当的库。](https://github.com/psliwa/image-optimizer) 
