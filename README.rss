@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 02 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 03 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语</title>
+      <pubDate>Mon, 03 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ahpxex/Aictionary</link>
+      <guid>https://github.com/ahpxex/Aictionary</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ahpxex/Aictionary" target="_blank">ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ahpxex/Aictionary" target="_blank">https://github.com/ahpxex/Aictionary</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>ImageOptim/ImageOptim: 适用于 Mac 的 GUI 图像优化器</title>
       <pubDate>Sun, 02 Nov 2025 16:00:00 +0000</pubDate>
