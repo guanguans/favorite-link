@@ -15,6 +15,7 @@
 
 ### November 4, 2025 
 - [ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语](https://github.com/ahpxex/Aictionary) 
+- [php-internal/promise: 改进的React Promise软件包](https://github.com/php-internal/promise) 
 ### November 3, 2025 
 - [ImageOptim/ImageOptim: 适用于 Mac 的 GUI 图像优化器](https://github.com/ImageOptim/ImageOptim) 
 - [psliwa/image-optimizer: 该库是一款方便易用的图像文件优化工具。它使用 optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之前，应在服务器上安装适当的库。](https://github.com/psliwa/image-optimizer) 
