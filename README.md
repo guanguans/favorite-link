@@ -17,6 +17,7 @@
 ### November 5, 2025 
 - [666ghj/BettaFish: “微舆” 是一个从0实现的创新型 多智能体 舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析 国内外30+主流社媒 与 数百万条大众评论。](https://github.com/666ghj/BettaFish) 
 - [beikeshop/beikeshop: 免费的开源和易于使用的Laravel电子商务平台，基于Laravel。](https://github.com/beikeshop/beikeshop) 
+- [azjezz/php-syntax-analyzer: 分析PHP包以评估在PHP中保留关键字的影响。](https://github.com/azjezz/php-syntax-analyzer) 
 ### November 4, 2025 
 - [ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语](https://github.com/ahpxex/Aictionary) 
 - [php-internal/promise: 改进的 React Promise 软件包](https://github.com/php-internal/promise) 
