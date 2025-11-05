@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 03 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 04 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>666ghj/BettaFish: “微舆”是一个从 0 实现的创新型多智能体舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析国内外 30+ 主流社媒与数百万条大众评论。</title>
+      <pubDate>Tue, 04 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/666ghj/BettaFish</link>
+      <guid>https://github.com/666ghj/BettaFish</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/666ghj/BettaFish" target="_blank">666ghj/BettaFish: “微舆”是一个从 0 实现的创新型多智能体舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析国内外 30+ 主流社媒与数百万条大众评论。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/666ghj/BettaFish" target="_blank">https://github.com/666ghj/BettaFish</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>beikeshop/beikeshop: 免费的开源和易于使用的 Laravel 电子商务平台，基于 Laravel。</title>
+      <pubDate>Tue, 04 Nov 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/beikeshop/beikeshop</link>
+      <guid>https://github.com/beikeshop/beikeshop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/beikeshop/beikeshop" target="_blank">beikeshop/beikeshop: 免费的开源和易于使用的 Laravel 电子商务平台，基于 Laravel。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/beikeshop/beikeshop" target="_blank">https://github.com/beikeshop/beikeshop</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>azjezz/php-syntax-analyzer: 分析 PHP 包以评估在 PHP 中保留关键字的影响。</title>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/azjezz/php-syntax-analyzer</link>
+      <guid>https://github.com/azjezz/php-syntax-analyzer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/azjezz/php-syntax-analyzer" target="_blank">azjezz/php-syntax-analyzer: 分析 PHP 包以评估在 PHP 中保留关键字的影响。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/azjezz/php-syntax-analyzer" target="_blank">https://github.com/azjezz/php-syntax-analyzer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语</title>
       <pubDate>Mon, 03 Nov 2025 16:00:00 +0000</pubDate>

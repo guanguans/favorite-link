@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-11-03T16:00:00+00:00</updated>
+  <updated>2025-11-04T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,58 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[666ghj/BettaFish: “微舆”是一个从 0 实现的创新型多智能体舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析国内外 30+ 主流社媒与数百万条大众评论。]]></title>
+    <published>2025-11-04T16:00:00+00:00</published>
+    <updated>2025-11-04T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/666ghj/BettaFish"/>
+    <id>https://github.com/666ghj/BettaFish</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/666ghj/BettaFish" target="_blank">666ghj/BettaFish: “微舆”是一个从 0
+实现的创新型多智能体舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析国内外
+30+ 主流社媒与数百万条大众评论。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/666ghj/BettaFish" target="_blank">https://github.com/666ghj/BettaFish</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[beikeshop/beikeshop: 免费的开源和易于使用的 Laravel 电子商务平台，基于 Laravel。]]></title>
+    <published>2025-11-04T08:00:00+00:00</published>
+    <updated>2025-11-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/beikeshop/beikeshop"/>
+    <id>https://github.com/beikeshop/beikeshop</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/beikeshop/beikeshop" target="_blank">beikeshop/beikeshop: 免费的开源和易于使用的 Laravel 电子商务平台，基于
+Laravel。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/beikeshop/beikeshop" target="_blank">https://github.com/beikeshop/beikeshop</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[azjezz/php-syntax-analyzer: 分析 PHP 包以评估在 PHP 中保留关键字的影响。]]></title>
+    <published>2025-11-04T00:00:00+00:00</published>
+    <updated>2025-11-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/azjezz/php-syntax-analyzer"/>
+    <id>https://github.com/azjezz/php-syntax-analyzer</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/azjezz/php-syntax-analyzer" target="_blank">azjezz/php-syntax-analyzer: 分析 PHP 包以评估在 PHP
+中保留关键字的影响。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/azjezz/php-syntax-analyzer" target="_blank">https://github.com/azjezz/php-syntax-analyzer</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语]]></title>
     <published>2025-11-03T16:00:00+00:00</published>
