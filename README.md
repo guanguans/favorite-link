@@ -12,7 +12,7 @@
 
 
 ### November 6, 2025 
-- [Winnie0408/LocalMusicHelper: 将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。](https://github.com/Winnie0408/LocalMusicHelper) 
+- [Winnie0408/LocalMusicHelper: 将您保存在网易云音乐、QQ 音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器 (如 Salt Player、APlayer、Poweramp 等) 可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。](https://github.com/Winnie0408/LocalMusicHelper) 
 ### November 5, 2025 
 - [666ghj/BettaFish: “微舆”是一个从 0 实现的创新型多智能体舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析国内外 30+ 主流社媒与数百万条大众评论。](https://github.com/666ghj/BettaFish) 
 - [beikeshop/beikeshop: 免费的开源和易于使用的 Laravel 电子商务平台，基于 Laravel。](https://github.com/beikeshop/beikeshop) 
