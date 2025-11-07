@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### November 7, 2025 
+- [rlxone/Equinox: 为MacOS创建动态壁纸。](https://github.com/rlxone/Equinox) 
 ### November 6, 2025 
 - [Winnie0408/LocalMusicHelper: 将您保存在网易云音乐、QQ 音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器 (如 Salt Player、APlayer、Poweramp 等) 可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。](https://github.com/Winnie0408/LocalMusicHelper) 
 ### November 5, 2025 
