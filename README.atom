@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github-2013/intellij-awesome-console-x: 这是 JetBrains 集成开发环境的一个插件，它终于能让控制台和终端中的链接至少棒上 200%！]]></title>
+    <published>2025-11-06T08:00:00+00:00</published>
+    <updated>2025-11-06T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/github-2013/intellij-awesome-console-x"/>
+    <id>https://github.com/github-2013/intellij-awesome-console-x</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/github-2013/intellij-awesome-console-x" target="_blank">github-2013/intellij-awesome-console-x: 这是
+JetBrains 集成开发环境的一个插件，它终于能让控制台和终端中的链接至少棒上 200%！</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/github-2013/intellij-awesome-console-x" target="_blank">https://github.com/github-2013/intellij-awesome-console-x</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Winnie0408/LocalMusicHelper: 将您保存在网易云音乐、QQ 音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器 (如 Salt Player、APlayer、Poweramp 等) 可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。]]></title>
     <published>2025-11-05T16:00:00+00:00</published>
     <updated>2025-11-05T16:00:00+00:00</updated>
