@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-11-05T16:00:00+00:00</updated>
+  <updated>2025-11-06T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,22 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rlxone/Equinox: 为 MacOS 创建动态壁纸。]]></title>
+    <published>2025-11-06T16:00:00+00:00</published>
+    <updated>2025-11-06T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rlxone/Equinox"/>
+    <id>https://github.com/rlxone/Equinox</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/rlxone/Equinox" target="_blank">rlxone/Equinox: 为 MacOS 创建动态壁纸。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/rlxone/Equinox" target="_blank">https://github.com/rlxone/Equinox</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Winnie0408/LocalMusicHelper: 将您保存在网易云音乐、QQ 音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器 (如 Salt Player、APlayer、Poweramp 等) 可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。]]></title>
     <published>2025-11-05T16:00:00+00:00</published>
