@@ -29,6 +29,40 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[nelmio/alice: 依赖于 FakerPHP/Faker，Alice 允许您创建大量的固定数据/假数据，以便在开发或测试您的项目时使用。它为您提供了一些基本工具，使生成具有约束的复杂数据变得非常简单，且易于阅读和编辑，以便您团队中的每个人都可以根据需要调整固定数据。]]></title>
+    <published>2025-11-07T08:00:00+00:00</published>
+    <updated>2025-11-07T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nelmio/alice"/>
+    <id>https://github.com/nelmio/alice</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nelmio/alice" target="_blank">nelmio/alice: 依赖于 FakerPHP/Faker，Alice
+允许您创建大量的固定数据/假数据，以便在开发或测试您的项目时使用。它为您提供了一些基本工具，使生成具有约束的复杂数据变得非常简单，且易于阅读和编辑，以便您团队中的每个人都可以根据需要调整固定数据。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nelmio/alice" target="_blank">https://github.com/nelmio/alice</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[adnanh/webhook: Webhook 是一个轻量级的传入 Webhook 服务器，用于运行 shell 命令。]]></title>
+    <published>2025-11-07T00:00:00+00:00</published>
+    <updated>2025-11-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/adnanh/webhook"/>
+    <id>https://github.com/adnanh/webhook</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/adnanh/webhook" target="_blank">adnanh/webhook: Webhook 是一个轻量级的传入 Webhook 服务器，用于运行 shell
+命令。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/adnanh/webhook" target="_blank">https://github.com/adnanh/webhook</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rlxone/Equinox: 为 MacOS 创建动态壁纸。]]></title>
     <published>2025-11-06T16:00:00+00:00</published>
     <updated>2025-11-06T16:00:00+00:00</updated>
