@@ -12,6 +12,9 @@
 
 
 
+
+### November 8, 2025 
+- [MM2-0/Kvaesitso: 专注于搜索的Android启动器](https://github.com/MM2-0/Kvaesitso) 
 ### November 7, 2025 
 - [rlxone/Equinox: 为 MacOS 创建动态壁纸。](https://github.com/rlxone/Equinox) 
 - [github-2013/intellij-awesome-console-x: 这是 JetBrains 集成开发环境的一个插件，它终于能让控制台和终端中的链接至少棒上 200%！](https://github.com/github-2013/intellij-awesome-console-x) 
