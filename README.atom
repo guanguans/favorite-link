@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[samber/do: ⚙️ 基于 Go 1.18+ 泛型的依赖注入工具包。]]></title>
+    <published>2025-11-08T08:00:00+00:00</published>
+    <updated>2025-11-08T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/samber/do"/>
+    <id>https://github.com/samber/do</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/samber/do" target="_blank">samber/do:
+⚙️ 基于 Go 1.18+ 泛型的依赖注入工具包。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/samber/do" target="_blank">https://github.com/samber/do</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[MM2-0/Kvaesitso: 专注于搜索的 Android 启动器]]></title>
     <published>2025-11-07T16:00:00+00:00</published>
     <updated>2025-11-07T16:00:00+00:00</updated>
