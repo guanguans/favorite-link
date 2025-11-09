@@ -12,6 +12,7 @@
 
 ### November 9, 2025 
 - [BookerLiu/GeekDesk: 🔥 小巧、美观的桌面快速启动工具](https://github.com/BookerLiu/GeekDesk) 
+- [samber/do: ⚙️ 基于 Go 1.18+ 泛型的依赖注入工具包。](https://github.com/samber/do) 
 ### November 8, 2025 
 - [MM2-0/Kvaesitso: 专注于搜索的 Android 启动器](https://github.com/MM2-0/Kvaesitso) 
 - [nelmio/alice: 依赖于 FakerPHP/Faker，Alice 允许您创建大量的固定数据/假数据，以便在开发或测试您的项目时使用。它为您提供了一些基本工具，使生成具有约束的复杂数据变得非常简单，且易于阅读和编辑，以便您团队中的每个人都可以根据需要调整固定数据。](https://github.com/nelmio/alice) 
