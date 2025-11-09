@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 07 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 08 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>BookerLiu/GeekDesk: 🔥 小巧、美观的桌面快速启动工具</title>
+      <pubDate>Sat, 08 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/BookerLiu/GeekDesk</link>
+      <guid>https://github.com/BookerLiu/GeekDesk</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/BookerLiu/GeekDesk" target="_blank">BookerLiu/GeekDesk: 🔥 小巧、美观的桌面快速启动工具</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/BookerLiu/GeekDesk" target="_blank">https://github.com/BookerLiu/GeekDesk</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>MM2-0/Kvaesitso: 专注于搜索的 Android 启动器</title>
       <pubDate>Fri, 07 Nov 2025 16:00:00 +0000</pubDate>
