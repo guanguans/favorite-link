@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### November 10, 2025 
+- [P3GLEG/Whaler: 将Docker映像转换为Docker文件的程序](https://github.com/P3GLEG/Whaler) 
 ### November 9, 2025 
 - [BookerLiu/GeekDesk: 🔥 小巧、美观的桌面快速启动工具](https://github.com/BookerLiu/GeekDesk) 
 - [samber/do: ⚙️ 基于 Go 1.18+ 泛型的依赖注入工具包。](https://github.com/samber/do) 
