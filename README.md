@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### November 11, 2025 
+- [RoversX/LaunchNext: 将您的Launchpad带回MacOS26+，高度可定制，功能强大，免费。](https://github.com/RoversX/LaunchNext) 
 ### November 10, 2025 
 - [P3GLEG/Whaler: 将 Docker 映像转换为 Docker 文件的程序](https://github.com/P3GLEG/Whaler) 
 ### November 9, 2025 
