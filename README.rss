@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 09 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 10 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。</title>
+      <pubDate>Mon, 10 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/RoversX/LaunchNext</link>
+      <guid>https://github.com/RoversX/LaunchNext</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/RoversX/LaunchNext" target="_blank">RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/RoversX/LaunchNext" target="_blank">https://github.com/RoversX/LaunchNext</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>rajivm1991/DroidDock: 时尚的 MacOS 桌面应用程序，用于通过 ADB 浏览 Android 设备文件</title>
+      <pubDate>Mon, 10 Nov 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/rajivm1991/DroidDock</link>
+      <guid>https://github.com/rajivm1991/DroidDock</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rajivm1991/DroidDock" target="_blank">rajivm1991/DroidDock: 时尚的 MacOS 桌面应用程序，用于通过 ADB 浏览 Android 设备文件</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/rajivm1991/DroidDock" target="_blank">https://github.com/rajivm1991/DroidDock</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>P3GLEG/Whaler: 将 Docker 映像转换为 Docker 文件的程序</title>
       <pubDate>Sun, 09 Nov 2025 16:00:00 +0000</pubDate>
