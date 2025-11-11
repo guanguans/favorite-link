@@ -14,6 +14,7 @@
 
 ### November 11, 2025 
 - [RoversX/LaunchNext: 将您的Launchpad带回MacOS26+，高度可定制，功能强大，免费。](https://github.com/RoversX/LaunchNext) 
+- [rajivm1991/DroidDock: 时尚的MacOS桌面应用程序，用于通过ADB浏览Android设备文件](https://github.com/rajivm1991/DroidDock) 
 ### November 10, 2025 
 - [P3GLEG/Whaler: 将 Docker 映像转换为 Docker 文件的程序](https://github.com/P3GLEG/Whaler) 
 ### November 9, 2025 
