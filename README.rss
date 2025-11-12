@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 10 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 11 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。</title>
+      <pubDate>Tue, 11 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/wooserv/laravel-objectid</link>
+      <guid>https://github.com/wooserv/laravel-objectid</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/wooserv/laravel-objectid" target="_blank">github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/wooserv/laravel-objectid" target="_blank">https://github.com/wooserv/laravel-objectid</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。</title>
       <pubDate>Mon, 10 Nov 2025 16:00:00 +0000</pubDate>

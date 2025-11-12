@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-11-10T16:00:00+00:00</updated>
+  <updated>2025-11-11T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。]]></title>
+    <published>2025-11-11T16:00:00+00:00</published>
+    <updated>2025-11-11T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/wooserv/laravel-objectid"/>
+    <id>https://github.com/wooserv/laravel-objectid</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/wooserv/laravel-objectid" target="_blank">github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId
+生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/wooserv/laravel-objectid" target="_blank">https://github.com/wooserv/laravel-objectid</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。]]></title>
     <published>2025-11-10T16:00:00+00:00</published>
