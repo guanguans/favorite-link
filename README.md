@@ -17,6 +17,7 @@
 - [github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。](https://github.com/wooserv/laravel-objectid) 
 - [github.com/PallavAg/Apple-Intelligence-Chat: 您使用新的基础模型框架和液态玻璃用户界面在 iOS 26+ 上与苹果智能聊天。](https://github.com/PallavAg/Apple-Intelligence-Chat) 
 - [github.com/tanu360/apple-intelligence-api: 一个 SwiftUI 应用，它运行一个与 OpenAI 兼容的 API 服务器，使用 Apple 的设备端基础模型，将基础模型、确定性模型和创造性模型统一到一个端点下供本地使用。](https://github.com/tanu360/apple-intelligence-api) 
+- [github.com/theJayTea/WritingTools: 世界上最聪明的全系统语法助手，苹果智能写作工具的更好版本。](https://github.com/theJayTea/WritingTools) 
 ### November 11, 2025 
 - [RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。](https://github.com/RoversX/LaunchNext) 
 - [rajivm1991/DroidDock: 时尚的 MacOS 桌面应用程序，用于通过 ADB 浏览 Android 设备文件](https://github.com/rajivm1991/DroidDock) 
