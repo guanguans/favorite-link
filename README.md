@@ -12,6 +12,9 @@
 
 
 
+
+### November 12, 2025 
+- [github.com/wooserv/laravel-objectid: 这是一个优雅且高效的ObjectId生成器，专为Laravel模型设计，支持自动ID分配、包含迁移宏以及提供辅助函数。](https://github.com/wooserv/laravel-objectid) 
 ### November 11, 2025 
 - [RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。](https://github.com/RoversX/LaunchNext) 
 - [rajivm1991/DroidDock: 时尚的 MacOS 桌面应用程序，用于通过 ADB 浏览 Android 设备文件](https://github.com/rajivm1991/DroidDock) 
