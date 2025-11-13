@@ -12,6 +12,7 @@
 
 ### November 13, 2025 
 - [github.com/laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。](https://github.com/laravel/mcp) 
+- [github.com/github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。](https://github.com/github-2013/intellij-awesome-console-x) 
 ### November 12, 2025 
 - [github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。](https://github.com/wooserv/laravel-objectid) 
 - [github.com/PallavAg/Apple-Intelligence-Chat: 您使用新的基础模型框架和液态玻璃用户界面在 iOS 26+ 上与苹果智能聊天。](https://github.com/PallavAg/Apple-Intelligence-Chat) 
