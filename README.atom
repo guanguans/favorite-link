@@ -29,6 +29,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github.com/github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。]]></title>
+    <published>2025-11-12T08:00:00+00:00</published>
+    <updated>2025-11-12T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/github-2013/intellij-awesome-console-x"/>
+    <id>https://github.com/github-2013/intellij-awesome-console-x</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/github-2013/intellij-awesome-console-x" target="_blank">github.com/github-2013/intellij-awesome-console-x:
+使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE
+中打开，其他链接将使用此类型的默认查看器/浏览器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/github-2013/intellij-awesome-console-x" target="_blank">https://github.com/github-2013/intellij-awesome-console-x</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。]]></title>
     <published>2025-11-11T16:00:00+00:00</published>
     <updated>2025-11-11T16:00:00+00:00</updated>
