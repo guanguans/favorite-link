@@ -80,6 +80,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github.com/caseyamcl/guzzle_retry_middleware: 这是一个 Guzzle v6/7+ 中间件库，能够在 HTTP 服务器响应错误状态码时自动重试请求。它还可以配置为在请求超时时进行重试。]]></title>
+    <published>2025-11-12T08:00:00+00:00</published>
+    <updated>2025-11-12T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/caseyamcl/guzzle_retry_middleware"/>
+    <id>https://github.com/caseyamcl/guzzle_retry_middleware</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/caseyamcl/guzzle_retry_middleware" target="_blank">github.com/caseyamcl/guzzle_retry_middleware: 这是一个
+Guzzle v6/7+ 中间件库，能够在 HTTP 服务器响应错误状态码时自动重试请求。它还可以配置为在请求超时时进行重试。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/caseyamcl/guzzle_retry_middleware" target="_blank">https://github.com/caseyamcl/guzzle_retry_middleware</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[github.com/laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。]]></title>
     <published>2025-11-12T16:00:00+00:00</published>
     <updated>2025-11-12T16:00:00+00:00</updated>
