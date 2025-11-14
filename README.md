@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### November 14, 2025 
+- [BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式](https://github.com/BasilLangevin/laravel-data-json-schemas) 
 ### November 13, 2025 
 - [github.com/laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。](https://github.com/laravel/mcp) 
 - [github.com/github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。](https://github.com/github-2013/intellij-awesome-console-x) 
