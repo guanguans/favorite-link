@@ -15,6 +15,7 @@
 - [BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式](https://github.com/BasilLangevin/laravel-data-json-schemas) 
 - [github.com/xolvionl/laravel-data-openapi-generator: 使用 Spatie 数据对象时，从 Laravel 生成 OpenAPI 规范。](https://github.com/xolvionl/laravel-data-openapi-generator) 
 - [pk-fr/yakpro-po: Php 代码混淆器](https://github.com/pk-fr/yakpro-po) 
+- [waydabber/BetterDisplay: 在您的 Mac 上解锁显示器！灵活的 HiDPI 缩放，XDR/HDR 额外亮度，虚拟屏幕，DDC 控制，额外调暗，PIP/流媒体，EDID 覆盖等更多功能！](https://github.com/waydabber/BetterDisplay) 
 ### November 13, 2025 
 - [github.com/laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。](https://github.com/laravel/mcp) 
 - [github.com/github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。](https://github.com/github-2013/intellij-awesome-console-x) 
