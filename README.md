@@ -15,6 +15,7 @@
 ### November 16, 2025 
 - [github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM](https://github.com/swoole/build-static-php) 
 - [github.com/tw93/Mole: 像鼹鼠一样深入挖掘来清理你的 Mac](https://github.com/tw93/Mole) 
+- [github.com/coduo/php-matcher: 将数据结构（如JSON/plaintext/XML）与可读模式进行匹配的最简单方法。](https://github.com/coduo/php-matcher) 
 ### November 14, 2025 
 - [BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式](https://github.com/BasilLangevin/laravel-data-json-schemas) 
 - [github.com/xolvionl/laravel-data-openapi-generator: 使用 Spatie 数据对象时，从 Laravel 生成 OpenAPI 规范。](https://github.com/xolvionl/laravel-data-openapi-generator) 
