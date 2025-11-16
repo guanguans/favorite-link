@@ -64,6 +64,22 @@ JSON/plaintext/XML) 与可读模式进行匹配的最简单方法。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github.com/coduo/php-to-string: 将任何 PHP 值转换为字符串]]></title>
+    <published>2025-11-14T16:00:00+00:00</published>
+    <updated>2025-11-14T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/coduo/php-to-string"/>
+    <id>https://github.com/coduo/php-to-string</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/coduo/php-to-string" target="_blank">github.com/coduo/php-to-string: 将任何 PHP 值转换为字符串</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/coduo/php-to-string" target="_blank">https://github.com/coduo/php-to-string</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式]]></title>
     <published>2025-11-13T16:00:00+00:00</published>
     <updated>2025-11-13T16:00:00+00:00</updated>
