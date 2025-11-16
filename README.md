@@ -13,7 +13,7 @@
 
 
 ### November 16, 2025 
-- [github.com/swoole/build-static-php: 构建静态PHP CLI运行时和PHP-FPM](https://github.com/swoole/build-static-php) 
+- [github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM](https://github.com/swoole/build-static-php) 
 ### November 14, 2025 
 - [BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式](https://github.com/BasilLangevin/laravel-data-json-schemas) 
 - [github.com/xolvionl/laravel-data-openapi-generator: 使用 Spatie 数据对象时，从 Laravel 生成 OpenAPI 规范。](https://github.com/xolvionl/laravel-data-openapi-generator) 
