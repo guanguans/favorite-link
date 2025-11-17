@@ -30,6 +30,23 @@ Lock 时的延迟</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github.com/fbarrento/data-factory: 现代的 PEST 测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。]]></title>
+    <published>2025-11-16T08:00:00+00:00</published>
+    <updated>2025-11-16T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/fbarrento/data-factory"/>
+    <id>https://github.com/fbarrento/data-factory</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/fbarrento/data-factory" target="_blank">github.com/fbarrento/data-factory: 现代的 PEST
+测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/fbarrento/data-factory" target="_blank">https://github.com/fbarrento/data-factory</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM]]></title>
     <published>2025-11-15T16:00:00+00:00</published>
     <updated>2025-11-15T16:00:00+00:00</updated>
