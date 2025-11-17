@@ -47,6 +47,24 @@ Lock 时的延迟</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github.com/kavishdevar/librepods: LibrePods 解锁了 Apple 的独占 AirPods 功能，使其在非 Apple 设备上可用。获取噪声控制模式、自适应透明度、耳朵检测、助听器、定制透明模式、电池状态等功能 - 所有您为之付费的高级功能，但 Apple 将其锁定在他们的生态系统中。]]></title>
+    <published>2025-11-16T00:00:00+00:00</published>
+    <updated>2025-11-16T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/kavishdevar/librepods"/>
+    <id>https://github.com/kavishdevar/librepods</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/kavishdevar/librepods" target="_blank">github.com/kavishdevar/librepods: LibrePods 解锁了 Apple 的独占
+AirPods 功能，使其在非 Apple 设备上可用。获取噪声控制模式、自适应透明度、耳朵检测、助听器、定制透明模式、电池状态等功能
+- 所有您为之付费的高级功能，但 Apple 将其锁定在他们的生态系统中。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/kavishdevar/librepods" target="_blank">https://github.com/kavishdevar/librepods</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM]]></title>
     <published>2025-11-15T16:00:00+00:00</published>
     <updated>2025-11-15T16:00:00+00:00</updated>
