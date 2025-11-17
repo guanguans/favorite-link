@@ -14,7 +14,7 @@
 
 
 ### November 17, 2025 
-- [github.com/gkpln3/CapsLockNoDelay: 消除在MacOS OSX上激活Caps Lock时的延迟](https://github.com/gkpln3/CapsLockNoDelay) 
+- [github.com/gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟](https://github.com/gkpln3/CapsLockNoDelay) 
 ### November 16, 2025 
 - [github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM](https://github.com/swoole/build-static-php) 
 - [github.com/tw93/Mole: 像鼹鼠一样深入挖掘来清理你的 Mac](https://github.com/tw93/Mole) 
