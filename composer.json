@@ -31,16 +31,17 @@
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "^1.8",
-        "ergebnis/composer-normalize": "^2.47",
-        "ergebnis/license": "^2.6",
+        "ergebnis/composer-normalize": "^2.48",
+        "ergebnis/license": "^2.7",
         "ergebnis/php-cs-fixer-config": "dev-main",
         "fakerphp/faker": "^1.24",
         "guanguans/ai-commit": "dev-main",
+        "ion-bazan/composer-diff": "^1.13",
         "mockery/mockery": "^1.6",
-        "pestphp/pest": "^4.0",
+        "pestphp/pest": "^4.1",
         "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.1",
-        "rector/rector": "^2.1"
+        "rector/rector": "^2.2"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -63,6 +64,7 @@
         "allow-plugins": {
             "bamarni/composer-bin-plugin": true,
             "ergebnis/composer-normalize": true,
+            "ion-bazan/composer-diff": true,
             "pestphp/pest-plugin": true,
             "php-http/discovery": true,
             "phpstan/extension-installer": true
@@ -121,6 +123,7 @@
         ],
         "composer-bin-all-update": "@composer bin all update --ansi -v",
         "composer-check-platform-reqs": "@composer check-platform-reqs --lock --ansi -v",
+        "composer-diff": "@composer diff --with-platform --ansi -vv",
         "composer-normalize": "@composer normalize --dry-run --diff --ansi -v",
         "composer-updater": "@php ./composer-updater --highest-php-binary=/opt/homebrew/opt/php@8.4/bin/php --ansi",
         "composer-updater-dry-run": "@composer-updater --dry-run",
@@ -161,7 +164,7 @@
             "@zh-fix",
             "@autocorrect-fix"
         ],
-        "rector": "@php ./vendor/bin/rector --ansi -v",
+        "rector": "@php ./vendor/bin/rector --ansi",
         "rector-dry-run": "@rector --dry-run",
         "release": "@php ./vendor/bin/monorepo-builder release --ansi -v",
         "release-major": "@release major",
