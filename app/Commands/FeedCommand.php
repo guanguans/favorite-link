@@ -41,11 +41,18 @@ final class FeedCommand extends Command
     {
         /** @noinspection NullPointerExceptionInspection */
         str(File::get($this->option('from')))
+            ->replace(
+                [
+                    str_repeat(\PHP_EOL, 6),
+                    '- [github.com/',
+                ],
+                [
+                    str_repeat(\PHP_EOL, 2),
+                    '- [',
+                ]
+            )
             ->tap(function (Stringable $stringable): void {
-                File::put(
-                    $this->option('from'),
-                    $stringable->replace(str_repeat(\PHP_EOL, 6), str_repeat(\PHP_EOL, 2))->toString()
-                );
+                File::put($this->option('from'), $stringable->toString());
             })
             ->after(self::FLAG)
             ->prepend(self::FLAG)
