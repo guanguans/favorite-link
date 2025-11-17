@@ -14,32 +14,32 @@
 
 
 ### November 17, 2025 
-- [github.com/gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟](https://github.com/gkpln3/CapsLockNoDelay) 
-- [github.com/fbarrento/data-factory: 现代的 PEST 测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。](https://github.com/fbarrento/data-factory) 
-- [github.com/kavishdevar/librepods: LibrePods 解锁了 Apple 的独占 AirPods 功能，使其在非 Apple 设备上可用。获取噪声控制模式、自适应透明度、耳朵检测、助听器、定制透明模式、电池状态等功能 - 所有您为之付费的高级功能，但 Apple 将其锁定在他们的生态系统中。](https://github.com/kavishdevar/librepods) 
+- [gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟](https://github.com/gkpln3/CapsLockNoDelay) 
+- [fbarrento/data-factory: 现代的 PEST 测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。](https://github.com/fbarrento/data-factory) 
+- [kavishdevar/librepods: LibrePods 解锁了 Apple 的独占 AirPods 功能，使其在非 Apple 设备上可用。获取噪声控制模式、自适应透明度、耳朵检测、助听器、定制透明模式、电池状态等功能 - 所有您为之付费的高级功能，但 Apple 将其锁定在他们的生态系统中。](https://github.com/kavishdevar/librepods) 
 ### November 16, 2025 
-- [github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM](https://github.com/swoole/build-static-php) 
-- [github.com/tw93/Mole: 像鼹鼠一样深入挖掘来清理你的 Mac](https://github.com/tw93/Mole) 
-- [github.com/coduo/php-matcher: 将数据结构 (如 JSON/plaintext/XML) 与可读模式进行匹配的最简单方法。](https://github.com/coduo/php-matcher) 
-- [github.com/coduo/php-to-string: 将任何 PHP 值转换为字符串](https://github.com/coduo/php-to-string) 
+- [swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM](https://github.com/swoole/build-static-php) 
+- [tw93/Mole: 像鼹鼠一样深入挖掘来清理你的 Mac](https://github.com/tw93/Mole) 
+- [coduo/php-matcher: 将数据结构 (如 JSON/plaintext/XML) 与可读模式进行匹配的最简单方法。](https://github.com/coduo/php-matcher) 
+- [coduo/php-to-string: 将任何 PHP 值转换为字符串](https://github.com/coduo/php-to-string) 
 ### November 14, 2025 
 - [BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式](https://github.com/BasilLangevin/laravel-data-json-schemas) 
-- [github.com/xolvionl/laravel-data-openapi-generator: 使用 Spatie 数据对象时，从 Laravel 生成 OpenAPI 规范。](https://github.com/xolvionl/laravel-data-openapi-generator) 
+- [xolvionl/laravel-data-openapi-generator: 使用 Spatie 数据对象时，从 Laravel 生成 OpenAPI 规范。](https://github.com/xolvionl/laravel-data-openapi-generator) 
 - [pk-fr/yakpro-po: Php 代码混淆器](https://github.com/pk-fr/yakpro-po) 
 - [waydabber/BetterDisplay: 在您的 Mac 上解锁显示器！灵活的 HiDPI 缩放，XDR/HDR 额外亮度，虚拟屏幕，DDC 控制，额外调暗，PIP/流媒体，EDID 覆盖等更多功能！](https://github.com/waydabber/BetterDisplay) 
-- [github.com/caseyamcl/guzzle_retry_middleware: 这是一个 Guzzle v6/7+ 中间件库，能够在 HTTP 服务器响应错误状态码时自动重试请求。它还可以配置为在请求超时时进行重试。](https://github.com/caseyamcl/guzzle_retry_middleware) 
+- [caseyamcl/guzzle_retry_middleware: 这是一个 Guzzle v6/7+ 中间件库，能够在 HTTP 服务器响应错误状态码时自动重试请求。它还可以配置为在请求超时时进行重试。](https://github.com/caseyamcl/guzzle_retry_middleware) 
 ### November 13, 2025 
-- [github.com/laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。](https://github.com/laravel/mcp) 
-- [github.com/github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。](https://github.com/github-2013/intellij-awesome-console-x) 
+- [laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。](https://github.com/laravel/mcp) 
+- [github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。](https://github.com/github-2013/intellij-awesome-console-x) 
 ### November 12, 2025 
-- [github.com/wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。](https://github.com/wooserv/laravel-objectid) 
-- [github.com/PallavAg/Apple-Intelligence-Chat: 您使用新的基础模型框架和液态玻璃用户界面在 iOS 26+ 上与苹果智能聊天。](https://github.com/PallavAg/Apple-Intelligence-Chat) 
-- [github.com/tanu360/apple-intelligence-api: 一个 SwiftUI 应用，它运行一个与 OpenAI 兼容的 API 服务器，使用 Apple 的设备端基础模型，将基础模型、确定性模型和创造性模型统一到一个端点下供本地使用。](https://github.com/tanu360/apple-intelligence-api) 
-- [github.com/theJayTea/WritingTools: 世界上最聪明的全系统语法助手，苹果智能写作工具的更好版本。](https://github.com/theJayTea/WritingTools) 
+- [wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。](https://github.com/wooserv/laravel-objectid) 
+- [PallavAg/Apple-Intelligence-Chat: 您使用新的基础模型框架和液态玻璃用户界面在 iOS 26+ 上与苹果智能聊天。](https://github.com/PallavAg/Apple-Intelligence-Chat) 
+- [tanu360/apple-intelligence-api: 一个 SwiftUI 应用，它运行一个与 OpenAI 兼容的 API 服务器，使用 Apple 的设备端基础模型，将基础模型、确定性模型和创造性模型统一到一个端点下供本地使用。](https://github.com/tanu360/apple-intelligence-api) 
+- [theJayTea/WritingTools: 世界上最聪明的全系统语法助手，苹果智能写作工具的更好版本。](https://github.com/theJayTea/WritingTools) 
 ### November 11, 2025 
 - [RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。](https://github.com/RoversX/LaunchNext) 
 - [rajivm1991/DroidDock: 时尚的 MacOS 桌面应用程序，用于通过 ADB 浏览 Android 设备文件](https://github.com/rajivm1991/DroidDock) 
-- [github.com/rational-stars/GitHub-Freshness: GitHub Freshness 是一个油猴脚本，通过颜色高亮的方式，帮助你快速判断一个 GitHub 仓库是否在更新](https://github.com/rational-stars/GitHub-Freshness) 
+- [rational-stars/GitHub-Freshness: GitHub Freshness 是一个油猴脚本，通过颜色高亮的方式，帮助你快速判断一个 GitHub 仓库是否在更新](https://github.com/rational-stars/GitHub-Freshness) 
 ### November 10, 2025 
 - [P3GLEG/Whaler: 将 Docker 映像转换为 Docker 文件的程序](https://github.com/P3GLEG/Whaler) 
 ### November 9, 2025 
