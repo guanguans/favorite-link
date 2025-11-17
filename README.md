@@ -16,6 +16,7 @@
 ### November 17, 2025 
 - [github.com/gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟](https://github.com/gkpln3/CapsLockNoDelay) 
 - [github.com/fbarrento/data-factory: 现代的 PEST 测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。](https://github.com/fbarrento/data-factory) 
+- [github.com/kavishdevar/librepods: LibrePods 解锁了 Apple 的独占 AirPods 功能，使其在非 Apple 设备上可用。获取噪声控制模式、自适应透明度、耳朵检测、助听器、定制透明模式、电池状态等功能 - 所有您为之付费的高级功能，但 Apple 将其锁定在他们的生态系统中。](https://github.com/kavishdevar/librepods) 
 ### November 16, 2025 
 - [github.com/swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM](https://github.com/swoole/build-static-php) 
 - [github.com/tw93/Mole: 像鼹鼠一样深入挖掘来清理你的 Mac](https://github.com/tw93/Mole) 
