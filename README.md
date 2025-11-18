@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### November 18, 2025 
-- [github.com/coderabbitai/git-worktree-runner: 基于BASH的Git工作树管理器，集成了编辑器和AI工具。](https://github.com/coderabbitai/git-worktree-runner) 
+- [coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。](https://github.com/coderabbitai/git-worktree-runner) 
 ### November 17, 2025 
 - [gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟](https://github.com/gkpln3/CapsLockNoDelay) 
 - [fbarrento/data-factory: 现代的 PEST 测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。](https://github.com/fbarrento/data-factory) 

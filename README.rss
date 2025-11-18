@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 16 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 17 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。</title>
+      <pubDate>Mon, 17 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/coderabbitai/git-worktree-runner</link>
+      <guid>https://github.com/coderabbitai/git-worktree-runner</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/coderabbitai/git-worktree-runner" target="_blank">coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/coderabbitai/git-worktree-runner" target="_blank">https://github.com/coderabbitai/git-worktree-runner</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟</title>
       <pubDate>Sun, 16 Nov 2025 16:00:00 +0000</pubDate>
