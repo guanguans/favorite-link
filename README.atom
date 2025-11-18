@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[JustSteveKing/result: PHP 8.4+ 的一个微小的、与框架无关的结果类型，它使错误处理变得明确、可组合和可测试。]]></title>
+    <published>2025-11-17T08:00:00+00:00</published>
+    <updated>2025-11-17T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/JustSteveKing/result"/>
+    <id>https://github.com/JustSteveKing/result</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/JustSteveKing/result" target="_blank">JustSteveKing/result: PHP 8.4+
+的一个微小的、与框架无关的结果类型，它使错误处理变得明确、可组合和可测试。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/JustSteveKing/result" target="_blank">https://github.com/JustSteveKing/result</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟]]></title>
     <published>2025-11-16T16:00:00+00:00</published>
     <updated>2025-11-16T16:00:00+00:00</updated>
