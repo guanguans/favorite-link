@@ -18,6 +18,7 @@
 - [sanmai/sdk-common: API SDK 中的通用类](https://github.com/sanmai/sdk-common) 
 - [sanmai/callable-reflection: 获取任何 PHP 可调用的 ReflectionFunctionAbstract-闭包，函数，方法，可调用，一级可调用任何工作！](https://github.com/sanmai/callable-reflection) 
 - [Vinzent03/obsidian-git: 将 Git 版本控制与 Obsidian.MD 中的自动提交和同步以及其他高级功能集成在一起](https://github.com/Vinzent03/obsidian-git) 
+- [github.com/logancyang/obsidian-copilot: Obsidian 的 Copilot 是您保险库中的 AI 助手，具有基于聊天的保险库搜索、网页和 YouTube 支持、强大的上下文处理能力，以及在 Obsidian 高度可定制的工作区内不断扩展的自主能力 - 同时确保您的数据掌握在您手中。](https://github.com/logancyang/obsidian-copilot) 
 ### November 18, 2025 
 - [coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。](https://github.com/coderabbitai/git-worktree-runner) 
 - [JustSteveKing/result: PHP 8.4+ 的一个微小的、与框架无关的结果类型，它使错误处理变得明确、可组合和可测试。](https://github.com/JustSteveKing/result) 
