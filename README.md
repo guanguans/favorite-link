@@ -14,6 +14,7 @@
 ### November 19, 2025 
 - [sanmai/sliding-window-counter: 一个轻量级、高效的 PHP 库，用于跟踪基于时间的事件和检测异常，而无需数据库或日志的开销。](https://github.com/sanmai/sliding-window-counter) 
 - [sanmai/di-container: 一个简单的 PSR-11 依赖注入容器，具有自动构造函数依赖解析功能。](https://github.com/sanmai/di-container) 
+- [github.com/sanmai/phpstan-rules: PHPStan 规则集，主要用于执行函数式编程模式和降低复杂性。这些规则专门针对 LLM 容易产生的代码类型而定制。](https://github.com/sanmai/phpstan-rules) 
 ### November 18, 2025 
 - [coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。](https://github.com/coderabbitai/git-worktree-runner) 
 - [JustSteveKing/result: PHP 8.4+ 的一个微小的、与框架无关的结果类型，它使错误处理变得明确、可组合和可测试。](https://github.com/JustSteveKing/result) 
