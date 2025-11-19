@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sanmai/di-container: 一个简单的 PSR-11 依赖注入容器，具有自动构造函数依赖解析功能。]]></title>
+    <published>2025-11-18T08:00:00+00:00</published>
+    <updated>2025-11-18T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sanmai/di-container"/>
+    <id>https://github.com/sanmai/di-container</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sanmai/di-container" target="_blank">sanmai/di-container: 一个简单的 PSR-11
+依赖注入容器，具有自动构造函数依赖解析功能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sanmai/di-container" target="_blank">https://github.com/sanmai/di-container</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。]]></title>
     <published>2025-11-17T16:00:00+00:00</published>
     <updated>2025-11-17T16:00:00+00:00</updated>
