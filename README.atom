@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sanmai/phpstan-rules: PHPStan 规则集，主要用于执行函数式编程模式和降低复杂性。这些规则专门针对 LLM 容易产生的代码类型而定制。]]></title>
+    <published>2025-11-18T00:00:00+00:00</published>
+    <updated>2025-11-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sanmai/phpstan-rules"/>
+    <id>https://github.com/sanmai/phpstan-rules</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sanmai/phpstan-rules" target="_blank">sanmai/phpstan-rules: PHPStan
+规则集，主要用于执行函数式编程模式和降低复杂性。这些规则专门针对 LLM 容易产生的代码类型而定制。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sanmai/phpstan-rules" target="_blank">https://github.com/sanmai/phpstan-rules</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。]]></title>
     <published>2025-11-17T16:00:00+00:00</published>
     <updated>2025-11-17T16:00:00+00:00</updated>
