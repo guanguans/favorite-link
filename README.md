@@ -17,7 +17,7 @@
 - [sanmai/phpstan-rules: PHPStan 规则集，主要用于执行函数式编程模式和降低复杂性。这些规则专门针对 LLM 容易产生的代码类型而定制。](https://github.com/sanmai/phpstan-rules) 
 - [sanmai/sdk-common: API SDK 中的通用类](https://github.com/sanmai/sdk-common) 
 - [sanmai/callable-reflection: 获取任何 PHP 可调用的 ReflectionFunctionAbstract-闭包，函数，方法，可调用，一级可调用任何工作！](https://github.com/sanmai/callable-reflection) 
-- [github.com/Vinzent03/obsidian-git: 将Git版本控制与Obsidian.MD中的自动提交和同步以及其他高级功能集成在一起](https://github.com/Vinzent03/obsidian-git) 
+- [Vinzent03/obsidian-git: 将 Git 版本控制与 Obsidian.MD 中的自动提交和同步以及其他高级功能集成在一起](https://github.com/Vinzent03/obsidian-git) 
 ### November 18, 2025 
 - [coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。](https://github.com/coderabbitai/git-worktree-runner) 
 - [JustSteveKing/result: PHP 8.4+ 的一个微小的、与框架无关的结果类型，它使错误处理变得明确、可组合和可测试。](https://github.com/JustSteveKing/result) 
