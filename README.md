@@ -16,7 +16,7 @@
 - [platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。](https://github.com/platers/obsidian-linter) 
 - [gabe565/CastSponsorSkip: 跳过所有本地 Google Cast 设备上的 YouTube 赞助 (有时是广告)。](https://github.com/gabe565/CastSponsorSkip) 
 - [ggkevinnnn/LaunchNow: MacOS Tahoe 的替代启动台。](https://github.com/ggkevinnnn/LaunchNow) 
-- [github.com/requestly/requestly: Requestly 是本地 API 客户端（如 Postman）和 HTTP 拦截器（如 Charles Proxy）与 API 测试和模拟的强大组合。Requestly 可作为 Chrome 浏览器扩展直接在浏览器中使用，也可作为桌面应用程序安装。](https://github.com/requestly/requestly) 
+- [requestly/requestly: Requestly 是本地 API 客户端 (如 Postman) 和 HTTP 拦截器 (如 Charles Proxy) 与 API 测试和模拟的强大组合。Requestly 可作为 Chrome 浏览器扩展直接在浏览器中使用，也可作为桌面应用程序安装。](https://github.com/requestly/requestly) 
 ### November 19, 2025 
 - [sanmai/sliding-window-counter: 一个轻量级、高效的 PHP 库，用于跟踪基于时间的事件和检测异常，而无需数据库或日志的开销。](https://github.com/sanmai/sliding-window-counter) 
 - [sanmai/di-container: 一个简单的 PSR-11 依赖注入容器，具有自动构造函数依赖解析功能。](https://github.com/sanmai/di-container) 
