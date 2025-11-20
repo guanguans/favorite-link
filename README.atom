@@ -47,6 +47,22 @@ YouTube 赞助 (有时是广告)。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ggkevinnnn/LaunchNow: MacOS Tahoe 的替代启动台。]]></title>
+    <published>2025-11-19T00:00:00+00:00</published>
+    <updated>2025-11-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ggkevinnnn/LaunchNow"/>
+    <id>https://github.com/ggkevinnnn/LaunchNow</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ggkevinnnn/LaunchNow" target="_blank">ggkevinnnn/LaunchNow: MacOS Tahoe 的替代启动台。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ggkevinnnn/LaunchNow" target="_blank">https://github.com/ggkevinnnn/LaunchNow</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sanmai/sliding-window-counter: 一个轻量级、高效的 PHP 库，用于跟踪基于时间的事件和检测异常，而无需数据库或日志的开销。]]></title>
     <published>2025-11-18T16:00:00+00:00</published>
     <updated>2025-11-18T16:00:00+00:00</updated>
