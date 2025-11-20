@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 18 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。</title>
+      <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/platers/obsidian-linter</link>
+      <guid>https://github.com/platers/obsidian-linter</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/platers/obsidian-linter" target="_blank">platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/platers/obsidian-linter" target="_blank">https://github.com/platers/obsidian-linter</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>sanmai/sliding-window-counter: 一个轻量级、高效的 PHP 库，用于跟踪基于时间的事件和检测异常，而无需数据库或日志的开销。</title>
       <pubDate>Tue, 18 Nov 2025 16:00:00 +0000</pubDate>
