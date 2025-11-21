@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编) 编写的快速 Git 库。]]></title>
+    <published>2025-11-20T08:00:00+00:00</published>
+    <updated>2025-11-20T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit"/>
+    <id>和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%92%8C%E4%B8%80%E7%82%B9%E7%82%B9%E5%8F%AF%E9%80%89%E7%9A%84%20Go%20%E6%B1%87%E7%BC%96)%20%E7%BC%96%E5%86%99%E7%9A%84%E5%BF%AB%E9%80%9F%20Git%20%E5%BA%93%E3%80%82](https://github.com/runxiyu/furgit" target="_blank">runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编)
+编写的快速 Git 库。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%92%8C%E4%B8%80%E7%82%B9%E7%82%B9%E5%8F%AF%E9%80%89%E7%9A%84%20Go%20%E6%B1%87%E7%BC%96)%20%E7%BC%96%E5%86%99%E7%9A%84%E5%BF%AB%E9%80%9F%20Git%20%E5%BA%93%E3%80%82](https://github.com/runxiyu/furgit" target="_blank">和一点点可选的 Go 汇编) 编写的快速 Git
+库。](https://github.com/runxiyu/furgit</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。]]></title>
     <published>2025-11-19T16:00:00+00:00</published>
     <updated>2025-11-19T16:00:00+00:00</updated>

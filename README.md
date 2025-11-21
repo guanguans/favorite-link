@@ -15,7 +15,7 @@
 
 ### November 21, 2025 
 - [block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型](https://github.com/block/goose) 
-- [github.com/runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit) 
+- [runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit) 
 ### November 20, 2025 
 - [platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。](https://github.com/platers/obsidian-linter) 
 - [gabe565/CastSponsorSkip: 跳过所有本地 Google Cast 设备上的 YouTube 赞助 (有时是广告)。](https://github.com/gabe565/CastSponsorSkip) 
