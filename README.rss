@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 20 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型</title>
+      <pubDate>Thu, 20 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/block/goose</link>
+      <guid>https://github.com/block/goose</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/block/goose" target="_blank">block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/block/goose" target="_blank">https://github.com/block/goose</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。</title>
       <pubDate>Wed, 19 Nov 2025 16:00:00 +0000</pubDate>
