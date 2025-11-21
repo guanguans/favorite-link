@@ -16,7 +16,7 @@
 ### November 21, 2025 
 - [block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型](https://github.com/block/goose) 
 - [runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit) 
-- [github.com/Blaspsoft/forerunner: 使用Laravel熟悉的迁移语法为LLM定义结构化输出模式](https://github.com/Blaspsoft/forerunner) 
+- [Blaspsoft/forerunner: 使用 Laravel 熟悉的迁移语法为 LLM 定义结构化输出模式](https://github.com/Blaspsoft/forerunner) 
 ### November 20, 2025 
 - [platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。](https://github.com/platers/obsidian-linter) 
 - [gabe565/CastSponsorSkip: 跳过所有本地 Google Cast 设备上的 YouTube 赞助 (有时是广告)。](https://github.com/gabe565/CastSponsorSkip) 
