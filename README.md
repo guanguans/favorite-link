@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### November 22, 2025 
-- [github.com/Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和 Aurora（下一代 Linux 桌面系统，全球服务数万用户）中管理 Homebrew 的官方终端 UI。](https://github.com/Valkyrie00/bold-brew) 
+- [Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和 Aurora (下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。](https://github.com/Valkyrie00/bold-brew) 
 ### November 21, 2025 
 - [block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型](https://github.com/block/goose) 
 - [runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit) 

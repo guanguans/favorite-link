@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-11-20T16:00:00+00:00</updated>
+  <updated>2025-11-21T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和 Aurora (下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。]]></title>
+    <published>2025-11-21T16:00:00+00:00</published>
+    <updated>2025-11-21T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。](https://github.com/Valkyrie00/bold-brew"/>
+    <id>下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。](https://github.com/Valkyrie00/bold-brew</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E4%B8%8B%E4%B8%80%E4%BB%A3%20Linux%20%E6%A1%8C%E9%9D%A2%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%85%A8%E7%90%83%E6%9C%8D%E5%8A%A1%E6%95%B0%E4%B8%87%E7%94%A8%E6%88%B7)%20%E4%B8%AD%E7%AE%A1%E7%90%86%20Homebrew%20%E7%9A%84%E5%AE%98%E6%96%B9%E7%BB%88%E7%AB%AF%20UI%E3%80%82](https://github.com/Valkyrie00/bold-brew" target="_blank">Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和
+Aurora (下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E4%B8%8B%E4%B8%80%E4%BB%A3%20Linux%20%E6%A1%8C%E9%9D%A2%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%85%A8%E7%90%83%E6%9C%8D%E5%8A%A1%E6%95%B0%E4%B8%87%E7%94%A8%E6%88%B7)%20%E4%B8%AD%E7%AE%A1%E7%90%86%20Homebrew%20%E7%9A%84%E5%AE%98%E6%96%B9%E7%BB%88%E7%AB%AF%20UI%E3%80%82](https://github.com/Valkyrie00/bold-brew" target="_blank">下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端
+UI。](https://github.com/Valkyrie00/bold-brew</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型]]></title>
     <published>2025-11-20T16:00:00+00:00</published>
