@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 21 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 22 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品</title>
+      <pubDate>Sat, 22 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/authgear/authgear-server</link>
+      <guid>https://github.com/authgear/authgear-server</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/authgear/authgear-server" target="_blank">authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/authgear/authgear-server" target="_blank">https://github.com/authgear/authgear-server</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和 Aurora (下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。</title>
       <pubDate>Fri, 21 Nov 2025 16:00:00 +0000</pubDate>
