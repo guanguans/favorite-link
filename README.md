@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### November 23, 2025 
+- [github.com/authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth的开源替代品](https://github.com/authgear/authgear-server) 
 ### November 22, 2025 
 - [Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和 Aurora (下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。](https://github.com/Valkyrie00/bold-brew) 
 ### November 21, 2025 
