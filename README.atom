@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[janhq/jan: Jan 是 ChatGPT 的开源替代方案，可在您的计算机上 100% 脱机运行。]]></title>
+    <published>2025-11-23T08:00:00+00:00</published>
+    <updated>2025-11-23T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/janhq/jan"/>
+    <id>https://github.com/janhq/jan</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/janhq/jan" target="_blank">janhq/jan:
+Jan 是 ChatGPT 的开源替代方案，可在您的计算机上 100% 脱机运行。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/janhq/jan" target="_blank">https://github.com/janhq/jan</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品]]></title>
     <published>2025-11-22T16:00:00+00:00</published>
     <updated>2025-11-22T16:00:00+00:00</updated>
