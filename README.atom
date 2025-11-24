@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-11-22T16:00:00+00:00</updated>
+  <updated>2025-11-23T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。]]></title>
+    <published>2025-11-23T16:00:00+00:00</published>
+    <updated>2025-11-23T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/difyz9/ytb2bili"/>
+    <id>https://github.com/difyz9/ytb2bili</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/difyz9/ytb2bili" target="_blank">difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube
+等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/difyz9/ytb2bili" target="_blank">https://github.com/difyz9/ytb2bili</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品]]></title>
     <published>2025-11-22T16:00:00+00:00</published>

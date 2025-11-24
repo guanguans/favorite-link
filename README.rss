@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 22 Nov 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 23 Nov 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。</title>
+      <pubDate>Sun, 23 Nov 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/difyz9/ytb2bili</link>
+      <guid>https://github.com/difyz9/ytb2bili</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/difyz9/ytb2bili" target="_blank">difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/difyz9/ytb2bili" target="_blank">https://github.com/difyz9/ytb2bili</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品</title>
       <pubDate>Sat, 22 Nov 2025 16:00:00 +0000</pubDate>
