@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### November 24, 2025 
+- [github.com/difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。](https://github.com/difyz9/ytb2bili) 
 ### November 23, 2025 
 - [authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品](https://github.com/authgear/authgear-server) 
 - [iazaran/smart-cache: Laravel SmartCache-优化大数据缓存](https://github.com/iazaran/smart-cache) 
