@@ -12,6 +12,9 @@
 
 
 
+
+### November 25, 2025 
+- [github.com/arpxspace/smartcommit: smartcommit 是一款智能的、基于 AI 的 CLI 工具，帮助您轻松编写语义化的 Conventional Commits 消息。它会分析您的暂存更改，通过提问澄清问题来理解代码背后的“原因”，并为您生成结构化的提交消息。](https://github.com/arpxspace/smartcommit) 
 ### November 24, 2025 
 - [difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。](https://github.com/difyz9/ytb2bili) 
 - [janhq/jan: Jan 是 ChatGPT 的开源替代方案，可在您的计算机上 100% 脱机运行。](https://github.com/janhq/jan) 
