@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### November 26, 2025 
-- [github.com/bluekeyes/go-gitdiff: 一个用于解析和应用由、和生成的补丁的 Go 库。它还可以解析和应用由标准 GNU 工具生成的统一差异。](https://github.com/bluekeyes/go-gitdiff) 
+- [bluekeyes/go-gitdiff: 一个用于解析和应用由、和生成的补丁的 Go 库。它还可以解析和应用由标准 GNU 工具生成的统一差异。](https://github.com/bluekeyes/go-gitdiff) 
 ### November 25, 2025 
 - [arpxspace/smartcommit: smartcommit 是一款智能的、基于 AI 的 CLI 工具，帮助您轻松编写语义化的 Conventional Commits 消息。它会分析您的暂存更改，通过提问澄清问题来理解代码背后的“原因”，并为您生成结构化的提交消息。](https://github.com/arpxspace/smartcommit) 
 ### November 24, 2025 
