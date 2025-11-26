@@ -30,6 +30,23 @@ GNU 工具生成的统一差异。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Owloops/updo: Updo 是一个用于监控网站正常运行时间和性能的命令行工具。它提供有关网站状态、响应时间、SSL 证书到期等实时指标，并带有警报通知。]]></title>
+    <published>2025-11-25T08:00:00+00:00</published>
+    <updated>2025-11-25T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Owloops/updo"/>
+    <id>https://github.com/Owloops/updo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Owloops/updo" target="_blank">Owloops/updo: Updo
+是一个用于监控网站正常运行时间和性能的命令行工具。它提供有关网站状态、响应时间、SSL 证书到期等实时指标，并带有警报通知。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Owloops/updo" target="_blank">https://github.com/Owloops/updo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[arpxspace/smartcommit: smartcommit 是一款智能的、基于 AI 的 CLI 工具，帮助您轻松编写语义化的 Conventional Commits 消息。它会分析您的暂存更改，通过提问澄清问题来理解代码背后的“原因”，并为您生成结构化的提交消息。]]></title>
     <published>2025-11-24T16:00:00+00:00</published>
     <updated>2025-11-24T16:00:00+00:00</updated>
