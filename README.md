@@ -12,6 +12,7 @@
 
 ### November 26, 2025 
 - [bluekeyes/go-gitdiff: 一个用于解析和应用由、和生成的补丁的 Go 库。它还可以解析和应用由标准 GNU 工具生成的统一差异。](https://github.com/bluekeyes/go-gitdiff) 
+- [github.com/Owloops/updo: Updo 是一个用于监控网站正常运行时间和性能的命令行工具。它提供有关网站状态、响应时间、SSL 证书到期等实时指标，并带有警报通知。](https://github.com/Owloops/updo) 
 ### November 25, 2025 
 - [arpxspace/smartcommit: smartcommit 是一款智能的、基于 AI 的 CLI 工具，帮助您轻松编写语义化的 Conventional Commits 消息。它会分析您的暂存更改，通过提问澄清问题来理解代码背后的“原因”，并为您生成结构化的提交消息。](https://github.com/arpxspace/smartcommit) 
 ### November 24, 2025 
