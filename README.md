@@ -12,7 +12,7 @@
 
 
 ### November 27, 2025 
-- [github.com/MadAppGang/dingo: Go的一种元语言，它引入了结果类型、错误传播以及模式匹配功能，同时确保与100%的Go生态系统兼容。](https://github.com/MadAppGang/dingo) 
+- [MadAppGang/dingo: Go 的一种元语言，它引入了结果类型、错误传播以及模式匹配功能，同时确保与 100% 的 Go 生态系统兼容。](https://github.com/MadAppGang/dingo) 
 ### November 26, 2025 
 - [bluekeyes/go-gitdiff: 一个用于解析和应用由、和生成的补丁的 Go 库。它还可以解析和应用由标准 GNU 工具生成的统一差异。](https://github.com/bluekeyes/go-gitdiff) 
 - [Owloops/updo: Updo 是一个用于监控网站正常运行时间和性能的命令行工具。它提供有关网站状态、响应时间、SSL 证书到期等实时指标，并带有警报通知。](https://github.com/Owloops/updo) 
