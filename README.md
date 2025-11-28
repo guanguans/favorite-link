@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### November 28, 2025 
+- [github.com/binwiederhier/ntfy-android: 适用于NTFY.SH的Android应用程序](https://github.com/binwiederhier/ntfy-android) 
 ### November 27, 2025 
 - [MadAppGang/dingo: Go 的一种元语言，它引入了结果类型、错误传播以及模式匹配功能，同时确保与 100% 的 Go 生态系统兼容。](https://github.com/MadAppGang/dingo) 
 ### November 26, 2025 
