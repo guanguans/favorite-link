@@ -12,6 +12,9 @@
 
 
 
+
+### November 29, 2025 
+- [github.com/phptg/bot-api: 与Telegram Bot API交互的PHP库](https://github.com/phptg/bot-api) 
 ### November 28, 2025 
 - [binwiederhier/ntfy-android: 适用于 NTFY.SH 的 Android 应用程序](https://github.com/binwiederhier/ntfy-android) 
 ### November 27, 2025 
