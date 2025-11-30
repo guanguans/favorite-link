@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### November 30, 2025 
-- [github.com/hipages/php-fpm_exporter: 这是一个用于PHP-FPM的Prometheus导出器。这个导出器会直接连接到PHP-FPM，并通过HTTP协议导出指标数据。](https://github.com/hipages/php-fpm_exporter) 
+- [hipages/php-fpm_exporter: 这是一个用于 PHP-FPM 的 Prometheus 导出器。这个导出器会直接连接到 PHP-FPM，并通过 HTTP 协议导出指标数据。](https://github.com/hipages/php-fpm_exporter) 
 ### November 29, 2025 
 - [phptg/bot-api: 与 Telegram Bot API 交互的 PHP 库](https://github.com/phptg/bot-api) 
 ### November 28, 2025 
