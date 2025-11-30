@@ -13,6 +13,9 @@
 
 
 
+
+### November 30, 2025 
+- [github.com/hipages/php-fpm_exporter: 这是一个用于PHP-FPM的Prometheus导出器。这个导出器会直接连接到PHP-FPM，并通过HTTP协议导出指标数据。](https://github.com/hipages/php-fpm_exporter) 
 ### November 29, 2025 
 - [phptg/bot-api: 与 Telegram Bot API 交互的 PHP 库](https://github.com/phptg/bot-api) 
 ### November 28, 2025 
