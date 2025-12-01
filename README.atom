@@ -29,6 +29,39 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。]]></title>
+    <published>2025-11-30T08:00:00+00:00</published>
+    <updated>2025-11-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/kunkundi/crossdesk"/>
+    <id>https://github.com/kunkundi/crossdesk</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/kunkundi/crossdesk" target="_blank">kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/kunkundi/crossdesk" target="_blank">https://github.com/kunkundi/crossdesk</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[antonmedv/gitmal: Gitmal 是一个用于 Git 仓库的静态页面生成器。Gitmal 可以使用文件、提交、代码高亮和 Markdown 渲染生成静态 HTML 页面。]]></title>
+    <published>2025-11-30T00:00:00+00:00</published>
+    <updated>2025-11-30T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/antonmedv/gitmal"/>
+    <id>https://github.com/antonmedv/gitmal</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/antonmedv/gitmal" target="_blank">antonmedv/gitmal: Gitmal 是一个用于 Git 仓库的静态页面生成器。Gitmal
+可以使用文件、提交、代码高亮和 Markdown 渲染生成静态 HTML 页面。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/antonmedv/gitmal" target="_blank">https://github.com/antonmedv/gitmal</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[hipages/php-fpm_exporter: 这是一个用于 PHP-FPM 的 Prometheus 导出器。这个导出器会直接连接到 PHP-FPM，并通过 HTTP 协议导出指标数据。]]></title>
     <published>2025-11-29T16:00:00+00:00</published>
     <updated>2025-11-29T16:00:00+00:00</updated>

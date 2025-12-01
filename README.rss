@@ -23,6 +23,32 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。</title>
+      <pubDate>Sun, 30 Nov 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/kunkundi/crossdesk</link>
+      <guid>https://github.com/kunkundi/crossdesk</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/kunkundi/crossdesk" target="_blank">kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/kunkundi/crossdesk" target="_blank">https://github.com/kunkundi/crossdesk</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>antonmedv/gitmal: Gitmal 是一个用于 Git 仓库的静态页面生成器。Gitmal 可以使用文件、提交、代码高亮和 Markdown 渲染生成静态 HTML 页面。</title>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://github.com/antonmedv/gitmal</link>
+      <guid>https://github.com/antonmedv/gitmal</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/antonmedv/gitmal" target="_blank">antonmedv/gitmal: Gitmal 是一个用于 Git 仓库的静态页面生成器。Gitmal 可以使用文件、提交、代码高亮和 Markdown 渲染生成静态 HTML 页面。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/antonmedv/gitmal" target="_blank">https://github.com/antonmedv/gitmal</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>hipages/php-fpm_exporter: 这是一个用于 PHP-FPM 的 Prometheus 导出器。这个导出器会直接连接到 PHP-FPM，并通过 HTTP 协议导出指标数据。</title>
       <pubDate>Sat, 29 Nov 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/hipages/php-fpm_exporter</link>
