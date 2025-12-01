@@ -13,6 +13,7 @@
 
 ### December 1, 2025 
 - [addyosmani/gemini-cli-tips: Gemini CLI 提示和技巧](https://github.com/addyosmani/gemini-cli-tips) 
+- [github.com/kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。](https://github.com/kunkundi/crossdesk) 
 ### November 30, 2025 
 - [hipages/php-fpm_exporter: 这是一个用于 PHP-FPM 的 Prometheus 导出器。这个导出器会直接连接到 PHP-FPM，并通过 HTTP 协议导出指标数据。](https://github.com/hipages/php-fpm_exporter) 
 ### November 29, 2025 
