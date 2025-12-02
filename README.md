@@ -14,6 +14,7 @@
 
 ### December 2, 2025 
 - [Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。](https://github.com/Kailun2047/go-slowmo) 
+- [alecthomas/chroma: Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.](https://github.com/alecthomas/chroma) 
 ### December 1, 2025 
 - [addyosmani/gemini-cli-tips: Gemini CLI 提示和技巧](https://github.com/addyosmani/gemini-cli-tips) 
 - [kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。](https://github.com/kunkundi/crossdesk) 
