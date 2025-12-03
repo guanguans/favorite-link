@@ -15,8 +15,8 @@
 
 ### December 3, 2025 
 - [Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd) 
-- [joanhey/ngx-php-runtime: Symfony PHP-NGX-PHP的运行时](https://github.com/joanhey/ngx-php-runtime) 
-- [DaoCloud/public-image-mirror: 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。](https://github.com/DaoCloud/public-image-mirror) 
+- [joanhey/ngx-php-runtime: Symfony PHP-NGX-PHP 的运行时](https://github.com/joanhey/ngx-php-runtime) 
+- [DaoCloud/public-image-mirror: 很多镜像都在国外。比如 gcr。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。](https://github.com/DaoCloud/public-image-mirror) 
 ### December 2, 2025 
 - [Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。](https://github.com/Kailun2047/go-slowmo) 
 - [alecthomas/chroma: Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.](https://github.com/alecthomas/chroma) 

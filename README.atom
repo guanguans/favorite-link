@@ -31,6 +31,39 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[joanhey/ngx-php-runtime: Symfony PHP-NGX-PHP 的运行时]]></title>
+    <published>2025-12-02T08:00:00+00:00</published>
+    <updated>2025-12-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/joanhey/ngx-php-runtime"/>
+    <id>https://github.com/joanhey/ngx-php-runtime</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/joanhey/ngx-php-runtime" target="_blank">joanhey/ngx-php-runtime: Symfony PHP-NGX-PHP 的运行时</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/joanhey/ngx-php-runtime" target="_blank">https://github.com/joanhey/ngx-php-runtime</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[DaoCloud/public-image-mirror: 很多镜像都在国外。比如 gcr。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。]]></title>
+    <published>2025-12-02T00:00:00+00:00</published>
+    <updated>2025-12-02T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/DaoCloud/public-image-mirror"/>
+    <id>https://github.com/DaoCloud/public-image-mirror</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/DaoCloud/public-image-mirror" target="_blank">DaoCloud/public-image-mirror: 很多镜像都在国外。比如
+gcr。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/DaoCloud/public-image-mirror" target="_blank">https://github.com/DaoCloud/public-image-mirror</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。]]></title>
     <published>2025-12-01T16:00:00+00:00</published>
     <updated>2025-12-01T16:00:00+00:00</updated>
