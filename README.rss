@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 01 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。</title>
+      <pubDate>Tue, 02 Dec 2025 16:00:00 +0000</pubDate>
+      <link>TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd</link>
+      <guid isPermaLink="false">TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd</guid>
+      <content:encoded><![CDATA[<a href="TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd" target="_blank">Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd" target="_blank">TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。</title>
       <pubDate>Mon, 01 Dec 2025 16:00:00 +0000</pubDate>

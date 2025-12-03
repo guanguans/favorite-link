@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-12-01T16:00:00+00:00</updated>
+  <updated>2025-12-02T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。]]></title>
+    <published>2025-12-02T16:00:00+00:00</published>
+    <updated>2025-12-02T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd"/>
+    <id>TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="TUI/CLI)%20Markdown%20%E5%AF%BC%E8%88%AA%E5%99%A8%EF%BC%8C%E5%85%B7%E6%9C%89%E5%9F%BA%E4%BA%8E%E6%A0%91%E7%9A%84%E7%BB%93%E6%9E%84%E5%AF%BC%E8%88%AA%E3%80%82](https://github.com/Epistates/treemd" target="_blank">Epistates/treemd: (TUI/CLI) Markdown
+导航器，具有基于树的结构导航。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="TUI/CLI)%20Markdown%20%E5%AF%BC%E8%88%AA%E5%99%A8%EF%BC%8C%E5%85%B7%E6%9C%89%E5%9F%BA%E4%BA%8E%E6%A0%91%E7%9A%84%E7%BB%93%E6%9E%84%E5%AF%BC%E8%88%AA%E3%80%82](https://github.com/Epistates/treemd" target="_blank">TUI/CLI) Markdown
+导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。]]></title>
     <published>2025-12-01T16:00:00+00:00</published>
