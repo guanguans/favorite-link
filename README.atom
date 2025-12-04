@@ -30,6 +30,23 @@ Swift 编写。它允许您以编程方式控制键盘、鼠标、屏幕和其�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[edgafner/GBrowser: 在你的 IDE 中嵌入一个网页浏览器窗口。消除在浏览器和 IDE 之间切换的麻烦。]]></title>
+    <published>2025-12-03T08:00:00+00:00</published>
+    <updated>2025-12-03T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/edgafner/GBrowser"/>
+    <id>https://github.com/edgafner/GBrowser</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/edgafner/GBrowser" target="_blank">edgafner/GBrowser: 在你的 IDE 中嵌入一个网页浏览器窗口。消除在浏览器和 IDE
+之间切换的麻烦。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/edgafner/GBrowser" target="_blank">https://github.com/edgafner/GBrowser</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。]]></title>
     <published>2025-12-02T16:00:00+00:00</published>
     <updated>2025-12-02T16:00:00+00:00</updated>
