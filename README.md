@@ -13,6 +13,9 @@
 
 
 
+
+### December 4, 2025 
+- [Lakr233/ComputerUse: ComputerUse 是一款为 macOS 开发的计算机自动化工具，使用 Swift 编写。它允许您以编程方式控制键盘、鼠标、屏幕和其他计算机功能。](https://github.com/Lakr233/ComputerUse) 
 ### December 3, 2025 
 - [Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd) 
 - [joanhey/ngx-php-runtime: Symfony PHP-NGX-PHP 的运行时](https://github.com/joanhey/ngx-php-runtime) 
