@@ -13,7 +13,7 @@
 
 ### December 5, 2025 
 - [legeling/PromptHub: 一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt](https://github.com/legeling/PromptHub) 
-- [alipay/alipay-easysdk: 支付宝Easy SDK支持多语言（java、c#、php、ts等），让您享受简约的编程体验，快速访问支付宝开放平台的各种高频功能。](https://github.com/alipay/alipay-easysdk) 
+- [alipay/alipay-easysdk: 支付宝 Easy SDK 支持多语言 (java、c#、php、ts 等)，让您享受简约的编程体验，快速访问支付宝开放平台的各种高频功能。](https://github.com/alipay/alipay-easysdk) 
 ### December 4, 2025 
 - [Lakr233/ComputerUse: ComputerUse 是一款为 macOS 开发的计算机自动化工具，使用 Swift 编写。它允许您以编程方式控制键盘、鼠标、屏幕和其他计算机功能。](https://github.com/Lakr233/ComputerUse) 
 - [edgafner/GBrowser: 在你的 IDE 中嵌入一个网页浏览器窗口。消除在浏览器和 IDE 之间切换的麻烦。](https://github.com/edgafner/GBrowser) 
