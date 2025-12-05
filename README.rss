@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 04 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>legeling/PromptHub: 一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt</title>
+      <pubDate>Thu, 04 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/legeling/PromptHub</link>
+      <guid>https://github.com/legeling/PromptHub</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/legeling/PromptHub" target="_blank">legeling/PromptHub: 一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/legeling/PromptHub" target="_blank">https://github.com/legeling/PromptHub</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Lakr233/ComputerUse: ComputerUse 是一款为 macOS 开发的计算机自动化工具，使用 Swift 编写。它允许您以编程方式控制键盘、鼠标、屏幕和其他计算机功能。</title>
       <pubDate>Wed, 03 Dec 2025 16:00:00 +0000</pubDate>
