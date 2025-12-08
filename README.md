@@ -18,7 +18,7 @@
 - [wasm-fmt/mago_fmt: 基于 WASM 的 PHP 格式化程序](https://github.com/wasm-fmt/mago_fmt) 
 - [claude-php/Claude-PHP-SDK: 为 Claude 提供 PHP SDK - 完整支持官方 Python SDK 的一对一功能](https://github.com/claude-php/Claude-PHP-SDK) 
 - [franbarbalopez/mirror: Mirror 是一个优雅的用户模拟包，适用于 Laravel。它允许管理员无缝地以其他用户的身份登录，以解决问题、提供支持或测试用户体验。](https://github.com/franbarbalopez/mirror) 
-- [hasinhayder/tyro: Tyro是Laravel 12的强大身份验证、授权、角色权限管理解决方案。可以将其视为一把瑞士军刀，处理从用户身份验证和基于角色的访问控制到用户挂起工作流的一切事务。](https://github.com/hasinhayder/tyro/) 
+- [hasinhayder/tyro: Tyro 是 Laravel 12 的强大身份验证、授权、角色权限管理解决方案。可以将其视为一把瑞士军刀，处理从用户身份验证和基于角色的访问控制到用户挂起工作流的一切事务。](https://github.com/hasinhayder/tyro/) 
 ### December 7, 2025 
 - [hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。](https://github.com/hellodigua/code996) 
 - [pingcap/mysql-tester: 这是一个 MySQL 测试框架的 Golang 实现。](https://github.com/pingcap/mysql-tester) 

@@ -80,6 +80,23 @@ Laravel。它允许管理员无缝地以其他用户的身份登录，以解决�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[hasinhayder/tyro: Tyro 是 Laravel 12 的强大身份验证、授权、角色权限管理解决方案。可以将其视为一把瑞士军刀，处理从用户身份验证和基于角色的访问控制到用户挂起工作流的一切事务。]]></title>
+    <published>2025-12-06T08:00:00+00:00</published>
+    <updated>2025-12-06T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/hasinhayder/tyro/"/>
+    <id>https://github.com/hasinhayder/tyro/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/hasinhayder/tyro/" target="_blank">hasinhayder/tyro: Tyro 是 Laravel 12
+的强大身份验证、授权、角色权限管理解决方案。可以将其视为一把瑞士军刀，处理从用户身份验证和基于角色的访问控制到用户挂起工作流的一切事务。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/hasinhayder/tyro/" target="_blank">https://github.com/hasinhayder/tyro/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。]]></title>
     <published>2025-12-06T16:00:00+00:00</published>
     <updated>2025-12-06T16:00:00+00:00</updated>
