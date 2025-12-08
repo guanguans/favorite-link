@@ -63,6 +63,23 @@ Python SDK 的一对一功能</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[franbarbalopez/mirror: Mirror 是一个优雅的用户模拟包，适用于 Laravel。它允许管理员无缝地以其他用户的身份登录，以解决问题、提供支持或测试用户体验。]]></title>
+    <published>2025-12-06T16:00:00+00:00</published>
+    <updated>2025-12-06T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/franbarbalopez/mirror"/>
+    <id>https://github.com/franbarbalopez/mirror</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/franbarbalopez/mirror" target="_blank">franbarbalopez/mirror: Mirror 是一个优雅的用户模拟包，适用于
+Laravel。它允许管理员无缝地以其他用户的身份登录，以解决问题、提供支持或测试用户体验。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/franbarbalopez/mirror" target="_blank">https://github.com/franbarbalopez/mirror</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。]]></title>
     <published>2025-12-06T16:00:00+00:00</published>
     <updated>2025-12-06T16:00:00+00:00</updated>
