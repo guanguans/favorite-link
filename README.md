@@ -16,6 +16,7 @@
 ### December 8, 2025 
 - [lowphpcom/wnmp: WNMP 通过一条命令安装 Nginx、PHP、MariaDB，集成 acme.sh 自动申请证书，配置 WebDAV、开启 BBR/FQ、关闭 THP，为中小网站、边缘节点、私有化项目提供开箱即用的生产环境。](https://github.com/lowphpcom/wnmp) 
 - [wasm-fmt/mago_fmt: 基于 WASM 的 PHP 格式化程序](https://github.com/wasm-fmt/mago_fmt) 
+- [claude-php/Claude-PHP-SDK: 为Claude提供PHP SDK - 完整支持官方Python SDK的一对一功能](https://github.com/claude-php/Claude-PHP-SDK) 
 ### December 7, 2025 
 - [hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。](https://github.com/hellodigua/code996) 
 - [pingcap/mysql-tester: 这是一个 MySQL 测试框架的 Golang 实现。](https://github.com/pingcap/mysql-tester) 
