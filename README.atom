@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[wasm-fmt/mago_fmt: 基于 WASM 的 PHP 格式化程序]]></title>
+    <published>2025-12-07T08:00:00+00:00</published>
+    <updated>2025-12-07T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/wasm-fmt/mago_fmt"/>
+    <id>https://github.com/wasm-fmt/mago_fmt</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/wasm-fmt/mago_fmt" target="_blank">wasm-fmt/mago_fmt: 基于 WASM 的 PHP 格式化程序</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/wasm-fmt/mago_fmt" target="_blank">https://github.com/wasm-fmt/mago_fmt</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。]]></title>
     <published>2025-12-06T16:00:00+00:00</published>
     <updated>2025-12-06T16:00:00+00:00</updated>
