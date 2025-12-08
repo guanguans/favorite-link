@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 06 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 07 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>lowphpcom/wnmp: WNMP 通过一条命令安装 Nginx、PHP、MariaDB，集成 acme.sh 自动申请证书，配置 WebDAV、开启 BBR/FQ、关闭 THP，为中小网站、边缘节点、私有化项目提供开箱即用的生产环境。</title>
+      <pubDate>Sun, 07 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/lowphpcom/wnmp</link>
+      <guid>https://github.com/lowphpcom/wnmp</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lowphpcom/wnmp" target="_blank">lowphpcom/wnmp: WNMP 通过一条命令安装 Nginx、PHP、MariaDB，集成 acme.sh 自动申请证书，配置 WebDAV、开启 BBR/FQ、关闭 THP，为中小网站、边缘节点、私有化项目提供开箱即用的生产环境。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lowphpcom/wnmp" target="_blank">https://github.com/lowphpcom/wnmp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。</title>
       <pubDate>Sat, 06 Dec 2025 16:00:00 +0000</pubDate>
