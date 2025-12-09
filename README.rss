@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>donlon/cloudflare-error-page: 该项目创建自定义错误页面，模仿众所周知的 Cloudflare 错误页面。您还可以将其嵌入到您的网站中。</title>
+      <pubDate>Mon, 08 Dec 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/donlon/cloudflare-error-page</link>
+      <guid>https://github.com/donlon/cloudflare-error-page</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/donlon/cloudflare-error-page" target="_blank">donlon/cloudflare-error-page: 该项目创建自定义错误页面，模仿众所周知的 Cloudflare 错误页面。您还可以将其嵌入到您的网站中。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/donlon/cloudflare-error-page" target="_blank">https://github.com/donlon/cloudflare-error-page</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>lowphpcom/wnmp: WNMP 通过一条命令安装 Nginx、PHP、MariaDB，集成 acme.sh 自动申请证书，配置 WebDAV、开启 BBR/FQ、关闭 THP，为中小网站、边缘节点、私有化项目提供开箱即用的生产环境。</title>
       <pubDate>Sun, 07 Dec 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/lowphpcom/wnmp</link>
