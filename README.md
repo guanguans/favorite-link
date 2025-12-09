@@ -13,7 +13,7 @@
 ### December 9, 2025 
 - [b7s/laravelwhisper: 🎙️ 使用 Whisper.cpp AI 将音频转换为文本 - 直接在 PHP 中！](https://github.com/b7s/laravelwhisper) 
 - [donlon/cloudflare-error-page: 该项目创建自定义错误页面，模仿众所周知的 Cloudflare 错误页面。您还可以将其嵌入到您的网站中。](https://github.com/donlon/cloudflare-error-page) 
-- [CaoMeiYouRen/push-all-in-one: 支持 Server 酱(以及 Server 酱³)、自定义邮件、钉钉机器人、企业微信机器人、企业微信应用、飞书、pushplus、WxPusher、iGot 、Qmsg、息知、PushDeer、Discord、OneBot、Telegram、ntfy 等多种推送方式。](https://github.com/CaoMeiYouRen/push-all-in-one) 
+- [CaoMeiYouRen/push-all-in-one: 支持 Server 酱 (以及 Server 酱 ³)、自定义邮件、钉钉机器人、企业微信机器人、企业微信应用、飞书、pushplus、WxPusher、iGot、Qmsg、息知、PushDeer、Discord、OneBot、Telegram、ntfy 等多种推送方式。](https://github.com/CaoMeiYouRen/push-all-in-one) 
 ### December 8, 2025 
 - [lowphpcom/wnmp: WNMP 通过一条命令安装 Nginx、PHP、MariaDB，集成 acme.sh 自动申请证书，配置 WebDAV、开启 BBR/FQ、关闭 THP，为中小网站、边缘节点、私有化项目提供开箱即用的生产环境。](https://github.com/lowphpcom/wnmp) 
 - [wasm-fmt/mago_fmt: 基于 WASM 的 PHP 格式化程序](https://github.com/wasm-fmt/mago_fmt) 
