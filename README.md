@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### December 10, 2025 
+- [ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel 应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。](https://github.com/ritechoice23/laravel-fluent-ffmpeg) 
 ### December 9, 2025 
 - [b7s/laravelwhisper: 🎙️ 使用 Whisper.cpp AI 将音频转换为文本 - 直接在 PHP 中！](https://github.com/b7s/laravelwhisper) 
 - [donlon/cloudflare-error-page: 该项目创建自定义错误页面，模仿众所周知的 Cloudflare 错误页面。您还可以将其嵌入到您的网站中。](https://github.com/donlon/cloudflare-error-page) 
