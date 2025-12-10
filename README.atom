@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-12-08T16:00:00+00:00</updated>
+  <updated>2025-12-09T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel 应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。]]></title>
+    <published>2025-12-09T16:00:00+00:00</published>
+    <updated>2025-12-09T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ritechoice23/laravel-fluent-ffmpeg"/>
+    <id>https://github.com/ritechoice23/laravel-fluent-ffmpeg</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ritechoice23/laravel-fluent-ffmpeg" target="_blank">ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel
+应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ritechoice23/laravel-fluent-ffmpeg" target="_blank">https://github.com/ritechoice23/laravel-fluent-ffmpeg</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[b7s/laravelwhisper: 🎙️ 使用 Whisper.cpp AI 将音频转换为文本 - 直接在 PHP 中！]]></title>
     <published>2025-12-08T16:00:00+00:00</published>

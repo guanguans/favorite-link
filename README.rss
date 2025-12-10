@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 08 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 09 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel 应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。</title>
+      <pubDate>Tue, 09 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ritechoice23/laravel-fluent-ffmpeg</link>
+      <guid>https://github.com/ritechoice23/laravel-fluent-ffmpeg</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ritechoice23/laravel-fluent-ffmpeg" target="_blank">ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel 应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ritechoice23/laravel-fluent-ffmpeg" target="_blank">https://github.com/ritechoice23/laravel-fluent-ffmpeg</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>b7s/laravelwhisper: 🎙️ 使用 Whisper.cpp AI 将音频转换为文本 - 直接在 PHP 中！</title>
       <pubDate>Mon, 08 Dec 2025 16:00:00 +0000</pubDate>
