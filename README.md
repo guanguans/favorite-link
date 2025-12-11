@@ -15,6 +15,7 @@
 ### December 11, 2025 
 - [guiyumin/vget: 多功能命令行下载工具，支持音频、视频、播客等。](https://github.com/guiyumin/vget) 
 - [mdolr/survol: 一个浏览器扩展，用于预览您悬停的任何链接](https://github.com/mdolr/survol) 
+- [nekofar/php-dev-tools: PHP 项目的一些有用的开发要求。](https://github.com/nekofar/php-dev-tools) 
 ### December 10, 2025 
 - [ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel 应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。](https://github.com/ritechoice23/laravel-fluent-ffmpeg) 
 ### December 9, 2025 
