@@ -12,6 +12,9 @@
 
 
 
+
+### December 12, 2025 
+- [lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡](https://github.com/lizhipay/acg-faka) 
 ### December 11, 2025 
 - [guiyumin/vget: 多功能命令行下载工具，支持音频、视频、播客等。](https://github.com/guiyumin/vget) 
 - [mdolr/survol: 一个浏览器扩展，用于预览您悬停的任何链接](https://github.com/mdolr/survol) 
