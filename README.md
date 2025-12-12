@@ -12,7 +12,7 @@
 
 ### December 13, 2025 
 - [houbb/opencc4j: java 中文繁简体转换，支持台湾、香港、中文日文转换。](https://github.com/houbb/opencc4j) 
-- [pyfox / CustomInspections: 用于编写自定义代码检查的IntelliJ产品插件，使用正则表达式。](https://gitlab.com/pyfox/custominspections) 
+- [pyfox / CustomInspections: 用于编写自定义代码检查的 IntelliJ 产品插件，使用正则表达式。](https://gitlab.com/pyfox/custominspections) 
 ### December 12, 2025 
 - [lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡](https://github.com/lizhipay/acg-faka) 
 - [SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序](https://github.com/SignTools/SignTools) 
