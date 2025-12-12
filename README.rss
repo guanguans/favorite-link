@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 11 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 13 Dec 2025 00:39:06 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>houbb/opencc4j: java 中文繁简体转换，支持台湾、香港、中文日文转换。</title>
+      <pubDate>Sat, 13 Dec 2025 00:39:06 +0800</pubDate>
+      <link>https://github.com/houbb/opencc4j</link>
+      <guid>https://github.com/houbb/opencc4j</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/houbb/opencc4j" target="_blank">houbb/opencc4j: java 中文繁简体转换，支持台湾、香港、中文日文转换。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/houbb/opencc4j" target="_blank">https://github.com/houbb/opencc4j</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡</title>
       <pubDate>Thu, 11 Dec 2025 16:00:00 +0000</pubDate>
