@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-12-10T16:00:00+00:00</updated>
+  <updated>2025-12-11T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,39 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡]]></title>
+    <published>2025-12-11T16:00:00+00:00</published>
+    <updated>2025-12-11T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/lizhipay/acg-faka"/>
+    <id>https://github.com/lizhipay/acg-faka</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/lizhipay/acg-faka" target="_blank">lizhipay/acg-faka:
+个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/lizhipay/acg-faka" target="_blank">https://github.com/lizhipay/acg-faka</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序]]></title>
+    <published>2025-12-11T08:00:00+00:00</published>
+    <updated>2025-12-11T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/SignTools/SignTools"/>
+    <id>https://github.com/SignTools/SignTools</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/SignTools/SignTools" target="_blank">SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/SignTools/SignTools" target="_blank">https://github.com/SignTools/SignTools</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[guiyumin/vget: 多功能命令行下载工具，支持音频、视频、播客等。]]></title>
     <published>2025-12-10T16:00:00+00:00</published>

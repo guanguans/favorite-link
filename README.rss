@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 10 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 11 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡</title>
+      <pubDate>Thu, 11 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/lizhipay/acg-faka</link>
+      <guid>https://github.com/lizhipay/acg-faka</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lizhipay/acg-faka" target="_blank">lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lizhipay/acg-faka" target="_blank">https://github.com/lizhipay/acg-faka</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序</title>
+      <pubDate>Thu, 11 Dec 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/SignTools/SignTools</link>
+      <guid>https://github.com/SignTools/SignTools</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/SignTools/SignTools" target="_blank">SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/SignTools/SignTools" target="_blank">https://github.com/SignTools/SignTools</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>guiyumin/vget: 多功能命令行下载工具，支持音频、视频、播客等。</title>
       <pubDate>Wed, 10 Dec 2025 16:00:00 +0000</pubDate>
