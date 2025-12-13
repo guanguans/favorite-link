@@ -3,7 +3,7 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 13 Dec 2025 00:46:24 +0800</pubDate>
+    <pubDate>Fri, 12 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
@@ -11,7 +11,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
       <title>houbb/opencc4j: java 中文繁简体转换，支持台湾、香港、中文日文转换。</title>
-      <pubDate>Sat, 13 Dec 2025 00:46:24 +0800</pubDate>
+      <pubDate>Fri, 12 Dec 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/houbb/opencc4j</link>
       <guid>https://github.com/houbb/opencc4j</guid>
       <content:encoded><![CDATA[<a href="https://github.com/houbb/opencc4j" target="_blank">houbb/opencc4j: java 中文繁简体转换，支持台湾、香港、中文日文转换。</a>
@@ -24,7 +24,7 @@
     </item>
     <item>
       <title>pyfox / CustomInspections: 用于编写自定义代码检查的 IntelliJ 产品插件，使用正则表达式。</title>
-      <pubDate>Sat, 13 Dec 2025 00:46:24 +0800</pubDate>
+      <pubDate>Fri, 12 Dec 2025 08:00:00 +0000</pubDate>
       <link>https://gitlab.com/pyfox/custominspections</link>
       <guid>https://gitlab.com/pyfox/custominspections</guid>
       <content:encoded><![CDATA[<a href="https://gitlab.com/pyfox/custominspections" target="_blank">pyfox / CustomInspections: 用于编写自定义代码检查的 IntelliJ 产品插件，使用正则表达式。</a>
