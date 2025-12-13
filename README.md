@@ -16,6 +16,7 @@
 - [JerryZLiu/Dayflow: Dayflow 是一款原生 macOS 应用程序 (SwiftUI)，以 1 FPS 的速度录制您的屏幕，每 15 分钟使用 AI 进行分析，并生成您的活动时间线及摘要。它体积小巧 (应用程序大小为 25MB)，使用约 100MB 的 RAM 和不到 1% 的 CPU。](https://github.com/JerryZLiu/Dayflow) 
 - [PGshen/mini-clipboard: 轻量、好看的 macOS 剪贴板管理器：采集历史、时间线浏览、收藏分组、直接粘贴、快速粘贴、即时搜索等能力，帮助你更快地跨应用粘贴内容。](https://github.com/PGshen/mini-clipboard) 
 - [Wcowin/Mac-Finder-Clipboard: FinderClip 是一款轻量级的 macOS 菜单栏应用程序，为 Finder 提供直观的剪切和粘贴体验。](https://github.com/Wcowin/Mac-Finder-Clipboard) 
+- [siddharthvaddem/openscreen: 免费制作令人惊叹的屏幕录制。开源，无需订阅，无水印，商业用途也免费。Screen Studio 的替代品。](https://github.com/siddharthvaddem/openscreen) 
 ### December 12, 2025 
 - [lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡](https://github.com/lizhipay/acg-faka) 
 - [SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序](https://github.com/SignTools/SignTools) 
