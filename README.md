@@ -14,6 +14,7 @@
 
 ### December 15, 2025 
 - [imputnet/helium: 为人们打造的基于 Chromium 的网络浏览器，充满爱。默认最佳隐私，无偏见的广告拦截，无臃肿无噪音。](https://github.com/imputnet/helium) 
+- [guanguans/php-cs-fixer-custom-fixers: 使用 php-cs-fixer 去格式化 bats、blade.php、Dockerfile、env、json、md、sh、sql、text、toml、txt、xml、yaml...文件。](https://github.com/guanguans/php-cs-fixer-custom-fixers) 
 ### December 14, 2025 
 - [TestFlowLabs/testlink：TestLink 在您的测试和生产代码之间创建双向链接。确切地知道哪些测试覆盖了每个方法，以及每个测试执行了哪些方法。](https://github.com/TestFlowLabs/testlink) 
 ### December 13, 2025 
