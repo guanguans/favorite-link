@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[guanguans/php-cs-fixer-custom-fixers: 使用 php-cs-fixer 去格式化 bats、blade.php、Dockerfile、env、json、md、sh、sql、text、toml、txt、xml、yaml...文件。]]></title>
+    <published>2025-12-14T08:00:00+00:00</published>
+    <updated>2025-12-14T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/guanguans/php-cs-fixer-custom-fixers"/>
+    <id>https://github.com/guanguans/php-cs-fixer-custom-fixers</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/guanguans/php-cs-fixer-custom-fixers" target="_blank">guanguans/php-cs-fixer-custom-fixers: 使用
+php-cs-fixer 去格式化
+bats、blade.php、Dockerfile、env、json、md、sh、sql、text、toml、txt、xml、yaml...文件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/php-cs-fixer-custom-fixers" target="_blank">https://github.com/guanguans/php-cs-fixer-custom-fixers</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[TestFlowLabs/testlink：TestLink 在您的测试和生产代码之间创建双向链接。确切地知道哪些测试覆盖了每个方法，以及每个测试执行了哪些方法。]]></title>
     <published>2025-12-13T16:00:00+00:00</published>
     <updated>2025-12-13T16:00:00+00:00</updated>
