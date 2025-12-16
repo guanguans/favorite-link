@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 14 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 15 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>KnpLabs/knp-components: 各种组件包，包括分页器</title>
+      <pubDate>Mon, 15 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/KnpLabs/knp-components</link>
+      <guid>https://github.com/KnpLabs/knp-components</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/KnpLabs/knp-components" target="_blank">KnpLabs/knp-components: 各种组件包，包括分页器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/KnpLabs/knp-components" target="_blank">https://github.com/KnpLabs/knp-components</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>imputnet/helium: 为人们打造的基于 Chromium 的网络浏览器，充满爱。默认最佳隐私，无偏见的广告拦截，无臃肿无噪音。</title>
       <pubDate>Sun, 14 Dec 2025 16:00:00 +0000</pubDate>
