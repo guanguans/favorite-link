@@ -17,6 +17,7 @@
 ### December 17, 2025 
 - [DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。](https://github.com/DayuanJiang/next-ai-draw-io) 
 - [FedericoPonzi/Horust: Horust 是一个用 Rust 编写的监督者/初始化系统，旨在容器内运行。](https://github.com/FedericoPonzi/Horust) 
+- [productdevbook/port-killer: 一个原生的 macOS 菜单栏应用，用于查找和终止在开放端口上运行的进程。非常适合需要快速释放端口（如 3000、8080、5173 等）的开发者。](https://github.com/productdevbook/port-killer) 
 ### December 16, 2025 
 - [KnpLabs/knp-components: 各种组件包，包括分页器](https://github.com/KnpLabs/knp-components) 
 ### December 15, 2025 
