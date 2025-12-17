@@ -13,6 +13,9 @@
 
 
 
+
+### December 17, 2025 
+- [DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。](https://github.com/DayuanJiang/next-ai-draw-io) 
 ### December 16, 2025 
 - [KnpLabs/knp-components: 各种组件包，包括分页器](https://github.com/KnpLabs/knp-components) 
 ### December 15, 2025 
