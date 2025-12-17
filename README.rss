@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 15 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 16 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。</title>
+      <pubDate>Tue, 16 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/DayuanJiang/next-ai-draw-io</link>
+      <guid>https://github.com/DayuanJiang/next-ai-draw-io</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">https://github.com/DayuanJiang/next-ai-draw-io</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>FedericoPonzi/Horust: Horust 是一个用 Rust 编写的监督者/初始化系统，旨在容器内运行。</title>
+      <pubDate>Tue, 16 Dec 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/FedericoPonzi/Horust</link>
+      <guid>https://github.com/FedericoPonzi/Horust</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/FedericoPonzi/Horust" target="_blank">FedericoPonzi/Horust: Horust 是一个用 Rust 编写的监督者/初始化系统，旨在容器内运行。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/FedericoPonzi/Horust" target="_blank">https://github.com/FedericoPonzi/Horust</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>productdevbook/port-killer: 一个原生的 macOS 菜单栏应用，用于查找和终止在开放端口上运行的进程。非常适合需要快速释放端口 (如 3000、8080、5173 等) 的开发者。</title>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <link>如 3000、8080、5173 等) 的开发者。](https://github.com/productdevbook/port-killer</link>
+      <guid isPermaLink="false">如 3000、8080、5173 等) 的开发者。](https://github.com/productdevbook/port-killer</guid>
+      <content:encoded><![CDATA[<a href="如 3000、8080、5173 等) 的开发者。](https://github.com/productdevbook/port-killer" target="_blank">productdevbook/port-killer: 一个原生的 macOS 菜单栏应用，用于查找和终止在开放端口上运行的进程。非常适合需要快速释放端口 (如 3000、8080、5173 等) 的开发者。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="如 3000、8080、5173 等) 的开发者。](https://github.com/productdevbook/port-killer" target="_blank">如 3000、8080、5173 等) 的开发者。](https://github.com/productdevbook/port-killer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>KnpLabs/knp-components: 各种组件包，包括分页器</title>
       <pubDate>Mon, 15 Dec 2025 16:00:00 +0000</pubDate>
