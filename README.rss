@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>atuinsh/atuin: Atuin 使用 SQLite 数据库替换现有的 shell 历史记录，并记录命令的附加上下文。此外，它还通过 Atuin 服务器提供机器之间可选且完全加密的历史记录同步。</title>
+      <pubDate>Wed, 17 Dec 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/atuinsh/atuin</link>
+      <guid>https://github.com/atuinsh/atuin</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/atuinsh/atuin" target="_blank">atuinsh/atuin: Atuin 使用 SQLite 数据库替换现有的 shell 历史记录，并记录命令的附加上下文。此外，它还通过 Atuin 服务器提供机器之间可选且完全加密的历史记录同步。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/atuinsh/atuin" target="_blank">https://github.com/atuinsh/atuin</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。</title>
       <pubDate>Tue, 16 Dec 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/DayuanJiang/next-ai-draw-io</link>
