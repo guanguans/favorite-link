@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### December 18, 2025 
+- [rainxchzed/Github-Store: 一个免费的开源应用商店，用于 GitHub 发布 - 浏览、发现并一键安装应用。](https://github.com/rainxchzed/Github-Store) 
 ### December 17, 2025 
 - [DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。](https://github.com/DayuanJiang/next-ai-draw-io) 
 - [FedericoPonzi/Horust: Horust 是一个用 Rust 编写的监督者/初始化系统，旨在容器内运行。](https://github.com/FedericoPonzi/Horust) 
