@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2025-12-19T01:16:40+08:00</updated>
+  <updated>2025-12-18T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -14,8 +14,8 @@
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！]]></title>
-    <published>2025-12-19T01:16:40+08:00</published>
-    <updated>2025-12-19T01:16:40+08:00</updated>
+    <published>2025-12-18T16:00:00+00:00</published>
+    <updated>2025-12-18T16:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/xnx3/translate"/>
     <id>https://github.com/xnx3/translate</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
@@ -24,6 +24,23 @@
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/xnx3/translate" target="_blank">https://github.com/xnx3/translate</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[samber/hot: 用于读取密集型 Go 应用程序的内存缓存库]]></title>
+    <published>2025-12-18T08:00:00+00:00</published>
+    <updated>2025-12-18T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/samber/hot"/>
+    <id>https://github.com/samber/hot</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/samber/hot" target="_blank">samber/hot:
+用于读取密集型 Go 应用程序的内存缓存库</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/samber/hot" target="_blank">https://github.com/samber/hot</xhtml:a></xhtml:li>
 <xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
 </xhtml:ul>
 </xhtml:div>
