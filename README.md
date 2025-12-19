@@ -16,7 +16,7 @@
 - [xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！](https://github.com/xnx3/translate) 
 - [samber/hot: 用于读取密集型 Go 应用程序的内存缓存库](https://github.com/samber/hot) 
 - [lusingander/serie: 你终端里丰富的 git 提交图，就像魔法一样 📚。](https://github.com/lusingander/serie) 
-- [hezhizheng/go-wxpush: 极简且免费的微信消息推送服务 (基于golang)](https://github.com/hezhizheng/go-wxpush) 
+- [hezhizheng/go-wxpush: 极简且免费的微信消息推送服务 (基于 golang)](https://github.com/hezhizheng/go-wxpush) 
 ### December 18, 2025 
 - [rainxchzed/Github-Store: 一个免费的开源应用商店，用于 GitHub 发布 - 浏览、发现并一键安装应用。](https://github.com/rainxchzed/Github-Store) 
 - [atuinsh/atuin: Atuin 使用 SQLite 数据库替换现有的 shell 历史记录，并记录命令的附加上下文。此外，它还通过 Atuin 服务器提供机器之间可选且完全加密的历史记录同步。](https://github.com/atuinsh/atuin) 
