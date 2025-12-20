@@ -82,6 +82,24 @@ Blade 模板。右键点击任何元素，选择“编辑代码”，然后直�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[aerni/laravel-cloudflared: 一个简单的包，用于为您的 Laravel 项目创建和管理 Cloudflare 隧道。Cloudflare 隧道为您提供对本地开发环境的即时公共访问，类似于 Expose 或 ngrok，但由 Cloudflare 提供支持。]]></title>
+    <published>2025-12-18T08:00:00+00:00</published>
+    <updated>2025-12-18T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/aerni/laravel-cloudflared"/>
+    <id>https://github.com/aerni/laravel-cloudflared</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/aerni/laravel-cloudflared" target="_blank">aerni/laravel-cloudflared: 一个简单的包，用于为您的 Laravel 项目创建和管理
+Cloudflare 隧道。Cloudflare 隧道为您提供对本地开发环境的即时公共访问，类似于 Expose 或 ngrok，但由
+Cloudflare 提供支持。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/aerni/laravel-cloudflared" target="_blank">https://github.com/aerni/laravel-cloudflared</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！]]></title>
     <published>2025-12-18T16:00:00+00:00</published>
     <updated>2025-12-18T16:00:00+00:00</updated>
