@@ -117,6 +117,23 @@ osama-98/laravel-enum-translatable: 一个用于可翻译枚举的 Laravel 包�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Grazulex/shipmark: 通过一个交互式命令行界面自动化您的发布工作流程，该界面生成变更日志、管理版本并创建标签——所有这些都无需外部依赖。]]></title>
+    <published>2025-12-17T16:00:00+00:00</published>
+    <updated>2025-12-17T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Grazulex/shipmark#-quick-start"/>
+    <id>https://github.com/Grazulex/shipmark#-quick-start</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Grazulex/shipmark#-quick-start" target="_blank">Grazulex/shipmark:
+通过一个交互式命令行界面自动化您的发布工作流程，该界面生成变更日志、管理版本并创建标签——所有这些都无需外部依赖。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Grazulex/shipmark#-quick-start" target="_blank">https://github.com/Grazulex/shipmark#-quick-start</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！]]></title>
     <published>2025-12-18T16:00:00+00:00</published>
     <updated>2025-12-18T16:00:00+00:00</updated>
