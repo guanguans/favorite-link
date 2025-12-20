@@ -16,6 +16,7 @@
 ### December 20, 2025 
 - [tasselx/Keyden: 一款简洁优雅的 macOS 菜单栏 TOTP 验证器——密钥安全存储于 macOS 钥匙串，支持扫码添加账号与一键复制验证码](https://github.com/tasselx/Keyden) 
 - [bonu-dev/php-elasticsearch-builder: 一个干净、流畅、不可变且类型安全的 Elasticsearch 查询生成器 - 从头开始 ​​ 构建，可与官方 Elasticsearch PHP 客户端无缝协作。](https://github.com/bonu-dev/php-elasticsearch-builder) 
+- [thedevdojo/refine: Refine 是一个实时 Blade 编辑器。它支持在浏览器中即时编辑 Blade 模板。右键点击任何元素，选择“编辑代码”，然后直接修改源代码。](https://github.com/thedevdojo/refine) 
 ### December 19, 2025 
 - [xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！](https://github.com/xnx3/translate) 
 - [samber/hot: 用于读取密集型 Go 应用程序的内存缓存库](https://github.com/samber/hot) 
