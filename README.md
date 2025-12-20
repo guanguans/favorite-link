@@ -18,6 +18,7 @@
 - [bonu-dev/php-elasticsearch-builder: 一个干净、流畅、不可变且类型安全的 Elasticsearch 查询生成器 - 从头开始 ​​ 构建，可与官方 Elasticsearch PHP 客户端无缝协作。](https://github.com/bonu-dev/php-elasticsearch-builder) 
 - [thedevdojo/refine: Refine 是一个实时 Blade 编辑器。它支持在浏览器中即时编辑 Blade 模板。右键点击任何元素，选择“编辑代码”，然后直接修改源代码。](https://github.com/thedevdojo/refine) 
 - [ludoguenet/laravel-artifact: 轻量级的 Laravel 软件包，可以轻松处理基本的媒体管理。](https://github.com/ludoguenet/laravel-artifact) 
+- [aerni/laravel-cloudflared: 一个简单的包，用于为您的 Laravel 项目创建和管理 Cloudflare 隧道。Cloudflare 隧道为您提供对本地开发环境的即时公共访问，类似于 Expose 或 ngrok，但由 Cloudflare 提供支持。](https://github.com/aerni/laravel-cloudflared) 
 ### December 19, 2025 
 - [xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！](https://github.com/xnx3/translate) 
 - [samber/hot: 用于读取密集型 Go 应用程序的内存缓存库](https://github.com/samber/hot) 
