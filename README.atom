@@ -48,6 +48,23 @@ Elasticsearch PHP 客户端无缝协作。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[thedevdojo/refine: Refine 是一个实时 Blade 编辑器。它支持在浏览器中即时编辑 Blade 模板。右键点击任何元素，选择“编辑代码”，然后直接修改源代码。]]></title>
+    <published>2025-12-19T00:00:00+00:00</published>
+    <updated>2025-12-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/thedevdojo/refine"/>
+    <id>https://github.com/thedevdojo/refine</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/thedevdojo/refine" target="_blank">thedevdojo/refine: Refine 是一个实时 Blade 编辑器。它支持在浏览器中即时编辑
+Blade 模板。右键点击任何元素，选择“编辑代码”，然后直接修改源代码。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/thedevdojo/refine" target="_blank">https://github.com/thedevdojo/refine</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！]]></title>
     <published>2025-12-18T16:00:00+00:00</published>
     <updated>2025-12-18T16:00:00+00:00</updated>
