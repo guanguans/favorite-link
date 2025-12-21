@@ -13,6 +13,9 @@
 
 
 
+
+### December 21, 2025 
+- [InterceptSuite/ProxyBridge: 将任何Windows/MacOS TCP和UDP流量重定向到HTTP/SOCKS5代理](https://github.com/InterceptSuite/ProxyBridge) 
 ### December 20, 2025 
 - [tasselx/Keyden: 一款简洁优雅的 macOS 菜单栏 TOTP 验证器——密钥安全存储于 macOS 钥匙串，支持扫码添加账号与一键复制验证码](https://github.com/tasselx/Keyden) 
 - [bonu-dev/php-elasticsearch-builder: 一个干净、流畅、不可变且类型安全的 Elasticsearch 查询生成器 - 从头开始 ​​ 构建，可与官方 Elasticsearch PHP 客户端无缝协作。](https://github.com/bonu-dev/php-elasticsearch-builder) 
