@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 20 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 21 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。</title>
+      <pubDate>Sun, 21 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/Flow-Launcher/Flow.Launcher</link>
+      <guid>https://github.com/Flow-Launcher/Flow.Launcher</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Flow-Launcher/Flow.Launcher" target="_blank">Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Flow-Launcher/Flow.Launcher" target="_blank">https://github.com/Flow-Launcher/Flow.Launcher</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>InterceptSuite/ProxyBridge: 将任何 Windows/MacOS TCP 和 UDP 流量重定向到 HTTP/SOCKS5 代理</title>
       <pubDate>Sat, 20 Dec 2025 16:00:00 +0000</pubDate>
