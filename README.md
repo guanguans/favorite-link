@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### December 22, 2025 
+- [Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。](https://github.com/Flow-Launcher/Flow.Launcher) 
 ### December 21, 2025 
 - [InterceptSuite/ProxyBridge: 将任何 Windows/MacOS TCP 和 UDP 流量重定向到 HTTP/SOCKS5 代理](https://github.com/InterceptSuite/ProxyBridge) 
 ### December 20, 2025 
