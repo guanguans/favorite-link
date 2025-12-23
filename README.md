@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### December 23, 2025 
+- [bylinxx/MacCalendar: 完全免费&开源的离线小而美 macOS 菜单栏日历app，支持中国农历、节假日、放假安排、系统日程等](https://github.com/bylinxx/MacCalendar) 
 ### December 22, 2025 
 - [Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。](https://github.com/Flow-Launcher/Flow.Launcher) 
 ### December 21, 2025 
