@@ -30,6 +30,43 @@ app，支持中国农历、节假日、放假安排、系统日程等</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[el7cosmos/pasir: 这是一个高性能的 PHP 应用服务器，使用 Rust 编写，通过将 PHP 执行直接嵌入现代 HTTP 服务器，为 PHP 应用程序提供了坚实的基础。Pasir 使用自定义 SAPI 和通过 ext-php-rs 的 C 绑定构建，提供了一个快速高效的替代传统 PHP-FPM 设置的方案，同时保持与现有 PHP 应用程序的兼容性。n Rust]]></title>
+    <published>2025-12-22T08:00:00+00:00</published>
+    <updated>2025-12-22T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/el7cosmos/pasir"/>
+    <id>https://github.com/el7cosmos/pasir</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/el7cosmos/pasir" target="_blank">el7cosmos/pasir: 这是一个高性能的 PHP 应用服务器，使用 Rust 编写，通过将 PHP
+执行直接嵌入现代 HTTP 服务器，为 PHP 应用程序提供了坚实的基础。Pasir 使用自定义 SAPI 和通过
+ext-php-rs 的 C 绑定构建，提供了一个快速高效的替代传统 PHP-FPM 设置的方案，同时保持与现有 PHP
+应用程序的兼容性。n Rust</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/el7cosmos/pasir" target="_blank">https://github.com/el7cosmos/pasir</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[laravel/surveyor: Laravel Surveyor 是一个强大的 (主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。]]></title>
+    <published>2025-12-22T00:00:00+00:00</published>
+    <updated>2025-12-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。](https://github.com/laravel/surveyor"/>
+    <id>主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。](https://github.com/laravel/surveyor</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E4%B8%BB%E8%A6%81%E6%98%AF)%20%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%97%A8%E5%9C%A8%E4%BB%8E%E6%82%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E4%B8%AD%E6%8F%90%E5%8F%96%E8%AF%A6%E7%BB%86%E7%9A%84%20PHP%20%E5%92%8C%20Laravel%20%E7%89%B9%E5%AE%9A%E4%BF%A1%E6%81%AF%E3%80%82](https://github.com/laravel/surveyor" target="_blank">laravel/surveyor: Laravel Surveyor 是一个强大的 (主要是)
+静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E4%B8%BB%E8%A6%81%E6%98%AF)%20%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%97%A8%E5%9C%A8%E4%BB%8E%E6%82%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E4%B8%AD%E6%8F%90%E5%8F%96%E8%AF%A6%E7%BB%86%E7%9A%84%20PHP%20%E5%92%8C%20Laravel%20%E7%89%B9%E5%AE%9A%E4%BF%A1%E6%81%AF%E3%80%82](https://github.com/laravel/surveyor" target="_blank">主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel
+特定信息。](https://github.com/laravel/surveyor</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。]]></title>
     <published>2025-12-21T16:00:00+00:00</published>
     <updated>2025-12-21T16:00:00+00:00</updated>
