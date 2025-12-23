@@ -16,6 +16,7 @@
 - [bylinxx/MacCalendar: 完全免费&开源的离线小而美 macOS 菜单栏日历 app，支持中国农历、节假日、放假安排、系统日程等](https://github.com/bylinxx/MacCalendar) 
 - [el7cosmos/pasir: 这是一个高性能的 PHP 应用服务器，使用 Rust 编写，通过将 PHP 执行直接嵌入现代 HTTP 服务器，为 PHP 应用程序提供了坚实的基础。Pasir 使用自定义 SAPI 和通过 ext-php-rs 的 C 绑定构建，提供了一个快速高效的替代传统 PHP-FPM 设置的方案，同时保持与现有 PHP 应用程序的兼容性。n Rust](https://github.com/el7cosmos/pasir) 
 - [laravel/surveyor: Laravel Surveyor 是一个强大的 (主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。](https://github.com/laravel/surveyor) 
+- [sunchayn/nimbus: Nimbus自动分析您的路由和验证规则，以构建交互式请求模式和用于测试和探索API的本机接口。](https://github.com/sunchayn/nimbus) 
 ### December 22, 2025 
 - [Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。](https://github.com/Flow-Launcher/Flow.Launcher) 
 ### December 21, 2025 
