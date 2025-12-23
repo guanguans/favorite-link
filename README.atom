@@ -67,6 +67,23 @@ ext-php-rs 的 C 绑定构建，提供了一个快速高效的替代传统 PHP-F
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sunchayn/nimbus: Nimbus 自动分析您的路由和验证规则，以构建交互式请求模式和用于测试和探索 API 的本机接口。]]></title>
+    <published>2025-12-21T16:00:00+00:00</published>
+    <updated>2025-12-21T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sunchayn/nimbus"/>
+    <id>https://github.com/sunchayn/nimbus</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sunchayn/nimbus" target="_blank">sunchayn/nimbus: Nimbus 自动分析您的路由和验证规则，以构建交互式请求模式和用于测试和探索
+API 的本机接口。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sunchayn/nimbus" target="_blank">https://github.com/sunchayn/nimbus</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。]]></title>
     <published>2025-12-21T16:00:00+00:00</published>
     <updated>2025-12-21T16:00:00+00:00</updated>
