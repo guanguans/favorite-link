@@ -46,6 +46,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[laravel/ranger: Ranger 是 Laravel 应用程序的强大自检库。]]></title>
+    <published>2025-12-23T00:00:00+00:00</published>
+    <updated>2025-12-23T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/laravel/ranger"/>
+    <id>https://github.com/laravel/ranger</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/laravel/ranger" target="_blank">laravel/ranger: Ranger 是 Laravel 应用程序的强大自检库。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/laravel/ranger" target="_blank">https://github.com/laravel/ranger</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[bylinxx/MacCalendar: 完全免费&开源的离线小而美 macOS 菜单栏日历 app，支持中国农历、节假日、放假安排、系统日程等]]></title>
     <published>2025-12-22T16:00:00+00:00</published>
     <updated>2025-12-22T16:00:00+00:00</updated>
