@@ -15,7 +15,7 @@
 
 ### December 24, 2025 
 - [paramientos/presto: Presto 是 PHP 的依赖关系管理器，也是 Composer 的直接替代品。](https://github.com/paramientos/presto) 
-- [arshidkv12/zig-php: 用Zig编写的PHP扩展](https://github.com/arshidkv12/zig-php) 
+- [arshidkv12/zig-php: 用 Zig 编写的 PHP 扩展](https://github.com/arshidkv12/zig-php) 
 ### December 23, 2025 
 - [bylinxx/MacCalendar: 完全免费&开源的离线小而美 macOS 菜单栏日历 app，支持中国农历、节假日、放假安排、系统日程等](https://github.com/bylinxx/MacCalendar) 
 - [el7cosmos/pasir: 这是一个高性能的 PHP 应用服务器，使用 Rust 编写，通过将 PHP 执行直接嵌入现代 HTTP 服务器，为 PHP 应用程序提供了坚实的基础。Pasir 使用自定义 SAPI 和通过 ext-php-rs 的 C 绑定构建，提供了一个快速高效的替代传统 PHP-FPM 设置的方案，同时保持与现有 PHP 应用程序的兼容性。n Rust](https://github.com/el7cosmos/pasir) 
