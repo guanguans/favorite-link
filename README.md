@@ -12,6 +12,7 @@
 
 ### December 25, 2025 
 - [lukeswitz/PathShield: PathShield 是 M5StickC Plus V1/2 的反跟踪工具，它使用 BLE WiFi 扫描来检测跟踪您的设备并向您发出警报。](https://github.com/lukeswitz/PathShield) 
+- [WCY-dt/MrRSS: 一个现代化、跨平台且免费的 AI RSS 阅读器.](https://github.com/WCY-dt/MrRSS) 
 ### December 24, 2025 
 - [paramientos/presto: Presto 是 PHP 的依赖关系管理器，也是 Composer 的直接替代品。](https://github.com/paramientos/presto) 
 - [arshidkv12/zig-php: 用 Zig 编写的 PHP 扩展](https://github.com/arshidkv12/zig-php) 
