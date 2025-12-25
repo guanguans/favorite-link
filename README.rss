@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>WCY-dt/MrRSS: 一个现代化、跨平台且免费的 AI RSS 阅读器。</title>
+      <pubDate>Wed, 24 Dec 2025 08:00:00 +0000</pubDate>
+      <link>https://github.com/WCY-dt/MrRSS</link>
+      <guid>https://github.com/WCY-dt/MrRSS</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/WCY-dt/MrRSS" target="_blank">WCY-dt/MrRSS: 一个现代化、跨平台且免费的 AI RSS 阅读器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/WCY-dt/MrRSS" target="_blank">https://github.com/WCY-dt/MrRSS</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>paramientos/presto: Presto 是 PHP 的依赖关系管理器，也是 Composer 的直接替代品。</title>
       <pubDate>Tue, 23 Dec 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/paramientos/presto</link>
