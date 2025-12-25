@@ -13,6 +13,9 @@
 
 
 
+
+### December 25, 2025 
+- [lukeswitz/PathShield: PathShield是M5StickC Plus V1/2的反跟踪工具，它使用BLE WiFi扫描来检测跟踪您的设备并向您发出警报。](https://github.com/lukeswitz/PathShield) 
 ### December 24, 2025 
 - [paramientos/presto: Presto 是 PHP 的依赖关系管理器，也是 Composer 的直接替代品。](https://github.com/paramientos/presto) 
 - [arshidkv12/zig-php: 用 Zig 编写的 PHP 扩展](https://github.com/arshidkv12/zig-php) 
