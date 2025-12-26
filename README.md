@@ -13,6 +13,7 @@
 
 ### December 26, 2025 
 - [Hmily-LCG/FlowMouse: 一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。](https://github.com/Hmily-LCG/FlowMouse) 
+- [OskarStark/doctor-rst: 根据给定的规则检查并清理你的rst文档。](https://github.com/OskarStark/doctor-rst) 
 ### December 25, 2025 
 - [lukeswitz/PathShield: PathShield 是 M5StickC Plus V1/2 的反跟踪工具，它使用 BLE WiFi 扫描来检测跟踪您的设备并向您发出警报。](https://github.com/lukeswitz/PathShield) 
 - [WCY-dt/MrRSS: 一个现代化、跨平台且免费的 AI RSS 阅读器。](https://github.com/WCY-dt/MrRSS) 
