@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[OskarStark/doctor-rst: 根据给定的规则检查并清理你的 rst 文档。]]></title>
+    <published>2025-12-25T08:00:00+00:00</published>
+    <updated>2025-12-25T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/OskarStark/doctor-rst"/>
+    <id>https://github.com/OskarStark/doctor-rst</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/OskarStark/doctor-rst" target="_blank">OskarStark/doctor-rst: 根据给定的规则检查并清理你的 rst 文档。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/OskarStark/doctor-rst" target="_blank">https://github.com/OskarStark/doctor-rst</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[lukeswitz/PathShield: PathShield 是 M5StickC Plus V1/2 的反跟踪工具，它使用 BLE WiFi 扫描来检测跟踪您的设备并向您发出警报。]]></title>
     <published>2025-12-24T16:00:00+00:00</published>
     <updated>2025-12-24T16:00:00+00:00</updated>
