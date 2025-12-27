@@ -14,7 +14,7 @@
 
 ### December 27, 2025 
 - [lbjlaq/Antigravity-Manager: Antigravity Tools 是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的本地 AI 中转站。](https://github.com/lbjlaq/Antigravity-Manager) 
-- [goforj/godump: 受Laravel的dump（）和Symfony的vardumper的启发，这是一个最小的、开发人员友好的漂亮打印机和用于GO结构的调试转储程序。](https://github.com/goforj/godump) 
+- [goforj/godump: 受 Laravel 的 dump () 和 Symfony 的 vardumper 的启发，这是一个最小的、开发人员友好的漂亮打印机和用于 GO 结构的调试转储程序。](https://github.com/goforj/godump) 
 ### December 26, 2025 
 - [Hmily-LCG/FlowMouse: 一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。](https://github.com/Hmily-LCG/FlowMouse) 
 - [OskarStark/doctor-rst: 根据给定的规则检查并清理你的 rst 文档。](https://github.com/OskarStark/doctor-rst) 
