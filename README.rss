@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 25 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 26 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>lbjlaq/Antigravity-Manager: Antigravity Tools 是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的本地 AI 中转站。</title>
+      <pubDate>Fri, 26 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/lbjlaq/Antigravity-Manager</link>
+      <guid>https://github.com/lbjlaq/Antigravity-Manager</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">lbjlaq/Antigravity-Manager: Antigravity Tools 是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的本地 AI 中转站。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">https://github.com/lbjlaq/Antigravity-Manager</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Hmily-LCG/FlowMouse: 一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。</title>
       <pubDate>Thu, 25 Dec 2025 16:00:00 +0000</pubDate>
