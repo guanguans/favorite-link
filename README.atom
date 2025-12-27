@@ -66,6 +66,25 @@ GO 结构的调试转储程序。](https://github.com/goforj/godump</xhtml:a></x
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[savinmikhail/AddNamedArgumentsRector: AddNamedArgumentsRector 规则通过将函数、方法或构造函数调用转换为可能使用命名参数来增强您的代码。命名参数通过明确指定传递的参数名称来提高可读性并减少错误。Plugin to rector, that adds named arguments to your codebase]]></title>
+    <published>2025-12-25T16:00:00+00:00</published>
+    <updated>2025-12-25T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/savinmikhail/AddNamedArgumentsRector"/>
+    <id>https://github.com/savinmikhail/AddNamedArgumentsRector</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/savinmikhail/AddNamedArgumentsRector" target="_blank">savinmikhail/AddNamedArgumentsRector:
+AddNamedArgumentsRector
+规则通过将函数、方法或构造函数调用转换为可能使用命名参数来增强您的代码。命名参数通过明确指定传递的参数名称来提高可读性并减少错误。Plugin
+to rector, that adds named arguments to your codebase</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/savinmikhail/AddNamedArgumentsRector" target="_blank">https://github.com/savinmikhail/AddNamedArgumentsRector</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Hmily-LCG/FlowMouse: 一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。]]></title>
     <published>2025-12-25T16:00:00+00:00</published>
     <updated>2025-12-25T16:00:00+00:00</updated>
