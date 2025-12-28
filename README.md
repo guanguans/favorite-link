@@ -16,6 +16,7 @@
 ### December 28, 2025 
 - [steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。](https://github.com/steipete/CodexBar) 
 - [nguyenphutrong/quotio: Quotio 是一个原生的 macOS 应用程序，用于管理 CLIProxyAPI - 一个本地代理服务器，为您的 AI 编码代理提供支持。它帮助您管理多个 AI 账户，跟踪配额，并在一个地方配置 CLI 工具。](https://github.com/nguyenphutrong/quotio) 
+- [nguyenphutrong/quotio: Quotio 是一个原生的 macOS 应用程序，用于管理 CLIProxyAPI - 为您的 AI 编码代理提供支持。它帮助您管理多个 AI 账户，跟踪配额，并在一个地方配置 CLI 工具。](https://github.com/nguyenphutrong/quotio) 
 ### December 27, 2025 
 - [lbjlaq/Antigravity-Manager: Antigravity Tools 是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的本地 AI 中转站。](https://github.com/lbjlaq/Antigravity-Manager) 
 - [goforj/godump: 受 Laravel 的 dump () 和 Symfony 的 vardumper 的启发，这是一个最小的、开发人员友好的漂亮打印机和用于 GO 结构的调试转储程序。](https://github.com/goforj/godump) 
