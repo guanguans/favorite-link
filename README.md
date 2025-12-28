@@ -12,6 +12,9 @@
 
 
 
+
+### December 28, 2025 
+- [steipete/CodexBar: 无需登录即可显示OpenAI Codex和Claude代码的使用统计信息。](https://github.com/steipete/CodexBar) 
 ### December 27, 2025 
 - [lbjlaq/Antigravity-Manager: Antigravity Tools 是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的本地 AI 中转站。](https://github.com/lbjlaq/Antigravity-Manager) 
 - [goforj/godump: 受 Laravel 的 dump () 和 Symfony 的 vardumper 的启发，这是一个最小的、开发人员友好的漂亮打印机和用于 GO 结构的调试转储程序。](https://github.com/goforj/godump) 
