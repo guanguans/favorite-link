@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>aarondfrancis/reservable: 此软件包允许您使用 Laravel 的原子缓存锁临时“保留”Eloquent 模型。当您需要确保在一段时间内对模型的独家访问时，例如在后台处理期间，这非常有用。</title>
+      <pubDate>Sat, 27 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/aarondfrancis/reservable</link>
+      <guid>https://github.com/aarondfrancis/reservable</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/aarondfrancis/reservable" target="_blank">aarondfrancis/reservable: 此软件包允许您使用 Laravel 的原子缓存锁临时“保留”Eloquent 模型。当您需要确保在一段时间内对模型的独家访问时，例如在后台处理期间，这非常有用。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/aarondfrancis/reservable" target="_blank">https://github.com/aarondfrancis/reservable</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。</title>
       <pubDate>Sat, 27 Dec 2025 16:00:00 +0000</pubDate>
       <link>https://github.com/steipete/CodexBar</link>
