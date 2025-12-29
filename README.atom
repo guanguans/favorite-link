@@ -81,6 +81,23 @@ Mac 被限制时提醒您。无需管理员权限。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[pranshuparmar/witr: 它解释了一个运行事物的来源、如何开始，以及目前存在的责任链条，以单一、易于人类阅读的输出形式。]]></title>
+    <published>2025-12-27T08:00:00+00:00</published>
+    <updated>2025-12-27T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pranshuparmar/witr"/>
+    <id>https://github.com/pranshuparmar/witr</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/pranshuparmar/witr" target="_blank">pranshuparmar/witr:
+它解释了一个运行事物的来源、如何开始，以及目前存在的责任链条，以单一、易于人类阅读的输出形式。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/pranshuparmar/witr" target="_blank">https://github.com/pranshuparmar/witr</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。]]></title>
     <published>2025-12-27T16:00:00+00:00</published>
     <updated>2025-12-27T16:00:00+00:00</updated>
