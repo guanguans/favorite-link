@@ -47,6 +47,23 @@ Vue、React、Nuxt、Next.js 编写 PHP 浏览器测试。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[angristan/MacThrottle: 一个轻量级的 macOS 菜单栏应用程序，可以监控热压力并在您的 Mac 被限制时提醒您。无需管理员权限。]]></title>
+    <published>2025-12-28T00:00:00+00:00</published>
+    <updated>2025-12-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/angristan/MacThrottle"/>
+    <id>https://github.com/angristan/MacThrottle</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/angristan/MacThrottle" target="_blank">angristan/MacThrottle: 一个轻量级的 macOS 菜单栏应用程序，可以监控热压力并在您的
+Mac 被限制时提醒您。无需管理员权限。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/angristan/MacThrottle" target="_blank">https://github.com/angristan/MacThrottle</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。]]></title>
     <published>2025-12-27T16:00:00+00:00</published>
     <updated>2025-12-27T16:00:00+00:00</updated>
