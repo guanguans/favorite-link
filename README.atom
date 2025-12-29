@@ -30,6 +30,23 @@ Jguer/yay: 另一种 Yogurt - 一个用 Go 语言编写的 AUR 辅助程序</xht
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[TestFlowLabs/pest-plugin-bridge：从 Laravel 测试外部前端——为 Vue、React、Nuxt、Next.js 编写 PHP 浏览器测试。]]></title>
+    <published>2025-12-28T08:00:00+00:00</published>
+    <updated>2025-12-28T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/TestFlowLabs/pest-plugin-bridge"/>
+    <id>https://github.com/TestFlowLabs/pest-plugin-bridge</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/TestFlowLabs/pest-plugin-bridge" target="_blank">TestFlowLabs/pest-plugin-bridge：从 Laravel 测试外部前端——为
+Vue、React、Nuxt、Next.js 编写 PHP 浏览器测试。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/TestFlowLabs/pest-plugin-bridge" target="_blank">https://github.com/TestFlowLabs/pest-plugin-bridge</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。]]></title>
     <published>2025-12-27T16:00:00+00:00</published>
     <updated>2025-12-27T16:00:00+00:00</updated>
