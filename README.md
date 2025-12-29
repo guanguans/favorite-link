@@ -15,6 +15,7 @@
 - [TestFlowLabs/pest-plugin-bridge：从 Laravel 测试外部前端——为 Vue、React、Nuxt、Next.js 编写 PHP 浏览器测试。](https://github.com/TestFlowLabs/pest-plugin-bridge) 
 - [angristan/MacThrottle: 一个轻量级的 macOS 菜单栏应用程序，可以监控热压力并在您的 Mac 被限制时提醒您。无需管理员权限。](https://github.com/angristan/MacThrottle) 
 - [aarondfrancis/reservable: 此软件包允许您使用 Laravel 的原子缓存锁临时“保留”Eloquent 模型。当您需要确保在一段时间内对模型的独家访问时，例如在后台处理期间，这非常有用。](https://github.com/aarondfrancis/reservable) 
+- [pranshuparmar/witr: 它解释了一个运行事物的来源、如何开始，以及目前存在的责任链条，以单一、易于人类阅读的输出形式。](https://github.com/pranshuparmar/witr) 
 ### December 28, 2025 
 - [steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。](https://github.com/steipete/CodexBar) 
 - [nguyenphutrong/quotio: Quotio 是一个原生的 macOS 应用程序，用于管理 CLIProxyAPI - 一个本地代理服务器，为您的 AI 编码代理提供支持。它帮助您管理多个 AI 账户，跟踪配额，并在一个地方配置 CLI 工具。](https://github.com/nguyenphutrong/quotio) 
