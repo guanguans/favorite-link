@@ -13,6 +13,9 @@
 
 
 
+
+### December 29, 2025 
+- [New Link: Jguer/yay: 另一种 Yogurt - 一个用 Go 语言编写的 AUR 辅助程序](https://github.com/Jguer/yay) 
 ### December 28, 2025 
 - [steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。](https://github.com/steipete/CodexBar) 
 - [nguyenphutrong/quotio: Quotio 是一个原生的 macOS 应用程序，用于管理 CLIProxyAPI - 一个本地代理服务器，为您的 AI 编码代理提供支持。它帮助您管理多个 AI 账户，跟踪配额，并在一个地方配置 CLI 工具。](https://github.com/nguyenphutrong/quotio) 
