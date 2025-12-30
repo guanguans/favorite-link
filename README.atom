@@ -30,6 +30,24 @@ Workers，支持实时位置共享和多推送服务</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MrPunyapal/laravel-client-validation: 一个强大的 Laravel 包，将服务器端验证规则带到使用 Alpine.js 的客户端。使用与 Laravel 后端相同的规则实时验证表单，包括对 FormRequest 类的支持以及复杂验证规则的 AJAX 回退。]]></title>
+    <published>2025-12-29T08:00:00+00:00</published>
+    <updated>2025-12-29T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/MrPunyapal/laravel-client-validation"/>
+    <id>https://github.com/MrPunyapal/laravel-client-validation</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/MrPunyapal/laravel-client-validation" target="_blank">MrPunyapal/laravel-client-validation: 一个强大的 Laravel
+包，将服务器端验证规则带到使用 Alpine.js 的客户端。使用与 Laravel 后端相同的规则实时验证表单，包括对
+FormRequest 类的支持以及复杂验证规则的 AJAX 回退。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/MrPunyapal/laravel-client-validation" target="_blank">https://github.com/MrPunyapal/laravel-client-validation</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[New Link: Jguer/yay: 另一种 Yogurt - 一个用 Go 语言编写的 AUR 辅助程序]]></title>
     <published>2025-12-28T16:00:00+00:00</published>
     <updated>2025-12-28T16:00:00+00:00</updated>
