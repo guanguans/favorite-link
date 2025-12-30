@@ -13,6 +13,7 @@
 
 ### December 30, 2025 
 - [lesnolie/movecar: 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务](https://github.com/lesnolie/movecar) 
+- [MrPunyapal/laravel-client-validation: 一个强大的Laravel包，将服务器端验证规则带到使用Alpine.js的客户端。使用与Laravel后端相同的规则实时验证表单，包括对FormRequest类的支持以及复杂验证规则的AJAX回退。](https://github.com/MrPunyapal/laravel-client-validation) 
 ### December 29, 2025 
 - [New Link: Jguer/yay: 另一种 Yogurt - 一个用 Go 语言编写的 AUR 辅助程序](https://github.com/Jguer/yay) 
 - [TestFlowLabs/pest-plugin-bridge：从 Laravel 测试外部前端——为 Vue、React、Nuxt、Next.js 编写 PHP 浏览器测试。](https://github.com/TestFlowLabs/pest-plugin-bridge) 
