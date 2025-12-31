@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### December 31, 2025 
+- [BrianHenryIE/strauss: 为PHP命名空间和类名添加前缀，以允许存在多个版本的库而不发生冲突。](https://github.com/BrianHenryIE/strauss) 
 ### December 30, 2025 
 - [lesnolie/movecar: 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务](https://github.com/lesnolie/movecar) 
 - [MrPunyapal/laravel-client-validation: 一个强大的 Laravel 包，将服务器端验证规则带到使用 Alpine.js 的客户端。使用与 Laravel 后端相同的规则实时验证表单，包括对 FormRequest 类的支持以及复杂验证规则的 AJAX 回退。](https://github.com/MrPunyapal/laravel-client-validation) 
