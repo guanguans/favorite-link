@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[HQarroum/docker-android: 将 Android 模拟器作为服务运行的最小且可自定义的 Docker 映像。]]></title>
+    <published>2025-12-30T08:00:00+00:00</published>
+    <updated>2025-12-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/HQarroum/docker-android"/>
+    <id>https://github.com/HQarroum/docker-android</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/HQarroum/docker-android" target="_blank">HQarroum/docker-android: 将 Android 模拟器作为服务运行的最小且可自定义的
+Docker 映像。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/HQarroum/docker-android" target="_blank">https://github.com/HQarroum/docker-android</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[lesnolie/movecar: 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务]]></title>
     <published>2025-12-29T16:00:00+00:00</published>
     <updated>2025-12-29T16:00:00+00:00</updated>
