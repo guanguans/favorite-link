@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 30 Dec 2025 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 31 Dec 2025 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ChrisTitusTech/winutil: 该工具是我在每个使用的 Windows 系统上执行的 Windows 任务的汇编。它旨在简化安装，使用调整进行去膨胀，使用配置进行故障排除，以及修复 Windows 更新。我对任何贡献都非常挑剔，以保持该项目的整洁和高效。</title>
+      <pubDate>Wed, 31 Dec 2025 16:00:00 +0000</pubDate>
+      <link>https://github.com/ChrisTitusTech/winutil</link>
+      <guid>https://github.com/ChrisTitusTech/winutil</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ChrisTitusTech/winutil" target="_blank">ChrisTitusTech/winutil: 该工具是我在每个使用的 Windows 系统上执行的 Windows 任务的汇编。它旨在简化安装，使用调整进行去膨胀，使用配置进行故障排除，以及修复 Windows 更新。我对任何贡献都非常挑剔，以保持该项目的整洁和高效。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ChrisTitusTech/winutil" target="_blank">https://github.com/ChrisTitusTech/winutil</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>BrianHenryIE/strauss: 为 PHP 命名空间和类名添加前缀，以允许存在多个版本的库而不发生冲突。</title>
       <pubDate>Tue, 30 Dec 2025 16:00:00 +0000</pubDate>
