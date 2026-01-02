@@ -13,6 +13,9 @@
 
 
 
+
+### January 2, 2026 
+- [Bellangelo/phpstan-migration-rules: PHPStan 规则集，用于在 Phinx 和 Laravel / Illuminate 的数据库迁移文件中执行最佳实践和标准。](https://github.com/Bellangelo/phpstan-migration-rules) 
 ### January 1, 2026 
 - [ChrisTitusTech/winutil: 该工具是我在每个使用的 Windows 系统上执行的 Windows 任务的汇编。它旨在简化安装，使用调整进行去膨胀，使用配置进行故障排除，以及修复 Windows 更新。我对任何贡献都非常挑剔，以保持该项目的整洁和高效。](https://github.com/ChrisTitusTech/winutil) 
 - [MrPunyapal/PestStan: Pest PHP 测试框架的 PHPStan 扩展。](https://github.com/MrPunyapal/PestStan) 
