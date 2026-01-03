@@ -12,7 +12,7 @@
 
 
 ### January 3, 2026 
-- [Enigama/git-remarks: git-remarks 是一个用于管理个人笔记（想法、疑虑、待办事项、决策）的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks) 
+- [Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks) 
 ### January 2, 2026 
 - [Bellangelo/phpstan-migration-rules: PHPStan 规则集，用于在 Phinx 和 Laravel / Illuminate 的数据库迁移文件中执行最佳实践和标准。](https://github.com/Bellangelo/phpstan-migration-rules) 
 ### January 1, 2026 
