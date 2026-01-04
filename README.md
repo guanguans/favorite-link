@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### January 4, 2026 
+- [Lake1059/FFmpegFreeUI: FFmpegFreeUI（简称 3FUI）是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用 .NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI) 
 ### January 3, 2026 
 - [Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks) 
 ### January 2, 2026 
