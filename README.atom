@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-01-02T16:00:00+00:00</updated>
+  <updated>2026-01-03T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,26 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Lake1059/FFmpegFreeUI: FFmpegFreeUI (简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。]]></title>
+    <published>2026-01-03T16:00:00+00:00</published>
+    <updated>2026-01-03T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI"/>
+    <id>简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E7%AE%80%E7%A7%B0%203FUI)%20%E6%98%AF%E5%9C%A8%20Windows%20%E4%B8%8A%E7%9A%84%20FFmpeg%20%E7%9A%84%E4%B8%93%E4%B8%9A%E4%BA%A4%E4%BA%92%E5%A4%96%E5%A3%B3%EF%BC%8C%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E3%80%82NET%2010%20%E8%BF%90%E8%A1%8C%E6%97%B6%E4%BB%A5%E7%BA%AF%20WinForm%20%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91%EF%BC%8C%E4%BD%BF%E7%94%A8%20SunnyUI%20%E5%92%8C%E8%87%AA%E7%BB%98%E5%88%B6%E6%89%93%E9%80%A0%E7%9A%84%E4%B8%93%E4%B8%9A%E9%AB%98%E6%95%88%E7%9A%84%E6%9A%97%E9%BB%91%E9%A3%8E%E6%A0%BC%E7%95%8C%E9%9D%A2%E3%80%82%E7%9B%AE%E6%A0%87%E5%81%9A%E4%B8%80%E6%AC%BE%E8%BD%BB%E5%BA%A6%E4%B8%93%E4%B8%9A%E5%8F%82%E6%95%B0%E8%B0%83%E6%95%B4%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%AE%A9%E6%99%AE%E9%80%9A%E4%BA%BA%E8%83%BD%E5%A4%9F%E9%80%9A%E8%BF%87%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%95%8C%E9%9D%A2%E6%8E%A5%E8%A7%A6%E5%88%B0%E8%BE%83%E4%B8%BA%E5%85%A8%E9%9D%A2%E7%9A%84%E9%80%9A%E7%94%A8%E5%8F%82%E6%95%B0%E6%9D%A5%E8%BD%BB%E6%9D%BE%E5%8E%8B%E5%88%B6%E5%92%8C%E8%BD%AC%E6%8D%A2%E6%A0%BC%E5%BC%8F%E3%80%82](https://github.com/Lake1059/FFmpegFreeUI" target="_blank">Lake1059/FFmpegFreeUI: FFmpegFreeUI (简称 3FUI) 是在
+Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI
+和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E7%AE%80%E7%A7%B0%203FUI)%20%E6%98%AF%E5%9C%A8%20Windows%20%E4%B8%8A%E7%9A%84%20FFmpeg%20%E7%9A%84%E4%B8%93%E4%B8%9A%E4%BA%A4%E4%BA%92%E5%A4%96%E5%A3%B3%EF%BC%8C%E7%9B%AE%E5%89%8D%E4%BD%BF%E7%94%A8%E3%80%82NET%2010%20%E8%BF%90%E8%A1%8C%E6%97%B6%E4%BB%A5%E7%BA%AF%20WinForm%20%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91%EF%BC%8C%E4%BD%BF%E7%94%A8%20SunnyUI%20%E5%92%8C%E8%87%AA%E7%BB%98%E5%88%B6%E6%89%93%E9%80%A0%E7%9A%84%E4%B8%93%E4%B8%9A%E9%AB%98%E6%95%88%E7%9A%84%E6%9A%97%E9%BB%91%E9%A3%8E%E6%A0%BC%E7%95%8C%E9%9D%A2%E3%80%82%E7%9B%AE%E6%A0%87%E5%81%9A%E4%B8%80%E6%AC%BE%E8%BD%BB%E5%BA%A6%E4%B8%93%E4%B8%9A%E5%8F%82%E6%95%B0%E8%B0%83%E6%95%B4%E7%9A%84%E8%BD%AC%E7%A0%81%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%AE%A9%E6%99%AE%E9%80%9A%E4%BA%BA%E8%83%BD%E5%A4%9F%E9%80%9A%E8%BF%87%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%95%8C%E9%9D%A2%E6%8E%A5%E8%A7%A6%E5%88%B0%E8%BE%83%E4%B8%BA%E5%85%A8%E9%9D%A2%E7%9A%84%E9%80%9A%E7%94%A8%E5%8F%82%E6%95%B0%E6%9D%A5%E8%BD%BB%E6%9D%BE%E5%8E%8B%E5%88%B6%E5%92%8C%E8%BD%AC%E6%8D%A2%E6%A0%BC%E5%BC%8F%E3%80%82](https://github.com/Lake1059/FFmpegFreeUI" target="_blank">简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10
+运行时以纯 WinForm 框架开发，使用 SunnyUI
+和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。]]></title>
     <published>2026-01-02T16:00:00+00:00</published>
