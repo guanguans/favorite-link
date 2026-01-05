@@ -14,7 +14,7 @@
 
 
 ### January 5, 2026 
-- [code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个AI生成的代码与人类代码无法区分、却能实现更多的世界。](https://github.com/code-yeongyu/oh-my-opencode) 
+- [code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。](https://github.com/code-yeongyu/oh-my-opencode) 
 ### January 4, 2026 
 - [Lake1059/FFmpegFreeUI: FFmpegFreeUI (简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI) 
 ### January 3, 2026 

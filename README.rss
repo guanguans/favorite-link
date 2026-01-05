@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 04 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。</title>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/code-yeongyu/oh-my-opencode</link>
+      <guid>https://github.com/code-yeongyu/oh-my-opencode</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">https://github.com/code-yeongyu/oh-my-opencode</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Lake1059/FFmpegFreeUI: FFmpegFreeUI (简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。</title>
       <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
