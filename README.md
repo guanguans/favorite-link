@@ -13,6 +13,9 @@
 
 
 
+
+### January 6, 2026 
+- [guanguans/rector-rules: 一套 rector/rector 规则。](https://github.com/guanguans/rector-rules) 
 ### January 5, 2026 
 - [code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。](https://github.com/code-yeongyu/oh-my-opencode) 
 ### January 4, 2026 
