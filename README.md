@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### January 8, 2026 
+- [rectorphp/monitor: 在一个地方监控所有项目和包的代码质量，确保一致性并消除不同 PHP 版本之间的冲突。](https://github.com/rectorphp/monitor) 
 ### January 7, 2026 
 - [NEKOparapa/AiNiee: 一款专注于 Ai 翻译的工具，一键自动翻译 RPG SLG 游戏，Epub TXT 小说，PDF Word MD 文档，Srt Vtt Lrc 字幕等等复杂长文本。](https://github.com/NEKOparapa/AiNiee) 
 ### January 6, 2026 
