@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>antonmedv/wiki: 一个由 PHP 和 SQLite 驱动的极简主义单文件维基引擎。旨在简单、快速且易于部署。</title>
+      <pubDate>Thu, 08 Jan 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/antonmedv/wiki</link>
+      <guid>https://github.com/antonmedv/wiki</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/antonmedv/wiki" target="_blank">antonmedv/wiki: 一个由 PHP 和 SQLite 驱动的极简主义单文件维基引擎。旨在简单、快速且易于部署。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/antonmedv/wiki" target="_blank">https://github.com/antonmedv/wiki</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>rectorphp/monitor: 在一个地方监控所有项目和包的代码质量，确保一致性并消除不同 PHP 版本之间的冲突。</title>
       <pubDate>Wed, 07 Jan 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/rectorphp/monitor</link>
