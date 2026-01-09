@@ -12,6 +12,9 @@
 
 
 
+
+### January 9, 2026 
+- [kepano/obsidian-skills: Claude 技能用于与 Obsidian 一起使用](https://github.com/kepano/obsidian-skills) 
 ### January 8, 2026 
 - [rectorphp/monitor: 在一个地方监控所有项目和包的代码质量，确保一致性并消除不同 PHP 版本之间的冲突。](https://github.com/rectorphp/monitor) 
 - [rectorphp/argtyper: 分析真正的方法参数类型，并将其添加为类型声明](https://github.com/rectorphp/argtyper) 
