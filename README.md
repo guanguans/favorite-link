@@ -13,6 +13,7 @@
 ### January 10, 2026 
 - [Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。](https://github.com/Paymenter/Paymenter) 
 - [Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。](https://github.com/Fission-AI/OpenSpec) 
+- [crate-ci/typos: 源代码拼写检查器](https://github.com/crate-ci/typos) 
 ### January 9, 2026 
 - [kepano/obsidian-skills: Claude 技能用于与 Obsidian 一起使用](https://github.com/kepano/obsidian-skills) 
 - [antonmedv/wiki: 一个由 PHP 和 SQLite 驱动的极简主义单文件维基引擎。旨在简单、快速且易于部署。](https://github.com/antonmedv/wiki) 
