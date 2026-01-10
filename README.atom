@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。]]></title>
+    <published>2026-01-09T08:00:00+00:00</published>
+    <updated>2026-01-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Fission-AI/OpenSpec"/>
+    <id>https://github.com/Fission-AI/OpenSpec</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Fission-AI/OpenSpec" target="_blank">Fission-AI/OpenSpec:
+人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec
+增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Fission-AI/OpenSpec" target="_blank">https://github.com/Fission-AI/OpenSpec</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[kepano/obsidian-skills: Claude 技能用于与 Obsidian 一起使用]]></title>
     <published>2026-01-08T16:00:00+00:00</published>
     <updated>2026-01-08T16:00:00+00:00</updated>
