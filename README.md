@@ -13,6 +13,7 @@
 
 ### January 11, 2026 
 - [tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。](https://github.com/tuupola/server-timing-middleware) 
+- [bwaidelich/dcb-eventstore: 根据规范实现动态一致性边界的事件存储的接口和类型。](https://github.com/bwaidelich/dcb-eventstore) 
 ### January 10, 2026 
 - [Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。](https://github.com/Paymenter/Paymenter) 
 - [Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。](https://github.com/Fission-AI/OpenSpec) 
