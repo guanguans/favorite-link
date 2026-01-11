@@ -46,6 +46,23 @@ Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[wickenico/WailBrew: WailBrew 是一种现代且直观的方式来管理 macOS 上的 Homebrew！它提供了一个干净的图形界面，使得软件包管理对每个人都变得可访问。]]></title>
+    <published>2026-01-10T00:00:00+00:00</published>
+    <updated>2026-01-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/wickenico/WailBrew"/>
+    <id>https://github.com/wickenico/WailBrew</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/wickenico/WailBrew" target="_blank">wickenico/WailBrew: WailBrew 是一种现代且直观的方式来管理 macOS 上的
+Homebrew！它提供了一个干净的图形界面，使得软件包管理对每个人都变得可访问。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/wickenico/WailBrew" target="_blank">https://github.com/wickenico/WailBrew</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。]]></title>
     <published>2026-01-09T16:00:00+00:00</published>
     <updated>2026-01-09T16:00:00+00:00</updated>
