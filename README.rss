@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>redraw/gh-install: 以交互方式从 CLI 安装 GitHub 发行版二进制文件</title>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/redraw/gh-install</link>
+      <guid>https://github.com/redraw/gh-install</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/redraw/gh-install" target="_blank">redraw/gh-install: 以交互方式从 CLI 安装 GitHub 发行版二进制文件</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/redraw/gh-install" target="_blank">https://github.com/redraw/gh-install</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。</title>
       <pubDate>Sat, 10 Jan 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/tuupola/server-timing-middleware</link>

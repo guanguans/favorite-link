@@ -49,6 +49,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[redraw/gh-install: 以交互方式从 CLI 安装 GitHub 发行版二进制文件]]></title>
+    <published>2026-01-11T00:00:00+00:00</published>
+    <updated>2026-01-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/redraw/gh-install"/>
+    <id>https://github.com/redraw/gh-install</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/redraw/gh-install" target="_blank">redraw/gh-install: 以交互方式从 CLI 安装 GitHub 发行版二进制文件</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/redraw/gh-install" target="_blank">https://github.com/redraw/gh-install</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。]]></title>
     <published>2026-01-10T16:00:00+00:00</published>
     <updated>2026-01-10T16:00:00+00:00</updated>
