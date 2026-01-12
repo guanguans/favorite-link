@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 10 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 11 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强</title>
+      <pubDate>Sun, 11 Jan 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/dengcb/weixin-reader-desktop</link>
+      <guid>https://github.com/dengcb/weixin-reader-desktop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/dengcb/weixin-reader-desktop" target="_blank">dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/dengcb/weixin-reader-desktop" target="_blank">https://github.com/dengcb/weixin-reader-desktop</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。</title>
       <pubDate>Sat, 10 Jan 2026 16:00:00 +0000</pubDate>
