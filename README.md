@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### January 12, 2026 
+- [dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强 ](https://github.com/dengcb/weixin-reader-desktop) 
 ### January 11, 2026 
 - [tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。](https://github.com/tuupola/server-timing-middleware) 
 - [bwaidelich/dcb-eventstore: 根据规范实现动态一致性边界的事件存储的接口和类型。](https://github.com/bwaidelich/dcb-eventstore) 
