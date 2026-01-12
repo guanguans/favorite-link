@@ -14,6 +14,7 @@
 
 ### January 12, 2026 
 - [dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强](https://github.com/dengcb/weixin-reader-desktop) 
+- [cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建（通过）或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall) 
 ### January 11, 2026 
 - [tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。](https://github.com/tuupola/server-timing-middleware) 
 - [bwaidelich/dcb-eventstore: 根据规范实现动态一致性边界的事件存储的接口和类型。](https://github.com/bwaidelich/dcb-eventstore) 
