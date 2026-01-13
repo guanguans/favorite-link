@@ -15,6 +15,7 @@
 
 ### January 13, 2026 
 - [vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。](https://github.com/vercel-labs/agent-browser) 
+- [open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！](https://github.com/open-meteo/open-meteo) 
 ### January 12, 2026 
 - [dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强](https://github.com/dengcb/weixin-reader-desktop) 
 - [cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建 (通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall) 
