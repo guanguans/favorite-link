@@ -30,6 +30,23 @@ Node.js 回退功能的快速 Rust CLI。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！]]></title>
+    <published>2026-01-12T08:00:00+00:00</published>
+    <updated>2026-01-12T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/open-meteo/open-meteo"/>
+    <id>https://github.com/open-meteo/open-meteo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/open-meteo/open-meteo" target="_blank">open-meteo/open-meteo: Open-Meteo 是一个开源天气
+API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/open-meteo/open-meteo" target="_blank">https://github.com/open-meteo/open-meteo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强]]></title>
     <published>2026-01-11T16:00:00+00:00</published>
     <updated>2026-01-11T16:00:00+00:00</updated>
