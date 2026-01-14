@@ -81,6 +81,23 @@ PHPStan 格式化程序，用于在 PhpStorm 检查输出中显示错误标识�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[staabm/SysMonitor: 监控 PHP 应用程序，并在特定错误/异常/资源耗尽/自定义事件上发送通知]]></title>
+    <published>2026-01-12T08:00:00+00:00</published>
+    <updated>2026-01-12T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/staabm/SysMonitor/tree/master"/>
+    <id>https://github.com/staabm/SysMonitor/tree/master</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/staabm/SysMonitor/tree/master" target="_blank">staabm/SysMonitor: 监控 PHP
+应用程序，并在特定错误/异常/资源耗尽/自定义事件上发送通知</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/staabm/SysMonitor/tree/master" target="_blank">https://github.com/staabm/SysMonitor/tree/master</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。]]></title>
     <published>2026-01-12T16:00:00+00:00</published>
     <updated>2026-01-12T16:00:00+00:00</updated>
