@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 12 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 13 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>farion1231/cc-switch: Claude Code 的跨平台桌面一体化辅助工具，Codex Gemini CLI。</title>
+      <pubDate>Tue, 13 Jan 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/farion1231/cc-switch</link>
+      <guid>https://github.com/farion1231/cc-switch</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/farion1231/cc-switch" target="_blank">farion1231/cc-switch: Claude Code 的跨平台桌面一体化辅助工具，Codex Gemini CLI。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/farion1231/cc-switch" target="_blank">https://github.com/farion1231/cc-switch</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。</title>
       <pubDate>Mon, 12 Jan 2026 16:00:00 +0000</pubDate>
