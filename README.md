@@ -15,6 +15,7 @@
 - [TheDragonCode/github-preview-updater: 存储库中的轻量级预览更新](https://github.com/TheDragonCode/github-preview-updater) 
 - [DaveLiddament/phpstan-php-language-extensions: 用于验证 PHP 语言扩展的 PHPStan 扩展](https://github.com/DaveLiddament/phpstan-php-language-extensions) 
 - [NickSdot/phpstan-phpstorm-error-identifiers: 自定义 PHPStan 格式化程序，用于在 PhpStorm 检查输出中显示错误标识符。](https://github.com/NickSdot/phpstan-phpstorm-error-identifiers) 
+- [staabm/SysMonitor: 监控 PHP 应用程序，并在特定错误/异常/资源耗尽/自定义事件上发送通知](https://github.com/staabm/SysMonitor/tree/master) 
 ### January 13, 2026 
 - [vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。](https://github.com/vercel-labs/agent-browser) 
 - [open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！](https://github.com/open-meteo/open-meteo) 
