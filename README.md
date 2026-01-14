@@ -13,6 +13,9 @@
 
 
 
+
+### January 14, 2026 
+- [farion1231/cc-switch: Claude Code的跨平台桌面一体化辅助工具，Codex Gemini CLI。](https://github.com/farion1231/cc-switch) 
 ### January 13, 2026 
 - [vercel-labs/agent-browser: 用于人工智能代理的无头浏览器自动化 CLI。带有 Node.js 回退功能的快速 Rust CLI。](https://github.com/vercel-labs/agent-browser) 
 - [open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！](https://github.com/open-meteo/open-meteo) 
