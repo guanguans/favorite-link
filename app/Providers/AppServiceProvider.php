@@ -2,29 +2,25 @@
 
 declare(strict_types=1);
 
-/**
- * Copyright (c) 2018-2025 guanguans<ityaozm@gmail.com>
- *
- * For the full copyright and license information, please view
- * the LICENSE file that was distributed with this source code.
- *
- * @see https://github.com/guanguans/favorite-link
- */
-
 namespace App\Providers;
 
+use App\Repositories\ProjectRepository;
+use App\Services\TagExtractor;
 use Illuminate\Support\ServiceProvider;
 
 final class AppServiceProvider extends ServiceProvider
 {
-    /**
-     * Bootstrap any application services.
-     */
     public function boot(): void {}
 
-    /**
-     * Register any application services.
-     */
     #[\Override]
-    public function register(): void {}
+    public function register(): void
+    {
+        $this->app->singleton(TagExtractor::class, fn () => new TagExtractor);
+
+        $this->app->singleton(ProjectRepository::class, function ($app) {
+            $dataPath = base_path('data/projects.json');
+
+            return new ProjectRepository($dataPath);
+        });
+    }
 }
