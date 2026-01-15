@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### January 15, 2026 
+- [osama-98/laravel-exports: 一个强大的Laravel包，用于以批次和块的方式导出大型数据集，支持CSV和XLSX格式。该包提供了一个干净、流畅的API，以高效处理导出。](https://github.com/osama-98/laravel-exports) 
 ### January 14, 2026 
 - [farion1231/cc-switch: Claude Code 的跨平台桌面一体化辅助工具，Codex Gemini CLI。](https://github.com/farion1231/cc-switch) 
 - [TheDragonCode/github-preview-updater: 存储库中的轻量级预览更新](https://github.com/TheDragonCode/github-preview-updater) 
