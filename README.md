@@ -14,7 +14,7 @@
 
 ### January 16, 2026 
 - [qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list) 
-- [remorses/playwriter: 像Playwright MCP，但通过扩展。上下文窗口减少80%。能力提升10倍（完整的Playwright API）](https://github.com/remorses/playwriter) 
+- [remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 (完整的 Playwright API)](https://github.com/remorses/playwriter) 
 ### January 15, 2026 
 - [osama-98/laravel-exports: 一个强大的 Laravel 包，用于以批次和块的方式导出大型数据集，支持 CSV 和 XLSX 格式。该包提供了一个干净、流畅的 API，以高效处理导出。](https://github.com/osama-98/laravel-exports) 
 ### January 14, 2026 
