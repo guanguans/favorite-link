@@ -15,6 +15,7 @@
 
 ### January 18, 2026 
 - [chatfire-AI/huobao-drama: 🎬 一句话生成完整短剧，从剧本到成片全自动化](https://github.com/chatfire-AI/huobao-drama) 
+- [HPWebdeveloper/laravel-stateflow: Laravel Eloquent模型的现代企业就绪状态机实现。](https://github.com/HPWebdeveloper/laravel-stateflow) 
 ### January 16, 2026 
 - [qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list) 
 - [remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 (完整的 Playwright API)](https://github.com/remorses/playwriter) 
