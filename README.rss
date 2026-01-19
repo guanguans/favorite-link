@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 17 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 18 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。</title>
+      <pubDate>Sun, 18 Jan 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/gitcoffee-os/postbot</link>
+      <guid>https://github.com/gitcoffee-os/postbot</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gitcoffee-os/postbot" target="_blank">gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/gitcoffee-os/postbot" target="_blank">https://github.com/gitcoffee-os/postbot</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>chatfire-AI/huobao-drama: 🎬 一句话生成完整短剧，从剧本到成片全自动化</title>
       <pubDate>Sat, 17 Jan 2026 16:00:00 +0000</pubDate>
