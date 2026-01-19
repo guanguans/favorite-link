@@ -12,6 +12,7 @@
 
 ### January 19, 2026 
 - [gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。](https://github.com/gitcoffee-os/postbot) 
+- [guanguans/phpstan-rules: PHPStan 的一组附加规则。](https://github.com/guanguans/phpstan-rules) 
 ### January 18, 2026 
 - [chatfire-AI/huobao-drama: 🎬 一句话生成完整短剧，从剧本到成片全自动化](https://github.com/chatfire-AI/huobao-drama) 
 - [HPWebdeveloper/laravel-stateflow: Laravel Eloquent 模型的现代企业就绪状态机实现。](https://github.com/HPWebdeveloper/laravel-stateflow) 
