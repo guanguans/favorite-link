@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### January 20, 2026 
+- [aymanalhattami/filament-page-with-sidebar: 在侧边栏中组织页面，以使页面之间的导航更加舒适。](https://github.com/aymanalhattami/filament-page-with-sidebar) 
 ### January 19, 2026 
 - [gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。](https://github.com/gitcoffee-os/postbot) 
 - [guanguans/phpstan-rules: PHPStan 的一组附加规则。](https://github.com/guanguans/phpstan-rules) 
