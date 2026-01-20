@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[op7418/Humanizer-zh: Humanizer-zh 是一个用于去除文本中 AI 生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。]]></title>
+    <published>2026-01-19T08:00:00+00:00</published>
+    <updated>2026-01-19T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/op7418/Humanizer-zh"/>
+    <id>https://github.com/op7418/Humanizer-zh</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/op7418/Humanizer-zh" target="_blank">op7418/Humanizer-zh: Humanizer-zh 是一个用于去除文本中 AI
+生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/op7418/Humanizer-zh" target="_blank">https://github.com/op7418/Humanizer-zh</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。]]></title>
     <published>2026-01-18T16:00:00+00:00</published>
     <updated>2026-01-18T16:00:00+00:00</updated>
