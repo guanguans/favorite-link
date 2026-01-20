@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[RightCapitalHQ/chinese-style-guide: 中文写作排版风格指南，一套中文和中英文混排的写作和排版标准。]]></title>
+    <published>2026-01-19T00:00:00+00:00</published>
+    <updated>2026-01-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/RightCapitalHQ/chinese-style-guide"/>
+    <id>https://github.com/RightCapitalHQ/chinese-style-guide</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/RightCapitalHQ/chinese-style-guide" target="_blank">RightCapitalHQ/chinese-style-guide:
+中文写作排版风格指南，一套中文和中英文混排的写作和排版标准。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/RightCapitalHQ/chinese-style-guide" target="_blank">https://github.com/RightCapitalHQ/chinese-style-guide</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。]]></title>
     <published>2026-01-18T16:00:00+00:00</published>
     <updated>2026-01-18T16:00:00+00:00</updated>
