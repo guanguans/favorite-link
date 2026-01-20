@@ -14,6 +14,7 @@
 ### January 20, 2026 
 - [aymanalhattami/filament-page-with-sidebar: 在侧边栏中组织页面，以使页面之间的导航更加舒适。](https://github.com/aymanalhattami/filament-page-with-sidebar) 
 - [op7418/Humanizer-zh: Humanizer-zh 是一个用于去除文本中 AI 生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。](https://github.com/op7418/Humanizer-zh) 
+- [RightCapitalHQ/chinese-style-guide: 中文写作排版风格指南，一套中文和中英文混排的写作和排版标准。](https://github.com/RightCapitalHQ/chinese-style-guide) 
 ### January 19, 2026 
 - [gitcoffee-os/postbot: PostBot 内容同步助手一款开源的多平台内容同步分发生产力工具。支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。](https://github.com/gitcoffee-os/postbot) 
 - [guanguans/phpstan-rules: PHPStan 的一组附加规则。](https://github.com/guanguans/phpstan-rules) 
