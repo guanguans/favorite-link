@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-01-19T16:00:00+00:00</updated>
+  <updated>2026-01-20T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[xai-org/x-algorithm: 该存储库包含驱动 X 上 "为您推荐" 动态的核心推荐系统。它结合了网络内内容 (来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。]]></title>
+    <published>2026-01-20T16:00:00+00:00</published>
+    <updated>2026-01-20T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm"/>
+    <id>来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E6%9D%A5%E8%87%AA%E6%82%A8%E5%85%B3%E6%B3%A8%E7%9A%84%E8%B4%A6%E6%88%B7)%20%E5%92%8C%E7%BD%91%E7%BB%9C%E5%A4%96%E5%86%85%E5%AE%B9%20(%E9%80%9A%E8%BF%87%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%A3%80%E7%B4%A2%E5%8F%91%E7%8E%B0)%EF%BC%8C%E5%B9%B6%E4%BD%BF%E7%94%A8%E5%9F%BA%E4%BA%8E%20Grok%20%E7%9A%84%E5%8F%98%E6%8D%A2%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%90%8D%E3%80%82](https://github.com/xai-org/x-algorithm" target="_blank">xai-org/x-algorithm: 该存储库包含驱动 X 上 "为您推荐"
+动态的核心推荐系统。它结合了网络内内容 (来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok
+的变换模型对所有内容进行排名。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E6%9D%A5%E8%87%AA%E6%82%A8%E5%85%B3%E6%B3%A8%E7%9A%84%E8%B4%A6%E6%88%B7)%20%E5%92%8C%E7%BD%91%E7%BB%9C%E5%A4%96%E5%86%85%E5%AE%B9%20(%E9%80%9A%E8%BF%87%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%A3%80%E7%B4%A2%E5%8F%91%E7%8E%B0)%EF%BC%8C%E5%B9%B6%E4%BD%BF%E7%94%A8%E5%9F%BA%E4%BA%8E%20Grok%20%E7%9A%84%E5%8F%98%E6%8D%A2%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%90%8D%E3%80%82](https://github.com/xai-org/x-algorithm" target="_blank">来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok
+的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[aymanalhattami/filament-page-with-sidebar: 在侧边栏中组织页面，以使页面之间的导航更加舒适。]]></title>
     <published>2026-01-19T16:00:00+00:00</published>
