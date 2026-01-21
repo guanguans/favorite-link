@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### January 21, 2026 
+- [xai-org/x-algorithm: 该存储库包含驱动 X 上 "为您推荐" 动态的核心推荐系统。它结合了网络内内容（来自您关注的账户）和网络外内容（通过基于机器学习的检索发现），并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm) 
 ### January 20, 2026 
 - [aymanalhattami/filament-page-with-sidebar: 在侧边栏中组织页面，以使页面之间的导航更加舒适。](https://github.com/aymanalhattami/filament-page-with-sidebar) 
 - [op7418/Humanizer-zh: Humanizer-zh 是一个用于去除文本中 AI 生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。](https://github.com/op7418/Humanizer-zh) 
