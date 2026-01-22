@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。]]></title>
+    <published>2026-01-21T08:00:00+00:00</published>
+    <updated>2026-01-21T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/affaan-m/everything-claude-code"/>
+    <id>https://github.com/affaan-m/everything-claude-code</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/affaan-m/everything-claude-code" target="_blank">affaan-m/everything-claude-code: 完整的 Claude Code
+配置集合 - 代理，技能，钩子，命令，规则，MCP。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/affaan-m/everything-claude-code" target="_blank">https://github.com/affaan-m/everything-claude-code</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[xai-org/x-algorithm: 该存储库包含驱动 X 上 "为您推荐" 动态的核心推荐系统。它结合了网络内内容 (来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。]]></title>
     <published>2026-01-20T16:00:00+00:00</published>
     <updated>2026-01-20T16:00:00+00:00</updated>
