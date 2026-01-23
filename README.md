@@ -13,6 +13,9 @@
 
 
 
+
+### January 23, 2026 
+- [Mohamed-Galdi/vilt-filepond: Laravel包，用于在VILT堆栈（VUE、Inertia、Laravel、Tailwind）中使用FilePond处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond) 
 ### January 22, 2026 
 - [waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包](https://github.com/waadmawlood/truffle) 
 - [affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。](https://github.com/affaan-m/everything-claude-code) 
