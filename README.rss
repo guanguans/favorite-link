@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 21 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。</title>
+      <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>
+      <link>VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond</link>
+      <guid isPermaLink="false">VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond</guid>
+      <content:encoded><![CDATA[<a href="VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond" target="_blank">Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond" target="_blank">VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包</title>
       <pubDate>Wed, 21 Jan 2026 16:00:00 +0000</pubDate>
