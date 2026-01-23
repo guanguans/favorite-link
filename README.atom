@@ -31,6 +31,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[github/copilot-sdk: 用于将 GitHub Copilot 代理集成到应用和服务中的多平台 SDK]]></title>
+    <published>2026-01-22T08:00:00+00:00</published>
+    <updated>2026-01-22T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/github/copilot-sdk"/>
+    <id>https://github.com/github/copilot-sdk</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/github/copilot-sdk" target="_blank">github/copilot-sdk: 用于将 GitHub Copilot 代理集成到应用和服务中的多平台
+SDK</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/github/copilot-sdk" target="_blank">https://github.com/github/copilot-sdk</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包]]></title>
     <published>2026-01-21T16:00:00+00:00</published>
     <updated>2026-01-21T16:00:00+00:00</updated>

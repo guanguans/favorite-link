@@ -12,7 +12,7 @@
 
 ### January 23, 2026 
 - [Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond) 
-- [github/copilot-sdk: 用于将GitHub Copilot代理集成到应用和服务中的多平台SDK](https://github.com/github/copilot-sdk) 
+- [github/copilot-sdk: 用于将 GitHub Copilot 代理集成到应用和服务中的多平台 SDK](https://github.com/github/copilot-sdk) 
 ### January 22, 2026 
 - [waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包](https://github.com/waadmawlood/truffle) 
 - [affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。](https://github.com/affaan-m/everything-claude-code) 
