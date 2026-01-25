@@ -31,6 +31,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 ()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。]]></title>
+    <published>2026-01-24T08:00:00+00:00</published>
+    <updated>2026-01-24T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/"/>
+    <id>，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%87%8F%E5%B0%91%E9%9D%9E%E6%B4%BB%E5%8A%A8%E6%A0%87%E7%AD%BE%E9%A1%B5%E7%9A%84%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E3%80%82%E4%B8%8E%E4%BD%BF%E7%94%A8%20DOM%20%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%B3%95%E7%9A%84%E6%9B%BF%E4%BB%A3%E6%89%A9%E5%B1%95%E7%9B%B8%E6%AF%94%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%89%A9%E5%B1%95%E6%9B%B4%E9%AB%98%E6%95%88%EF%BC%8C%E4%B8%94%E5%BA%94%E8%AF%A5%E6%9B%B4%E5%B0%91%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AF%E3%80%82](https://github.com/rNeomy/auto-tab-discard/" target="_blank">rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法
+()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%87%8F%E5%B0%91%E9%9D%9E%E6%B4%BB%E5%8A%A8%E6%A0%87%E7%AD%BE%E9%A1%B5%E7%9A%84%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E3%80%82%E4%B8%8E%E4%BD%BF%E7%94%A8%20DOM%20%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%B3%95%E7%9A%84%E6%9B%BF%E4%BB%A3%E6%89%A9%E5%B1%95%E7%9B%B8%E6%AF%94%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%89%A9%E5%B1%95%E6%9B%B4%E9%AB%98%E6%95%88%EF%BC%8C%E4%B8%94%E5%BA%94%E8%AF%A5%E6%9B%B4%E5%B0%91%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AF%E3%80%82](https://github.com/rNeomy/auto-tab-discard/" target="_blank">，自动减少非活动标签页的内存使用。与使用 DOM
+替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。]]></title>
     <published>2026-01-22T16:00:00+00:00</published>
     <updated>2026-01-22T16:00:00+00:00</updated>
