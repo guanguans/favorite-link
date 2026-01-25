@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 24 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</title>
+      <pubDate>Sat, 24 Jan 2026 16:00:00 +0000</pubDate>
+      <link>用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</link>
+      <guid isPermaLink="false">用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</guid>
+      <content:encoded><![CDATA[<a href="用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue" target="_blank">YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue" target="_blank">用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。</title>
       <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>

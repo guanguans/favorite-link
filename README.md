@@ -12,7 +12,7 @@
 
 
 ### January 25, 2026 
-- [YanGusik/laravel-balanced-queue: 一个用于队列管理的Laravel包，支持在分区（用户组）之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue) 
+- [YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue) 
 ### January 23, 2026 
 - [Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond) 
 - [github/copilot-sdk: 用于将 GitHub Copilot 代理集成到应用和服务中的多平台 SDK](https://github.com/github/copilot-sdk) 
