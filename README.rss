@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 24 Jan 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。</title>
+      <pubDate>Sat, 31 Jan 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/openclaw/openclaw</link>
+      <guid>https://github.com/openclaw/openclaw</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/openclaw/openclaw" target="_blank">openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/openclaw/openclaw" target="_blank">https://github.com/openclaw/openclaw</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</title>
       <pubDate>Sat, 24 Jan 2026 16:00:00 +0000</pubDate>
