@@ -34,6 +34,22 @@ Android 系统上实现语音交互，并能渲染用户可控制的实时画布
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[harris21/laravel-fuse: Laravel 队列作业的断路器]]></title>
+    <published>2026-01-31T08:00:00+00:00</published>
+    <updated>2026-01-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/harris21/laravel-fuse"/>
+    <id>https://github.com/harris21/laravel-fuse</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/harris21/laravel-fuse" target="_blank">harris21/laravel-fuse: Laravel 队列作业的断路器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/harris21/laravel-fuse" target="_blank">https://github.com/harris21/laravel-fuse</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。]]></title>
     <published>2026-01-24T16:00:00+00:00</published>
     <updated>2026-01-24T16:00:00+00:00</updated>

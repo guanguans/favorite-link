@@ -14,7 +14,7 @@
 
 ### February 1, 2026 
 - [openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。](https://github.com/openclaw/openclaw) 
-- [harris21/laravel-fuse: Laravel队列作业的断路器](https://github.com/harris21/laravel-fuse) 
+- [harris21/laravel-fuse: Laravel 队列作业的断路器](https://github.com/harris21/laravel-fuse) 
 ### January 25, 2026 
 - [YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue) 
 - [rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 ()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/) 

@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>harris21/laravel-fuse: Laravel 队列作业的断路器</title>
+      <pubDate>Sat, 31 Jan 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/harris21/laravel-fuse</link>
+      <guid>https://github.com/harris21/laravel-fuse</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/harris21/laravel-fuse" target="_blank">harris21/laravel-fuse: Laravel 队列作业的断路器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/harris21/laravel-fuse" target="_blank">https://github.com/harris21/laravel-fuse</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</title>
       <pubDate>Sat, 24 Jan 2026 16:00:00 +0000</pubDate>
       <link>用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</link>
