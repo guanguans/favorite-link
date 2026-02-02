@@ -12,6 +12,9 @@
 
 
 
+
+### February 2, 2026 
+- [asheshgoplani/agent-deck: AI编码代理的终端会话管理器。](https://github.com/asheshgoplani/agent-deck) 
 ### February 1, 2026 
 - [openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。](https://github.com/openclaw/openclaw) 
 - [harris21/laravel-fuse: Laravel 队列作业的断路器](https://github.com/harris21/laravel-fuse) 
