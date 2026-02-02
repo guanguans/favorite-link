@@ -17,6 +17,7 @@
 - [asheshgoplani/agent-deck: AI 编码代理的终端会话管理器。](https://github.com/asheshgoplani/agent-deck) 
 - [sebastianbergmann/file-filter: 用于过滤文件的库，从 phpunit/phpunit 中提取。](https://github.com/sebastianbergmann/file-filter) 
 - [syi0808/screenize: 开源MacOS屏幕录制应用程序，具有自动缩放、光标效果和时间轴编辑功能—Screen Studio替代方案。](https://github.com/syi0808/screenize) 
+- [automazeio/vibeproxy: 原生MacOS菜单栏应用程序使用您的Claude Code ChatGPT订阅与AI编码工具-无需API密钥](https://github.com/automazeio/vibeproxy) 
 ### February 1, 2026 
 - [openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。](https://github.com/openclaw/openclaw) 
 - [harris21/laravel-fuse: Laravel 队列作业的断路器](https://github.com/harris21/laravel-fuse) 
