@@ -80,6 +80,23 @@ ChatGPT 订阅与 AI 编码工具 - 无需 API 密钥</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[devcbh/laravel-ai-provider: 具有多个提供程序驱动程序的 Laravel AI 包装包。]]></title>
+    <published>2026-01-31T08:00:00+00:00</published>
+    <updated>2026-01-31T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/devcbh/laravel-ai-provider"/>
+    <id>https://github.com/devcbh/laravel-ai-provider</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/devcbh/laravel-ai-provider" target="_blank">devcbh/laravel-ai-provider: 具有多个提供程序驱动程序的 Laravel AI
+包装包。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/devcbh/laravel-ai-provider" target="_blank">https://github.com/devcbh/laravel-ai-provider</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。]]></title>
     <published>2026-01-31T16:00:00+00:00</published>
     <updated>2026-01-31T16:00:00+00:00</updated>
