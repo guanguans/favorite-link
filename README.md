@@ -12,7 +12,7 @@
 
 
 ### February 4, 2026 
-- [bim-g/hitilafu: PHP应用程序的一个漂亮的错误页面。](https://github.com/bim-g/hitilafu) 
+- [bim-g/hitilafu: PHP 应用程序的一个漂亮的错误页面。](https://github.com/bim-g/hitilafu) 
 ### February 3, 2026 
 - [steipete/Trimmy: Trimmy ✂️ - “粘贴一次，运行一次”：这个工具可以将多行的 shell 脚本片段压缩成一个简洁的形式，以便执行。](https://github.com/steipete/Trimmy) 
 ### February 2, 2026 

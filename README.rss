@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 02 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 03 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>bim-g/hitilafu: PHP 应用程序的一个漂亮的错误页面。</title>
+      <pubDate>Tue, 03 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/bim-g/hitilafu</link>
+      <guid>https://github.com/bim-g/hitilafu</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/bim-g/hitilafu" target="_blank">bim-g/hitilafu: PHP 应用程序的一个漂亮的错误页面。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/bim-g/hitilafu" target="_blank">https://github.com/bim-g/hitilafu</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>steipete/Trimmy: Trimmy ✂️ - “粘贴一次，运行一次”：这个工具可以将多行的 shell 脚本片段压缩成一个简洁的形式，以便执行。</title>
       <pubDate>Mon, 02 Feb 2026 16:00:00 +0000</pubDate>
