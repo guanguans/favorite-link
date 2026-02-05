@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### February 5, 2026 
+- [FantasticFiasco/action-update-license-year: 拉取请求中的GitHub操作会更新许可证文件中的版权年份。](https://github.com/FantasticFiasco/action-update-license-year) 
 ### February 4, 2026 
 - [bim-g/hitilafu: PHP 应用程序的一个漂亮的错误页面。](https://github.com/bim-g/hitilafu) 
 ### February 3, 2026 
