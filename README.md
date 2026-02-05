@@ -15,7 +15,7 @@
 ### February 5, 2026 
 - [FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。](https://github.com/FantasticFiasco/action-update-license-year) 
 - [VortexOne404/slipstream-client-android: Slipstream 客户端是一个轻量级和模块化的 Android 客户端：](https://github.com/VortexOne404/slipstream-client-android) 
-- [lucasgelfond/zerobrew: 即插即用，速度提升5至20倍，实验性的 Homebrew 替代品。](https://github.com/lucasgelfond/zerobrew) 
+- [lucasgelfond/zerobrew: 即插即用，速度提升 5 至 20 倍，实验性的 Homebrew 替代品。](https://github.com/lucasgelfond/zerobrew) 
 ### February 4, 2026 
 - [bim-g/hitilafu: PHP 应用程序的一个漂亮的错误页面。](https://github.com/bim-g/hitilafu) 
 ### February 3, 2026 
