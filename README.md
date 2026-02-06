@@ -14,7 +14,7 @@
 
 
 ### February 6, 2026 
-- [laravel/ai: Laravel AI SDK提供了一个统一的、富有表现力的API，用于与OpenAI、Anthropic、Gemini等AI提供商进行交互。](https://github.com/laravel/ai) 
+- [laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。](https://github.com/laravel/ai) 
 ### February 5, 2026 
 - [FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。](https://github.com/FantasticFiasco/action-update-license-year) 
 - [VortexOne404/slipstream-client-android: Slipstream 客户端是一个轻量级和模块化的 Android 客户端：](https://github.com/VortexOne404/slipstream-client-android) 
