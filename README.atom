@@ -31,6 +31,22 @@ Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 Ope
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[elementary/terminal: 为初级操作系统设计的终端仿真器]]></title>
+    <published>2026-02-05T08:00:00+00:00</published>
+    <updated>2026-02-05T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/elementary/terminal"/>
+    <id>https://github.com/elementary/terminal</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/elementary/terminal" target="_blank">elementary/terminal: 为初级操作系统设计的终端仿真器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/elementary/terminal" target="_blank">https://github.com/elementary/terminal</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。]]></title>
     <published>2026-02-04T16:00:00+00:00</published>
     <updated>2026-02-04T16:00:00+00:00</updated>
