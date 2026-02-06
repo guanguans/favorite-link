@@ -47,6 +47,24 @@ Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 Ope
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[AliRezaBeigy/paqetNG: 一个现代的 Android 应用程序，用于 paqet，这是一种使用原始套接字和 KCP 的包级代理。使用 hev-socks5-tunnel 构建，支持本地 TUN/SOCKS5 隧道。]]></title>
+    <published>2026-02-05T00:00:00+00:00</published>
+    <updated>2026-02-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/AliRezaBeigy/paqetNG"/>
+    <id>https://github.com/AliRezaBeigy/paqetNG</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/AliRezaBeigy/paqetNG" target="_blank">AliRezaBeigy/paqetNG: 一个现代的 Android 应用程序，用于
+paqet，这是一种使用原始套接字和 KCP 的包级代理。使用 hev-socks5-tunnel 构建，支持本地
+TUN/SOCKS5 隧道。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/AliRezaBeigy/paqetNG" target="_blank">https://github.com/AliRezaBeigy/paqetNG</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。]]></title>
     <published>2026-02-04T16:00:00+00:00</published>
     <updated>2026-02-04T16:00:00+00:00</updated>

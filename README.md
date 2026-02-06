@@ -16,7 +16,7 @@
 ### February 6, 2026 
 - [laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。](https://github.com/laravel/ai) 
 - [elementary/terminal: 为初级操作系统设计的终端仿真器](https://github.com/elementary/terminal) 
-- [AliRezaBeigy/paqetNG: 一个现代的Android应用程序，用于paqet，这是一种使用原始套接字和KCP的包级代理。使用hev-socks5-tunnel构建，支持本地TUN/SOCKS5隧道。](https://github.com/AliRezaBeigy/paqetNG) 
+- [AliRezaBeigy/paqetNG: 一个现代的 Android 应用程序，用于 paqet，这是一种使用原始套接字和 KCP 的包级代理。使用 hev-socks5-tunnel 构建，支持本地 TUN/SOCKS5 隧道。](https://github.com/AliRezaBeigy/paqetNG) 
 ### February 5, 2026 
 - [FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。](https://github.com/FantasticFiasco/action-update-license-year) 
 - [VortexOne404/slipstream-client-android: Slipstream 客户端是一个轻量级和模块化的 Android 客户端：](https://github.com/VortexOne404/slipstream-client-android) 
