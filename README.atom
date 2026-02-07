@@ -80,6 +80,22 @@ AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[smughead/Loupe: 用于 AI-Agent 工作流的 MacOS 辅助功能检查器。]]></title>
+    <published>2026-02-05T08:00:00+00:00</published>
+    <updated>2026-02-05T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/smughead/Loupe"/>
+    <id>https://github.com/smughead/Loupe</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/smughead/Loupe" target="_blank">smughead/Loupe: 用于 AI-Agent 工作流的 MacOS 辅助功能检查器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/smughead/Loupe" target="_blank">https://github.com/smughead/Loupe</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。]]></title>
     <published>2026-02-05T16:00:00+00:00</published>
     <updated>2026-02-05T16:00:00+00:00</updated>
