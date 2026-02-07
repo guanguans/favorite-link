@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 05 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 06 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。</title>
+      <pubDate>Fri, 06 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/TestFlowLabs/doctest</link>
+      <guid>https://github.com/TestFlowLabs/doctest</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/TestFlowLabs/doctest" target="_blank">TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/TestFlowLabs/doctest" target="_blank">https://github.com/TestFlowLabs/doctest</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。</title>
       <pubDate>Thu, 05 Feb 2026 16:00:00 +0000</pubDate>
