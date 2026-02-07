@@ -16,6 +16,7 @@
 - [steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。](https://github.com/steipete/Peekaboo) 
 - [wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间](https://github.com/wzh4869/AppPorts) 
 - [smughead/Loupe: 用于 AI-Agent 工作流的 MacOS 辅助功能检查器。](https://github.com/smughead/Loupe) 
+- [worksome/graphlint：GraphQL静态分析工具](https://github.com/worksome/graphlint) 
 ### February 6, 2026 
 - [laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。](https://github.com/laravel/ai) 
 - [elementary/terminal: 为初级操作系统设计的终端仿真器](https://github.com/elementary/terminal) 
