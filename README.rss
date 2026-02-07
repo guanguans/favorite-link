@@ -23,6 +23,45 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器</title>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/jarv/newsgoat</link>
+      <guid>https://github.com/jarv/newsgoat</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jarv/newsgoat" target="_blank">jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jarv/newsgoat" target="_blank">https://github.com/jarv/newsgoat</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。</title>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/steipete/Peekaboo</link>
+      <guid>https://github.com/steipete/Peekaboo</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/steipete/Peekaboo" target="_blank">steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/steipete/Peekaboo" target="_blank">https://github.com/steipete/Peekaboo</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间</title>
+      <pubDate>Thu, 05 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/wzh4869/AppPorts</link>
+      <guid>https://github.com/wzh4869/AppPorts</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/wzh4869/AppPorts" target="_blank">wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/wzh4869/AppPorts" target="_blank">https://github.com/wzh4869/AppPorts</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。</title>
       <pubDate>Thu, 05 Feb 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/laravel/ai</link>

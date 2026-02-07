@@ -30,6 +30,56 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器]]></title>
+    <published>2026-02-06T08:00:00+00:00</published>
+    <updated>2026-02-06T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/jarv/newsgoat"/>
+    <id>https://github.com/jarv/newsgoat</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/jarv/newsgoat" target="_blank">jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/jarv/newsgoat" target="_blank">https://github.com/jarv/newsgoat</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。]]></title>
+    <published>2026-02-06T00:00:00+00:00</published>
+    <updated>2026-02-06T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/steipete/Peekaboo"/>
+    <id>https://github.com/steipete/Peekaboo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/steipete/Peekaboo" target="_blank">steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使
+AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/steipete/Peekaboo" target="_blank">https://github.com/steipete/Peekaboo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间]]></title>
+    <published>2026-02-05T16:00:00+00:00</published>
+    <updated>2026-02-05T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/wzh4869/AppPorts"/>
+    <id>https://github.com/wzh4869/AppPorts</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/wzh4869/AppPorts" target="_blank">wzh4869/AppPorts: 一款 macOS
+工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/wzh4869/AppPorts" target="_blank">https://github.com/wzh4869/AppPorts</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。]]></title>
     <published>2026-02-05T16:00:00+00:00</published>
     <updated>2026-02-05T16:00:00+00:00</updated>

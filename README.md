@@ -12,8 +12,8 @@
 
 ### February 7, 2026 
 - [TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。](https://github.com/TestFlowLabs/doctest) 
-- [jarv/newsgoat: NewsGoat是一个基于终端的RSS阅读器](https://github.com/jarv/newsgoat) 
-- [steipete/Peekaboo: Peekaboo是一个MacOS CLI可选的MCP服务器，它使AI代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程AI模型进行可选的可视化问题回答。](https://github.com/steipete/Peekaboo) 
+- [jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器](https://github.com/jarv/newsgoat) 
+- [steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。](https://github.com/steipete/Peekaboo) 
 - [wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间](https://github.com/wzh4869/AppPorts) 
 ### February 6, 2026 
 - [laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。](https://github.com/laravel/ai) 
