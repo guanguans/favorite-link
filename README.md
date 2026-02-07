@@ -13,6 +13,9 @@
 
 
 
+
+### February 7, 2026 
+- [TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。](https://github.com/TestFlowLabs/doctest) 
 ### February 6, 2026 
 - [laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。](https://github.com/laravel/ai) 
 - [elementary/terminal: 为初级操作系统设计的终端仿真器](https://github.com/elementary/terminal) 
