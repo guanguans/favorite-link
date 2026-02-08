@@ -13,6 +13,7 @@
 
 ### February 8, 2026 
 - [sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。](https://github.com/sbarex/SourceCodeSyntaxHighlight) 
+- [sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。](https://github.com/sbarex/QLMarkdown) 
 ### February 7, 2026 
 - [TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。](https://github.com/TestFlowLabs/doctest) 
 - [jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器](https://github.com/jarv/newsgoat) 
