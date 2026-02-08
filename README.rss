@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 06 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。</title>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/sbarex/SourceCodeSyntaxHighlight</link>
+      <guid>https://github.com/sbarex/SourceCodeSyntaxHighlight</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sbarex/SourceCodeSyntaxHighlight" target="_blank">sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sbarex/SourceCodeSyntaxHighlight" target="_blank">https://github.com/sbarex/SourceCodeSyntaxHighlight</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。</title>
+      <pubDate>Sat, 07 Feb 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/sbarex/QLMarkdown</link>
+      <guid>https://github.com/sbarex/QLMarkdown</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sbarex/QLMarkdown" target="_blank">sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sbarex/QLMarkdown" target="_blank">https://github.com/sbarex/QLMarkdown</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。</title>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <link>图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</link>
+      <guid isPermaLink="false">图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</guid>
+      <content:encoded><![CDATA[<a href="图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo" target="_blank">sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo" target="_blank">图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。</title>
       <pubDate>Fri, 06 Feb 2026 16:00:00 +0000</pubDate>

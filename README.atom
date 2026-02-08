@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-02-06T16:00:00+00:00</updated>
+  <updated>2026-02-07T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,59 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。]]></title>
+    <published>2026-02-07T16:00:00+00:00</published>
+    <updated>2026-02-07T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sbarex/SourceCodeSyntaxHighlight"/>
+    <id>https://github.com/sbarex/SourceCodeSyntaxHighlight</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sbarex/SourceCodeSyntaxHighlight" target="_blank">sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS
+10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight
+渲染带有语法高亮的源代码。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sbarex/SourceCodeSyntaxHighlight" target="_blank">https://github.com/sbarex/SourceCodeSyntaxHighlight</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。]]></title>
+    <published>2026-02-07T08:00:00+00:00</published>
+    <updated>2026-02-07T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sbarex/QLMarkdown"/>
+    <id>https://github.com/sbarex/QLMarkdown</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sbarex/QLMarkdown" target="_blank">sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览
+Markdown 文件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sbarex/QLMarkdown" target="_blank">https://github.com/sbarex/QLMarkdown</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。]]></title>
+    <published>2026-02-07T00:00:00+00:00</published>
+    <updated>2026-02-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo"/>
+    <id>图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)%E3%80%81PDF%20%E5%92%8C%20Office%20%E6%96%87%E4%BB%B6%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82](https://github.com/sbarex/MediaInfo" target="_blank">sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件
+(图像、视频和音频)、PDF 和 Office 文件的信息。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)%E3%80%81PDF%20%E5%92%8C%20Office%20%E6%96%87%E4%BB%B6%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82](https://github.com/sbarex/MediaInfo" target="_blank">图像、视频和音频)、PDF 和 Office
+文件的信息。](https://github.com/sbarex/MediaInfo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。]]></title>
     <published>2026-02-06T16:00:00+00:00</published>
