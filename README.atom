@@ -31,6 +31,22 @@ ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rectorphp/mockstan: 将您的 PHPUnit 模拟置于严格的静态分析之下。]]></title>
+    <published>2026-02-10T08:00:00+00:00</published>
+    <updated>2026-02-10T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rectorphp/mockstan"/>
+    <id>https://github.com/rectorphp/mockstan</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/rectorphp/mockstan" target="_blank">rectorphp/mockstan: 将您的 PHPUnit 模拟置于严格的静态分析之下。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/rectorphp/mockstan" target="_blank">https://github.com/rectorphp/mockstan</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。]]></title>
     <published>2026-02-07T16:00:00+00:00</published>
     <updated>2026-02-07T16:00:00+00:00</updated>
