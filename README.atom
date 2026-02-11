@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-02-07T16:00:00+00:00</updated>
+  <updated>2026-02-10T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。]]></title>
+    <published>2026-02-10T16:00:00+00:00</published>
+    <updated>2026-02-10T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente"/>
+    <id>代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8D%8F%E8%AE%AE)%20%E6%88%96%20Codex%20%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%98%BE%E7%A4%BA%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E3%80%81%E7%BB%93%E6%9E%9C%E5%92%8C%E5%AF%B9%E8%AF%9D%E5%8E%86%E5%8F%B2%E3%80%82](https://github.com/rebornix/Agmente" target="_blank">rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用
+ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8D%8F%E8%AE%AE)%20%E6%88%96%20Codex%20%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%98%BE%E7%A4%BA%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E3%80%81%E7%BB%93%E6%9E%9C%E5%92%8C%E5%AF%B9%E8%AF%9D%E5%8E%86%E5%8F%B2%E3%80%82](https://github.com/rebornix/Agmente" target="_blank">代理客户端协议) 或 Codex
+应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。]]></title>
     <published>2026-02-07T16:00:00+00:00</published>

@@ -13,7 +13,7 @@
 
 
 ### February 11, 2026 
-- [rebornix/Agmente: Agmente是一个用于编码代理的iOS客户端。它连接到使用ACP（代理客户端协议）或Codex应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente) 
+- [rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente) 
 ### February 8, 2026 
 - [sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。](https://github.com/sbarex/SourceCodeSyntaxHighlight) 
 - [sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。](https://github.com/sbarex/QLMarkdown) 
