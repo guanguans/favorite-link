@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。</title>
+      <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/sipeed/picoclaw</link>
+      <guid>https://github.com/sipeed/picoclaw</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sipeed/picoclaw" target="_blank">sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sipeed/picoclaw" target="_blank">https://github.com/sipeed/picoclaw</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</title>
       <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
