@@ -16,7 +16,7 @@
 ### February 12, 2026 
 - [sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。](https://github.com/sipeed/picoclaw) 
 - [spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。](https://github.com/spatie/laravel-openapi-cli) 
-- [spatie/laravel-screenshot: 在Laravel应用程序中对网页进行截屏](https://github.com/spatie/laravel-screenshot) 
+- [spatie/laravel-screenshot: 在 Laravel 应用程序中对网页进行截屏](https://github.com/spatie/laravel-screenshot) 
 ### February 11, 2026 
 - [rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente) 
 - [rectorphp/mockstan: 将您的 PHPUnit 模拟置于严格的静态分析之下。](https://github.com/rectorphp/mockstan) 
