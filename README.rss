@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。</title>
+      <pubDate>Wed, 11 Feb 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/spatie/laravel-openapi-cli</link>
+      <guid>https://github.com/spatie/laravel-openapi-cli</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/spatie/laravel-openapi-cli" target="_blank">spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/spatie/laravel-openapi-cli" target="_blank">https://github.com/spatie/laravel-openapi-cli</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</title>
       <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
       <link>代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</link>

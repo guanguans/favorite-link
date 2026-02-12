@@ -31,6 +31,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。]]></title>
+    <published>2026-02-11T08:00:00+00:00</published>
+    <updated>2026-02-11T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/spatie/laravel-openapi-cli"/>
+    <id>https://github.com/spatie/laravel-openapi-cli</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/spatie/laravel-openapi-cli" target="_blank">spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel
+artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/spatie/laravel-openapi-cli" target="_blank">https://github.com/spatie/laravel-openapi-cli</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。]]></title>
     <published>2026-02-10T16:00:00+00:00</published>
     <updated>2026-02-10T16:00:00+00:00</updated>
