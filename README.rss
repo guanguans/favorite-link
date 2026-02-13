@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。</title>
+      <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/medvio/move-to-screen</link>
+      <guid>https://github.com/medvio/move-to-screen</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/medvio/move-to-screen" target="_blank">medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/medvio/move-to-screen" target="_blank">https://github.com/medvio/move-to-screen</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。</title>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/github/gh-aw</link>
+      <guid>https://github.com/github/gh-aw</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/github/gh-aw" target="_blank">github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/github/gh-aw" target="_blank">https://github.com/github/gh-aw</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。</title>
       <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
