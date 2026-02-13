@@ -16,6 +16,7 @@
 
 ### February 13, 2026 
 - [medvio/move-to-screen: 使用⌃⌥ + 方向键在显示器之间移动窗口。](https://github.com/medvio/move-to-screen) 
+- [github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。](https://github.com/github/gh-aw) 
 ### February 12, 2026 
 - [sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。](https://github.com/sipeed/picoclaw) 
 - [spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。](https://github.com/spatie/laravel-openapi-cli) 
