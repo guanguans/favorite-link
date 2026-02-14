@@ -13,6 +13,7 @@
 
 ### February 14, 2026 
 - [dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。](https://github.com/dlvhdr/diffnav) 
+- [f/textream: 一款免费的 macOS 提词器，具有实时单词跟踪、经典自动滚动和语音激活滚动功能。](https://github.com/f/textream) 
 ### February 13, 2026 
 - [medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。](https://github.com/medvio/move-to-screen) 
 - [github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。](https://github.com/github/gh-aw) 
