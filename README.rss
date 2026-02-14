@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 13 Feb 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。</title>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/dlvhdr/diffnav</link>
+      <guid>https://github.com/dlvhdr/diffnav</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/dlvhdr/diffnav" target="_blank">dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/dlvhdr/diffnav" target="_blank">https://github.com/dlvhdr/diffnav</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。</title>
       <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
