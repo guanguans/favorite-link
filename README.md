@@ -13,7 +13,7 @@
 
 
 ### February 15, 2026 
-- [php-testo/testo: Testo是一个可扩展的测试框架，建立在轻量级核心和中间件系统之上。它让您完全控制测试环境，同时保持您已经熟悉的PHP语法。](https://github.com/php-testo/testo) 
+- [php-testo/testo: Testo 是一个可扩展的测试框架，建立在轻量级核心和中间件系统之上。它让您完全控制测试环境，同时保持您已经熟悉的 PHP 语法。](https://github.com/php-testo/testo) 
 ### February 14, 2026 
 - [dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。](https://github.com/dlvhdr/diffnav) 
 - [f/textream: 一款免费的 macOS 提词器，具有实时单词跟踪、经典自动滚动和语音激活滚动功能。](https://github.com/f/textream) 
