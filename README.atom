@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sudo-project/sudo: Sudo 是一个旨在允许系统管理员向用户授予有限根权限并记录根活动的程序。基本理念是尽可能少地授予权限，但仍然允许人们完成他们的工作。]]></title>
+    <published>2026-02-14T08:00:00+00:00</published>
+    <updated>2026-02-14T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sudo-project/sudo"/>
+    <id>https://github.com/sudo-project/sudo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sudo-project/sudo" target="_blank">sudo-project/sudo: Sudo
+是一个旨在允许系统管理员向用户授予有限根权限并记录根活动的程序。基本理念是尽可能少地授予权限，但仍然允许人们完成他们的工作。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sudo-project/sudo" target="_blank">https://github.com/sudo-project/sudo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。]]></title>
     <published>2026-02-13T16:00:00+00:00</published>
     <updated>2026-02-13T16:00:00+00:00</updated>
