@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### March 2, 2026 
+- [34306/vphone-aio: 1 个脚本运行 vphone（iOS 26.1），已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) 
 ### March 1, 2026 
 - [MrPunyapal/pest-annotator-plugin: 一个 Pest PHP 插件，注释覆盖输出，包含类级别的细节、类型覆盖、圈复杂度、基线差异和灵活的导出格式。](https://github.com/MrPunyapal/pest-annotator-plugin) 
 ### February 27, 2026 
