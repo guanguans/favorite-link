@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 28 Feb 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 01 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序</title>
+      <pubDate>Sun, 01 Mar 2026 16:00:00 +0000</pubDate>
+      <link>iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio</link>
+      <guid isPermaLink="false">iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio</guid>
+      <content:encoded><![CDATA[<a href="iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio" target="_blank">34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio" target="_blank">iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。</title>
+      <pubDate>Sun, 01 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/Adembc/lazyssh</link>
+      <guid>https://github.com/Adembc/lazyssh</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Adembc/lazyssh" target="_blank">Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Adembc/lazyssh" target="_blank">https://github.com/Adembc/lazyssh</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>MrPunyapal/pest-annotator-plugin: 一个 Pest PHP 插件，注释覆盖输出，包含类级别的细节、类型覆盖、圈复杂度、基线差异和灵活的导出格式。</title>
       <pubDate>Sat, 28 Feb 2026 16:00:00 +0000</pubDate>
