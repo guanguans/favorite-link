@@ -14,6 +14,7 @@
 
 ### March 2, 2026 
 - [34306/vphone-aio: 1 个脚本运行 vphone（iOS 26.1），已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) 
+- [Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。](https://github.com/Adembc/lazyssh) 
 ### March 1, 2026 
 - [MrPunyapal/pest-annotator-plugin: 一个 Pest PHP 插件，注释覆盖输出，包含类级别的细节、类型覆盖、圈复杂度、基线差异和灵活的导出格式。](https://github.com/MrPunyapal/pest-annotator-plugin) 
 ### February 27, 2026 
