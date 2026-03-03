@@ -12,6 +12,9 @@
 
 
 
+
+### March 3, 2026 
+- [ddlmanus/MacOptimizer: MacOptimizer 是一款专为 macOS 设计的系统优化工具，具有现代化的 SwiftUI 界面和八个核心功能模块](https://github.com/ddlmanus/MacOptimizer) 
 ### March 2, 2026 
 - [34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) 
 - [Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。](https://github.com/Adembc/lazyssh) 
