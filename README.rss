@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 01 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 02 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ddlmanus/MacOptimizer: MacOptimizer 是一款专为 macOS 设计的系统优化工具，具有现代化的 SwiftUI 界面和八个核心功能模块</title>
+      <pubDate>Mon, 02 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/ddlmanus/MacOptimizer</link>
+      <guid>https://github.com/ddlmanus/MacOptimizer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ddlmanus/MacOptimizer" target="_blank">ddlmanus/MacOptimizer: MacOptimizer 是一款专为 macOS 设计的系统优化工具，具有现代化的 SwiftUI 界面和八个核心功能模块</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ddlmanus/MacOptimizer" target="_blank">https://github.com/ddlmanus/MacOptimizer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序</title>
       <pubDate>Sun, 01 Mar 2026 16:00:00 +0000</pubDate>
