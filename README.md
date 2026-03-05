@@ -12,8 +12,8 @@
 
 ### March 5, 2026 
 - [metaspartan/mactop: mactop 是一个基于终端的监控工具“top”，旨 ​​ 在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标](https://github.com/metaspartan/mactop) 
-- [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及PCC研究虚拟机基础设施，启动一个虚拟的 iPhone（iOS 26）。](https://github.com/Lakr233/vphone-cli) 
-- [hehehai/voxt: macOS的语音输入和翻译应用。按下说话，释放粘贴。](https://github.com/hehehai/voxt) 
+- [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone (iOS 26)。](https://github.com/Lakr233/vphone-cli) 
+- [hehehai/voxt: macOS 的语音输入和翻译应用。按下说话，释放粘贴。](https://github.com/hehehai/voxt) 
 ### March 3, 2026 
 - [ddlmanus/MacOptimizer: MacOptimizer 是一款专为 macOS 设计的系统优化工具，具有现代化的 SwiftUI 界面和八个核心功能模块](https://github.com/ddlmanus/MacOptimizer) 
 ### March 2, 2026 
