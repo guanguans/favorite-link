@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 04 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 06 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。</title>
+      <pubDate>Fri, 06 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/sourcetoad/rule-helper-for-laravel</link>
+      <guid>https://github.com/sourcetoad/rule-helper-for-laravel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sourcetoad/rule-helper-for-laravel" target="_blank">sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sourcetoad/rule-helper-for-laravel" target="_blank">https://github.com/sourcetoad/rule-helper-for-laravel</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>metaspartan/mactop: mactop 是一个基于终端的监控工具“top”，旨 ​​ 在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标</title>
       <pubDate>Wed, 04 Mar 2026 16:00:00 +0000</pubDate>

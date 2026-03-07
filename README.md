@@ -12,7 +12,7 @@
 
 
 ### March 7, 2026 
-- [sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建Laravel规则数组更容易。](https://github.com/sourcetoad/rule-helper-for-laravel) 
+- [sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。](https://github.com/sourcetoad/rule-helper-for-laravel) 
 ### March 5, 2026 
 - [metaspartan/mactop: mactop 是一个基于终端的监控工具“top”，旨 ​​ 在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标](https://github.com/metaspartan/mactop) 
 - [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone (iOS 26)。](https://github.com/Lakr233/vphone-cli) 
