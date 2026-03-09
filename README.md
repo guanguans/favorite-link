@@ -14,6 +14,7 @@
 
 ### March 9, 2026 
 - [mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器](https://github.com/mrconter1/rustc-php) 
+- [Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。](https://github.com/Wei-Shaw/sub2api) 
 ### March 7, 2026 
 - [sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。](https://github.com/sourcetoad/rule-helper-for-laravel) 
 ### March 5, 2026 
