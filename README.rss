@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 06 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 08 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器</title>
+      <pubDate>Sun, 08 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/mrconter1/rustc-php</link>
+      <guid>https://github.com/mrconter1/rustc-php</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mrconter1/rustc-php" target="_blank">mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/mrconter1/rustc-php" target="_blank">https://github.com/mrconter1/rustc-php</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai、Gemini、Antigravity 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</title>
+      <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/Wei-Shaw/sub2api</link>
+      <guid>https://github.com/Wei-Shaw/sub2api</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Wei-Shaw/sub2api" target="_blank">Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai、Gemini、Antigravity 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Wei-Shaw/sub2api" target="_blank">https://github.com/Wei-Shaw/sub2api</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。</title>
       <pubDate>Fri, 06 Mar 2026 16:00:00 +0000</pubDate>
