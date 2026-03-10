@@ -16,6 +16,7 @@
 ### March 10, 2026 
 - [geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端](https://github.com/geek-fun/dockit) 
 - [EthanLipnik/Loom: 适用于苹果设备的简单对等网络](https://github.com/EthanLipnik/Loom) 
+- [nearai/ironclaw: IronClaw 是受 OpenClaw 启发的 Rust 实现，专注于隐私和安全。](https://github.com/nearai/ironclaw) 
 ### March 9, 2026 
 - [mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器](https://github.com/mrconter1/rustc-php) 
 - [Wei-Shaw/sub2api: Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai、Gemini、Antigravity 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。](https://github.com/Wei-Shaw/sub2api) 
