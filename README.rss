@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 08 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 09 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端</title>
+      <pubDate>Mon, 09 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/geek-fun/dockit</link>
+      <guid>https://github.com/geek-fun/dockit</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/geek-fun/dockit" target="_blank">geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/geek-fun/dockit" target="_blank">https://github.com/geek-fun/dockit</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器</title>
       <pubDate>Sun, 08 Mar 2026 16:00:00 +0000</pubDate>
