@@ -30,6 +30,39 @@ ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[EthanLipnik/Loom: 适用于苹果设备的简单对等网络]]></title>
+    <published>2026-03-09T08:00:00+00:00</published>
+    <updated>2026-03-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/EthanLipnik/Loom"/>
+    <id>https://github.com/EthanLipnik/Loom</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/EthanLipnik/Loom" target="_blank">EthanLipnik/Loom: 适用于苹果设备的简单对等网络</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/EthanLipnik/Loom" target="_blank">https://github.com/EthanLipnik/Loom</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[nearai/ironclaw: IronClaw 是受 OpenClaw 启发的 Rust 实现，专注于隐私和安全。]]></title>
+    <published>2026-03-09T00:00:00+00:00</published>
+    <updated>2026-03-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nearai/ironclaw"/>
+    <id>https://github.com/nearai/ironclaw</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nearai/ironclaw" target="_blank">nearai/ironclaw: IronClaw 是受 OpenClaw 启发的 Rust
+实现，专注于隐私和安全。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nearai/ironclaw" target="_blank">https://github.com/nearai/ironclaw</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[mrconter1/rustc-php: 用 PHP 编写的带有所有权检查功能的 Rust 编译器]]></title>
     <published>2026-03-08T16:00:00+00:00</published>
     <updated>2026-03-08T16:00:00+00:00</updated>
