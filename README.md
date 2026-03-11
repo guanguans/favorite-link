@@ -12,6 +12,7 @@
 
 ### March 11, 2026 
 - [JetBrains/junie: JetBrains 推出的 AI 编码代理，可通过终端、IDE 或 CI/CD 流水线部署代码——由你选择的任何大语言模型提供支持。](https://github.com/JetBrains/junie) 
+- [nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自 Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。](https://github.com/nicobleiler/php-passphrase) 
 ### March 10, 2026 
 - [geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端](https://github.com/geek-fun/dockit) 
 - [EthanLipnik/Loom: 适用于苹果设备的简单对等网络](https://github.com/EthanLipnik/Loom) 
