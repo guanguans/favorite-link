@@ -13,6 +13,9 @@
 
 
 
+
+### March 11, 2026 
+- [JetBrains/junie: JetBrains推出的AI编码代理，可通过终端、IDE或CI/CD流水线部署代码——由你选择的任何大语言模型提供支持。](https://github.com/JetBrains/junie) 
 ### March 10, 2026 
 - [geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端](https://github.com/geek-fun/dockit) 
 - [EthanLipnik/Loom: 适用于苹果设备的简单对等网络](https://github.com/EthanLipnik/Loom) 
