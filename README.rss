@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自 Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。</title>
+      <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/nicobleiler/php-passphrase</link>
+      <guid>https://github.com/nicobleiler/php-passphrase</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nicobleiler/php-passphrase" target="_blank">nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自 Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nicobleiler/php-passphrase" target="_blank">https://github.com/nicobleiler/php-passphrase</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端</title>
       <pubDate>Mon, 09 Mar 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/geek-fun/dockit</link>

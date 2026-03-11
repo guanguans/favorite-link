@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自 Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。]]></title>
+    <published>2026-03-10T08:00:00+00:00</published>
+    <updated>2026-03-10T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/nicobleiler/php-passphrase"/>
+    <id>https://github.com/nicobleiler/php-passphrase</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/nicobleiler/php-passphrase" target="_blank">nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自
+Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/nicobleiler/php-passphrase" target="_blank">https://github.com/nicobleiler/php-passphrase</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端]]></title>
     <published>2026-03-09T16:00:00+00:00</published>
     <updated>2026-03-09T16:00:00+00:00</updated>
