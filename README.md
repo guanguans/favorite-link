@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### March 11, 2026 
-- [JetBrains/junie: JetBrains推出的AI编码代理，可通过终端、IDE或CI/CD流水线部署代码——由你选择的任何大语言模型提供支持。](https://github.com/JetBrains/junie) 
+- [JetBrains/junie: JetBrains 推出的 AI 编码代理，可通过终端、IDE 或 CI/CD 流水线部署代码——由你选择的任何大语言模型提供支持。](https://github.com/JetBrains/junie) 
 ### March 10, 2026 
 - [geek-fun/dockit: 适用于 Mac、windows 和 linux 的 ElasticSearch、OpenSearch 和 DynamoDB NoSQL GUI 客户端](https://github.com/geek-fun/dockit) 
 - [EthanLipnik/Loom: 适用于苹果设备的简单对等网络](https://github.com/EthanLipnik/Loom) 
