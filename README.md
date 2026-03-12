@@ -12,7 +12,7 @@
 
 
 ### March 12, 2026 
-- [ValueCell-ai/ClawX: ClawX是一款桌面应用程序，为OpenClaw AI代理提供图形界面。它将基于命令行的AI编排转变为无需终端操作的桌面体验。](https://github.com/ValueCell-ai/ClawX) 
+- [ValueCell-ai/ClawX: ClawX 是一款桌面应用程序，为 OpenClaw AI 代理提供图形界面。它将基于命令行的 AI 编排转变为无需终端操作的桌面体验。](https://github.com/ValueCell-ai/ClawX) 
 ### March 11, 2026 
 - [JetBrains/junie: JetBrains 推出的 AI 编码代理，可通过终端、IDE 或 CI/CD 流水线部署代码——由你选择的任何大语言模型提供支持。](https://github.com/JetBrains/junie) 
 - [nicobleiler/php-passphrase: 带有 Laravel 集成的密码短语生成器，灵感来自 Bitwarden。默认使用 EFF 长词列表，并支持自定义词列表。](https://github.com/nicobleiler/php-passphrase) 
