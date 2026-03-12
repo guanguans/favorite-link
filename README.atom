@@ -30,6 +30,38 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[phpmlkit/ndarray: 由 Rust 提供支持的高性能 N 维数组，适用于 PHP]]></title>
+    <published>2026-03-11T08:00:00+00:00</published>
+    <updated>2026-03-11T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/phpmlkit/ndarray"/>
+    <id>https://github.com/phpmlkit/ndarray</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/phpmlkit/ndarray" target="_blank">phpmlkit/ndarray: 由 Rust 提供支持的高性能 N 维数组，适用于 PHP</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/phpmlkit/ndarray" target="_blank">https://github.com/phpmlkit/ndarray</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[vaspike/MacEasySymbol: 在 macOS 中文输入时使用英文标点。]]></title>
+    <published>2026-03-11T00:00:00+00:00</published>
+    <updated>2026-03-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/vaspike/MacEasySymbol"/>
+    <id>https://github.com/vaspike/MacEasySymbol</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/vaspike/MacEasySymbol" target="_blank">vaspike/MacEasySymbol: 在 macOS 中文输入时使用英文标点。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/vaspike/MacEasySymbol" target="_blank">https://github.com/vaspike/MacEasySymbol</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[JetBrains/junie: JetBrains 推出的 AI 编码代理，可通过终端、IDE 或 CI/CD 流水线部署代码——由你选择的任何大语言模型提供支持。]]></title>
     <published>2026-03-10T16:00:00+00:00</published>
     <updated>2026-03-10T16:00:00+00:00</updated>
