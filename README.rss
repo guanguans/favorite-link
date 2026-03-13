@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 11 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 12 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>antfu-collective/ni: 使用正确的软件包管理器</title>
+      <pubDate>Thu, 12 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/antfu-collective/ni</link>
+      <guid>https://github.com/antfu-collective/ni</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/antfu-collective/ni" target="_blank">antfu-collective/ni: 使用正确的软件包管理器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/antfu-collective/ni" target="_blank">https://github.com/antfu-collective/ni</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。</title>
+      <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/alibaba/page-agent</link>
+      <guid>https://github.com/alibaba/page-agent</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/alibaba/page-agent" target="_blank">alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/alibaba/page-agent" target="_blank">https://github.com/alibaba/page-agent</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.</title>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/alibaba/page-agent</link>
+      <guid>https://github.com/alibaba/page-agent</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/alibaba/page-agent" target="_blank">alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/alibaba/page-agent" target="_blank">https://github.com/alibaba/page-agent</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>ValueCell-ai/ClawX: ClawX 是一款桌面应用程序，为 OpenClaw AI 代理提供图形界面。它将基于命令行的 AI 编排转变为无需终端操作的桌面体验。</title>
       <pubDate>Wed, 11 Mar 2026 16:00:00 +0000</pubDate>
