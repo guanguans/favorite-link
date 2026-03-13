@@ -16,6 +16,7 @@
 - [antfu-collective/ni: 使用正确的软件包管理器](https://github.com/antfu-collective/ni) 
 - [alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。](https://github.com/alibaba/page-agent) 
 - [alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.](https://github.com/alibaba/page-agent) 
+- [kepano/defuddle: 以 Markdown 格式获取任何页面的主要内容。](https://github.com/kepano/defuddle) 
 ### March 12, 2026 
 - [ValueCell-ai/ClawX: ClawX 是一款桌面应用程序，为 OpenClaw AI 代理提供图形界面。它将基于命令行的 AI 编排转变为无需终端操作的桌面体验。](https://github.com/ValueCell-ai/ClawX) 
 - [phpmlkit/ndarray: 由 Rust 提供支持的高性能 N 维数组，适用于 PHP](https://github.com/phpmlkit/ndarray) 
