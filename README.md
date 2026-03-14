@@ -16,6 +16,7 @@
 ### March 14, 2026 
 - [pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger) 
 - [yuzeguitarist/Deck: 一款现代化、原生、注重隐私的 macOS 剪贴板管理器。](https://github.com/yuzeguitarist/Deck) 
+- [yuzeguitarist/Orbit: 一个以手势为主的径向应用切换器和文件中心，适用于 macOS。](https://github.com/yuzeguitarist/Orbit) 
 ### March 13, 2026 
 - [antfu-collective/ni: 使用正确的软件包管理器](https://github.com/antfu-collective/ni) 
 - [alibaba/page-agent: JavaScript 页面内 GUI 代理。用自然语言控制网页界面。](https://github.com/alibaba/page-agent) 
