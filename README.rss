@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 12 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 13 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)</title>
+      <pubDate>Fri, 13 Mar 2026 16:00:00 +0000</pubDate>
+      <link>从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger</link>
+      <guid isPermaLink="false">从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger</guid>
+      <content:encoded><![CDATA[<a href="从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger" target="_blank">pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger" target="_blank">从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>antfu-collective/ni: 使用正确的软件包管理器</title>
       <pubDate>Thu, 12 Mar 2026 16:00:00 +0000</pubDate>
