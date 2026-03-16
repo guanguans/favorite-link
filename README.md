@@ -12,6 +12,7 @@
 
 ### March 16, 2026 
 - [RightCapitalHQ/php-ast-viewer: PHP AST 查看器是一款用于查看 PHP 代码抽象语法树的工具。通过可视化代码结构，帮助开发者更深入地理解代码，从而提升代码质量和维护效率。](https://github.com/RightCapitalHQ/php-ast-viewer) 
+- [Eljakani/ward: 为 Laravel 构建的安全扫描器，能够检测错误配置、漏洞和泄露的机密信息，并配备美观的终端用户界面。](https://github.com/Eljakani/ward) 
 ### March 14, 2026 
 - [pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger) 
 - [yuzeguitarist/Deck: 一款现代化、原生、注重隐私的 macOS 剪贴板管理器。](https://github.com/yuzeguitarist/Deck) 
