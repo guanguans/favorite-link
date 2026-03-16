@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /**
- * Copyright (c) 2018-2025 guanguans<ityaozm@gmail.com>
+ * Copyright (c) 2018-2026 guanguans<ityaozm@gmail.com>
  *
  * For the full copyright and license information, please view
  * the LICENSE file that was distributed with this source code.
@@ -25,7 +25,6 @@ abstract class TestCase extends BaseTestCase
     /**
      * This method is called before each test.
      */
-    #[\Override]
     protected function setUp(): void
     {
         parent::setUp();
@@ -36,7 +35,6 @@ abstract class TestCase extends BaseTestCase
     /**
      * This method is called after each test.
      */
-    #[\Override]
     protected function tearDown(): void
     {
         $this->finish();

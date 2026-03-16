@@ -26,22 +26,22 @@
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^13.0",
         "illuminate/validation": "^12.0",
-        "laminas/laminas-feed": "^2.25",
+        "laminas/laminas-feed": "^2.26",
         "laravel-zero/framework": "^12.0"
     },
     "require-dev": {
-        "bamarni/composer-bin-plugin": "^1.8",
-        "ergebnis/composer-normalize": "^2.48",
+        "bamarni/composer-bin-plugin": "^1.9",
+        "ergebnis/composer-normalize": "^2.50",
         "ergebnis/license": "^2.7",
         "ergebnis/php-cs-fixer-config": "dev-main",
         "fakerphp/faker": "^1.24",
         "guanguans/ai-commit": "dev-main",
         "ion-bazan/composer-diff": "^1.13",
         "mockery/mockery": "^1.6",
-        "pestphp/pest": "^4.1",
+        "pestphp/pest": "^4.4",
         "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.1",
-        "rector/rector": "^2.2"
+        "rector/rector": "^2.3"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
