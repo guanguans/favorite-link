@@ -14,6 +14,7 @@
 ### March 18, 2026 
 - [webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。](https://github.com/webadderall/Recordly) 
 - [red-explosion/laravel-sqids: 为您的 Laravel 模型轻松生成 Stripe/YouTube 外观 ID。](https://github.com/red-explosion/laravel-sqids) 
+- [jiulingyun/openclaw-cn: 中文社区版OpenClaw，同原版保持定期更新，已内置钉钉、企业微信、飞书、QQ以及国内网络环境优化。你的专属个人AI助手。支持所有操作系统和平台。🦞](https://github.com/jiulingyun/openclaw-cn) 
 ### March 16, 2026 
 - [RightCapitalHQ/php-ast-viewer: PHP AST 查看器是一款用于查看 PHP 代码抽象语法树的工具。通过可视化代码结构，帮助开发者更深入地理解代码，从而提升代码质量和维护效率。](https://github.com/RightCapitalHQ/php-ast-viewer) 
 - [Eljakani/ward: 为 Laravel 构建的安全扫描器，能够检测错误配置、漏洞和泄露的机密信息，并配备美观的终端用户界面。](https://github.com/Eljakani/ward) 
