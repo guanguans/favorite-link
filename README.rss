@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 15 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。</title>
+      <pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/webadderall/Recordly</link>
+      <guid>https://github.com/webadderall/Recordly</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/webadderall/Recordly" target="_blank">webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/webadderall/Recordly" target="_blank">https://github.com/webadderall/Recordly</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>RightCapitalHQ/php-ast-viewer: PHP AST 查看器是一款用于查看 PHP 代码抽象语法树的工具。通过可视化代码结构，帮助开发者更深入地理解代码，从而提升代码质量和维护效率。</title>
       <pubDate>Sun, 15 Mar 2026 16:00:00 +0000</pubDate>
