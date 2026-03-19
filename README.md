@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### March 19, 2026 
+- [Emanuele-web04/remodex: Codex 的远程控制。 24/7 版本即将推出](https://github.com/Emanuele-web04/remodex) 
 ### March 18, 2026 
 - [webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。](https://github.com/webadderall/Recordly) 
 - [red-explosion/laravel-sqids: 为您的 Laravel 模型轻松生成 Stripe/YouTube 外观 ID。](https://github.com/red-explosion/laravel-sqids) 
