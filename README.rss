@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出</title>
+      <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/Emanuele-web04/remodex</link>
+      <guid>https://github.com/Emanuele-web04/remodex</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Emanuele-web04/remodex" target="_blank">Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Emanuele-web04/remodex" target="_blank">https://github.com/Emanuele-web04/remodex</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。</title>
+      <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+      <link>Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect</link>
+      <guid isPermaLink="false">Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect</guid>
+      <content:encoded><![CDATA[<a href="Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect" target="_blank">chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect" target="_blank">Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。</title>
       <pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
