@@ -15,6 +15,7 @@
 ### March 19, 2026 
 - [Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出](https://github.com/Emanuele-web04/remodex) 
 - [chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect) 
+- [hosmelq/laravel-pulse-schedule: 列出所有计划任务的 Laravel Pulse 卡。](https://github.com/hosmelq/laravel-pulse-schedule) 
 ### March 18, 2026 
 - [webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。](https://github.com/webadderall/Recordly) 
 - [red-explosion/laravel-sqids: 为您的 Laravel 模型轻松生成 Stripe/YouTube 外观 ID。](https://github.com/red-explosion/laravel-sqids) 
