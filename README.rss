@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 19 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Bitkoala/KoalaSnap: 纯粹的谷歌浏览器截图插件，支持三种截图模式</title>
+      <pubDate>Thu, 19 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/Bitkoala/KoalaSnap</link>
+      <guid>https://github.com/Bitkoala/KoalaSnap</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Bitkoala/KoalaSnap" target="_blank">Bitkoala/KoalaSnap: 纯粹的谷歌浏览器截图插件，支持三种截图模式</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Bitkoala/KoalaSnap" target="_blank">https://github.com/Bitkoala/KoalaSnap</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>saihgupr/DMGMaker: 一款高级的 macOS DMG 创建工具，支持实时渲染的 SwiftUI 背景、玻璃质感和 Retina 显示屏。</title>
+      <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/saihgupr/DMGMaker</link>
+      <guid>https://github.com/saihgupr/DMGMaker</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/saihgupr/DMGMaker" target="_blank">saihgupr/DMGMaker: 一款高级的 macOS DMG 创建工具，支持实时渲染的 SwiftUI 背景、玻璃质感和 Retina 显示屏。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/saihgupr/DMGMaker" target="_blank">https://github.com/saihgupr/DMGMaker</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出</title>
       <pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
