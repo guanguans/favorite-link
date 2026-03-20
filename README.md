@@ -12,6 +12,9 @@
 
 
 
+
+### March 20, 2026 
+- [Bitkoala/KoalaSnap: 纯粹的谷歌浏览器截图插件，支持三种截图模式](https://github.com/Bitkoala/KoalaSnap) 
 ### March 19, 2026 
 - [Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出](https://github.com/Emanuele-web04/remodex) 
 - [chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect) 
