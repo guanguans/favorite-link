@@ -16,6 +16,7 @@
 
 ### March 22, 2026 
 - [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) 
+- [blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用](https://github.com/blitzdotdev/blitz-mac) 
 ### March 20, 2026 
 - [Bitkoala/KoalaSnap: 纯粹的谷歌浏览器截图插件，支持三种截图模式](https://github.com/Bitkoala/KoalaSnap) 
 - [saihgupr/DMGMaker: 一款高级的 macOS DMG 创建工具，支持实时渲染的 SwiftUI 背景、玻璃质感和 Retina 显示屏。](https://github.com/saihgupr/DMGMaker) 
