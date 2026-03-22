@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 19 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 21 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。</title>
+      <pubDate>Sat, 21 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/naxiaoduo/1000UserGuide</link>
+      <guid>https://github.com/naxiaoduo/1000UserGuide</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/naxiaoduo/1000UserGuide" target="_blank">naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/naxiaoduo/1000UserGuide" target="_blank">https://github.com/naxiaoduo/1000UserGuide</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用</title>
+      <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/blitzdotdev/blitz-mac</link>
+      <guid>https://github.com/blitzdotdev/blitz-mac</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/blitzdotdev/blitz-mac" target="_blank">blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/blitzdotdev/blitz-mac" target="_blank">https://github.com/blitzdotdev/blitz-mac</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Bitkoala/KoalaSnap: 纯粹的谷歌浏览器截图插件，支持三种截图模式</title>
       <pubDate>Thu, 19 Mar 2026 16:00:00 +0000</pubDate>
