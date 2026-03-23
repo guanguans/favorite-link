@@ -13,6 +13,7 @@
 
 ### March 23, 2026 
 - [cddqssc/Caption-Trans: 使用 AI 大模型翻译视频字幕。](https://github.com/cddqssc/Caption-Trans) 
+- [chdsbd/kodiak: 🔮 一个自动更新和合并 GitHub PR 的机器人](https://github.com/chdsbd/kodiak) 
 ### March 22, 2026 
 - [naxiaoduo/1000UserGuide: 1000UserGuide：对独立开发者和创业者来说，找到前 1000 个早期用户太关键了。这里精心整理了 300 多个国内外渠道，适合独立开发者和创业者推广产品的渠道。](https://github.com/naxiaoduo/1000UserGuide) 
 - [blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用](https://github.com/blitzdotdev/blitz-mac) 
