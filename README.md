@@ -17,6 +17,7 @@
 - [raskrebs/sonar: 用于检查和管理监听本地主机端口服务的 CLI 工具](https://github.com/raskrebs/sonar) 
 - [ezimuel/PHPVector: 一个纯PHP实现的向量数据库，采用HNSW（分层可导航小世界）进行近似最近邻搜索，并使用BM25进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector) 
 - [rudrankriyam/App-Store-Connect-CLI: 快速、可脚本化的命令行工具，用于 App Store Connect API。自动化 TestFlight、构建、提交、签名、分析、截图、订阅等操作。以 JSON 为核心，无需交互式提示。](https://github.com/rudrankriyam/App-Store-Connect-CLI) 
+- [tiajinsha/JKVideo: 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS ](https://github.com/tiajinsha/JKVideo) 
 ### March 23, 2026 
 - [cddqssc/Caption-Trans: 使用 AI 大模型翻译视频字幕。](https://github.com/cddqssc/Caption-Trans) 
 - [chdsbd/kodiak: 🔮 一个自动更新和合并 GitHub PR 的机器人](https://github.com/chdsbd/kodiak) 
