@@ -100,6 +100,23 @@ TestFlight、构建、提交、签名、分析、截图、订阅等操作。以 
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[tw93/Kaku: 🎃 一个为 AI 编程打造的快速即用型终端。]]></title>
+    <published>2026-03-22T00:00:00+00:00</published>
+    <updated>2026-03-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tw93/Kaku"/>
+    <id>https://github.com/tw93/Kaku</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/tw93/Kaku" target="_blank">tw93/Kaku: 🎃
+一个为 AI 编程打造的快速即用型终端。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/tw93/Kaku" target="_blank">https://github.com/tw93/Kaku</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[cddqssc/Caption-Trans: 使用 AI 大模型翻译视频字幕。]]></title>
     <published>2026-03-22T16:00:00+00:00</published>
     <updated>2026-03-22T16:00:00+00:00</updated>
