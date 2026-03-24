@@ -14,6 +14,7 @@
 
 ### March 24, 2026 
 - [abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。](https://github.com/abhigyanpatwari/GitNexus) 
+- [raskrebs/sonar: 用于检查和管理监听本地主机端口服务的CLI工具](https://github.com/raskrebs/sonar) 
 ### March 23, 2026 
 - [cddqssc/Caption-Trans: 使用 AI 大模型翻译视频字幕。](https://github.com/cddqssc/Caption-Trans) 
 - [chdsbd/kodiak: 🔮 一个自动更新和合并 GitHub PR 的机器人](https://github.com/chdsbd/kodiak) 
