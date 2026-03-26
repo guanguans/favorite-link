@@ -14,7 +14,7 @@
 
 
 ### March 26, 2026 
-- [ryanstephen/lil-agents: 生活在macOS程序坞上的微小人工智能伴侣](https://github.com/ryanstephen/lil-agents) 
+- [ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣](https://github.com/ryanstephen/lil-agents) 
 ### March 24, 2026 
 - [abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。](https://github.com/abhigyanpatwari/GitNexus) 
 - [raskrebs/sonar: 用于检查和管理监听本地主机端口服务的 CLI 工具](https://github.com/raskrebs/sonar) 

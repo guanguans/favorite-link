@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 23 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 25 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣</title>
+      <pubDate>Wed, 25 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/ryanstephen/lil-agents</link>
+      <guid>https://github.com/ryanstephen/lil-agents</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ryanstephen/lil-agents" target="_blank">ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ryanstephen/lil-agents" target="_blank">https://github.com/ryanstephen/lil-agents</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。</title>
       <pubDate>Mon, 23 Mar 2026 16:00:00 +0000</pubDate>
