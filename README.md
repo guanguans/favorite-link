@@ -16,6 +16,7 @@
 ### March 26, 2026 
 - [ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣](https://github.com/ryanstephen/lil-agents) 
 - [devgianlu/Aria2App: Aria2App 是一个基于 aria2 的高级下载管理器，也可以处理远程服务器。](https://github.com/devgianlu/Aria2App) 
+- [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS 、webdav、Subsonic、Navidrom、GD音乐台、audiobookshelf、道理鱼、飞牛影视和IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry) 
 ### March 24, 2026 
 - [abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。](https://github.com/abhigyanpatwari/GitNexus) 
 - [raskrebs/sonar: 用于检查和管理监听本地主机端口服务的 CLI 工具](https://github.com/raskrebs/sonar) 
