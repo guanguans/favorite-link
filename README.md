@@ -10,10 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### March 27, 2026 
 - [FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。](https://github.com/FireRedTeam/FireRed-OpenStoryline) 
 - [AJenbo/phpantom_lsp: 快速的 PHP 语言服务器，具备深度类型智能。支持泛型、Laravel、PHPStan 注解。瞬间即可使用。](https://github.com/AJenbo/phpantom_lsp) 

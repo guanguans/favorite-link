@@ -3,12 +3,51 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 25 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 26 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。</title>
+      <pubDate>Thu, 26 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/FireRedTeam/FireRed-OpenStoryline</link>
+      <guid>https://github.com/FireRedTeam/FireRed-OpenStoryline</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/FireRedTeam/FireRed-OpenStoryline" target="_blank">FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/FireRedTeam/FireRed-OpenStoryline" target="_blank">https://github.com/FireRedTeam/FireRed-OpenStoryline</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>AJenbo/phpantom_lsp: 快速的 PHP 语言服务器，具备深度类型智能。支持泛型、Laravel、PHPStan 注解。瞬间即可使用。</title>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/AJenbo/phpantom_lsp</link>
+      <guid>https://github.com/AJenbo/phpantom_lsp</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/AJenbo/phpantom_lsp" target="_blank">AJenbo/phpantom_lsp: 快速的 PHP 语言服务器，具备深度类型智能。支持泛型、Laravel、PHPStan 注解。瞬间即可使用。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/AJenbo/phpantom_lsp" target="_blank">https://github.com/AJenbo/phpantom_lsp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>visualdiffer/visualdiffer: 专为视觉比较文件夹和文件而设计的 macOS 应用程序</title>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/visualdiffer/visualdiffer</link>
+      <guid>https://github.com/visualdiffer/visualdiffer</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/visualdiffer/visualdiffer" target="_blank">visualdiffer/visualdiffer: 专为视觉比较文件夹和文件而设计的 macOS 应用程序</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/visualdiffer/visualdiffer" target="_blank">https://github.com/visualdiffer/visualdiffer</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣</title>
       <pubDate>Wed, 25 Mar 2026 16:00:00 +0000</pubDate>
