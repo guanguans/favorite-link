@@ -14,6 +14,7 @@
 - [FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。](https://github.com/FireRedTeam/FireRed-OpenStoryline) 
 - [AJenbo/phpantom_lsp: 快速的 PHP 语言服务器，具备深度类型智能。支持泛型、Laravel、PHPStan 注解。瞬间即可使用。](https://github.com/AJenbo/phpantom_lsp) 
 - [visualdiffer/visualdiffer: 专为视觉比较文件夹和文件而设计的 macOS 应用程序](https://github.com/visualdiffer/visualdiffer) 
+- [visualdiffer/visualdiffer: 旨在直观比较文件夹和文件的 macOS 应用程序](https://github.com/visualdiffer/visualdiffer) 
 ### March 26, 2026 
 - [ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣](https://github.com/ryanstephen/lil-agents) 
 - [devgianlu/Aria2App: Aria2App 是一个基于 aria2 的高级下载管理器，也可以处理远程服务器。](https://github.com/devgianlu/Aria2App) 
