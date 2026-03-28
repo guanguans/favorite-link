@@ -30,6 +30,22 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏]]></title>
+    <published>2026-03-27T08:00:00+00:00</published>
+    <updated>2026-03-27T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/GromNaN/symfony-tui-games"/>
+    <id>https://github.com/GromNaN/symfony-tui-games</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/GromNaN/symfony-tui-games" target="_blank">GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/GromNaN/symfony-tui-games" target="_blank">https://github.com/GromNaN/symfony-tui-games</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。]]></title>
     <published>2026-03-26T16:00:00+00:00</published>
     <updated>2026-03-26T16:00:00+00:00</updated>
