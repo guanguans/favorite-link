@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-03-26T16:00:00+00:00</updated>
+  <updated>2026-03-27T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。]]></title>
+    <published>2026-03-27T16:00:00+00:00</published>
+    <updated>2026-03-27T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/spatie/scotty"/>
+    <id>https://github.com/spatie/scotty</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/spatie/scotty" target="_blank">spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy
+的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/spatie/scotty" target="_blank">https://github.com/spatie/scotty</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。]]></title>
     <published>2026-03-26T16:00:00+00:00</published>

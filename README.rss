@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 26 Mar 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 27 Mar 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。</title>
+      <pubDate>Fri, 27 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/spatie/scotty</link>
+      <guid>https://github.com/spatie/scotty</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/spatie/scotty" target="_blank">spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/spatie/scotty" target="_blank">https://github.com/spatie/scotty</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>FireRedTeam/FireRed-OpenStoryline: FireRed-OpenStoryline 是一款 AI 视频编辑代理，通过自然语言交互、LLM 驱动的规划和精准的工具协调，将手动编辑转变为意图驱动的导演。</title>
       <pubDate>Thu, 26 Mar 2026 16:00:00 +0000</pubDate>
