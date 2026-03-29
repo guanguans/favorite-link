@@ -19,6 +19,7 @@
 - [lifedever/PasteMemo: 适用于 macOS 的智能剪贴板管理器](https://github.com/lifedever/PasteMemo) 
 - [openilink/openilink-hub: 微信 ClawBot iLink 协议的开源消息管理平台 + App 应用市场](https://github.com/openilink/openilink-hub) 
 - [Hazel-Lin/github-trending-radar: 它获取热门仓库，根据实用开发者画像进行评分，用中文生成推荐理由和行动建议，并通过 SMTP 发送摘要。](https://github.com/Hazel-Lin/github-trending-radar) 
+- [joshembling/artisan-browse: 🔎 Artisan Browse 提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。](https://github.com/joshembling/artisan-browse) 
 ### March 28, 2026 
 - [spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。](https://github.com/spatie/scotty) 
 - [GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏](https://github.com/GromNaN/symfony-tui-games) 
