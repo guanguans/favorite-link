@@ -17,6 +17,7 @@
 - [manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能](https://github.com/manaflow-ai/cmux) 
 - [HMAKT99/UnTouchID: 使用您的手机指纹在任何 Mac 上进行身份验证——sudo、屏幕保护程序、App Store。无需 $199 的 Magic Keyboard。支持 iPhone、Android、Apple Watch、Wear OS 或任何浏览器。兼容 MacBook Neo。](https://github.com/HMAKT99/UnTouchID) 
 - [lifedever/PasteMemo: 适用于 macOS 的智能剪贴板管理器](https://github.com/lifedever/PasteMemo) 
+- [openilink/openilink-hub: 微信 ClawBot iLink 协议的开源消息管理平台 + App 应用市场](https://github.com/openilink/openilink-hub) 
 ### March 28, 2026 
 - [spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。](https://github.com/spatie/scotty) 
 - [GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏](https://github.com/GromNaN/symfony-tui-games) 
