@@ -101,6 +101,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>zappzerapp/laravel-ingest: 一个强大的、配置驱动的 Laravel ETL 和数据导入框架。支持 CSV/Excel 流式处理、队列、验证和关系管理。</title>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/zappzerapp/laravel-ingest</link>
+      <guid>https://github.com/zappzerapp/laravel-ingest</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/zappzerapp/laravel-ingest" target="_blank">zappzerapp/laravel-ingest: 一个强大的、配置驱动的 Laravel ETL 和数据导入框架。支持 CSV/Excel 流式处理、队列、验证和关系管理。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/zappzerapp/laravel-ingest" target="_blank">https://github.com/zappzerapp/laravel-ingest</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。</title>
       <pubDate>Fri, 27 Mar 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/spatie/scotty</link>
