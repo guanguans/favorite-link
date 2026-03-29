@@ -88,6 +88,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>joshembling/artisan-browse: 🔎 Artisan Browse 提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。</title>
+      <pubDate>Thu, 26 Mar 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/joshembling/artisan-browse</link>
+      <guid>https://github.com/joshembling/artisan-browse</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/joshembling/artisan-browse" target="_blank">joshembling/artisan-browse: 🔎 Artisan Browse 提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/joshembling/artisan-browse" target="_blank">https://github.com/joshembling/artisan-browse</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。</title>
       <pubDate>Fri, 27 Mar 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/spatie/scotty</link>

@@ -116,6 +116,23 @@ App 应用市场</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[joshembling/artisan-browse: 🔎 Artisan Browse 提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。]]></title>
+    <published>2026-03-26T16:00:00+00:00</published>
+    <updated>2026-03-26T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/joshembling/artisan-browse"/>
+    <id>https://github.com/joshembling/artisan-browse</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/joshembling/artisan-browse" target="_blank">joshembling/artisan-browse: 🔎 Artisan Browse
+提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/joshembling/artisan-browse" target="_blank">https://github.com/joshembling/artisan-browse</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。]]></title>
     <published>2026-03-27T16:00:00+00:00</published>
     <updated>2026-03-27T16:00:00+00:00</updated>
