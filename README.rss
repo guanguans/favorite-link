@@ -75,6 +75,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>Hazel-Lin/github-trending-radar: 它获取热门仓库，根据实用开发者画像进行评分，用中文生成推荐理由和行动建议，并通过 SMTP 发送摘要。</title>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/Hazel-Lin/github-trending-radar</link>
+      <guid>https://github.com/Hazel-Lin/github-trending-radar</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Hazel-Lin/github-trending-radar" target="_blank">Hazel-Lin/github-trending-radar: 它获取热门仓库，根据实用开发者画像进行评分，用中文生成推荐理由和行动建议，并通过 SMTP 发送摘要。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Hazel-Lin/github-trending-radar" target="_blank">https://github.com/Hazel-Lin/github-trending-radar</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。</title>
       <pubDate>Fri, 27 Mar 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/spatie/scotty</link>
