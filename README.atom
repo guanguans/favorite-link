@@ -31,6 +31,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能]]></title>
+    <published>2026-03-28T08:00:00+00:00</published>
+    <updated>2026-03-28T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/manaflow-ai/cmux"/>
+    <id>https://github.com/manaflow-ai/cmux</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/manaflow-ai/cmux" target="_blank">manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI
+编码代理的通知功能</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/manaflow-ai/cmux" target="_blank">https://github.com/manaflow-ai/cmux</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。]]></title>
     <published>2026-03-27T16:00:00+00:00</published>
     <updated>2026-03-27T16:00:00+00:00</updated>

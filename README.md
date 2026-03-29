@@ -14,7 +14,7 @@
 
 ### March 29, 2026 
 - [larksuite/cli: 一个为 Lark/飞书开放平台打造的命令行工具——专为人类和 AI 代理设计。涵盖包括消息、文档、Base、表格、日历、邮件、任务、会议等核心业务领域，拥有 200 多个命令和 19 项 AI 代理技能。](https://github.com/larksuite/cli) 
-- [manaflow-ai/cmux: 基于Ghostty的macOS终端，支持垂直选项卡和AI编码代理的通知功能](https://github.com/manaflow-ai/cmux) 
+- [manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能](https://github.com/manaflow-ai/cmux) 
 ### March 28, 2026 
 - [spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。](https://github.com/spatie/scotty) 
 - [GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏](https://github.com/GromNaN/symfony-tui-games) 
