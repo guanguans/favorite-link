@@ -21,6 +21,7 @@
 - [Hazel-Lin/github-trending-radar: 它获取热门仓库，根据实用开发者画像进行评分，用中文生成推荐理由和行动建议，并通过 SMTP 发送摘要。](https://github.com/Hazel-Lin/github-trending-radar) 
 - [joshembling/artisan-browse: 🔎 Artisan Browse 提供一个交互式终端界面，用于发现、搜索和执行所有 Laravel Artisan 命令。](https://github.com/joshembling/artisan-browse) 
 - [zappzerapp/laravel-ingest: 一个强大的、配置驱动的 Laravel ETL 和数据导入框架。支持 CSV/Excel 流式处理、队列、验证和关系管理。](https://github.com/zappzerapp/laravel-ingest) 
+- [algoyounes/circuit-breaker: Circuit Breaker 是一个 Laravel 包，提供了一种简单高效的方式来管理服务调用并防止级联故障。它允许你为关键的断路器状态定义自定义回调，并使用断路器逻辑运行操作。](https://github.com/algoyounes/circuit-breaker) 
 ### March 28, 2026 
 - [spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。](https://github.com/spatie/scotty) 
 - [GromNaN/symfony-tui-games：使用 Symfony TUI 组件构建的终端游戏](https://github.com/GromNaN/symfony-tui-games) 
