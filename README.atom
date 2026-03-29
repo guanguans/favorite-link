@@ -66,6 +66,22 @@ iPhone、Android、Apple Watch、Wear OS 或任何浏览器。兼容 MacBook Neo
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[lifedever/PasteMemo: 适用于 macOS 的智能剪贴板管理器]]></title>
+    <published>2026-03-27T16:00:00+00:00</published>
+    <updated>2026-03-27T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/lifedever/PasteMemo"/>
+    <id>https://github.com/lifedever/PasteMemo</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/lifedever/PasteMemo" target="_blank">lifedever/PasteMemo: 适用于 macOS 的智能剪贴板管理器</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/lifedever/PasteMemo" target="_blank">https://github.com/lifedever/PasteMemo</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。]]></title>
     <published>2026-03-27T16:00:00+00:00</published>
     <updated>2026-03-27T16:00:00+00:00</updated>
