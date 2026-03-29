@@ -48,6 +48,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[HMAKT99/UnTouchID: 使用您的手机指纹在任何 Mac 上进行身份验证——sudo、屏幕保护程序、App Store。无需 $199 的 Magic Keyboard。支持 iPhone、Android、Apple Watch、Wear OS 或任何浏览器。兼容 MacBook Neo。]]></title>
+    <published>2026-03-28T00:00:00+00:00</published>
+    <updated>2026-03-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/HMAKT99/UnTouchID"/>
+    <id>https://github.com/HMAKT99/UnTouchID</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/HMAKT99/UnTouchID" target="_blank">HMAKT99/UnTouchID: 使用您的手机指纹在任何 Mac
+上进行身份验证——sudo、屏幕保护程序、App Store。无需 $199 的 Magic Keyboard。支持
+iPhone、Android、Apple Watch、Wear OS 或任何浏览器。兼容 MacBook Neo。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/HMAKT99/UnTouchID" target="_blank">https://github.com/HMAKT99/UnTouchID</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[spatie/scotty: Scotty 将您的部署脚本传送到远程服务器。这是对 Laravel Envoy 的全新诠释，从头开始构建，拥有更好的输出、新的 bash 文件格式，以及暂停/恢复支持。]]></title>
     <published>2026-03-27T16:00:00+00:00</published>
     <updated>2026-03-27T16:00:00+00:00</updated>
