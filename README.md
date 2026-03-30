@@ -12,6 +12,9 @@
 
 
 
+
+### March 30, 2026 
+- [WecomTeam/wecom-cli: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信](https://github.com/WecomTeam/wecom-cli) 
 ### March 29, 2026 
 - [larksuite/cli: 一个为 Lark/飞书开放平台打造的命令行工具——专为人类和 AI 代理设计。涵盖包括消息、文档、Base、表格、日历、邮件、任务、会议等核心业务领域，拥有 200 多个命令和 19 项 AI 代理技能。](https://github.com/larksuite/cli) 
 - [manaflow-ai/cmux: 基于 Ghostty 的 macOS 终端，支持垂直选项卡和 AI 编码代理的通知功能](https://github.com/manaflow-ai/cmux) 
