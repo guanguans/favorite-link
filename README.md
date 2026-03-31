@@ -13,6 +13,9 @@
 
 
 
+
+### March 31, 2026 
+- [electrikmilk/cherri: Siri快捷指令编程语言🍒](https://github.com/electrikmilk/cherri) 
 ### March 30, 2026 
 - [WecomTeam/wecom-cli: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信](https://github.com/WecomTeam/wecom-cli) 
 ### March 29, 2026 
