@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### March 31, 2026 
-- [electrikmilk/cherri: Siri快捷指令编程语言🍒](https://github.com/electrikmilk/cherri) 
+- [electrikmilk/cherri: Siri 快捷指令编程语言 🍒](https://github.com/electrikmilk/cherri) 
 ### March 30, 2026 
 - [WecomTeam/wecom-cli: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信](https://github.com/WecomTeam/wecom-cli) 
 ### March 29, 2026 
