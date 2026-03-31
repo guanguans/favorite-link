@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git 客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git 集成，并进行了一些额外的界面调整。</title>
+      <pubDate>Mon, 30 Mar 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/DetachHead/rebased</link>
+      <guid>https://github.com/DetachHead/rebased</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/DetachHead/rebased" target="_blank">DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git 客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git 集成，并进行了一些额外的界面调整。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/DetachHead/rebased" target="_blank">https://github.com/DetachHead/rebased</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>WecomTeam/wecom-cli: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信</title>
       <pubDate>Sun, 29 Mar 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/WecomTeam/wecom-cli</link>

@@ -29,6 +29,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git 客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git 集成，并进行了一些额外的界面调整。]]></title>
+    <published>2026-03-30T08:00:00+00:00</published>
+    <updated>2026-03-30T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/DetachHead/rebased"/>
+    <id>https://github.com/DetachHead/rebased</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/DetachHead/rebased" target="_blank">DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git
+客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git
+集成，并进行了一些额外的界面调整。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/DetachHead/rebased" target="_blank">https://github.com/DetachHead/rebased</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[WecomTeam/wecom-cli: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信]]></title>
     <published>2026-03-29T16:00:00+00:00</published>
     <updated>2026-03-29T16:00:00+00:00</updated>
