@@ -12,6 +12,7 @@
 
 ### March 31, 2026 
 - [electrikmilk/cherri: Siri 快捷指令编程语言 🍒](https://github.com/electrikmilk/cherri) 
+- [DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git 客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git 集成，并进行了一些额外的界面调整。](https://github.com/DetachHead/rebased) 
 ### March 30, 2026 
 - [WecomTeam/wecom-cli: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信](https://github.com/WecomTeam/wecom-cli) 
 ### March 29, 2026 
