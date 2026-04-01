@@ -12,7 +12,7 @@
 
 
 ### April 1, 2026 
-- [osaurus-ai/osaurus: 拥有你的AI。原生macOS AI代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用Swift开发。完全离线。开源。](https://github.com/osaurus-ai/osaurus) 
+- [osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。](https://github.com/osaurus-ai/osaurus) 
 ### March 31, 2026 
 - [electrikmilk/cherri: Siri 快捷指令编程语言 🍒](https://github.com/electrikmilk/cherri) 
 - [DetachHead/rebased: 该项目旨在成为短暂存在的 JetBrains Git 客户端的开源重制版。它基本上就是一个 JetBrains IDE，移除了所有捆绑插件，只保留了 Git 集成，并进行了一些额外的界面调整。](https://github.com/DetachHead/rebased) 
