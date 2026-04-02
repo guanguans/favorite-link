@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[openai/codex-plugin-cc: 使用 Claude Code 的 Codex 来审查代码或分配任务。]]></title>
+    <published>2026-04-01T08:00:00+00:00</published>
+    <updated>2026-04-01T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/openai/codex-plugin-cc"/>
+    <id>https://github.com/openai/codex-plugin-cc</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/openai/codex-plugin-cc" target="_blank">openai/codex-plugin-cc: 使用 Claude Code 的 Codex
+来审查代码或分配任务。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/openai/codex-plugin-cc" target="_blank">https://github.com/openai/codex-plugin-cc</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。]]></title>
     <published>2026-03-31T16:00:00+00:00</published>
     <updated>2026-03-31T16:00:00+00:00</updated>

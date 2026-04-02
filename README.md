@@ -14,7 +14,7 @@
 
 ### April 2, 2026 
 - [szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布](https://github.com/szhshp/panda-video-generator) 
-- [openai/codex-plugin-cc: 使用Claude Code的Codex来审查代码或分配任务。](https://github.com/openai/codex-plugin-cc) 
+- [openai/codex-plugin-cc: 使用 Claude Code 的 Codex 来审查代码或分配任务。](https://github.com/openai/codex-plugin-cc) 
 ### April 1, 2026 
 - [osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。](https://github.com/osaurus-ai/osaurus) 
 - [nunomaduro/pao: PAO 是针对 PHP 测试工具的代理优化输出。它适用于任何 PHP 项目--Laravel、Symfony、vanilla PHP 或其他任何使用 PHPUnit、Pest 或 Paratest 的项目。](https://github.com/nunomaduro/pao) 
