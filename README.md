@@ -15,6 +15,7 @@
 
 ### April 3, 2026 
 - [canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh) 
+- [aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在 WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel 应用程序。](https://github.com/aschmelyun/liminal) 
 ### April 2, 2026 
 - [szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布](https://github.com/szhshp/panda-video-generator) 
 - [openai/codex-plugin-cc: 使用 Claude Code 的 Codex 来审查代码或分配任务。](https://github.com/openai/codex-plugin-cc) 
