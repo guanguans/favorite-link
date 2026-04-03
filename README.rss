@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 01 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。</title>
+      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
+      <link>ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh</link>
+      <guid isPermaLink="false">ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh</guid>
+      <content:encoded><![CDATA[<a href="ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh" target="_blank">canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh" target="_blank">ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布</title>
       <pubDate>Wed, 01 Apr 2026 16:00:00 +0000</pubDate>
