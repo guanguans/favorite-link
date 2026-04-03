@@ -31,6 +31,24 @@ Shell。](https://github.com/canyonroad/agentsh</xhtml:a></xhtml:li>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在 WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel 应用程序。]]></title>
+    <published>2026-04-02T08:00:00+00:00</published>
+    <updated>2026-04-02T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/aschmelyun/liminal"/>
+    <id>https://github.com/aschmelyun/liminal</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/aschmelyun/liminal" target="_blank">aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在
+WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel
+应用程序。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/aschmelyun/liminal" target="_blank">https://github.com/aschmelyun/liminal</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布]]></title>
     <published>2026-04-01T16:00:00+00:00</published>
     <updated>2026-04-01T16:00:00+00:00</updated>
