@@ -12,7 +12,7 @@
 
 ### April 4, 2026 
 - [jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令](https://github.com/jigar-dhulla/laravel-http-to-curl) 
-- [protonemedia/laravel-xss-protection: Laravel中间件可保护您的应用免受跨站脚本攻击（XSS）。它通过使用voku/anti-xss包来清理请求输入，并且也可以清理Blade的echo语句。](https://github.com/protonemedia/laravel-xss-protection) 
+- [protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection) 
 ### April 3, 2026 
 - [canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh) 
 - [aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在 WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel 应用程序。](https://github.com/aschmelyun/liminal) 

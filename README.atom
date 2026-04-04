@@ -30,6 +30,26 @@ Curl 命令</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。]]></title>
+    <published>2026-04-03T08:00:00+00:00</published>
+    <updated>2026-04-03T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection"/>
+    <id>XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="XSS)%E3%80%82%E5%AE%83%E9%80%9A%E8%BF%87%E4%BD%BF%E7%94%A8%20voku/anti-xss%20%E5%8C%85%E6%9D%A5%E6%B8%85%E7%90%86%E8%AF%B7%E6%B1%82%E8%BE%93%E5%85%A5%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%B8%85%E7%90%86%20Blade%20%E7%9A%84%20echo%20%E8%AF%AD%E5%8F%A5%E3%80%82](https://github.com/protonemedia/laravel-xss-protection" target="_blank">protonemedia/laravel-xss-protection: Laravel
+中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade
+的 echo 语句。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="XSS)%E3%80%82%E5%AE%83%E9%80%9A%E8%BF%87%E4%BD%BF%E7%94%A8%20voku/anti-xss%20%E5%8C%85%E6%9D%A5%E6%B8%85%E7%90%86%E8%AF%B7%E6%B1%82%E8%BE%93%E5%85%A5%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%B8%85%E7%90%86%20Blade%20%E7%9A%84%20echo%20%E8%AF%AD%E5%8F%A5%E3%80%82](https://github.com/protonemedia/laravel-xss-protection" target="_blank">XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的
+echo
+语句。](https://github.com/protonemedia/laravel-xss-protection</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。]]></title>
     <published>2026-04-02T16:00:00+00:00</published>
     <updated>2026-04-02T16:00:00+00:00</updated>
