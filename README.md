@@ -13,6 +13,9 @@
 
 
 
+
+### April 4, 2026 
+- [jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令](https://github.com/jigar-dhulla/laravel-http-to-curl) 
 ### April 3, 2026 
 - [canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh) 
 - [aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在 WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel 应用程序。](https://github.com/aschmelyun/liminal) 
