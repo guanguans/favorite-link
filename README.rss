@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 03 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 04 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。</title>
+      <pubDate>Sat, 04 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/ryangjchandler/blade-parser.rs</link>
+      <guid>https://github.com/ryangjchandler/blade-parser.rs</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ryangjchandler/blade-parser.rs" target="_blank">ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ryangjchandler/blade-parser.rs" target="_blank">https://github.com/ryangjchandler/blade-parser.rs</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令</title>
       <pubDate>Fri, 03 Apr 2026 16:00:00 +0000</pubDate>
