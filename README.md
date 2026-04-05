@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 5, 2026 
+- [ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。](https://github.com/ryangjchandler/blade-parser.rs) 
 ### April 4, 2026 
 - [jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令](https://github.com/jigar-dhulla/laravel-http-to-curl) 
 - [protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection) 
