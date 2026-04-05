@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关 —— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。]]></title>
+    <published>2026-04-04T08:00:00+00:00</published>
+    <updated>2026-04-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/leemysw/token-share"/>
+    <id>https://github.com/leemysw/token-share</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/leemysw/token-share" target="_blank">leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关
+—— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/leemysw/token-share" target="_blank">https://github.com/leemysw/token-share</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令]]></title>
     <published>2026-04-03T16:00:00+00:00</published>
     <updated>2026-04-03T16:00:00+00:00</updated>
