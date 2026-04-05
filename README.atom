@@ -47,6 +47,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[tforschbach/CodexRemote: 使用你的 iPhone 作为 Mac 上本地 Codex 运行时的遥控器。]]></title>
+    <published>2026-04-04T00:00:00+00:00</published>
+    <updated>2026-04-04T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tforschbach/CodexRemote"/>
+    <id>https://github.com/tforschbach/CodexRemote</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/tforschbach/CodexRemote" target="_blank">tforschbach/CodexRemote: 使用你的 iPhone 作为 Mac 上本地 Codex
+运行时的遥控器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/tforschbach/CodexRemote" target="_blank">https://github.com/tforschbach/CodexRemote</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令]]></title>
     <published>2026-04-03T16:00:00+00:00</published>
     <updated>2026-04-03T16:00:00+00:00</updated>
