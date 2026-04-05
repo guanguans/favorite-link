@@ -13,6 +13,7 @@
 
 ### April 5, 2026 
 - [ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。](https://github.com/ryangjchandler/blade-parser.rs) 
+- [leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关 —— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。](https://github.com/leemysw/token-share) 
 ### April 4, 2026 
 - [jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令](https://github.com/jigar-dhulla/laravel-http-to-curl) 
 - [protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection) 
