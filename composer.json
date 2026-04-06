@@ -150,7 +150,6 @@
         ],
         "checks:optional": [
             "@putenv:xdebug-off",
-            "@app:fix-neon",
             "@composer:normalize-dry-run",
             "@composer:unlink",
             "@rector:process-dry-run",

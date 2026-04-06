@@ -37,10 +37,10 @@
     <env name="TELESCOPE_ENABLED" value="false"/>
   </php>
   <testsuites>
-    <!--<testsuite name="Arch">
+    <testsuite name="Arch">
       <directory>tests/Arch/</directory>
       <exclude>vendor/</exclude>
-    </testsuite>-->
+    </testsuite>
     <testsuite name="Feature">
       <directory>tests/Feature/</directory>
       <exclude>vendor/</exclude>

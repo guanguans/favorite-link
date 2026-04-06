@@ -72,7 +72,8 @@ final class FeedCommand extends Command
                     }
 
                     return $carry->add([
-                        'date' => ($date = Date::createFromTimestamp(strtotime((string) $date)))->isCurrentDay() ? now() : $date,
+                        // 'date' => ($date = Date::createFromTimestamp(strtotime((string) $date)))->isCurrentDay() ? now() : $date,
+                        'date' => ($date = Date::createFromTimestamp(Date::parse((string) $date)->getTimestamp()))->isCurrentDay() ? now() : $date,
                         'title' => $title = (string) $stringable->match('/\[.*\]/')->trim('[]'),
                         'link' => $link = (string) $stringable->match('/\(.*\)/')->trim('()'),
                         'repository_link' => $repositoryLink = self::REPOSITORY_LINK,
@@ -114,13 +115,14 @@ final class FeedCommand extends Command
             })
             ->tap(fn () => Process::run(
                 'git diff --color README.*',
-                function (string $type, string $line): void {
-                    $this->output->write($line);
-                }
+                fn (string $_, string $line): null => $this->output->write($line)
             ))
             ->tap(fn () => $this->output->success('Feed is done!'));
     }
 
+    /**
+     * @return array<string, string>
+     */
     #[\Override]
     protected function messages(): array
     {
@@ -131,6 +133,8 @@ final class FeedCommand extends Command
     }
 
     /**
+     * @return array<string, string>
+     *
      * @noinspection MethodVisibilityInspection
      */
     #[\Override]

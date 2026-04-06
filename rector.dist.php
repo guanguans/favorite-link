@@ -17,13 +17,9 @@ declare(strict_types=1);
 use Ergebnis\Rector\Rules\Expressions\Arrays\SortAssociativeArrayByKeyRector;
 use Ergebnis\Rector\Rules\Faker\GeneratorPropertyFetchToMethodCallRector;
 use Guanguans\RectorRules\Rector\File\AddNoinspectionDocblockToFileFirstStmtRector;
-use Guanguans\RectorRules\Rector\File\SortFileFirstStmtDocblockRector;
-use Guanguans\RectorRules\Rector\File\SortFileFunctionStmtRector;
-use Guanguans\RectorRules\Rector\FunctionLike\RenameGarbageParamNameRector;
 use Guanguans\RectorRules\Rector\Name\RenameToConventionalCaseNameRector;
 use Guanguans\RectorRules\Set\SetList;
 use PhpParser\NodeVisitor\ParentConnectingVisitor;
-use Rector\Carbon\Rector\FuncCall\DateFuncCallToCarbonRector;
 use Rector\CodeQuality\Rector\If_\ExplicitBoolCompareRector;
 use Rector\CodeQuality\Rector\LogicalAnd\LogicalToBooleanRector;
 use Rector\CodingStyle\Rector\ArrowFunction\StaticArrowFunctionRector;
@@ -40,19 +36,16 @@ use Rector\EarlyReturn\Rector\Return_\ReturnBinaryOrToEarlyReturnRector;
 use Rector\Naming\Rector\ClassMethod\RenameParamToMatchTypeRector;
 use Rector\Php73\Rector\FuncCall\JsonThrowOnErrorRector;
 use Rector\PHPUnit\CodeQuality\Rector\Class_\PreferPHPUnitThisCallRector;
+use Rector\Strict\Rector\Empty_\DisallowedEmptyRuleFixerRector;
 use Rector\Transform\Rector\String_\StringToClassConstantRector;
-use Rector\TypeDeclarationDocblocks\Rector\ClassMethod\DocblockReturnArrayFromDirectArrayInstanceRector;
 use Rector\ValueObject\PhpVersion;
 use RectorLaravel\Rector\ArrayDimFetch\ArrayToArrGetRector;
 use RectorLaravel\Rector\Empty_\EmptyToBlankAndFilledFuncRector;
 use RectorLaravel\Rector\FuncCall\HelperFuncCallToFacadeClassRector;
-use RectorLaravel\Rector\FuncCall\TypeHintTappableCallRector;
 use RectorLaravel\Rector\If_\ThrowIfRector;
 use RectorLaravel\Rector\MethodCall\ContainerBindConcreteWithClosureOnlyRector;
-use RectorLaravel\Rector\StaticCall\CarbonToDateFacadeRector;
 use RectorLaravel\Rector\StaticCall\DispatchToHelperFunctionsRector;
 use RectorLaravel\Set\LaravelSetProvider;
-use RectorPest\Rules\Pest2ToPest3\UsesToExtendRector;
 use RectorPest\Set\PestLevelSetList;
 use RectorPest\Set\PestSetList;
 
@@ -131,21 +124,8 @@ return RectorConfig::configure()
     ->registerDecoratingNodeVisitor(ParentConnectingVisitor::class)
     ->withConfiguredRule(RenameToConventionalCaseNameRector::class, ['afterEach', 'beforeEach', 'MIT', 'PDO'])
     ->withSkip([
-        AddNoinspectionDocblockToFileFirstStmtRector::class,
-        CarbonToDateFacadeRector::class,
-        DateFuncCallToCarbonRector::class,
-        DocblockReturnArrayFromDirectArrayInstanceRector::class,
-        RenameGarbageParamNameRector::class,
-        RenameParamToMatchTypeRector::class,
-        SortFileFirstStmtDocblockRector::class,
-        SortFileFunctionStmtRector::class,
-        StringToClassConstantRector::class,
-        TypeHintTappableCallRector::class,
-        UsesToExtendRector::class,
-
-
-
         ChangeOrIfContinueToMultiContinueRector::class,
+        DisallowedEmptyRuleFixerRector::class,
         EncapsedStringsToSprintfRector::class,
         ExplicitBoolCompareRector::class,
         LogicalToBooleanRector::class,
@@ -164,8 +144,14 @@ return RectorConfig::configure()
         ThrowIfRector::class,
     ])
     ->withSkip([
+        JsonThrowOnErrorRector::class => [
+            __DIR__.'/tests/Pest.php',
+        ],
         RemoveEmptyClassMethodRector::class => [
             __DIR__.'/app/Providers/AppServiceProvider.php',
+        ],
+        RenameParamToMatchTypeRector::class => [
+            __DIR__.'/tests/Pest.php',
         ],
         SortAssociativeArrayByKeyRector::class => [
             __DIR__.'/app/',
@@ -177,4 +163,7 @@ return RectorConfig::configure()
             __DIR__.'/tests/Pest.php',
         ],
         StaticClosureRector::class => $staticArrowFunctionPaths,
+        StringToClassConstantRector::class => [
+            __DIR__.'/composer-bump',
+        ],
     ]);

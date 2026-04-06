@@ -47,6 +47,7 @@ return Factory::fromRuleSet(Php82::create()
     ->withRules(Rules::fromArray(require __DIR__.'/vendor/guanguans/php-cs-fixer-custom-fixers/config/rules.php'))
     ->withRules(Rules::fromArray([
         // '@autoPHPUnitMigration:risky' => true,
+        'final_public_method_for_abstract_class' => false,
     ])))
     ->setUsingCache(true)
     ->setCacheFile(\sprintf('%s/.build/php-cs-fixer/%s.cache', __DIR__, pathinfo(__FILE__, \PATHINFO_FILENAME)))

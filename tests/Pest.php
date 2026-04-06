@@ -1,9 +1,15 @@
 <?php
 
-/** @noinspection StaticClosureCanBeUsedInspection */
 /** @noinspection AnonymousFunctionStaticInspection */
+/** @noinspection NullPointerExceptionInspection */
+/** @noinspection PhpPossiblePolymorphicInvocationInspection */
+/** @noinspection PhpUndefinedClassInspection */
 /** @noinspection PhpUnhandledExceptionInspection */
-
+/** @noinspection PhpVoidFunctionResultUsedInspection */
+/** @noinspection StaticClosureCanBeUsedInspection */
+/** @noinspection PhpUndefinedFieldInspection */
+/** @noinspection PhpUndefinedNamespaceInspection */
+/** @noinspection PhpUnused */
 declare(strict_types=1);
 
 /**
@@ -15,23 +21,40 @@ declare(strict_types=1);
  * @see https://github.com/guanguans/favorite-link
  */
 
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Http\JsonResponse;
+use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Process;
+use Illuminate\Testing\TestResponse;
 use Pest\Expectation;
-use Symfony\Component\Finder\Finder;
 use Tests\TestCase;
 
-uses(TestCase::class)
+// pest()
+//     ->browser()
+//     // ->headed()
+//     // ->inFirefox()
+//     // ->inSafari()
+//     ->timeout(10000);
+// pest()->only();
+// pest()->printer()->compact();
+pest()->project()->github('guanguans/favorite-link');
+pest()
+    ->extend(TestCase::class)
     ->beforeAll(function (): void {})
     ->beforeEach(function (): void {})
     ->afterEach(function (): void {})
     ->afterAll(function (): void {
         Process::run('git checkout -- README.atom README.rss');
     })
+    ->group(__DIR__)
     ->in(
         __DIR__,
-        // __DIR__.'/Feature',
-        // __DIR__.'/Unit'
+        // __DIR__.'/Arch/',
+        // __DIR__.'/Feature/',
+        // __DIR__.'/Integration/',
+        // __DIR__.'/Unit/'
     );
+
 /*
 |--------------------------------------------------------------------------
 | Expectations
@@ -43,14 +66,66 @@ uses(TestCase::class)
 |
 */
 
-expect()->extend('toBetween', fn (int $min, int $max): Expectation => expect($this->value)
-    ->toBeGreaterThanOrEqual($min)
-    ->toBeLessThanOrEqual($max));
+/**
+ * @see Expectation::toBeBetween()
+ */
+expect()->extend(
+    'toAssert',
+    function (Closure $assertions): Expectation {
+        $assertions($this->value);
 
-expect()->extend('assertCallback', function (Closure $assertions): Expectation {
-    $assertions($this->value);
+        return $this;
+    }
+);
 
-    return $this;
+/**
+ * @see Expectation::toBeBetween()
+ */
+expect()->extend(
+    'toBetween',
+    fn (int $min, int $max): Expectation => expect($this->value)
+        ->toBeGreaterThanOrEqual($min)
+        ->toBeLessThanOrEqual($max)
+);
+
+expect()->intercept('toBe', Model::class, function (Model $expected): void {
+    expect($this->value->id)->toBe($expected->id);
+});
+
+expect()->pipe('toBe', function (Closure $next, mixed $expected): ?Expectation {
+    if ($this->value instanceof Model) {
+        return expect($this->value->id)->toBe($expected->id);
+    }
+
+    return $next();
+});
+
+/**
+ * @see Expectation::toMatchSnapshot()
+ */
+expect()->pipe('toMatchSnapshot', function (Closure $next): void {
+    $flags = \JSON_INVALID_UTF8_IGNORE |
+        \JSON_INVALID_UTF8_SUBSTITUTE |
+        \JSON_PARTIAL_OUTPUT_ON_ERROR |
+        \JSON_PRESERVE_ZERO_FRACTION |
+        \JSON_PRETTY_PRINT |
+        \JSON_THROW_ON_ERROR |
+        \JSON_UNESCAPED_SLASHES |
+        \JSON_UNESCAPED_UNICODE;
+    $basePath = \dirname(__DIR__).\DIRECTORY_SEPARATOR;
+    $this->value = match (true) {
+        $this->value instanceof JsonResponse,
+        $this->value instanceof TestResponse => str($this->value->getContent())->remove($basePath)->toString(),
+        \is_object($this->value) && method_exists($this->value, '__toString'),
+        \is_string($this->value) => str($this->value)->remove($basePath)->toString(),
+        \is_array($this->value) => json_encode($this->value, $flags),
+        $this->value instanceof Traversable => json_encode(iterator_to_array($this->value), $flags),
+        $this->value instanceof JsonSerializable => json_encode($this->value->jsonSerialize(), $flags),
+        \is_object($this->value) && method_exists($this->value, 'toArray') => json_encode($this->value->toArray(), $flags),
+        default => $this->value,
+    };
+
+    $next();
 });
 
 /*
@@ -76,16 +151,17 @@ function class_namespace(object|string $class): string
 
 function fixtures_path(string $path = ''): string
 {
-    return __DIR__.'/Fixtures'.($path ? \DIRECTORY_SEPARATOR.$path : $path);
+    return __DIR__.\DIRECTORY_SEPARATOR.'Fixtures'.($path ? \DIRECTORY_SEPARATOR.$path : $path);
 }
 
-function clear_same_namespace(): void
+function reset_http_fake(?Factory $factory = null): void
 {
-    foreach (
-        Finder::create()
-            ->in(__DIR__.'/../vendor/guanguans/ai-commit/app')
-            ->name('*.php') as $finder
-    ) {
-        file_put_contents($finder->getPathname(), '<?php');
-    }
+    (function (): void {
+        $this->stubCallbacks = collect();
+    })->call($factory ?? Http::getFacadeRoot());
+}
+
+function running_in_github_action(): bool
+{
+    return 'true' === getenv('GITHUB_ACTIONS');
 }

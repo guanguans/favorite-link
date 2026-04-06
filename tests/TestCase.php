@@ -1,5 +1,13 @@
 <?php
 
+/** @noinspection AnonymousFunctionStaticInspection */
+/** @noinspection NullPointerExceptionInspection */
+/** @noinspection PhpPossiblePolymorphicInvocationInspection */
+/** @noinspection PhpUndefinedClassInspection */
+/** @noinspection PhpUnhandledExceptionInspection */
+/** @noinspection PhpVoidFunctionResultUsedInspection */
+/** @noinspection StaticClosureCanBeUsedInspection */
+/** @noinspection PhpUnusedAliasInspection */
 declare(strict_types=1);
 
 /**
@@ -13,40 +21,66 @@ declare(strict_types=1);
 
 namespace Tests;
 
+use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Illuminate\Foundation\Testing\DatabaseTruncation;
+use Illuminate\Foundation\Testing\LazilyRefreshDatabase;
 use LaravelZero\Framework\Testing\TestCase as BaseTestCase;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
 use Symfony\Component\VarDumper\Test\VarDumperTestTrait;
 
 abstract class TestCase extends BaseTestCase
 {
+    // use DatabaseMigrations;
+    // use DatabaseTransactions;
+    // use DatabaseTruncation;
+    // use InteractsWithViews;
+    // use LazilyRefreshDatabase;
+    // use WithCachedConfig;
+    // use WithCachedRoutes;
+
     use MockeryPHPUnitIntegration;
     use VarDumperTestTrait;
 
     /**
-     * This method is called before each test.
+     * This method is called before the first test of this test class is run.
      */
-    protected function setUp(): void
-    {
-        parent::setUp();
-        // \DG\BypassFinals::enable();
-        $this->startMockery();
-    }
+    #[\Override]
+    public static function setUpBeforeClass(): void {}
+
+    // /**
+    //  * This method is called after the last test of this test class is run.
+    //  */
+    // public static function tearDownAfterClass(): void {}
+
+    // /**
+    //  * This method is called before each test.
+    //  */
+    // protected function setUp(): void
+    // {
+    //     parent::setUp();
+    //     // \DG\BypassFinals::enable(bypassReadOnly: false);
+    // }
 
     /**
-     * This method is called after each test.
+     * Performs assertions shared by all tests of a test case.
+     *
+     * This method is called between setUp() and test.
      */
-    protected function tearDown(): void
-    {
-        $this->finish();
-        $this->closeMockery();
-        parent::tearDown();
-    }
+    #[\Override]
+    protected function assertPreConditions(): void {}
 
-    /**
-     * Run extra tear down code.
-     */
-    private function finish(): void
-    {
-        // call more tear down methods
-    }
+    // /**
+    //  * Performs assertions shared by all tests of a test case.
+    //  *
+    //  * This method is called between test and tearDown().
+    //  *
+    //  * @see \Mockery\Adapter\Phpunit\MockeryPHPUnitIntegrationAssertPostConditions::assertPostConditions()
+    //  * @see \Mockery\Adapter\Phpunit\MockeryTestCase
+    //  */
+    // protected function assertPostConditions(): void {}
+
+    // /**
+    //  * This method is called after each test.
+    //  */
+    // protected function tearDown(): void {}
 }
