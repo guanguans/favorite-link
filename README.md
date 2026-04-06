@@ -17,6 +17,7 @@
 - [XueshiQiao/AnyDrag: 按住修饰键，拖动窗口任意位置即可移动窗口，无需拖拽标题栏。](https://github.com/XueshiQiao/AnyDrag) 
 - [DimensionDev/Flare: 在一个应用中浏览 Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。](https://github.com/DimensionDev/Flare) 
 - [94xy/xykt: 基于Apple VisionKit 的 macOS 抠图](https://github.com/94xy/xykt) 
+- [pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件](https://github.com/pixelspark/sushitrain) 
 ### April 5, 2026 
 - [ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。](https://github.com/ryangjchandler/blade-parser.rs) 
 - [leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关 —— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。](https://github.com/leemysw/token-share) 
