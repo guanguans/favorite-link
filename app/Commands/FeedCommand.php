@@ -28,10 +28,14 @@ final class FeedCommand extends Command
 {
     private const string REPOSITORY_LINK = 'https://github.com/guanguans/favorite-link';
     private const string FLAG = '### ';
+
+    #[\Override]
     protected $signature = <<<'SIGNATURE'
         feed:generate
         {--from=README.md : The path of the README file.}
         SIGNATURE;
+
+    #[\Override]
     protected $description = 'Generate feed.';
 
     /**
@@ -117,6 +121,15 @@ final class FeedCommand extends Command
             ->tap(fn () => $this->output->success('Feed is done!'));
     }
 
+    #[\Override]
+    protected function messages(): array
+    {
+        return [
+            'from.required' => 'The path of the README file is required.',
+            'from.ends_with' => 'The path of the README file must end with .md',
+        ];
+    }
+
     /**
      * @noinspection MethodVisibilityInspection
      */
@@ -125,15 +138,6 @@ final class FeedCommand extends Command
     {
         return [
             'from' => 'required|ends_with:.md',
-        ];
-    }
-
-    #[\Override]
-    protected function messages(): array
-    {
-        return [
-            'from.required' => 'The path of the README file is required.',
-            'from.ends_with' => 'The path of the README file must end with .md',
         ];
     }
 

@@ -21,12 +21,8 @@ use Symfony\Component\Finder\Finder;
 use Tests\TestCase;
 
 uses(TestCase::class)
-    ->beforeAll(function (): void {
-        clear_same_namespace();
-    })
-    ->beforeEach(function (): void {
-        clear_same_namespace();
-    })
+    ->beforeAll(function (): void {})
+    ->beforeEach(function (): void {})
     ->afterEach(function (): void {})
     ->afterAll(function (): void {
         Process::run('git checkout -- README.atom README.rss');

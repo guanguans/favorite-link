@@ -1,8 +1,25 @@
 {
     "preset": "default",
     "rules": {
-        "fullwidthPunctuation": "",
-        "adjustedFullwidthPunctuation": "",
-        "noSinglePair": false
-    }
+        "spaceOutsideHalfwidthBracket": false
+    },
+    "caseIgnores": [
+        ":+1:",
+        ":bangbang:",
+        ":camera_flash:",
+        ":cn:",
+        ":eyes:",
+        ":heart:",
+        ":heavy_exclamation_mark:",
+        ":mail:",
+        ":monocle_face:",
+        ":no_entry_sign:",
+        ":smile:",
+        ":tada:",
+        ":thumbsup:",
+        ":warning:",
+        ":white_check_mark:",
+        ":x:",
+        ":"
+    ]
 }

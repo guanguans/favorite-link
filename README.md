@@ -24,9 +24,9 @@
 - [tforschbach/CodexRemote: 使用你的 iPhone 作为 Mac 上本地 Codex 运行时的遥控器。](https://github.com/tforschbach/CodexRemote) 
 ### April 4, 2026 
 - [jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令](https://github.com/jigar-dhulla/laravel-http-to-curl) 
-- [protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection) 
+- [protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击(XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection) 
 ### April 3, 2026 
-- [canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh) 
+- [canyonroad/agentsh: AI 代理的执行层安全(ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh) 
 - [aschmelyun/liminal: 基于浏览器的 Laravel 集成开发环境。PHP 8.4 完全在 WebAssembly 中运行 - 无需服务器、无需安装、无需上传。无需离开标签页，即可编写、运行和预览 Laravel 应用程序。](https://github.com/aschmelyun/liminal) 
 ### April 2, 2026 
 - [szhshp/panda-video-generator: 熊猫视频自动化引擎：用程序员的方式帮你自动化视频创作与发布](https://github.com/szhshp/panda-video-generator) 
@@ -62,12 +62,12 @@
 ### March 26, 2026 
 - [ryanstephen/lil-agents: 生活在 macOS 程序坞上的微小人工智能伴侣](https://github.com/ryanstephen/lil-agents) 
 - [devgianlu/Aria2App: Aria2App 是一个基于 aria2 的高级下载管理器，也可以处理远程服务器。](https://github.com/devgianlu/Aria2App) 
-- [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 (如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry) 
-- [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 (如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。](https://github.com/gstory0404/Cinetry) 
+- [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器(如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV)的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry) 
+- [gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器(如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV)的功能。](https://github.com/gstory0404/Cinetry) 
 ### March 24, 2026 
 - [abhigyanpatwari/GitNexus: GitNexus：零服务器代码智能引擎 - GitNexus 是一个完全在浏览器中运行的客户端知识图谱创建工具。只需导入一个 GitHub 仓库或 ZIP 文件，即可获得一个带有内置图谱 RAG 智能体的交互式知识图谱。非常适合代码探索。](https://github.com/abhigyanpatwari/GitNexus) 
 - [raskrebs/sonar: 用于检查和管理监听本地主机端口服务的 CLI 工具](https://github.com/raskrebs/sonar) 
-- [ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW (分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector) 
+- [ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW(分层可导航小世界)进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector) 
 - [rudrankriyam/App-Store-Connect-CLI: 快速、可脚本化的命令行工具，用于 App Store Connect API。自动化 TestFlight、构建、提交、签名、分析、截图、订阅等操作。以 JSON 为核心，无需交互式提示。](https://github.com/rudrankriyam/App-Store-Connect-CLI) 
 - [tiajinsha/JKVideo: 高颜值的第三方 B 站 React Native 客户端，支持安卓、H5、iOS](https://github.com/tiajinsha/JKVideo) 
 - [tw93/Kaku: 🎃 一个为 AI 编程打造的快速即用型终端。](https://github.com/tw93/Kaku) 
@@ -83,7 +83,7 @@
 - [AnInsomniacy/motrix-next: 一个功能齐全的下载管理器](https://github.com/AnInsomniacy/motrix-next) 
 ### March 19, 2026 
 - [Emanuele-web04/remodex: Codex 的远程控制。24/7 版本即将推出](https://github.com/Emanuele-web04/remodex) 
-- [chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect) 
+- [chenhg5/cc-connect: 将本地 AI 编码代理(Claude Code、Cursor、Gemini CLI、Codex)连接到消息平台(飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect) 
 - [hosmelq/laravel-pulse-schedule: 列出所有计划任务的 Laravel Pulse 卡。](https://github.com/hosmelq/laravel-pulse-schedule) 
 ### March 18, 2026 
 - [webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。](https://github.com/webadderall/Recordly) 
@@ -93,7 +93,7 @@
 - [RightCapitalHQ/php-ast-viewer: PHP AST 查看器是一款用于查看 PHP 代码抽象语法树的工具。通过可视化代码结构，帮助开发者更深入地理解代码，从而提升代码质量和维护效率。](https://github.com/RightCapitalHQ/php-ast-viewer) 
 - [Eljakani/ward: 为 Laravel 构建的安全扫描器，能够检测错误配置、漏洞和泄露的机密信息，并配备美观的终端用户界面。](https://github.com/Eljakani/ward) 
 ### March 14, 2026 
-- [pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger) 
+- [pronskiy/php-debugger: 轻量级 PHP 调试器扩展(从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger) 
 - [yuzeguitarist/Deck: 一款现代化、原生、注重隐私的 macOS 剪贴板管理器。](https://github.com/yuzeguitarist/Deck) 
 - [yuzeguitarist/Orbit: 一个以手势为主的径向应用切换器和文件中心，适用于 macOS。](https://github.com/yuzeguitarist/Orbit) 
 ### March 13, 2026 
@@ -118,16 +118,16 @@
 ### March 7, 2026 
 - [sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。](https://github.com/sourcetoad/rule-helper-for-laravel) 
 ### March 5, 2026 
-- [metaspartan/mactop: mactop 是一个基于终端的监控工具“top”，旨 ​​ 在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标](https://github.com/metaspartan/mactop) 
-- [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone (iOS 26)。](https://github.com/Lakr233/vphone-cli) 
+- [metaspartan/mactop: mactop 是一个基于终端的监控工具 “top”，旨 ​​ 在显示 Carsen Klock 编写的 Apple Silicon 芯片的实时指标。它提供了一种简单有效的方法来直接从终端监控 CPU 和 GPU 使用情况、E 核和 P 核、功耗、GPU 频率、温度和其他系统指标](https://github.com/metaspartan/mactop) 
+- [Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone(iOS 26)。](https://github.com/Lakr233/vphone-cli) 
 - [hehehai/voxt: macOS 的语音输入和翻译应用。按下说话，释放粘贴。](https://github.com/hehehai/voxt) 
 - [Aayush9029/petal: Petal 是一款本地 macOS 菜单栏应用程序，用于快速、本地优先转录音频。](https://github.com/Aayush9029/petal) 
 ### March 3, 2026 
 - [ddlmanus/MacOptimizer: MacOptimizer 是一款专为 macOS 设计的系统优化工具，具有现代化的 SwiftUI 界面和八个核心功能模块](https://github.com/ddlmanus/MacOptimizer) 
 ### March 2, 2026 
-- [34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) 
+- [34306/vphone-aio: 1 个脚本运行 vphone(iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio) 
 - [Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。](https://github.com/Adembc/lazyssh) 
-- [Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 (小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android) 
+- [Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级(小于 5M)多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android) 
 - [mantou132/Spotify-Lyrics: 桌面 Spotify 网络播放器即时同步歌词](https://github.com/mantou132/Spotify-Lyrics) 
 ### March 1, 2026 
 - [MrPunyapal/pest-annotator-plugin: 一个 Pest PHP 插件，注释覆盖输出，包含类级别的细节、类型覆盖、圈复杂度、基线差异和灵活的导出格式。](https://github.com/MrPunyapal/pest-annotator-plugin) 
@@ -152,13 +152,13 @@
 - [spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。](https://github.com/spatie/laravel-openapi-cli) 
 - [spatie/laravel-screenshot: 在 Laravel 应用程序中对网页进行截屏](https://github.com/spatie/laravel-screenshot) 
 ### February 11, 2026 
-- [rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente) 
+- [rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP(代理客户端协议)或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente) 
 - [rectorphp/mockstan: 将您的 PHPUnit 模拟置于严格的静态分析之下。](https://github.com/rectorphp/mockstan) 
 ### February 8, 2026 
 - [sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。](https://github.com/sbarex/SourceCodeSyntaxHighlight) 
 - [sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。](https://github.com/sbarex/QLMarkdown) 
-- [sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo) 
-- [saeedvir/PaL-Server-Info: PHP 和 Laravel (PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info) 
+- [sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件(图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo) 
+- [saeedvir/PaL-Server-Info: PHP 和 Laravel(PaL)服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info) 
 ### February 7, 2026 
 - [TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。](https://github.com/TestFlowLabs/doctest) 
 - [jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器](https://github.com/jarv/newsgoat) 
@@ -189,17 +189,17 @@
 - [harris21/laravel-fuse: Laravel 队列作业的断路器](https://github.com/harris21/laravel-fuse) 
 - [loilo/Fuse: PHP 的模糊搜索库](https://github.com/loilo/Fuse) 
 ### January 25, 2026 
-- [YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue) 
-- [rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 ()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/) 
+- [YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区(用户组)之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue) 
+- [rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/) 
 ### January 23, 2026 
-- [Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond) 
+- [Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈(VUE、Inertia、Laravel、Tailwind)中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond) 
 - [github/copilot-sdk: 用于将 GitHub Copilot 代理集成到应用和服务中的多平台 SDK](https://github.com/github/copilot-sdk) 
 ### January 22, 2026 
 - [waadmawlood/truffle: 内存驱动程序数据库 Eloquent 模型连接的 Laravel 包](https://github.com/waadmawlood/truffle) 
 - [affaan-m/everything-claude-code: 完整的 Claude Code 配置集合 - 代理，技能，钩子，命令，规则，MCP。](https://github.com/affaan-m/everything-claude-code) 
 - [LinWanCen/show-comment: IDEA 插件：在文件树、行末、JSON、COBOL 显示注释](https://github.com/LinWanCen/show-comment) 
 ### January 21, 2026 
-- [xai-org/x-algorithm: 该存储库包含驱动 X 上 "为您推荐" 动态的核心推荐系统。它结合了网络内内容 (来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm) 
+- [xai-org/x-algorithm: 该存储库包含驱动 X 上 “为您推荐” 动态的核心推荐系统。它结合了网络内内容(来自您关注的账户)和网络外内容(通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm) 
 ### January 20, 2026 
 - [aymanalhattami/filament-page-with-sidebar: 在侧边栏中组织页面，以使页面之间的导航更加舒适。](https://github.com/aymanalhattami/filament-page-with-sidebar) 
 - [op7418/Humanizer-zh: Humanizer-zh 是一个用于去除文本中 AI 生成痕迹的工具，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。](https://github.com/op7418/Humanizer-zh) 
@@ -212,7 +212,7 @@
 - [HPWebdeveloper/laravel-stateflow: Laravel Eloquent 模型的现代企业就绪状态机实现。](https://github.com/HPWebdeveloper/laravel-stateflow) 
 ### January 16, 2026 
 - [qianguyihao/blog-list: 中文博客琅琊榜，只收录精品独立博客](https://github.com/qianguyihao/blog-list) 
-- [remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 (完整的 Playwright API)](https://github.com/remorses/playwriter) 
+- [remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍(完整的 Playwright API)](https://github.com/remorses/playwriter) 
 ### January 15, 2026 
 - [osama-98/laravel-exports: 一个强大的 Laravel 包，用于以批次和块的方式导出大型数据集，支持 CSV 和 XLSX 格式。该包提供了一个干净、流畅的 API，以高效处理导出。](https://github.com/osama-98/laravel-exports) 
 ### January 14, 2026 
@@ -228,7 +228,7 @@
 - [open-meteo/open-meteo: Open-Meteo 是一个开源天气 API，提供非商业用途的免费访问。无需 API 密钥。您可以立即使用它！](https://github.com/open-meteo/open-meteo) 
 ### January 12, 2026 
 - [dengcb/weixin-reader-desktop: 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强](https://github.com/dengcb/weixin-reader-desktop) 
-- [cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建 (通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall) 
+- [cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建(通过)或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall) 
 - [redraw/gh-install: 以交互方式从 CLI 安装 GitHub 发行版二进制文件](https://github.com/redraw/gh-install) 
 ### January 11, 2026 
 - [tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。](https://github.com/tuupola/server-timing-middleware) 
@@ -251,9 +251,9 @@
 ### January 5, 2026 
 - [code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。](https://github.com/code-yeongyu/oh-my-opencode) 
 ### January 4, 2026 
-- [Lake1059/FFmpegFreeUI: FFmpegFreeUI (简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI) 
+- [Lake1059/FFmpegFreeUI: FFmpegFreeUI(简称 3FUI)是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI) 
 ### January 3, 2026 
-- [Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks) 
+- [Enigama/git-remarks: git-remarks 是一个用于管理个人笔记(想法、疑虑、待办事项、决策)的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks) 
 ### January 2, 2026 
 - [Bellangelo/phpstan-migration-rules: PHPStan 规则集，用于在 Phinx 和 Laravel / Illuminate 的数据库迁移文件中执行最佳实践和标准。](https://github.com/Bellangelo/phpstan-migration-rules) 
 ### January 1, 2026 

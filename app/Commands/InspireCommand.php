@@ -24,6 +24,7 @@ final class InspireCommand extends Command
      *
      * @var string
      */
+    #[\Override]
     protected $signature = 'inspire {name=Artisan}';
 
     /**
@@ -31,6 +32,7 @@ final class InspireCommand extends Command
      *
      * @var string
      */
+    #[\Override]
     protected $description = 'Display an inspiring quote';
 
     /**

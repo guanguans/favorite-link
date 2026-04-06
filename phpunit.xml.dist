@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
   bootstrap="vendor/autoload.php"
   cacheDirectory=".build/phpunit/"
   colors="true"
-  xsi:noNamespaceSchemaLocation="./vendor/phpunit/phpunit/phpunit.xsd"
+  failOnDeprecation="true"
+  failOnPhpunitWarning="false"
+  failOnRisky="true"
+  failOnWarning="true"
 >
-  <testsuites>
-    <testsuite name="Feature">
-      <directory>./tests/Feature</directory>
-      <exclude>vendor/</exclude>
-    </testsuite>
-    <testsuite name="Unit">
-      <directory>./tests/Unit</directory>
-      <exclude>vendor/</exclude>
-    </testsuite>
-  </testsuites>
-  <source>
-    <include>
-      <directory>./app</directory>
-      <directory>./bootstrap</directory>
-    </include>
-    <exclude>
-      <!--<directory>app/Contracts</directory>-->
-      <file>app/Support/helpers.php</file>
-    </exclude>
-  </source>
   <php>
+    <ini name="error_reporting" value="-1"/>
+    <!--<env name="SYMFONY_DEPRECATIONS_HELPER" value="/PDO::MYSQL_ATTR_SSL_CA/"/>-->
+    <env name="DUMP_LIGHT_ARRAY" value=""/>
+    <env name="DUMP_STRING_LENGTH" value=""/>
+    <env name="ENV" value="testing"/>
+    <env name="ENV_EXPLODE_EMPTY" value="empty"/>
+    <env name="ENV_EXPLODE_FALSE" value="false"/>
+    <env name="ENV_EXPLODE_NULL" value="null"/>
+    <env name="ENV_EXPLODE_STRING" value="log,null"/>
+    <env name="ENV_EXPLODE_TRUE" value="true"/>
+    <env name="APP_BASE_PATH" value="./"/>
     <env name="APP_ENV" value="testing"/>
+    <env name="APP_DEBUG" value="false"/>
+    <env name="APP_KEY" value="base64:UZ5sDPZSB7DSLKY+DYlU8G/V1e/qW+Ag0WF03VNxiSg="/>
     <env name="APP_MAINTENANCE_DRIVER" value="file"/>
     <env name="BCRYPT_ROUNDS" value="4"/>
     <env name="CACHE_STORE" value="array"/>
@@ -39,4 +36,29 @@
     <env name="SESSION_DRIVER" value="array"/>
     <env name="TELESCOPE_ENABLED" value="false"/>
   </php>
+  <testsuites>
+    <!--<testsuite name="Arch">
+      <directory>tests/Arch/</directory>
+      <exclude>vendor/</exclude>
+    </testsuite>-->
+    <testsuite name="Feature">
+      <directory>tests/Feature/</directory>
+      <exclude>vendor/</exclude>
+    </testsuite>
+    <testsuite name="Unit">
+      <directory>tests/Unit/</directory>
+      <exclude>vendor/</exclude>
+    </testsuite>
+  </testsuites>
+  <!--<source ignoreIndirectDeprecations="true">-->
+  <source>
+    <include>
+      <directory>app/</directory>
+      <directory>bootstrap/</directory>
+    </include>
+    <exclude>
+      <!--<directory>app/ReleaseWorkers/</directory>-->
+      <file>app/Support/ComposerScripts.php</file>
+    </exclude>
+  </source>
 </phpunit>

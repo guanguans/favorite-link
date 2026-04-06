@@ -42,18 +42,22 @@
         "laravel-zero/framework": "^12.1"
     },
     "require-dev": {
+        "adamwojs/php-cs-fixer-phpdoc-force-fqcn": "^2.0",
         "bamarni/composer-bin-plugin": "^1.9",
+        "brainmaestro/composer-git-hooks": "^3.0",
+        "driftingly/rector-laravel": "^2.2",
         "ergebnis/composer-normalize": "^2.50",
         "ergebnis/license": "^2.7",
-        "ergebnis/php-cs-fixer-config": "dev-main",
+        "ergebnis/php-cs-fixer-config": "^6.60",
+        "ergebnis/rector-rules": "^1.16",
         "fakerphp/faker": "^1.24",
-        "guanguans/ai-commit": "dev-main",
-        "ion-bazan/composer-diff": "^1.13",
+        "guanguans/php-cs-fixer-custom-fixers": "^1.2",
+        "guanguans/rector-rules": "^1.7",
+        "illuminate/database": "^12.56",
         "mockery/mockery": "^1.6",
+        "mrpunyapal/rector-pest": "^0.2",
         "pestphp/pest": "^4.4",
-        "phpstan/extension-installer": "^1.4",
-        "phpstan/phpstan": "^2.1",
-        "rector/rector": "^2.4"
+        "rector/swiss-knife": "^2.3"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -74,10 +78,8 @@
         "allow-plugins": {
             "bamarni/composer-bin-plugin": true,
             "ergebnis/composer-normalize": true,
-            "ion-bazan/composer-diff": true,
             "pestphp/pest-plugin": true,
-            "php-http/discovery": true,
-            "phpstan/extension-installer": true
+            "php-http/discovery": true
         },
         "optimize-autoloader": true,
         "preferred-install": "dist",
@@ -132,8 +134,8 @@
             "@php favorite-link --ansi"
         ],
         "autocorrect": "autocorrect README.md",
-        "autocorrect-fix": "@autocorrect --fix",
-        "autocorrect-lint": "@autocorrect --lint",
+        "autocorrect:fix": "@autocorrect --fix",
+        "autocorrect:lint": "@autocorrect --lint",
         "blade-formatter": "blade-formatter resources/views/*.blade.php resources/views/**/*.blade.php --ignore-path= --php-version=8.5 --progress",
         "blade-formatter:check-formatted": "@blade-formatter --check-formatted",
         "blade-formatter:write": "@blade-formatter --write",
@@ -149,17 +151,8 @@
         "checks:optional": [
             "@putenv:xdebug-off",
             "@app:fix-neon",
-            "@composer:unlink",
-            "@class-leak:check",
-            "@composer-dependency-analyser",
             "@composer:normalize-dry-run",
-            "@detect-collisions",
-            "@facade:lint",
-            "@jack:breakpoint",
-            "@jack:open-versions-dry-run",
-            "@jack:raise-to-installed-dry-run",
-            "@phpmnd",
-            "@phpstan:analyse",
+            "@composer:unlink",
             "@rector:process-dry-run",
             "@sk:check-commented-code",
             "@sk:check-conflicts",
@@ -169,37 +162,23 @@
             "@sk:privatize-constants",
             "@sk:spot-lazy-traits",
             "@todo-lint",
-            "@yaml-lint",
             "@actionlint",
             "@gitleaks",
             "@lint-md",
-            "@peck",
-            "@php-cs-fixer:custom-fix-dry-run",
-            "@php-cs-fixer:custom-ln-config",
-            "@typos",
-            "@zhlint"
+            "@zhlint",
+            "@autocorrect:lint"
         ],
         "checks:required": [
             "@putenv:xdebug-off",
             "@php-cs-fixer:fix-dry-run",
             "@pest"
         ],
-        "checkssss": [
-            "@composer-normalize",
-            "@composer-validate",
-            "@style-lint",
-            "@md-lint",
-            "@zh-lint",
-            "@autocorrect-lint",
-            "@test",
-            "@rector-dry-run"
-        ],
         "class-leak": "@php vendor/bin/class-leak --ansi -vv",
         "class-leak:check": "@class-leak check config/ app/ --skip-suffix=Music --skip-suffix=ReleaseWorker --skip-suffix=ComposerScripts --skip-suffix=ServerDumper",
         "composer-bump": [
             "@putenv:php",
             "@composer-config:disable-process-timeout",
-            "@php composer-bump --highest-php-binary=$PHP85 --except-package=illuminate/validation --ansi"
+            "@php composer-bump --highest-php-binary=$PHP85 --except-package=foo/bar --ansi"
         ],
         "composer-bump:all": [
             "@composer-bump",
@@ -253,7 +232,7 @@
             "@lint-md:prototype"
         ],
         "lint-md:fix": "@lint-md:prototype --fix",
-        "lint-md:prototype": "lint-md --suppress-warnings *.md .github/ docs/",
+        "lint-md:prototype": "lint-md --suppress-warnings README.md",
         "mago": "@php vendor/bin/mago",
         "mago:format": "@mago format",
         "mago:format-dry-run": "@mago:format --dry-run",
@@ -376,9 +355,9 @@
             "@putenv XDEBUG_SESSION=1"
         ],
         "readme-fix": [
-            "@md-fix",
-            "@zh-fix",
-            "@autocorrect-fix"
+            "@lint-md:fix",
+            "@zhlint:fix",
+            "@autocorrect:fix"
         ],
         "rector": "@php vendor/bin/rector",
         "rector:custom-rule": "@rector custom-rule",
@@ -437,7 +416,7 @@
             "@zhlint:prototype"
         ],
         "zhlint:fix": "@zhlint:prototype --fix",
-        "zhlint:prototype": "zhlint {,docs/,docs/**/}*-zh_CN.md",
+        "zhlint:prototype": "zhlint README.md",
         "zizmor": "zizmor .github/ --verbose"
     },
     "scripts-aliases": {
