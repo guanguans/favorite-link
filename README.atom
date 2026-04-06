@@ -45,6 +45,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[DimensionDev/Flare: 在一个应用中浏览 Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。]]></title>
+    <published>2026-04-05T00:00:00+00:00</published>
+    <updated>2026-04-05T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/DimensionDev/Flare"/>
+    <id>https://github.com/DimensionDev/Flare</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/DimensionDev/Flare" target="_blank">DimensionDev/Flare: 在一个应用中浏览
+Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/DimensionDev/Flare" target="_blank">https://github.com/DimensionDev/Flare</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。]]></title>
     <published>2026-04-04T16:00:00+00:00</published>
     <updated>2026-04-04T16:00:00+00:00</updated>
