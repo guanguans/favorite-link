@@ -1,15 +1,21 @@
+# Please see the documentation for all configuration options:
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
+
 version: 2
 updates:
-  - package-ecosystem: github-actions
-    directory: "/"
-    schedule:
-      interval: daily
-      time: "21:00"
-    open-pull-requests-limit: 10
 
-  - package-ecosystem: composer
+  - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: daily
       time: "21:00"
-    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+
+  - package-ecosystem: "composer"
+    directory: "/"
+    schedule:
+      interval: daily
+      time: "21:00"
+    labels:
+      - "dependencies"

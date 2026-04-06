@@ -1,6 +1,12 @@
 name: tests
 
-on: [ workflow_dispatch, push, pull_request ]
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+env:
+  COMPOSER_NO_SECURITY_BLOCKING: 1
 
 jobs:
   test:
@@ -8,39 +14,48 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [ ubuntu-latest ]
-        php: [ 8.5 ]
-        dependency-version: [ prefer-stable ]
+        os: [ubuntu-latest]
+        php: [8.5]
+        dependency-version: [prefer-stable]
 
     name: P${{ matrix.php }} - ${{ matrix.dependency-version }} - ${{ matrix.os }}
 
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v6
-
-      - name: Cache dependencies
-        uses: actions/cache@v5
-        with:
-          path: ~/.composer/cache/files
-          key: dependencies-php-${{ matrix.php }}-composer-${{ hashFiles('composer.json') }}
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: ${{ matrix.php }}
-          extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, sqlite, pdo_sqlite, bcmath, soap, intl, gd, exif, iconv, imagick
           coverage: xdebug
+          # extensions: amqp,apcu,brotli,igbinary,intl,mbstring,memcached,redis,relay,zstd,:php-psr
+        env:
+          COMPOSER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Get composer cache directory
+      #   id: composer-cache
+      #   run: echo "dir=$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
+      #
+      # - name: Cache composer dependencies
+      #   uses: actions/cache@v4
+      #   with:
+      #     path: ${{ steps.composer-cache.outputs.dir }}
+      #     # Use composer.json for key, if composer.lock is not committed.
+      #     key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.json') }}
+      #     # key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+      #     restore-keys: ${{ runner.os }}-composer-
 
       - name: Install dependencies
-        run: composer update --${{ matrix.dependency-version }} --prefer-dist --no-interaction --ansi -v
+        run: composer update --${{ matrix.dependency-version }} --no-interaction --ansi -v
 
       - name: Execute tests
-        run: composer test-coverage
+        run: composer test:coverage
 
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v6
         with:
-          files: ./.build/phpunit/clover.xml"
+          files: ./.build/phpunit/clover.xml
           token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
-          fail_ci_if_error: false # optional (default = false)
+          fail_ci_if_error: true # optional (default = false)
           verbose: true # optional (default = false)

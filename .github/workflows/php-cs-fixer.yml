@@ -1,47 +1,56 @@
-name: check & fix styling
+name: php-cs-fixer
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - '.github/**.yml'
-      - '.github/**.yaml'
       - '**.php'
+      - '.github/**.yaml'
+      - '.github/**.yml'
   pull_request:
     paths:
-      - '.github/**.yml'
-      - '.github/**.yaml'
       - '**.php'
+      - '.github/**.yaml'
+      - '.github/**.yml'
+
+env:
+  COMPOSER_NO_SECURITY_BLOCKING: 1
 
 jobs:
   php-cs-fixer:
     name: php-cs-fixer
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout
+        uses: actions/checkout@v6
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.5'
-          extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, sqlite, pdo_sqlite, bcmath, soap, intl, gd, exif, iconv, imagick
           coverage: none
+        env:
+          COMPOSER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get composer cache directory
+        id: composer-cache
+        run: echo "dir=$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
 
       - name: Cache composer dependencies
         uses: actions/cache@v5
         with:
-          path: vendor
-          key: composer-${{ hashFiles('composer.lock') }}
+          path: ${{ steps.composer-cache.outputs.dir }}
+          # Use composer.json for key, if composer.lock is not committed.
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.json') }}
+          # key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: ${{ runner.os }}-composer-
 
       - name: Run composer install
-        run: composer install --no-interaction --prefer-dist --ansi -v
+        run: composer install --no-interaction --ansi -v
+
+      - name: Run php-cs-fixer with annotate-pull-request format
+        continue-on-error: true
+        run: composer php-cs-fixer:fix-dry-run-format-annotate-pull-request
 
       - name: Run php-cs-fixer
-        run: composer style-fix
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_options: '--no-verify'
-          commit_message: Fix styling
-          file_pattern: '**.php'
+        run: composer php-cs-fixer:fix-dry-run
