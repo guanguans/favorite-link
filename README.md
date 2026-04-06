@@ -16,7 +16,7 @@
 - [Turbo1123/roubao: 首款无需电脑的开源 AI 手机自动化助手](https://github.com/Turbo1123/roubao) 
 - [XueshiQiao/AnyDrag: 按住修饰键，拖动窗口任意位置即可移动窗口，无需拖拽标题栏。](https://github.com/XueshiQiao/AnyDrag) 
 - [DimensionDev/Flare: 在一个应用中浏览 Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。](https://github.com/DimensionDev/Flare) 
-- [94xy/xykt: 基于Apple VisionKit 的 macOS 抠图](https://github.com/94xy/xykt) 
+- [94xy/xykt: 基于 Apple VisionKit 的 macOS 抠图](https://github.com/94xy/xykt) 
 - [pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件](https://github.com/pixelspark/sushitrain) 
 ### April 5, 2026 
 - [ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。](https://github.com/ryangjchandler/blade-parser.rs) 
