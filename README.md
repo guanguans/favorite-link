@@ -16,6 +16,7 @@
 ### April 7, 2026 
 - [Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播](https://github.com/Liubsyy/M3U8Quicker) 
 - [mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比](https://github.com/mahonzhan/awesome-coding-plan) 
+- [borawong/AiMaMi: 为OpenAI Codex打造的桌面伴侣。](https://github.com/borawong/AiMaMi) 
 ### April 6, 2026 
 - [Turbo1123/roubao: 首款无需电脑的开源 AI 手机自动化助手](https://github.com/Turbo1123/roubao) 
 - [XueshiQiao/AnyDrag: 按住修饰键，拖动窗口任意位置即可移动窗口，无需拖拽标题栏。](https://github.com/XueshiQiao/AnyDrag) 
