@@ -1,5 +1,7 @@
 <?php
 
+/** @noinspection PhpInapplicableAttributeTargetDeclarationInspection */
+
 declare(strict_types=1);
 
 /**
@@ -46,23 +48,11 @@ final class FeedCommand extends Command
         /** @noinspection NullPointerExceptionInspection */
         str(File::get($this->option('from')))
             ->replace(
-                [
-                    str_repeat(\PHP_EOL, 6),
-                    '- [github.com/',
-                ],
-                [
-                    str_repeat(\PHP_EOL, 2),
-                    '- [',
-                ]
+                [str_repeat(\PHP_EOL, 6), '- [github.com/'],
+                [str_repeat(\PHP_EOL, 2), '- [']
             )
-            ->tap(function (Stringable $stringable): void {
-                File::put($this->option('from'), $stringable->toString());
-            })
-            ->after(self::FLAG)
-            ->prepend(self::FLAG)
-            ->explode(\PHP_EOL)
-            ->filter(filled(...))
-            ->map(str(...))
+            ->tap(fn (Stringable $stringable): bool|int => File::put($this->option('from'), $stringable->toString()))
+            ->after(self::FLAG)->prepend(self::FLAG)->explode(\PHP_EOL)->filter(filled(...))->map(str(...))
             ->reduce(
                 static function (Collection $carry, Stringable $stringable) use (&$date): Collection {
                     if ($stringable->startsWith(self::FLAG)) {

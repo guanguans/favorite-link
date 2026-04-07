@@ -2,6 +2,7 @@
 
 /** @noinspection PhpUndefinedClassInspection */
 /** @noinspection PhpUndefinedNamespaceInspection */
+/** @noinspection PhpUnusedAliasInspection */
 declare(strict_types=1);
 
 /**

@@ -37,7 +37,7 @@
         "php": "^8.5",
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^13.0",
-        "illuminate/validation": "^12.0",
+        "illuminate/validation": "^12.56 || ^13.0",
         "laminas/laminas-feed": "^2.26",
         "laravel-zero/framework": "^12.1"
     },
@@ -53,7 +53,7 @@
         "fakerphp/faker": "^1.24",
         "guanguans/php-cs-fixer-custom-fixers": "^1.2",
         "guanguans/rector-rules": "^1.7",
-        "illuminate/database": "^12.56",
+        "illuminate/database": "^12.56 || ^13.0",
         "mockery/mockery": "^1.6",
         "mrpunyapal/rector-pest": "^0.2",
         "pestphp/pest": "^4.4",
