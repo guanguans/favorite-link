@@ -91,10 +91,6 @@
             "forward-command": true,
             "target-directory": "vendor-bin"
         },
-        "composer-normalize": {
-            "indent-size": 4,
-            "indent-style": "space"
-        },
         "hooks": {
             "post-merge": [
                 "composer install --ansi -vv",
@@ -132,7 +128,7 @@
         "artisan:feed:generate": "@artisan feed:generate",
         "artisan:xdebug": [
             "@env-put-xdebug-on",
-            "@php favorite-link --ansi"
+            "@artisan"
         ],
         "blade-formatter": "blade-formatter resources/views/*.blade.php resources/views/**/*.blade.php --ignore-path= --php-version=8.5 --progress",
         "blade-formatter:check-formatted": "@blade-formatter --check-formatted",
