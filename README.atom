@@ -61,6 +61,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[cat3399/blbl: 一个使用原生 Android 开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓 5]]></title>
+    <published>2026-04-05T16:00:00+00:00</published>
+    <updated>2026-04-05T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/cat3399/blbl"/>
+    <id>https://github.com/cat3399/blbl</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/cat3399/blbl" target="_blank">cat3399/blbl: 一个使用原生 Android 开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓
+5</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/cat3399/blbl" target="_blank">https://github.com/cat3399/blbl</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Turbo1123/roubao: 首款无需电脑的开源 AI 手机自动化助手]]></title>
     <published>2026-04-05T16:00:00+00:00</published>
     <updated>2026-04-05T16:00:00+00:00</updated>
