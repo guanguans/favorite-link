@@ -1,6 +1,9 @@
 name: mirror
 
-on: [ workflow_dispatch, push, delete ]
+on:
+  workflow_dispatch:
+  push:
+  delete:
 
 jobs:
   to_gitlab:
@@ -11,7 +14,5 @@ jobs:
           fetch-depth: 0
       - uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url:
-            git@gitlab.com:yzmguanguan/favorite-link.git
-          ssh_private_key:
-            ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}
+          target_repo_url: git@gitlab.com:yzmguanguan/favorite-link.git
+          ssh_private_key: ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}

@@ -129,13 +129,11 @@
             "ls -lh builds/favorite-link.phar",
             "ls -lr builds/favorite-link.phar"
         ],
+        "artisan:feed:generate": "@artisan feed:generate",
         "artisan:xdebug": [
             "@env-put-xdebug-on",
             "@php favorite-link --ansi"
         ],
-        "autocorrect": "autocorrect README.md",
-        "autocorrect:fix": "@autocorrect --fix",
-        "autocorrect:lint": "@autocorrect --lint",
         "blade-formatter": "blade-formatter resources/views/*.blade.php resources/views/**/*.blade.php --ignore-path= --php-version=8.5 --progress",
         "blade-formatter:check-formatted": "@blade-formatter --check-formatted",
         "blade-formatter:write": "@blade-formatter --write",
@@ -163,9 +161,9 @@
             "@todo-lint",
             "@actionlint",
             "@gitleaks",
+            "@php-cs-fixer:custom-fix-dry-run",
             "@lint-md",
-            "@zhlint",
-            "@autocorrect:lint"
+            "@zhlint"
         ],
         "checks:required": [
             "@putenv:xdebug-off",
@@ -231,7 +229,7 @@
             "@lint-md:prototype"
         ],
         "lint-md:fix": "@lint-md:prototype --fix",
-        "lint-md:prototype": "lint-md --suppress-warnings README.md",
+        "lint-md:prototype": "lint-md --suppress-warnings *.md .github/ docs/",
         "mago": "@php vendor/bin/mago",
         "mago:format": "@mago format",
         "mago:format-dry-run": "@mago:format --dry-run",
@@ -353,11 +351,6 @@
             "@putenv XDEBUG_MODE=coverage,debug",
             "@putenv XDEBUG_SESSION=1"
         ],
-        "readme-fix": [
-            "@lint-md:fix",
-            "@zhlint:fix",
-            "@autocorrect:fix"
-        ],
         "rector": "@php vendor/bin/rector",
         "rector:custom-rule": "@rector custom-rule",
         "rector:list-rules": "@rector list-rules",
@@ -415,7 +408,7 @@
             "@zhlint:prototype"
         ],
         "zhlint:fix": "@zhlint:prototype --fix",
-        "zhlint:prototype": "zhlint README.md",
+        "zhlint:prototype": "zhlint {,docs/,docs/**/}*-zh_CN.md",
         "zizmor": "zizmor .github/ --verbose"
     },
     "scripts-aliases": {

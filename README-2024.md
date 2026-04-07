@@ -976,7 +976,7 @@
 ### March 9, 2024 
 - [ergebnis/http-method: 为 HTTP 请求方法提供具有常量的编写器包。](https://github.com/ergebnis/http-method) 
 ### March 8, 2024 
-- [huangdijia/laravel-horizon-restart: 重新启动多个服务器的 Horizo​​​​n 主管，例如 php artisan 队列：restart](https://github.com/huangdijia/laravel-horizon-restart) 
+- [huangdijia/laravel-horizon-restart: 重新启动多个服务器的 Horizon 主管，例如 php artisan 队列：restart](https://github.com/huangdijia/laravel-horizon-restart) 
 - [loophp/combinator: 精选的组合器列表](https://github.com/loophp/combinator) 
 - [nekocode/github_email_crawler: 一个从 github.com 抓取邮件的工具。](https://github.com/nekocode/github_email_crawler) 
 ### March 7, 2024 

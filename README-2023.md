@@ -40,7 +40,7 @@
 - [thephpleague/object-mapper：Object Mapper](https://github.com/thephpleague/object-mapper)
 - [mkorkmaz/redislabs-rejson:Redislabs RedisJson 又名 PHP 的 ReJson 客户端 (PHP 7.3+)](https://github.com/mkorkmaz/redislabs-rejson)
 - [ParagraphApp/laravel-notifications: 以前所未有的方式跟踪和管理您的 Laravel 通知](https://github.com/ParagraphApp/laravel-notifications)
-- [HPWebdeveloper/laravel-pay-pocket: 多钱包 Laravel 包，具有 ​​ 全面的日志记录和支付功能。](https://github.com/HPWebdeveloper/laravel-pay-pocket)
+- [HPWebdeveloper/laravel-pay-pocket: 多钱包 Laravel 包，具有  全面的日志记录和支付功能。](https://github.com/HPWebdeveloper/laravel-pay-pocket)
 ### December 15, 2023
 - [HelgeSverre/mistral: Mistral.ai API 的 PHP 客户端关闭](https://github.com/HelgeSverre/mistral)
 - [m3m0r7/rubyvm-on-php: 用 PHP 编写的 RubyVM](https://github.com/m3m0r7/rubyvm-on-php)
@@ -267,7 +267,7 @@
 - [yllhwa/RSSWorker: 运行在 Cloudflare Worker 上的 RSS 订阅生成器](https://github.com/yllhwa/RSSWorker)
 - [DiscordBot-PMMP/ChatBridge: 使用 DiscordBot 插件将您的不和谐聊天桥接到我的世界。](https://github.com/DiscordBot-PMMP/ChatBridge)
 ### October 13, 2023
-- [zhuzixian520/yii2-meilisearch: Yii2 框架的 Meil​​iSearch 扩展](https://github.com/zhuzixian520/yii2-meilisearch)
+- [zhuzixian520/yii2-meilisearch: Yii2 框架的 MeiliSearch 扩展](https://github.com/zhuzixian520/yii2-meilisearch)
 - [forecho/6url: Cherries 是一个开源站点导航系统。](https://github.com/forecho/6url)
 - [forecho/cherries: Cherries 是一个开源站点导航系统。](https://github.com/forecho/cherries)
 - [nadoo/glider: glider 是一个支持多种协议的转发代理，也是一个具有 ipset 管理功能 (如 dnsmasq) 的 dns/dhcp 服务器。](https://github.com/nadoo/glider)

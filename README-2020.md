@@ -2110,7 +2110,7 @@
 - [生成，解析，验证，纠错并以 PHP 呈现 IBAN (和 IIBAN) 银行帐户信息。](https://github.com/globalcitizen/php-iban)
 ### February 22, 2020
 - [使用 Laravel 用 API 密钥验证 restfulapi 的简单方法](https://github.com/chrisbjr/api-guard)
-- [使用 Laravel 使用 API​​ 密钥验证 RESTful API 的简单方法](https://github.com/chrisbjr/api-guard)
+- [使用 Laravel 使用 API 密钥验证 RESTful API 的简单方法](https://github.com/chrisbjr/api-guard)
 - [简单的程序包可在您的 API 中正确处理响应。](https://github.com/ellipsesynergie/api-response)
 - [iOS 代码混淆](https://github.com/netyouli/WHC_ConfuseSoftware)
 - [一个功能强大，快速，跨平台的 PHP SQL Builder](https://github.com/c9s/SQLBuilder)
@@ -2159,11 +2159,11 @@
 - [Html 网页正文提取](https://github.com/stanzhai/Html2Article)
 - [jackzhenguo/python-small-examples: Python 有趣的小例子一网打尽。Python 基础、Python 坑点、Python 字符串和正则、Python 绘图、Python 日期和文件、Web 开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。](https://github.com/jackzhenguo/python-small-examples)
 - [计算机基础面试问题全面总结，包含详细的 follow-up question 以及答案；模拟面试，知识点复习，快速备战面试...](https://github.com/wolverinn/Waking-Up)
-- [Laravel 6.0 博客应用程序，带有 Vue.js，Docker，Redis，Horizo​​n，Telescope 和 Pusher](https://github.com/guillaumebriday/laravel-blog)
+- [Laravel 6.0 博客应用程序，带有 Vue.js，Docker，Redis，Horizon，Telescope 和 Pusher](https://github.com/guillaumebriday/laravel-blog)
 - [Laravel 软件包，用于为您的 Web 应用程序创建缩短的 URL。](https://github.com/ash-jc-allen/short-url)
 - [Onedrive 的列表索引和管理器。可以部署到 heroku / SCF / normal 空间。](https://github.com/qkqpttgf/OneManager-php)
 - [v 一个 v2ray 面板应用程序界面](https://github.com/v2board/v2board)
-- [使用 API​​ 加快 Laravel Apps 的软件包开发](https://github.com/tiagomichaelsousa/LaravelResources)
+- [使用 API 加快 Laravel Apps 的软件包开发](https://github.com/tiagomichaelsousa/LaravelResources)
 ### February 16, 2020
 - [Go 的快速 JSON 解析器和验证器。没有自定义结构，没有代码生成，没有反射](https://github.com/valyala/fastjson)
 - [Wiki.js | 基于 Node.js 的现代，轻量级且功能强大的 Wiki 应用程序](https://github.com/Requarks/wiki)
