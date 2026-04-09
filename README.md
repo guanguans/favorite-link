@@ -13,6 +13,9 @@
 
 
 
+
+### April 9, 2026 
+- [farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。](https://github.com/farzaa/clicky) 
 ### April 7, 2026 
 - [Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播](https://github.com/Liubsyy/M3U8Quicker) 
 - [mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比](https://github.com/mahonzhan/awesome-coding-plan) 
