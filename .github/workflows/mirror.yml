@@ -2,8 +2,8 @@ name: mirror
 
 on:
   workflow_dispatch:
-  push:
-  delete:
+  # push:
+  # delete:
 
 jobs:
   to_gitlab:
