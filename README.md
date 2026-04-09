@@ -14,6 +14,7 @@
 - [farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。](https://github.com/farzaa/clicky) 
 - [sebastianbergmann/git-state: 用于描述 Git 签出状态的库。](https://github.com/sebastianbergmann/git-state) 
 - [safishamsi/graphify: AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid、Trae）。将任何代码、文档、论文或图片文件夹转换为可查询的知识图谱](https://github.com/safishamsi/graphify) 
+- [glanceway/glanceway-sources: 轻量级 macOS 菜单栏应用，聚合 Hacker News、GitHub、Reddit、RSS 订阅、股票行情、加密货币、开发者工具等信息源。](https://github.com/glanceway/glanceway-sources) 
 ### April 7, 2026 
 - [Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播](https://github.com/Liubsyy/M3U8Quicker) 
 - [mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比](https://github.com/mahonzhan/awesome-coding-plan) 
