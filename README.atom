@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[zellij-org/zellij: Zellij 是一个工作空间，面向开发人员、面向操作人员以及所有热爱终端的人。类似的程序有时也被称为 "终端复用器"。]]></title>
+    <published>2026-04-09T08:00:00+00:00</published>
+    <updated>2026-04-09T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/zellij-org/zellij"/>
+    <id>https://github.com/zellij-org/zellij</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/zellij-org/zellij" target="_blank">zellij-org/zellij: Zellij
+是一个工作空间，面向开发人员、面向操作人员以及所有热爱终端的人。类似的程序有时也被称为 "终端复用器"。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/zellij-org/zellij" target="_blank">https://github.com/zellij-org/zellij</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。]]></title>
     <published>2026-04-08T16:00:00+00:00</published>
     <updated>2026-04-08T16:00:00+00:00</updated>
