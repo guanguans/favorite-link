@@ -14,6 +14,7 @@
 ### April 10, 2026 
 - [chentao1006/Quitty: Quitty 是一款轻量级、现代化的 macOS 工具，在应用程序最后一个窗口关闭时自动终止该应用程序。](https://github.com/chentao1006/Quitty) 
 - [zellij-org/zellij: Zellij 是一个工作空间，面向开发人员、面向操作人员以及所有热爱终端的人。类似的程序有时也被称为 "终端复用器"。](https://github.com/zellij-org/zellij) 
+- [CrankZ/li-calendar: 跨平台的桌面日历，支持显示农历、节假日、调休、节气等信息](https://github.com/CrankZ/li-calendar) 
 ### April 9, 2026 
 - [farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。](https://github.com/farzaa/clicky) 
 - [sebastianbergmann/git-state: 用于描述 Git 签出状态的库。](https://github.com/sebastianbergmann/git-state) 
