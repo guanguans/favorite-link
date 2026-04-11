@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 09 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 10 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>jeffy5/flycode: FlyCode 是一个面向 Android 和 iOS 的 opencode 移动客户端。你可以通过它连接自己的 opencode server，浏览项目、继续已有会话，并在移动端和 coding agent 协作。</title>
+      <pubDate>Fri, 10 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/jeffy5/flycode</link>
+      <guid>https://github.com/jeffy5/flycode</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jeffy5/flycode" target="_blank">jeffy5/flycode: FlyCode 是一个面向 Android 和 iOS 的 opencode 移动客户端。你可以通过它连接自己的 opencode server，浏览项目、继续已有会话，并在移动端和 coding agent 协作。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jeffy5/flycode" target="_blank">https://github.com/jeffy5/flycode</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>chentao1006/Quitty: Quitty 是一款轻量级、现代化的 macOS 工具，在应用程序最后一个窗口关闭时自动终止该应用程序。</title>
       <pubDate>Thu, 09 Apr 2026 16:00:00 +0000</pubDate>
