@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### April 11, 2026 
+- [jeffy5/flycode: FlyCode 是一个面向 Android 和 iOS 的 opencode 移动客户端。你可以通过它连接自己的 opencode server，浏览项目、继续已有会话，并在移动端和 coding agent 协作。](https://github.com/jeffy5/flycode) 
 ### April 10, 2026 
 - [chentao1006/Quitty: Quitty 是一款轻量级、现代化的 macOS 工具，在应用程序最后一个窗口关闭时自动终止该应用程序。](https://github.com/chentao1006/Quitty) 
 - [zellij-org/zellij: Zellij 是一个工作空间，面向开发人员、面向操作人员以及所有热爱终端的人。类似的程序有时也被称为 "终端复用器"。](https://github.com/zellij-org/zellij) 
