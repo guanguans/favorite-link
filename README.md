@@ -16,6 +16,7 @@
 ### April 12, 2026 
 - [momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。](https://github.com/momenbasel/PureMac) 
 - [dodo-reach/hermes-desktop: Hermes 的原生 Mac 工作区：真正的 SSH，真正的终端，真正的会话数据。](https://github.com/dodo-reach/hermes-desktop) 
+- [momenbasel/keyFinder: Chrome 扩展程序，可在你访问的每个页面上被动发现泄露的 API 密钥、令牌和机密信息。支持 80 多种模式。](https://github.com/momenbasel/keyFinder) 
 ### April 11, 2026 
 - [jeffy5/flycode: FlyCode 是一个面向 Android 和 iOS 的 opencode 移动客户端。你可以通过它连接自己的 opencode server，浏览项目、继续已有会话，并在移动端和 coding agent 协作。](https://github.com/jeffy5/flycode) 
 ### April 10, 2026 
