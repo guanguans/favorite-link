@@ -12,6 +12,9 @@
 
 
 
+
+### April 12, 2026 
+- [momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。](https://github.com/momenbasel/PureMac) 
 ### April 11, 2026 
 - [jeffy5/flycode: FlyCode 是一个面向 Android 和 iOS 的 opencode 移动客户端。你可以通过它连接自己的 opencode server，浏览项目、继续已有会话，并在移动端和 coding agent 协作。](https://github.com/jeffy5/flycode) 
 ### April 10, 2026 
