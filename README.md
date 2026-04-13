@@ -13,6 +13,9 @@
 
 
 
+
+### April 13, 2026 
+- [ninxsoft/Mist: 一个自动下载 macOS 固件/安装程序的 Mac 工具。](https://github.com/ninxsoft/Mist) 
 ### April 12, 2026 
 - [momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。](https://github.com/momenbasel/PureMac) 
 - [dodo-reach/hermes-desktop: Hermes 的原生 Mac 工作区：真正的 SSH，真正的终端，真正的会话数据。](https://github.com/dodo-reach/hermes-desktop) 
