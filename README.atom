@@ -45,6 +45,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[OnionBrowser/OnionBrowser: 一款开源、增强隐私的 iOS 网页浏览器，利用 Tor 匿名网络]]></title>
+    <published>2026-04-12T00:00:00+00:00</published>
+    <updated>2026-04-12T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/OnionBrowser/OnionBrowser"/>
+    <id>https://github.com/OnionBrowser/OnionBrowser</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/OnionBrowser/OnionBrowser" target="_blank">OnionBrowser/OnionBrowser: 一款开源、增强隐私的 iOS 网页浏览器，利用 Tor
+匿名网络</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/OnionBrowser/OnionBrowser" target="_blank">https://github.com/OnionBrowser/OnionBrowser</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[momenbasel/PureMac: 免费开源的 macOS 清理工具。CleanMyMac 的替代品，无任何遥测。原生 SwiftUI，支持定时自动清理，清理 Xcode/Homebrew/系统缓存。MIT 许可。]]></title>
     <published>2026-04-11T16:00:00+00:00</published>
     <updated>2026-04-11T16:00:00+00:00</updated>
