@@ -14,6 +14,7 @@
 ### April 14, 2026 
 - [lifedever/health-tick-release: macOS 菜单栏久坐提醒工具 久坐提醒 · 强制休息 · 习惯养成](https://github.com/lifedever/health-tick-release) 
 - [lifedever/PasteMemo-app: macOS 智能剪贴板管理器](https://github.com/lifedever/PasteMemo-app) 
+- [whoeevee/EeveeSpotifyReborn: 此修改让Spotify认为你拥有高级订阅，免费收听音乐，就像Spotilife一样，并提供一些额外功能，如自定义歌词。](https://github.com/whoeevee/EeveeSpotifyReborn) 
 ### April 13, 2026 
 - [ninxsoft/Mist: 一个自动下载 macOS 固件/安装程序的 Mac 工具。](https://github.com/ninxsoft/Mist) 
 - [yattee/yattee: 面向隐私的 iOS、tvOS 和 macOS 视频播放器](https://github.com/yattee/yattee) 
