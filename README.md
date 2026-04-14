@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 14, 2026 
+- [lifedever/health-tick-release: macOS 菜单栏久坐提醒工具 久坐提醒 · 强制休息 · 习惯养成](https://github.com/lifedever/health-tick-release) 
 ### April 13, 2026 
 - [ninxsoft/Mist: 一个自动下载 macOS 固件/安装程序的 Mac 工具。](https://github.com/ninxsoft/Mist) 
 - [yattee/yattee: 面向隐私的 iOS、tvOS 和 macOS 视频播放器](https://github.com/yattee/yattee) 
