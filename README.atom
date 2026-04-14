@@ -46,6 +46,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[whoeevee/EeveeSpotifyReborn: 此修改让 Spotify 认为你拥有高级订阅，免费收听音乐，就像 Spotilife 一样，并提供一些额外功能，如自定义歌词。]]></title>
+    <published>2026-04-13T00:00:00+00:00</published>
+    <updated>2026-04-13T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/whoeevee/EeveeSpotifyReborn"/>
+    <id>https://github.com/whoeevee/EeveeSpotifyReborn</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/whoeevee/EeveeSpotifyReborn" target="_blank">whoeevee/EeveeSpotifyReborn: 此修改让 Spotify
+认为你拥有高级订阅，免费收听音乐，就像 Spotilife 一样，并提供一些额外功能，如自定义歌词。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/whoeevee/EeveeSpotifyReborn" target="_blank">https://github.com/whoeevee/EeveeSpotifyReborn</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ninxsoft/Mist: 一个自动下载 macOS 固件/安装程序的 Mac 工具。]]></title>
     <published>2026-04-12T16:00:00+00:00</published>
     <updated>2026-04-12T16:00:00+00:00</updated>
