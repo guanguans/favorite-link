@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### April 15, 2026 
+- [geodro/lerd: 开源的、类似 Herd 的本地 PHP 开发环境，适用于 Linux 和 macOS。自动 .test 域名、按项目隔离的 PHP/Node、单命令 TLS。原生支持 Podman，无需 root 权限。](https://github.com/geodro/lerd) 
 ### April 14, 2026 
 - [lifedever/health-tick-release: macOS 菜单栏久坐提醒工具 久坐提醒 · 强制休息 · 习惯养成](https://github.com/lifedever/health-tick-release) 
 - [lifedever/PasteMemo-app: macOS 智能剪贴板管理器](https://github.com/lifedever/PasteMemo-app) 
