@@ -19,12 +19,12 @@ use Ergebnis\License\Year;
 use Ergebnis\PhpCsFixer\Config\Factory;
 use Ergebnis\PhpCsFixer\Config\Fixers;
 use Ergebnis\PhpCsFixer\Config\Rules;
-use Ergebnis\PhpCsFixer\Config\RuleSet\Php82;
+use Ergebnis\PhpCsFixer\Config\RuleSet\Php85;
 use PhpCsFixer\Finder;
 
 require __DIR__.'/vendor/autoload.php';
 
-return Factory::fromRuleSet(Php82::create()
+return Factory::fromRuleSet(Php85::create()
     ->withHeader(
         (static function (): string {
             $mit = MIT::text(
