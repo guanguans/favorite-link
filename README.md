@@ -15,6 +15,7 @@
 
 ### April 16, 2026 
 - [Brkgng/ScrollSnap: 一款用于捕捉和拼接滚动截图的 macOS 应用。](https://github.com/Brkgng/ScrollSnap) 
+- [lbr77/SideImpactor: 基于浏览器的IPA签名与安装。通过WebUSB连接iOS设备，使用您的苹果开发者账号进行签名，并在同一个网页上完成安装。](https://github.com/lbr77/SideImpactor) 
 ### April 15, 2026 
 - [geodro/lerd: 开源的、类似 Herd 的本地 PHP 开发环境，适用于 Linux 和 macOS。自动 .test 域名、按项目隔离的 PHP/Node、单命令 TLS。原生支持 Podman，无需 root 权限。](https://github.com/geodro/lerd) 
 - [bruits/sampo: 自动化变更日志、版本管理和发布——即使是跨多个包注册表的 monorepo 也能轻松应对。目前支持的生态系统包括：Rust（Crates）、JavaScript/TypeScript（npm）、Elixir（Hex）、Python（PyPI）、PHP（Packagist）……更多即将支持！](https://github.com/bruits/sampo) 
