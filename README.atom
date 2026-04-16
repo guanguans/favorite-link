@@ -29,6 +29,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[lbr77/SideImpactor: 基于浏览器的 IPA 签名与安装。通过 WebUSB 连接 iOS 设备，使用您的苹果开发者账号进行签名，并在同一个网页上完成安装。]]></title>
+    <published>2026-04-15T08:00:00+00:00</published>
+    <updated>2026-04-15T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/lbr77/SideImpactor"/>
+    <id>https://github.com/lbr77/SideImpactor</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/lbr77/SideImpactor" target="_blank">lbr77/SideImpactor: 基于浏览器的 IPA 签名与安装。通过 WebUSB 连接 iOS
+设备，使用您的苹果开发者账号进行签名，并在同一个网页上完成安装。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/lbr77/SideImpactor" target="_blank">https://github.com/lbr77/SideImpactor</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[geodro/lerd: 开源的、类似 Herd 的本地 PHP 开发环境，适用于 Linux 和 macOS。自动 .test 域名、按项目隔离的 PHP/Node、单命令 TLS。原生支持 Podman，无需 root 权限。]]></title>
     <published>2026-04-14T16:00:00+00:00</published>
     <updated>2026-04-14T16:00:00+00:00</updated>
