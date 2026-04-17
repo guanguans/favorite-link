@@ -13,6 +13,9 @@
 
 
 
+
+### April 17, 2026 
+- [odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。](https://github.com/odvcencio/gotreesitter) 
 ### April 16, 2026 
 - [Brkgng/ScrollSnap: 一款用于捕捉和拼接滚动截图的 macOS 应用。](https://github.com/Brkgng/ScrollSnap) 
 - [lbr77/SideImpactor: 基于浏览器的 IPA 签名与安装。通过 WebUSB 连接 iOS 设备，使用您的苹果开发者账号进行签名，并在同一个网页上完成安装。](https://github.com/lbr77/SideImpactor) 
