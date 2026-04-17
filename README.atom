@@ -46,6 +46,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Guovin/iptv-api: ⚡️IPTV 直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI 多端部署]]></title>
+    <published>2026-04-16T00:00:00+00:00</published>
+    <updated>2026-04-16T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Guovin/iptv-api"/>
+    <id>https://github.com/Guovin/iptv-api</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Guovin/iptv-api" target="_blank">Guovin/iptv-api: ⚡️IPTV
+直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI
+多端部署</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Guovin/iptv-api" target="_blank">https://github.com/Guovin/iptv-api</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Brkgng/ScrollSnap: 一款用于捕捉和拼接滚动截图的 macOS 应用。]]></title>
     <published>2026-04-15T16:00:00+00:00</published>
     <updated>2026-04-15T16:00:00+00:00</updated>
