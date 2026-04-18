@@ -46,6 +46,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[kookob/rzsz: rzsz 是经典 Unix 文件传输工具 lrzsz 的现代化 Rust 重写。通过 ZModem、XModem、YModem 协议在终端连接上传输文件。]]></title>
+    <published>2026-04-17T00:00:00+00:00</published>
+    <updated>2026-04-17T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/kookob/rzsz"/>
+    <id>https://github.com/kookob/rzsz</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/kookob/rzsz" target="_blank">kookob/rzsz: rzsz 是经典 Unix 文件传输工具 lrzsz 的现代化 Rust 重写。通过
+ZModem、XModem、YModem 协议在终端连接上传输文件。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/kookob/rzsz" target="_blank">https://github.com/kookob/rzsz</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。]]></title>
     <published>2026-04-16T16:00:00+00:00</published>
     <updated>2026-04-16T16:00:00+00:00</updated>

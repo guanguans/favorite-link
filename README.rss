@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>kookob/rzsz: rzsz 是经典 Unix 文件传输工具 lrzsz 的现代化 Rust 重写。通过 ZModem、XModem、YModem 协议在终端连接上传输文件。</title>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/kookob/rzsz</link>
+      <guid>https://github.com/kookob/rzsz</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/kookob/rzsz" target="_blank">kookob/rzsz: rzsz 是经典 Unix 文件传输工具 lrzsz 的现代化 Rust 重写。通过 ZModem、XModem、YModem 协议在终端连接上传输文件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/kookob/rzsz" target="_blank">https://github.com/kookob/rzsz</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。</title>
       <pubDate>Thu, 16 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/odvcencio/gotreesitter</link>
