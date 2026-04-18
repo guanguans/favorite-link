@@ -14,6 +14,7 @@
 ### April 18, 2026 
 - [AnInsomniacy/motrix-next-extension: Motrix Next 浏览器扩展——通过智能过滤和实时控制拦截和重定向下载](https://github.com/AnInsomniacy/motrix-next-extension) 
 - [palemoky/fight-the-landlord: 🃏 让斗地主回归纯粹 - 无控牌，真公平 ⚖️](https://github.com/palemoky/fight-the-landlord) 
+- [kookob/rzsz: rzsz 是经典 Unix 文件传输工具 lrzsz 的现代化 Rust 重写。通过 ZModem、XModem、YModem 协议在终端连接上传输文件。](https://github.com/kookob/rzsz) 
 ### April 17, 2026 
 - [odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。](https://github.com/odvcencio/gotreesitter) 
 - [github/gh-stack: 用于管理堆叠分支和拉取请求的 GitHub CLI 扩展。](https://github.com/github/gh-stack) 
