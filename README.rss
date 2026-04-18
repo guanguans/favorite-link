@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>dortania/OpenCore-Legacy-Patcher: 我们项目的主要目标是为苹果不再支持的 Mac 注入新活力，使 2007 年及更早的机器也能安装和使用 macOS Big Sur 及更新版本。</title>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/dortania/OpenCore-Legacy-Patcher/</link>
+      <guid>https://github.com/dortania/OpenCore-Legacy-Patcher/</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/dortania/OpenCore-Legacy-Patcher/" target="_blank">dortania/OpenCore-Legacy-Patcher: 我们项目的主要目标是为苹果不再支持的 Mac 注入新活力，使 2007 年及更早的机器也能安装和使用 macOS Big Sur 及更新版本。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/dortania/OpenCore-Legacy-Patcher/" target="_blank">https://github.com/dortania/OpenCore-Legacy-Patcher/</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。</title>
       <pubDate>Thu, 16 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/odvcencio/gotreesitter</link>

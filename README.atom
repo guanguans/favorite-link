@@ -63,6 +63,24 @@ ZModem、XModem、YModem 协议在终端连接上传输文件。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[dortania/OpenCore-Legacy-Patcher: 我们项目的主要目标是为苹果不再支持的 Mac 注入新活力，使 2007 年及更早的机器也能安装和使用 macOS Big Sur 及更新版本。]]></title>
+    <published>2026-04-16T16:00:00+00:00</published>
+    <updated>2026-04-16T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/dortania/OpenCore-Legacy-Patcher/"/>
+    <id>https://github.com/dortania/OpenCore-Legacy-Patcher/</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/dortania/OpenCore-Legacy-Patcher/" target="_blank">dortania/OpenCore-Legacy-Patcher:
+我们项目的主要目标是为苹果不再支持的 Mac 注入新活力，使 2007 年及更早的机器也能安装和使用 macOS Big Sur
+及更新版本。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/dortania/OpenCore-Legacy-Patcher/" target="_blank">https://github.com/dortania/OpenCore-Legacy-Patcher/</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[odvcencio/gotreesitter: 纯 Go tree-sitter 运行时。无 CGo，无 C 语言工具链。可交叉编译至 Go 支持的任何 GOOS/GOARCH 目标，包括 wasip1。]]></title>
     <published>2026-04-16T16:00:00+00:00</published>
     <updated>2026-04-16T16:00:00+00:00</updated>
