@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-04-17T16:00:00+00:00</updated>
+  <updated>2026-04-18T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。]]></title>
+    <published>2026-04-18T16:00:00+00:00</published>
+    <updated>2026-04-18T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/MrPunyapal/laravel-attributes-list"/>
+    <id>https://github.com/MrPunyapal/laravel-attributes-list</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/MrPunyapal/laravel-attributes-list" target="_blank">MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用
+PHP 属性的列表。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/MrPunyapal/laravel-attributes-list" target="_blank">https://github.com/MrPunyapal/laravel-attributes-list</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[AnInsomniacy/motrix-next-extension: Motrix Next 浏览器扩展——通过智能过滤和实时控制拦截和重定向下载]]></title>
     <published>2026-04-17T16:00:00+00:00</published>
