@@ -14,6 +14,7 @@
 
 ### April 19, 2026 
 - [MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。](https://github.com/MrPunyapal/laravel-attributes-list) 
+- [stonerl/Thaw: Thaw 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为最具多功能性的菜单栏工具之一。](https://github.com/stonerl/Thaw) 
 ### April 18, 2026 
 - [AnInsomniacy/motrix-next-extension: Motrix Next 浏览器扩展——通过智能过滤和实时控制拦截和重定向下载](https://github.com/AnInsomniacy/motrix-next-extension) 
 - [palemoky/fight-the-landlord: 🃏 让斗地主回归纯粹 - 无控牌，真公平 ⚖️](https://github.com/palemoky/fight-the-landlord) 
