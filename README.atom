@@ -30,6 +30,23 @@ PHP 属性的列表。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[stonerl/Thaw: Thaw 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为最具多功能性的菜单栏工具之一。]]></title>
+    <published>2026-04-18T08:00:00+00:00</published>
+    <updated>2026-04-18T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/stonerl/Thaw"/>
+    <id>https://github.com/stonerl/Thaw</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/stonerl/Thaw" target="_blank">stonerl/Thaw: Thaw
+是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为最具多功能性的菜单栏工具之一。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/stonerl/Thaw" target="_blank">https://github.com/stonerl/Thaw</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[AnInsomniacy/motrix-next-extension: Motrix Next 浏览器扩展——通过智能过滤和实时控制拦截和重定向下载]]></title>
     <published>2026-04-17T16:00:00+00:00</published>
     <updated>2026-04-17T16:00:00+00:00</updated>
