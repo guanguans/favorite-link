@@ -15,6 +15,7 @@
 
 ### April 20, 2026 
 - [igor-php/igor-php: 专为 FrankenPHP 的 Worker 模式设计的静态分析和状态变更审计工具。](https://github.com/igor-php/igor-php) 
+- [morcen/passage: Passage 是一个轻量级的 Laravel API 网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel 本身类似的路由语法。](https://github.com/morcen/passage) 
 ### April 19, 2026 
 - [MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。](https://github.com/MrPunyapal/laravel-attributes-list) 
 - [stonerl/Thaw: Thaw 是一个强大的菜单栏管理工具。虽然它的主要功能是隐藏和显示菜单栏项目，但它旨在涵盖各种附加功能，使其成为最具多功能性的菜单栏工具之一。](https://github.com/stonerl/Thaw) 
