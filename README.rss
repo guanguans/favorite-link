@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>morcen/passage: Passage 是一个轻量级的 Laravel API 网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel 本身类似的路由语法。</title>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/morcen/passage</link>
+      <guid>https://github.com/morcen/passage</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/morcen/passage" target="_blank">morcen/passage: Passage 是一个轻量级的 Laravel API 网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel 本身类似的路由语法。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/morcen/passage" target="_blank">https://github.com/morcen/passage</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。</title>
       <pubDate>Sat, 18 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/MrPunyapal/laravel-attributes-list</link>

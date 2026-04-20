@@ -30,6 +30,24 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[morcen/passage: Passage 是一个轻量级的 Laravel API 网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel 本身类似的路由语法。]]></title>
+    <published>2026-04-19T08:00:00+00:00</published>
+    <updated>2026-04-19T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/morcen/passage"/>
+    <id>https://github.com/morcen/passage</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/morcen/passage" target="_blank">morcen/passage: Passage 是一个轻量级的 Laravel API
+网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel
+本身类似的路由语法。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/morcen/passage" target="_blank">https://github.com/morcen/passage</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。]]></title>
     <published>2026-04-18T16:00:00+00:00</published>
     <updated>2026-04-18T16:00:00+00:00</updated>
