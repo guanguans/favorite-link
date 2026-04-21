@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 19 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 20 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>heartleo/hn-cli: 黑客新闻的终端客户端</title>
+      <pubDate>Mon, 20 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/heartleo/hn-cli</link>
+      <guid>https://github.com/heartleo/hn-cli</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/heartleo/hn-cli" target="_blank">heartleo/hn-cli: 黑客新闻的终端客户端</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/heartleo/hn-cli" target="_blank">https://github.com/heartleo/hn-cli</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>lvboda/lizhi-mp3: 李志所有专辑（除 live 外）的 320K mp3 整理。</title>
+      <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/lvboda/lizhi-mp3</link>
+      <guid>https://github.com/lvboda/lizhi-mp3</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/lvboda/lizhi-mp3" target="_blank">lvboda/lizhi-mp3: 李志所有专辑（除 live 外）的 320K mp3 整理。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/lvboda/lizhi-mp3" target="_blank">https://github.com/lvboda/lizhi-mp3</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>igor-php/igor-php: 专为 FrankenPHP 的 Worker 模式设计的静态分析和状态变更审计工具。</title>
       <pubDate>Sun, 19 Apr 2026 16:00:00 +0000</pubDate>
