@@ -13,6 +13,9 @@
 
 
 
+
+### April 21, 2026 
+- [heartleo/hn-cli: 黑客新闻的终端客户端](https://github.com/heartleo/hn-cli) 
 ### April 20, 2026 
 - [igor-php/igor-php: 专为 FrankenPHP 的 Worker 模式设计的静态分析和状态变更审计工具。](https://github.com/igor-php/igor-php) 
 - [morcen/passage: Passage 是一个轻量级的 Laravel API 网关包，可以将传入请求代理到外部服务。它为每个路由提供对 HTTP 方法、路径、请求转换和响应转换的控制——使用与 Laravel 本身类似的路由语法。](https://github.com/morcen/passage) 
