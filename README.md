@@ -12,7 +12,7 @@
 
 
 ### April 22, 2026 
-- [alexandre-daubois/ember: 🔥 Caddy服务器的实时终端仪表板，内置FrankenPHP支持](https://github.com/alexandre-daubois/ember) 
+- [alexandre-daubois/ember: 🔥 Caddy 服务器的实时终端仪表板，内置 FrankenPHP 支持](https://github.com/alexandre-daubois/ember) 
 ### April 21, 2026 
 - [heartleo/hn-cli: 黑客新闻的终端客户端](https://github.com/heartleo/hn-cli) 
 - [lvboda/lizhi-mp3: 李志所有专辑（除 live 外）的 320K mp3 整理。](https://github.com/lvboda/lizhi-mp3) 
