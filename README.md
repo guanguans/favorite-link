@@ -13,7 +13,7 @@
 
 ### April 22, 2026 
 - [alexandre-daubois/ember: 🔥 Caddy 服务器的实时终端仪表板，内置 FrankenPHP 支持](https://github.com/alexandre-daubois/ember) 
-- [awizemann/scarf: Hermes AI代理的原生macOS图形界面——支持多窗口、多服务器（本地和通过SSH远程）。聊天、仪表盘、会话、记忆、定时任务、MCP等功能。](https://github.com/awizemann/scarf) 
+- [awizemann/scarf: Hermes AI 代理的原生 macOS 图形界面——支持多窗口、多服务器（本地和通过 SSH 远程）。聊天、仪表盘、会话、记忆、定时任务、MCP 等功能。](https://github.com/awizemann/scarf) 
 ### April 21, 2026 
 - [heartleo/hn-cli: 黑客新闻的终端客户端](https://github.com/heartleo/hn-cli) 
 - [lvboda/lizhi-mp3: 李志所有专辑（除 live 外）的 320K mp3 整理。](https://github.com/lvboda/lizhi-mp3) 

@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[awizemann/scarf: Hermes AI 代理的原生 macOS 图形界面——支持多窗口、多服务器（本地和通过 SSH 远程）。聊天、仪表盘、会话、记忆、定时任务、MCP 等功能。]]></title>
+    <published>2026-04-21T08:00:00+00:00</published>
+    <updated>2026-04-21T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/awizemann/scarf"/>
+    <id>https://github.com/awizemann/scarf</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/awizemann/scarf" target="_blank">awizemann/scarf: Hermes AI 代理的原生 macOS
+图形界面——支持多窗口、多服务器（本地和通过 SSH 远程）。聊天、仪表盘、会话、记忆、定时任务、MCP 等功能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/awizemann/scarf" target="_blank">https://github.com/awizemann/scarf</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[heartleo/hn-cli: 黑客新闻的终端客户端]]></title>
     <published>2026-04-20T16:00:00+00:00</published>
     <updated>2026-04-20T16:00:00+00:00</updated>
