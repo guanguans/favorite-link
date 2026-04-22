@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 22, 2026 
+- [alexandre-daubois/ember: 🔥 Caddy服务器的实时终端仪表板，内置FrankenPHP支持](https://github.com/alexandre-daubois/ember) 
 ### April 21, 2026 
 - [heartleo/hn-cli: 黑客新闻的终端客户端](https://github.com/heartleo/hn-cli) 
 - [lvboda/lizhi-mp3: 李志所有专辑（除 live 外）的 320K mp3 整理。](https://github.com/lvboda/lizhi-mp3) 
