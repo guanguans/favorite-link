@@ -50,6 +50,23 @@ Markdown
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[imfile-io/imfile-desktop: imFile 是一款功能全面的下载管理器，支持下载 HTTP、FTP、BitTorrent、Magnet、ed2k 等。]]></title>
+    <published>2026-04-22T00:00:00+00:00</published>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/imfile-io/imfile-desktop"/>
+    <id>https://github.com/imfile-io/imfile-desktop</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/imfile-io/imfile-desktop" target="_blank">imfile-io/imfile-desktop: imFile 是一款功能全面的下载管理器，支持下载
+HTTP、FTP、BitTorrent、Magnet、ed2k 等。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/imfile-io/imfile-desktop" target="_blank">https://github.com/imfile-io/imfile-desktop</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[alexandre-daubois/ember: 🔥 Caddy 服务器的实时终端仪表板，内置 FrankenPHP 支持]]></title>
     <published>2026-04-21T16:00:00+00:00</published>
     <updated>2026-04-21T16:00:00+00:00</updated>
