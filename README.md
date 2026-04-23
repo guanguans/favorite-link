@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### April 23, 2026 
+- [duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。  资源](https://github.com/duxweb/codux) 
 ### April 22, 2026 
 - [alexandre-daubois/ember: 🔥 Caddy 服务器的实时终端仪表板，内置 FrankenPHP 支持](https://github.com/alexandre-daubois/ember) 
 - [awizemann/scarf: Hermes AI 代理的原生 macOS 图形界面——支持多窗口、多服务器（本地和通过 SSH 远程）。聊天、仪表盘、会话、记忆、定时任务、MCP 等功能。](https://github.com/awizemann/scarf) 
