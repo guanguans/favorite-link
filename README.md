@@ -15,6 +15,7 @@
 ### April 23, 2026 
 - [duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源](https://github.com/duxweb/codux) 
 - [mhersson/mpls: Markdown Preview Language Server () 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls) 
+- [imfile-io/imfile-desktop: imFile 是一款功能全面的下载管理器，支持下载 HTTP、FTP、BitTorrent、Magnet、ed2k 等。](https://github.com/imfile-io/imfile-desktop) 
 ### April 22, 2026 
 - [alexandre-daubois/ember: 🔥 Caddy 服务器的实时终端仪表板，内置 FrankenPHP 支持](https://github.com/alexandre-daubois/ember) 
 - [awizemann/scarf: Hermes AI 代理的原生 macOS 图形界面——支持多窗口、多服务器（本地和通过 SSH 远程）。聊天、仪表盘、会话、记忆、定时任务、MCP 等功能。](https://github.com/awizemann/scarf) 
