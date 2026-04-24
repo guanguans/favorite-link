@@ -97,6 +97,23 @@ PHP 属性的列表。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[goforj/str: 一个流畅的、受 Laravel 启发的 Go 字符串工具包，具有显式、符文安全的辅助函数和可预测的行为。]]></title>
+    <published>2026-04-22T00:00:00+00:00</published>
+    <updated>2026-04-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/goforj/str"/>
+    <id>https://github.com/goforj/str</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/goforj/str" target="_blank">goforj/str:
+一个流畅的、受 Laravel 启发的 Go 字符串工具包，具有显式、符文安全的辅助函数和可预测的行为。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/goforj/str" target="_blank">https://github.com/goforj/str</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源]]></title>
     <published>2026-04-22T16:00:00+00:00</published>
     <updated>2026-04-22T16:00:00+00:00</updated>
