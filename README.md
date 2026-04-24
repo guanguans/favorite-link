@@ -12,6 +12,9 @@
 
 
 
+
+### April 24, 2026 
+- [hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。](https://github.com/hua1995116/indiehackers-steps) 
 ### April 23, 2026 
 - [duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源](https://github.com/duxweb/codux) 
 - [mhersson/mpls: Markdown Preview Language Server () 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls) 
