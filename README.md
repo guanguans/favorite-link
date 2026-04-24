@@ -18,6 +18,7 @@
 - [hermes-webui/hermes-swift-mac: Hermes Web UI 的原生 macOS 桌面应用。](https://github.com/hermes-webui/hermes-swift-mac) 
 - [AmintaCCCP/GithubStarsManager: 一个基于 AI 的 GitHub 星标仓库管理工具，帮助您更好地组织和管理您的 GitHub 星标项目。](https://github.com/AmintaCCCP/GithubStarsManager) 
 - [MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。](https://github.com/MrPunyapal/laravel-attributes-list) 
+- [charlie0129/batt: 在苹果硅芯片的MacBook上控制和限制电池充电。](https://github.com/charlie0129/batt) 
 ### April 23, 2026 
 - [duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源](https://github.com/duxweb/codux) 
 - [mhersson/mpls: Markdown Preview Language Server () 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls) 
