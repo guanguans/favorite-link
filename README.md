@@ -20,6 +20,7 @@
 - [MrPunyapal/laravel-attributes-list: Laravel 框架中所有可用 PHP 属性的列表。](https://github.com/MrPunyapal/laravel-attributes-list) 
 - [charlie0129/batt: 在苹果硅芯片的 MacBook 上控制和限制电池充电。](https://github.com/charlie0129/batt) 
 - [goforj/str: 一个流畅的、受 Laravel 启发的 Go 字符串工具包，具有显式、符文安全的辅助函数和可预测的行为。](https://github.com/goforj/str) 
+- [Mouseww/anything-analyzer: 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE](https://github.com/Mouseww/anything-analyzer) 
 ### April 23, 2026 
 - [duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源](https://github.com/duxweb/codux) 
 - [mhersson/mpls: Markdown Preview Language Server () 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls) 
