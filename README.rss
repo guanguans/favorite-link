@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 23 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code &amp; Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。</title>
+      <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/graykode/abtop</link>
+      <guid>https://github.com/graykode/abtop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/graykode/abtop" target="_blank">graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/graykode/abtop" target="_blank">https://github.com/graykode/abtop</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。</title>
       <pubDate>Thu, 23 Apr 2026 16:00:00 +0000</pubDate>
