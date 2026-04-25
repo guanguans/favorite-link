@@ -13,6 +13,9 @@
 
 
 
+
+### April 25, 2026 
+- [graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。](https://github.com/graykode/abtop) 
 ### April 24, 2026 
 - [hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。](https://github.com/hua1995116/indiehackers-steps) 
 - [hermes-webui/hermes-swift-mac: Hermes Web UI 的原生 macOS 桌面应用。](https://github.com/hermes-webui/hermes-swift-mac) 
