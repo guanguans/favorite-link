@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>patrickhener/goshs: goshs 是一个单文件服务器，适用于你需要比 Python 的 SimpleHTTPServer 更强大但又不想配置 Apache 的场景。支持 HTTP/S、WebDAV、SFTP、SMB、基本认证、分享链接、DNS/SMTP 回调、NTLM 哈希捕获与破解——全部只需一个命令。</title>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/patrickhener/goshs</link>
+      <guid>https://github.com/patrickhener/goshs</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/patrickhener/goshs" target="_blank">patrickhener/goshs: goshs 是一个单文件服务器，适用于你需要比 Python 的 SimpleHTTPServer 更强大但又不想配置 Apache 的场景。支持 HTTP/S、WebDAV、SFTP、SMB、基本认证、分享链接、DNS/SMTP 回调、NTLM 哈希捕获与破解——全部只需一个命令。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/patrickhener/goshs" target="_blank">https://github.com/patrickhener/goshs</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。</title>
       <pubDate>Thu, 23 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/hua1995116/indiehackers-steps</link>
