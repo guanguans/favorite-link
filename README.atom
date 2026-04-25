@@ -66,6 +66,25 @@ HTTP/S、WebDAV、SFTP、SMB、基本认证、分享链接、DNS/SMTP 回调、N
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Alishahryar1/free-claude-code: 一个轻量级代理，可将 Claude Code 的 Anthropic API 调用路由到 NVIDIA NIM（每分钟 40 次免费请求）、OpenRouter（数百种模型）、DeepSeek（直接 API）、LM Studio（完全本地）或 llama.cpp（本地支持 Anthropic 端点）。]]></title>
+    <published>2026-04-23T16:00:00+00:00</published>
+    <updated>2026-04-23T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Alishahryar1/free-claude-code"/>
+    <id>https://github.com/Alishahryar1/free-claude-code</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">Alishahryar1/free-claude-code: 一个轻量级代理，可将 Claude Code 的
+Anthropic API 调用路由到 NVIDIA NIM（每分钟 40
+次免费请求）、OpenRouter（数百种模型）、DeepSeek（直接 API）、LM Studio（完全本地）或
+llama.cpp（本地支持 Anthropic 端点）。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">https://github.com/Alishahryar1/free-claude-code</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。]]></title>
     <published>2026-04-23T16:00:00+00:00</published>
     <updated>2026-04-23T16:00:00+00:00</updated>
