@@ -31,6 +31,40 @@ Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，�
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。]]></title>
+    <published>2026-04-25T08:00:00+00:00</published>
+    <updated>2026-04-25T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rtk-ai/rtk"/>
+    <id>https://github.com/rtk-ai/rtk</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/rtk-ai/rtk" target="_blank">rtk-ai/rtk:
+CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/rtk-ai/rtk" target="_blank">https://github.com/rtk-ai/rtk</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。]]></title>
+    <published>2026-04-25T00:00:00+00:00</published>
+    <updated>2026-04-25T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/cameroncooke/AXe"/>
+    <id>https://github.com/cameroncooke/AXe</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/cameroncooke/AXe" target="_blank">cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API
+与模拟器交互的命令行工具。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/cameroncooke/AXe" target="_blank">https://github.com/cameroncooke/AXe</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。]]></title>
     <published>2026-04-24T16:00:00+00:00</published>
     <updated>2026-04-24T16:00:00+00:00</updated>

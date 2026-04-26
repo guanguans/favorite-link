@@ -23,6 +23,32 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。</title>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <guid>https://github.com/rtk-ai/rtk</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rtk-ai/rtk" target="_blank">rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/rtk-ai/rtk" target="_blank">https://github.com/rtk-ai/rtk</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。</title>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/cameroncooke/AXe</link>
+      <guid>https://github.com/cameroncooke/AXe</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/cameroncooke/AXe" target="_blank">cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/cameroncooke/AXe" target="_blank">https://github.com/cameroncooke/AXe</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code &amp; Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。</title>
       <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/graykode/abtop</link>
