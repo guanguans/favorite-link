@@ -62,6 +62,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>suzuki-shunsuke/ghalint: ghalint 是一个命令行工具，用于检查 GitHub Actions 工作流程和 action.yaml 是否符合安全政策。</title>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/suzuki-shunsuke/ghalint</link>
+      <guid>https://github.com/suzuki-shunsuke/ghalint</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/suzuki-shunsuke/ghalint" target="_blank">suzuki-shunsuke/ghalint: ghalint 是一个命令行工具，用于检查 GitHub Actions 工作流程和 action.yaml 是否符合安全政策。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/suzuki-shunsuke/ghalint" target="_blank">https://github.com/suzuki-shunsuke/ghalint</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code &amp; Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。</title>
       <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/graykode/abtop</link>
