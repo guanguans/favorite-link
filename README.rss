@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能</title>
+      <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/ZekerTop/ai-cli-complete-notify</link>
+      <guid>https://github.com/ZekerTop/ai-cli-complete-notify</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ZekerTop/ai-cli-complete-notify" target="_blank">ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ZekerTop/ai-cli-complete-notify" target="_blank">https://github.com/ZekerTop/ai-cli-complete-notify</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code &amp; Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。</title>
       <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>

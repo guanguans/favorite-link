@@ -12,7 +12,7 @@
 
 
 ### April 26, 2026 
-- [ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI摘要等功能](https://github.com/ZekerTop/ai-cli-complete-notify) 
+- [ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能](https://github.com/ZekerTop/ai-cli-complete-notify) 
 ### April 25, 2026 
 - [graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。](https://github.com/graykode/abtop) 
 - [suzuki-shunsuke/pinact: pinact 是一个命令行工具，用于编辑 GitHub 工作流和复合操作文件，并固定操作和可复用工作流的版本。pinact 还可以更新它们的版本并验证版本注释。](https://github.com/suzuki-shunsuke/pinact) 
