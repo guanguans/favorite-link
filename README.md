@@ -16,6 +16,7 @@
 - [rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。](https://github.com/rtk-ai/rtk) 
 - [cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。](https://github.com/cameroncooke/AXe) 
 - [SuperManifolds/Burrow: Mullvad VPN 的轻量级本地 macOS WireGuard VPN 客户端。使用 SwiftUI 构建。](https://github.com/SuperManifolds/Burrow) 
+- [suzuki-shunsuke/ghalint: ghalint是一个命令行工具，用于检查GitHub Actions工作流程和action.yaml是否符合安全政策。](https://github.com/suzuki-shunsuke/ghalint) 
 ### April 25, 2026 
 - [graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。](https://github.com/graykode/abtop) 
 - [suzuki-shunsuke/pinact: pinact 是一个命令行工具，用于编辑 GitHub 工作流和复合操作文件，并固定操作和可复用工作流的版本。pinact 还可以更新它们的版本并验证版本注释。](https://github.com/suzuki-shunsuke/pinact) 
