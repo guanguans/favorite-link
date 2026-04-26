@@ -17,6 +17,7 @@
 - [cameroncooke/AXe: AXe 是一个用于通过苹果的私有辅助功能 API 与模拟器交互的命令行工具。](https://github.com/cameroncooke/AXe) 
 - [SuperManifolds/Burrow: Mullvad VPN 的轻量级本地 macOS WireGuard VPN 客户端。使用 SwiftUI 构建。](https://github.com/SuperManifolds/Burrow) 
 - [suzuki-shunsuke/ghalint: ghalint 是一个命令行工具，用于检查 GitHub Actions 工作流程和 action.yaml 是否符合安全政策。](https://github.com/suzuki-shunsuke/ghalint) 
+- [Nandanrmenon/florid: 使用干净的Material 3 UI从F-Droid存储库中浏览、搜索和安装开源Android应用程序。 用Flutter建造。](https://github.com/Nandanrmenon/florid) 
 ### April 25, 2026 
 - [graykode/abtop: 它就像 htop 一样，但专门用于监控 AI 编码代理。可以实时监控 Claude Code & Codex CLI 的会话、令牌、上下文窗口、速率限制和端口。](https://github.com/graykode/abtop) 
 - [suzuki-shunsuke/pinact: pinact 是一个命令行工具，用于编辑 GitHub 工作流和复合操作文件，并固定操作和可复用工作流的版本。pinact 还可以更新它们的版本并验证版本注释。](https://github.com/suzuki-shunsuke/pinact) 
