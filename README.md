@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### April 27, 2026 
+- [g3ntrix/Loole: Loole 是一款现代化的高性能 SOCKS5 隧道，它利用 Google 云端硬盘作为隐蔽传输层，绕过网络限制。它提供优质的 macOS 使用体验，并配备自动化设置向导。](https://github.com/g3ntrix/Loole) 
 ### April 26, 2026 
 - [ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能](https://github.com/ZekerTop/ai-cli-complete-notify) 
 - [rtk-ai/rtk: CLI 代理，可在常见开发命令中减少 60-90% 的 LLM 令牌消耗。单一 Rust 二进制文件，无任何依赖。](https://github.com/rtk-ai/rtk) 
