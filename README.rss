@@ -36,6 +36,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>open-webui/desktop: 您的 AI，就在您的桌面上。以原生应用方式打开 WebUI。本地运行模型或连接到任何服务器。</title>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <link>https://github.com/open-webui/desktop</link>
+      <guid>https://github.com/open-webui/desktop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/open-webui/desktop" target="_blank">open-webui/desktop: 您的 AI，就在您的桌面上。以原生应用方式打开 WebUI。本地运行模型或连接到任何服务器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/open-webui/desktop" target="_blank">https://github.com/open-webui/desktop</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能</title>
       <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/ZekerTop/ai-cli-complete-notify</link>

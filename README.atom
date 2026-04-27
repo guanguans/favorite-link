@@ -48,6 +48,23 @@ Redis。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[open-webui/desktop: 您的 AI，就在您的桌面上。以原生应用方式打开 WebUI。本地运行模型或连接到任何服务器。]]></title>
+    <published>2026-04-26T00:00:00+00:00</published>
+    <updated>2026-04-26T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/open-webui/desktop"/>
+    <id>https://github.com/open-webui/desktop</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/open-webui/desktop" target="_blank">open-webui/desktop: 您的 AI，就在您的桌面上。以原生应用方式打开
+WebUI。本地运行模型或连接到任何服务器。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/open-webui/desktop" target="_blank">https://github.com/open-webui/desktop</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能]]></title>
     <published>2026-04-25T16:00:00+00:00</published>
     <updated>2026-04-25T16:00:00+00:00</updated>
