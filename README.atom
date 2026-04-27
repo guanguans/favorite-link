@@ -65,6 +65,23 @@ WebUI。本地运行模型或连接到任何服务器。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务]]></title>
+    <published>2026-04-25T16:00:00+00:00</published>
+    <updated>2026-04-25T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/maillab/cloud-mail"/>
+    <id>https://github.com/maillab/cloud-mail</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/maillab/cloud-mail" target="_blank">maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到
+Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/maillab/cloud-mail" target="_blank">https://github.com/maillab/cloud-mail</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能]]></title>
     <published>2026-04-25T16:00:00+00:00</published>
     <updated>2026-04-25T16:00:00+00:00</updated>

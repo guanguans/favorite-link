@@ -49,6 +49,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务</title>
+      <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/maillab/cloud-mail</link>
+      <guid>https://github.com/maillab/cloud-mail</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/maillab/cloud-mail" target="_blank">maillab/cloud-mail: 只需要一个域名，就可以创建多个不同的邮箱，类似各大邮箱平台，本项目支持署到 Cloudflare Workers，降低服务器成本，搭建自己的邮箱服务</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/maillab/cloud-mail" target="_blank">https://github.com/maillab/cloud-mail</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>ZekerTop/ai-cli-complete-notify: 面向 Claude Code / Codex / OpenCode / Gemini 的多通道 AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI 摘要等功能</title>
       <pubDate>Sat, 25 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/ZekerTop/ai-cli-complete-notify</link>
