@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 26 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 27 Apr 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。</title>
+      <pubDate>Mon, 27 Apr 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/YanGusik/laravel-spawn</link>
+      <guid>https://github.com/YanGusik/laravel-spawn</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/YanGusik/laravel-spawn" target="_blank">YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/YanGusik/laravel-spawn" target="_blank">https://github.com/YanGusik/laravel-spawn</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>g3ntrix/Loole: Loole 是一款现代化的高性能 SOCKS5 隧道，它利用 Google 云端硬盘作为隐蔽传输层，绕过网络限制。它提供优质的 macOS 使用体验，并配备自动化设置向导。</title>
       <pubDate>Sun, 26 Apr 2026 16:00:00 +0000</pubDate>
