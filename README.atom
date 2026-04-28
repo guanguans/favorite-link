@@ -31,6 +31,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[gogpu/ui: 纯 Go GUI 工具包，基于 GoGPU——包含控件、布局和样式]]></title>
+    <published>2026-04-27T08:00:00+00:00</published>
+    <updated>2026-04-27T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/gogpu/ui"/>
+    <id>https://github.com/gogpu/ui</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/gogpu/ui" target="_blank">gogpu/ui: 纯
+Go GUI 工具包，基于 GoGPU——包含控件、布局和样式</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/gogpu/ui" target="_blank">https://github.com/gogpu/ui</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[g3ntrix/Loole: Loole 是一款现代化的高性能 SOCKS5 隧道，它利用 Google 云端硬盘作为隐蔽传输层，绕过网络限制。它提供优质的 macOS 使用体验，并配备自动化设置向导。]]></title>
     <published>2026-04-26T16:00:00+00:00</published>
     <updated>2026-04-26T16:00:00+00:00</updated>
