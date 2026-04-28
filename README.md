@@ -15,6 +15,7 @@
 
 ### April 28, 2026 
 - [YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。](https://github.com/YanGusik/laravel-spawn) 
+- [gogpu/ui: 纯Go GUI工具包，基于GoGPU——包含控件、布局和样式](https://github.com/gogpu/ui) 
 ### April 27, 2026 
 - [g3ntrix/Loole: Loole 是一款现代化的高性能 SOCKS5 隧道，它利用 Google 云端硬盘作为隐蔽传输层，绕过网络限制。它提供优质的 macOS 使用体验，并配备自动化设置向导。](https://github.com/g3ntrix/Loole) 
 - [gridex/gridex: 一个使用 Swift 和 AppKit 构建的原生 macOS / Windows / Linux 数据库 IDE。通过一个快速、键盘驱动的界面，从单一应用连接到 PostgreSQL、MySQL、SQLite 和 Redis。](https://github.com/gridex/gridex) 
