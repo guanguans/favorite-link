@@ -12,7 +12,7 @@
 
 ### April 29, 2026 
 - [spatie/laravel-blade-comments: 在查看已渲染页面的 HTML 时，你可能不再容易看出哪个 Blade 视图负责哪些 HTML。这个包会在每个渲染视图的前后添加 HTML，这样你可以立即知道应该去哪个 Blade 视图或组件修改输出。](https://github.com/spatie/laravel-blade-comments) 
-- [codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的AI辅助功能](https://github.com/codeErrorSleep/dbpaw) 
+- [codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能](https://github.com/codeErrorSleep/dbpaw) 
 ### April 28, 2026 
 - [YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。](https://github.com/YanGusik/laravel-spawn) 
 - [gogpu/ui: 纯 Go GUI 工具包，基于 GoGPU——包含控件、布局和样式](https://github.com/gogpu/ui) 

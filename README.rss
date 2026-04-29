@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能</title>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/codeErrorSleep/dbpaw</link>
+      <guid>https://github.com/codeErrorSleep/dbpaw</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/codeErrorSleep/dbpaw" target="_blank">codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/codeErrorSleep/dbpaw" target="_blank">https://github.com/codeErrorSleep/dbpaw</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。</title>
       <pubDate>Mon, 27 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/YanGusik/laravel-spawn</link>

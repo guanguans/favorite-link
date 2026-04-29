@@ -31,6 +31,22 @@ HTML，这样你可以立即知道应该去哪个 Blade 视图或组件修改输
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能]]></title>
+    <published>2026-04-28T08:00:00+00:00</published>
+    <updated>2026-04-28T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/codeErrorSleep/dbpaw"/>
+    <id>https://github.com/codeErrorSleep/dbpaw</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/codeErrorSleep/dbpaw" target="_blank">codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/codeErrorSleep/dbpaw" target="_blank">https://github.com/codeErrorSleep/dbpaw</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[YanGusik/laravel-spawn: Laravel Spawn 是由 PHP TrueAsync 提供支持的 Laravel 异步运行时。它在单个工作进程内以隔离的协程并发运行多个请求，消除了共享状态问题，同时无需线程或进程开销即可实现高性能。]]></title>
     <published>2026-04-27T16:00:00+00:00</published>
     <updated>2026-04-27T16:00:00+00:00</updated>
