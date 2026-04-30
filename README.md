@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### April 30, 2026 
+- [wxtsky/CodeIsland: macOS 灵动岛（刘海）实时 AI 编码 Agent 状态面板](https://github.com/wxtsky/CodeIsland) 
 ### April 29, 2026 
 - [spatie/laravel-blade-comments: 在查看已渲染页面的 HTML 时，你可能不再容易看出哪个 Blade 视图负责哪些 HTML。这个包会在每个渲染视图的前后添加 HTML，这样你可以立即知道应该去哪个 Blade 视图或组件修改输出。](https://github.com/spatie/laravel-blade-comments) 
 - [codeErrorSleep/dbpaw: 一个快速、现代的数据库客户端，支持可选的 AI 辅助功能](https://github.com/codeErrorSleep/dbpaw) 
