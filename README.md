@@ -14,7 +14,7 @@
 
 ### May 3, 2026 
 - [Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。](https://github.com/Sambigeara/pollen) 
-- [jegly/Box: 适用于Android的私有本地AI套件。基于Google AI Edge Gallery的分支，集成llama.cpp、whisper.cpp、stable-diffusion.cpp、支持GGUF导入、语音聊天、视觉AI、本地图片生成、生物识别锁、加密历史记录，以及NPU/TPU/GPU加速。](https://github.com/jegly/Box) 
+- [jegly/Box: 适用于 Android 的私有本地 AI 套件。基于 Google AI Edge Gallery 的分支，集成 llama.cpp、whisper.cpp、stable-diffusion.cpp、支持 GGUF 导入、语音聊天、视觉 AI、本地图片生成、生物识别锁、加密历史记录，以及 NPU/TPU/GPU 加速。](https://github.com/jegly/Box) 
 ### April 30, 2026 
 - [wxtsky/CodeIsland: macOS 灵动岛（刘海）实时 AI 编码 Agent 状态面板](https://github.com/wxtsky/CodeIsland) 
 ### April 29, 2026 

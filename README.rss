@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 29 Apr 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。</title>
+      <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/Sambigeara/pollen</link>
+      <guid>https://github.com/Sambigeara/pollen</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Sambigeara/pollen" target="_blank">Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Sambigeara/pollen" target="_blank">https://github.com/Sambigeara/pollen</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>jegly/Box: 适用于 Android 的私有本地 AI 套件。基于 Google AI Edge Gallery 的分支，集成 llama.cpp、whisper.cpp、stable-diffusion.cpp、支持 GGUF 导入、语音聊天、视觉 AI、本地图片生成、生物识别锁、加密历史记录，以及 NPU/TPU/GPU 加速。</title>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/jegly/Box</link>
+      <guid>https://github.com/jegly/Box</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jegly/Box" target="_blank">jegly/Box: 适用于 Android 的私有本地 AI 套件。基于 Google AI Edge Gallery 的分支，集成 llama.cpp、whisper.cpp、stable-diffusion.cpp、支持 GGUF 导入、语音聊天、视觉 AI、本地图片生成、生物识别锁、加密历史记录，以及 NPU/TPU/GPU 加速。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jegly/Box" target="_blank">https://github.com/jegly/Box</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>wxtsky/CodeIsland: macOS 灵动岛（刘海）实时 AI 编码 Agent 状态面板</title>
       <pubDate>Wed, 29 Apr 2026 16:00:00 +0000</pubDate>
