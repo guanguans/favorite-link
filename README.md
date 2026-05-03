@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### May 3, 2026 
+- [Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。](https://github.com/Sambigeara/pollen) 
 ### April 30, 2026 
 - [wxtsky/CodeIsland: macOS 灵动岛（刘海）实时 AI 编码 Agent 状态面板](https://github.com/wxtsky/CodeIsland) 
 ### April 29, 2026 
