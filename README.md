@@ -13,6 +13,9 @@
 
 
 
+
+### May 7, 2026 
+- [lemed99/nightowl-agent: 自托管的 Laravel 监控代理。可替代 Nightwatch，开源。](https://github.com/lemed99/nightowl-agent) 
 ### May 6, 2026 
 - [nandieling/OmniPlay: 览影：支持 mac、win 双平台的海报墙视频播放器](https://github.com/nandieling/OmniPlay) 
 - [Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行](https://github.com/Hmbown/DeepSeek-TUI) 
