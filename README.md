@@ -13,6 +13,7 @@
 
 ### May 8, 2026 
 - [imjuya/juya-ai-daily: 记录人类完蛋全过程。](https://github.com/imjuya/juya-ai-daily) 
+- [xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。](https://github.com/xingkongliang/skills-manager) 
 ### May 7, 2026 
 - [lemed99/nightowl-agent: 自托管的 Laravel 监控代理。可替代 Nightwatch，开源。](https://github.com/lemed99/nightowl-agent) 
 ### May 6, 2026 
