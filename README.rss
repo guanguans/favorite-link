@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 06 May 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 07 May 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>imjuya/juya-ai-daily: 记录人类完蛋全过程。</title>
+      <pubDate>Thu, 07 May 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/imjuya/juya-ai-daily</link>
+      <guid>https://github.com/imjuya/juya-ai-daily</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/imjuya/juya-ai-daily" target="_blank">imjuya/juya-ai-daily: 记录人类完蛋全过程。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/imjuya/juya-ai-daily" target="_blank">https://github.com/imjuya/juya-ai-daily</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。</title>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/xingkongliang/skills-manager</link>
+      <guid>https://github.com/xingkongliang/skills-manager</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/xingkongliang/skills-manager" target="_blank">xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/xingkongliang/skills-manager" target="_blank">https://github.com/xingkongliang/skills-manager</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>lemed99/nightowl-agent: 自托管的 Laravel 监控代理。可替代 Nightwatch，开源。</title>
       <pubDate>Wed, 06 May 2026 16:00:00 +0000</pubDate>

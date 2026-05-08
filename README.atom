@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-05-06T16:00:00+00:00</updated>
+  <updated>2026-05-07T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,39 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[imjuya/juya-ai-daily: 记录人类完蛋全过程。]]></title>
+    <published>2026-05-07T16:00:00+00:00</published>
+    <updated>2026-05-07T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/imjuya/juya-ai-daily"/>
+    <id>https://github.com/imjuya/juya-ai-daily</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/imjuya/juya-ai-daily" target="_blank">imjuya/juya-ai-daily: 记录人类完蛋全过程。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/imjuya/juya-ai-daily" target="_blank">https://github.com/imjuya/juya-ai-daily</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。]]></title>
+    <published>2026-05-07T08:00:00+00:00</published>
+    <updated>2026-05-07T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/xingkongliang/skills-manager"/>
+    <id>https://github.com/xingkongliang/skills-manager</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/xingkongliang/skills-manager" target="_blank">xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15
+种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/xingkongliang/skills-manager" target="_blank">https://github.com/xingkongliang/skills-manager</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[lemed99/nightowl-agent: 自托管的 Laravel 监控代理。可替代 Nightwatch，开源。]]></title>
     <published>2026-05-06T16:00:00+00:00</published>
