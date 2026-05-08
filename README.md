@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 8, 2026 
+- [imjuya/juya-ai-daily: 记录人类完蛋全过程。](https://github.com/imjuya/juya-ai-daily) 
 ### May 7, 2026 
 - [lemed99/nightowl-agent: 自托管的 Laravel 监控代理。可替代 Nightwatch，开源。](https://github.com/lemed99/nightowl-agent) 
 ### May 6, 2026 
