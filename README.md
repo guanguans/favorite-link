@@ -13,7 +13,7 @@
 
 
 ### May 9, 2026 
-- [regent-vcs/re_gent: AI代理活动的版本控制。跟踪您的代理做了什么，每行是由哪个提示写的，并在出现问题时回退。](https://github.com/regent-vcs/re_gent) 
+- [regent-vcs/re_gent: AI 代理活动的版本控制。跟踪您的代理做了什么，每行是由哪个提示写的，并在出现问题时回退。](https://github.com/regent-vcs/re_gent) 
 ### May 8, 2026 
 - [imjuya/juya-ai-daily: 记录人类完蛋全过程。](https://github.com/imjuya/juya-ai-daily) 
 - [xingkongliang/skills-manager: 一款轻量级桌面应用程序，用于管理、同步和组织 15 种以上编码工具中的人工智能代理技能，包括 Cursor、Claude Code、Codex、Copilot 等。](https://github.com/xingkongliang/skills-manager) 
