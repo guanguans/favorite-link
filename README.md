@@ -16,6 +16,7 @@
 ### May 10, 2026 
 - [mengxi-ream/read-frog: 🐸 陪读蛙 - 开源沉浸式翻译](https://github.com/mengxi-ream/read-frog) 
 - [steipete/RepoBar: 在菜单栏和终端中直接显示 GitHub 仓库的状态：持续集成、问题、拉取请求、最新发布。](https://github.com/steipete/RepoBar) 
+- [lara-zeus/zeus: 一个独立应用程序，一个入门套件；它已经预先配置好，可以运行所有 Zeus 套件以及一些额外的福利。](https://github.com/lara-zeus/zeus) 
 ### May 9, 2026 
 - [regent-vcs/re_gent: AI 代理活动的版本控制。跟踪您的代理做了什么，每行是由哪个提示写的，并在出现问题时回退。](https://github.com/regent-vcs/re_gent) 
 ### May 8, 2026 
