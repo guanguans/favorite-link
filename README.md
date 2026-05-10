@@ -12,6 +12,9 @@
 
 
 
+
+### May 10, 2026 
+- [mengxi-ream/read-frog: 🐸 陪读蛙 - 开源沉浸式翻译](https://github.com/mengxi-ream/read-frog) 
 ### May 9, 2026 
 - [regent-vcs/re_gent: AI 代理活动的版本控制。跟踪您的代理做了什么，每行是由哪个提示写的，并在出现问题时回退。](https://github.com/regent-vcs/re_gent) 
 ### May 8, 2026 
