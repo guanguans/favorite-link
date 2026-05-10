@@ -46,6 +46,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[lara-zeus/zeus: 一个独立应用程序，一个入门套件；它已经预先配置好，可以运行所有 Zeus 套件以及一些额外的福利。]]></title>
+    <published>2026-05-09T00:00:00+00:00</published>
+    <updated>2026-05-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/lara-zeus/zeus"/>
+    <id>https://github.com/lara-zeus/zeus</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/lara-zeus/zeus" target="_blank">lara-zeus/zeus: 一个独立应用程序，一个入门套件；它已经预先配置好，可以运行所有 Zeus
+套件以及一些额外的福利。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/lara-zeus/zeus" target="_blank">https://github.com/lara-zeus/zeus</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[regent-vcs/re_gent: AI 代理活动的版本控制。跟踪您的代理做了什么，每行是由哪个提示写的，并在出现问题时回退。]]></title>
     <published>2026-05-08T16:00:00+00:00</published>
     <updated>2026-05-08T16:00:00+00:00</updated>
