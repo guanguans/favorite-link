@@ -12,6 +12,7 @@
 
 ### May 11, 2026 
 - [darrylmorley/whatcable: macOS 菜单栏应用程序，用简单的英语告诉你每根插入 Mac 的 USB-C 数据线实际能做什么](https://github.com/darrylmorley/whatcable) 
+- [steipete/BlackBar: 一个小型的原生 macOS 菜单栏应用程序，可监视您的 Blacksmith CI 跑步者和公共 Blacksmith 状态页面 - 因此您可以在队列耗尽之前知道是否要合并、重新运行或散步。](https://github.com/steipete/BlackBar) 
 ### May 10, 2026 
 - [mengxi-ream/read-frog: 🐸 陪读蛙 - 开源沉浸式翻译](https://github.com/mengxi-ream/read-frog) 
 - [steipete/RepoBar: 在菜单栏和终端中直接显示 GitHub 仓库的状态：持续集成、问题、拉取请求、最新发布。](https://github.com/steipete/RepoBar) 
