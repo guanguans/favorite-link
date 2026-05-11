@@ -13,6 +13,9 @@
 
 
 
+
+### May 11, 2026 
+- [darrylmorley/whatcable: macOS 菜单栏应用程序，用简单的英语告诉你每根插入 Mac 的 USB-C 数据线实际能做什么](https://github.com/darrylmorley/whatcable) 
 ### May 10, 2026 
 - [mengxi-ream/read-frog: 🐸 陪读蛙 - 开源沉浸式翻译](https://github.com/mengxi-ream/read-frog) 
 - [steipete/RepoBar: 在菜单栏和终端中直接显示 GitHub 仓库的状态：持续集成、问题、拉取请求、最新发布。](https://github.com/steipete/RepoBar) 
