@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 12, 2026 
+- [flben233/YamiboReader: 基于JetPack Compose的300百合会论坛文学阅读器，为小说提供更加舒适的阅读环境，同时为漫画阅读提供有限的支持](https://github.com/flben233/YamiboReader) 
 ### May 11, 2026 
 - [darrylmorley/whatcable: macOS 菜单栏应用程序，用简单的英语告诉你每根插入 Mac 的 USB-C 数据线实际能做什么](https://github.com/darrylmorley/whatcable) 
 - [steipete/BlackBar: 一个小型的原生 macOS 菜单栏应用程序，可监视您的 Blacksmith CI 跑步者和公共 Blacksmith 状态页面 - 因此您可以在队列耗尽之前知道是否要合并、重新运行或散步。](https://github.com/steipete/BlackBar) 
