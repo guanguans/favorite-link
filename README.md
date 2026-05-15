@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### May 15, 2026 
+- [vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序](https://github.com/vercel-labs/zero-native) 
 ### May 12, 2026 
 - [flben233/YamiboReader: 基于 JetPack Compose 的 300 百合会论坛文学阅读器，为小说提供更加舒适的阅读环境，同时为漫画阅读提供有限的支持](https://github.com/flben233/YamiboReader) 
 ### May 11, 2026 
