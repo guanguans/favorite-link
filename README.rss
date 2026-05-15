@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 11 May 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 14 May 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序</title>
+      <pubDate>Thu, 14 May 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/vercel-labs/zero-native</link>
+      <guid>https://github.com/vercel-labs/zero-native</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/vercel-labs/zero-native" target="_blank">vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/vercel-labs/zero-native" target="_blank">https://github.com/vercel-labs/zero-native</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>flben233/YamiboReader: 基于 JetPack Compose 的 300 百合会论坛文学阅读器，为小说提供更加舒适的阅读环境，同时为漫画阅读提供有限的支持</title>
       <pubDate>Mon, 11 May 2026 16:00:00 +0000</pubDate>
