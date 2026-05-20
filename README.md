@@ -15,6 +15,7 @@
 
 ### May 20, 2026 
 - [realskyrin/capcap: 一款轻量级的原生 macOS 截图工具，就在你的菜单栏中。双击 ⌘ 命令可截取屏幕的任何区域，并立即复制到剪贴板，或先用钢笔和马赛克工具进行注释。](https://github.com/realskyrin/capcap) 
+- [iliaal/fastjson: 针对 PHP 8.3+ 的快速 JSON 编码/解码/验证，由 yyjson 提供支持。作为 ext/json 的即插即用替代方案，提供命名空间的 fastjson_* 函数和兼容 json_last_error 的错误报告。](https://github.com/iliaal/fastjson) 
 ### May 15, 2026 
 - [vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序](https://github.com/vercel-labs/zero-native) 
 ### May 12, 2026 
