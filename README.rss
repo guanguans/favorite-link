@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>iliaal/fastjson: 针对 PHP 8.3+ 的快速 JSON 编码/解码/验证，由 yyjson 提供支持。作为 ext/json 的即插即用替代方案，提供命名空间的 fastjson_* 函数和兼容 json_last_error 的错误报告。</title>
+      <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/iliaal/fastjson</link>
+      <guid>https://github.com/iliaal/fastjson</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/iliaal/fastjson" target="_blank">iliaal/fastjson: 针对 PHP 8.3+ 的快速 JSON 编码/解码/验证，由 yyjson 提供支持。作为 ext/json 的即插即用替代方案，提供命名空间的 fastjson_* 函数和兼容 json_last_error 的错误报告。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/iliaal/fastjson" target="_blank">https://github.com/iliaal/fastjson</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>vercel-labs/zero-native: 使用 Zig 和 Web UI 构建桌面和移动应用程序</title>
       <pubDate>Thu, 14 May 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/vercel-labs/zero-native</link>
