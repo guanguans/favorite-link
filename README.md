@@ -13,6 +13,7 @@
 ### May 22, 2026 
 - [ProxymanApp/atlantis: 无需代理即可捕获来自 iOS 应用的 HTTP/HTTPS 和 Websocket。](https://github.com/ProxymanApp/atlantis) 
 - [kayw-geek/phpstan-type-trace: 你可以在代码中追踪任何变量的类型变化——再也不用猜 PHPStan 为什么认为它是 mixed 类型了。](https://github.com/kayw-geek/phpstan-type-trace) 
+- [github/app: GitHub Copilot 应用是一款用于代理驱动开发的桌面应用程序，将并行工作流、GitHub 集成和 PR 生命周期管理集于一体。](https://github.com/github/app) 
 ### May 20, 2026 
 - [realskyrin/capcap: 一款轻量级的原生 macOS 截图工具，就在你的菜单栏中。双击 ⌘ 命令可截取屏幕的任何区域，并立即复制到剪贴板，或先用钢笔和马赛克工具进行注释。](https://github.com/realskyrin/capcap) 
 - [iliaal/fastjson: 针对 PHP 8.3+ 的快速 JSON 编码/解码/验证，由 yyjson 提供支持。作为 ext/json 的即插即用替代方案，提供命名空间的 fastjson_* 函数和兼容 json_last_error 的错误报告。](https://github.com/iliaal/fastjson) 
