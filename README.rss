@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 19 May 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ProxymanApp/atlantis: 无需代理即可捕获来自 iOS 应用的 HTTP/HTTPS 和 Websocket。</title>
+      <pubDate>Thu, 21 May 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/ProxymanApp/atlantis</link>
+      <guid>https://github.com/ProxymanApp/atlantis</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ProxymanApp/atlantis" target="_blank">ProxymanApp/atlantis: 无需代理即可捕获来自 iOS 应用的 HTTP/HTTPS 和 Websocket。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ProxymanApp/atlantis" target="_blank">https://github.com/ProxymanApp/atlantis</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>realskyrin/capcap: 一款轻量级的原生 macOS 截图工具，就在你的菜单栏中。双击 ⌘ 命令可截取屏幕的任何区域，并立即复制到剪贴板，或先用钢笔和马赛克工具进行注释。</title>
       <pubDate>Tue, 19 May 2026 16:00:00 +0000</pubDate>

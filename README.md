@@ -10,12 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### May 22, 2026 
-- [ProxymanApp/atlantis: 无需代理即可捕获来自iOS应用的HTTP/HTTPS和Websocket。](https://github.com/ProxymanApp/atlantis) 
+- [ProxymanApp/atlantis: 无需代理即可捕获来自 iOS 应用的 HTTP/HTTPS 和 Websocket。](https://github.com/ProxymanApp/atlantis) 
 ### May 20, 2026 
 - [realskyrin/capcap: 一款轻量级的原生 macOS 截图工具，就在你的菜单栏中。双击 ⌘ 命令可截取屏幕的任何区域，并立即复制到剪贴板，或先用钢笔和马赛克工具进行注释。](https://github.com/realskyrin/capcap) 
 - [iliaal/fastjson: 针对 PHP 8.3+ 的快速 JSON 编码/解码/验证，由 yyjson 提供支持。作为 ext/json 的即插即用替代方案，提供命名空间的 fastjson_* 函数和兼容 json_last_error 的错误报告。](https://github.com/iliaal/fastjson) 
