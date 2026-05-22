@@ -30,6 +30,23 @@ Websocket。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[kayw-geek/phpstan-type-trace: 你可以在代码中追踪任何变量的类型变化——再也不用猜 PHPStan 为什么认为它是 mixed 类型了。]]></title>
+    <published>2026-05-21T08:00:00+00:00</published>
+    <updated>2026-05-21T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/kayw-geek/phpstan-type-trace"/>
+    <id>https://github.com/kayw-geek/phpstan-type-trace</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/kayw-geek/phpstan-type-trace" target="_blank">kayw-geek/phpstan-type-trace: 你可以在代码中追踪任何变量的类型变化——再也不用猜
+PHPStan 为什么认为它是 mixed 类型了。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/kayw-geek/phpstan-type-trace" target="_blank">https://github.com/kayw-geek/phpstan-type-trace</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[realskyrin/capcap: 一款轻量级的原生 macOS 截图工具，就在你的菜单栏中。双击 ⌘ 命令可截取屏幕的任何区域，并立即复制到剪贴板，或先用钢笔和马赛克工具进行注释。]]></title>
     <published>2026-05-19T16:00:00+00:00</published>
     <updated>2026-05-19T16:00:00+00:00</updated>
