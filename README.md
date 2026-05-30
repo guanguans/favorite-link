@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### May 30, 2026 
+- [thisisjsimon/InputGuard: thisisjsimon/InputGuard: 此应用程序在后台运行，以防止 macOS 将麦克风切换到蓝牙耳机。](https://github.com/thisisjsimon/InputGuard) 
 ### May 22, 2026 
 - [ProxymanApp/atlantis: 无需代理即可捕获来自 iOS 应用的 HTTP/HTTPS 和 Websocket。](https://github.com/ProxymanApp/atlantis) 
 - [kayw-geek/phpstan-type-trace: 你可以在代码中追踪任何变量的类型变化——再也不用猜 PHPStan 为什么认为它是 mixed 类型了。](https://github.com/kayw-geek/phpstan-type-trace) 
