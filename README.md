@@ -15,6 +15,7 @@
 ### June 3, 2026 
 - [Monica-Pass/Monica: Monica-Pass/Monica: 聚合 Bitwarden 与 KeePass 的本地优先密码库](https://github.com/Monica-Pass/Monica) 
 - [staabm/phpstan-dba: 基于 PHPStan 的 SQL 静态分析和数据库访问层的类型推断](https://github.com/staabm/phpstan-dba) 
+- [JacobJoergensen/laravel-paper: JacobJoergensen/laravel-paper: Laravel Paper 是一个为 Eloquent 添加平面文件驱动支持的 Laravel 包。它支持 Markdown 和 JSON 文件，并可在 PHP 8.4+ 的 Laravel 12+ 上运行。](https://github.com/JacobJoergensen/laravel-paper) 
 ### May 30, 2026 
 - [thisisjsimon/InputGuard: thisisjsimon/InputGuard: 此应用程序在后台运行，以防止 macOS 将麦克风切换到蓝牙耳机。](https://github.com/thisisjsimon/InputGuard) 
 - [shipfastlabs/parsel: 一个快速、实用且开源的 PHP 文档解析器](https://github.com/shipfastlabs/parsel) 
