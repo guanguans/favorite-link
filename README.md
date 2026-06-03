@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### June 3, 2026 
+- [Monica-Pass/Monica: Monica-Pass/Monica: 聚合 Bitwarden 与 KeePass 的本地优先密码库](https://github.com/Monica-Pass/Monica) 
 ### May 30, 2026 
 - [thisisjsimon/InputGuard: thisisjsimon/InputGuard: 此应用程序在后台运行，以防止 macOS 将麦克风切换到蓝牙耳机。](https://github.com/thisisjsimon/InputGuard) 
 - [shipfastlabs/parsel: 一个快速、实用且开源的 PHP 文档解析器](https://github.com/shipfastlabs/parsel) 
