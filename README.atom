@@ -65,6 +65,23 @@ JacobJoergensen/laravel-paper: Laravel Paper 是一个为 Eloquent
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[SanderMuller/laravel-fluent-validation: 使用 IDE 自动补全编写 Laravel 验证规则，无需记忆字符串语法。]]></title>
+    <published>2026-06-01T16:00:00+00:00</published>
+    <updated>2026-06-01T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/SanderMuller/laravel-fluent-validation"/>
+    <id>https://github.com/SanderMuller/laravel-fluent-validation</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/SanderMuller/laravel-fluent-validation" target="_blank">SanderMuller/laravel-fluent-validation: 使用 IDE
+自动补全编写 Laravel 验证规则，无需记忆字符串语法。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/SanderMuller/laravel-fluent-validation" target="_blank">https://github.com/SanderMuller/laravel-fluent-validation</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[thisisjsimon/InputGuard: thisisjsimon/InputGuard: 此应用程序在后台运行，以防止 macOS 将麦克风切换到蓝牙耳机。]]></title>
     <published>2026-05-29T16:00:00+00:00</published>
     <updated>2026-05-29T16:00:00+00:00</updated>
