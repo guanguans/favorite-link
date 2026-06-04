@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 02 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 03 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>zengyufei/Hostly: 基于 Tauri v2 + Rust 构建的高性能 Windows Hosts 切换工具。支持 GUI/CLI 双模式、多环境快速切换、自动提权与系统备份。</title>
+      <pubDate>Wed, 03 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/zengyufei/Hostly</link>
+      <guid>https://github.com/zengyufei/Hostly</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/zengyufei/Hostly" target="_blank">zengyufei/Hostly: 基于 Tauri v2 + Rust 构建的高性能 Windows Hosts 切换工具。支持 GUI/CLI 双模式、多环境快速切换、自动提权与系统备份。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/zengyufei/Hostly" target="_blank">https://github.com/zengyufei/Hostly</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Monica-Pass/Monica: Monica-Pass/Monica: 聚合 Bitwarden 与 KeePass 的本地优先密码库</title>
       <pubDate>Tue, 02 Jun 2026 16:00:00 +0000</pubDate>
