@@ -12,6 +12,9 @@
 
 
 
+
+### June 4, 2026 
+- [zengyufei/Hostly: 基于 Tauri v2 + Rust 构建的高性能 Windows Hosts 切换工具。支持 GUI/CLI 双模式、多环境快速切换、自动提权与系统备份。](https://github.com/zengyufei/Hostly) 
 ### June 3, 2026 
 - [Monica-Pass/Monica: Monica-Pass/Monica: 聚合 Bitwarden 与 KeePass 的本地优先密码库](https://github.com/Monica-Pass/Monica) 
 - [staabm/phpstan-dba: 基于 PHPStan 的 SQL 静态分析和数据库访问层的类型推断](https://github.com/staabm/phpstan-dba) 
