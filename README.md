@@ -13,6 +13,9 @@
 
 
 
+
+### June 5, 2026 
+- [MenkeTechnologies/zsh-more-completions: 世界上最大的 zsh 补全集合](https://github.com/MenkeTechnologies/zsh-more-completions) 
 ### June 4, 2026 
 - [zengyufei/Hostly: 基于 Tauri v2 + Rust 构建的高性能 Windows Hosts 切换工具。支持 GUI/CLI 双模式、多环境快速切换、自动提权与系统备份。](https://github.com/zengyufei/Hostly) 
 ### June 3, 2026 
