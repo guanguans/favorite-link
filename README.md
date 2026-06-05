@@ -10,10 +10,6 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
-
-
-
 ### June 5, 2026 
 - [MenkeTechnologies/zsh-more-completions: 世界上最大的 zsh 补全集合](https://github.com/MenkeTechnologies/zsh-more-completions) 
 ### June 4, 2026 
