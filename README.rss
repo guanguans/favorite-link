@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>PeteBishwhip/laradocs: 在你的 Laravel 代码库中维护美观且有版本控制的文档。用 Markdown 编写文档，将其与所描述的代码一起提交，Laradocs 会在（或你喜欢的任何位置）提供一个精美的文档站点。</title>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/PeteBishwhip/laradocs</link>
+      <guid>https://github.com/PeteBishwhip/laradocs</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/PeteBishwhip/laradocs" target="_blank">PeteBishwhip/laradocs: 在你的 Laravel 代码库中维护美观且有版本控制的文档。用 Markdown 编写文档，将其与所描述的代码一起提交，Laradocs 会在（或你喜欢的任何位置）提供一个精美的文档站点。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/PeteBishwhip/laradocs" target="_blank">https://github.com/PeteBishwhip/laradocs</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>zengyufei/Hostly: 基于 Tauri v2 + Rust 构建的高性能 Windows Hosts 切换工具。支持 GUI/CLI 双模式、多环境快速切换、自动提权与系统备份。</title>
       <pubDate>Wed, 03 Jun 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/zengyufei/Hostly</link>

@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[PeteBishwhip/laradocs: 在你的 Laravel 代码库中维护美观且有版本控制的文档。用 Markdown 编写文档，将其与所描述的代码一起提交，Laradocs 会在（或你喜欢的任何位置）提供一个精美的文档站点。]]></title>
+    <published>2026-06-04T08:00:00+00:00</published>
+    <updated>2026-06-04T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/PeteBishwhip/laradocs"/>
+    <id>https://github.com/PeteBishwhip/laradocs</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/PeteBishwhip/laradocs" target="_blank">PeteBishwhip/laradocs: 在你的 Laravel 代码库中维护美观且有版本控制的文档。用
+Markdown 编写文档，将其与所描述的代码一起提交，Laradocs 会在（或你喜欢的任何位置）提供一个精美的文档站点。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/PeteBishwhip/laradocs" target="_blank">https://github.com/PeteBishwhip/laradocs</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[zengyufei/Hostly: 基于 Tauri v2 + Rust 构建的高性能 Windows Hosts 切换工具。支持 GUI/CLI 双模式、多环境快速切换、自动提权与系统备份。]]></title>
     <published>2026-06-03T16:00:00+00:00</published>
     <updated>2026-06-03T16:00:00+00:00</updated>
