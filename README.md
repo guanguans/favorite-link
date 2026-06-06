@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### June 6, 2026 
+- [polamgh/AzadiTunnel: 使用 psiphon-tunnel-core 的开源 iOS VPN 客户端](https://github.com/polamgh/AzadiTunnel) 
 ### June 5, 2026 
 - [MenkeTechnologies/zsh-more-completions: 世界上最大的 zsh 补全集合](https://github.com/MenkeTechnologies/zsh-more-completions) 
 - [PeteBishwhip/laradocs: 在你的 Laravel 代码库中维护美观且有版本控制的文档。用 Markdown 编写文档，将其与所描述的代码一起提交，Laradocs 会在（或你喜欢的任何位置）提供一个精美的文档站点。](https://github.com/PeteBishwhip/laradocs) 
