@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 04 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 05 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>polamgh/AzadiTunnel: 使用 psiphon-tunnel-core 的开源 iOS VPN 客户端</title>
+      <pubDate>Fri, 05 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/polamgh/AzadiTunnel</link>
+      <guid>https://github.com/polamgh/AzadiTunnel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/polamgh/AzadiTunnel" target="_blank">polamgh/AzadiTunnel: 使用 psiphon-tunnel-core 的开源 iOS VPN 客户端</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/polamgh/AzadiTunnel" target="_blank">https://github.com/polamgh/AzadiTunnel</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>MenkeTechnologies/zsh-more-completions: 世界上最大的 zsh 补全集合</title>
       <pubDate>Thu, 04 Jun 2026 16:00:00 +0000</pubDate>
