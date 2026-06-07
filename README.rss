@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Fri, 05 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>Akshayp2002/scheduler-list-laravel: Akshayp2002/scheduler-list-laravel: Laravel 调度程序查看器</title>
+      <pubDate>Sat, 06 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/Akshayp2002/scheduler-list-laravel</link>
+      <guid>https://github.com/Akshayp2002/scheduler-list-laravel</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Akshayp2002/scheduler-list-laravel" target="_blank">Akshayp2002/scheduler-list-laravel: Akshayp2002/scheduler-list-laravel: Laravel 调度程序查看器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Akshayp2002/scheduler-list-laravel" target="_blank">https://github.com/Akshayp2002/scheduler-list-laravel</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>polamgh/AzadiTunnel: 使用 psiphon-tunnel-core 的开源 iOS VPN 客户端</title>
       <pubDate>Fri, 05 Jun 2026 16:00:00 +0000</pubDate>
