@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### June 7, 2026 
+- [Akshayp2002/scheduler-list-laravel: Akshayp2002/scheduler-list-laravel: Laravel 调度程序查看器](https://github.com/Akshayp2002/scheduler-list-laravel) 
 ### June 6, 2026 
 - [polamgh/AzadiTunnel: 使用 psiphon-tunnel-core 的开源 iOS VPN 客户端](https://github.com/polamgh/AzadiTunnel) 
 ### June 5, 2026 
