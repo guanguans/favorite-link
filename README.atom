@@ -48,6 +48,23 @@ Apple Health 历史记录，并在本地计算恢复、压力、HRV 和睡眠，
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[tddworks/baguette: 无界面的 iOS 模拟器管理/集群，加上主机端输入注入，支持 iOS 26——可以进行点击、滑动、多指手势操作，还能实现 60 帧每秒的视频流。]]></title>
+    <published>2026-06-07T00:00:00+00:00</published>
+    <updated>2026-06-07T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tddworks/baguette"/>
+    <id>https://github.com/tddworks/baguette</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/tddworks/baguette" target="_blank">tddworks/baguette: 无界面的 iOS 模拟器管理/集群，加上主机端输入注入，支持 iOS
+26——可以进行点击、滑动、多指手势操作，还能实现 60 帧每秒的视频流。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/tddworks/baguette" target="_blank">https://github.com/tddworks/baguette</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Akshayp2002/scheduler-list-laravel: Akshayp2002/scheduler-list-laravel: Laravel 调度程序查看器]]></title>
     <published>2026-06-06T16:00:00+00:00</published>
     <updated>2026-06-06T16:00:00+00:00</updated>
