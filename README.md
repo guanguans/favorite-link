@@ -15,6 +15,7 @@
 
 ### June 8, 2026 
 - [chentao1006/Sidey: 一款专为 macOS 设计的轻量级、具备上下文感知能力的 AI 助手](https://github.com/chentao1006/Sidey) 
+- [NoopApp/noop: NOOP是一款独立的、完全离线的WHOOP腕带（4.0和5.0）伴侣应用。它通过蓝牙直接与腕带配对，将所有数据存储在您自己的设备上的SQLite数据库中，导入您现有的WHOOP和Apple Health历史记录，并在本地计算恢复、压力、HRV和睡眠，无需WHOOP账户，也无需连接WHOOP云。](https://github.com/NoopApp/noop) 
 ### June 7, 2026 
 - [Akshayp2002/scheduler-list-laravel: Akshayp2002/scheduler-list-laravel: Laravel 调度程序查看器](https://github.com/Akshayp2002/scheduler-list-laravel) 
 ### June 6, 2026 
