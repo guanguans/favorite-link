@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>NoopApp/noop: NOOP 是一款独立的、完全离线的 WHOOP 腕带（4.0 和 5.0）伴侣应用。它通过蓝牙直接与腕带配对，将所有数据存储在您自己的设备上的 SQLite 数据库中，导入您现有的 WHOOP 和 Apple Health 历史记录，并在本地计算恢复、压力、HRV 和睡眠，无需 WHOOP 账户，也无需连接 WHOOP 云。</title>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/NoopApp/noop</link>
+      <guid>https://github.com/NoopApp/noop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/NoopApp/noop" target="_blank">NoopApp/noop: NOOP 是一款独立的、完全离线的 WHOOP 腕带（4.0 和 5.0）伴侣应用。它通过蓝牙直接与腕带配对，将所有数据存储在您自己的设备上的 SQLite 数据库中，导入您现有的 WHOOP 和 Apple Health 历史记录，并在本地计算恢复、压力、HRV 和睡眠，无需 WHOOP 账户，也无需连接 WHOOP 云。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/NoopApp/noop" target="_blank">https://github.com/NoopApp/noop</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>Akshayp2002/scheduler-list-laravel: Akshayp2002/scheduler-list-laravel: Laravel 调度程序查看器</title>
       <pubDate>Sat, 06 Jun 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/Akshayp2002/scheduler-list-laravel</link>
