@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 07 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>beclab/Olares: Olares 是一个开源的个人云操作系统，旨在让您能够在本地拥有和管理您的数字资产。与依赖公共云服务不同，您可以在 Olares 上本地部署强大的开源替代方案，例如用于托管大语言模型的 Ollama、用于图像生成的 ComfyUI，以及用于私有 AI 搜索和推理的 Vane（前身为 Perplexica）。想象一下云的强大功能，但完全由您掌控。</title>
+      <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/beclab/Olares</link>
+      <guid>https://github.com/beclab/Olares</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/beclab/Olares" target="_blank">beclab/Olares: Olares 是一个开源的个人云操作系统，旨在让您能够在本地拥有和管理您的数字资产。与依赖公共云服务不同，您可以在 Olares 上本地部署强大的开源替代方案，例如用于托管大语言模型的 Ollama、用于图像生成的 ComfyUI，以及用于私有 AI 搜索和推理的 Vane（前身为 Perplexica）。想象一下云的强大功能，但完全由您掌控。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/beclab/Olares" target="_blank">https://github.com/beclab/Olares</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>chentao1006/Sidey: 一款专为 macOS 设计的轻量级、具备上下文感知能力的 AI 助手</title>
       <pubDate>Sun, 07 Jun 2026 16:00:00 +0000</pubDate>
