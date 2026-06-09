@@ -12,6 +12,7 @@
 
 ### June 9, 2026 
 - [beclab/Olares: Olares 是一个开源的个人云操作系统，旨在让您能够在本地拥有和管理您的数字资产。与依赖公共云服务不同，您可以在 Olares 上本地部署强大的开源替代方案，例如用于托管大语言模型的 Ollama、用于图像生成的 ComfyUI，以及用于私有 AI 搜索和推理的 Vane（前身为 Perplexica）。想象一下云的强大功能，但完全由您掌控。](https://github.com/beclab/Olares) 
+- [GyulyVGC/sniffnet: 一款方便您监控网络流量的应用程序。跨平台。直观易用。可靠稳定。](https://github.com/GyulyVGC/sniffnet) 
 ### June 8, 2026 
 - [chentao1006/Sidey: 一款专为 macOS 设计的轻量级、具备上下文感知能力的 AI 助手](https://github.com/chentao1006/Sidey) 
 - [NoopApp/noop: NOOP 是一款独立的、完全离线的 WHOOP 腕带（4.0 和 5.0）伴侣应用。它通过蓝牙直接与腕带配对，将所有数据存储在您自己的设备上的 SQLite 数据库中，导入您现有的 WHOOP 和 Apple Health 历史记录，并在本地计算恢复、压力、HRV 和睡眠，无需 WHOOP 账户，也无需连接 WHOOP 云。](https://github.com/NoopApp/noop) 
