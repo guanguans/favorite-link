@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 10 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 (端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon</title>
+      <pubDate>Wed, 10 Jun 2026 16:00:00 +0000</pubDate>
+      <link>端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI</link>
+      <guid isPermaLink="false">端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI</guid>
+      <content:encoded><![CDATA[<a href="端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI" target="_blank">SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 (端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI" target="_blank">端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>beclab/Olares: Olares 是一个开源的个人云操作系统，旨在让您能够在本地拥有和管理您的数字资产。与依赖公共云服务不同，您可以在 Olares 上本地部署强大的开源替代方案，例如用于托管大语言模型的 Ollama、用于图像生成的 ComfyUI，以及用于私有 AI 搜索和推理的 Vane（前身为 Perplexica）。想象一下云的强大功能，但完全由您掌控。</title>
       <pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
