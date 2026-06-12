@@ -16,6 +16,7 @@
 - [vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。](https://github.com/vitodeploy/vito) 
 - [XiaoYouChR/Ghost-Downloader-3: 使用 Python 和 Qt 构建的人工智能增强型跨平台多协议流畅设计并发下载器。](https://github.com/XiaoYouChR/Ghost-Downloader-3) 
 - [nilaoda/N_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播 (DASH/HLS)。](https://github.com/nilaoda/N_m3u8DL-RE) 
+- [MokoPaste | 为 macOS 打造的高效剪贴板工具](https://mokopaste.com/zh#top) 
 ### June 11, 2026 
 - [SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 (端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI) 
 ### June 9, 2026 
