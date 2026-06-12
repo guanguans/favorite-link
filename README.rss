@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 10 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。</title>
+      <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/vitodeploy/vito</link>
+      <guid>https://github.com/vitodeploy/vito</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/vitodeploy/vito" target="_blank">vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/vitodeploy/vito" target="_blank">https://github.com/vitodeploy/vito</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 (端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon</title>
       <pubDate>Wed, 10 Jun 2026 16:00:00 +0000</pubDate>
