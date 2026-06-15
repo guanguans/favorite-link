@@ -12,6 +12,9 @@
 
 
 
+
+### June 15, 2026 
+- [CharrafiMed/global-search-modal: 全局搜索模式是 Filament 的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament 应用程序中每个面板的最近搜索以及高亮显示等功能。](https://github.com/CharrafiMed/global-search-modal) 
 ### June 12, 2026 
 - [vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。](https://github.com/vitodeploy/vito) 
 - [XiaoYouChR/Ghost-Downloader-3: 使用 Python 和 Qt 构建的人工智能增强型跨平台多协议流畅设计并发下载器。](https://github.com/XiaoYouChR/Ghost-Downloader-3) 
