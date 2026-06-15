@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>CharrafiMed/global-search-modal: 全局搜索模式是 Filament 的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament 应用程序中每个面板的最近搜索以及高亮显示等功能。</title>
+      <pubDate>Sun, 14 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/CharrafiMed/global-search-modal</link>
+      <guid>https://github.com/CharrafiMed/global-search-modal</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/CharrafiMed/global-search-modal" target="_blank">CharrafiMed/global-search-modal: 全局搜索模式是 Filament 的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament 应用程序中每个面板的最近搜索以及高亮显示等功能。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/CharrafiMed/global-search-modal" target="_blank">https://github.com/CharrafiMed/global-search-modal</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。</title>
       <pubDate>Thu, 11 Jun 2026 16:00:00 +0000</pubDate>

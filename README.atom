@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-06-11T16:00:00+00:00</updated>
+  <updated>2026-06-14T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[CharrafiMed/global-search-modal: 全局搜索模式是 Filament 的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament 应用程序中每个面板的最近搜索以及高亮显示等功能。]]></title>
+    <published>2026-06-14T16:00:00+00:00</published>
+    <updated>2026-06-14T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/CharrafiMed/global-search-modal"/>
+    <id>https://github.com/CharrafiMed/global-search-modal</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/CharrafiMed/global-search-modal" target="_blank">CharrafiMed/global-search-modal: 全局搜索模式是 Filament
+的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament
+应用程序中每个面板的最近搜索以及高亮显示等功能。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/CharrafiMed/global-search-modal" target="_blank">https://github.com/CharrafiMed/global-search-modal</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vitodeploy/vito: Vito 是一个自托管的网页应用，帮助你管理服务器并将 PHP 应用轻松部署到生产服务器。]]></title>
     <published>2026-06-11T16:00:00+00:00</published>
