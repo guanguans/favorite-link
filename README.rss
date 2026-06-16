@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 14 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 15 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>iAmCorey/kooky: 一个极简现代的终端，带来 AI 编码体验——侧边栏工作区；水平/垂直分屏窗格；一键启动智能体；每个智能体的活动读取；实时工作区状态，一键切换节点和分支。</title>
+      <pubDate>Mon, 15 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/iAmCorey/kooky</link>
+      <guid>https://github.com/iAmCorey/kooky</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/iAmCorey/kooky" target="_blank">iAmCorey/kooky: 一个极简现代的终端，带来 AI 编码体验——侧边栏工作区；水平/垂直分屏窗格；一键启动智能体；每个智能体的活动读取；实时工作区状态，一键切换节点和分支。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/iAmCorey/kooky" target="_blank">https://github.com/iAmCorey/kooky</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>CharrafiMed/global-search-modal: 全局搜索模式是 Filament 的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament 应用程序中每个面板的最近搜索以及高亮显示等功能。</title>
       <pubDate>Sun, 14 Jun 2026 16:00:00 +0000</pubDate>
