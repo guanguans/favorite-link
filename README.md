@@ -13,6 +13,9 @@
 
 
 
+
+### June 16, 2026 
+- [iAmCorey/kooky: 一个极简现代的终端，带来AI编码体验——侧边栏工作区；水平/垂直分屏窗格；一键启动智能体；每个智能体的活动读取；实时工作区状态，一键切换节点和分支。](https://github.com/iAmCorey/kooky) 
 ### June 15, 2026 
 - [CharrafiMed/global-search-modal: 全局搜索模式是 Filament 的一个功能强大、可定制的全局搜索插件，其灵感来源于 Algolia 搜索模式，它增强了默认搜索功能，如跟踪收藏夹、在 Filament 应用程序中每个面板的最近搜索以及高亮显示等功能。](https://github.com/CharrafiMed/global-search-modal) 
 ### June 12, 2026 
