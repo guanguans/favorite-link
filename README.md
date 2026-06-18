@@ -15,6 +15,7 @@
 - [Nigh/show-me-the-story: 自托管 AI 小说生成器：单一 Go 二进制文件 + 网页界面。兼容 OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。](https://github.com/Nigh/show-me-the-story) 
 - [ronitsingh10/FineTune: FineTune 是一款 macOS 菜单栏应用，支持按应用音量控制、多设备输出、音频路由和 10 波段均衡器。它是 SoundSource 的免费开源替代品。](https://github.com/ronitsingh10/FineTune) 
 - [samyak2403/RepoStore: 探索在 GitHub 发布的应用，查看发布详情，并即时安装 APK——一站式体验。采用纯 Kotlin 开发，针对现代 Android 设备进行了优化。](https://github.com/samyak2403/RepoStore) 
+- [lcl-101/Proxy-Sync-Daemon: psync 是一个运行在后台的轻量级系统代理变化监听与全自动同步守护进程（CLI 工具 / 托盘后台程序），旨在解决开发者在开启系统代理后，终端和各类包管理器（Git, NPM, Docker, Cargo 等）由于网络割裂导致连接超时（Connection Timeout）的痛点。](https://github.com/lcl-101/Proxy-Sync-Daemon) 
 ### June 16, 2026 
 - [iAmCorey/kooky: 一个极简现代的终端，带来 AI 编码体验——侧边栏工作区；水平/垂直分屏窗格；一键启动智能体；每个智能体的活动读取；实时工作区状态，一键切换节点和分支。](https://github.com/iAmCorey/kooky) 
 ### June 15, 2026 
