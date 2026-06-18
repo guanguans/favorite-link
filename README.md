@@ -12,7 +12,7 @@
 
 
 ### June 18, 2026 
-- [Nigh/show-me-the-story: 自托管AI小说生成器：单一Go二进制文件 + 网页界面。兼容OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。](https://github.com/Nigh/show-me-the-story) 
+- [Nigh/show-me-the-story: 自托管 AI 小说生成器：单一 Go 二进制文件 + 网页界面。兼容 OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。](https://github.com/Nigh/show-me-the-story) 
 ### June 16, 2026 
 - [iAmCorey/kooky: 一个极简现代的终端，带来 AI 编码体验——侧边栏工作区；水平/垂直分屏窗格；一键启动智能体；每个智能体的活动读取；实时工作区状态，一键切换节点和分支。](https://github.com/iAmCorey/kooky) 
 ### June 15, 2026 
