@@ -30,6 +30,23 @@ OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ronitsingh10/FineTune: FineTune 是一款 macOS 菜单栏应用，支持按应用音量控制、多设备输出、音频路由和 10 波段均衡器。它是 SoundSource 的免费开源替代品。]]></title>
+    <published>2026-06-17T08:00:00+00:00</published>
+    <updated>2026-06-17T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ronitsingh10/FineTune"/>
+    <id>https://github.com/ronitsingh10/FineTune</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ronitsingh10/FineTune" target="_blank">ronitsingh10/FineTune: FineTune 是一款 macOS
+菜单栏应用，支持按应用音量控制、多设备输出、音频路由和 10 波段均衡器。它是 SoundSource 的免费开源替代品。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ronitsingh10/FineTune" target="_blank">https://github.com/ronitsingh10/FineTune</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[iAmCorey/kooky: 一个极简现代的终端，带来 AI 编码体验——侧边栏工作区；水平/垂直分屏窗格；一键启动智能体；每个智能体的活动读取；实时工作区状态，一键切换节点和分支。]]></title>
     <published>2026-06-15T16:00:00+00:00</published>
     <updated>2026-06-15T16:00:00+00:00</updated>
