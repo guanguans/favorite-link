@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### June 19, 2026 
+- [iliyami/MacSai: Mac Sai：开源的Mac清理器、优化器和恶意软件扫描器。一个免费的、苹果认证的CleanMyMac替代品](https://github.com/iliyami/MacSai) 
 ### June 18, 2026 
 - [Nigh/show-me-the-story: 自托管 AI 小说生成器：单一 Go 二进制文件 + 网页界面。兼容 OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。](https://github.com/Nigh/show-me-the-story) 
 - [ronitsingh10/FineTune: FineTune 是一款 macOS 菜单栏应用，支持按应用音量控制、多设备输出、音频路由和 10 波段均衡器。它是 SoundSource 的免费开源替代品。](https://github.com/ronitsingh10/FineTune) 
