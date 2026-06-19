@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 17 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 18 Jun 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>iliyami/MacSai: Mac Sai：开源的 Mac 清理器、优化器和恶意软件扫描器。一个免费的、苹果认证的 CleanMyMac 替代品</title>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/iliyami/MacSai</link>
+      <guid>https://github.com/iliyami/MacSai</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/iliyami/MacSai" target="_blank">iliyami/MacSai: Mac Sai：开源的 Mac 清理器、优化器和恶意软件扫描器。一个免费的、苹果认证的 CleanMyMac 替代品</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/iliyami/MacSai" target="_blank">https://github.com/iliyami/MacSai</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Nigh/show-me-the-story: 自托管 AI 小说生成器：单一 Go 二进制文件 + 网页界面。兼容 OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。</title>
       <pubDate>Wed, 17 Jun 2026 16:00:00 +0000</pubDate>

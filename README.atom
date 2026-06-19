@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-06-17T16:00:00+00:00</updated>
+  <updated>2026-06-18T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[iliyami/MacSai: Mac Sai：开源的 Mac 清理器、优化器和恶意软件扫描器。一个免费的、苹果认证的 CleanMyMac 替代品]]></title>
+    <published>2026-06-18T16:00:00+00:00</published>
+    <updated>2026-06-18T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/iliyami/MacSai"/>
+    <id>https://github.com/iliyami/MacSai</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/iliyami/MacSai" target="_blank">iliyami/MacSai: Mac Sai：开源的 Mac
+清理器、优化器和恶意软件扫描器。一个免费的、苹果认证的 CleanMyMac 替代品</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/iliyami/MacSai" target="_blank">https://github.com/iliyami/MacSai</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[Nigh/show-me-the-story: 自托管 AI 小说生成器：单一 Go 二进制文件 + 网页界面。兼容 OpenAI API → 大纲 → 按章节写作，支持审查、伏笔、事实核查和全书润色。支持中英文。]]></title>
     <published>2026-06-17T16:00:00+00:00</published>
