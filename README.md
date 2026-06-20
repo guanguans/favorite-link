@@ -12,6 +12,9 @@
 
 
 
+
+### June 20, 2026 
+- [symplify/easy-parallel: 加速 PHP CLI 应用程序的开发。包括在 PHP CLI 应用程序中开始并行运行的 7 个步骤。](https://github.com/symplify/easy-parallel) 
 ### June 19, 2026 
 - [iliyami/MacSai: Mac Sai：开源的 Mac 清理器、优化器和恶意软件扫描器。一个免费的、苹果认证的 CleanMyMac 替代品](https://github.com/iliyami/MacSai) 
 ### June 18, 2026 
