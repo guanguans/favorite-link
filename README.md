@@ -13,6 +13,9 @@
 
 
 
+
+### June 23, 2026 
+- [nexu-io/open-design: 🎨 本地优先，开源的Claude Design替代方案。🖥️ 原生桌面应用。⚡ 259+技能 · ✨ 142+设计系统 🖼️ 网页 · 桌面 · 移动端原型 · 幻灯片 · 图片 · 视频 · HyperFrames 📦 沙盒预览 · HTML/PDF/PPTX/MP4导出 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi及17+命令行工具。](https://github.com/nexu-io/open-design) 
 ### June 20, 2026 
 - [symplify/easy-parallel: 加速 PHP CLI 应用程序的开发。包括在 PHP CLI 应用程序中开始并行运行的 7 个步骤。](https://github.com/symplify/easy-parallel) 
 ### June 19, 2026 
