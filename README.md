@@ -14,6 +14,7 @@
 ### June 27, 2026 
 - [duongductrong/Snapzy: 一个开源的原生 macOS 截图和屏幕录制应用。CleanShot X 的替代品。](https://github.com/duongductrong/Snapzy) 
 - [muglug/pzoom: 一个用 Rust 编写的快速实验性 PHP 静态分析器，是 Psalm 的移植版本](https://github.com/muglug/pzoom) 
+- [soniqo/speech-swift: 适用于Apple Silicon的AI语音工具包——ASR、TTS、语音到语音、VAD和说话人分离，基于MLX和CoreML驱动](https://github.com/soniqo/speech-swift) 
 ### June 23, 2026 
 - [nexu-io/open-design: 🎨 本地优先，开源的 Claude Design 替代方案。🖥️ 原生桌面应用。⚡ 259+ 技能 · ✨ 142+ 设计系统 🖼️ 网页 · 桌面 · 移动端原型 · 幻灯片 · 图片 · 视频 · HyperFrames 📦 沙盒预览 · HTML/PDF/PPTX/MP4 导出 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi 及 17+ 命令行工具。](https://github.com/nexu-io/open-design) 
 ### June 20, 2026 
