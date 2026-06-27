@@ -30,6 +30,23 @@
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[muglug/pzoom: 一个用 Rust 编写的快速实验性 PHP 静态分析器，是 Psalm 的移植版本]]></title>
+    <published>2026-06-26T08:00:00+00:00</published>
+    <updated>2026-06-26T08:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/muglug/pzoom"/>
+    <id>https://github.com/muglug/pzoom</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/muglug/pzoom" target="_blank">muglug/pzoom: 一个用 Rust 编写的快速实验性 PHP 静态分析器，是 Psalm
+的移植版本</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/muglug/pzoom" target="_blank">https://github.com/muglug/pzoom</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[nexu-io/open-design: 🎨 本地优先，开源的 Claude Design 替代方案。🖥️ 原生桌面应用。⚡ 259+ 技能 · ✨ 142+ 设计系统 🖼️ 网页 · 桌面 · 移动端原型 · 幻灯片 · 图片 · 视频 · HyperFrames 📦 沙盒预览 · HTML/PDF/PPTX/MP4 导出 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi 及 17+ 命令行工具。]]></title>
     <published>2026-06-22T16:00:00+00:00</published>
     <updated>2026-06-22T16:00:00+00:00</updated>
