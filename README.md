@@ -16,7 +16,7 @@
 - [Skyearn/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/Skyearn/BLEUnlock) 
 - [sarensw/MacPacker: 适用于 macOS 的归档管理器。开放源代码，因为基本工具应该是免费的。预览（嵌套）归档文件，无需解压缩。提取单个文件](https://github.com/sarensw/MacPacker) 
 - [hikariming/github-roast: 毒舌 GitHub 评分 🔥](https://github.com/hikariming/github-roast) 
-- [eternityspring/article-tools: 一套封面制作和x、微信公众号排版工具](https://github.com/eternityspring/article-tools) 
+- [eternityspring/article-tools: 一套封面制作和 x、微信公众号排版工具](https://github.com/eternityspring/article-tools) 
 - [vorssaint/vorssaint-utils: 免费开源的 macOS 菜单栏工具包。支持按应用调节音量、系统监控、Dock 预览、保持唤醒、窗口切换（Alt Tab）、书架、应用卸载器等功能。](https://github.com/vorssaint/vorssaint-utils) 
 ### June 27, 2026 
 - [duongductrong/Snapzy: 一个开源的原生 macOS 截图和屏幕录制应用。CleanShot X 的替代品。](https://github.com/duongductrong/Snapzy) 
