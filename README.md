@@ -13,7 +13,7 @@
 
 
 ### June 29, 2026 
-- [Skyearn/BLEUnlock: 使用iPhone、Apple Watch或任何其他蓝牙LE设备锁定/解锁您的Mac](https://github.com/Skyearn/BLEUnlock) 
+- [Skyearn/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/Skyearn/BLEUnlock) 
 ### June 27, 2026 
 - [duongductrong/Snapzy: 一个开源的原生 macOS 截图和屏幕录制应用。CleanShot X 的替代品。](https://github.com/duongductrong/Snapzy) 
 - [muglug/pzoom: 一个用 Rust 编写的快速实验性 PHP 静态分析器，是 Psalm 的移植版本](https://github.com/muglug/pzoom) 
