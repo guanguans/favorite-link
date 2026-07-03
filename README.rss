@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 28 Jun 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。</title>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/jlcodes99/cockpit-tools</link>
+      <guid>https://github.com/jlcodes99/cockpit-tools</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jlcodes99/cockpit-tools" target="_blank">jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jlcodes99/cockpit-tools" target="_blank">https://github.com/jlcodes99/cockpit-tools</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐 （原声）。</title>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/jiji262/douyin-downloader</link>
+      <guid>https://github.com/jiji262/douyin-downloader</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/jiji262/douyin-downloader" target="_blank">jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐 （原声）。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/jiji262/douyin-downloader" target="_blank">https://github.com/jiji262/douyin-downloader</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Skyearn/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac</title>
       <pubDate>Sun, 28 Jun 2026 16:00:00 +0000</pubDate>
@@ -270,14 +296,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>nilaoda/N_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播 (DASH/HLS)。</title>
+      <title>nilaoda/N_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播 （DASH/HLS）。</title>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <link>DASH/HLS)。](https://github.com/nilaoda/N_m3u8DL-RE</link>
-      <guid isPermaLink="false">DASH/HLS)。](https://github.com/nilaoda/N_m3u8DL-RE</guid>
-      <content:encoded><![CDATA[<a href="DASH/HLS)。](https://github.com/nilaoda/N_m3u8DL-RE" target="_blank">nilaoda/N_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播 (DASH/HLS)。</a>
+      <link>https://github.com/nilaoda/N_m3u8DL-RE</link>
+      <guid>https://github.com/nilaoda/N_m3u8DL-RE</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nilaoda/N_m3u8DL-RE" target="_blank">nilaoda/N_m3u8DL-RE: 跨平台的 DASH/HLS/MSS 下载工具。支持点播、直播 （DASH/HLS）。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="DASH/HLS)。](https://github.com/nilaoda/N_m3u8DL-RE" target="_blank">DASH/HLS)。](https://github.com/nilaoda/N_m3u8DL-RE</a></li>
+    <li><a href="https://github.com/nilaoda/N_m3u8DL-RE" target="_blank">https://github.com/nilaoda/N_m3u8DL-RE</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -296,14 +322,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 (端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon</title>
+      <title>SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 （端侧 + Private Cloud Compute 云端）· macOS 27 / Apple Silicon</title>
       <pubDate>Wed, 10 Jun 2026 16:00:00 +0000</pubDate>
-      <link>端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI</link>
-      <guid isPermaLink="false">端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI</guid>
-      <content:encoded><![CDATA[<a href="端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI" target="_blank">SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 (端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon</a>
+      <link>https://github.com/SkyBlue997/enableMacosAI</link>
+      <guid>https://github.com/SkyBlue997/enableMacosAI</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/SkyBlue997/enableMacosAI" target="_blank">SkyBlue997/enableMacosAI: 国行 Mac 一键开启完整 Apple 智能 （端侧 + Private Cloud Compute 云端）· macOS 27 / Apple Silicon</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI" target="_blank">端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon](https://github.com/SkyBlue997/enableMacosAI</a></li>
+    <li><a href="https://github.com/SkyBlue997/enableMacosAI" target="_blank">https://github.com/SkyBlue997/enableMacosAI</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -1167,11 +1193,11 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源</title>
+      <title>duxweb/codux：原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源</title>
       <pubDate>Wed, 22 Apr 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/duxweb/codux</link>
       <guid>https://github.com/duxweb/codux</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/duxweb/codux" target="_blank">duxweb/codux:原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源</a>
+      <content:encoded><![CDATA[<a href="https://github.com/duxweb/codux" target="_blank">duxweb/codux：原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。资源</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/duxweb/codux" target="_blank">https://github.com/duxweb/codux</a></li>
@@ -1180,14 +1206,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>mhersson/mpls: Markdown Preview Language Server () 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。</title>
+      <title>mhersson/mpls: Markdown Preview Language Server （) 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。</title>
       <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
-      <link> 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls</link>
-      <guid isPermaLink="false"> 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls</guid>
-      <content:encoded><![CDATA[<a href=" 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls" target="_blank">mhersson/mpls: Markdown Preview Language Server () 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。</a>
+      <link>https://github.com/mhersson/mpls</link>
+      <guid>https://github.com/mhersson/mpls</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/mhersson/mpls" target="_blank">mhersson/mpls: Markdown Preview Language Server （) 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href=" 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls" target="_blank"> 是一个旨在提升您的 Markdown 编辑体验的语言服务器。通过在浏览器中实时预览，您可以实时查看 Markdown 内容的渲染效果。无论您是在编写文档还是创建笔记，都能提供一个流畅且互动的环境。](https://github.com/mhersson/mpls</a></li>
+    <li><a href="https://github.com/mhersson/mpls" target="_blank">https://github.com/mhersson/mpls</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -1921,27 +1947,27 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。</title>
+      <title>protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 （XSS）。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。</title>
       <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
-      <link>XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection</link>
-      <guid isPermaLink="false">XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection</guid>
-      <content:encoded><![CDATA[<a href="XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection" target="_blank">protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。</a>
+      <link>https://github.com/protonemedia/laravel-xss-protection</link>
+      <guid>https://github.com/protonemedia/laravel-xss-protection</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/protonemedia/laravel-xss-protection" target="_blank">protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 （XSS）。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection" target="_blank">XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection</a></li>
+    <li><a href="https://github.com/protonemedia/laravel-xss-protection" target="_blank">https://github.com/protonemedia/laravel-xss-protection</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。</title>
+      <title>canyonroad/agentsh: AI 代理的执行层安全 （ELS）——带有审计的策略强制 Shell。</title>
       <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <link>ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh</link>
-      <guid isPermaLink="false">ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh</guid>
-      <content:encoded><![CDATA[<a href="ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh" target="_blank">canyonroad/agentsh: AI 代理的执行层安全 (ELS)——带有审计的策略强制 Shell。</a>
+      <link>https://github.com/canyonroad/agentsh</link>
+      <guid>https://github.com/canyonroad/agentsh</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/canyonroad/agentsh" target="_blank">canyonroad/agentsh: AI 代理的执行层安全 （ELS）——带有审计的策略强制 Shell。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh" target="_blank">ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh</a></li>
+    <li><a href="https://github.com/canyonroad/agentsh" target="_blank">https://github.com/canyonroad/agentsh</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -2298,27 +2324,27 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 (如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。</title>
+      <title>gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 （如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV） 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。</title>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <link>如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry</link>
-      <guid isPermaLink="false">如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry</guid>
-      <content:encoded><![CDATA[<a href="如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry" target="_blank">gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 (如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。</a>
+      <link>https://github.com/gstory0404/Cinetry</link>
+      <guid>https://github.com/gstory0404/Cinetry</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gstory0404/Cinetry" target="_blank">gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 （如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV） 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry" target="_blank">如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。](https://github.com/gstory0404/Cinetry</a></li>
+    <li><a href="https://github.com/gstory0404/Cinetry" target="_blank">https://github.com/gstory0404/Cinetry</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 (如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。</title>
+      <title>gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 （如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV） 的功能。</title>
       <pubDate>Tue, 24 Mar 2026 16:00:00 +0000</pubDate>
-      <link>如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。](https://github.com/gstory0404/Cinetry</link>
-      <guid isPermaLink="false">如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。](https://github.com/gstory0404/Cinetry</guid>
-      <content:encoded><![CDATA[<a href="如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。](https://github.com/gstory0404/Cinetry" target="_blank">gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 (如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。</a>
+      <link>https://github.com/gstory0404/Cinetry</link>
+      <guid>https://github.com/gstory0404/Cinetry</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/gstory0404/Cinetry" target="_blank">gstory0404/Cinetry: Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器 （如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV） 的功能。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。](https://github.com/gstory0404/Cinetry" target="_blank">如 Jellyfin、Emby、CMS、webdav、Subsonic、Navidrom、GD 音乐台、audiobookshelf、道理鱼、飞牛影视和 IPTV) 的功能。](https://github.com/gstory0404/Cinetry</a></li>
+    <li><a href="https://github.com/gstory0404/Cinetry" target="_blank">https://github.com/gstory0404/Cinetry</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -2350,14 +2376,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW(分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。</title>
+      <title>ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW（分层可导航小世界） 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。</title>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <link>分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector</link>
-      <guid isPermaLink="false">分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector</guid>
-      <content:encoded><![CDATA[<a href="分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector" target="_blank">ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW(分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。</a>
+      <link>https://github.com/ezimuel/PHPVector</link>
+      <guid>https://github.com/ezimuel/PHPVector</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ezimuel/PHPVector" target="_blank">ezimuel/PHPVector: 一个纯 PHP 实现的向量数据库，采用 HNSW（分层可导航小世界） 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector" target="_blank">分层可导航小世界) 进行近似最近邻搜索，并使用 BM25 进行全文检索。两种引擎可以结合成一个混合搜索流程。](https://github.com/ezimuel/PHPVector</a></li>
+    <li><a href="https://github.com/ezimuel/PHPVector" target="_blank">https://github.com/ezimuel/PHPVector</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -2506,14 +2532,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。</title>
+      <title>chenhg5/cc-connect: 将本地 AI 编码代理 （Claude Code、Cursor、Gemini CLI、Codex） 连接到消息平台 （飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信）。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。</title>
       <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-      <link>Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect</link>
-      <guid isPermaLink="false">Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect</guid>
-      <content:encoded><![CDATA[<a href="Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect" target="_blank">chenhg5/cc-connect: 将本地 AI 编码代理 (Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。</a>
+      <link>https://github.com/chenhg5/cc-connect</link>
+      <guid>https://github.com/chenhg5/cc-connect</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/chenhg5/cc-connect" target="_blank">chenhg5/cc-connect: 将本地 AI 编码代理 （Claude Code、Cursor、Gemini CLI、Codex） 连接到消息平台 （飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信）。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect" target="_blank">Claude Code、Cursor、Gemini CLI、Codex) 连接到消息平台 (飞书、钉钉、Slack、Telegram、Discord、LINE、企业微信)。无需大多数平台的公网 IP，即可随时随地与您的 AI 开发助手聊天。](https://github.com/chenhg5/cc-connect</a></li>
+    <li><a href="https://github.com/chenhg5/cc-connect" target="_blank">https://github.com/chenhg5/cc-connect</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -2597,14 +2623,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)</title>
+      <title>pronskiy/php-debugger: 轻量级 PHP 调试器扩展 （从 Xdebug 分叉，精简为仅调试并进行了优化）</title>
       <pubDate>Fri, 13 Mar 2026 16:00:00 +0000</pubDate>
-      <link>从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger</link>
-      <guid isPermaLink="false">从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger</guid>
-      <content:encoded><![CDATA[<a href="从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger" target="_blank">pronskiy/php-debugger: 轻量级 PHP 调试器扩展 (从 Xdebug 分叉，精简为仅调试并进行了优化)</a>
+      <link>https://github.com/pronskiy/php-debugger</link>
+      <guid>https://github.com/pronskiy/php-debugger</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/pronskiy/php-debugger" target="_blank">pronskiy/php-debugger: 轻量级 PHP 调试器扩展 （从 Xdebug 分叉，精简为仅调试并进行了优化）</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger" target="_blank">从 Xdebug 分叉，精简为仅调试并进行了优化)](https://github.com/pronskiy/php-debugger</a></li>
+    <li><a href="https://github.com/pronskiy/php-debugger" target="_blank">https://github.com/pronskiy/php-debugger</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -2922,14 +2948,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 (小于 5M) 多端桌面应用和手机应用仅需几分钟。</title>
+      <title>Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 （小于 5M） 多端桌面应用和手机应用仅需几分钟。</title>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <link>小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android</link>
-      <guid isPermaLink="false">小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android</guid>
-      <content:encoded><![CDATA[<a href="小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android" target="_blank">Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 (小于 5M) 多端桌面应用和手机应用仅需几分钟。</a>
+      <link>https://github.com/Sjj1024/PakePlus-Android</link>
+      <guid>https://github.com/Sjj1024/PakePlus-Android</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Sjj1024/PakePlus-Android" target="_blank">Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 （小于 5M） 多端桌面应用和手机应用仅需几分钟。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android" target="_blank">小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android</a></li>
+    <li><a href="https://github.com/Sjj1024/PakePlus-Android" target="_blank">https://github.com/Sjj1024/PakePlus-Android</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -3143,14 +3169,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP(代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</title>
+      <title>rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP（代理客户端协议） 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</title>
       <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
-      <link>代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</link>
-      <guid isPermaLink="false">代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</guid>
-      <content:encoded><![CDATA[<a href="代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente" target="_blank">rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP(代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</a>
+      <link>https://github.com/rebornix/Agmente</link>
+      <guid>https://github.com/rebornix/Agmente</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rebornix/Agmente" target="_blank">rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP（代理客户端协议） 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente" target="_blank">代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</a></li>
+    <li><a href="https://github.com/rebornix/Agmente" target="_blank">https://github.com/rebornix/Agmente</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -3195,27 +3221,27 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。</title>
+      <title>sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 （图像、视频和音频）、PDF 和 Office 文件的信息。</title>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <link>图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</link>
-      <guid isPermaLink="false">图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</guid>
-      <content:encoded><![CDATA[<a href="图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo" target="_blank">sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。</a>
+      <link>https://github.com/sbarex/MediaInfo</link>
+      <guid>https://github.com/sbarex/MediaInfo</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sbarex/MediaInfo" target="_blank">sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 （图像、视频和音频）、PDF 和 Office 文件的信息。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo" target="_blank">图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</a></li>
+    <li><a href="https://github.com/sbarex/MediaInfo" target="_blank">https://github.com/sbarex/MediaInfo</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>saeedvir/PaL-Server-Info: PHP 和 Laravel(PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置</title>
+      <title>saeedvir/PaL-Server-Info: PHP 和 Laravel（PaL） 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置</title>
       <pubDate>Fri, 06 Feb 2026 16:00:00 +0000</pubDate>
-      <link>PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info</link>
-      <guid isPermaLink="false">PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info</guid>
-      <content:encoded><![CDATA[<a href="PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info" target="_blank">saeedvir/PaL-Server-Info: PHP 和 Laravel(PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置</a>
+      <link>https://github.com/saeedvir/PaL-Server-Info</link>
+      <guid>https://github.com/saeedvir/PaL-Server-Info</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/saeedvir/PaL-Server-Info" target="_blank">saeedvir/PaL-Server-Info: PHP 和 Laravel（PaL） 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info" target="_blank">PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info</a></li>
+    <li><a href="https://github.com/saeedvir/PaL-Server-Info" target="_blank">https://github.com/saeedvir/PaL-Server-Info</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -3507,40 +3533,40 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</title>
+      <title>YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 （用户组） 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</title>
       <pubDate>Sat, 24 Jan 2026 16:00:00 +0000</pubDate>
-      <link>用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</link>
-      <guid isPermaLink="false">用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</guid>
-      <content:encoded><![CDATA[<a href="用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue" target="_blank">YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 (用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</a>
+      <link>https://github.com/YanGusik/laravel-balanced-queue</link>
+      <guid>https://github.com/YanGusik/laravel-balanced-queue</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/YanGusik/laravel-balanced-queue" target="_blank">YanGusik/laravel-balanced-queue: 一个用于队列管理的 Laravel 包，支持在分区 （用户组） 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue" target="_blank">用户组) 之间进行负载均衡。非常适合需要公平作业分配和每个用户/租户的并发控制的场景。](https://github.com/YanGusik/laravel-balanced-queue</a></li>
+    <li><a href="https://github.com/YanGusik/laravel-balanced-queue" target="_blank">https://github.com/YanGusik/laravel-balanced-queue</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 ()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。</title>
+      <title>rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 （)，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。</title>
       <pubDate>Sat, 24 Jan 2026 08:00:00 +0000</pubDate>
-      <link>，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/</link>
-      <guid isPermaLink="false">，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/</guid>
-      <content:encoded><![CDATA[<a href="，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/" target="_blank">rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 ()，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。</a>
+      <link>https://github.com/rNeomy/auto-tab-discard/</link>
+      <guid>https://github.com/rNeomy/auto-tab-discard/</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/rNeomy/auto-tab-discard/" target="_blank">rNeomy/auto-tab-discard: 一个浏览器扩展，使用本地标签页丢弃方法 （)，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/" target="_blank">，自动减少非活动标签页的内存使用。与使用 DOM 替换方法的替代扩展相比，这个扩展更高效，且应该更少出现错误。](https://github.com/rNeomy/auto-tab-discard/</a></li>
+    <li><a href="https://github.com/rNeomy/auto-tab-discard/" target="_blank">https://github.com/rNeomy/auto-tab-discard/</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。</title>
+      <title>Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 （VUE、Inertia、Laravel、Tailwind） 中使用 FilePond 处理文件上传。</title>
       <pubDate>Thu, 22 Jan 2026 16:00:00 +0000</pubDate>
-      <link>VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond</link>
-      <guid isPermaLink="false">VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond</guid>
-      <content:encoded><![CDATA[<a href="VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond" target="_blank">Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 (VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。</a>
+      <link>https://github.com/Mohamed-Galdi/vilt-filepond</link>
+      <guid>https://github.com/Mohamed-Galdi/vilt-filepond</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Mohamed-Galdi/vilt-filepond" target="_blank">Mohamed-Galdi/vilt-filepond: Laravel 包，用于在 VILT 堆栈 （VUE、Inertia、Laravel、Tailwind） 中使用 FilePond 处理文件上传。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond" target="_blank">VUE、Inertia、Laravel、Tailwind) 中使用 FilePond 处理文件上传。](https://github.com/Mohamed-Galdi/vilt-filepond</a></li>
+    <li><a href="https://github.com/Mohamed-Galdi/vilt-filepond" target="_blank">https://github.com/Mohamed-Galdi/vilt-filepond</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -3598,14 +3624,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>xai-org/x-algorithm: 该存储库包含驱动 X 上“为您推荐”动态的核心推荐系统。它结合了网络内内容 (来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。</title>
+      <title>xai-org/x-algorithm: 该存储库包含驱动 X 上“为您推荐”动态的核心推荐系统。它结合了网络内内容 （来自您关注的账户） 和网络外内容 （通过基于机器学习的检索发现），并使用基于 Grok 的变换模型对所有内容进行排名。</title>
       <pubDate>Tue, 20 Jan 2026 16:00:00 +0000</pubDate>
-      <link>来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm</link>
-      <guid isPermaLink="false">来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm</guid>
-      <content:encoded><![CDATA[<a href="来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm" target="_blank">xai-org/x-algorithm: 该存储库包含驱动 X 上“为您推荐”动态的核心推荐系统。它结合了网络内内容 (来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。</a>
+      <link>https://github.com/xai-org/x-algorithm</link>
+      <guid>https://github.com/xai-org/x-algorithm</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/xai-org/x-algorithm" target="_blank">xai-org/x-algorithm: 该存储库包含驱动 X 上“为您推荐”动态的核心推荐系统。它结合了网络内内容 （来自您关注的账户） 和网络外内容 （通过基于机器学习的检索发现），并使用基于 Grok 的变换模型对所有内容进行排名。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm" target="_blank">来自您关注的账户) 和网络外内容 (通过基于机器学习的检索发现)，并使用基于 Grok 的变换模型对所有内容进行排名。](https://github.com/xai-org/x-algorithm</a></li>
+    <li><a href="https://github.com/xai-org/x-algorithm" target="_blank">https://github.com/xai-org/x-algorithm</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -3715,14 +3741,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 (完整的 Playwright API)</title>
+      <title>remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 （完整的 Playwright API）</title>
       <pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
-      <link>完整的 Playwright API)](https://github.com/remorses/playwriter</link>
-      <guid isPermaLink="false">完整的 Playwright API)](https://github.com/remorses/playwriter</guid>
-      <content:encoded><![CDATA[<a href="完整的 Playwright API)](https://github.com/remorses/playwriter" target="_blank">remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 (完整的 Playwright API)</a>
+      <link>https://github.com/remorses/playwriter</link>
+      <guid>https://github.com/remorses/playwriter</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/remorses/playwriter" target="_blank">remorses/playwriter: 像 Playwright MCP，但通过扩展。上下文窗口减少 80%。能力提升 10 倍 （完整的 Playwright API）</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="完整的 Playwright API)](https://github.com/remorses/playwriter" target="_blank">完整的 Playwright API)](https://github.com/remorses/playwriter</a></li>
+    <li><a href="https://github.com/remorses/playwriter" target="_blank">https://github.com/remorses/playwriter</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -3871,14 +3897,14 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建 (通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。</title>
+      <title>cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建 （通过） 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。</title>
       <pubDate>Sun, 11 Jan 2026 08:00:00 +0000</pubDate>
-      <link>通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall</link>
-      <guid isPermaLink="false">通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall</guid>
-      <content:encoded><![CDATA[<a href="通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall" target="_blank">cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建 (通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。</a>
+      <link>https://github.com/cargo-bins/cargo-binstall</link>
+      <guid>https://github.com/cargo-bins/cargo-binstall</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/cargo-bins/cargo-binstall" target="_blank">cargo-bins/cargo-binstall: Binstall 提供了一种低复杂度的机制，用于安装 Rust 二进制文件，作为从源代码构建 （通过） 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall" target="_blank">通过) 或手动下载软件包的替代方案。这旨在与现有的 CI 工件和基础设施配合使用，并对软件包维护者的开销最小。](https://github.com/cargo-bins/cargo-binstall</a></li>
+    <li><a href="https://github.com/cargo-bins/cargo-binstall" target="_blank">https://github.com/cargo-bins/cargo-binstall</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
@@ -4066,27 +4092,27 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Lake1059/FFmpegFreeUI: FFmpegFreeUI(简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。</title>
+      <title>Lake1059/FFmpegFreeUI: FFmpegFreeUI（简称 3FUI） 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。</title>
       <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
-      <link>简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI</link>
-      <guid isPermaLink="false">简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI</guid>
-      <content:encoded><![CDATA[<a href="简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI" target="_blank">Lake1059/FFmpegFreeUI: FFmpegFreeUI(简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。</a>
+      <link>https://github.com/Lake1059/FFmpegFreeUI</link>
+      <guid>https://github.com/Lake1059/FFmpegFreeUI</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank">Lake1059/FFmpegFreeUI: FFmpegFreeUI（简称 3FUI） 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI" target="_blank">简称 3FUI) 是在 Windows 上的 FFmpeg 的专业交互外壳，目前使用。NET 10 运行时以纯 WinForm 框架开发，使用 SunnyUI 和自绘制打造的专业高效的暗黑风格界面。目标做一款轻度专业参数调整的转码软件，让普通人能够通过图形化界面接触到较为全面的通用参数来轻松压制和转换格式。](https://github.com/Lake1059/FFmpegFreeUI</a></li>
+    <li><a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank">https://github.com/Lake1059/FFmpegFreeUI</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
     <item>
-      <title>Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。</title>
+      <title>Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 （想法、疑虑、待办事项、决策） 的工具，这些笔记附加在 Git 提交上。</title>
       <pubDate>Fri, 02 Jan 2026 16:00:00 +0000</pubDate>
-      <link>想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks</link>
-      <guid isPermaLink="false">想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks</guid>
-      <content:encoded><![CDATA[<a href="想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks" target="_blank">Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。</a>
+      <link>https://github.com/Enigama/git-remarks</link>
+      <guid>https://github.com/Enigama/git-remarks</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Enigama/git-remarks" target="_blank">Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 （想法、疑虑、待办事项、决策） 的工具，这些笔记附加在 Git 提交上。</a>
 <h3>相关链接</h3>
 <ul>
-    <li><a href="想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks" target="_blank">想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks</a></li>
+    <li><a href="https://github.com/Enigama/git-remarks" target="_blank">https://github.com/Enigama/git-remarks</a></li>
     <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
 </ul>]]></content:encoded>
       <slash:comments>0</slash:comments>
