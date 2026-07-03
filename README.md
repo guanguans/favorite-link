@@ -15,6 +15,7 @@
 
 ### July 3, 2026 
 - [jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。](https://github.com/jlcodes99/cockpit-tools) 
+- [jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。](https://github.com/jiji262/douyin-downloader) 
 ### June 29, 2026 
 - [Skyearn/BLEUnlock: 使用 iPhone、Apple Watch 或任何其他蓝牙 LE 设备锁定/解锁您的 Mac](https://github.com/Skyearn/BLEUnlock) 
 - [sarensw/MacPacker: 适用于 macOS 的归档管理器。开放源代码，因为基本工具应该是免费的。预览（嵌套）归档文件，无需解压缩。提取单个文件](https://github.com/sarensw/MacPacker) 
