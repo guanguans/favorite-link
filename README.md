@@ -14,6 +14,7 @@
 - [manticorephp/compiler: 用纯 PHP 编写并基于 LLVM 后端的 PHP AOT 编译器](https://github.com/manticorephp/compiler) 
 - [JustSteveKing/signal: Signal 是一个 PHP 库，可以将 PHP 属性转化为动态文档。使用 Signal 的属性为你的类和方法添加注释，然后只需运行一个命令即可生成始终与实际代码一致的 Markdown 和 JSON 文档。](https://github.com/JustSteveKing/signal) 
 - [Devifyo/watchtower: 一个安全用于生产环境的仪表盘，集中管理你的 Laravel 应用后台发生的一切——定时任务、队列与作业，以及错误——并且还能直接修复它们。](https://github.com/Devifyo/watchtower) 
+- [PHPCPD-NEXT/PHPCPD：phpcpd-next 是一个基于令牌的 PHP 8.5+ 代码复制粘贴（克隆）检测工具](https://github.com/phpcpd-next/phpcpd) 
 ### July 3, 2026 
 - [jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。](https://github.com/jlcodes99/cockpit-tools) 
 - [jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐（原声）。](https://github.com/jiji262/douyin-downloader) 
