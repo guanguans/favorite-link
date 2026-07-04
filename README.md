@@ -13,6 +13,9 @@
 
 
 
+
+### July 4, 2026 
+- [manticorephp/compiler: 用纯PHP编写并基于LLVM后端的PHP AOT编译器](https://github.com/manticorephp/compiler) 
 ### July 3, 2026 
 - [jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。](https://github.com/jlcodes99/cockpit-tools) 
 - [jiji262/douyin-downloader: 抖音批量下载工具，去水印，支持视频、图集、合集、音乐（原声）。](https://github.com/jiji262/douyin-downloader) 
