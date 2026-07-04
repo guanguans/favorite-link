@@ -23,6 +23,19 @@
       <slash:comments>0</slash:comments>
     </item>
     <item>
+      <title>JustSteveKing/signal: Signal 是一个 PHP 库，可以将 PHP 属性转化为动态文档。使用 Signal 的属性为你的类和方法添加注释，然后只需运行一个命令即可生成始终与实际代码一致的 Markdown 和 JSON 文档。</title>
+      <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/JustSteveKing/signal</link>
+      <guid>https://github.com/JustSteveKing/signal</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/JustSteveKing/signal" target="_blank">JustSteveKing/signal: Signal 是一个 PHP 库，可以将 PHP 属性转化为动态文档。使用 Signal 的属性为你的类和方法添加注释，然后只需运行一个命令即可生成始终与实际代码一致的 Markdown 和 JSON 文档。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/JustSteveKing/signal" target="_blank">https://github.com/JustSteveKing/signal</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
       <title>jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。</title>
       <pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/jlcodes99/cockpit-tools</link>
