@@ -48,6 +48,23 @@ Markdown 和 JSON 文档。</xhtml:a>
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Devifyo/watchtower: 一个安全用于生产环境的仪表盘，集中管理你的 Laravel 应用后台发生的一切——定时任务、队列与作业，以及错误——并且还能直接修复它们。]]></title>
+    <published>2026-07-03T00:00:00+00:00</published>
+    <updated>2026-07-03T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/Devifyo/watchtower"/>
+    <id>https://github.com/Devifyo/watchtower</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Devifyo/watchtower" target="_blank">Devifyo/watchtower: 一个安全用于生产环境的仪表盘，集中管理你的 Laravel
+应用后台发生的一切——定时任务、队列与作业，以及错误——并且还能直接修复它们。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/Devifyo/watchtower" target="_blank">https://github.com/Devifyo/watchtower</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[jlcodes99/cockpit-tools: 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。]]></title>
     <published>2026-07-02T16:00:00+00:00</published>
     <updated>2026-07-02T16:00:00+00:00</updated>
