@@ -10,6 +10,9 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+
+### July 6, 2026 
+- [fernfei/OnlyofficePersonal: ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。](https://github.com/fernfei/OnlyofficePersonal) 
 ### July 4, 2026 
 - [manticorephp/compiler: 用纯 PHP 编写并基于 LLVM 后端的 PHP AOT 编译器](https://github.com/manticorephp/compiler) 
 - [JustSteveKing/signal: Signal 是一个 PHP 库，可以将 PHP 属性转化为动态文档。使用 Signal 的属性为你的类和方法添加注释，然后只需运行一个命令即可生成始终与实际代码一致的 Markdown 和 JSON 文档。](https://github.com/JustSteveKing/signal) 
