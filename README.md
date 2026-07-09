@@ -11,6 +11,9 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 
+
+### July 9, 2026 
+- [pear-devs/pear-desktop：Pear 🍐 是音乐播放器的扩展](https://github.com/pear-devs/pear-desktop) 
 ### July 6, 2026 
 - [fernfei/OnlyofficePersonal: ONLYOFFICE Personal 是一款基于 wasm 运行的 Office 办公套件，无需服务端直接运行。](https://github.com/fernfei/OnlyofficePersonal) 
 - [alienator88/Sentinel：一个用于控制 Gatekeeper、解隔离应用和签名应用的图形界面。](https://github.com/alienator88/Sentinel) 
