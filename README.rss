@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sun, 05 Jul 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 08 Jul 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>pear-devs/pear-desktop：Pear 🍐 是音乐播放器的扩展</title>
+      <pubDate>Wed, 08 Jul 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/pear-devs/pear-desktop</link>
+      <guid>https://github.com/pear-devs/pear-desktop</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/pear-devs/pear-desktop" target="_blank">pear-devs/pear-desktop：Pear 🍐 是音乐播放器的扩展</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/pear-devs/pear-desktop" target="_blank">https://github.com/pear-devs/pear-desktop</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>fernfei/OnlyofficePersonal: ONLYOFFICE Personal 是一款基于 wasm 运行的 Office 办公套件，无需服务端直接运行。</title>
       <pubDate>Sun, 05 Jul 2026 16:00:00 +0000</pubDate>
