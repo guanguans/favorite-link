@@ -12,6 +12,9 @@
 
 
 
+
+### July 10, 2026 
+- [kisielk/errcheck: errcheck 在 Go 代码中查找被悄悄忽略的错误。](https://github.com/kisielk/errcheck) 
 ### July 9, 2026 
 - [pear-devs/pear-desktop：Pear 🍐 是音乐播放器的扩展](https://github.com/pear-devs/pear-desktop) 
 ### July 6, 2026 
