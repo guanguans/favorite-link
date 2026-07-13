@@ -40,6 +40,8 @@ use Rector\Strict\Rector\Empty_\DisallowedEmptyRuleFixerRector;
 use Rector\Transform\Rector\String_\StringToClassConstantRector;
 use Rector\ValueObject\PhpVersion;
 use RectorLaravel\Rector\ArrayDimFetch\ArrayToArrGetRector;
+use RectorLaravel\Rector\Class_\DescriptionPropertyToDescriptionAttributeRector;
+use RectorLaravel\Rector\Class_\SignaturePropertyToSignatureAttributeRector;
 use RectorLaravel\Rector\Empty_\EmptyToBlankAndFilledFuncRector;
 use RectorLaravel\Rector\FuncCall\HelperFuncCallToFacadeClassRector;
 use RectorLaravel\Rector\If_\ThrowIfRector;
@@ -103,12 +105,12 @@ return RectorConfig::configure()
     ])
     ->withRules([
         ArraySpreadInsteadOfArrayMergeRector::class,
-        EnumCaseToPascalCaseRector::class,
+        // EnumCaseToPascalCaseRector::class,
         GeneratorPropertyFetchToMethodCallRector::class,
         JsonThrowOnErrorRector::class,
         SortAssociativeArrayByKeyRector::class,
-        StaticArrowFunctionRector::class,
-        StaticClosureRector::class,
+        // StaticArrowFunctionRector::class,
+        // StaticClosureRector::class,
     ])
     ->withConfiguredRule(AddNoinspectionDocblockToFileFirstStmtRector::class, [
         '*/tests/*' => [
@@ -136,6 +138,8 @@ return RectorConfig::configure()
     ])
     ->withSkip([
         ContainerBindConcreteWithClosureOnlyRector::class,
+        DescriptionPropertyToDescriptionAttributeRector::class,
+        SignaturePropertyToSignatureAttributeRector::class,
 
         ArrayToArrGetRector::class,
         DispatchToHelperFunctionsRector::class,
@@ -158,11 +162,11 @@ return RectorConfig::configure()
             __DIR__.'/bootstrap/',
             __DIR__.'/tests/',
         ],
-        StaticArrowFunctionRector::class => $staticArrowFunctionPaths = [
-            __DIR__.'/tests/*Test.php',
-            __DIR__.'/tests/Pest.php',
-        ],
-        StaticClosureRector::class => $staticArrowFunctionPaths,
+        // StaticArrowFunctionRector::class => $staticArrowFunctionPaths = [
+        //     __DIR__.'/tests/*Test.php',
+        //     __DIR__.'/tests/Pest.php',
+        // ],
+        // StaticClosureRector::class => $staticArrowFunctionPaths,
         StringToClassConstantRector::class => [
             __DIR__.'/composer-bump',
         ],
