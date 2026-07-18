@@ -17,6 +17,7 @@
 ### July 18, 2026 
 - [boommanpro/gaia-workflow-engine: 一个现代化的可视化规则引擎平台，用于编排复杂的 AI 工作流。在无限画布上设计、测试和部署 AI 流程——无需编写代码。结合 flowgram.ai 的能力与 Java 服务端，提供生产级工作流管理。](https://github.com/boommanpro/gaia-workflow-engine) 
 - [Choochmeque/tauri-plugin-notifications: 一个 Tauri v2 插件，用于在桌面和移动平台发送通知，支持系统通知以及通过 FCM 和 APNs 推送发送。](https://github.com/Choochmeque/tauri-plugin-notifications) 
+- [Licoy/StrokeMouse: macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ](https://github.com/Licoy/StrokeMouse) 
 ### July 16, 2026
 - [Tura-AI/tura：本地开源 AI 编码代理，支持自定义模型提供商、CLI、TUI 和桌面界面，并公开长时程任务的逐轮工具调用、令牌用量、补丁及验证结果。](https://github.com/Tura-AI/tura)
 
