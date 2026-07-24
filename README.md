@@ -14,6 +14,9 @@
 
 
 
+
+### July 24, 2026 
+- [fabpot/json-rpc-peer:  基于amphp的异步双向JSON-RPC 2.0通信，使用行分隔流。](https://github.com/fabpot/json-rpc-peer) 
 ### July 18, 2026 
 - [boommanpro/gaia-workflow-engine: 一个现代化的可视化规则引擎平台，用于编排复杂的 AI 工作流。在无限画布上设计、测试和部署 AI 流程——无需编写代码。结合 flowgram.ai 的能力与 Java 服务端，提供生产级工作流管理。](https://github.com/boommanpro/gaia-workflow-engine) 
 - [Choochmeque/tauri-plugin-notifications: 一个 Tauri v2 插件，用于在桌面和移动平台发送通知，支持系统通知以及通过 FCM 和 APNs 推送发送。](https://github.com/Choochmeque/tauri-plugin-notifications) 
