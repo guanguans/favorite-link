@@ -18,6 +18,7 @@
 
 ### July 31, 2026 
 - [digimata/quill: 极简主义macOS录音+转录。](https://github.com/digimata/quill) 
+- [certimate-go/certimate: 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。](https://github.com/certimate-go/certimate) 
 ### July 24, 2026 
 - [fabpot/json-rpc-peer:  基于amphp的异步双向JSON-RPC 2.0通信，使用行分隔流。](https://github.com/fabpot/json-rpc-peer) 
 ### July 18, 2026 
