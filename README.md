@@ -15,6 +15,9 @@
 
 
 
+
+### July 31, 2026 
+- [digimata/quill: 极简主义macOS录音+转录。](https://github.com/digimata/quill) 
 ### July 24, 2026 
 - [fabpot/json-rpc-peer:  基于amphp的异步双向JSON-RPC 2.0通信，使用行分隔流。](https://github.com/fabpot/json-rpc-peer) 
 ### July 18, 2026 
