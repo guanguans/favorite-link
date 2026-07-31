@@ -37,7 +37,7 @@
         "php": "^8.5",
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^13.1",
-        "illuminate/validation": "^12.63 || ^13.0",
+        "illuminate/validation": "^12.64 || ^13.0",
         "laminas/laminas-feed": "^2.26",
         "laravel-zero/framework": "^12.1"
     },
@@ -48,16 +48,19 @@
         "driftingly/rector-laravel": "^2.5",
         "ergebnis/composer-normalize": "^2.52",
         "ergebnis/license": "^2.7",
-        "ergebnis/php-cs-fixer-config": "^6.62",
+        "ergebnis/php-cs-fixer-config": "^6.63",
         "ergebnis/rector-rules": "^1.18",
         "fakerphp/faker": "^1.24",
         "guanguans/php-cs-fixer-custom-fixers": "^1.2",
         "guanguans/rector-rules": "^1.7",
-        "illuminate/database": "^12.63 || ^13.0",
+        "illuminate/database": "^12.64 || ^13.0",
         "mockery/mockery": "^1.6",
         "mrpunyapal/rector-pest": "^0.2",
-        "pestphp/pest": "^4.7",
+        "pestphp/pest": "^4.7 || ^5.0",
         "rector/swiss-knife": "^2.4"
+    },
+    "suggest": {
+        "pestphp/pest-plugin-rector": "Package mrpunyapal/rector-pest is abandoned, you should avoid using it. Use https://github.com/pestphp/pest-plugin-rector instead."
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -114,8 +117,6 @@
         "app:fix-neon": "Guanguans\\PHPStanRules\\Support\\ComposerScripts::fixNeon",
         "app:lint-readme": "App\\Support\\ComposerScripts::lintReadme",
         "app:parse-phpdoc": "Guanguans\\RectorRules\\Support\\ComposerScripts::parsePhpdoc",
-        "argtyper": "@php vendor/bin/argtyper --ansi -vv",
-        "argtyper:add-types": "@argtyper add-types .",
         "artisan": "@php favorite-link --ansi -v",
         "artisan:app-build": [
             "@composer install --no-dev --no-scripts --ansi -v",
@@ -166,7 +167,7 @@
             "@php-cs-fixer:fix-dry-run",
             "@pest"
         ],
-        "class-leak": "@php vendor/bin/class-leak --ansi -vv",
+        "class-leak": "@php vendor/bin/class-leak",
         "class-leak:check": "@class-leak check config/ app/ --skip-suffix=Music --skip-suffix=ReleaseWorker --skip-suffix=ComposerScripts --skip-suffix=ServerDumper",
         "composer-bump": [
             "@putenv:php",
@@ -213,7 +214,7 @@
         "jack": "@php vendor/bin/jack",
         "jack:breakpoint": "@jack breakpoint --limit=3",
         "jack:breakpoint-dev": "@jack:breakpoint --dev",
-        "jack:open-versions": "@jack open-versions --limit=99",
+        "jack:open-versions": "@jack open-versions --limit=3",
         "jack:open-versions-dev": "@jack:open-versions --dev",
         "jack:open-versions-dev-dry-run": "@jack:open-versions-dev --dry-run",
         "jack:open-versions-dry-run": "@jack:open-versions --dry-run",
@@ -362,7 +363,7 @@
         "rule-doc-generator": "@php rule-doc-generator --ansi -vv",
         "rule-doc-generator:generate": "@rule-doc-generator generate app/Support/Rectors/ --output-file=app/Support/Rectors/rules-overview.md",
         "rule-doc-generator:validate": "@rule-doc-generator validate app/Support/Rectors/",
-        "sk": "@php vendor/bin/swiss-knife --ansi -vv",
+        "sk": "@php vendor/bin/swiss-knife",
         "sk:alice-yaml-fixtures-to-php": "@sk alice-yaml-fixtures-to-php --help",
         "sk:check-commented-code": "@sk check-commented-code app/ --line-limit=6",
         "sk:check-conflicts": "@sk check-conflicts config/ app/",

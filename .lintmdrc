@@ -22,7 +22,7 @@
         "no-empty-blockquote": 2,
         "no-special-characters": 2,
         "use-standard-ellipsis": 2,
-        "no-fullwidth-number": 2,
+        "no-full-width-number": 2,
         "no-space-in-link": 2,
         "no-multiple-space-blockquote": 2,
         "correct-title-trailing-punctuation": 2,
@@ -32,9 +32,14 @@
             {
                 "length": 200,
                 "exclude": [
-                    "dot"
+                    "dot",
+                    "mermaid"
                 ]
             }
-        ]
+        ],
+        "no-half-width-punctuation": 0,
+        "require-trailing-spaces": 0,
+        "space-around-link": 2,
+        "no-multiple-blank-lines": 2
     }
 }
