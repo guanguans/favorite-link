@@ -10,9 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
-
 ### August 1, 2026 
-- [abue-ammar/tinycast: 一个微小、完全原生的macOS启动器、快捷键和剪贴板历史](https://github.com/abue-ammar/tinycast) 
+- [abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史](https://github.com/abue-ammar/tinycast) 
 ### July 31, 2026 
 - [digimata/quill: 极简主义 macOS 录音 + 转录。](https://github.com/digimata/quill) 
 - [certimate-go/certimate: 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。](https://github.com/certimate-go/certimate) 

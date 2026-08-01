@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 30 Jul 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史</title>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/abue-ammar/tinycast</link>
+      <guid>https://github.com/abue-ammar/tinycast</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/abue-ammar/tinycast" target="_blank">abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/abue-ammar/tinycast" target="_blank">https://github.com/abue-ammar/tinycast</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>digimata/quill: 极简主义 macOS 录音 + 转录。</title>
       <pubDate>Thu, 30 Jul 2026 16:00:00 +0000</pubDate>
