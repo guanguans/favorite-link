@@ -11,6 +11,7 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 ### August 1, 2026 
+- [tristan666666/agent-island: AI 编程智能体的状态伴侣，把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 菜单栏](https://github.com/tristan666666/agent-island) 
 - [abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史](https://github.com/abue-ammar/tinycast) 
 ### July 31, 2026 
 - [digimata/quill: 极简主义 macOS 录音 + 转录。](https://github.com/digimata/quill) 
