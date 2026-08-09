@@ -149,14 +149,13 @@ flowgram.ai 的能力与 Java 服务端，提供生产级工作流管理。</xht
     </content>
   </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <title type="html"><![CDATA[Tura-AI/tura：本地开源 AI 编码代理，支持自定义模型提供商、CLI、TUI 和桌面界面，并公开长时程任务的逐轮工具调用、令牌用量、补丁及验证结果。]]></title>
+    <title type="html"><![CDATA[Tura-AI/tura：构建一个令牌使用量减少 80%、能交付更好结果的智能体。]]></title>
     <published>2026-07-15T16:00:00+00:00</published>
     <updated>2026-07-15T16:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Tura-AI/tura"/>
     <id>https://github.com/Tura-AI/tura</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
-      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Tura-AI/tura" target="_blank">Tura-AI/tura：本地开源 AI 编码代理，支持自定义模型提供商、CLI、TUI
-和桌面界面，并公开长时程任务的逐轮工具调用、令牌用量、补丁及验证结果。</xhtml:a>
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/Tura-AI/tura" target="_blank">Tura-AI/tura：构建一个令牌使用量减少 80%、能交付更好结果的智能体。</xhtml:a>
 <xhtml:h3>相关链接</xhtml:h3>
 <xhtml:ul>
 <xhtml:li><xhtml:a href="https://github.com/Tura-AI/tura" target="_blank">https://github.com/Tura-AI/tura</xhtml:a></xhtml:li>
