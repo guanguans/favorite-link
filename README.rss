@@ -10,8 +10,21 @@
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
-      <title>abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史</title>
+      <title>tristan666666/agent-island: AI 编程智能体的状态伴侣，把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 菜单栏</title>
       <pubDate>Fri, 31 Jul 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/tristan666666/agent-island</link>
+      <guid>https://github.com/tristan666666/agent-island</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/tristan666666/agent-island" target="_blank">tristan666666/agent-island: AI 编程智能体的状态伴侣，把 Claude Code、Codex、Gemini、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 菜单栏</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/tristan666666/agent-island" target="_blank">https://github.com/tristan666666/agent-island</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史</title>
+      <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
       <link>https://github.com/abue-ammar/tinycast</link>
       <guid>https://github.com/abue-ammar/tinycast</guid>
       <content:encoded><![CDATA[<a href="https://github.com/abue-ammar/tinycast" target="_blank">abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史</a>
