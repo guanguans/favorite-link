@@ -39,7 +39,7 @@
         "graham-campbell/github": "^13.1",
         "illuminate/validation": "^12.64 || ^13.0",
         "laminas/laminas-feed": "^2.26",
-        "laravel-zero/framework": "^12.1"
+        "laravel-zero/framework": "^13.0"
     },
     "require-dev": {
         "adamwojs/php-cs-fixer-phpdoc-force-fqcn": "^2.0",
