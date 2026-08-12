@@ -37,7 +37,7 @@
         "php": "^8.5",
         "cerbero/command-validator": "^3.0",
         "graham-campbell/github": "^13.1",
-        "illuminate/validation": "^12.64 || ^13.0",
+        "illuminate/validation": "^13.25",
         "laminas/laminas-feed": "^2.26",
         "laravel-zero/framework": "^13.0"
     },
@@ -53,14 +53,11 @@
         "fakerphp/faker": "^1.24",
         "guanguans/php-cs-fixer-custom-fixers": "^1.2",
         "guanguans/rector-rules": "^1.7",
-        "illuminate/database": "^12.64 || ^13.0",
+        "illuminate/database": "^13.25",
         "mockery/mockery": "^1.6",
-        "mrpunyapal/rector-pest": "^0.2",
-        "pestphp/pest": "^4.7 || ^5.0",
+        "pestphp/pest": "^5.1",
+        "pestphp/pest-plugin-rector": "^5.0",
         "rector/swiss-knife": "^2.4"
-    },
-    "suggest": {
-        "pestphp/pest-plugin-rector": "Package mrpunyapal/rector-pest is abandoned, you should avoid using it. Use https://github.com/pestphp/pest-plugin-rector instead."
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
