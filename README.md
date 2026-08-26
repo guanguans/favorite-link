@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### August 26, 2026
+- [A-Box-of-Tools/website: 35 个不上传文件的浏览器工具，涵盖图片、视频、音频、PDF 与文本；每个工具是独立的 PWA，装上后可离线使用，静态站且 JavaScript 没有构建步骤，源码就是浏览器逐字节运行的代码](https://github.com/A-Box-of-Tools/website)
 ### August 1, 2026 
 - [tristan666666/agent-island: AI 编程智能体的状态伴侣，把 Claude Code、Codex、Antigravity、Grok 与 Cursor 的会话状态、轮到你提醒和本机用量收进 Mac 刘海或 Windows 托盘](https://github.com/tristan666666/agent-island) 
 - [abue-ammar/tinycast: 一个微小、完全原生的 macOS 启动器、快捷键和剪贴板历史](https://github.com/abue-ammar/tinycast) 
