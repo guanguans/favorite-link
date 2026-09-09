@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### September 9, 2026
+- [Yudaotor/lyrimuse: macOS 桌面歌词，跟着 Apple Music、QQ 音乐、网易云、酷狗、Spotify 或浏览器里的网页播放器逐字同步显示，九个歌词源的候选统一打分择优，附翻译、粤拼与 Last.fm 听歌记录](https://github.com/Yudaotor/lyrimuse)
 ### August 26, 2026
 - [A-Box-of-Tools/website: 35 个不上传文件的浏览器工具，涵盖图片、视频、音频、PDF 与文本；每个工具是独立的 PWA，装上后可离线使用，静态站且 JavaScript 没有构建步骤，源码就是浏览器逐字节运行的代码](https://github.com/A-Box-of-Tools/website)
 ### August 1, 2026 
