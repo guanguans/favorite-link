@@ -11,6 +11,8 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 ### September 9, 2026
+### September 13, 2026
+- [Continuum-AI-Corp/OrcaReplay: 在 AI 编程 Agent 与模型服务之间的 HTTP 边界、在进程外录下整次运行，之后不调用模型、不需要 API key 就能把同一次运行原样重放；Agent 自己的代码与工具调用照常执行，适配 Claude Code、Codex、Cursor、goose、opencode。注意只阻断模型侧出网，不是沙箱](https://github.com/Continuum-AI-Corp/OrcaReplay)
 - [Yudaotor/lyrimuse: macOS 桌面歌词，跟着 Apple Music、QQ 音乐、网易云、酷狗、Spotify 或浏览器里的网页播放器逐字同步显示，九个歌词源的候选统一打分择优，附翻译、粤拼与 Last.fm 听歌记录](https://github.com/Yudaotor/lyrimuse)
 ### August 26, 2026
 - [A-Box-of-Tools/website: 35 个不上传文件的浏览器工具，涵盖图片、视频、音频、PDF 与文本；每个工具是独立的 PWA，装上后可离线使用，静态站且 JavaScript 没有构建步骤，源码就是浏览器逐字节运行的代码](https://github.com/A-Box-of-Tools/website)
