@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### September 16, 2026
+- [libredb/libredb-studio: 自托管的浏览器端数据库客户端，一条 Docker 命令启动，不用在每台电脑上装客户端。16 个驱动覆盖 42 种引擎，PostgreSQL、MySQL、Oracle、SQL Server、MongoDB、Redis、ClickHouse 都在同一个界面里，AI 助手可接入自有模型或本机 Ollama](https://github.com/libredb/libredb-studio)
 ### September 13, 2026
 - [Continuum-AI-Corp/OrcaReplay: 在 AI 编程 Agent 与模型服务之间的 HTTP 边界、在进程外录下整次运行，之后不调用模型、不需要 API key 就能把同一次运行原样重放；Agent 自己的代码与工具调用照常执行，适配 Claude Code、Codex、Cursor、goose、opencode。注意只阻断模型侧出网，不是沙箱](https://github.com/Continuum-AI-Corp/OrcaReplay)
 ### September 9, 2026
