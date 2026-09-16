@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>libredb/libredb-studio: 自托管的浏览器端数据库客户端，一条 Docker 命令启动，不用在每台电脑上装客户端。16 个驱动覆盖 42 种引擎，PostgreSQL、MySQL、Oracle、SQL Server、MongoDB、Redis、ClickHouse 都在同一个界面里，AI 助手可接入自有模型或本机 Ollama</title>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/libredb/libredb-studio</link>
+      <guid>https://github.com/libredb/libredb-studio</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/libredb/libredb-studio" target="_blank">libredb/libredb-studio: 自托管的浏览器端数据库客户端，一条 Docker 命令启动，不用在每台电脑上装客户端。16 个驱动覆盖 42 种引擎，PostgreSQL、MySQL、Oracle、SQL Server、MongoDB、Redis、ClickHouse 都在同一个界面里，AI 助手可接入自有模型或本机 Ollama</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/libredb/libredb-studio" target="_blank">https://github.com/libredb/libredb-studio</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Continuum-AI-Corp/OrcaReplay: 在 AI 编程 Agent 与模型服务之间的 HTTP 边界、在进程外录下整次运行，之后不调用模型、不需要 API key 就能把同一次运行原样重放；Agent 自己的代码与工具调用照常执行，适配 Claude Code、Codex、Cursor、goose、opencode。注意只阻断模型侧出网，不是沙箱</title>
       <pubDate>Sat, 12 Sep 2026 16:00:00 +0000</pubDate>
