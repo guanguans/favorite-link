@@ -3,12 +3,25 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+    <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>socai-io/jev-social: 本地优先的社交媒体调研 Agent，用 Jev 对每一步操作做类型化路由，通过 socai CLI 在用户自己的 Chrome 会话中搜索 Instagram、TikTok 和 LinkedIn，边抓取边显示帖子证据，最后生成带引用的研究报告</title>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/socai-io/jev-social</link>
+      <guid>https://github.com/socai-io/jev-social</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/socai-io/jev-social" target="_blank">socai-io/jev-social: 本地优先的社交媒体调研 Agent，用 Jev 对每一步操作做类型化路由，通过 socai CLI 在用户自己的 Chrome 会话中搜索 Instagram、TikTok 和 LinkedIn，边抓取边显示帖子证据，最后生成带引用的研究报告</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/socai-io/jev-social" target="_blank">https://github.com/socai-io/jev-social</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>libredb/libredb-studio: 自托管的浏览器端数据库客户端，一条 Docker 命令启动，不用在每台电脑上装客户端。16 个驱动覆盖 42 种引擎，PostgreSQL、MySQL、Oracle、SQL Server、MongoDB、Redis、ClickHouse 都在同一个界面里，AI 助手可接入自有模型或本机 Ollama</title>
       <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
