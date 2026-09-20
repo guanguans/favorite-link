@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### September 20, 2026
+- [socai-io/jev-social: 本地优先的社交媒体调研 Agent，用 Jev 对每一步操作做类型化路由，通过 socai CLI 在用户自己的 Chrome 会话中搜索 Instagram、TikTok 和 LinkedIn，边抓取边显示帖子证据，最后生成带引用的研究报告](https://github.com/socai-io/jev-social)
 ### September 16, 2026
 - [libredb/libredb-studio: 自托管的浏览器端数据库客户端，一条 Docker 命令启动，不用在每台电脑上装客户端。16 个驱动覆盖 42 种引擎，PostgreSQL、MySQL、Oracle、SQL Server、MongoDB、Redis、ClickHouse 都在同一个界面里，AI 助手可接入自有模型或本机 Ollama](https://github.com/libredb/libredb-studio)
 ### September 13, 2026
