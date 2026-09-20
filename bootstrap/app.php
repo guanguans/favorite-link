@@ -20,7 +20,7 @@ use Intonate\TinkerZero\TinkerZeroServiceProvider;
 use LaravelZero\Framework\Application;
 use Psr\Log\LoggerInterface;
 
-return Application::configure(basePath: \dirname(__DIR__))
+return Application::configure(\dirname(__DIR__))
     // ->booted(static function (Application $app): void {
     //     if (class_exists(TinkerZeroServiceProvider::class) && !$app->isProduction()) {
     //         $app->register(TinkerZeroServiceProvider::class);

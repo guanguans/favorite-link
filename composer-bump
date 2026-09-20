@@ -25,6 +25,8 @@ use Symfony\Component\Process\ExecutableFinder;
 use Symfony\Component\Process\PhpExecutableFinder;
 use Symfony\Component\Process\Process;
 
+// error_reporting(\E_ALL & ~\E_DEPRECATED & ~\E_USER_DEPRECATED);
+error_reporting(\E_ALL & ~\E_DEPRECATED);
 file_exists($autoload = __DIR__.'/../../vendor/autoload.php') and require $autoload;
 is_file($composer = __DIR__.'/vendor/bin/composer') and unlink($composer);
 
@@ -41,9 +43,9 @@ $statusCode = (new SingleCommandApplication)
     ->addOption('composer-binary', null, InputOption::VALUE_OPTIONAL)
     ->addOption('except-package', null, InputOption::VALUE_IS_ARRAY | InputOption::VALUE_OPTIONAL)
     ->addOption('except-version', null, InputOption::VALUE_IS_ARRAY | InputOption::VALUE_OPTIONAL)
-    ->setCode(static function (InputInterface $input, OutputInterface $output): void {
+    ->setCode(static function (InputInterface $input, OutputInterface $output): int {
         \assert((bool) $input->getOption('highest-php-binary'));
-        new ComposerBump(
+        (new ComposerBump(
             $input->getOption('composer-json-path') ?: implode(\DIRECTORY_SEPARATOR, [__DIR__, 'composer.json']),
             $input->getOption('php-binary'),
             $input->getOption('highest-php-binary'),
@@ -51,7 +53,9 @@ $statusCode = (new SingleCommandApplication)
             $input->getOption('except-package'),
             $input->getOption('except-version'),
             new SymfonyStyle($input, $output),
-        )();
+        ))();
+
+        return 0;
     })
     ->run();
 
@@ -246,9 +250,12 @@ final readonly class ComposerBump
 
     private function composerFor(?string $composerBinary = null, ?string $phpBinary = null): string
     {
+        // file_exists('vendor/bin/composer') and unlink('vendor/bin/composer');
+
         return implode(' ', [
             escapeshellarg($phpBinary ?? (new PhpExecutableFinder)->find()),
-            // '-d', escapeshellarg('error_reporting=E_ALL &~ E_DEPRECATED'),
+            // '-d', escapeshellarg('error_reporting=E_ALL &~ E_DEPRECATED &~ E_USER_DEPRECATED'),
+            '-d', escapeshellarg('error_reporting=E_ALL &~ E_DEPRECATED'),
             escapeshellarg((string) ($composerBinary ?? (new ExecutableFinder)->find('composer'))),
         ]);
     }

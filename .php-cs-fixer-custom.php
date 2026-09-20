@@ -2,7 +2,6 @@
 
 /** @noinspection PhpPossiblePolymorphicInvocationInspection */
 /** @noinspection PhpUnusedAliasInspection */
-
 declare(strict_types=1);
 
 /**
@@ -90,7 +89,7 @@ return (new Config)
     ])
     ->setFinder(
         Finder::create()
-            ->in(__DIR__)
+            ->in(getcwd())
             ->exclude([
                 '__snapshots__/',
                 'Fixtures/',
@@ -129,7 +128,7 @@ return (new Config)
             // ->sort(static fn (SplFileInfo $a, SplFileInfo $b): int => strnatcmp($a->getExtension(), $b->getExtension()))
             ->sortByName()
     )
-    ->setCacheFile(\sprintf('%s/.build/php-cs-fixer/%s.cache', __DIR__, pathinfo(__FILE__, \PATHINFO_FILENAME)))
+    ->setCacheFile(\sprintf('%s/.build/php-cs-fixer/%s.cache', getcwd(), pathinfo(__FILE__, \PATHINFO_FILENAME)))
     // ->setParallelConfig(ParallelConfigFactory::sequential())
     ->setParallelConfig(ParallelConfigFactory::detect())
     ->setRiskyAllowed(true)
