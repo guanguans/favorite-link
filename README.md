@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### September 26, 2026
+- [amflimited/threadfox-lite: 只读的 Reddit 调研 MCP 服务器与智能体技能，通过用户自己已登录的 Chrome 查询子版块规则（标出自我推广规则）、按主题找社区、检查账号状态和帖子是否仍在；不发帖，无需 API 密钥，适用于 Claude Code、Codex 和 Claude Desktop](https://github.com/amflimited/threadfox-lite)
 ### September 20, 2026
 - [socai-io/jev-social: 本地优先的社交媒体调研 Agent，用 Jev 对每一步操作做类型化路由，通过 socai CLI 在用户自己的 Chrome 会话中搜索 Instagram、TikTok 和 LinkedIn，边抓取边显示帖子证据，最后生成带引用的研究报告](https://github.com/socai-io/jev-social)
 ### September 16, 2026
