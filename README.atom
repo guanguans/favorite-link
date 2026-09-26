@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-09-19T16:00:00+00:00</updated>
+  <updated>2026-09-25T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[amflimited/threadfox-lite: 只读的 Reddit 调研 MCP 服务器与智能体技能，通过用户自己已登录的 Chrome 查询子版块规则（标出自我推广规则）、按主题找社区、检查账号状态和帖子是否仍在；不发帖，无需 API 密钥，适用于 Claude Code、Codex 和 Claude Desktop]]></title>
+    <published>2026-09-25T16:00:00+00:00</published>
+    <updated>2026-09-25T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/amflimited/threadfox-lite"/>
+    <id>https://github.com/amflimited/threadfox-lite</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/amflimited/threadfox-lite" target="_blank">amflimited/threadfox-lite: 只读的 Reddit 调研 MCP
+服务器与智能体技能，通过用户自己已登录的 Chrome
+查询子版块规则（标出自我推广规则）、按主题找社区、检查账号状态和帖子是否仍在；不发帖，无需 API 密钥，适用于 Claude
+Code、Codex 和 Claude Desktop</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/amflimited/threadfox-lite" target="_blank">https://github.com/amflimited/threadfox-lite</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[socai-io/jev-social: 本地优先的社交媒体调研 Agent，用 Jev 对每一步操作做类型化路由，通过 socai CLI 在用户自己的 Chrome 会话中搜索 Instagram、TikTok 和 LinkedIn，边抓取边显示帖子证据，最后生成带引用的研究报告]]></title>
     <published>2026-09-19T16:00:00+00:00</published>
