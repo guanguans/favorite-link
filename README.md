@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### September 29, 2026
+- [YoanWai/agent-manager: 在一个终端界面里并排运行 Claude Code、Codex、OpenCode、Gemini CLI 等编程智能体 CLI，每个会话跑在各自持久的 tmux 会话中。启动的是你本机已安装的原版 CLI，登录、订阅、配置文件和 MCP 服务器照常沿用。会话列表显示实时状态，可为会话单独创建 git worktree，diff 审阅里的行内评论会合并成一条审阅提示发回给智能体。支持 macOS、Linux 以及 WSL2 下的 Windows](https://github.com/YoanWai/agent-manager)
 ### September 26, 2026
 - [amflimited/threadfox-lite: 只读的 Reddit 调研 MCP 服务器与智能体技能，通过用户自己已登录的 Chrome 查询子版块规则（标出自我推广规则）、按主题找社区、检查账号状态和帖子是否仍在；不发帖，无需 API 密钥，适用于 Claude Code、Codex 和 Claude Desktop](https://github.com/amflimited/threadfox-lite)
 ### September 20, 2026
