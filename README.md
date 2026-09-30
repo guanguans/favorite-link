@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### September 30, 2026
+- [Continuum-AI-Corp/OrcaPromptVault: 按产品分目录的系统提示词与工具调用 schema 归档，收的是编码 Agent 与助手真正发到线上的那段文字，工具定义以 JSON 保存可直接 diff；每份文物标明是线上实抓还是厂商公布，带日期，`docs/CAPTURES.md` 给出每份的复现命令。同一产品交互态与无头态的提示词并不一样，库里两份都留](https://github.com/Continuum-AI-Corp/OrcaPromptVault)
 ### September 29, 2026
 - [YoanWai/agent-manager: 在一个终端界面里并排运行 Claude Code、Codex、OpenCode、Gemini CLI 等编程智能体 CLI，每个会话跑在各自持久的 tmux 会话中。启动的是你本机已安装的原版 CLI，登录、订阅、配置文件和 MCP 服务器照常沿用。会话列表显示实时状态，可为会话单独创建 git worktree，diff 审阅里的行内评论会合并成一条审阅提示发回给智能体。支持 macOS、Linux 以及 WSL2 下的 Windows](https://github.com/YoanWai/agent-manager)
 ### September 26, 2026
