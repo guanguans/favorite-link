@@ -10,11 +10,11 @@
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
-      <title>Continuum-AI-Corp/OrcaPromptVault: 按产品分目录的系统提示词与工具调用 schema 归档，收的是编码 Agent 与助手真正发到线上的那段文字，工具定义以 JSON 保存可直接 diff；每份文物标明是线上实抓还是厂商公布，带日期，`docs/CAPTURES.md` 给出每份的复现命令。同一产品交互态与无头态的提示词并不一样，库里两份都留</title>
+      <title>Continuum-AI-Corp/OrcaPromptVault: 按产品分目录的系统提示词与工具调用 schema 归档，收的是编码 Agent 与助手真正发到线上的那段文字，工具定义以 JSON 保存可直接 diff；每份文物标明是线上实抓还是模型自述，带日期，`docs/CAPTURES.md` 给出每份的复现命令。同一产品交互态与无头态的提示词并不一样，库里两份都留</title>
       <pubDate>Tue, 29 Sep 2026 16:00:00 +0000</pubDate>
       <link>https://github.com/Continuum-AI-Corp/OrcaPromptVault</link>
       <guid>https://github.com/Continuum-AI-Corp/OrcaPromptVault</guid>
-      <content:encoded><![CDATA[<a href="https://github.com/Continuum-AI-Corp/OrcaPromptVault" target="_blank">Continuum-AI-Corp/OrcaPromptVault: 按产品分目录的系统提示词与工具调用 schema 归档，收的是编码 Agent 与助手真正发到线上的那段文字，工具定义以 JSON 保存可直接 diff；每份文物标明是线上实抓还是厂商公布，带日期，`docs/CAPTURES.md` 给出每份的复现命令。同一产品交互态与无头态的提示词并不一样，库里两份都留</a>
+      <content:encoded><![CDATA[<a href="https://github.com/Continuum-AI-Corp/OrcaPromptVault" target="_blank">Continuum-AI-Corp/OrcaPromptVault: 按产品分目录的系统提示词与工具调用 schema 归档，收的是编码 Agent 与助手真正发到线上的那段文字，工具定义以 JSON 保存可直接 diff；每份文物标明是线上实抓还是模型自述，带日期，`docs/CAPTURES.md` 给出每份的复现命令。同一产品交互态与无头态的提示词并不一样，库里两份都留</a>
 <h3>相关链接</h3>
 <ul>
     <li><a href="https://github.com/Continuum-AI-Corp/OrcaPromptVault" target="_blank">https://github.com/Continuum-AI-Corp/OrcaPromptVault</a></li>
