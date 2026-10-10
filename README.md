@@ -1,6 +1,6 @@
 # favorite-link
 
-> ❤️ 每天收集喜欢的开源项目。欢迎推荐。
+> ❤️ 每天收集喜欢的开源项目。欢迎 [`PR`](https://github.com/guanguans/favorite-link/pulls) 推荐。
 
 [![feed](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/feed.yml)
 [![mirror](https://github.com/guanguans/favorite-link/actions/workflows/mirror.yml/badge.svg)](https://github.com/guanguans/favorite-link/actions/workflows/mirror.yml)
