@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### October 12, 2026
+- [endNone/ClickPulse: 免费开源的离线键鼠活动统计工具，支持 macOS 和 Windows，提供每日趋势、活动日历、键盘热力图和迷你悬浮窗。数据保存在本机，不记录输入文本或鼠标位置](https://github.com/endNone/ClickPulse)
 ### September 30, 2026
 - [Continuum-AI-Corp/OrcaPromptVault: 按产品分目录的系统提示词与工具调用 schema 归档，收的是编码 Agent 与助手真正发到线上的那段文字，工具定义以 JSON 保存可直接 diff；每份文物标明是线上实抓还是模型自述，带日期，`docs/CAPTURES.md` 给出每份的复现命令。同一产品交互态与无头态的提示词并不一样，库里两份都留](https://github.com/Continuum-AI-Corp/OrcaPromptVault)
 ### September 29, 2026
