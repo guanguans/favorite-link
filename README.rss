@@ -10,8 +10,20 @@
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
-      <title>ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源</title>
+      <title>msmahdinejad/avorythm: MIT 开源的 Chrome 扩展，为选定标签页音频提供 AI 译配和双语字幕，原声与译配可分别调节，另有支持暂停、回看和导出的缓冲播放器。需自备 Gemini API 密钥，Groq 转写可选；音频经同意发送至云端，服务商配额及费用可能适用</title>
       <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/msmahdinejad/avorythm</link>
+      <guid>https://github.com/msmahdinejad/avorythm</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/msmahdinejad/avorythm" target="_blank">msmahdinejad/avorythm: MIT 开源的 Chrome 扩展，为选定标签页音频提供 AI 译配和双语字幕，原声与译配可分别调节，另有支持暂停、回看和导出的缓冲播放器。需自备 Gemini API 密钥，Groq 转写可选；音频经同意发送至云端，服务商配额及费用可能适用</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/msmahdinejad/avorythm" target="_blank">https://github.com/msmahdinejad/avorythm</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源</title>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
       <link>https://github.com/ruanqizhen/anachron</link>
       <guid>https://github.com/ruanqizhen/anachron</guid>
       <content:encoded><![CDATA[<a href="https://github.com/ruanqizhen/anachron" target="_blank">ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源</a>

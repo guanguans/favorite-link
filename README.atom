@@ -13,9 +13,27 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <title type="html"><![CDATA[ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源]]></title>
+    <title type="html"><![CDATA[msmahdinejad/avorythm: MIT 开源的 Chrome 扩展，为选定标签页音频提供 AI 译配和双语字幕，原声与译配可分别调节，另有支持暂停、回看和导出的缓冲播放器。需自备 Gemini API 密钥，Groq 转写可选；音频经同意发送至云端，服务商配额及费用可能适用]]></title>
     <published>2026-10-12T16:00:00+00:00</published>
     <updated>2026-10-12T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/msmahdinejad/avorythm"/>
+    <id>https://github.com/msmahdinejad/avorythm</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/msmahdinejad/avorythm" target="_blank">msmahdinejad/avorythm: MIT 开源的 Chrome 扩展，为选定标签页音频提供 AI
+译配和双语字幕，原声与译配可分别调节，另有支持暂停、回看和导出的缓冲播放器。需自备 Gemini API 密钥，Groq
+转写可选；音频经同意发送至云端，服务商配额及费用可能适用</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/msmahdinejad/avorythm" target="_blank">https://github.com/msmahdinejad/avorythm</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源]]></title>
+    <published>2026-10-12T08:00:00+00:00</published>
+    <updated>2026-10-12T08:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/ruanqizhen/anachron"/>
     <id>https://github.com/ruanqizhen/anachron</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
