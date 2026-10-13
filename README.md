@@ -11,6 +11,7 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 ### October 13, 2026
+- [msmahdinejad/avorythm: MIT 开源的 Chrome 扩展，为选定标签页音频提供 AI 译配和双语字幕，原声与译配可分别调节，另有支持暂停、回看和导出的缓冲播放器。需自备 Gemini API 密钥，Groq 转写可选；音频经同意发送至云端，服务商配额及费用可能适用](https://github.com/msmahdinejad/avorythm)
 - [ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源](https://github.com/ruanqizhen/anachron)
 ### October 12, 2026
 - [endNone/ClickPulse: 免费开源的离线键鼠活动统计工具，支持 macOS 和 Windows，提供每日趋势、活动日历、键盘热力图和迷你悬浮窗。数据保存在本机，不记录输入文本或鼠标位置](https://github.com/endNone/ClickPulse)
