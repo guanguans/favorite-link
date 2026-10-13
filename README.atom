@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-10-11T16:00:00+00:00</updated>
+  <updated>2026-10-12T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源]]></title>
+    <published>2026-10-12T16:00:00+00:00</published>
+    <updated>2026-10-12T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/ruanqizhen/anachron"/>
+    <id>https://github.com/ruanqizhen/anachron</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/ruanqizhen/anachron" target="_blank">ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI
+驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到
+Vercel/Cloudflare，MIT 开源</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/ruanqizhen/anachron" target="_blank">https://github.com/ruanqizhen/anachron</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[endNone/ClickPulse: 免费开源的离线键鼠活动统计工具，支持 macOS 和 Windows，提供每日趋势、活动日历、键盘热力图和迷你悬浮窗。数据保存在本机，不记录输入文本或鼠标位置]]></title>
     <published>2026-10-11T16:00:00+00:00</published>
