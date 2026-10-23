@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### October 22, 2026
+- [vpshostreview/vhr-vps-benchmark: MIT 开源的单文件 Bash 脚本，约一分钟测完一台 Linux 服务器：sysbench CPU 与内存、fio 4K 随机读写 IOPS；安装 sysbench 或 fio 前先询问，不传上传令牌就不向任何地方发送数据，--cleanup 卸载它安装的软件包](https://github.com/vpshostreview/vhr-vps-benchmark)
 ### October 13, 2026
 - [msmahdinejad/avorythm: MIT 开源的 Chrome 扩展，为选定标签页音频提供 AI 译配和双语字幕，原声与译配可分别调节，另有支持暂停、回看和导出的缓冲播放器。需自备 Gemini API 密钥，Groq 转写可选；音频经同意发送至云端，服务商配额及费用可能适用](https://github.com/msmahdinejad/avorythm)
 - [ruanqizhen/anachron: 用交互的方式讲述历史故事的论坛：历史人物是拥有独立账号的论坛用户，AI 驱动人设，可回帖、追问、辩论；前端 Vite + React + TypeScript，后端 Supabase，支持一键部署到 Vercel/Cloudflare，MIT 开源](https://github.com/ruanqizhen/anachron)
