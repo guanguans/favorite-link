@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### October 23, 2026
+- [MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP 服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理](https://github.com/MGM-FALCON/quelllm-mcp)
 ### October 22, 2026
 - [vpshostreview/vhr-vps-benchmark: MIT 开源的单文件 Bash 脚本，约一分钟测完一台 Linux 服务器：sysbench CPU 与内存、fio 4K 随机读写 IOPS；安装 sysbench 或 fio 前先询问，不传上传令牌就不向任何地方发送数据，--cleanup 卸载它安装的软件包](https://github.com/vpshostreview/vhr-vps-benchmark)
 ### October 13, 2026
