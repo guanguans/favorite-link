@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-10-21T16:00:00+00:00</updated>
+  <updated>2026-10-22T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,23 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP 服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理]]></title>
+    <published>2026-10-22T16:00:00+00:00</published>
+    <updated>2026-10-22T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/MGM-FALCON/quelllm-mcp"/>
+    <id>https://github.com/MGM-FALCON/quelllm-mcp</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/MGM-FALCON/quelllm-mcp" target="_blank">MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP
+服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/MGM-FALCON/quelllm-mcp" target="_blank">https://github.com/MGM-FALCON/quelllm-mcp</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[vpshostreview/vhr-vps-benchmark: MIT 开源的单文件 Bash 脚本，约一分钟测完一台 Linux 服务器：sysbench CPU 与内存、fio 4K 随机读写 IOPS；安装 sysbench 或 fio 前先询问，不传上传令牌就不向任何地方发送数据，--cleanup 卸载它安装的软件包]]></title>
     <published>2026-10-21T16:00:00+00:00</published>

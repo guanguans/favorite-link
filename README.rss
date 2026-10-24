@@ -3,12 +3,24 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP 服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理</title>
+      <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/MGM-FALCON/quelllm-mcp</link>
+      <guid>https://github.com/MGM-FALCON/quelllm-mcp</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/MGM-FALCON/quelllm-mcp" target="_blank">MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP 服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/MGM-FALCON/quelllm-mcp" target="_blank">https://github.com/MGM-FALCON/quelllm-mcp</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>vpshostreview/vhr-vps-benchmark: MIT 开源的单文件 Bash 脚本，约一分钟测完一台 Linux 服务器：sysbench CPU 与内存、fio 4K 随机读写 IOPS；安装 sysbench 或 fio 前先询问，不传上传令牌就不向任何地方发送数据，--cleanup 卸载它安装的软件包</title>
       <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
