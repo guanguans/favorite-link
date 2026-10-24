@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### October 24, 2026
+- [f-o-x11/deed-page-skill: MIT 开源的 Agent Skill 与远程 MCP 服务器说明，让 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体用一次 curl 请求把静态 HTML 文件或文件夹发布成永久的 deed.page 公开 HTTPS 链接；无需账号或 API Key](https://github.com/f-o-x11/deed-page-skill)
 ### October 23, 2026
 - [MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP 服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理](https://github.com/MGM-FALCON/quelllm-mcp)
 ### October 22, 2026
