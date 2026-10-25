@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-10-23T16:00:00+00:00</updated>
+  <updated>2026-10-24T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,25 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[orbi-build/orbi: AGPL-3.0 开源、可自托管的 AI 软件交付工具：给 GitHub Issue 打上 ai-ready 标签，编码智能体在隔离工作区实现并跑测试、提 PR，另一个独立的 AI 会话审查并修复，合并闸门核对审查过的提交和 CI 后再合并；发版、部署也可交给它，每条命令和输出都留在 issue 上。可接入自有模型配置，也有托管的 Orbi Cloud]]></title>
+    <published>2026-10-24T16:00:00+00:00</published>
+    <updated>2026-10-24T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/orbi-build/orbi"/>
+    <id>https://github.com/orbi-build/orbi</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/orbi-build/orbi" target="_blank">orbi-build/orbi: AGPL-3.0 开源、可自托管的 AI 软件交付工具：给 GitHub
+Issue 打上 ai-ready 标签，编码智能体在隔离工作区实现并跑测试、提 PR，另一个独立的 AI
+会话审查并修复，合并闸门核对审查过的提交和 CI 后再合并；发版、部署也可交给它，每条命令和输出都留在 issue
+上。可接入自有模型配置，也有托管的 Orbi Cloud</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/orbi-build/orbi" target="_blank">https://github.com/orbi-build/orbi</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[f-o-x11/deed-page-skill: MIT 开源的 Agent Skill 与远程 MCP 服务器说明，让 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体用一次 curl 请求把静态 HTML 文件或文件夹发布成永久的 deed.page 公开 HTTPS 链接；无需账号或 API Key]]></title>
     <published>2026-10-23T16:00:00+00:00</published>
