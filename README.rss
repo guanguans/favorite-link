@@ -3,12 +3,24 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>f-o-x11/deed-page-skill: MIT 开源的 Agent Skill 与远程 MCP 服务器说明，让 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体用一次 curl 请求把静态 HTML 文件或文件夹发布成永久的 deed.page 公开 HTTPS 链接；无需账号或 API Key</title>
+      <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/f-o-x11/deed-page-skill</link>
+      <guid>https://github.com/f-o-x11/deed-page-skill</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/f-o-x11/deed-page-skill" target="_blank">f-o-x11/deed-page-skill: MIT 开源的 Agent Skill 与远程 MCP 服务器说明，让 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体用一次 curl 请求把静态 HTML 文件或文件夹发布成永久的 deed.page 公开 HTTPS 链接；无需账号或 API Key</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/f-o-x11/deed-page-skill" target="_blank">https://github.com/f-o-x11/deed-page-skill</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>MGM-FALCON/quelllm-mcp: MIT 开源的 Python stdio MCP 服务器，查询/对比模型元数据，启发式估算显存和费用；依赖 QuelLLM 远程 API，不执行推理</title>
       <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
