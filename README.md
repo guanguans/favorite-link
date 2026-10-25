@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### October 25, 2026
+- [orbi-build/orbi: AGPL-3.0 开源、可自托管的 AI 软件交付工具：给 GitHub Issue 打上 ai-ready 标签，编码智能体在隔离工作区实现并跑测试、提 PR，另一个独立的 AI 会话审查并修复，合并闸门核对审查过的提交和 CI 后再合并；发版、部署也可交给它，每条命令和输出都留在 issue 上。可接入自有模型配置，也有托管的 Orbi Cloud](https://github.com/orbi-build/orbi)
 ### October 24, 2026
 - [f-o-x11/deed-page-skill: MIT 开源的 Agent Skill 与远程 MCP 服务器说明，让 Claude Code、Codex、Cursor、Gemini CLI 等编码智能体用一次 curl 请求把静态 HTML 文件或文件夹发布成永久的 deed.page 公开 HTTPS 链接；无需账号或 API Key](https://github.com/f-o-x11/deed-page-skill)
 ### October 23, 2026
