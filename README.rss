@@ -10,8 +10,20 @@
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
     <item>
-      <title>Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据</title>
+      <title>tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠</title>
       <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/tumingke0/LayoutKeeper</link>
+      <guid>https://github.com/tumingke0/LayoutKeeper</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/tumingke0/LayoutKeeper" target="_blank">tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/tumingke0/LayoutKeeper" target="_blank">https://github.com/tumingke0/LayoutKeeper</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据</title>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
       <link>https://github.com/Atoll92/agent-standup</link>
       <guid>https://github.com/Atoll92/agent-standup</guid>
       <content:encoded><![CDATA[<a href="https://github.com/Atoll92/agent-standup" target="_blank">Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据</a>

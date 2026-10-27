@@ -13,9 +13,27 @@
     <uri>https://github.com/guanguans</uri>
   </author>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <title type="html"><![CDATA[Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据]]></title>
+    <title type="html"><![CDATA[tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠]]></title>
     <published>2026-10-26T16:00:00+00:00</published>
     <updated>2026-10-26T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tumingke0/LayoutKeeper"/>
+    <id>https://github.com/tumingke0/LayoutKeeper</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/tumingke0/LayoutKeeper" target="_blank">tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS
+外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple
+Silicon 按机身接口自动切换显示器排列及合盖防休眠</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/tumingke0/LayoutKeeper" target="_blank">https://github.com/tumingke0/LayoutKeeper</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据]]></title>
+    <published>2026-10-26T08:00:00+00:00</published>
+    <updated>2026-10-26T08:00:00+00:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/Atoll92/agent-standup"/>
     <id>https://github.com/Atoll92/agent-standup</id>
     <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
