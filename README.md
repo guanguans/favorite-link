@@ -11,6 +11,7 @@
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
 ### October 27, 2026
+- [tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠](https://github.com/tumingke0/LayoutKeeper)
 - [Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据](https://github.com/Atoll92/agent-standup)
 ### October 25, 2026
 - [orbi-build/orbi: AGPL-3.0 开源、可自托管的 AI 软件交付工具：给 GitHub Issue 打上 ai-ready 标签，编码智能体在隔离工作区实现并跑测试、提 PR，另一个独立的 AI 会话审查并修复，合并闸门核对审查过的提交和 CI 后再合并；发版、部署也可交给它，每条命令和输出都留在 issue 上。可接入自有模型配置，也有托管的 Orbi Cloud](https://github.com/orbi-build/orbi)
