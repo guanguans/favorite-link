@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### October 28, 2026
+- [sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux 和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经 transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经 sherpa-onnx），也可以用云端服务，AI 润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。](https://github.com/sunerpy/voltip)
 ### October 27, 2026
 - [tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠](https://github.com/tumingke0/LayoutKeeper)
 - [Atoll92/agent-standup: MIT 开源的 VS Code 扩展、命令行和 macOS 应用，读取 Claude Code、Codex 和 Mistral Vibe 本来就写在本地的会话文件，把它们演成一场实时团队通话：每个智能体是一个会说话的小角色，干活时共享屏幕显示真实命令输出和 diff，一眼看出谁在工作、谁卡住了、谁在等你，并显示每个智能体的 token 用量；不消耗 token，默认不发送任何数据](https://github.com/Atoll92/agent-standup)
