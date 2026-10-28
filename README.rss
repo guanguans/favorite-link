@@ -3,12 +3,24 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux 和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经 transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经 sherpa-onnx），也可以用云端服务，AI 润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。</title>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/sunerpy/voltip</link>
+      <guid>https://github.com/sunerpy/voltip</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sunerpy/voltip" target="_blank">sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux 和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经 transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经 sherpa-onnx），也可以用云端服务，AI 润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sunerpy/voltip" target="_blank">https://github.com/sunerpy/voltip</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠</title>
       <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-10-26T16:00:00+00:00</updated>
+  <updated>2026-10-27T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,26 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux 和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经 transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经 sherpa-onnx），也可以用云端服务，AI 润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。]]></title>
+    <published>2026-10-27T16:00:00+00:00</published>
+    <updated>2026-10-27T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/sunerpy/voltip"/>
+    <id>https://github.com/sunerpy/voltip</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://github.com/sunerpy/voltip" target="_blank">sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux
+和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经
+transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经
+sherpa-onnx），也可以用云端服务，AI
+润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://github.com/sunerpy/voltip" target="_blank">https://github.com/sunerpy/voltip</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[tumingke0/LayoutKeeper: GPL-3.0 开源的 macOS 外接显示器窗口与多桌面布局自动恢复工具，拔插显示器或睡眠唤醒后自动将窗口还原到原来的屏幕、桌面空间与坐标，支持 Apple Silicon 按机身接口自动切换显示器排列及合盖防休眠]]></title>
     <published>2026-10-26T16:00:00+00:00</published>
