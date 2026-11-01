@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### November 1, 2026
+- [vostride/agent-qa: 用自然语言测试网页与移动应用的 QA CLI，内置持久化记忆与自我改进，并提供本地 stdio MCP；需 Node.js 24+。早期项目，FSL-1.1-ALv2 限制竞争性商业使用，模型与设备费用另计](https://vostride.com)
 ### October 28, 2026
 - [sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux 和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经 transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经 sherpa-onnx），也可以用云端服务，AI 润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。](https://github.com/sunerpy/voltip)
 ### October 27, 2026
