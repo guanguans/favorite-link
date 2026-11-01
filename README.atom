@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">❤️ 每天收集喜欢的开源项目</title>
   <subtitle type="text">❤️ 每天收集喜欢的开源项目</subtitle>
-  <updated>2026-10-27T16:00:00+00:00</updated>
+  <updated>2026-10-31T16:00:00+00:00</updated>
   <generator uri="https://getlaminas.org" version="2">Laminas_Feed_Writer</generator>
   <link rel="alternate" type="text/html" href="https://github.com/guanguans/favorite-link"/>
   <link rel="self" type="application/atom+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom"/>
@@ -12,6 +12,24 @@
     <email>ityaozm@gmail.com</email>
     <uri>https://github.com/guanguans</uri>
   </author>
+  <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <title type="html"><![CDATA[vostride/agent-qa: 用自然语言测试网页与移动应用的 QA CLI，内置持久化记忆与自我改进，并提供本地 stdio MCP；需 Node.js 24+。早期项目，FSL-1.1-ALv2 限制竞争性商业使用，模型与设备费用另计]]></title>
+    <published>2026-10-31T16:00:00+00:00</published>
+    <updated>2026-10-31T16:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://vostride.com"/>
+    <id>https://vostride.com</id>
+    <content xmlns:xhtml="http://www.w3.org/1999/xhtml" type="xhtml">
+      <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml"><xhtml:a href="https://vostride.com" target="_blank">vostride/agent-qa:
+用自然语言测试网页与移动应用的 QA CLI，内置持久化记忆与自我改进，并提供本地 stdio MCP；需 Node.js
+24+。早期项目，FSL-1.1-ALv2 限制竞争性商业使用，模型与设备费用另计</xhtml:a>
+<xhtml:h3>相关链接</xhtml:h3>
+<xhtml:ul>
+<xhtml:li><xhtml:a href="https://vostride.com" target="_blank">https://vostride.com</xhtml:a></xhtml:li>
+<xhtml:li><xhtml:a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</xhtml:a></xhtml:li>
+</xhtml:ul>
+</xhtml:div>
+    </content>
+  </entry>
   <entry xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <title type="html"><![CDATA[sunerpy/voltip: AGPL-3.0 开源的语音输入工具，支持 Windows、macOS、Linux 和 Android：在任意应用里按住快捷键说话，松开后文字粘贴到光标处；识别可以用本机模型离线完成（Qwen3-ASR 经 transcribe.cpp 用 Vulkan 或 Metal 加速，SenseVoice、Paraformer 经 sherpa-onnx），也可以用云端服务，AI 润色去掉口头禅和说错后改口的部分；手机配对后可以当电脑的麦克风和键盘，音频端到端加密。]]></title>
     <published>2026-10-27T16:00:00+00:00</published>
