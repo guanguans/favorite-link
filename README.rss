@@ -3,12 +3,24 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
+    <pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>ateymoori/lyricglow: MIT 开源的 macOS 菜单栏同步歌词工具，支持 Spotify 和 Apple Music，逐词卡拉 OK 高亮，歌词可翻译成 43 种语言（含从右到左文字），显示歌手信息和专辑封面；免费，无需账号</title>
+      <pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/ateymoori/lyricglow</link>
+      <guid>https://github.com/ateymoori/lyricglow</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/ateymoori/lyricglow" target="_blank">ateymoori/lyricglow: MIT 开源的 macOS 菜单栏同步歌词工具，支持 Spotify 和 Apple Music，逐词卡拉 OK 高亮，歌词可翻译成 43 种语言（含从右到左文字），显示歌手信息和专辑封面；免费，无需账号</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/ateymoori/lyricglow" target="_blank">https://github.com/ateymoori/lyricglow</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>vostride/agent-qa: 用自然语言测试网页与移动应用的 QA CLI，内置持久化记忆与自我改进，并提供本地 stdio MCP；需 Node.js 24+。早期项目，FSL-1.1-ALv2 限制竞争性商业使用，模型与设备费用另计</title>
       <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
