@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### November 3, 2026
+- [ateymoori/lyricglow: MIT 开源的 macOS 菜单栏同步歌词工具，支持 Spotify 和 Apple Music，逐词卡拉 OK 高亮，歌词可翻译成 43 种语言（含从右到左文字），显示歌手信息和专辑封面；免费，无需账号](https://github.com/ateymoori/lyricglow)
 ### November 1, 2026
 - [vostride/agent-qa: 用自然语言测试网页与移动应用的 QA CLI，内置持久化记忆与自我改进，并提供本地 stdio MCP；需 Node.js 24+。早期项目，FSL-1.1-ALv2 限制竞争性商业使用，模型与设备费用另计](https://vostride.com)
 ### October 28, 2026
