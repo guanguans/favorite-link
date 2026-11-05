@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### November 5, 2026
+- [SiftingIO/sdk-typescript: SiftingIO 官方 TypeScript SDK，带请求和响应类型，支持 REST、WebSocket 及 Node.js 18+ 和浏览器运行环境，接入美国股票与 ETF、外汇、大宗商品和加密货币的实时行情与历史数据。客户端代码采用 MIT 许可证；数据访问需要账户和 API Key，免费套餐也有权限和配额限制](https://github.com/SiftingIO/sdk-typescript)
 ### November 3, 2026
 - [ateymoori/lyricglow: MIT 开源的 macOS 菜单栏同步歌词工具，支持 Spotify 和 Apple Music，逐词卡拉 OK 高亮，歌词可翻译成 43 种语言（含从右到左文字），显示歌手信息和专辑封面；免费，无需账号](https://github.com/ateymoori/lyricglow)
 ### November 1, 2026
