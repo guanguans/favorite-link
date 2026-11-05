@@ -3,12 +3,24 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
+    <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>SiftingIO/sdk-typescript: SiftingIO 官方 TypeScript SDK，带请求和响应类型，支持 REST、WebSocket 及 Node.js 18+ 和浏览器运行环境，接入美国股票与 ETF、外汇、大宗商品和加密货币的实时行情与历史数据。客户端代码采用 MIT 许可证；数据访问需要账户和 API Key，免费套餐也有权限和配额限制</title>
+      <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/SiftingIO/sdk-typescript</link>
+      <guid>https://github.com/SiftingIO/sdk-typescript</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/SiftingIO/sdk-typescript" target="_blank">SiftingIO/sdk-typescript: SiftingIO 官方 TypeScript SDK，带请求和响应类型，支持 REST、WebSocket 及 Node.js 18+ 和浏览器运行环境，接入美国股票与 ETF、外汇、大宗商品和加密货币的实时行情与历史数据。客户端代码采用 MIT 许可证；数据访问需要账户和 API Key，免费套餐也有权限和配额限制</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/SiftingIO/sdk-typescript" target="_blank">https://github.com/SiftingIO/sdk-typescript</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>ateymoori/lyricglow: MIT 开源的 macOS 菜单栏同步歌词工具，支持 Spotify 和 Apple Music，逐词卡拉 OK 高亮，歌词可翻译成 43 种语言（含从右到左文字），显示歌手信息和专辑封面；免费，无需账号</title>
       <pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
