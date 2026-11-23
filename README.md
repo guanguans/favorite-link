@@ -10,6 +10,8 @@
 | [README.rss](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss)   | [README.rss](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.rss)   |
 | [README.atom](https://raw.githubusercontent.com/guanguans/favorite-link/master/README.atom) | [README.atom](https://gitlab.com/yzmguanguan/favorite-link/-/raw/master/README.atom) |
 
+### November 24, 2026
+- [sunerpy/pt-tools: MIT 开源的 PT 站点自动化工具，一个 Docker 容器（或 Linux、Windows 二进制）完成 RSS 下载、刷流、IYUU 辅种、每日签到、封号前提醒和各站数据统计，统一管理多台 qBittorrent 和 Transmission；订阅电影、按播出时间追剧，下载完硬链接进媒体库并写 NFO 和海报；内置可接任意 OpenAI 兼容模型的 AI 助手（改动先确认再执行）和 MCP 接口；Android App 扫码配对，端到端加密。](https://github.com/sunerpy/pt-tools)
 ### November 5, 2026
 - [SiftingIO/sdk-typescript: SiftingIO 官方 TypeScript SDK，带请求和响应类型，支持 REST、WebSocket 及 Node.js 18+ 和浏览器运行环境，接入美国股票与 ETF、外汇、大宗商品和加密货币的实时行情与历史数据。客户端代码采用 MIT 许可证；数据访问需要账户和 API Key，免费套餐也有权限和配额限制](https://github.com/SiftingIO/sdk-typescript)
 ### November 3, 2026
