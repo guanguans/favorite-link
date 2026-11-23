@@ -3,12 +3,24 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 04:27:27 +0800</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>sunerpy/pt-tools: MIT 开源的 PT 站点自动化工具，一个 Docker 容器（或 Linux、Windows 二进制）完成 RSS 下载、刷流、IYUU 辅种、每日签到、封号前提醒和各站数据统计，统一管理多台 qBittorrent 和 Transmission；订阅电影、按播出时间追剧，下载完硬链接进媒体库并写 NFO 和海报；内置可接任意 OpenAI 兼容模型的 AI 助手（改动先确认再执行）和 MCP 接口；Android App 扫码配对，端到端加密。</title>
+      <pubDate>Tue, 24 Nov 2026 04:27:27 +0800</pubDate>
+      <link>https://github.com/sunerpy/pt-tools</link>
+      <guid>https://github.com/sunerpy/pt-tools</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/sunerpy/pt-tools" target="_blank">sunerpy/pt-tools: MIT 开源的 PT 站点自动化工具，一个 Docker 容器（或 Linux、Windows 二进制）完成 RSS 下载、刷流、IYUU 辅种、每日签到、封号前提醒和各站数据统计，统一管理多台 qBittorrent 和 Transmission；订阅电影、按播出时间追剧，下载完硬链接进媒体库并写 NFO 和海报；内置可接任意 OpenAI 兼容模型的 AI 助手（改动先确认再执行）和 MCP 接口；Android App 扫码配对，端到端加密。</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/sunerpy/pt-tools" target="_blank">https://github.com/sunerpy/pt-tools</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>SiftingIO/sdk-typescript: SiftingIO 官方 TypeScript SDK，带请求和响应类型，支持 REST、WebSocket 及 Node.js 18+ 和浏览器运行环境，接入美国股票与 ETF、外汇、大宗商品和加密货币的实时行情与历史数据。客户端代码采用 MIT 许可证；数据访问需要账户和 API Key，免费套餐也有权限和配额限制</title>
       <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
